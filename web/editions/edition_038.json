@@ -1,0 +1,479 @@
+{
+  "num": "038",
+  "date": "2026-04-24",
+  "status": "published",
+  "schedule": {
+    "date": "2026-04-24",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "서든 스트라이크 5",
+          "dev": "카이트 게임즈",
+          "date": "4월 23일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "2차 세계대전을 배경으로 하는 실시간 전략 게임(RTS) 시리즈의 최신작이 4월 23일 PC 버전으로 정식 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315772",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "컨트롤 (Control)",
+          "dev": "레메디 엔터테인먼트",
+          "date": "4월 23일(목)",
+          "platforms": [
+            "iOS",
+            "Mac"
+          ],
+          "color": "#10b981",
+          "note": "레메디의 대표 액션 어드벤처 게임 '컨트롤'이 애플 앱스토어를 통해 아이폰, 아이패드 및 맥용 모바일 버전으로 정식 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1774427",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "마스터즈 오브 알비온",
+          "dev": "22cans",
+          "date": "4월 23일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "피터 몰리뉴의 신작 고드 게임으로, 낮에는 마을을 건설하고 밤에는 적들로부터 마을을 방어하는 시스템을 특징으로 하며 스팀 얼리 액세스를 시작했습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1774398",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "우리들의 킹덤",
+          "dev": "인티 크리에이츠",
+          "date": "4월 23일(목)",
+          "platforms": [
+            "PC",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "시간을 먹는 열매와 고대의 마물을 주제로 한 횡스크롤 액션 RPG 신작이 23일 정식 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1774393",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "시크릿 썸",
+          "dev": "애프터타임, 큰꼬리빌리지",
+          "date": "4월 23일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "네 명의 여고생과 벌이는 비밀 연애를 다룬 미소녀 연애 시뮬레이션 게임으로, 23일 오전 10시 스팀과 스토브에 정식 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315776",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "리틀 나이트메어 VR",
+          "dev": "타르시에 스튜디오",
+          "date": "4월 24일(금)",
+          "platforms": [
+            "PC VR",
+            "PS VR2"
+          ],
+          "color": "#10b981",
+          "note": "인기 호러 어드벤처 시리즈를 1인칭 VR 시점으로 재해석하여 더욱 생생한 공포를 제공하는 신작이 24일 정식 출시되었습니다.",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202604/72900",
+          "source_name": "Famitsu"
+        }
+      ],
+      "events": [
+        {
+          "name": "2026 아시아 e스포츠 대회",
+          "note": "문화체육관광부 주최, 아시안게임을 대비한 국가대표급 선수들이 참여하는 e스포츠 매치",
+          "venue": "경상남도 진주시 (진주종합경기장 일대)",
+          "date": "2026-04-24 ~ 2026-04-26",
+          "tag": "e스포츠",
+          "website": "https://www.gamemeca.com/view.php?gid=1774399"
+        },
+        {
+          "name": "국제 인디 게임 전시회 '비트서밋 펀치 (BitSummit PUNCH)'",
+          "note": "일본 최대 규모 인디 게임 제전, 행사장 맵 및 주요 이벤트 정보 공개",
+          "venue": "일본 교토",
+          "date": "2026-05-22 ~ 2026-05-24",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=315765"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "personnel",
+          "tag": "이슈",
+          "title": "엔씨 노사, 임금 300만원 인상 및 주 4.5일제 검토 합의",
+          "source": "인벤",
+          "time": "4월 23일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315773"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "넥슨, '바람의나라' IP 활용 신작 '프로젝트 BB' 가동",
+          "source": "인벤",
+          "time": "4월 23일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315783"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "1인칭 내러티브 불렛헬 '루나 어비스', 출시일 발표",
+          "source": "IGN India",
+          "time": "4월 24일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/luna-abyss/259267/luna-abyss-official-release-date-trailer"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "미소녀 게임 명가 Key, 신작 'anemoi' 정식 출시",
+          "source": "4Gamer",
+          "time": "4월 24일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/753/G075391/20260424001/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'뱀서' 개발사 폰클, 일본 스튜디오 설립 및 체제 강화",
+          "source": "4Gamer",
+          "time": "4월 23일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/963/G096302/20260423036/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "어쌔신 크리드 4 블랙 플래그 리메이크, 7월 9일 출시",
+          "source": "PC Gamer",
+          "time": "4월 24일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/assassins-creed/black-flag-resynced-guide/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "닌텐도 스위치 2 효과, 3월 美 하드웨어 매출 69% 급증",
+          "source": "GamesIndustry.biz",
+          "time": "4월 23일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/us-hardware-sales-rose-69-in-march-2026-following-strong-switch-2-performance-us-monthly-charts"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": [],
+      "items": [
+        {
+          "game": "AION2",
+          "period": "최근 30일",
+          "count": "2,351",
+          "sources": "커뮤니티",
+          "score": "2.7",
+          "pos": 7,
+          "neu": 70,
+          "neg": 24,
+          "keywords": [
+            {
+              "text": "Class Mention",
+              "positive": true
+            },
+            {
+              "text": "DPS Comparison",
+              "positive": true
+            },
+            {
+              "text": "Dungeon / Raid Discussion",
+              "positive": true
+            },
+            {
+              "text": "Buff/Nerf Debate",
+              "positive": true
+            },
+            {
+              "text": "Currency",
+              "positive": true
+            }
+          ],
+          "comments": [
+            {
+              "text": "패치 수치가 너무 두루뭉술해서 공책 게임 하는 기분이에요.",
+              "positive": false
+            },
+            {
+              "text": "종족 불균형이 너무 심해서 퀘스트를 도저히 깰 수가 없어요.",
+              "positive": false
+            },
+            {
+              "text": "최근 방송을 보니 직업별 딜 밸런스는 생각보다 잘 맞나 봐요.",
+              "positive": true
+            }
+          ]
+        }
+      ]
+    },
+    "drk": {
+      "enabled": true,
+      "title": "레거시 IP의 재조명과 하드웨어 세대교체가 만드는 새로운 시장 공식",
+      "intro": "오래된 명작이 최신 기기를 만날 때 발생하는 폭발적인 시너지를 주목하십시오. \n시장은 지금 혁신보다 '검증된 가치의 재발견'에 더 큰 가중치를 두고 있습니다.",
+      "points": "최근 게임 시장은 '어쌔신 크리드 4' 리메이크와 넥슨의 '바람의나라' IP 신작 소식, 그리고 차세대 콘솔에 대한 기대감으로 요동치고 있습니다. 닌텐도 스위치 2 효과로 인한 하드웨어 매출의 기록적인 급증은 새로운 플랫폼 시대를 앞둔 시장의 뜨거운 구매 열기를 증명합니다. 📉\n\n이러한 현상은 **소비자 심리**가 불확실한 신작보다 검증된 IP의 귀환에 더 민감하게 반응함을 보여줍니다. '컨트롤'의 모바일 이식이나 VR 플랫폼으로의 확장은 기존 자산을 다양한 기기 환경에 맞춰 재배치함으로써 개발 리스크를 최소화하고, 플랫폼 구조의 변화 속에서 안정적인 수익 모델을 구축하려는 전략의 산물입니다. 📱\n\n결국 현재 게임 산업은 **보수적 투자를 통한 수익성 극대화와 검증된 자산의 기술적 고도화**라는 생존 전략을 채택했습니다. 이제 기업의 핵심 경쟁력은 완전히 새로운 것을 만드는 능력이 아니라, 과거의 명작을 현대적 기술로 얼마나 완벽하게 재창조하여 새로운 플랫폼 사용자들에게 전달하느냐에 달려 있습니다. 💡\n\n익숙한 IP의 화려한 귀환은 시장에 안정감을 주지만, 한편으로는 창의적 정체를 의미하기도 합니다. 여러분은 기술로 무장한 향수의 귀환에 만족하십니까, 아니면 여전히 상상을 뛰어넘는 완전히 새로운 세계를 기다리고 계십니까? ❓"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "DOOMBLADE",
+      "url": "https://store.epicgames.com/ko/p/doomblade-afdf9a",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/df87b66c9f3042ac83311bdc9b442884/doomblade-120wd.jpg",
+      "comment": "이번 주 에픽게임즈 무료 배포 게임은 **DOOMBLADE**입니다. 자아를 가진 무기와 함께 지하 세계를 누비는 2D 액션 메트로배니아로, 속도감 넘치는 전투가 일품인 인디 수작입니다. (배포 종료: 4월 30일 15:00)\n\n**Next Week:** 다음 주에는 방치형 RPG 'Firestone'과 자동화 전략 게임 'Oddsparks'가 여러분을 찾아옵니다.\n\n**Steam Deal:** 세련된 연출과 방대한 볼륨을 자랑하는 JRPG의 정점, '페르소나 5 더 로열'의 파격적인 할인 혜택을 5월 7일까지 확인해 보세요!",
+      "steam_deal": {
+        "type": "deal",
+        "name": "페르소나 5 더 로열",
+        "app_id": 1687950,
+        "url": "https://store.steampowered.com/app/1687950",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header_koreana.jpg?t=1763530018",
+        "discount_percent": 80,
+        "original_price": "69,800원",
+        "final_price": "13,960원",
+        "end_date": "2026-05-07 17:00"
+      }
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=038&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=038&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Sudden Strike 5",
+        "releases.0.note": "The latest installment in the real-time strategy (RTS) series set in World War II was officially released for PC on April 23rd.",
+        "releases.0.dev": "Kite Games",
+        "releases.1.game": "Control",
+        "releases.1.note": "Remedy's flagship action-adventure game 'Control' has been officially released for iPhone, iPad, and Mac via the Apple App Store.",
+        "releases.1.dev": "Remedy Entertainment",
+        "releases.2.game": "Masters of Albion",
+        "releases.2.note": "Peter Molyneux's new god game, featuring a system where players build villages by day and defend them from enemies by night, has launched in Steam Early Access.",
+        "releases.2.dev": "22cans",
+        "releases.3.game": "Our Kingdom",
+        "releases.3.note": "A new side-scrolling action RPG themed around time-eating fruits and ancient monsters was officially released on the 23rd.",
+        "releases.3.dev": "Inti Creates",
+        "releases.4.game": "Secret Some",
+        "releases.4.note": "A dating simulation game about secret romances with four high school girls, officially released on Steam and STOVE at 10 AM on the 23rd.",
+        "releases.4.dev": "Aftertime, Bigtail Village",
+        "releases.5.game": "Little Nightmares VR",
+        "releases.5.note": "A new title that reimagines the popular horror adventure series from a first-person VR perspective to provide even more vivid horror was officially released on the 24th.",
+        "releases.5.dev": "Tarsier Studios",
+        "events.0.name": "2026 Asian Esports Tournament",
+        "events.0.note": "Hosted by the Ministry of Culture, Sports and Tourism, an esports match featuring national-level athletes in preparation for the Asian Games.",
+        "events.0.venue": "Jinju-si, Gyeongsangnam-do (Jinju Stadium area)",
+        "events.1.name": "International Indie Game Exhibition 'BitSummit PUNCH'",
+        "events.1.note": "Japan's largest indie game festival; floor maps and major event information revealed.",
+        "events.1.venue": "Kyoto, Japan"
+      },
+      "briefing": {
+        "items.0.title": "NCSoft Labor and Management Agree on 3 Million Won Wage Increase and Review of 4.5-Day Work Week",
+        "items.0.source": "Inven",
+        "items.0.time": "April 23",
+        "items.1.title": "Nexon Launches 'Project BB,' a New Title Using 'The Kingdom of the Winds' IP",
+        "items.1.source": "Inven",
+        "items.1.time": "April 23",
+        "items.2.title": "First-Person Narrative Bullet Hell 'Luna Abyss' Announces Release Date",
+        "items.2.source": "IGN India",
+        "items.2.time": "April 24",
+        "items.3.title": "Bishoujo Game Specialist Key Officially Releases New Title 'anemoi'",
+        "items.3.source": "4Gamer",
+        "items.3.time": "April 24",
+        "items.4.title": "'Vampire Survivors' Developer poncle Establishes Japanese Studio and Strengthens Organization",
+        "items.4.source": "4Gamer",
+        "items.4.time": "April 23",
+        "items.5.title": "Assassin's Creed IV: Black Flag Remake to be Released on July 9",
+        "items.5.source": "PC Gamer",
+        "items.5.time": "April 24",
+        "items.6.title": "Nintendo Switch 2 Effect: US Hardware Sales Surge 69% in March",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "April 23"
+      },
+      "feedback": {
+        "items.0.game": "AION2",
+        "items.0.period": "Last 30 Days",
+        "items.0.keywords.0.text": "Class Mention",
+        "items.0.keywords.1.text": "DPS Comparison",
+        "items.0.keywords.2.text": "Dungeon / Raid Discussion",
+        "items.0.keywords.3.text": "Buff/Nerf Debate",
+        "items.0.keywords.4.text": "Currency",
+        "items.0.comments.0.text": "The patch notes are so vague that it feels like I'm playing a spreadsheet game.",
+        "items.0.comments.1.text": "The racial imbalance is so severe that it's impossible to clear quests.",
+        "items.0.comments.2.text": "Looking at recent broadcasts, the damage balance between classes seems better than I thought."
+      },
+      "drk": {
+        "title": "Revisiting Legacy IPs and the New Market Formula Created by Hardware Generational Shifts",
+        "intro": "Note the explosive synergy that occurs when classic masterpieces meet the latest devices. The market is now placing more weight on the 'rediscovery of proven value' rather than innovation.",
+        "points": "The recent gaming market is fluctuating due to news of the 'Assassin's Creed IV' remake, Nexon's new title using 'The Kingdom of the Winds' IP, and anticipation for next-generation consoles. The record-breaking surge in hardware sales caused by the 'Nintendo Switch 2 effect' proves the market's intense purchasing heat ahead of a new platform era. 📉\n\nThis phenomenon shows that consumer sentiment responds more sensitively to the return of proven IPs than to uncertain new titles. Porting 'Control' to mobile or expanding to VR platforms is the result of a strategy to minimize development risk and establish a stable profit model amidst changes in platform structures by redeploying existing assets for various device environments. 📱\n\nUltimately, the current game industry has adopted survival strategies of maximizing profitability through conservative investment and technical advancement of proven assets. Now, a company's core competitiveness lies not in the ability to create something entirely new, but in how perfectly they can recreate past masterpieces with modern technology and deliver them to users of new platforms. 💡\n\nThe grand return of familiar IPs provides stability to the market, but on the other hand, it also signifies creative stagnation. Are you satisfied with the return of nostalgia armed with technology, or are you still waiting for an entirely new world that surpasses your imagination? ❓"
+      },
+      "epic": {
+        "title": "DOOMBLADE",
+        "comment": "This week's Epic Games free game is **DOOMBLADE**. A 2D action Metroidvania where you roam the underworld with a sentient weapon, it's an indie gem known for its fast-paced combat. (Distribution ends: April 30, 15:00)\n\n**Next Week:** Next week, the idle RPG 'Firestone' and the automation strategy game 'Oddsparks' will be coming your way.\n\n**Steam Deal:** Check out the exceptional discount on 'Persona 5 Royal,' the pinnacle of JRPGs boasting stylish direction and vast volume, available until May 7th!"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "サドン ストライク 5",
+        "releases.0.note": "第二次世界大戦を舞台としたリアルタイム戦略ゲーム（RTS）シリーズの最新作が、4月23日にPC版で正式にリリースされました。",
+        "releases.0.dev": "カイト・ゲームズ",
+        "releases.1.game": "CONTROL (コントロール)",
+        "releases.1.note": "Remedyの代表的なアクションアドベンチャーゲーム『CONTROL』が、Apple App Storeを通じてiPhone、iPad、およびMac向けのモバイル版として正式にリリースされました。",
+        "releases.1.dev": "レメディ・エンターテインメント",
+        "releases.2.game": "マスターズ・オブ・アルビオン",
+        "releases.2.note": "ピーター・モリニューの新作ゴッドゲームで、昼は村を建設し、夜は敵から村を防衛するシステムを特徴としており、Steamでの早期アクセスを開始しました。",
+        "releases.2.dev": "22cans",
+        "releases.3.game": "私たちのキングダム",
+        "releases.3.note": "「時を食べる果実」と古代の魔物をテーマにした横スクロールアクションRPGの新作が、23日に正式リリースされました。",
+        "releases.3.dev": "インティ・クリエイツ",
+        "releases.4.game": "シークレット・サム",
+        "releases.4.note": "4人の女子高生との秘密の恋愛を扱った美少女恋愛シミュレーションゲームで、23日午前10時にSteamとSTOVEで正式にリリースされました。",
+        "releases.4.dev": "Aftertime、クンコリビレッジ",
+        "releases.5.game": "リトルナイトメア VR",
+        "releases.5.note": "人気のホラーアドベンチャーシリーズを一人称視点のVRで再解釈し、より生々しい恐怖を提供する新作が、24日に正式リリースされました。",
+        "releases.5.dev": "ターシア・スタジオ",
+        "events.0.name": "2026 アジア eスポーツ大会",
+        "events.0.note": "文化体育観光部主催、アジア競技大会に備えた国家代表級の選手たちが参加するeスポーツマッチ",
+        "events.0.venue": "慶尚南道 晋州市 (晋州総合競技場一帯)",
+        "events.1.name": "国際インディーゲーム展示会『BitSummit PUNCH』",
+        "events.1.note": "日本最大級のインディーゲームの祭典、会場マップおよび主要イベント情報を公開",
+        "events.1.venue": "日本 京都"
+      },
+      "briefing": {
+        "items.0.title": "NC労使、賃金300万ウォン引き上げおよび週4.5日制の検討に合意",
+        "items.0.source": "インベン",
+        "items.0.time": "4月23日",
+        "items.1.title": "ネクソン、『風の王国』IPを活用した新作『PROJECT BB』を始動",
+        "items.1.source": "インベン",
+        "items.1.time": "4月23日",
+        "items.2.title": "一人称視点ナラティブ・バレットヘル『Luna Abyss』、発売日を発表",
+        "items.2.source": "IGN India",
+        "items.2.time": "4月24日",
+        "items.3.title": "美少女ゲームの名門Key、新作『anemoi』を正式リリース",
+        "items.3.source": "4Gamer",
+        "items.3.time": "4月24日",
+        "items.4.title": "『ヴァンサバ』開発元のponcle、日本スタジオを設立し体制を強化",
+        "items.4.source": "4Gamer",
+        "items.4.time": "4月23日",
+        "items.5.title": "アサシン クリード4 ブラック フラッグ リメイク、7月9日発売",
+        "items.5.source": "PC Gamer",
+        "items.5.time": "4月24日",
+        "items.6.title": "ニンテンドースイッチ2効果、3月の米ハードウェア売上が69%急増",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "4月23日"
+      },
+      "feedback": {
+        "items.0.game": "AION2",
+        "items.0.period": "直近30日間",
+        "items.0.keywords.0.text": "Class Mention",
+        "items.0.keywords.1.text": "DPS Comparison",
+        "items.0.keywords.2.text": "Dungeon / Raid Discussion",
+        "items.0.keywords.3.text": "Buff/Nerf Debate",
+        "items.0.keywords.4.text": "Currency",
+        "items.0.comments.0.text": "パッチの数値があまりにも曖昧で、まるで手探りで計算しながらゲームをしている気分です。",
+        "items.0.comments.1.text": "種族間の不均衡がひどすぎて、クエストを到底クリアできません。",
+        "items.0.comments.2.text": "最近の配信を見ると、職業別のダメージバランスは思ったより取れているようです。"
+      },
+      "drk": {
+        "title": "レガシーIPの再注目とハードウェアの世代交代が創り出す新たな市場の法則",
+        "intro": "往年の名作が最新機器と出会うときに発生する爆発的なシナジーに注目してください。市場は今、革新よりも『検証された価値の再発見』に、より大きな比重を置いています。",
+        "points": "最近のゲーム市場は、『アサシン クリード4』のリメイクやネクソンの『風の王国』IP新作のニュース、そして次世代コンソールへの期待感で揺れ動いています。ニンテンドースイッチ2効果によるハードウェア売上の記録的な急増は、新たなプラットフォーム時代を控えた市場の熱い購買意欲を証明しています。 📉\n\nこのような現象は、**消費者心理**が不確実な新作よりも、検証されたIPの帰還により敏感に反応することを示しています。『CONTROL』のモバイル移植やVRプラットフォームへの拡張は、既存の資産を多様なデバイス環境に合わせて再配置することで開発リスクを最小限に抑え、プラットフォーム構造の変化の中で安定した収益モデルを構築しようとする戦略の産物です。 📱\n\n結局のところ、現在のゲーム産業は**保守的な投資による収益性の最大化と、検証された資産の技術的高等化**という生存戦略を採用しています。今や企業の核心的な競争力は、完全に新しいものを作る能力ではなく、過去の名作を現代の技術でいかに完璧に再構築し、新しいプラットフォームのユーザーに届けるかにかかっています。 💡\n\n馴染みのあるIPの華麗な帰還は市場に安定感を与えますが、一方で独創性の停滞を意味することもあります。皆さんは技術で武装した郷愁の帰還に満足されますか、それとも依然として想像を超える全く新しい世界を待ち望んでいますか？ ❓"
+      },
+      "epic": {
+        "title": "DOOMBLADE",
+        "comment": "今週のエピックゲームズ無料配布ゲームは **DOOMBLADE** です。意思を持つ武器と共に地底世界を駆け巡る2Dアクション・メトロイドヴァニアで、スピード感あふれる戦闘が魅力のインディーの秀作です。（配布終了：4月30日 15:00）\n\n**Next Week:** 来週は、放置型RPG『Firestone』と自動化戦略ゲーム『Oddsparks』が登場します。\n\n**Steam Deal:** 洗練された演出と膨大なボリュームを誇るJRPGの金字塔、『ペルソナ5 ザ・ロイヤル』の破格のセールを5月7日までチェックしてみてください！"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "전설의 귀환과 하드웨어 세대교체, 시장의 판도가 바뀐다! 🎮 (무료 게임 DOOMBLADE 포함 🎁)",
+    "en": "Legacy IPs & Next-Gen Power: The Game is Changing! 🎮 (Claim DOOMBLADE for FREE 🎁)",
+    "ja": "伝説のIP×次世代ハードが市場を塗り替える！？🎮 (今だけDOOMBLADE無料配布中🎁)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ]
+}

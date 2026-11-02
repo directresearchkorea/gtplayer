@@ -1,0 +1,381 @@
+{
+  "num": "013",
+  "date": "2026-03-25",
+  "status": "published",
+  "schedule": {
+    "date": "2026-03-25",
+    "time": "11:30",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "game": "Monster Hunter Wilds",
+          "dev": "Capcom",
+          "date": "2026-03-26",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "color": "#f59e0b",
+          "note": "신규 몬스터 생태계 트레일러 공개"
+        }
+      ],
+      "events": [
+        {
+          "name": "iicon 2026 (E3 후속)",
+          "note": "",
+          "venue": "미국 라스베가스",
+          "date": "2026-04-27~2026-04-30",
+          "tag": "행사",
+          "d_day_str": "D-38",
+          "website": "https://www.iicon.com"
+        },
+        {
+          "name": "서머 게임 페스트 2026",
+          "note": "",
+          "venue": "미국",
+          "date": "2026-06-01~2026-06-30",
+          "tag": "행사",
+          "d_day_str": "D-73",
+          "website": "https://www.summergamefest.com"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "디아블로 4 - 시즌 7 대규모 직업 밸런스 패치 적용",
+          "source": "Blizzard 뉴스",
+          "time": "오늘",
+          "country": "GLOBAL",
+          "article_url": "https://news.blizzard.com/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "2026 LCK 정규 시즌 4월 1일 개막... T1 vs KT 격돌",
+          "source": "인벤",
+          "time": "오늘",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=314621"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "포켓몬 카드 게임 포켓, 확장팩 '샤이닝메가' 26일 출시",
+          "source": "4Gamer",
+          "time": "오늘",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/779/G077901/20260319088/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "엔비디아 CEO, DLSS 5 논란에 &amp;quot;비판가들 틀렸다&amp;quot; 반박",
+          "source": "GamesIndustry.biz",
+          "time": "오늘",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/nvidia-ceo-says-critics-are-completely-wrong-about-dlss-5-technology"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "넷마블 '왕좌의 게임: 킹스로드' 스팀 테스트 참가자 모집",
+          "source": "인벤",
+          "time": "오늘",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=314622"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "네프테뉴 신작 8월 출시 확정... 차세대 스위치 기기 대응",
+          "source": "4Gamer",
+          "time": "오늘",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/992/G099212/20260319025/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "스파이더맨 신작 예고편, GTA 6 기록 깨고 7억 뷰 돌파",
+          "source": "IGN India",
+          "time": "오늘",
+          "country": "IN",
+          "article_url": "https://in.ign.com/spider-man-brand-new-day/256215/news/spider-man-brand-new-day-beats-gta-6-record-after-trailer-pulls-718-million-views-in-24-hours"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": true,
+      "game": "AION2",
+      "period": "최근 30일",
+      "count": "4,316",
+      "sources": "커뮤니티",
+      "score": "2.7",
+      "pos": 4,
+      "neu": 76,
+      "neg": 20,
+      "keywords": [
+        {
+          "text": "Dungeon / Raid Discussion",
+          "positive": true
+        },
+        {
+          "text": "Class Mention",
+          "positive": true
+        },
+        {
+          "text": "Build Meta",
+          "positive": true
+        },
+        {
+          "text": "Buff/Nerf Debate",
+          "positive": true
+        },
+        {
+          "text": "Currency",
+          "positive": true
+        }
+      ],
+      "comments": [
+        {
+          "text": "PVP 페널티 줄여준 거랑 운영진이 소통 잘해주는 점은 정말 만족해요.",
+          "positive": true
+        },
+        {
+          "text": "궁성은 CC기 맞으면 바로 죽는데 직업 간 밸런스 좀 신경 써줬으면 해요.",
+          "positive": false
+        },
+        {
+          "text": "&quot;100일 기념 보상도 넉넉하고 매크로 단속도 잘해주니까 계속 할 맛 나요.&quot;",
+          "positive": true
+        }
+      ]
+    },
+    "drk": {
+      "enabled": true,
+      "title": "닌텐도 스위치 2의 공식 발표가 늦어지는 진짜 이유",
+      "intro": "닌텐도의 차세대 기기 발표가 기약 없이 미뤄지며 업계의 다양한 추측이 난무하고 있습니다. 칩셋 수율 문제부터 런칭 타이틀 확보까지 여러 이야기가 나오지만, 본질은 '기존 스위치 생태계의 완벽한 이양'에 있습니다.",
+      "points": "과거 유비소프트로 대변되던 '자기 복제식 오픈월드'는 이제 유저들에게 지루함의 대명사가 되었습니다. 반면, 붉은사막은 압도적인 기술적 집착과 액션의 본질에 집중하며 유저들이 갈구하던 '새로운 감각'을 건드리는 데 성공했습니다. 여기에 워해머 40,000: 스페이스 마린 2의 유료 보이스 팩 철회 사례에서 보듯, 현대의 유저들은 기업의 오만한 수익 모델에 즉각적으로 반응하며 시장의 주도권을 자신들에게 가져오고 있습니다.\n\n**Dr. K의 통찰로 볼 때, 지금의 시장은 '규모의 경제'가 아닌 '경험의 밀도'를 기준으로 재편되고 있습니다. 자본력으로 찍어내는 공장형 게임의 시대는 끝났으며, 개발진의 광기 어린 집착이 담긴 독보적인 기술력과 유저 친화적인 호흡만이 글로벌 AAA 시장의 유일한 생존권이 될 것입니다. 브랜드의 이름값에 기대어 안일하게 대처하는 거인들은 도태될 것이고, 본질에 충실한 도전자들이 그 자리를 꿰차는 파괴적 혁신이 시작되었습니다.**\n\n붉은사막이 쏘아 올린 이 신호탄이 한국 게임 업계에 진정한 AAA 시대를 여는 지속 가능한 동력이 될지, 아니면 거인들이 몰락하는 틈을 탄 일시적인 반사이익일지는 조금 더 지켜봐야 합니다. 하지만 분명한 것은 이제 유저들은 '적당히 잘 만든' 게임에는 더 이상 박수를 보내지 않는다는 점입니다. 당신이 기다리는 다음 세대의 게임은, 과연 과거의 유산입니까, 아니면 미래의 혁신입니까?"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "워해머 40,000: 스페이스 마린 2",
+      "title": "잿더미 속에 피어난 강철의 성가",
+      "imgUrl": "",
+      "comment": "수만 마리의 외계 생명체가 하늘을 뒤덮는 압도적인 스케일과 고딕 양식의 장엄함이 어우러져, 인류 최후의 보루가 지닌 비장미를 기술적 정점으로 표현해냈습니다.",
+      "ai_prompt": "A cinematic wide-angle shot of a massive, ornate Gothic cathedral city under a dark crimson and violet stormy sky filled with embers. In the foreground, a heroic Space Marine in blue power armor stands on a crumbling stone balcony, looking out over a vast valley where an endless swarm of Tyranids moves like a dark tide. High-contrast lighting, volumetric fog, hyper-realistic textures, epic scale, grimdark aesthetic, 8k resolution, photorealistic, Unreal Engine 5 style."
+    },
+    "chart": {
+      "enabled": true,
+      "pc": [
+        {
+          "game": "Counter-Strike 2",
+          "change": "-"
+        },
+        {
+          "game": "Dota 2",
+          "change": "-"
+        },
+        {
+          "game": "Slay the Spire 2",
+          "change": "-"
+        },
+        {
+          "game": "PUBG: BATTLEGROUNDS",
+          "change": "-"
+        },
+        {
+          "game": "Bongo Cat",
+          "change": "-"
+        }
+      ],
+      "console": [
+        {
+          "game": "Fortnite",
+          "change": "-"
+        },
+        {
+          "game": "Elden Ring",
+          "change": "▲1"
+        },
+        {
+          "game": "Call of Duty",
+          "change": "-"
+        }
+      ],
+      "mobile": [
+        {
+          "game": "Honor of Kings",
+          "change": "-"
+        },
+        {
+          "game": "Zenless Zone Zero",
+          "change": "NEW"
+        },
+        {
+          "game": "MONOPOLY GO!",
+          "change": "▼1"
+        }
+      ]
+    },
+    "newsletter_feedback": {
+      "enabled": false,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "",
+      "downLink": ""
+    },
+    "poll": {
+      "enabled": true,
+      "question": "Pole",
+      "options": [
+        {
+          "text": "새 항목",
+          "link": "https://"
+        },
+        {
+          "text": "새 항목",
+          "link": "https://"
+        },
+        {
+          "text": "새 항목",
+          "link": "https://"
+        }
+      ]
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Monster Hunter Wilds",
+        "releases.0.note": "New monster ecology trailer revealed",
+        "releases.0.dev": "Capcom",
+        "releases.1.game": "Marathon",
+        "releases.1.note": "First raid 'Cryo Archive' opens",
+        "releases.1.dev": "Bungie",
+        "releases.2.game": "Steam Spring Sale",
+        "releases.2.note": "Discounts of up to 80% or more on major popular titles begin",
+        "releases.2.dev": "Valve",
+        "releases.3.game": "Finding Polka",
+        "releases.3.note": "Demo showcased at Tokyo Indie Games Summit 2026",
+        "releases.3.dev": "lidlocks",
+        "releases.4.game": "Warhammer 40,000: Space Marine 2",
+        "releases.4.note": "Controversial paid voice pack made free with an apology",
+        "releases.4.dev": "Saber Interactive",
+        "events.0.name": "iicon 2026 (Successor to E3)",
+        "events.0.venue": "Las Vegas, USA",
+        "events.1.name": "Summer Game Fest 2026",
+        "events.1.venue": "USA",
+        "events.0.tag": "행사"
+      },
+      "briefing": {
+        "items.0.title": "Diablo 4 - Season 7 Massive Class Balance Patch Applied",
+        "items.1.title": "2026 LCK Regular Season Opens April 1st... T1 vs. KT Clash",
+        "items.2.title": "Pokémon Trading Card Game Pocket, 'Shining Mega' Expansion Set to Release on the 26th",
+        "items.3.title": "NVIDIA CEO Rebuts DLSS 5 Controversy: &quot;Critics Are Wrong&quot;",
+        "items.4.title": "Netmarble Recruiting Participants for Steam Playtest of 'Game of Thrones: Kingsroad'",
+        "items.5.title": "New Neptunia Game Confirmed for August Release... Supporting Next-Gen Switch Console",
+        "items.6.title": "New Spider-Man Trailer Surpasses 700 Million Views, Breaking GTA 6 Records"
+      },
+      "feedback": {
+        "game": "AION 2",
+        "period": "Last 30 Days",
+        "keywords.0.text": "Dungeon / Raid Discussion",
+        "keywords.1.text": "Class Mention",
+        "keywords.2.text": "Build Meta",
+        "keywords.3.text": "Buff/Nerf Debate",
+        "keywords.4.text": "Currency",
+        "comments.0.text": "I'm really satisfied with the reduction in PvP penalties and the fact that the management communicates well.",
+        "comments.1.text": "Rangers die immediately when hit by CC; I wish they would pay more attention to the balance between classes.",
+        "comments.2.text": "The 100th-day anniversary rewards are generous and they crack down on macros well, so it feels worth playing.",
+        "pos": 4
+      },
+      "drk": {
+        "title": "The Rise of 'Crimson Desert' and the Fall of Ubisoft: The End of the 'Mass-Produced AAA' Era",
+        "intro": "Today's news symbolically demonstrates a shift in power within the game industry. While the Korean AAA title 'Crimson Desert' dominates the top tiers of Steam to worldwide acclaim, Ubisoft—once the king of open worlds—has received a dismal report card of development cancellations and workforce reductions. This goes beyond the success or failure of individual companies; it proves that the old 'safe formula for success' driven by massive capital no longer works in the global market.",
+        "points": "The 'self-replicating open-world' formula once represented by Ubisoft has now become synonymous with boredom for players. In contrast, Crimson Desert has succeeded in tapping into the 'new sensation' players crave by focusing on profound technical obsession and the essence of action. As seen in the case of Warhammer 40,000: Space Marine 2 withdrawing its paid voice pack, modern players are reacting immediately to arrogant corporate monetization models, shifting market dominance back to themselves.\n\n**From Dr. K's insight, the current market is being reshaped based on 'density of experience' rather than 'economies of scale.' The era of mass-produced games cranked out by capital power is over; unparalleled technical prowess fueled by the developers' fanatical obsession and user-friendly engagement will be the only ticket to survival in the global AAA market. Giants who rest complacently on their brand names will perish, and disruptive innovation is beginning as challengers faithful to the essence take their place.**\n\nWhether the signal flare fired by Crimson Desert will become a sustainable engine for a true AAA era in the Korean gaming industry, or merely a temporary benefit from the fall of giants, remains to be seen. However, what is clear is that players no longer applaud games that are just 'decently made.' Is the next-generation game you are waiting for a legacy of the past or an innovation of the future?"
+      },
+      "gamescene": {
+        "title": "Steel Canticle Blooming in the Ashes",
+        "comment": "Combining the overwhelming scale of tens of thousands of alien creatures covering the sky with the majesty of Gothic architecture, it expresses the tragic beauty of humanity's last bastion at a technical peak.",
+        "game": "워해머 40,000: 스페이스 마린 2"
+      },
+      "poll": {
+        "question": "Poll"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "モンスターハンターワイルズ",
+        "releases.0.note": "新モンスターの生態トレーラー公開",
+        "releases.0.dev": "Capcom",
+        "releases.1.game": "MARATHON",
+        "releases.1.note": "初のレイド「Cryo Archive」開放",
+        "releases.1.dev": "Bungie",
+        "releases.2.game": "Steamスプリングセール",
+        "releases.2.note": "主要人気作が最大80%以上割引開始",
+        "releases.2.dev": "Valve",
+        "releases.3.game": "Finding Polka",
+        "releases.3.note": "TOKYO INDIE GAMES SUMMIT 2026での試遊を実施",
+        "releases.3.dev": "lidlocks",
+        "releases.4.game": "ウォーハンマー40,000: スペースマリーン2",
+        "releases.4.note": "物議を醸した有料ボイスパックを無料化し、謝罪を表明",
+        "releases.4.dev": "Saber Interactive",
+        "events.0.name": "iicon 2026 (E3後継イベント)",
+        "events.0.venue": "アメリカ ラスベガス",
+        "events.1.name": "Summer Game Fest 2026",
+        "events.1.venue": "アメリカ",
+        "events.1.tag": "행사",
+        "events.0.tag": "행사"
+      },
+      "briefing": {
+        "items.0.title": "ディアブロ4 シーズン7 大規模クラスバランスパッチ適用",
+        "items.1.title": "2026 LCKレギュラーシーズン4月1日開幕…T1対KTが激突",
+        "items.2.title": "『ポケモンカードゲーム Pocket』拡張パック「シャイニングメガ」26日発売",
+        "items.3.title": "NVIDIAのCEO、DLSS 5の議論に対し「批判家たちは間違っている」と反論",
+        "items.4.title": "Netmarble『ゲーム・オブ・スローンズ：キングスロード』Steamテスト参加者募集",
+        "items.5.title": "ネプテニュー新作8月発売確定…次世代Switch機に対応",
+        "items.6.title": "スパイダーマン新作トレーラー、GTA 6の記録を塗り替え7億再生を突破"
+      },
+      "feedback": {
+        "game": "AION2",
+        "period": "直近30日間",
+        "keywords.0.text": "Dungeon / Raid Discussion",
+        "keywords.1.text": "Class Mention",
+        "keywords.2.text": "Build Meta",
+        "keywords.3.text": "Buff/Nerf Debate",
+        "keywords.4.text": "Currency",
+        "comments.0.text": "PVPのペナルティ緩和と、運営陣のコミュニケーションが円滑な点には非常に満足しています。",
+        "comments.1.text": "弓星（レンジャー）はCCを受けると即死するので、クラス間のバランスにもっと気を配ってほしいです。",
+        "comments.2.text": "100日記念の報酬も豪華だし、マクロの取り締まりもしっかりしているので、やりがいがあります。",
+        "sources": "커뮤니티"
+      },
+      "drk": {
+        "title": "『紅の砂漠』の飛躍とUbisoftの没落：「量産型AAA」時代の終焉",
+        "intro": "本日のニュースは、ゲーム業界の勢力図の変化を象徴的に示しています。韓国発のAAAタイトル『紅の砂漠』がSteamの最上位圏を占拠し、世界中から賞賛を浴びる一方で、かつてオープンワールドの覇者であったUbisoftは、開発中止と人員削減という悲惨な成績表を突きつけられました。これは単に個別企業の成否を超え、巨大資本が主導してきた従来の「安牌なヒットの方程式」が、もはやグローバル市場で通用しないという事実を証明しています。",
+        "points": "かつてUbisoftに代表された「自己複製的なオープンワールド」は、今やユーザーにとって退屈の代名詞となりました。一方で『紅の砂漠』は、圧倒的な技術へのこだわりとアクションの本質に集中し、ユーザーが渇望していた「新しい感覚」を刺激することに成功しました。さらに、『ウォーハンマー40,000: スペースマリーン2』の有料ボイスパック撤回の事例に見られるように、現代のユーザーは企業の傲慢な収益モデルに即座に反応し、市場の主導権を自らの手に取り戻しています。\n\n**Dr. Kの見解によれば、現在の市場は「規模の経済」ではなく「体験の密度」を基準に再編されています。資本力で作り出す量産型ゲームの時代は終わり、開発陣の狂気的なこだわりが込められた独創的な技術力と、ユーザーフレンドリーな姿勢のみがグローバルAAA市場における唯一の生存権となるでしょう。ブランド力に胡坐をかいて安易に対処する巨人は淘汰され、本質に忠実な挑戦者たちがその座を奪う破壊的イノベーションが始まっています。**\n\n『紅の砂漠』が放ったこの号砲が、韓国ゲーム業界に真のAAA時代を切り拓く持続可能な動力となるのか、あるいは巨人の没落に乗じた一時的な反射利益に過ぎないのかは、もう少し見守る必要があります。しかし明らかなのは、もはやユーザーは「そこそこよくできた」ゲームには拍手を送らないという点です。あなたが待ち望む次世代のゲームは、果たして過去の遺産でしょうか、それとも未来の革新でしょうか？"
+      },
+      "gamescene": {
+        "title": "灰の中から咲いた鋼の聖歌",
+        "comment": "数万ものエイリアンが空を埋め尽くす圧倒的なスケールと、ゴシック様式の荘厳さが融合し、人類最後の砦が持つ悲壮美を技術的頂点において表現しています。"
+      },
+      "poll": {
+        "options.0.link": "https://"
+      }
+    }
+  }
+}

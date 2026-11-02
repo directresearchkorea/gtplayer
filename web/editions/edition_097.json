@@ -1,0 +1,387 @@
+{
+  "num": "097",
+  "date": "2026-08-06",
+  "status": "published",
+  "schedule": {
+    "date": "2026-08-06",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "킹덤2: 타오르는 전장",
+          "dev": "파우게임즈",
+          "date": "8월 5일(수)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "8월 5일 정식 출시된 모바일 MMORPG로, 종족과 무기를 자유롭게 조합하는 전략적인 전투 시스템이 특징입니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319214",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "필즈 오브 미스트리아",
+          "dev": "NPC Studio",
+          "date": "8월 6일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 6일 1.0 정식 버전으로 출시되는 농경 시뮬레이션 게임으로, 결혼 및 육아 시스템과 신규 스토리가 정식 추가됩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/life-sim/fields-of-mistria-officially-becomes-the-best-farm-sim-since-stardew-valley-now-that-its-launched-a-1-0-update-today/",
+          "source_name": "PC Gamer"
+        },
+        {
+          "category": "release",
+          "game": "P의 거짓: 컴플리트 에디션",
+          "dev": "네오위즈",
+          "date": "8월 6일(목)",
+          "platforms": [
+            "Switch 2"
+          ],
+          "color": "#10b981",
+          "note": "8월 6일 닌텐도 스위치 2용으로 정식 출시되는 소울라이크 액션 RPG 본편 및 추가 콘텐츠 통합 패키지입니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/lies-of-p-complete-edition/2680100/lies-of-p-complete-edition-official-nintendo-switch-2-launch-trailer",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "event",
+          "game": "기어즈 오브 워: E-Day",
+          "dev": "더 코어리션",
+          "date": "8월 6일(목)",
+          "platforms": [
+            "PC",
+            "Xbox Series X|S"
+          ],
+          "color": "#f59e0b",
+          "note": "8월 6일부터 Xbox 게임패스 구독자를 대상으로 신작 오픈 베타 테스트가 시작됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319238",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "마블 라이벌즈",
+          "dev": "넷이즈게임즈",
+          "date": "8월 7일(금)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X|S"
+          ],
+          "color": "#3b82f6",
+          "note": "8월 7일 시즌 9.5 개막과 함께 신규 영웅 '더 후드'가 추가되고 대규모 뱅가드 밸런스 패치가 진행됩니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1778747",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "로스트아크",
+          "dev": "스마일게이트 RPG",
+          "date": "8월 5일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "8월 5일 신규 그림자 레이드 '벨가르딘'과 반격 시스템인 저스트 가드가 새롭게 업데이트되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319217",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "기어즈 오브 워: E-Day 오픈 베타",
+          "note": "Xbox 게임패스 구독자 대상 오픈 베타 테스트 진행",
+          "venue": "온라인 (Xbox / PC)",
+          "date": "2026-08-06 ~",
+          "tag": "베타 테스트",
+          "website": "https://www.inven.co.kr/webzine/news/?news=319238"
+        },
+        {
+          "name": "SEGA UNIVERSE POPUP STORE",
+          "note": "세가 주요 IP 캐릭터 및 아트워크 활용 굿즈 판매 팝업 스토어",
+          "venue": "시부야 PARCO",
+          "date": "2026-08-07 ~ 2026-08-30",
+          "tag": "오프라인 행사",
+          "website": "https://www.4gamer.net/games/991/G999106/20260805024/"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "인디 신작 '빅 워크', 스팀 매출 2위 등극",
+          "source": "인벤",
+          "time": "8월 5일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319229"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "넷마블, 게임 라이프사이클 연장에 집중 선언",
+          "source": "인벤",
+          "time": "8월 5일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319226"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'CoD: 블랙 옵스 2', 콘솔 이식 후 매출 상위권",
+          "source": "IGN India",
+          "time": "8월 5일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/call-of-duty-black-ops/268101/14-years-after-its-release-call-of-duty-black-ops-2-is-one-of-2026s-best-selling-games-according-to"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'P의 거짓', 스위치 2 출시 트레일러 공개",
+          "source": "IGN India",
+          "time": "8월 5일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/lies-of-p-complete-edition/268100/lies-of-p-complete-edition-official-nintendo-switch-2-launch-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "펍지 스튜디오, '게임스컴'서 미발표 신작 공개",
+          "source": "4Gamer",
+          "time": "8월 5일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/968/G096874/20260805044/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "포켓페어, '네버 그레이브' 안드로이드판 출시",
+          "source": "4Gamer",
+          "time": "8월 5일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/023/G102345/20260805036/"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "유비소프트, '어쌔신 크리드' 총괄에 에릭 바티자",
+          "source": "PC Gamer",
+          "time": "8월 5일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/assassins-creed/assassins-creed-valhalla-director-comes-back-to-ubisoft-to-be-game-director-for-the-entire-brand/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "로블록스, EU 대형 온라인 플랫폼 규제 대상 전망",
+          "source": "GamesIndustry.biz",
+          "time": "8월 5일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/robloxs-reported-user-numbers-will-make-it-subject-to-additional-eu-legislation-for-regulating-social-networks"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "멀티플랫폼과 라이프사이클 연장: 게임 산업의 새로운 생존 방정식",
+      "intro": "신작 가뭄 속에서도 고전 명작과 이식작이 차트를 점령하는 이유는 무엇일까요? 🎮\n지금 게임 산업은 '새로운 게임'을 만드는 것보다 '검증된 IP의 수명'을 늘리는 데 사활을 걸고 있습니다.",
+      "points": "오늘 발표된 넷마블의 게임 라이프사이클 연장 전략부터 'CoD: 블랙 옵스 2'의 콘솔 이식 후 차트 역주행, 'P의 거짓'의 차세대 스위치 2 진출 소식까지. 최근 글로벌 업계의 주요 뉴스는 단연 'IP의 확장과 수명 연장'으로 귀결됩니다. 📈\n\n이러한 현상은 게이머들의 **게임 소비 구조**와 **플랫폼 구조**를 근본적으로 바꾸고 있습니다. 거대해진 개발비 탓에 신작 출시 주기가 길어지자, 게이머들은 검증되지 않은 신작보다 타 플랫폼으로 이식되거나 지속적으로 업데이트되는 검증된 작품에 더 안정감을 느끼며 지갑을 열고 있습니다. 📱💻🎮\n\n결국 폭증하는 리스크 속에서, **'단일 IP의 지속 가능한 가치 창출 능력'이 신작 파이프라인의 개수보다 중요해진 시대**가 도래했습니다. 차세대 기기 이식과 모바일 확장 등 플랫폼의 경계를 허무는 유연함이 IP의 생명력을 결정짓는 핵심 열쇠입니다. 💡\n\n지속적인 라이프사이클 연장이 독창적인 신작의 기회를 축소시킬지, 아니면 산업 전반의 안정성을 높일지는 계속 주시해야 합니다. 여러분은 잘 만든 IP의 플랫폼 확장과 위험을 감수한 완전 신작 중 어느 쪽에 더 마음이 끌리시나요? ❓"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": true,
+      "title": "Big Walk | Launch Trailer | PS5",
+      "channel": "PlayStation Australia",
+      "videoId": "adQPz60zPtk",
+      "url": "https://www.youtube.com/watch?v=adQPz60zPtk",
+      "thumbnail": "https://i.ytimg.com/vi/adQPz60zPtk/hqdefault.jpg",
+      "comment": "이번 주 매거진이 주목한 신작은 개발사 하우스 하우스가 선보이는 PS5용 협동 어드벤처 게임 '빅 워크(Big Walk)'입니다. 🎮🚶\n\n광활한 자연 속에서 친구들과 다양한 신호로 소통하며 수수께끼를 해결해 나가는 독특한 팀워크가 가장 큰 기대 포인트입니다. 🧩🗺️\n\nPlayStation Australia 공식 채널에 공개된 런칭 트레일러를 감상하며 특별한 모험의 매력을 직접 확인해 보세요! ✨🎬",
+      "search_query": "Big Walk Official Trailer",
+      "ai_game_name": "빅 워크",
+      "ai_reason": "'거위 날다' 개발사의 캐주얼 협동 탐험 신작으로, 최근 스팀 매출 2위에 오르며 폭발적인 반응을 얻고 있습니다. 유쾌한 분위기와 아기자기한 비주얼이 이전 추천작과 확실히 차별화됩니다."
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=097&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=097&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {},
+      "briefing": {
+        "items.0.title": "New Indie Title 'Big Walk' Reaches #2 on Steam Sales Chart",
+        "items.0.source": "Inven",
+        "items.0.time": "August 5",
+        "items.1.title": "Netmarble Declares Focus on Extending Game Lifecycles",
+        "items.1.source": "Inven",
+        "items.1.time": "August 5",
+        "items.2.title": "'CoD: Black Ops 2' Tops Sales Charts Following Console Port",
+        "items.2.source": "IGN India",
+        "items.2.time": "August 5",
+        "items.3.title": "'Lies of P' Releases Switch 2 Launch Trailer",
+        "items.3.source": "IGN India",
+        "items.3.time": "August 5",
+        "items.4.title": "PUBG Studios to Unveil Unannounced Title at 'Gamescom'",
+        "items.4.source": "4Gamer",
+        "items.4.time": "August 5",
+        "items.5.title": "Pocketpair Releases Android Version of 'Never Grave'",
+        "items.5.source": "4Gamer",
+        "items.5.time": "August 5",
+        "items.6.title": "Ubisoft Appoints Éric Baptizat as Head of 'Assassin's Creed'",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "August 5",
+        "items.7.title": "Roblox Expected to Face Regulation as Very Large Online Platform in EU",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "August 5"
+      },
+      "drk": {
+        "title": "Multi-Platform and Lifecycle Extension: The Game Industry's New Survival Formula",
+        "intro": "Why are classic masterpieces and ported titles dominating the charts even amidst a drought of new releases? 🎮\nRight now, the gaming industry is desperately focusing on extending the 'lifespan of proven IPs' rather than creating 'new games'.",
+        "points": "From Netmarble's game lifecycle extension strategy announced today, to 'CoD: Black Ops 2' climbing back up the charts after its console port, and 'Lies of P' expanding to the next-generation Switch 2. Major recent news across the global industry undeniably boils down to 'IP expansion and lifespan extension.' 📈\n\nThis phenomenon is fundamentally changing gamers' **game consumption structures** and **platform structures**. As massive development costs cause new release cycles to lengthen, gamers feel more secure spending their money on proven titles that are ported to other platforms or continuously updated, rather than unproven new games. 📱💻🎮\n\nUltimately, amidst surging risks, **an era where 'a single IP's ability to generate sustainable value' has become more important than the number of new game pipelines** has arrived. Flexibility in breaking down platform boundaries—such as next-gen console ports and mobile expansions—is the key factor determining an IP's vitality. 💡\n\nWe must keep watching whether continuous lifecycle extensions will reduce opportunities for original new titles or enhance overall industry stability. Which are you more drawn to: platform expansion of well-made IPs, or taking risks on completely original new games? ❓"
+      },
+      "trailer": {
+        "title": "Big Walk | Launch Trailer | PS5",
+        "comment": "The new title highlighted by this week's magazine is 'Big Walk', a co-op adventure game for PS5 by developer House House. 🎮🚶\n\nThe biggest point of anticipation is the unique teamwork where you solve puzzles with friends using various signals in vast open nature. 🧩🗺️\n\nCheck out the launch trailer released on the official PlayStation Australia channel and experience the charm of this special adventure yourself! ✨🎬"
+      }
+    },
+    "ja": {
+      "calendar": {},
+      "briefing": {
+        "items.0.title": "インディー新作『Big Walk』、Steam売上2位にランクイン",
+        "items.0.source": "Inven",
+        "items.0.time": "8月5日",
+        "items.1.title": "ネットマーブル、ゲームのライフサイクル長期化への注力を宣言",
+        "items.1.source": "Inven",
+        "items.1.time": "8月5日",
+        "items.2.title": "『CoD: ブラックオプス2』、コンソール移植後に売上上位へ",
+        "items.2.source": "IGN India",
+        "items.2.time": "8月5日",
+        "items.3.title": "『Lies of P』、Switch 2向けローンチトレーラーを公開",
+        "items.3.source": "IGN India",
+        "items.3.time": "8月5日",
+        "items.4.title": "PUBG Studios、「gamescom」で未発表の新作を公開",
+        "items.4.source": "4Gamer",
+        "items.4.time": "8月5日",
+        "items.5.title": "ポケットペア、『Never Grave』Android版をリリース",
+        "items.5.source": "4Gamer",
+        "items.5.time": "8月5日",
+        "items.6.title": "ユービーアイソフト、『アサシン クリード』統括にエリック・バプチザを起用",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "8月5日",
+        "items.7.title": "Roblox、EUの大規模オンラインプラットフォーム規制対象となる見通し",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "8月5日"
+      },
+      "drk": {
+        "title": "マルチプラットフォームとライフサイクルの長期化：ゲーム産業の新たな生存方程式",
+        "intro": "新作日照りの中でも名作や移植作がランキングを席巻しているのはなぜでしょうか？ 🎮\n現在のゲーム産業は、「新しいゲーム」を作ること以上に「検証済みのIPの寿命」を延ばすことに死力を尽くしています。",
+        "points": "本日発表されたネットマーブルのゲームライフサイクル長期化戦略から、『CoD: ブラックオプス2』のコンソール移植によるランキング逆走、『Lies of P』の次世代Switch 2進出のニュースまで。最近のグローバル業界における主要ニュースは、まさに「IPの拡張と寿命の延長」に帰結します。 📈\n\nこのような現象は、ゲーマーの**ゲーム消費構造**と**プラットフォーム構造**を根本から変えつつあります。高騰する開発費によって新作のリリース周期が長くなったことで、ゲーマーは検証されていない新作よりも、他プラットフォームへ移植されたり継続的にアップデートされる実績ある作品に対して、より安心感を抱いて財布を開くようになっています。 📱💻🎮\n\n結局のところ、リスクが急増する中で、**「単一IPの持続可能な価値創出能力」が新作パイプラインの数よりも重要になった時代**が到来しました。次世代機への移植やモバイル展開など、プラットフォームの境界を崩す柔軟性がIPの生命力を左右する鍵となります。 💡\n\n持続的なライフサイクル延長が独創的な新作の機会を狭めるのか、それとも産業全体の安定性を高めるのかは、引き続き注視する必要があります。皆さんは、完成度の高いIPのプラットフォーム拡張と、リスクを伴う完全新作のどちらにより魅力を感じますか？ ❓"
+      },
+      "trailer": {
+        "title": "Big Walk | Launch Trailer | PS5",
+        "comment": "今週本誌が注目する新作は、開発元のHouse Houseが手掛けるPS5向け協力型アドベンチャーゲーム『Big Walk』です。 🎮🚶\n\n広大な自然の中で友達とさまざまなシグナルを使ってコミュニケーションを取りながら、謎を解き明かしていくユニークなチームワークが最大の期待ポイントです。 🧩🗺️\n\nPlayStation Australia公式チャンネルで公開されたローンチトレーラーを観て、特別な冒険の魅力を直接確かめてみてください！ ✨🎬"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "게임 업계의 새로운 생존 방정식 🔄 (feat. PS5 'Big Walk' 신작 트레일러 👀)",
+    "en": "The Game Industry's New Survival Strategy 🔄 (feat. NEW PS5 'Big Walk' Trailer 👀)",
+    "ja": "ゲーム業界の新・生き残り方程式 🔄 (feat. PS5『Big Walk』最新トレーラー👀)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "8월 6일 오늘의 게임 소식 🎮\n📰 [뉴스] 스팀 2위에 오른 '빅 워크'부터 넷마블의 라이프사이클 연장 전략, 'P의 거짓' 스위치 2 트레일러까지!\n📅 [출시] 기어즈 오브 워: E-Day, 마블 라이벌즈, P의 거짓 컴플리트 에디션 등 이번 주 주요 라인업\n✍️ [인사이트] 신작 가뭄 속 검증된 IP의 수명 연장! 멀티플랫폼과 라이프사이클 연장이 가져온 새로운 생존 방정식\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#GTPLAYER #게임뉴스 #게임소식 #신작게임 #게임추천 #빅워크 #P의거짓 #마블라이벌즈 #기어즈오브워 #스팀게임 #닌텐도스위치2 #PS5 #XBOX #모바일게임 #PC게임 #게임트렌드 #게임인사이트 #게이머 #게임스타그램 #게임덕후",
+          "image_paths": [
+            "web\\instagram\\edition_097\\card_news.png",
+            "web\\instagram\\edition_097\\card_calendar.png",
+            "web\\instagram\\edition_097\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3957401974157322441_39332818166",
+            "url": "https://www.instagram.com/p/DbrhCDXE6jJ/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-08-06T10:18:25.661514"
+    }
+  }
+}

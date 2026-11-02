@@ -1,0 +1,448 @@
+{
+  "num": "071",
+  "date": "2026-06-30",
+  "status": "published",
+  "schedule": {
+    "date": "2026-06-30",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "닌자 마스터즈 패왕인법첩",
+          "dev": "SNK",
+          "date": "6월 29일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "고전 명작 대전 격투 게임 '닌자 마스터즈 패왕인법첩'이 6월 29일 스팀을 통해 정식 이식 버전으로 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777117",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "event",
+          "game": "페이트/그랜드 오더",
+          "dev": "넷마블",
+          "date": "6월 29일(월)",
+          "platforms": [
+            "iOS",
+            "Android"
+          ],
+          "color": "#f59e0b",
+          "note": "6월 29일부터 신규 복각 이벤트 '때려 부숴라! 미스터리 하우스 크래프터즈'를 개시하며, 참여 시 배포 서번트인 4성 반 고흐를 획득할 수 있습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=317942",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "아바",
+          "dev": "네오위즈",
+          "date": "6월 29일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "서비스 19주년을 기념하여 기존의 인기 섬멸 맵인 '아나콘다'를 완전히 개편한 신규 '코어' 맵을 6월 29일 업데이트하고 특별 프로모션을 진행합니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777114",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "event",
+          "game": "뱅드림! 아워 노트",
+          "dev": "빌리빌리 게임",
+          "date": "6월 29일(월)",
+          "platforms": [
+            "iOS",
+            "Android"
+          ],
+          "color": "#f59e0b",
+          "note": "신작 리듬 어드벤처 게임 '뱅드림! 아워 노트'가 6월 29일부터 글로벌 사전예약과 더불어 비공개 테스트(CBT) 테스터 모집을 동시에 시작했습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=317933",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "악마단 돌겨억!",
+          "dev": "라이트컨",
+          "date": "6월 29일(월)",
+          "platforms": [
+            "iOS",
+            "Android"
+          ],
+          "color": "#3b82f6",
+          "note": "캐주얼 로그라이크 디펜스 게임 '악마단 돌겨억!'이 정식 출시 1주년을 기념하여 경쟁 재미를 극대화한 신규 PvP 콘텐츠 등을 6월 29일 업데이트했습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777134",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "승리의 여신: 니케",
+          "dev": "시프트업",
+          "date": "7월 2일(목)",
+          "platforms": [
+            "PC",
+            "iOS",
+            "Android"
+          ],
+          "color": "#3b82f6",
+          "note": "7월 2일 대규모 여름 맞이 업데이트를 통해 여름 콘셉트의 신규 SSR 수영복 캐릭터 및 전용 이벤트 스토리를 새롭게 선보입니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777119",
+          "source_name": "게임메카"
+        }
+      ],
+      "events": [
+        {
+          "name": "스플래툰 레이더스 다이렉트",
+          "note": "약 15분간 진행되는 우즈시오 제도의 새로운 모험 정보를 공개하는 특별 쇼케이스",
+          "venue": "온라인 (유튜브 등)",
+          "date": "2026-06-30",
+          "tag": "쇼케이스",
+          "website": "https://www.famitsu.com/article/202606/79833"
+        },
+        {
+          "name": "붕괴: 스타레일 Ver.4.4 특별 예고 방송",
+          "note": "Ver.4.4 '기적은 울린다, 침묵 속에서' 신규 5성 캐릭터 '히메코·여정' 정보 등 소개",
+          "venue": "온라인 (유튜브 등)",
+          "date": "2026-07-03",
+          "tag": "쇼케이스",
+          "website": "https://www.4gamer.net/games/599/G059954/20260629033/"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "데이브 더 다이버 모바일 사전예약 돌입",
+          "source": "인벤",
+          "time": "6월 29일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=317953"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "에피드게임즈, 신작 '트릭컬 파티마' 공개",
+          "source": "인벤",
+          "time": "6월 29일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=317951"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "2XKO, 신규 캐릭터 2종 참전 확정",
+          "source": "4Gamer",
+          "time": "6월 29일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/482/G048219/20260629032/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "수박게임 PC 스팀 버전 상점 페이지 오픈",
+          "source": "4Gamer",
+          "time": "6월 29일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/021/G102140/20260629031/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "버추어 파이터 신작 스토리 모드 공개",
+          "source": "IGN India",
+          "time": "6월 29일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/virtua-fighter-6/265073/virtua-fighter-crossroads-official-story-mode-overview-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "로블록스, 성인 전용 게임 6종 첫 공개",
+          "source": "IGN India",
+          "time": "6월 29일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/roblox/265062/roblox-reveals-6-new-exclusive-18-games-including-an-extraction-shooter-from-the-co-founder-of-bungi"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "소니 SIE 사장, 라이브 서비스 강화 천명",
+          "source": "GamesIndustry.biz",
+          "time": "6월 29일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/playstation-ceo-says-company-wants-to-revitalise-live-service-games"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "CD 프로젝트, 'CD 프로젝트 레드' 사명 변경",
+          "source": "GamesIndustry.biz",
+          "time": "6월 29일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/cd-projekt-rebrands-to-cd-projekt-red"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "플랫폼 경계를 허무는 라이브 서비스, 게임 산업의 새로운 생존 공식이 되다",
+      "intro": "콘솔의 명가 소니는 왜 끊임없이 라이브 서비스를 외치고, 메타버스의 상징 로블록스는 성인용 콘텐츠에 손을 뻗을까요?\n플랫폼과 타겟의 경계가 완전히 무너지는 지금, 우리가 주목해야 할 게임 산업의 새로운 움직임을 분석합니다.",
+      "points": "최근 소니 SIE 사장의 라이브 서비스 강화 선언과 로블록스의 첫 성인 전용 콘텐츠 공개는 글로벌 게임 산업의 거대한 패러다임 변화를 극명히 보여줍니다. 🎮 여기에 '데이브 더 다이버'의 모바일 사전예약 돌입과 기존 흥행작들의 끊임없는 라이브 업데이트 소식은 플랫폼의 경계가 완전히 무너졌음을 증명합니다.\n\n이러한 변화는 **소비자의 게임 소비 구조**를 근본적으로 재편하고 있습니다. 단발성 타이틀 구매에 그치던 소비 형태는 단일 게임 혹은 플랫폼 안에서 지속적으로 머무르며 가치를 소비하는 방향으로 전환되었습니다. 💸 기업들은 하드웨어 판매 한계를 극복하고 장기적인 고객 평생 가치(LTV)를 확보하려는 전략을 본격화하고 있습니다.\n\n결국 현대 게임 산업의 생존 공식은 **단순한 신작 출시를 넘어 유저의 '시간 점유율(Share of Time)'을 얼마나 정교하게 확보하느냐**에 달려 있습니다. 플랫폼 홀더들이 성인용 콘텐츠로 타겟을 넓히고 멀티 플랫폼 라이브 서비스에 사활을 거는 이유가 바로 여기에 있습니다. 📈\n\n앞으로 플랫폼과 장르의 벽은 더욱 빠르게 허물어질 것이며, 유저를 영토 안에 묶어두려는 '락인(Lock-in) 전쟁'은 더욱 치열해질 전망입니다. 🔍 끊임없이 진화하는 게임 생태계 속에서, 여러분의 '시간'을 가장 완벽히 점유하고 있는 플랫폼은 어디입니까?"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "뱅드림! 아워 노트",
+      "title": "글로벌 무대에서 펼쳐지는 완전히 새로운 밴드 라이프의 시작",
+      "imgUrl": "",
+      "comment": "8월 6일 첫 테스트를 앞둔 '뱅드림! 아워 노트'의 미래를 그리며, 화려해진 3D 라이브 연출과 한국어 UI가 완벽히 적용된 실제 리듬 게임 플레이 화면을 AI가 시각화하도록 지시했습니다.",
+      "ai_prompt": "Actual in-game screenshot, exact original game engine rendering, completely identical to original art style, NO cinematic styling, NO illustration. A high-fidelity mobile rhythm gameplay screen of 'BanG Dream! Our Note'. Beautiful 3D cel-shaded anime girl band members performing with instruments on a concert stage under dynamic spotlights. A stylized rhythm game UI overlay is on top, showing falling note lanes, circular beat notes, a glowing combo counter displaying '250 COMBO', and 'PERFECT' hit effects. The user interface includes clean Korean text for the song title and score, capturing the exact authentic feel of the next-generation BanG Dream game."
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Ninja Master's: Haoh-Ninpoh-Cho",
+        "releases.0.note": "The classic masterpiece fighting game 'Ninja Master's: Haoh-Ninpoh-Cho' was officially released as a ported version on Steam on June 29.",
+        "releases.0.dev": "SNK",
+        "releases.1.game": "Fate/Grand Order",
+        "releases.1.note": "The new rerun event 'Smash It! Mystery House Crafters' begins on June 29, allowing players to obtain the 4-star welfare Servant Van Gogh upon participation.",
+        "releases.1.dev": "Netmarble",
+        "releases.2.game": "A.V.A",
+        "releases.2.note": "To celebrate its 19th anniversary, a new 'Core' map—a complete revamp of the popular Annihilation map 'Anaconda'—will be updated on June 29 along with a special promotion.",
+        "releases.2.dev": "NEOWIZ",
+        "releases.3.game": "BanG Dream! Our Note",
+        "releases.3.note": "The new rhythm adventure game 'BanG Dream! Our Note' simultaneously launched global pre-registration and Closed Beta Test (CBT) recruitment on June 29.",
+        "releases.3.dev": "Bilibili Games",
+        "releases.4.game": "Devil Squad Charge!",
+        "releases.4.note": "To celebrate its 1st anniversary, the casual roguelike defense game 'Devil Squad Charge!' updated new PvP content to maximize competitive fun on June 29.",
+        "releases.4.dev": "Lightcon",
+        "releases.5.game": "Goddess of Victory: Nikke",
+        "releases.5.note": "A massive summer update on July 2 will introduce new summer-themed SSR swimsuit characters and a dedicated event story.",
+        "releases.5.dev": "Shift Up",
+        "events.0.name": "Splatoon Raiders Direct",
+        "events.0.note": "A special showcase lasting about 15 minutes that reveals new adventure details about the Uzushio Archipelago.",
+        "events.0.venue": "Online (YouTube, etc.)",
+        "events.1.name": "Honkai: Star Rail Ver. 4.4 Special Program",
+        "events.1.note": "Introducing details on the new 5-star character 'Himeko: Journey' and other content for Ver. 4.4 'Miracles Ring in the Silence'.",
+        "events.1.venue": "Online (YouTube, etc.)"
+      },
+      "briefing": {
+        "items.0.title": "Dave the Diver Mobile Pre-Registration Begins",
+        "items.0.source": "Inven",
+        "items.0.time": "June 29",
+        "items.1.title": "Epid Games Reveals New Title 'Trickcal Fatima'",
+        "items.1.source": "Inven",
+        "items.1.time": "June 29",
+        "items.2.title": "2XKO Confirms Two New Characters Joining the Roster",
+        "items.2.source": "4Gamer",
+        "items.2.time": "June 29",
+        "items.3.title": "Suika Game PC Steam Version Store Page Opened",
+        "items.3.source": "4Gamer",
+        "items.3.time": "June 29",
+        "items.4.title": "New Virtua Fighter Story Mode Revealed",
+        "items.4.source": "IGN India",
+        "items.4.time": "June 29",
+        "items.5.title": "Roblox Unveils Its First Six Adults-Only Games",
+        "items.5.source": "IGN India",
+        "items.5.time": "June 29",
+        "items.6.title": "Sony SIE President Pledges to Strengthen Live Services",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "June 29",
+        "items.7.title": "CD Projekt Changes Company Name to 'CD Projekt Red'",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "June 29"
+      },
+      "drk": {
+        "title": "Live Services Breaking Platform Boundaries Become the Game Industry's New Survival Formula",
+        "intro": "Why does console giant Sony constantly champion live services, and why is metaverse icon Roblox reaching out to adult content? As the boundaries between platforms and target audiences completely collapse, we analyze the new movements in the gaming industry that warrant our attention.",
+        "points": "The recent declaration by Sony SIE's president to strengthen live services and Roblox's unveiling of its first adults-only content clearly demonstrate a massive paradigm shift in the global gaming industry. 🎮 On top of this, the start of pre-registration for 'Dave the Diver' on mobile and the continuous live updates for existing hit titles prove that platform boundaries have completely collapsed.\n\nThese changes are fundamentally reshaping **consumer game consumption structures**. The consumption pattern, which used to be limited to one-off title purchases, has shifted toward continuously staying and consuming value within a single game or platform. 💸 Companies are actively implementing strategies to overcome hardware sales limits and secure long-term Customer Lifetime Value (LTV).\n\nUltimately, the survival formula of the modern gaming industry depends on **how sophisticatedly they can capture users' 'Share of Time' rather than simply releasing new titles**. This is precisely why platform holders are expanding their targets to adult content and betting their lives on multi-platform live services. 📈\n\nGoing forward, the walls between platforms and genres will break down even faster, and the 'lock-in war' to keep users within one's territory is expected to become even more intense. 🔍 In this constantly evolving gaming ecosystem, which platform is most perfectly occupying your 'time'?"
+      },
+      "gamescene": {
+        "game": "BanG Dream! Our Note",
+        "title": "The Beginning of an All-New Band Life Unfolding on the Global Stage",
+        "comment": "Envisioning the future of 'BanG Dream! Our Note,' which is set for its first test on August 6, the AI was instructed to visualize actual rhythm gameplay featuring spectacular 3D live performances and a fully applied Korean UI."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "NINJA MASTER'S 覇王忍法帖",
+        "releases.0.note": "古典名作対戦格闘ゲーム『NINJA MASTER'S 覇王忍法帖』が、6月29日にSteamを通じて正式移植版としてリリースされました。",
+        "releases.0.dev": "SNK",
+        "releases.1.game": "Fate/Grand Order",
+        "releases.1.note": "6月29日から新規復刻イベント「ぶっ壊せ！ ミステリーハウス・クラフターズ」を開始し、参加すると配布サーヴァントである★4のヴァン・ゴッホを獲得できます。",
+        "releases.1.dev": "ネットマーブル",
+        "releases.2.game": "A.V.A",
+        "releases.2.note": "サービス19周年を記念して、既存の人気殲滅マップ「アナコンダ」を全面的に改編した新規「コア」マップを6月29日にアップデートし、特別プロモーションを実施します。",
+        "releases.2.dev": "ネオウィズ",
+        "releases.3.game": "バンドリ！ アワーノート",
+        "releases.3.note": "新作リズムアドベンチャーゲーム『バンドリ！ アワーノート』が、6月29日からグローバル事前登録とあわせて、クローズドβテスト（CBT）のテスター募集を同時に開始しました。",
+        "releases.3.dev": "ビリビリゲームズ",
+        "releases.4.game": "悪魔団突撃！",
+        "releases.4.note": "カジュアルローグライ크ディフェンスゲーム『悪魔団突撃！』が、正式リリース1周年を記念して、競争の楽しさを極大化した新規PvPコンテンツなどを6月29日にアップデートしました。",
+        "releases.4.dev": "ライトコン",
+        "releases.5.game": "勝利の女神：NIKKE",
+        "releases.5.note": "7月2日の大規模な夏向けアップデートを通じて、夏コンセプトの新規SSR水着キャラクターおよび専用イベントストーリーを新たに公開します。",
+        "releases.5.dev": "シフトアップ",
+        "events.0.name": "スプラトゥーン レイダース ダイレクト",
+        "events.0.note": "約15分間にわたり、ウズシオ諸島の新たな冒険情報を公開する特別ショーケース",
+        "events.0.venue": "オンライン（YouTubeなど）",
+        "events.1.name": "『崩壊：スターレイル』Ver.4.4予告番組",
+        "events.1.note": "Ver.4.4「奇跡は響く、沈黙の中で」新規★5キャラクター「姫子・旅路」の情報などを紹介",
+        "events.1.venue": "オンライン（YouTubeなど）"
+      },
+      "briefing": {
+        "items.0.title": "『デイヴ・ザ・ダイバー』モバイル版の事前登録が開始",
+        "items.0.source": "Inven",
+        "items.0.time": "6월 29일",
+        "items.1.title": "エピドゲームズ、新作『トリッカル・ファティマ』を公開",
+        "items.1.source": "Inven",
+        "items.1.time": "6월 29일",
+        "items.2.title": "『2XKO』、新規キャラクター2種の参戦が決定",
+        "items.2.source": "4Gamer",
+        "items.2.time": "6월 29일",
+        "items.3.title": "『スイカゲーム』PC Steam版のストアページがオープン",
+        "items.3.source": "4Gamer",
+        "items.3.time": "6월 29일",
+        "items.4.title": "『バーチャファイター』新作のストーリーモードが公開",
+        "items.4.source": "IGN India",
+        "items.4.time": "6월 29일",
+        "items.5.title": "『ロブロックス』、成人向けゲーム6種を初公開",
+        "items.5.source": "IGN India",
+        "items.5.time": "6월 29일",
+        "items.6.title": "ソニーSIE社長、ライブサービスの強化を表明",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "6월 29일",
+        "items.7.title": "CD PROJEKT、「CD PROJEKT RED」へ社名変更",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "6월 29일"
+      },
+      "drk": {
+        "title": "プラットフォームの境界を崩すライブサービス、ゲーム産業の新たな生存方程式となる",
+        "intro": "コンソールの名門ソニーはなぜ絶えずライブサービスを叫び、メタバースの象徴ロブロックスは成人向けコンテンツに手を伸ばすのでしょうか？\nプラットフォームとターゲットの境界が完全に崩れつつある今、私たちが注目すべきゲーム産業の新たな動きを分析します。",
+        "points": "最近のソニーSIE社長によるライブサービス強化宣言と、ロブロックス初の成人向けコンテンツ公開は、グローバルゲーム産業における巨大なパラダイムシフトを鮮明に示しています。 🎮 ここに『デイヴ・ザ・ダイバー』のモバイル版事前登録開始や、既存の人気作による絶え間ないライブアップデートのニュースは、プラットフォームの境界が完全に崩壊したことを証明しています。\n\nこのような変化は、**消費者のゲーム消費構造**を根本的に再編しています。単発のタイトル購入にとどまっていた消費形態は、単一のゲームやプラットフォーム内に留まり続け、価値を消費する方向へとシフトしています。 💸 企業はハードウェア販売の限界を克服し、長期的な顧客生涯価値（LTV）を確保するための戦略を本格化させています。\n\n結局のところ、現代のゲーム産業における生存方程式は、**単なる新作のリリースを超えて、ユーザーの「時間占有率（Share of Time）」をいかに精巧に確保するか**にかかっています。プラットフォームホルダーが成人向けコンテンツへとターゲットを広げ、マルチプラットフォームのライブサービスに死力を尽くす理由がまさにここにあります。 📈\n\n今後、プラットフォームとジャンルの壁はさらに急速に崩壊し、ユーザーを自社の領土内に囲い込もうとする「ロックイン（Lock-in）戦争」はますます激化する見通しです。 🔍 絶えず進化するゲーム生態系の中で、あなたの「時間」を最も完璧に占有しているプラットフォームはどこでしょうか？"
+      },
+      "gamescene": {
+        "game": "バンドリ！ アワーノート",
+        "title": "グローバルな舞台で繰り広げられる、まったく新しいバンドライフの始まり",
+        "comment": "8月6日の初テストを控えた『バンドリ！ アワーノート』の未来を描き、華やかになった3Dライブ演出と韓国語UIが完璧に適用された実際のリズムゲームプレイ画面をAIが視覚化するよう指示しました。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "PC·콘솔 경계가 무너진 진짜 이유 💥 (feat. 이번 주 스팀 무료 게임)",
+    "en": "The death of platform exclusives? Inside gaming's new survival formula 🎮 (feat. Free Steam Games!)",
+    "ja": "PCもCSも関係ない！ゲーム業界を生き抜く新たな『生存戦略』とは？🎮 (今週のSteam無料配布情報も)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "이제 폰으로도 초밥 장사 가능?! 🍣 '데이브 더 다이버' 모바일 사전예약이 시작됐어요! 플랫폼 경계가 무너지는 요즘 게임 트렌드도 같이 확인해 볼까요? 👇\n\nhttps://www.gtplayer.net/edition-071/\n\n#데이브더다이버 #게임소식 #GTPlayer",
+          "posted": false,
+          "data": null,
+          "error": "X API 오류 (402): {\"account_id\":2041741108661612544,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2041741108661612544] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/problems/credits\"}"
+        }
+      },
+      "updated_at": "2026-06-30T07:05:09.898934"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "6월 30일 오늘의 게임 소식 🎮 PC·콘솔 경계가 무너진 진짜 이유를 알려드립니다! (feat. 스팀 무료 게임)\n\n📰 **[뉴스]** '데이브 더 다이버' 모바일 사전예약 돌입 & '수박게임' 스팀 버전 상점 오픈!\n🗓️ **[출시]** 뱅드림 신작, 니케, 페그오 등 이번 주 놓칠 수 없는 신작 출시 캘린더!\n💡 **[Dr.K 인사이트]** 소니와 로블록스의 파격 행보, 플랫폼 경계를 허무는 '라이브 서비스' 생존 공식!\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요! \n🔗 전체 뉴스레터 링크는 프로필에서\n\n#gtplayer #게임뉴스 #신작게임 #게임추천 #모바일게임 #스팀게임 #콘솔게임 #데이브더다이버 #수박게임 #니케 #페그오 #뱅드림 #게임스타그램 #게임정보 #게임덕후 #인디게임 #PC게임 #겜스타그램 #게이머 #트릭컬",
+          "image_paths": [
+            "web\\instagram\\edition_071\\card_news.png",
+            "web\\instagram\\edition_071\\card_calendar.png",
+            "web\\instagram\\edition_071\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3930488286532033103_39332818166",
+            "url": "https://www.instagram.com/p/DaL5kWgk1pP/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-06-30T07:05:42.866548"
+    }
+  }
+}

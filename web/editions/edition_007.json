@@ -1,0 +1,265 @@
+{
+  "num": "007",
+  "date": "2026-03-20",
+  "status": "published",
+  "schedule": {
+    "date": "",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "붉은사막",
+          "dev": "펄어비스",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X|S"
+          ],
+          "color": "#10b981",
+          "note": "글로벌 동시 출시",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1772977",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "마라톤",
+          "dev": "번지",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X|S"
+          ],
+          "color": "#10b981",
+          "note": "첫 번째 레이드 'Cryo Archive' 개시",
+          "country": "IN",
+          "article_url": "https://in.ign.com/marathon/256211/news/bungie-reveals-all-details-of-marathons-first-raid-cryo-archive-goes-live-on-march-20-and-weekends-o",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "event",
+          "game": "CD 프로젝트 레드",
+          "dev": "CD 프로젝트 레드",
+          "date": "3월 20일(금)",
+          "platforms": [],
+          "color": "#10b981",
+          "note": "2025 회계연도 실적 발표 및 신작 개발 현황 공개",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=314609",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "데스 스트랜딩 2",
+          "dev": "코지마 프로덕션",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "PC 버전 정식 출시",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202603/69206",
+          "source_name": "Famitsu"
+        },
+        {
+          "category": "event",
+          "game": "파인딩 폴카",
+          "dev": "lidlocks",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "도쿄 인디 게임 서밋 시유 및 퍼블리싱 발표",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202603/69193",
+          "source_name": "電撃オンライン"
+        },
+        {
+          "category": "event",
+          "game": "부산인디커넥트페스티벌 2026",
+          "dev": "BIC 조직위원회",
+          "date": "3월 20일(금)",
+          "platforms": [],
+          "color": "#10b981",
+          "note": "온라인 사업설명회 개최",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=314606",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "iicon 2026 (E3 후속)",
+          "note": "",
+          "venue": "미국 라스베가스",
+          "date": "2026-04-27~2026-04-30",
+          "tag": "행사",
+          "d_day_str": "D-38",
+          "website": "https://www.iicon.com"
+        },
+        {
+          "name": "서머 게임 페스트 2026",
+          "note": "",
+          "venue": "미국",
+          "date": "2026-06-01~2026-06-30",
+          "tag": "행사",
+          "d_day_str": "D-73",
+          "website": "https://www.summergamefest.com"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "유비소프트, 레드 스톰 개발 중단 및 감원 발표",
+          "source": "GamesIndustry.biz",
+          "time": "오늘",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/ubisoft-announces-layoffs-and-the-cease-of-game-development-at-red-storm-entertainment"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "에픽게임즈 포트나이트, 구글 플레이 전격 복귀",
+          "source": "게임메카",
+          "time": "오늘",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1772966"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "스페이스 마린 2, 유료 DLC 논란 사과 및 무료화",
+          "source": "IGN India",
+          "time": "오늘",
+          "country": "IN",
+          "article_url": "https://in.ign.com/warhammer-40000-space-marine-ii/256213/news/its-obvious-this-dlc-has-failed-to-meet-your-expectations-warhammer-40000-space-marine-2-dev-issues"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "제프 카플란 신작 '레전드 오브 캘리포니아' 테스트",
+          "source": "게임메카",
+          "time": "오늘",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1772982"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "디아블로 이모탈, 2026년 로드맵 및 업데이트 공개",
+          "source": "인벤",
+          "time": "오늘",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=314608"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "아랑전설 CotW, 신규 캐릭터 ‘블루 마리’ 예고",
+          "source": "4Gamer",
+          "time": "오늘",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/649/G064915/20260319089/"
+        },
+        {
+          "category": "discount",
+          "tag": "할인",
+          "title": "폴아웃: 뉴 베가스, 스팀서 99센트 역대급 할인",
+          "source": "PC Gamer",
+          "time": "오늘",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/rpg/the-best-fallout-game-is-99-cents-right-now/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": true,
+      "game": "AION2",
+      "period": "최근 30일",
+      "count": "4,316",
+      "sources": "커뮤니티",
+      "score": "2.7",
+      "pos": 4,
+      "neu": 76,
+      "neg": 20,
+      "keywords": [
+        {
+          "text": "Dungeon / Raid Discussion",
+          "positive": true
+        },
+        {
+          "text": "Class Mention",
+          "positive": true
+        },
+        {
+          "text": "Build Meta",
+          "positive": true
+        },
+        {
+          "text": "Buff/Nerf Debate",
+          "positive": true
+        },
+        {
+          "text": "Currency",
+          "positive": true
+        }
+      ],
+      "comments": [
+        {
+          "text": "1. PVP 개선 - PVP 사망 시 랭킹 포인트 감소량 대폭 감소 상위 계급 기준 기존 대비 약 87 감소 - 일일 연속 사망 시 랭킹 포인트 감소량 비율 증가 최저 감소 포인트량 대폭 하향 2. 어비스 개선 - PVE 어비스 피해증폭 세트 효과 상향 - 필드네임드 리스트 '감시자 카이라' 추가 - 어비스 보스 처치 시 사망 상태에서도 기여도에 따라 보상 획득 가능 - 어비스 내 플레이어의 네임 플레이트를 계급 아이콘으로 간소화 시키는 기능",
+          "positive": false
+        },
+        {
+          "text": "1. PVP 개선 - PVP 사망 시 랭킹 포인트 감소량 대폭 감소 상위 계급 기준 기존 대비 약 87 감소 - 일일 연속 사망 시 랭킹 포인트 감소량 비율 증가 최저 감소 포인트량 대폭 하향 2. 어비스 개선 - PVE 어비스 피해증폭 세트 효과 상향 - 필드네임드 리스트 '감시자 카이라' 추가 - 어비스 보스 처치 시 사망 상태에서도 기여도에 따라 보상 획득 가능 - 어비스 내 플레이어의 네임 플레이트를 계급 아이콘으로 간소화 시키는 기능",
+          "positive": false
+        },
+        {
+          "text": "두 개의 하늘, 하나의 영광 안녕하세요, 데바 여러분! AION2입니다. 수정사항 - 웰컴백 쿠폰의 일부 구성품의 아이템명 변경 및 구성품 내 신규 아이템이 추가되었습니다. 2 23 16 10 데바님들의 꾸준한 관심과 성원 덕분에 저희가 100일을 맞이할 수 있었습니다. 함께해 주신 시간에 진심으로 감사드리며, 감사의 마음을 담아 쿠폰을 준비했습니다. 앞으로도 함께 만들어갈 여정에 많은 관심 부탁드리며, 쿠폰 2종의 사용 기간과 구성품 안내 드",
+          "positive": false
+        }
+      ]
+    },
+    "drk": {
+      "enabled": true,
+      "title": "AAA 시장의 대분기점: '거대 자본'의 오만과 '본질'의 귀환",
+      "intro": "오늘 뉴스는 극명한 대비를 보여줍니다. '붉은사막'과 '데스 스트랜딩 2' 같은 대형 신작들이 시장의 기대를 한 몸에 받는 반면, 유비소프트는 개발 중단과 감원이라는 뼈아픈 소식을 전했습니다. 여기에 스페이스 마린 2의 유료 DLC 철회 결정은 현재 게임사가 직면한 여론의 무게와 유저 신뢰의 가치가 얼마나 무거운지를 단적으로 보여주는 사례입니다.",
+      "points": "이 현상의 이면에는 '라이브 서비스의 피로도'와 '콘텐츠 주권의 회복'이라는 흐름이 있습니다. 자본의 힘으로 밀어붙이던 공장식 게임 개발과 수익 모델 우선주의는 더 이상 유효하지 않습니다. 유비소프트의 몰락은 매너리즘에 빠진 대형사들에게 던지는 경고장이며, 반대로 99센트의 '뉴 베가스' 할인은 시대를 초월한 명작의 본질적인 재미가 여전히 강력한 마케팅 수단임을 역설적으로 증명하고 있습니다.\n\n**결국 게임 산업은 '투입된 예산 규모'가 아니라 '유저의 경험적 밀도'와 '소통의 정직함'으로 가치가 결정되는 시대에 완전히 진입했습니다.** 이제 유저들은 화려한 겉치레보다 개발사가 자신들의 기대를 얼마나 존중하는지를 먼저 살핍니다. 제프 카플란의 복귀나 CD 프로젝트 레드의 실적 발표 속 신뢰 회복 노력 또한 이러한 변화된 생존 전략의 일환으로 읽어야 합니다.\n\n거대 자본의 비호 아래 안주하던 시대는 끝났습니다. 이제 한국의 '붉은사막'이 세계 무대에서 어떤 '본질'을 증명해낼지, 그리고 유비소프트 같은 거인들이 처절한 체질 개선에 성공할 수 있을지가 향후 몇 년간의 업계 지형을 결정할 것입니다. 여러분이 지갑을 여는 기준은 이제 화려한 '브랜드'입니까, 아니면 개발사의 진정성 있는 '태도'입니까?"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "데스 스트랜딩 2: 온 더 비치 (Death Stranding 2: On the Beach)",
+      "title": "억겁의 고독이 빚어낸 붉은 수평선",
+      "imgUrl": "",
+      "comment": "실사와 비현실의 경계를 허무는 압도적인 미장센은 단절된 세계에서 연결을 갈구하는 인간의 근원적 슬픔을 시각적 극치로 끌어올렸습니다. 코지마 히데오 특유의 기괴하면서도 숭고한 미학이 차세대 그래픽 기술과 만나 독보적인 예술성을 선사합니다.",
+      "ai_prompt": "Hyper-realistic cinematic wide shot of a vast volcanic beach with shimmering black oil-like tar waves. A lone protagonist in a highly detailed futuristic organic tech-suit stands in the center. Thousands of glowing, ethereal thin red strands descending from a dark, turbulent sky towards the horizon. Distant surreal monolithic structures emerging through thick volumetric fog. Dramatic atmospheric lighting, 8k resolution, photorealistic textures, sci-fi melancholia, cinematic composition in the style of Hideo Kojima."
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    }
+  },
+  "translations": {
+    "en": {},
+    "ja": {}
+  }
+}

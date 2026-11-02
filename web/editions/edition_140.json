@@ -1,0 +1,443 @@
+{
+  "num": "140",
+  "date": "2026-10-06",
+  "status": "published",
+  "schedule": {
+    "date": "2026-10-06",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "기어스 오브 워: E-데이",
+          "dev": "더 코얼리션",
+          "date": "10월 6일(화)",
+          "platforms": [
+            "PC",
+            "XSX|S"
+          ],
+          "color": "#10b981",
+          "note": "10월 6일 정식 출시되는 3인칭 슈터 액션 게임으로, 시리즈 초기 이머전스 데이의 처절한 생존과 전투를 그립니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3010850/Gears_of_War_EDay/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "스타워즈: 갤럭틱 레이서",
+          "dev": "루카스필름 게임즈",
+          "date": "10월 6일(화)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "XSX|S"
+          ],
+          "color": "#10b981",
+          "note": "10월 6일 출시되는 SF 레이싱 신작으로, 포드레이싱의 스릴 넘치는 고속 주행 액션을 선보입니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/star-wars-galactic-racer/273607/10-things-to-know-before-you-play-star-wars-galactic-racer",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "release",
+          "game": "올림포스 2249",
+          "dev": "인디 개발사",
+          "date": "10월 6일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 6일 스팀을 통해 출시되는 SF 사이버펑크 배경의 액션 어드벤처 신작입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/5094490/Olympus_2249/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "클라이브 바커의 헬레이저: 리바이벌",
+          "dev": "세이버 인터랙티브",
+          "date": "10월 8일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "XSX|S"
+          ],
+          "color": "#10b981",
+          "note": "10월 8일 출시되는 서바이벌 호러 게임으로, 유명 공포 영화 IP 헬레이저의 기괴하고 독창적인 세계관을 탐험합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/1551980/Clive_Barkers_Hellraiser_Revival/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "update",
+          "game": "드래곤즈 도그마 2",
+          "dev": "캡콤",
+          "date": "10월 8일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "XSX|S"
+          ],
+          "color": "#3b82f6",
+          "note": "10월 8일 대규모 확장팩 '다크 아리즌 익스팬션'이 출시되어 신규 고난도 엔드 콘텐츠 지역과 추가 장비, 몬스터가 도입됩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2593290/Dragons_Dogma_2_Dark_Arisen_Expansion/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "네온 어비스 2",
+          "dev": "비우 게임즈",
+          "date": "10월 8일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 8일 출시되는 로그라이크 액션 플랫포머 후속작으로, 4인 협동 멀티플레이와 강화된 아이템 시너지 시스템을 지원합니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202610/90062",
+          "source_name": "電撃オンライン"
+        }
+      ],
+      "events": [
+        {
+          "name": "젠레스 존 제로 Ver.3.3 프리뷰 특별 방송",
+          "note": "Ver.3.3 '다시 한번, 하늘로 날아올라' 신규 에이전트 및 업데이트 정보 공개",
+          "venue": "온라인",
+          "date": "2026-10-09",
+          "tag": "쇼케이스",
+          "website": "https://www.4gamer.net/games/630/G063081/20261005021/"
+        },
+        {
+          "name": "제21회 경기게임오디션 최종 결선",
+          "note": "역대 최고 경쟁률을 뚫고 선정된 13개 출품작 최종 발표 및 시연 평가",
+          "venue": "판교 경기창조경제혁신센터",
+          "date": "2026-10-15",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=321769"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "영국 법원, 구글 플레이 수수료 집단소송 본격 심리 착수",
+          "source": "인벤",
+          "time": "10월 6일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=321783"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "넥슨, '아크 레이더스'·'더 파이널스' 헐리우드 영상화",
+          "source": "인벤",
+          "time": "10월 6일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=321784"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "코지마 히데오, 차세대 스파이 액션 '피진트' 정보 공개",
+          "source": "IGN India",
+          "time": "10월 5일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/hideo-kojima-action-espionage-project/273624/physint-update-hideo-kojima-shares-new-info-on-his-upcoming-metal-gear-spiritual-successor"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'NBA 2K25', 출시 2년 만에 상폐 및 싱글 차단 논란",
+          "source": "IGN India",
+          "time": "10월 5일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/nba-2k25/273603/nba-2k25-is-getting-delisted-after-just-2-years-and-single-player-story-mode-will-become-unplayable"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "스퀘어 에닉스, '킹덤 하츠' 25주년 기념 특별 영상 공개",
+          "source": "Famitsu",
+          "time": "10월 5일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202610/90047"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "아케이드 명작선 '사이쿄 메모리즈', 내년 2월 콘솔 출시",
+          "source": "電撃オンライン",
+          "time": "10월 5일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202610/90043"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "뉴주 \"PC 서브컬처 가챠 RPG가 F2P 시장 견인\"",
+          "source": "GamesIndustry.biz",
+          "time": "10월 5일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/free-to-play-playtime-is-broadly-flat-as-gacha-rpgs-drive-pc-growth-says-newzoo"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "디지털 소유권의 종말, 70달러짜리 대여권이 된 게임들",
+      "intro": "정가를 주고 구매한 패키지 게임이 불과 2년 만에 실행조차 불가능해진다면 어떨까요?\n우리가 당연하게 여겼던 '게임 소유권'의 개념이 조용히 붕괴하고 있습니다.",
+      "points": "2K의 대표 스포츠 타이틀 'NBA 2K25'가 출시 2년 만에 상장 폐지되고 싱글플레이 모드 접근까지 전면 차단된다는 소식이 전해지며 큰 논란을 낳고 있습니다. 온라인 멀티플레이 서버 종료를 넘어, 오프라인으로 즐길 수 있는 커리어 모드와 기본 플레이까지 막아서는 극단적인 조치입니다. 🏀\n\n패키지 타이틀의 과도한 라이브 서비스화는 **게임 소비 구조**와 **소비자 심리**를 근본적으로 뒤흔들고 있습니다. 상시 온라인 연결(Always-Online) 구조가 싱글 콘텐츠까지 잠식하면서, 퍼블리셔의 서버 유지비 절감이라는 명목하에 소비자가 정당한 대가를 지불하고 획득한 플레이 권리가 일방적으로 박탈당하고 있습니다. 이는 디지털 패키지 구매 전반에 대한 깊은 불신으로 이어집니다. 📉\n\n이번 사태는 단순한 스포츠 게임 하나의 문제를 넘어 디지털 유통 시장 전체에 울리는 경종입니다. **이제 게이머가 구매하는 것은 온전한 소유권이 아니라, 개발사의 변덕에 따라 언제든 파기될 수 있는 시한부 접속 티켓에 불과합니다.** 🏷️\n\n소프트웨어 보존과 소비자의 영구적 이용권을 보호할 제도적 장치가 마련되지 않는다면, 패키지 시장의 가치는 계속해서 추락할 것입니다. 여러분의 라이브러리에 보관된 게임들은 과연 5년 뒤에도 온전히 여러분의 몫으로 남아 있을까요? 🎮"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "승리의 여신: 니케",
+      "title": "지상 탈환전의 새로운 서막, 4주년 기념 대규모 전장",
+      "imgUrl": "",
+      "comment": "앞선 분석에 더해 보너스로 준비한 비주얼 프리뷰로, 역대급 주년 업데이트를 예고한 <승리의 여신: 니케>의 차기 필그림 신규 캐릭터와 지상 결전 인게임 전투 현장을 AI에게 시각화하도록 주문했습니다.",
+      "ai_prompt": "Actual in-game screenshot, exact original game engine rendering, completely identical to original art style, NO cinematic styling, NO illustration, Goddess of Victory: Nikke rear-view cover shooting gameplay, a stunning newly revealed anniversary Pilgrim Nikke with intricate high-tech white and gold armor and futuristic heavy rifle taking cover in third-person back view, aiming at massive glowing Rapture boss machines in a ruined post-apocalyptic overgrown city, accurate 2.5D Spine animation style, crisp mobile game combat UI, ammo count, health bars, burst skill cut-in portrait overlay, target reticle HUD, particle effects of gunfire and neon laser sparks, sharp resolution."
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Gears of War: E-Day",
+        "releases.0.note": "A third-person shooter action game officially launching on October 6, depicting the brutal survival and battles during the series' early Emergence Day.",
+        "releases.0.dev": "The Coalition",
+        "releases.1.game": "Star Wars: Galactic Racer",
+        "releases.1.note": "A new sci-fi racing title launching on October 6, featuring thrilling, high-speed Podracing action.",
+        "releases.1.dev": "Lucasfilm Games",
+        "releases.2.game": "Olympos 2249",
+        "releases.2.note": "A new sci-fi cyberpunk action-adventure game launching on Steam on October 6.",
+        "releases.2.dev": "Indie Developer",
+        "releases.3.game": "Clive Barker's Hellraiser: Revival",
+        "releases.3.note": "A survival horror game releasing on October 8, exploring the bizarre and distinctive universe of the renowned horror film franchise Hellraiser.",
+        "releases.3.dev": "Saber Interactive",
+        "releases.4.game": "Dragon's Dogma 2",
+        "releases.4.note": "A massive expansion, 'Dark Arisen Expansion', releases on October 8, introducing a new high-difficulty endgame area, additional equipment, and monsters.",
+        "releases.4.dev": "Capcom",
+        "releases.5.game": "Neon Abyss 2",
+        "releases.5.note": "A sequel to the roguelike action platformer releasing on October 8, featuring 4-player co-op multiplayer and an enhanced item synergy system.",
+        "releases.5.dev": "Veewo Games",
+        "events.0.name": "Zenless Zone Zero Ver. 3.3 Special Preview Program",
+        "events.0.note": "Ver. 3.3 'Once More, Soar into the Sky' - Revealing new Agents and update details",
+        "events.0.venue": "Online",
+        "events.1.name": "The 21st Gyeonggi Game Audition Finals",
+        "events.1.note": "Final presentations and demo evaluations for 13 finalists selected through record-high competition",
+        "events.1.venue": "Gyeonggi Center for Creative Economy & Innovation, Pangyo"
+      },
+      "briefing": {
+        "items.0.title": "UK Court Begins Full Hearing on Google Play Store Fee Class Action",
+        "items.0.source": "Inven",
+        "items.0.time": "October 6",
+        "items.1.title": "Nexon to Adapt 'ARC Raiders' and 'THE FINALS' for Hollywood",
+        "items.1.source": "Inven",
+        "items.1.time": "October 6",
+        "items.2.title": "Hideo Kojima Unveils Details on Next-Gen Action Spy Game 'Physint'",
+        "items.2.source": "IGN India",
+        "items.2.time": "October 5",
+        "items.3.title": "Controversy Erupts Over 'NBA 2K25' Delisting and Single-Player Blocking Just 2 Years After Launch",
+        "items.3.source": "IGN India",
+        "items.3.time": "October 5",
+        "items.4.title": "Square Enix Releases Special 25th Anniversary Video for 'Kingdom Hearts'",
+        "items.4.source": "Famitsu",
+        "items.4.time": "October 5",
+        "items.5.title": "Classic Arcade Collection 'Psikyo Memories' Coming to Consoles Next February",
+        "items.5.source": "Dengeki Online",
+        "items.5.time": "October 5",
+        "items.6.title": "Newzoo: \"PC Anime Gacha RPGs Drive the F2P Market\"",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "October 5"
+      },
+      "drk": {
+        "title": "The End of Digital Ownership: When Games Become $70 Rentals",
+        "intro": "What if a full-priced packaged game became completely unplayable after just two years?\nThe concept of 'game ownership' that we took for granted is quietly collapsing.",
+        "points": "Controversy has erupted over news that 2K's flagship sports title 'NBA 2K25' is being delisted and completely blocking access to single-player modes just two years after release. Going beyond shutting down online multiplayer servers, this extreme measure even blocks offline career mode and basic gameplay. 🏀\n\nExcessive live-service integration into packaged titles is fundamentally disrupting **game consumption structures** and **consumer sentiment**. As always-online requirements encroach upon single-player content, consumers are unilaterally stripped of their rightfully purchased access to play under the publisher's pretext of reducing server maintenance costs. This fosters deep distrust in digital packaged purchases overall. 📉\n\nThis incident is not merely about a single sports game; it is an alarm bell ringing across the entire digital distribution market. **Gamers are no longer purchasing complete ownership, but rather a temporary access pass that can be revoked at any time at the developer's whim.** 🏷️\n\nWithout institutional safeguards to protect software preservation and consumers' perpetual usage rights, the value of the packaged game market will continue to plummet. Will the games currently in your library truly remain yours five years from now? 🎮"
+      },
+      "gamescene": {
+        "game": "Goddess of Victory: Nikke",
+        "title": "A New Dawn for Surface Reclamation: Massive 4th Anniversary Battlefield",
+        "comment": "As a bonus visual preview alongside the analysis, we prompted an AI to visualize an in-game surface battle scene featuring the next new Pilgrim character from <Goddess of Victory: Nikke>, which recently teased an unprecedented anniversary update."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "Gears of War: E-Day",
+        "releases.0.note": "10月6日に正式リリースされる三人称視点シューティングアクションゲームで、シリーズ初期のエマージェンス・デイにおける壮絶な生存と戦いを描きます。",
+        "releases.0.dev": "The Coalition",
+        "releases.1.game": "スター・ウォーズ：ギャラクティック・レーサー",
+        "releases.1.note": "10月6日にリリースされるSFレーシングの新作で、ポッドレースのスリルあふれる高速ドライビングアクションをお届けします。",
+        "releases.1.dev": "ルーカスフィルム・ゲームズ",
+        "releases.2.game": "オリンポス2249",
+        "releases.2.note": "10月6日にSteamを通じてリリースされるSFサイバーパンクが舞台のアクションアドベンチャーの新作です。",
+        "releases.2.dev": "インディー開発会社",
+        "releases.3.game": "クライヴ・バーカーのヘルレイザー：リバイバル",
+        "releases.3.note": "10月8日にリリースされるサバイバルホラーゲームで、名作ホラー映画IP『ヘル・レイザー』の奇怪で独創的な世界観を探索します。",
+        "releases.3.dev": "セイバー・インタラクティブ",
+        "releases.4.game": "ドラゴンズドグマ 2",
+        "releases.4.note": "10月8日に大型拡張コンテンツ「ダークアリズン エクスパンション」がリリースされ、新規の高難度エンドコンテンツエリアや追加装備、モンスターが導入されます。",
+        "releases.4.dev": "カプコン",
+        "releases.5.game": "ネオンアビス 2",
+        "releases.5.note": "10月8日にリリースされるローグライク・アクションプラットフォーマーの続編で、4人協力マルチプレイや強化されたアイテムシナジーシステムに対応しています。",
+        "releases.5.dev": "Veewo Games",
+        "events.0.name": "ゼンレスゾーンゼロ Ver.3.3 予告番組",
+        "events.0.note": "Ver.3.3「ふたたび、大空へと飛び立って」新エージェントおよびアップデート情報の公開",
+        "events.0.venue": "オンライン",
+        "events.1.name": "第21回 京畿ゲームオーディション 最終決戦",
+        "events.1.note": "過去最高の倍率を勝ち抜いて選ばれた13作品の最終発表および試遊審査",
+        "events.1.venue": "板橋（パンギョ）京畿創造経済革新センター"
+      },
+      "briefing": {
+        "items.0.title": "英裁判所、Google Playの手数料を巡る集団訴訟の本格審理に着手",
+        "items.0.source": "Inven",
+        "items.0.time": "10月6日",
+        "items.1.title": "ネクソン、『ARC Raiders』『THE FINALS』のハリウッド実写映像化を発表",
+        "items.1.source": "Inven",
+        "items.1.time": "10月6日",
+        "items.2.title": "小島秀夫、次世代スパイアクション『PHYSINT』の情報を公開",
+        "items.2.source": "IGN India",
+        "items.2.time": "10月5日",
+        "items.3.title": "『NBA 2K25』、発売から2年での配信停止およびシングルプレイ遮断で物議",
+        "items.3.source": "IGN India",
+        "items.3.time": "10月5日",
+        "items.4.title": "スクウェア・エニックス、『キングダム ハーツ』25周年記念特別映像を公開",
+        "items.4.source": "Famitsu",
+        "items.4.time": "10月5日",
+        "items.5.title": "アーケード名作選『彩京メモリーズ』、来年2月にコンソール向け発売",
+        "items.5.source": "電撃オンライン",
+        "items.5.time": "10月5日",
+        "items.6.title": "Newzoo「PCのサブカル系ガチャRPGがF2P市場を牽引」",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "10月5日"
+      },
+      "drk": {
+        "title": "デジタル所有権の終焉、70ドルのレンタル権へと成り下がったゲームたち",
+        "intro": "定価で購入したパッケージゲームが、わずか2年で起動すらできなくなったらどう感じるでしょうか？\n私たちが当たり前だと思っていた「ゲームの所有権」という概念が、静かに崩壊しつつあります。",
+        "points": "2Kの代表的なスポーツタイトル『NBA 2K25』が、リリースからわずか2年で配信停止となり、シングルプレイモードへのアクセスまでもが完全に遮断されるという知らせが大きな波紋を呼んでいます。オンラインマルチプレイのサーバー終了にとどまらず、オフラインでも楽しめるはずのキャリアモードや基本プレイまでも封殺する極端な措置です。🏀\n\nパッケージタイトルの過度なライブサービス化は、**ゲームの消費構造**と**消費者の心理**を根底から揺るがしています。常時オンライン接続（Always-Online）がシングルコンテンツにまで侵食し、パブリッシャーのサーバー維持費削減という名目のもと、消費者が正当な対価を支払って獲得したプレイする権利が一方的に剥奪されています。これは、デジタルパッケージの購入全般に対する深刻な不信感へとつながります。📉\n\n今回の事態は、単なるスポーツゲーム1つの問題にとどまらず、デジタル流通市場全体に警鐘を鳴らすものです。**今やゲーマーが購入しているのは完全な所有権ではなく、開発会社の気まぐれ次第でいつでも破棄されかねない期限付きのアクセス権（入場チケット）にすぎません。** 🏷️\n\nソフトウェアの保存と消費者の恒久的な利用権を保護する制度的な仕組みが整備されなければ、パッケージ市場の価値は下落し続けるでしょう。皆さんのライブラリに保管されているゲームたちは、果たして5年後も変わらず皆さんのものとして残っているでしょうか？ 🎮"
+      },
+      "gamescene": {
+        "game": "勝利の女神：NIKKE",
+        "title": "地上奪還戦の新たな幕開け、4周年を記念した大規模戦場",
+        "comment": "前述の分析に加えてボーナスとして用意したビジュアルプレビューとして、過去最大級の周年アップデートを予告した『勝利の女神：NIKKE』の次期ピルグリム新キャラクターと、地上決戦のゲーム内戦闘シーンをAIにビジュアル化させました。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "70달러 주고 샀는데 내 게임이 아니라고? 💸 디지털 소유권의 종말",
+    "en": "You paid $70, but you don't actually own it? 💸 The death of digital ownership",
+    "ja": "70ドル払っても「自分の物」にならない？💸 デジタル所有権の終焉"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "내가 돈 주고 산 게임이 하루아침에 사라진다면? 💸\n2년 만에 싱글까지 막힌 NBA 2K25 논란, 이제 게임은 소유가 아니라 대여인 걸까요? 🎮\n\nhttps://www.gtplayer.net/edition-140/\n#NBA2K25 #기어스오브워 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-10-06T07:01:29.190567"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "10월 6일 오늘의 게임 소식 🎮 70달러 주고 산 게임이 내 것이 아니라고?!\n\n📰 [뉴스] NBA 2K25의 2년 만의 싱글 차단 논란부터 넥슨 IP 헐리우드 영상화, 코지마 신작 피진트 정보까지\n📅 [출시] 기어스 오브 워: E-데이, 스타워즈: 갤럭틱 레이서 등 이번 주 기대작 총정리\n✍️ [인사이트] 70달러짜리 대여권이 된 게임들, 조용히 붕괴하는 디지털 소유권의 현실\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#gtplayer #게임뉴스 #게임소식 #게임정보 #신작게임 #게임추천 #게임스타그램 #게이머 #콘솔게임 #PC게임 #스팀게임 #플레이스테이션 #엑스박스 #기어스오브워 #스타워즈 #코지마히데오 #NBA2K #넥슨 #게임덕후 #게임리뷰",
+          "image_paths": [
+            "web\\instagram\\edition_140\\card_cover.png",
+            "web\\instagram\\edition_140\\card_news.png",
+            "web\\instagram\\edition_140\\card_calendar.png",
+            "web\\instagram\\edition_140\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "4001514400293056588_39332818166",
+            "url": "https://www.instagram.com/p/DeIPCVpE_BM/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-10-06T07:01:56.435556"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "You paid $70, but you don't actually own it? 💸 The death of digital ownership\n\nHideo Kojima just dropped fresh details on his next-gen spy thriller, while Nexon gears up to bring its biggest hits to Hollywood.\nCatch up on the hottest new game releases this week and the mounting controversy shaking the future of player ownership.\n\nhttps://www.gtplayer.net/edition-140-en/",
+        "error": null
+      },
+      "updated_at": "2026-10-06T07:02:38.900757"
+    }
+  }
+}

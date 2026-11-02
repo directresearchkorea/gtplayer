@@ -1,0 +1,440 @@
+{
+  "num": "051",
+  "date": "2026-05-13",
+  "status": "published",
+  "schedule": {
+    "date": "2026-05-13",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "update",
+          "game": "배틀그라운드 모바일",
+          "dev": "크래프톤",
+          "date": "5월 12일(화)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "서비스 8주년을 기념해 5월 12일 업데이트를 실시하였으며, 신화 테마의 '올림포스' 모드와 다양한 축제 콘텐츠를 새롭게 선보였습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1775068",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "니트로 젠 오메가",
+          "dev": "DESTINYbit",
+          "date": "5월 12일(화)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X|S"
+          ],
+          "color": "#10b981",
+          "note": "5월 12일 정식 출시된 턴제 택티컬 RPG로, 애니메이션 스타일의 연출과 자유로운 메카 커스터마이징 시스템을 특징으로 합니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/845/G084576/20260512046/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "전국영웅담",
+          "dev": "HAKUSHU",
+          "date": "5월 12일(화)",
+          "platforms": [
+            "iOS"
+          ],
+          "color": "#10b981",
+          "note": "일본 전국 시대를 배경으로 한 초고속 핵앤슬래시 RPG로, 5월 12일 iOS 버전이 정식 출시되며 기념 세일을 진행합니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202605/74520",
+          "source_name": "電撃オンライン"
+        },
+        {
+          "category": "update",
+          "game": "더 디비전 리서전스",
+          "dev": "유비소프트",
+          "date": "5월 13일(수)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "5월 13일 시즌 1 페이즈 2가 공식 개막하며, 새로운 스토리 미션과 오픈월드 활동이 포함된 대규모 업데이트가 적용되었습니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/tom-clancys-the-division-mobile/260675/the-division-resurgence-official-season-1-phase-2-launch-trailer",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "release",
+          "game": "호텔 아키텍트",
+          "dev": "Cult Games",
+          "date": "5월 14일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "5월 14일 정식 출시되는 호텔 경영 시뮬레이션 게임으로, 전 세계 주요 도시를 배경으로 자유로운 호텔 설계와 운영을 즐길 수 있습니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202605/74546",
+          "source_name": "電撃オンライン"
+        },
+        {
+          "category": "release",
+          "game": "서브노티카 2",
+          "dev": "언노운 월즈",
+          "date": "5월 15일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "5월 15일 얼리 액세스로 출시되는 심해 생존 게임의 후속작으로, 4인 협동 플레이와 새로운 외계 행성 탐험을 지원합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316329",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "2026 플레이엑스포(PlayX4) K-아케이드 공동관",
+          "note": "한국아케이드게임산업협회 주관 대규모 공동관 운영 및 기자간담회 진행",
+          "venue": "일산 킨텍스(KINTEX) 제1전시장",
+          "date": "2026-05-21 ~ 2026-05-24",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=316333"
+        },
+        {
+          "name": "2026 LCK 정규 시즌 7주 차 '새터데이 쇼다운'",
+          "note": "상위권 순위 경쟁의 분수령이 될 젠지(Gen.G)와 T1의 맞대결",
+          "venue": "온라인 / LCK 아레나",
+          "date": "2026-05-16",
+          "tag": "e스포츠",
+          "website": "https://www.gamemeca.com/view.php?gid=1775074"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "SNK, 'VS 스튜디오' 설립 및 하라다 카츠히로 대표 선임",
+          "source": "인벤",
+          "time": "5월 13일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316351"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "엔씨, 신작 '아스트라에 오라티오' 주요 캐릭터 공개",
+          "source": "인벤",
+          "time": "5월 12일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316341"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "영국 정계, 락스타 게임즈의 해고 절차 대응 방식 비판",
+          "source": "IGN India",
+          "time": "5월 12일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/grand-theft-auto-vi/260688/uk-politicians-say-gta-6-developer-rockstar-refused-to-properly-engage-with-appeal-processes-after-f"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'마블 라이벌즈', 신규 캐릭터 데빌 다이노소어 공개",
+          "source": "IGN India",
+          "time": "5월 12일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/marvel-rivals/260683/marvel-rivals-official-devil-dinosaur-character-reveal-trailer"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "스위치 2 전용 '테이블게임 월드', 2026년 11월 출시",
+          "source": "4Gamer",
+          "time": "5월 12일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/005/G100594/20260512041/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "인기 그리기 게임 'Draw & Guess', 모바일 버전 출시",
+          "source": "4Gamer",
+          "time": "5월 12일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/005/G100592/20260512039/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "시프트업, 소니와 협력 종료 및 차기작 독자 행보 예고",
+          "source": "GamesIndustry.biz",
+          "time": "5월 12일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/stellar-blade-studio-shift-up-breaks-from-publishing-partner-sony-for-high-quality-self-publishing"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "플랫폼 종속을 거부하는 'IP 주권 시대'의 서막",
+      "intro": "거대 플랫폼의 그늘을 벗어나 홀로서기를 선택한 개발사의 결단은 우연이 아닙니다. \n게임 산업의 권력 추가 플랫폼 홀더에서 '독보적인 IP'를 가진 제작사로 이동하고 있습니다.",
+      "points": "시프트업이 소니와의 협업 종료를 선언하며 차기작의 독자 행보를 예고했습니다. 이는 '스텔라 블레이드'의 성공으로 검증된 개발력을 바탕으로, 특정 플랫폼에 종속되지 않는 독립적인 퍼블리싱 구조를 구축하겠다는 강력한 의지의 표명입니다. 🔍\n\n이러한 변화는 **플랫폼 구조와 게임 소비 구조**에 근본적인 균열을 일으킵니다. 성공 궤도에 오른 개발사들은 리스크 분산보다 IP의 완전한 소유와 멀티 플랫폼 확장을 통한 수익 극대화를 선택하고 있습니다. 소비자들은 특정 기기 구매에 구애받지 않고 고품질 콘텐츠를 즐길 수 있는 환경을 점차 보장받게 될 것입니다. 🎮\n\n결국 시장의 패러다임은 플랫폼 충성도에서 **'IP 주권(IP Sovereignty)'** 확보로 완전히 전환되었습니다. 독보적인 콘텐츠를 보유한 스튜디오가 플랫폼 홀더와 대등하거나 혹은 우위의 위치에서 협상력을 갖는 시대가 도래한 것입니다. 💡\n\n과연 시프트업의 이러한 '탈(脫) 플랫폼' 실험이 글로벌 메이저 스튜디오들의 새로운 표준이 될 수 있을까요? 거대 자본의 보호막 없이도 글로벌 시장을 흔들 수 있는 진정한 자생력이 시험대에 올랐습니다. 🌏"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": true,
+      "title": "Subnautica 2 Early Access Cinematic Trailer",
+      "channel": "Subnautica",
+      "videoId": "8EZhCzFaQuw",
+      "url": "https://www.youtube.com/watch?v=8EZhCzFaQuw",
+      "thumbnail": "https://i.ytimg.com/vi/8EZhCzFaQuw/hqdefault.jpg",
+      "comment": "드디어 공개된 <서브노티카 2> 티저 영상의 웅장한 사운드가 심해의 신비로움을 전하며 화제입니다! 🌊 오늘 퇴근길, 이어폰을 꽂고 미지의 바다로 떠나는 상상에 빠져보세요. 🎧 깊고 고요한 선율이 일상의 피로를 씻어줄 거예요. 🐟 새로운 모험의 서막을 여는 아름다운 곡을 지금 감상해 보세요!",
+      "search_query": "Subnautica 2 Official Soundtrack",
+      "ai_game_name": "서브노티카 2 (Subnautica 2)",
+      "ai_reason": "전작의 상징적인 '심해 신스' 감성을 계승하면서도, 새로운 외계 행성의 신비로움과 협동 플레이의 긴장감을 한층 세련된 일렉트로닉 앰비언트 사운드로 구현해내어 깊은 몰입감을 선사합니다."
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=051&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=051&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "PUBG MOBILE",
+        "releases.0.note": "An update was conducted on May 11 (UTC) to celebrate the 8th anniversary of the service, introducing the Mythic-themed 'Olympus' mode and various new festival content.",
+        "releases.0.dev": "KRAFTON",
+        "releases.1.game": "Nitrogen OMEGA",
+        "releases.1.note": "A turn-based tactical RPG officially released on May 11 (UTC), featuring anime-style direction and a free mecha customization system.",
+        "releases.1.dev": "DESTINYbit",
+        "releases.2.game": "Sengoku Hero Tales",
+        "releases.2.note": "A high-speed hack-and-slash RPG set in Japan's Sengoku period; the iOS version officially launches on May 11 (UTC) with a commemorative sale.",
+        "releases.2.dev": "HAKUSHU",
+        "releases.3.game": "The Division Resurgence",
+        "releases.3.note": "Season 1 Phase 2 officially kicks off on May 12 (UTC), featuring a major update with new story missions and open-world activities.",
+        "releases.3.dev": "Ubisoft",
+        "releases.4.game": "Hotel Architect",
+        "releases.4.note": "A hotel management simulation game officially releasing on May 13 (UTC), allowing players to enjoy free hotel design and operation set in major cities around the world.",
+        "releases.4.dev": "Cult Games",
+        "releases.5.game": "Subnautica 2",
+        "releases.5.note": "The sequel to the deep-sea survival game releasing in Early Access on May 14 (UTC), supporting 4-player co-op and exploration of a new alien planet.",
+        "releases.5.dev": "Unknown Worlds",
+        "events.0.name": "2026 PlayX4 K-Arcade Pavilion",
+        "events.0.note": "Operation of a large-scale joint pavilion and a press conference hosted by the Korea Arcade Game Industry Association (KAGIA).",
+        "events.0.venue": "KINTEX Exhibition Center 1, Ilsan",
+        "events.1.name": "2026 LCK Regular Season Week 7 'Saturday Showdown'",
+        "events.1.note": "A showdown between Gen.G and T1 that will be a watershed moment in the competition for top rankings.",
+        "events.1.venue": "Online / LCK Arena"
+      },
+      "briefing": {
+        "items.0.title": "SNK Establishes 'VS Studio' and Appoints Katsuhiro Harada as Representative",
+        "items.0.source": "Inven",
+        "items.0.time": "May 12 (UTC)",
+        "items.1.title": "NCSOFT Reveals Main Characters for New Title 'Astrae Oratio'",
+        "items.1.source": "Inven",
+        "items.1.time": "May 11 (UTC)",
+        "items.2.title": "UK Politicians Criticize Rockstar Games' Handling of Layoff Procedures",
+        "items.2.source": "IGN India",
+        "items.2.time": "May 11 (UTC)",
+        "items.3.title": "'Marvel Rivals' Reveals New Character Devil Dinosaur",
+        "items.3.source": "IGN India",
+        "items.3.time": "May 11 (UTC)",
+        "items.4.title": "Switch 2 Exclusive 'Tablegame World' to Launch in November 2026",
+        "items.4.source": "4Gamer",
+        "items.4.time": "May 11 (UTC)",
+        "items.5.title": "Popular Drawing Game 'Draw & Guess' Launches Mobile Version",
+        "items.5.source": "4Gamer",
+        "items.5.time": "May 11 (UTC)",
+        "items.6.title": "Shift Up Ends Partnership with Sony, Announces Independent Path for Next Project",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "May 11 (UTC)"
+      },
+      "drk": {
+        "title": "The Dawn of the 'IP Sovereignty Era' Rejecting Platform Dependency",
+        "intro": "The decision of developers to leave the shadow of giant platforms and stand alone is no coincidence. The power in the game industry is shifting from platform holders to producers with 'unrivaled IP'.",
+        "points": "Shift Up has announced the end of its collaboration with Sony and signaled an independent path for its next project. This is a strong expression of will to establish an independent publishing structure that is not subordinate to specific platforms, based on development power proven through the success of 'Stellar Blade'. 🔍\n\nThis change causes a fundamental crack in **platform structures and game consumption patterns**. Successful developers are choosing to maximize profits through full IP ownership and multi-platform expansion rather than risk distribution. Consumers will increasingly be guaranteed an environment where they can enjoy high-quality content without being bound to the purchase of specific hardware. 🎮\n\nUltimately, the market paradigm has completely shifted toward securing **'IP Sovereignty'**. We have entered an era where studios with unrivaled content hold bargaining power equal to or even greater than platform holders. 💡\n\nWill Shift Up's 'post-platform' experiment become the new standard for major global studios? Their true self-sufficiency, capable of moving the global market even without the shield of giant capital, is now on the test. 🌏"
+      },
+      "soundtrack": {
+        "title": "Subnautica 2 Early Access Cinematic Trailer",
+        "comment": "The grand sound of the newly released <Subnautica 2> teaser video is creating a buzz, conveying the mysteries of the deep sea! 🌊 On your way home today, put on your earphones and immerse yourself in the imagination of traveling to the unknown ocean. 🎧 The deep and calm melody will wash away the fatigue of your daily life. 🐟 Listen now to this beautiful track that opens the curtain on a new adventure!"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "PUBG MOBILE",
+        "releases.0.note": "サービス8周年を記念して5月12日にアップデートを実施し、神話テーマの「オリンポス」モードや様々なフェスティバルコンテンツを新たに公開しました。",
+        "releases.0.dev": "KRAFTON",
+        "releases.1.game": "Nitro Gen Omega",
+        "releases.1.note": "5月12日に正式リリースされたターン制タクティカルRPGで、アニメスタイルの演出と自由なメカカスタマイズシステムを特徴としています。",
+        "releases.1.dev": "DESTINYbit",
+        "releases.2.game": "戦国英雄譚",
+        "releases.2.note": "日本の戦国時代を舞台にした超高速ハックアンドスラッシュRPGで、5月12日にiOS版が正式リリースされ、記念セールを開催します。",
+        "releases.2.dev": "HAKUSHU",
+        "releases.3.game": "ディビジョン リサージェンス",
+        "releases.3.note": "5月13日にシーズン1・フェーズ2が公式開幕し、新しいストーリーミッションやオープンワールドアクティビティを含む大規模アップデートが適用されました。",
+        "releases.3.dev": "ユービーアイソフト",
+        "releases.4.game": "ホテル・アーキテクト",
+        "releases.4.note": "5月14日に正式リリースされるホテル経営シミュレーションゲームで、世界中の主要都市を舞台に自由なホテル設計と運営を楽しむことができます。",
+        "releases.4.dev": "Cult Games",
+        "releases.5.game": "Subnautica 2",
+        "releases.5.note": "5月15日に早期アクセスでリリースされる深海サバイバルゲームの続編で、4人協力プレイと新しいエイリアンの惑星探査をサポートしています。",
+        "releases.5.dev": "Unknown Worlds",
+        "events.0.name": "2026 PlayX4 K-アーケード共同館",
+        "events.0.note": "韓国アーケードゲーム産業協会主催の大規模共同館の運営および記者懇談会の進行",
+        "events.0.venue": "一山（イルサン）KINTEX 第1展示場",
+        "events.1.name": "2026 LCKレギュラーシーズン 第7週「Saturday Showdown」",
+        "events.1.note": "上位圏の順位争いの分水嶺となるGen.GとT1の対決",
+        "events.1.venue": "オンライン / LCKアリーナ"
+      },
+      "briefing": {
+        "items.0.title": "SNK、「VSスタジオ」設立および原田勝弘氏を代表に選任",
+        "items.0.source": "Inven",
+        "items.0.time": "5月13日",
+        "items.1.title": "NC、新作『Astrae Oratio』の主要キャラクターを公開",
+        "items.1.source": "Inven",
+        "items.1.time": "5月12日",
+        "items.2.title": "英国政界、ロックスター・ゲームスの解雇手続きへの対応を批判",
+        "items.2.source": "IGN India",
+        "items.2.time": "5月12日",
+        "items.3.title": "『Marvel Rivals』、新キャラクター「デビル・ダイナソー」を公開",
+        "items.3.source": "IGN India",
+        "items.3.time": "5月12日",
+        "items.4.title": "Switch 2専用『テーブルゲームワールド』、2026年11月発売",
+        "items.4.source": "4Gamer",
+        "items.4.time": "5月12日",
+        "items.5.title": "人気のお絵描きゲーム『Draw & Guess』、モバイル版をリリース",
+        "items.5.source": "4Gamer",
+        "items.5.time": "5月12日",
+        "items.6.title": "SHIFT UP、ソニーとの協力終了および次期作の独自路線を予告",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "5月12日"
+      },
+      "drk": {
+        "title": "プラットフォーム従属を拒否する「IP主権時代」の幕開け",
+        "intro": "巨大なプラットフォームの影を脱し、自立を選択した開発会社の決断は偶然ではありません。ゲーム産業の権力の中心がプラットフォームホルダーから「独歩的なIP」を持つ制作会社へと移動しています。",
+        "points": "SHIFT UPがソニーとの協力終了を宣言し、次期作の独自展開を予告しました。これは『ステラブレイド』の成功で証明された開発力を背景に、特定のプラットフォームに従属しない独立したパブリッシング構造を構築しようとする強い意志の表れです。 🔍\n\nこのような変化は、**プラットフォーム構造とゲーム消費構造**に根本的な亀裂を生じさせます。成功軌道に乗った開発会社は、リスク分散よりもIPの完全な所有とマルチプラットフォーム展開による収益の最大化を選択しています。ユーザーは、特定の機器の購入に縛られず、高品質なコンテンツを楽しめる環境が徐々に保障されるようになるでしょう。 🎮\n\n結局、市場のパラダイムはプラットフォームへの忠誠心から**「IP主権（IP Sovereignty）」**の確保へと完全に転換されました。独歩的なコンテンツを保有するスタジオが、プラットフォームホルダーと対等、あるいはそれ以上の立場で交渉力を持つ時代が到来したのです。 💡\n\n果たして、SHIFT UPのこのような「脱プラットフォーム」の試みが、グローバルメジャースタジオの新たな標準となるのでしょうか。巨大資本の保護なしにグローバル市場を揺るがすことができる真の自生力が試されています。 🌏"
+      },
+      "soundtrack": {
+        "title": "Subnautica 2 Early Access Cinematic Trailer",
+        "comment": "ついに公開された『Subnautica 2』ティーザー映像の壮大なサウンドが、深海の神秘を伝え話題となっています！ 🌊 今日の仕事帰り、イヤホンをつけて未知の海へと旅立つ想像に浸ってみてください。 🎧 深く静かな旋律が日常の疲れを癒してくれるでしょう。 🐟 新しい冒険の幕開けを飾る美しい楽曲を、ぜひ今すぐ鑑賞してください！"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "플랫폼의 시대는 끝났다? 'IP 주권'의 서막 🎮 (feat. 서브노티카 2 역대급 트레일러 🌊)",
+    "en": "Platforms are losing their grip! The rise of 'IP Sovereignty' ✊ (feat. Subnautica 2 Cinematic Trailer 🌊)",
+    "ja": "プラットフォーム依存はもう古い？「IP主権」時代の幕開け 🎮 (＋Subnautica 2 衝撃の最新映像 🌊)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "서브노티카 2 트레일러 보고 가슴이 웅장해졌네요! 🌊\nSNK가 철권의 하라다 대표와 손잡고 'VS 스튜디오'를 설립했다는 소식, 다들 들으셨나요? 🎮\nhttps://www.gtplayer.net/edition-051/\n#SNK #게임소식 #GTPlayer",
+          "posted": true,
+          "data": {
+            "data": {
+              "edit_history_tweet_ids": [
+                "2054322006942978155"
+              ],
+              "text": "서브노티카 2 트레일러 보고 가슴이 웅장해졌네요! 🌊\nSNK가 철권의 하라다 대표와 손잡고 'VS 스튜디오'를 설립했다는 소식, 다들 들으셨나요? 🎮\nhttps://t.co/50YN10Wgtv\n#SNK #게임소식 #GTPlayer",
+              "id": "2054322006942978155"
+            }
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-13T07:05:08.248980"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "5월 13일 오늘의 게임 소식 🎮 플랫폼의 시대가 저물고 'IP 주권'의 시대가 시작됩니다!\n\n📰 [뉴스] SNK의 새로운 도전과 락스타를 향한 영국 정계의 비판, 그리고 베일 벗은 엔씨의 신작까지!\n🗓️ [출시] 역대급 트레일러로 돌아온 <서브노티카 2>와 이번 주 꼭 체크해야 할 신작 리스트 🌊\n🧐 [인사이트] 거대 플랫폼의 그늘을 벗어나 '독보적인 IP'로 홀로서기를 선택한 개발사들의 결단!\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임덕후 #게임추천 #신작게임 #GTPLAYER #서브노티카2 #엔씨소프트 #아스트라에오라티오 #락스타게임즈 #SNK #마블라이벌즈 #배틀그라운드모바일 #디비전리서전스 #닌텐도스위치2 #게임산업 #IP주권 #게임스타그램 #PC게임 #모바일게임 #콘솔게임",
+          "image_paths": [
+            "web\\instagram\\edition_051\\card_news.png",
+            "web\\instagram\\edition_051\\card_calendar.png",
+            "web\\instagram\\edition_051\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3895698984879247907_39332818166",
+            "url": "https://www.instagram.com/p/DYQTZYhk9Ij/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-13T07:05:39.758075"
+    }
+  }
+}

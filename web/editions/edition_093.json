@@ -1,0 +1,452 @@
+{
+  "num": "093",
+  "date": "2026-07-31",
+  "status": "published",
+  "schedule": {
+    "date": "2026-07-31",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "새나라: 더 새크라멘트",
+          "dev": "인플루전",
+          "date": "7월 30일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "7월 30일 스팀에 정식 출시된 1인칭 서바이벌 호러 게임으로, 거대한 여객선을 배경으로 한 메트로배니아식 탐험을 다룹니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319024",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "고요한 시골 정원 이야기",
+          "dev": "니폰이치 소프트웨어",
+          "date": "7월 30일(목)",
+          "platforms": [
+            "Console",
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "7월 30일 정식 출시된 생활 시뮬레이션 게임으로, 공포 요소를 결합한 오컬트 시골 마을에서의 독특한 일상을 선사합니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1778484",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "THE 라그나로크",
+          "dev": "그라비티",
+          "date": "7월 30일(목)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "7월 30일 원스토어 및 갤럭시 스토어에 추가 정식 출시된 2D MMORPG로, 원작의 향수를 담은 다양한 콘텐츠를 선보입니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319022",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "나 혼자만 레벨업:어라이즈",
+          "dev": "넷마블",
+          "date": "7월 30일(목)",
+          "platforms": [
+            "PC",
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "7월 30일 업데이트를 통해 신규 계승자 '그림자 군주 성진우'가 추가되었으며 암속성 전용 그림자 연계 공격을 선보입니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319023",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "카오스 제로 나이트메어",
+          "dev": "슈퍼크리에이티브",
+          "date": "7월 30일(목)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "7월 30일 시즌 4 '부서진 빛과 발톱' 업데이트가 적용되었으며 신규 5성 전투원 '힐데'와 새로운 파트너가 추가됩니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1778478",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "더 레릭: 퍼스트 가디언",
+          "dev": "프로젝트 클라우드 게임즈",
+          "date": "7월 31일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "7월 31일 스팀에 정식 출시되는 액션 RPG로, 멸망해가는 세계를 구하기 위한 가디언의 모험과 역동적인 전투를 다룹니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2827820/The_Relic_First_Guardian/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "펀엑스포 2026 반다이남코 부스",
+          "note": "드래곤볼 제노버스3 등 신작 게임 시연 및 인기 애니메이션 IP 전시",
+          "venue": "코엑스 마곡 컨벤션센터",
+          "date": "2026-07-30 ~ 2026-08-02",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=319026"
+        },
+        {
+          "name": "2026 GOTF 아스타나 PUBG",
+          "note": "글로벌 e스포츠 대회 배틀그라운드 종목 중계",
+          "venue": "온라인 (SOOP)",
+          "date": "2026-07-31",
+          "tag": "e스포츠",
+          "website": "https://www.gamemeca.com/view.php?gid=1778496"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "엔씨, 셩취게임즈와 '아이온2' 중국 퍼블리싱 협력",
+          "source": "인벤",
+          "time": "7월 30일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319030"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "KT '에이밍' 김하람, DRX '지우'와 전격 트레이드",
+          "source": "인벤",
+          "time": "7월 30일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319034"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'엘더스크롤 온라인', 조직 개편으로 일부 콘텐츠 2027년 연기",
+          "source": "4Gamer",
+          "time": "7월 31일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/155/G015581/20260731001/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'도쿄게임쇼 2026', 비즈니스 데이 사전등록 시작",
+          "source": "4Gamer",
+          "time": "7월 30일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/991/G999110/20260730043/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "아케이드 퍼즐 '루미네스 리마스터' 모바일 버전 출시",
+          "source": "IGN India",
+          "time": "7월 30일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/267662/lumines-remastered-official-mobile-launch-trailer"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "러닝 액션 신작 '스피드러너즈 2' 공식 출시일 발표",
+          "source": "IGN India",
+          "time": "7월 30일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/speedrunners-2-king-of-speed/267668/speedrunners-2-king-of-speed-official-release-date-reveal-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'기어스 오브 워: E-Day', 배틀패스 없는 멀티 모드 선언",
+          "source": "PC Gamer",
+          "time": "7월 30일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-e-day-devs-are-embracing-old-school-multiplayer-in-2026-no-battle-pass-no-tour-of-duty-no-gimmicks-no-bullsh-t/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "MS, Xbox 연간 매출 17억 달러 감소… 하드웨어 급락",
+          "source": "GamesIndustry.biz",
+          "time": "7월 30일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/xbox-revenue-plunges-17bn-with-hardware-dropping-29-yoy"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "하드웨어 둔화와 배틀패스 포기: 콘솔 시장의 필연적 패러다임 전환 📉🎮",
+      "intro": "마이크로소프트의 하드웨어 매출 급락과 <기어스 오브 워: E-Day>의 '배틀패스 폐지' 선언은 과연 우연의 일치일까요? 🔍\n콘솔 거인들이 마주한 위기 속에서 게임 소비 구조가 어떻게 재편되고 있는지 그 이면을 들여다봅니다.",
+      "points": "최근 마이크로소프트의 Xbox 연간 하드웨어 매출이 17억 달러 급감한 반면, 기대를 모으는 신작 <기어스 오브 워: E-Day>는 배틀패스가 없는 멀티플레이 모드를 선언했습니다. 이는 전용 기기 판매와 지속적인 부가 결제에 의존하던 전통적 콘솔 비즈니스 모델이 성장 한계에 다다랐음을 보여주는 명확한 신호입니다. 📊\n\n이러한 현상은 플랫폼 구조의 변화와 과도한 수익화 모델에 지친 소비자 심리가 반영된 결과입니다. 게이머들은 일상적인 숙제처럼 강요되는 라이브 서비스 과금 체계에 피로감을 느끼고 있으며, 이는 고가의 하드웨어 구매 유인을 낮추고 합리적인 단품 구매나 구독형 소비로 전환하는 계기가 되고 있습니다. 💡\n\n결국 핵심은 기기 보급을 통한 락인(Lock-in) 전략의 시대가 저물고 있다는 점입니다. **향후 콘솔 산업의 주도권은 기기 자체의 성능이 아닌, 게이머의 피로도를 낮추는 본질적인 재미와 유연한 플랫폼 접근성에 달려 있습니다.** 🎯\n\n유저를 지치게 만드는 과금 체계를 덜어내고 게임 본연의 가치로 돌아가는 시도가 둔화된 콘솔 시장에 새로운 돌파구가 될 수 있을까요? 여러분은 이에 대해 어떻게 생각하시나요? ❓"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "에픽게임즈 주간 무료 게임",
+      "url": "https://store.epicgames.com/ko/free-games",
+      "thumbnail": "",
+      "comment": "이번 주 에픽게임즈 무료 배포 및 대표 할인 소식은 아쉽게도 쉬어갑니다. 대신 주말을 즐겁게 만들어 줄 스팀의 대형 할인과 다음 주 무료 소식을 전해드립니다! 🎁\n\n🔜 **Next Week**\n8월 7일부터는 눈보라 속에서 친구와 무전에 의지해 설산을 탈출하는 2인 협동 퍼즐 어드벤처 **<We Were Here Together>**가 에픽게임즈에서 무료 배포될 예정입니다.\n\n🎮 **스팀 주말 혜택**\n화려한 미래 도시 나이트 시티의 압도적인 몰입감을 자랑하는 오픈월드 RPG **<Cyberpunk 2077>**을 70% 할인된 가격으로 즐겨보세요! (~2026년 8월 11일 02:00까지)",
+      "steam_deal": {
+        "type": "deal",
+        "name": "Cyberpunk 2077",
+        "app_id": 1091500,
+        "url": "https://store.steampowered.com/app/1091500",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/26b96fa9c8af43189cbecbbc329ade29d9c9cf3e/header_koreana.jpg?t=1784714077",
+        "discount_percent": 70,
+        "original_price": 6600000,
+        "final_price": 1980000,
+        "end_date": "2026-08-11 02:00"
+      },
+      "epic_current": [],
+      "epic_upcoming": [
+        {
+          "title": "We Were Here Together",
+          "description": "얼어붙은 땅을 탐험하는 중에 다시 한 번 불운이 찾아왔습니다. 맹렬한 눈보라를 뚫고 비상용 신호탄이 하늘을 밝힌 뒤 무전을 통해 도움을 구하는 울부짖는 소리가 들립니다. 무전이 끊깁니다... 누구도 그들을 구하러 갈 수 없습니다. 하지만 함께라면 할 수 있지 않을까요?",
+          "url": "https://store.epicgames.com/ko/p/we-were-here-together-6a6d66",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-1w9jc.png",
+          "start_date": "2026-08-07 00:00"
+        }
+      ],
+      "epic_discounted": []
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Saenara: The Sacrament",
+        "releases.0.note": "A first-person survival horror game officially released on Steam on July 30, featuring Metroidvania-style exploration set aboard a massive cruise ship.",
+        "releases.0.dev": "Inffusion",
+        "releases.1.game": "A Quiet Country Garden Story",
+        "releases.1.note": "A life simulation game officially released on July 30, offering a unique daily life in an occult rural village combined with horror elements.",
+        "releases.1.dev": "Nippon Ichi Software",
+        "releases.2.game": "THE Ragnarok",
+        "releases.2.note": "A 2D MMORPG additionally released on ONE Store and Galaxy Store on July 30, featuring various content filled with nostalgia for the original game.",
+        "releases.2.dev": "Gravity",
+        "releases.3.game": "Solo Leveling: Arise",
+        "releases.3.note": "Through the July 30 update, the new Monarch 'Shadow Monarch Sung Jinwoo' was added, featuring dark-element exclusive shadow combo attacks.",
+        "releases.3.dev": "Netmarble",
+        "releases.4.game": "Chaos Zero Nightmare",
+        "releases.4.note": "Season 4 update 'Shattered Light and Claws' was applied on July 30, adding the new 5-star combatant 'Hilde' and a new partner.",
+        "releases.4.dev": "Super Creative",
+        "releases.5.game": "The Relic: First Guardian",
+        "releases.5.note": "An action RPG officially releasing on Steam on July 31, depicting a Guardian's adventure and dynamic combat to save a dying world.",
+        "releases.5.dev": "Project Cloud Games",
+        "events.0.name": "Fun Expo 2026 Bandai Namco Booth",
+        "events.0.note": "Demos of new games including Dragon Ball Xenoverse 3 and exhibitions of popular anime IPs",
+        "events.0.venue": "Coex Magok Convention Center",
+        "events.1.name": "2026 GOTF Astana PUBG",
+        "events.1.note": "Global esports tournament PUBG match broadcast",
+        "events.1.venue": "Online (SOOP)"
+      },
+      "briefing": {
+        "items.0.title": "NCSoft Collaborates with Shengqu Games for 'AION 2' Chinese Publishing",
+        "items.0.source": "Inven",
+        "items.0.time": "July 30",
+        "items.1.title": "KT 'Aiming' Kim Ha-ram Traded with DRX 'Jiwoo'",
+        "items.1.source": "Inven",
+        "items.1.time": "July 30",
+        "items.2.title": "'The Elder Scrolls Online' Delays Some Content to 2027 Due to Reorganization",
+        "items.2.source": "4Gamer",
+        "items.2.time": "July 31",
+        "items.3.title": "'Tokyo Game Show 2026' Starts Pre-Registration for Business Days",
+        "items.3.source": "4Gamer",
+        "items.3.time": "July 30",
+        "items.4.title": "Arcade Puzzle 'Lumines Remastered' Mobile Version Released",
+        "items.4.source": "IGN India",
+        "items.4.time": "July 30",
+        "items.5.title": "New Running Action Game 'SpeedRunners 2' Official Release Date Announced",
+        "items.5.source": "IGN India",
+        "items.5.time": "July 30",
+        "items.6.title": "'Gears of War: E-Day' Announces Multiplayer Mode Without Battle Pass",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "July 30",
+        "items.7.title": "MS Xbox Annual Revenue Drops $1.7 Billion... Hardware Plummets",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "July 30"
+      },
+      "drk": {
+        "title": "Hardware Slowdown and Abandoning Battle Passes: The Inevitable Paradigm Shift in the Console Market 📉🎮",
+        "intro": "Is Microsoft's sharp decline in hardware revenue and the announcement of 'no Battle Pass' for <Gears of War: E-Day> merely a coincidence? 🔍\nWe look behind the scenes at how game consumption structures are being reshaped amid the crisis facing console giants.",
+        "points": "While Microsoft's annual Xbox hardware revenue recently plunged by $1.7 billion, the highly anticipated new title <Gears of War: E-Day> announced a multiplayer mode without a battle pass. This is a clear sign that the traditional console business model, which relied on dedicated hardware sales and continuous microtransactions, has reached its growth limit. 📊\n\nThis phenomenon reflects changing platform structures and consumer sentiment fatigued by aggressive monetization models. Gamers are feeling tired of live-service monetization schemes forced upon them like daily homework, which reduces incentives to purchase expensive hardware and shifts consumption toward reasonable standalone purchases or subscriptions. 💡\n\nUltimately, the core point is that the era of lock-in strategies through hardware distribution is coming to an end. **The future leadership of the console industry lies not in hardware performance, but in core enjoyment that reduces player fatigue and flexible platform accessibility.** 🎯\n\nCould attempts to strip away exhausting monetization systems and return to intrinsic gaming value become a new breakthrough in a slowing console market? What do you think about this? ❓"
+      },
+      "epic": {
+        "title": "Epic Games Weekly Free Game",
+        "comment": "Unfortunately, there are no Epic Games free distributions or major discount news this week. Instead, here is Steam's major discount news to make your weekend enjoyable, along with next week's free game news! 🎁\n\n🔜 **Next Week**\nStarting August 7, the 2-player co-op puzzle adventure **<We Were Here Together>**, where you rely on walkie-talkies with a friend to escape a snowy mountain in a blizzard, will be distributed for free on Epic Games.\n\n🎮 **Steam Weekend Deal**\nEnjoy the open-world RPG **<Cyberpunk 2077>**, boasting overwhelming immersion in the brilliant futuristic Night City, at a 70% discount! (~until August 10, 2026, 17:00 UTC)"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "セ나ラ：ザ・サクラメント",
+        "releases.0.note": "7月30日にSteamで正式リリースされた一人称サバイバルホラーゲームで、巨大な客船を舞台にしたメトロイドヴァニアスタイルの探索を描いています。",
+        "releases.0.dev": "インクルージョン",
+        "releases.1.game": "静かな田舎の庭のおはなし",
+        "releases.1.note": "7月30日に正式リリースされたスローライフシミュレーションゲームで、ホラー要素を組み合わせたオカルトな田舎町でのユニークな日常をお届けします。",
+        "releases.1.dev": "日本一ソフトウェア",
+        "releases.2.game": "THE ラグナロク",
+        "releases.2.note": "7월 30日にONE storeおよびGalaxy Storeにて追加正式リリースされた2D MMORPGで、原作のノスタルジーを感じさせる多様なコンテンツをお届けします。",
+        "releases.2.dev": "グラビティ",
+        "releases.3.game": "俺だけレベルアップな件：ARISE",
+        "releases.3.note": "7月30日のアップデートにより、新規継承者「影の君主 水篠旬」が追加され、闇属性専用の影連携攻撃を披露します。",
+        "releases.3.dev": "ネットマーブル",
+        "releases.4.game": "カオス・ゼロ・ナイトメア",
+        "releases.4.note": "7月30日にシーズン4「砕かれた光と爪」アップデートが適用され、新規★5戦闘員「ヒルデ」と新しいパートナーが追加されます。",
+        "releases.4.dev": "SUPER CREATIVE",
+        "releases.5.game": "The Relic: First Guardian",
+        "releases.5.note": "7월 31日にSteamで正式リリースされるアクションRPGで、滅びゆく世界を救うためのガーディアンの冒険とダイナミックな戦闘を描いています。",
+        "releases.5.dev": "Project Cloud Games",
+        "events.0.name": "FUN EXPO 2026 バンダイナムコブース",
+        "events.0.note": "『ドラゴンボール ゼノバース3』などの新作ゲーム試遊および人気アニメIPの展示",
+        "events.0.venue": "COEX麻谷（マゴク）コンベンションセンター",
+        "events.1.name": "2026 GOTF アスタナ PUBG",
+        "events.1.note": "グローバルeスポーツ大会『PUBG: BATTLEGROUNDS』部門の中継",
+        "events.1.venue": "オンライン（SOOP）"
+      },
+      "briefing": {
+        "items.0.title": "NC、盛趣ゲームズと『タワー オブ アイオン2』中国パブリッシングで協力",
+        "items.0.source": "Inven",
+        "items.0.time": "7月30日",
+        "items.1.title": "KTの「Aiming」キム・ハラム、DRXの「Jiwoo」と電撃トレード",
+        "items.1.source": "Inven",
+        "items.1.time": "7월 30日",
+        "items.2.title": "『エルダー・スクロールズ・オンライン』、組織再編により一部コンテンツが2027年に延期",
+        "items.2.source": "4Gamer",
+        "items.2.time": "7月31日",
+        "items.3.title": "「東京ゲームショウ2026」、ビジネスデイの事前登録が開始",
+        "items.3.source": "4Gamer",
+        "items.3.time": "7月30日",
+        "items.4.title": "アーケードパズル『ルミネス リマスター』モバイル版がリリース",
+        "items.4.source": "IGN India",
+        "items.4.time": "7月30日",
+        "items.5.title": "ランニングアクション新作『SpeedRunners 2』公式リリース日を発表",
+        "items.5.source": "IGN India",
+        "items.5.time": "7월 30日",
+        "items.6.title": "『Gears of War: E-Day』、バトルパスなしのマルチモードを宣言",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "7月30일",
+        "items.7.title": "MS、Xboxの年間売上高が17億ドル減少…ハードウェアが急落",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "7월 30日"
+      },
+      "drk": {
+        "title": "ハードウェアの減速とバトルパスの放棄：コンソール市場の必然的なパラダイムシフト 📉🎮",
+        "intro": "マイクロソフトのハードウェア売上高急落と『Gears of War: E-Day』の「バトルパス廃止」宣言は、果たして偶然の一致でしょうか？ 🔍\nコンソール巨頭たちが直面する危機の中で、ゲームの消費構造がどのように再編されているのか、その裏側に迫ります。",
+        "points": "最近、マイクロソフトのXbox年間ハードウェア売上高が17億ドル急減した一方で、期待を集める新作『Gears of War: E-Day』はバトルパスのないマルチプレイモードを宣言しました。これは、専用ハードの販売と継続的な追加課金に依存していた従来のコンソールビジネスモデルが、成長の限界に達したことを示す明確なシグナルです。 📊\n\nこのような現象は、プラットフォーム構造の変化と過度なマネタイズモデルに疲弊した消費者心理が反映された結果です。ゲーマーたちは日常的な「日課」のように強制されるライブサービス課金体系に疲労感を感じており、これが高価なハードウェア購入の動機を下げ、合理的な単品購入やサブスクリプション型消費への移行のきっかけとなっています。 💡\n\n結局のところ、本質はハード普及による囲い込み（Lock-in）戦略の時代が終焉を迎えつつあるという点です。**今後のコンソール産業の主導権は、ハード自体の性能ではなく、ゲーマーの疲労感を軽減する本質的な面白さと、柔軟なプラットフォームへのアクセシビリティにかかっています。** 🎯\n\nユーザーを疲弊させる課金体系を取り払い、ゲーム本来の価値へと立ち返る試みは、減速するコンソール市場の新たな打開策となるでしょうか？皆さんはこれについてどう思われますか？ ❓"
+      },
+      "epic": {
+        "title": "Epic Games今週の無料ゲーム",
+        "comment": "今週のEpic Games無料配布および注目セール情報は、残念ながらお休みです。その代わり、週末を楽しく過ごすためのSteam大型セールと、来週の無料配布情報をお届けします！ 🎁\n\n🔜 **Next Week**\n8月7日からは、吹雪の中で友達とトランシーバーを頼りに雪山を脱出する2人協力プレイパズルアドベンチャー **『We Were Here Together』**がEpic Gamesで無料配布される予定です。\n\n🎮 **Steam週末特典**\n華やかな未来都市ナイトシティの圧倒的な没入感を誇るオープンワールドRPG **『Cyberpunk 2077』**を70%オフでお楽しみください！ (~2026年8月11日 02:00まで)"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "콘솔 시장의 격변과 배틀패스의 종말? 📉 (feat. 사이버펑크 2077 스팀 특가 🔥)",
+    "en": "Is this the end of Battle Passes? Console gaming's big shift 📉 (feat. Cyberpunk 2077 Steam Sale 🔥)",
+    "ja": "CSゲーム市場に激変の波？バトルパスの終焉 📉 (feat. 『サイバーパンク2077』Steamセール 🔥)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "published_at": "2026-07-31T09:58:30.981816",
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "게이머분들, 요즘 게임 판도가 싹 바뀌고 있는 거 아시나요? 🎮\n대세였던 배틀패스의 종말과 함께 콘솔 시장에 엄청난 대격변이 찾아왔네요! 📉\n\nhttps://www.gtplayer.net/edition-093/\n\n#사이버펑크2077 #게임소식 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-07-31T09:59:08.034691"
+    },
+    "instagram": {
+      "freegames_results": {
+        "success": true,
+        "id": "3953072306075634770_39332818166",
+        "url": "https://www.instagram.com/p/DbcIlFvEoxS/",
+        "error": null
+      },
+      "freegames_updated_at": "2026-07-31T10:56:10.534123"
+    }
+  }
+}

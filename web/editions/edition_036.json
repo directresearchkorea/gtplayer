@@ -1,0 +1,471 @@
+{
+  "num": "036",
+  "date": "2026-04-22",
+  "status": "published",
+  "schedule": {
+    "date": "2026-04-22",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "드래곤 퀘스트 스매시 그로우",
+          "dev": "스퀘어 에닉스",
+          "date": "4월 21일(화)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "인기 IP '드래곤 퀘스트'를 기반으로 한 신작 모바일 로그라이트 RPG가 21일 정식 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315650",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "에일리언: 로그 인커전 - 파트 1",
+          "dev": "서비오스",
+          "date": "4월 22일(수)",
+          "platforms": [
+            "Nintendo Switch 2"
+          ],
+          "color": "#10b981",
+          "note": "강렬한 공포를 선사하는 VR 호러 액션 게임 '에일리언: 로그 인커전'의 파트 1이 22일 닌텐도 스위치 2 플랫폼으로 정식 출시되었습니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/alien-rogue-incursion/258995/alien-rogue-incursion-part-one-arrives-on-nintendo-switch-2-today",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "release",
+          "game": "뱀파이어 크롤러",
+          "dev": "폰클",
+          "date": "4월 22일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "전설적인 로그라이크 '뱀파이어 서바이버'의 세계관을 확장한 1인칭 턴제 카드 배틀 신작이 22일 스팀을 통해 출시되었습니다.",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202604/72601",
+          "source_name": "Famitsu"
+        },
+        {
+          "category": "release",
+          "game": "세이브 마이 스크랩",
+          "dev": "아마타 케이케이",
+          "date": "4월 22일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "아름다운 감성의 어드벤처 퍼즐 게임 '세이브 마이 스크랩'이 22일 PC 플랫폼을 통해 글로벌 시장에 정식 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1774265",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "슈퍼로봇대전 Y",
+          "dev": "반다이남코 엔터테인먼트",
+          "date": "4월 22일(수)",
+          "platforms": [
+            "PC",
+            "PS4",
+            "Switch"
+          ],
+          "color": "#3b82f6",
+          "note": "전설적인 메카 '이데온'과 'Hi-ν건담' 등 신규 기체 8종이 추가되는 대형 DLC '확장 팩'이 22일 정식 업데이트됩니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/895/G089554/20260421011/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "update",
+          "game": "승리의 여신: 니케",
+          "dev": "시프트업",
+          "date": "4월 23일(목)",
+          "platforms": [
+            "PC",
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "출시 3.5주년을 기념하여 23일부터 대규모 이벤트가 시작되며, 모든 유저에게 스킬 초기화권 등 역대급 보상이 제공됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315663",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "LCK 2026 정규 시즌 4주 차 주요 매치",
+          "note": "개막 후 무패 행진 및 KT 롤스터의 팀 최고 기록 6연승 경신 여부가 주목되는 주간",
+          "venue": "서울 종로 LCK 아레나 및 온라인 생중계",
+          "date": "2026-04-22 ~ 2026-04-26",
+          "tag": "e스포츠",
+          "website": "https://www.gamemeca.com/view.php?gid=1774304"
+        },
+        {
+          "name": "카오스 제로 나이트메어 '나이트메어 가든 티파티'",
+          "note": "론칭 반주년 기념 오프라인 카페 이벤트, 굿즈 및 디저트 판매 진행",
+          "venue": "서울 홍대 크레마 카페 (오프라인)",
+          "date": "2026-04-25 ~ 2026-05-05",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=315664"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "discount",
+          "tag": "할인",
+          "title": "XBOX 게임 패스, 구독 요금제 최대 34.5% 인하",
+          "source": "인벤",
+          "time": "4월 21일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315672"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "웹젠, 하운드13 '드래곤소드' 자체 서비스 금지 가처분 신청",
+          "source": "인벤",
+          "time": "4월 21일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315651"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "사이버펑크 액션 RPG '루이너 2' 공식 플레이 영상 공개",
+          "source": "IGN India",
+          "time": "4월 21일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/ruiner-2/259003/ruiner-2-official-gameplay-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "마인즈아이 개발사, 직원 불법 감시 소프트웨어 사용 혐의 피소",
+          "source": "IGN India",
+          "time": "4월 21일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/mindseye/258982/mindseye-staff-sue-developer"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "스위치2 전용 '스플래툰 레이더스' 7월 23일 글로벌 출시",
+          "source": "4Gamer",
+          "time": "4월 21일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/919/G091973/20260421045/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "애니메이션 명가 '동영', 신규 게임 브랜드 '동영 게임즈' 설립",
+          "source": "4Gamer",
+          "time": "4월 21일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/999/G999901/20260420038/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "소니, 영국·아일랜드 PS 스토어 연령 인증 시스템 도입",
+          "source": "GamesIndustry.biz",
+          "time": "4월 21일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/sony-begins-rolling-out-age-verification-for-playstation-in-uk-and-ireland"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": [],
+      "items": [
+        {
+          "game": "AION2",
+          "period": "최근 30일",
+          "count": "3,456",
+          "sources": "커뮤니티",
+          "score": "2.6",
+          "pos": 6,
+          "neu": 70,
+          "neg": 24,
+          "keywords": [
+            {
+              "text": "Class Mention",
+              "positive": true
+            },
+            {
+              "text": "Dungeon / Raid Discussion",
+              "positive": true
+            },
+            {
+              "text": "DPS Comparison",
+              "positive": true
+            },
+            {
+              "text": "Buff/Nerf Debate",
+              "positive": true
+            },
+            {
+              "text": "Anger",
+              "positive": true
+            }
+          ],
+          "comments": [
+            {
+              "text": "보상 수급처를 몰래 줄이는 너프는 정말 너무한 것 같아요",
+              "positive": false
+            },
+            {
+              "text": "특정 직업만 너무 강하고 종족 간 불균형이 심해서 괴로워요",
+              "positive": false
+            },
+            {
+              "text": "자동 추출 기능이나 전투력 시스템 개선은 편하고 좋네요",
+              "positive": true
+            }
+          ]
+        }
+      ]
+    },
+    "drk": {
+      "enabled": true,
+      "title": "플랫폼 패권 전쟁의 서막: 구독 경제의 가격 파괴와 그 이면",
+      "intro": "가격은 내려갔지만, 선택의 무게는 더 무거워진 게임 시장의 현주소를 보셨습니까?\nXBOX의 파격적인 구독료 인하가 던진 파동은 단순한 마케팅 그 이상을 의미합니다.",
+      "points": "최근 마이크로소프트가 XBOX 게임 패스의 구독 요금을 최대 34.5% 인하하며 시장에 충격을 주었습니다. 이는 닌텐도 스위치 2 전용 타이틀인 '스플래툰 레이더스'의 출시 예고와 소니의 플랫폼 정책 변화가 맞물린 시점에서 나온 매우 이례적이고 공격적인 행보입니다. 📉\n\n이번 조치는 소비자 심리에 직접적으로 작용하여 '게임은 소유하는 것이 아닌 구독하는 것'이라는 인식을 강화하며 플랫폼 구조의 완전한 전환을 가속화할 것입니다. 소비자들은 더 저렴한 비용으로 대작을 즐길 수 있게 되었으나, 이는 결과적으로 개발사들의 수익 구조를 구독 서비스 의존형으로 재편하여 창의적인 시도보다는 안정적인 라이브 서비스 중심의 게임 소비 구조를 고착화할 위험이 큽니다. ⚖️\n\n플랫폼 홀더들이 하드웨어 성능 경쟁을 넘어 가격 파괴를 통한 점유율 방어에 나선 것은 시장이 포화 상태에 이르렀음을 증명합니다. **결국 미래의 게임 산업은 기기의 사양이 아니라, 사용자의 '한정된 시간'을 누가 더 저렴한 비용으로 독점하느냐의 싸움으로 귀결될 것입니다.** 🎯\n\n구독 경제의 달콤한 혜택 뒤에 숨겨진 '콘텐츠의 획일화'라는 부작용을 우리는 어떻게 경계해야 할까요? 가격 인하가 생태계의 활력이 될지, 아니면 창작의 가치를 갉아먹는 독이 될지 시장의 향방을 예의주시해야 할 시점입니다. 🧐"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": true,
+      "title": "3rd Anniv Main Theme : Hurricanes (feat. Pernelle) | GODDESS OF VICTORY: NIKKE OST",
+      "channel": "Cosmograph",
+      "videoId": "dYNJMVh2LSQ",
+      "url": "https://www.youtube.com/watch?v=dYNJMVh2LSQ",
+      "thumbnail": "https://i.ytimg.com/vi/dYNJMVh2LSQ/hqdefault.jpg",
+      "comment": "전 세계 게이머들의 축제, 3주년을 맞이한 <승리의 여신: 니케>의 메인 테마 'Hurricanes'입니다! 🎂 웅장한 사운드와 Pernelle의 보컬이 폭풍처럼 가슴을 울리네요. 오늘 하루를 마무리하며 이 곡과 함께 승리의 전율을 느껴보세요! 🎧✨",
+      "search_query": "Goddess of Victory: Nikke 3.5 Anniversary Official Soundtrack",
+      "ai_game_name": "승리의 여신: 니케",
+      "ai_reason": "3.5주년 대규모 축제를 맞아 공개된 고퀄리티 보컬곡과 BGM은 트렌디한 게임 음악의 정점을 보여주며, 강렬한 비트로 에너지를 충전하기 좋습니다."
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=036&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=036&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Dragon Quest Smash Grow",
+        "releases.0.note": "A new mobile roguelite RPG based on the popular 'Dragon Quest' IP was officially released on the 21st.",
+        "releases.0.dev": "Square Enix",
+        "releases.1.game": "Alien: Rogue Incursion - Part 1",
+        "releases.1.note": "Part 1 of the intense VR horror action game 'Alien: Rogue Incursion' was officially released on the Nintendo Switch 2 platform on the 22nd.",
+        "releases.1.dev": "Survios",
+        "releases.2.game": "Vampire Crawlers",
+        "releases.2.note": "A new first-person turn-based card battler expanding the universe of the legendary roguelike 'Vampire Survivors' was released on Steam on the 22nd.",
+        "releases.2.dev": "poncle",
+        "releases.3.game": "Save My Scrap",
+        "releases.3.note": "The beautifully atmospheric adventure puzzle game 'Save My Scrap' was officially released to the global market on the PC platform on the 22nd.",
+        "releases.3.dev": "Amata K.K.",
+        "releases.4.game": "Super Robot Wars Y",
+        "releases.4.note": "A major DLC 'Expansion Pack' featuring eight new units, including the legendary mecha 'Ideon' and 'Hi-ν Gundam', will be officially updated on the 22nd.",
+        "releases.4.dev": "Bandai Namco Entertainment",
+        "releases.5.game": "Goddess of Victory: Nikke",
+        "releases.5.note": "To celebrate the 3.5 anniversary, a massive event will begin on the 23rd, offering unprecedented rewards such as Skill Uninstallers to all players.",
+        "releases.5.dev": "Shift Up",
+        "events.0.name": "LCK 2026 Regular Season Week 4 Key Matches",
+        "events.0.note": "A week focusing on whether the undefeated streaks will continue and if KT Rolster can break their team record with a 6-game winning streak.",
+        "events.0.venue": "LoL PARK (LCK Arena) in Jongno, Seoul & Online Broadcast",
+        "events.1.name": "Chaos Zero Nightmare 'Nightmare Garden Tea Party'",
+        "events.1.note": "An offline cafe event celebrating the half-year anniversary of the launch, featuring merchandise and dessert sales.",
+        "events.1.venue": "Crema Cafe, Hongdae, Seoul (Offline)"
+      },
+      "briefing": {
+        "items.0.title": "Xbox Game Pass Subscription Fees Slashed by Up to 34.5%",
+        "items.0.source": "Inven",
+        "items.0.time": "April 21",
+        "items.1.title": "Webzen Files Injunction to Prevent Hound 13 from Self-Publishing 'Dragon Sword'",
+        "items.1.source": "Inven",
+        "items.1.time": "April 21",
+        "items.2.title": "Cyberpunk Action RPG 'Ruiner 2' Official Gameplay Video Released",
+        "items.2.source": "IGN India",
+        "items.2.time": "April 21",
+        "items.3.title": "MindsEye Developer Sued for Alleged Use of Illegal Employee Surveillance Software",
+        "items.3.source": "IGN India",
+        "items.3.time": "April 21",
+        "items.4.title": "Switch 2 Exclusive 'Splatoon Raiders' Set for Global Release on July 23",
+        "items.4.source": "4Gamer",
+        "items.4.time": "April 21",
+        "items.5.title": "Animation Legend 'Toei' Establishes New Gaming Brand 'Toei Games'",
+        "items.5.source": "4Gamer",
+        "items.5.time": "April 21",
+        "items.6.title": "Sony Introduces Age Verification System to PS Store in UK and Ireland",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "April 21"
+      },
+      "feedback": {
+        "items.0.game": "AION2",
+        "items.0.period": "Last 30 Days",
+        "items.0.keywords.0.text": "Class Mention",
+        "items.0.keywords.1.text": "Dungeon / Raid Discussion",
+        "items.0.keywords.2.text": "DPS Comparison",
+        "items.0.keywords.3.text": "Buff/Nerf Debate",
+        "items.0.keywords.4.text": "Anger",
+        "items.0.comments.0.text": "Secretly nerfing the sources of rewards feels really unfair.",
+        "items.0.comments.1.text": "It's painful because certain classes are too strong and the imbalance between races is severe.",
+        "items.0.comments.2.text": "The improvements to the auto-extraction feature and the combat power system are convenient and welcome."
+      },
+      "drk": {
+        "title": "The Prelude to the Platform Hegemony War: Price Disruptions in the Subscription Economy and What Lies Beneath",
+        "intro": "Prices have dropped, but have you seen the current state of the gaming market where the weight of choice has become heavier? The ripple caused by Xbox's drastic reduction in subscription fees means more than just simple marketing.",
+        "points": "Recently, Microsoft shocked the market by reducing Xbox Game Pass subscription fees by up to 34.5%. This is a highly unusual and aggressive move, coming at a time when the release announcement for 'Splatoon Raiders'—exclusive to the Nintendo Switch 2—and changes in Sony's platform policies are converging. 📉\n\nThis move will act directly on consumer sentiment, reinforcing the perception that 'games are for subscribing, not owning,' and accelerating the complete transformation of platform structures. While consumers can now enjoy blockbusters at a lower cost, this risks restructuring developer revenue models to be dependent on subscription services, potentially entrenching a game consumption structure focused on stable live services rather than creative experimentation. ⚖️\n\nPlatform holders moving beyond hardware performance competition to defend market share through price disruption proves that the market has reached saturation. **Ultimately, the future of the gaming industry will not be a battle of device specs, but a fight for who can monopolize the user's 'limited time' at a lower cost.** 🎯\n\nHow should we be wary of the side effect of 'content homogenization' hidden behind the sweet benefits of the subscription economy? It is time to closely watch whether price cuts will become a vital spark for the ecosystem or a poison that erodes the value of creation. 🧐"
+      },
+      "soundtrack": {
+        "title": "3rd Anniv Main Theme : Hurricanes (feat. Pernelle) | GODDESS OF VICTORY: NIKKE OST",
+        "comment": "It's 'Hurricanes', the main theme of <Goddess of Victory: Nikke> celebrating its 3rd anniversary—a festival for gamers worldwide! 🎂 The grand sound and Pernelle's vocals hit like a storm in the heart. End your day by feeling the thrill of victory with this track! 🎧✨"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ドラゴンクエスト スマッシュグロウ",
+        "releases.0.note": "人気IP「ドラゴンクエスト」をベースにした新作モバイルローグライトRPGが21日に正式リリースされました。",
+        "releases.0.dev": "スクウェア・エニックス",
+        "releases.1.game": "エイリアン：ローグ・インカージョン - パート1",
+        "releases.1.note": "強烈な恐怖を届けるVRホラーアクションゲーム「エイリアン：ローグ・インカージョン」のパート1が、22日にNintendo Switch 2プラットフォームで正式リリースされました。",
+        "releases.1.dev": "サービオス",
+        "releases.2.game": "ヴァンパイア・クロウラー",
+        "releases.2.note": "伝説的なローグライク「ヴァンパイア・サバイバーズ」の世界観を拡張した一人称視点ターン制カードバトル新作が、22日にSteamを通じてリリースされました。",
+        "releases.2.dev": "Poncle",
+        "releases.3.game": "セーブ・マイ・スクラップ",
+        "releases.3.note": "美しい感性のアドベンチャーパズルゲーム「セーブ・マイ・スクラップ」が、22日にPCプラットフォームを通じてグローバル市場で正式リリースされました。",
+        "releases.3.dev": "あまた株式会社",
+        "releases.4.game": "スーパーロボット大戦Y",
+        "releases.4.note": "伝説的なメカ「イデオン」や「Hi-νガンダム」など、新規機体8種が追加される大型DLC「エキスパンション・パック」が22日に正式アップデートされます。",
+        "releases.4.dev": "バンダイナムコエンターテインメント",
+        "releases.5.game": "勝利の女神：NIKKE",
+        "releases.5.note": "リリース3.5周年を記念して23日から大規模イベントが開始され、全ユーザーにスキルリセット券などの過去最大級の報酬が提供されます。",
+        "releases.5.dev": "SHIFT UP",
+        "events.0.name": "LCK 2026 レギュラーシーズン 第4週 主要マッチ",
+        "events.0.note": "開幕後の無敗行進およびKTロルスターのチーム最高記録である6連勝更新の行方が注目される週",
+        "events.0.venue": "ソウル 鐘路 LCKアリーナおよびオンライン生中継",
+        "events.1.name": "カオス・ゼロ・ナイトメア「ナイトメア・ガーデン・ティーパーティー」",
+        "events.1.note": "ローンチ半年記念オフラインカフェイベント、グッズおよびデザートの販売を実施",
+        "events.1.venue": "ソウル 弘大 クレマカフェ（オフライン）"
+      },
+      "briefing": {
+        "items.0.title": "Xbox Game Pass、サブスクリプション料金を最大34.5%引き下げ",
+        "items.0.source": "INVEN",
+        "items.0.time": "4月21日",
+        "items.1.title": "ウェブゼン、Hound13「ドラゴンスウォード」自社サービスの禁止仮処分を申請",
+        "items.1.source": "INVEN",
+        "items.1.time": "4月21日",
+        "items.2.title": "サイバーパンクアクションRPG「RUINER 2」公式プレイ映像を公開",
+        "items.2.source": "IGN India",
+        "items.2.time": "4月21日",
+        "items.3.title": "MindsEye開発元、従業員への不法監視ソフトウェア使用の疑いで提訴",
+        "items.3.source": "IGN India",
+        "items.3.time": "4月21日",
+        "items.4.title": "Switch 2専用「スプラトゥーン・レイダース」7月23日にグローバルリリース",
+        "items.4.source": "4Gamer",
+        "items.4.time": "4月21日",
+        "items.5.title": "アニメの名門「東映」、新規ゲームブランド「東映ゲームズ」を設立",
+        "items.5.source": "4Gamer",
+        "items.5.time": "4月21日",
+        "items.6.title": "ソニー、イギリス・アイルランドのPS Storeに年齢認証システムを導入",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "4月21日"
+      },
+      "feedback": {
+        "items.0.game": "AION2",
+        "items.0.period": "直近30日間",
+        "items.0.keywords.0.text": "Class Mention",
+        "items.0.keywords.1.text": "Dungeon / Raid Discussion",
+        "items.0.keywords.2.text": "DPS Comparison",
+        "items.0.keywords.3.text": "Buff/Nerf Debate",
+        "items.0.keywords.4.text": "Anger",
+        "items.0.comments.0.text": "報酬の獲得先をこっそり減らすナーフは、本当にひどすぎると思います",
+        "items.0.comments.1.text": "特定の職業だけが強すぎて種族間の不均衡が激しく、辛いです",
+        "items.0.comments.2.text": "自動抽出機能や戦闘力システムの改善は便利で良いですね"
+      },
+      "drk": {
+        "title": "プラットフォーム覇権争いの幕開け：サブスクリプション経済の価格破壊とその裏側",
+        "intro": "価格は下がりましたが、選択の重みはさらに増したゲーム市場の現在地をご覧になりましたか？Xboxの破格の購読料値下げが投じた波紋は、単なるマーケティング以上の意味を持ちます。",
+        "points": "最近、マイクロソフトがXbox Game Passの購読料金を最大34.5%引き下げ、市場に衝撃を与えました。これはNintendo Switch 2専用タイトル「スプラトゥーン・レイダース」のリリース予告や、ソニーのプラットフォーム政策の変化が重なったタイミングでの、非常に異例かつ攻撃的な動きです。📉\n\n今回の措置は消費者心理に直接作用し、「ゲームは所有するものではなく購読するもの」という認識を強化し、プラットフォーム構造の完全な転換を加速させるでしょう。消費者はより安価に大作を楽しめるようになりましたが、これは結果として開発会社の収益構造をサブスクリプション依存型へと再編し、創造的な試みよりも安定したライブサービス中心のゲーム消費構造を固着させるリスクが高いです。⚖️\n\nプラットフォームホルダーたちがハードウェアの性能競争を超え、価格破壊を通じたシェア防衛に乗り出したことは、市場が飽和状態に達したことを証明しています。**結局、未来のゲーム産業は機器のスペックではなく、ユーザーの「限られた時間」を誰がより安く独占するかという戦いに帰結するでしょう。** 🎯\n\nサブスクリプション経済の甘い恩恵の裏に隠された「コンテンツの画一化」という副作用を、私たちはどう警戒すべきでしょうか。価格引き下げが生態系の活力になるのか、それとも創作の価値を蝕む毒になるのか、市場の動向を注視すべき時です。🧐"
+      },
+      "soundtrack": {
+        "title": "3rd Anniv Main Theme : Hurricanes (feat. Pernelle) | 勝利の女神：NIKKE OST",
+        "comment": "世界中のゲーマーたちの祭典、3周年を迎えた『勝利の女神：NIKKE』のメインテーマ「Hurricanes」です！🎂 壮大なサウンドとPernelleのボーカルが、嵐のように胸に響きますね。今日一日を締めくくりながら、この曲と共に勝利の戦慄を感じてみてください！🎧✨"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "게임 구독 전쟁과 가격 파괴의 진실 📉 (feat. 니케 3주년 역대급 갓곡 공개 🎧)",
+    "en": "The Game Subscription Price War Just Started 📉 (feat. Nikke's Epic 3rd Anniv Theme 🎧)",
+    "ja": "激化するゲームサブスク覇権争いの行方 📉 (＋ニケ3周年の神曲『Hurricanes』解禁🎧)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ]
+}

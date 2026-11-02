@@ -1,0 +1,442 @@
+{
+  "num": "048",
+  "date": "2026-05-08",
+  "status": "published",
+  "schedule": {
+    "date": "2026-05-08",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "믹스테이프 (Mixtape)",
+          "dev": "베토벤 앤 다이노소어",
+          "date": "5월 7일(목)",
+          "platforms": [
+            "PC",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "5월 7일 출시된 내러티브 어드벤처 게임으로, 고등학교 마지막 밤 세 친구가 믹스테이프를 통해 청춘의 추억을追体験(추체험)하는 이야기를 담고 있습니다.",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202605/74120",
+          "source_name": "Famitsu"
+        },
+        {
+          "category": "release",
+          "game": "레고 배트맨: 레거시 오브 더 다크 나이트",
+          "dev": "워너 브라더스 게임즈",
+          "date": "5월 7일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "5월 7일 런칭 트레일러를 공개하며 정식 출시된 레고 시리즈 신작으로, 상징적인 배트맨의 서사를 레고 특유의 유머와 액션으로 풀어냈습니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/batman-forever-theater/260354/lego-batman-legacy-of-the-dark-knight-launch-trailer-features-seals-iconic-batman-forever-song-kiss",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "update",
+          "game": "나 혼자만 레벨업: 어라이즈",
+          "dev": "넷마블",
+          "date": "5월 7일(목)",
+          "platforms": [
+            "PC",
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "서비스 2주년을 기념하여 신규 SSR 헌터 '앙투안 마르티네즈'를 추가하고, 빠른 성장을 지원하는 대규모 시스템 개편 업데이트를 진행했습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1774924",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "하스스톤",
+          "dev": "블리자드 엔터테인먼트",
+          "date": "5월 7일(목)",
+          "platforms": [
+            "PC",
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "35.4 패치를 통해 첫 직업 세트 '아제로스의 복원'을 출시하며 드루이드, 사냥꾼 등 4개 직업에 특화된 강력한 카드들을 대거 추가했습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316192",
+          "source_name": "인벤"
+        },
+        {
+          "category": "event",
+          "game": "스노우 브레이크: 포비든 존",
+          "dev": "어메이징 시선",
+          "date": "5월 7일(목)",
+          "platforms": [
+            "PC",
+            "Mobile"
+          ],
+          "color": "#f59e0b",
+          "note": "66일간의 장기 점검을 마치고 7일 서버를 재오픈하며, 신규 캐릭터와 보상을 제공하는 '따스한 바람' 한정 이벤트를 시작했습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316198",
+          "source_name": "인벤"
+        },
+        {
+          "category": "event",
+          "game": "알케론 (Alkeron)",
+          "dev": "본파이어 스튜디오",
+          "date": "5월 8일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#f59e0b",
+          "note": "전 블리자드 부사장 롭 팔도가 개발 중인 신작으로, 5월 8일 한국 이용자들을 대상으로 피드백 수렴을 위한 FNF 테스트를 실시합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316184",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "원신 'Luna Ⅶ' 예고 방송",
+          "note": "신규 업데이트 정보 공개 및 호리에 슌, 우메하라 유이치로 등 성우진 출연",
+          "venue": "온라인 (공식 방송 채널)",
+          "date": "2026-05-08",
+          "tag": "쇼케이스",
+          "website": "https://dengekionline.com/article/202605/74007"
+        },
+        {
+          "name": "아주르 프로밀리아 비공개 테스트",
+          "note": "넥슨의 신작 서브컬처 기대작 '아주르 프로밀리아' 비공개 테스트(CBT)",
+          "venue": "온라인",
+          "date": "2026-05-15 ~ 2026-05-18",
+          "tag": "베타 테스트",
+          "website": "https://www.gamemeca.com/view.php?gid=1774899"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "엔씨 TL, 러시아 및 동유럽 11개국 서비스 확대",
+          "source": "게임메카",
+          "time": "5월 7일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1774879"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "라인게임즈, 유태웅 전 넵튠 대표 부사장 선임",
+          "source": "게임메카",
+          "time": "5월 7일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1774890"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "에이리언: 파이어팀 엘리트 2 공식 발표",
+          "source": "IGN India",
+          "time": "5월 7일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/aliens-fireteam-elite-2-announced-pc-ps5-xbox"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "헬 이즈 어스, 스위치 2 버전 9월 출시 확정",
+          "source": "IGN India",
+          "time": "5월 7일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/hell-is-us/260368/hell-is-us-official-nintendo-switch-2-release-date-trailer-nacon-connect-2026"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "도쿄 7th 시스터즈, 8월 12일 서비스 종료",
+          "source": "Famitsu",
+          "time": "5월 7일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202605/74133"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "호러 FPS A.A.U. Black Site 21일 출시",
+          "source": "4Gamer",
+          "time": "5월 7일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/004/G100488/20260507076/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "슈퍼셀, 머지 맨션 개발사 메타코어 전격 인수",
+          "source": "GamesIndustry.biz",
+          "time": "5월 7일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/supercell-acquires-metacore-to-add-merge-mansion-to-its-live-games-portfolio"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "운영의 시대: 신작의 설렘보다 깊은 '지속 가능성'의 가치",
+      "intro": "어제의 명작이 오늘의 유물이 되지 않기 위해 게임사들은 어떤 선택을 하고 있을까요? \n66일의 공백과 2주년의 개편이 교차하는 오늘의 뉴스는 서비스의 '생존' 그 너머를 겨냥합니다.",
+      "points": "오늘 뉴스는 '나 혼자만 레벨업: 어라이즈'의 시스템 개편과 '스노우 브레이크'의 기적적인 서버 재오픈 등 라이브 서비스의 대대적인 체질 개선에 주목합니다. 슈퍼셀의 메타코어 인수와 '하스스톤'의 직업 특화 업데이트 역시 기존 유저를 붙잡고 서비스 수명을 연장하려는 전략적 움직임의 일환입니다.\n\n이는 **소비자 심리**가 단순히 '새로운 게임'을 찾는 것에서 '내 자산이 안전하게 보전될 지속 가능한 게임'을 찾는 방향으로 이동했음을 보여줍니다. 이제 게임사는 단순한 콘텐츠 공급자를 넘어, 변화하는 트렌드에 맞춰 게임의 구조를 실시간으로 뜯어고칠 수 있는 고도의 운영 플랫폼 역할을 수행해야 합니다. 🎮\n\n이제 게임 산업의 핵심 역량은 화려한 런칭이 아닌, **기존 서비스의 결함을 과감히 도려내고 유저의 신뢰를 실시간으로 재구축하는 운영의 회복탄력성(Resilience)에 있습니다.** 검증된 IP의 생명력을 연장하는 기술이 불확실한 신작 개발보다 더 높은 가치를 인정받는 시대가 도래한 것입니다. 🛡️\n\n완성이 없는 '라이브 서비스'의 시대에 여러분이 플레이 중인 게임은 스스로를 혁신하고 있습니까, 아니면 과거의 영광에만 머물러 있습니까? 게임의 진짜 가치는 이제 개발자의 손을 떠나 유저와 호흡하는 '운영의 기술'에서 결정됩니다."
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "Arranger: A Role-Puzzling Adventure",
+      "url": "https://store.epicgames.com/ko/p/arranger-a-rolepuzzling-adventure-dbfde7",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/fee7dc25f12c4400a5182c864fd89c66/arranger-a-rolepuzzling-adventure-17mu3.jpg",
+      "comment": "**[주말 게임 혜택]**\n\n**🎮 에픽게임즈 이번 주 무료 배포**\n\n*   **Arranger: A Role-Puzzling Adventure** (~5월 15일 00:00까지)\n    자신이 움직이면 세상도 함께 이동하는 독특한 방식의 퍼즐 어드벤처입니다. 자아를 찾아 떠나는 매력적인 여정을 수려한 아트와 함께 즐길 수 있는 수작입니다. 🧩\n*   **Trash Goblin** (~5월 15일 00:00까지)\n    버려진 물건을 닦고 고쳐서 판매하는 힐링 상점 경영 시뮬레이션입니다. 스트레스 없이 아기자기한 소품을 수집하고 상점을 꾸미는 재미가 가득해 심심풀이로 최고입니다. ✨\n\n**📅 Next Week**\n다음 주에는 베일에 싸인 '미스터리 게임' 2종이 새롭게 공개될 예정입니다! 🎁\n\n**🔍 스팀 주말 혜택**\n이번 주 스팀에서 진행되는 별도의 무료 배포 혜택은 없습니다.",
+      "steam_deal": null
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=048&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=048&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Mixtape",
+        "releases.0.note": "A narrative adventure game released on May 7th, following three friends on their final night of high school as they relive youthful memories through a mixtape.",
+        "releases.0.dev": "Beethoven & Dinosaur",
+        "releases.1.game": "LEGO Batman: Legacy of the Dark Knight",
+        "releases.1.note": "A new entry in the LEGO series officially launched with a trailer on May 7th, reimagining the iconic Batman narrative with LEGO's signature humor and action.",
+        "releases.1.dev": "Warner Bros. Games",
+        "releases.2.game": "Solo Leveling: Arise",
+        "releases.2.note": "In celebration of its 2nd anniversary, the game added the new SSR Hunter 'Antoine Martinez' and implemented a major system overhaul update to support rapid growth.",
+        "releases.2.dev": "Netmarble",
+        "releases.3.game": "Hearthstone",
+        "releases.3.note": "Through Patch 35.4, the first class set 'Restoration of Azeroth' was released, adding a massive number of powerful cards specialized for four classes, including Druid and Hunter.",
+        "releases.3.dev": "Blizzard Entertainment",
+        "releases.4.game": "Snowbreak: Containment Zone",
+        "releases.4.note": "Servers reopened on the 7th after a long 66-day maintenance period, launching the 'Warm Breeze' limited event which offers new characters and rewards.",
+        "releases.4.dev": "Amazing Seasun",
+        "releases.5.game": "Alkeron",
+        "releases.5.note": "A new title under development by former Blizzard VP Rob Pardo; an FNF test will be conducted on May 8th for Korean users to gather feedback.",
+        "releases.5.dev": "Bonfire Studios",
+        "events.0.name": "Genshin Impact 'Luna VII' Preview Stream",
+        "events.0.note": "Disclosure of new update information and appearances by voice actors Shun Horie, Yuichiro Umehara, and others.",
+        "events.0.venue": "Online (Official Broadcast Channels)",
+        "events.1.name": "Azur Promilia Closed Beta Test",
+        "events.1.note": "Closed Beta Test (CBT) for Nexon's highly anticipated new subculture title 'Azur Promilia.'",
+        "events.1.venue": "Online"
+      },
+      "briefing": {
+        "items.0.title": "NCSOFT's Throne and Liberty Expands Service to Russia and 11 Eastern European Countries",
+        "items.0.source": "Gamemeca",
+        "items.0.time": "May 7",
+        "items.1.title": "LINE Games Appoints Former Neptune CEO Yoo Tae-woong as Vice President",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "May 7",
+        "items.2.title": "Aliens: Fireteam Elite 2 Officially Announced",
+        "items.2.source": "IGN India",
+        "items.2.time": "May 7",
+        "items.3.title": "Hell is Us Confirmed for Switch 2 Release in September",
+        "items.3.source": "IGN India",
+        "items.3.time": "May 7",
+        "items.4.title": "Tokyo 7th Sisters to End Service on August 12",
+        "items.4.source": "Famitsu",
+        "items.4.time": "May 7",
+        "items.5.title": "Horror FPS A.A.U. Black Site to Launch on the 21st",
+        "items.5.source": "4Gamer",
+        "items.5.time": "May 7",
+        "items.6.title": "Supercell Formally Acquires Metacore, Developer of Merge Mansion",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "May 7"
+      },
+      "drk": {
+        "title": "The Era of Operations: The Value of 'Sustainability' Beyond the Excitement of New Releases",
+        "intro": "What choices are game companies making to ensure yesterday's masterpieces don't become today's relics? Today's news, where a 66-day hiatus and a 2nd-anniversary overhaul intersect, aims beyond the 'survival' of the service.",
+        "points": "Today's news focuses on the major structural improvements of live services, such as the system overhaul for 'Solo Leveling: Arise' and the miraculous server reopening of 'Snowbreak.' Supercell's acquisition of Metacore and Hearthstone's class-specific updates are also part of a strategic move to retain existing users and extend service life.\n\nThis indicates that consumer sentiment has shifted from simply seeking 'new games' to looking for 'sustainable games where my assets are safely preserved.' Game companies must now act as sophisticated operating platforms capable of restructuring the game's core in real-time to match changing trends, rather than just being content providers. 🎮\n\nThe core competency of the gaming industry now lies not in a flashy launch, but in the 'operational resilience' to boldly cut out flaws in existing services and rebuild user trust in real-time. We have reached an era where the technology to extend the life of a proven IP is valued more highly than the uncertain development of new titles. 🛡️\n\nIn this era of 'live services' without completion, is the game you are playing innovating itself, or is it merely dwelling on past glory? The true value of a game is now decided by the 'art of operations' that breathes with the users, long after it has left the developer's hands."
+      },
+      "epic": {
+        "title": "Arranger: A Role-Puzzling Adventure",
+        "comment": "**[Weekend Game Benefits]**\n\n**🎮 Epic Games Store Free Distribution This Week**\n\n* **Arranger: A Role-Puzzling Adventure** (Until May 14, 15:00 UTC)\nA unique puzzle adventure where the world moves along with you. It is a masterpiece where you can enjoy a charming journey of self-discovery paired with exquisite art. 🧩\n* **Trash Goblin** (Until May 14, 15:00 UTC)\nA relaxing shop management simulation where you clean and fix discarded items to sell. It is perfect for casual fun, filled with the joy of collecting cute props and decorating your shop without stress. ✨\n\n**📅 Next Week**\nTwo new 'Mystery Games' will be unveiled next week! 🎁\n\n**🔍 Steam Weekend Benefits**\nThere are no separate free distribution benefits on Steam this week."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ミックステープ (Mixtape)",
+        "releases.0.note": "5月7日に発売されたナラティブ・アドベンチャーゲームで、高校生活最後の夜、3人の友人がミックステープを通じて青春の思い出を追体験する物語を描いています。",
+        "releases.0.dev": "Beethoven & Dinosaur",
+        "releases.1.game": "レゴ バットマン：レガシー・オブ・ザ・ダークナイト",
+        "releases.1.note": "5月7日にローンチトレーラーを公開し、正式にリリースされたレゴシリーズの新作で、象徴的なバットマンの物語をレゴ特有のユーモアとアクションで表現しています。",
+        "releases.1.dev": "ワーナー・ブラザース ゲームズ",
+        "releases.2.game": "俺だけレベルアップな件：Arise",
+        "releases.2.note": "サービス2周年を記念して、新規SSRハンター「アントワーヌ・マルティネス」を追加し、素早い成長を支援する大規模なシステム改編アップデートを実施しました。",
+        "releases.2.dev": "ネットマーブル",
+        "releases.3.game": "ハースストーン",
+        "releases.3.note": "パッチ35.4を通じて、初のクラスセット「アゼロスの修復」をリリースし、ドルイド、ハンターなど4つのクラスに特化した強力なカードを多数追加しました。",
+        "releases.3.dev": "ブリザード・エンターテイメント",
+        "releases.4.game": "スノウブレイク：禁域降臨",
+        "releases.4.note": "66日間にわたる長期メンテナンスを終えて7日にサーバーを再オープンし、新キャラクターと報酬を提供する期間限定イベント「温かな風」を開始しました。",
+        "releases.4.dev": "Amazing Seasun",
+        "releases.5.game": "Alkeron",
+        "releases.5.note": "元ブリザード副社長のロブ・パルド氏が開発中の新作で、5月8日に韓国のユーザーを対象にフィードバック収集のためのFNFテストを実施します。",
+        "releases.5.dev": "Bonfire Studios",
+        "events.0.name": "原神「Luna Ⅶ」予告番組",
+        "events.0.note": "新規アップデート情報の公開および堀江瞬、梅原裕一郎ら声優陣が出演",
+        "events.0.venue": "オンライン（公式配信チャンネル）",
+        "events.1.name": "アズールプロミリア クローズドβテスト",
+        "events.1.note": "ネクソンの期待の新作サブカルチャーゲーム「アズールプロミリア」のクローズドβテスト（CBT）",
+        "events.1.venue": "オンライン"
+      },
+      "briefing": {
+        "items.0.title": "NC TL、ロシアおよび東欧11カ国へサービス拡大",
+        "items.0.source": "ゲームメカ",
+        "items.0.time": "5月7日",
+        "items.1.title": "LINE Games、元Neptune代表のユ・テウン氏を副社長に選任",
+        "items.1.source": "ゲームメカ",
+        "items.1.time": "5月7日",
+        "items.2.title": "エイリアン：ファイアーチーム エリート2 公式発表",
+        "items.2.source": "IGN India",
+        "items.2.time": "5月7日",
+        "items.3.title": "Hell is Us、Switch 2版が9月発売確定",
+        "items.3.source": "IGN India",
+        "items.3.time": "5月7日",
+        "items.4.title": "Tokyo 7th シスターズ、8月12日にサービス終了",
+        "items.4.source": "Famitsu",
+        "items.4.time": "5月7日",
+        "items.5.title": "ホラーFPS「A.A.U. Black Site」21日に発売",
+        "items.5.source": "4Gamer",
+        "items.5.time": "5月7日",
+        "items.6.title": "Supercell、「マージマンション」開発元のMetacoreを電撃買収",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "5月7日"
+      },
+      "drk": {
+        "title": "運営の時代：新作のときめきよりも深い「持続可能性」の価値",
+        "intro": "昨日の名作が今日の遺物にならないよう、ゲーム会社はどのような選択をしているのでしょうか？ 66日の空白と2周年の改編が交差する今日のニュースは、サービスの「生存」のその先を狙っています。",
+        "points": "今日のニュースは、「俺だけレベルアップな件：Arise」のシステム改編や「スノウブレイク」の奇跡的なサーバー再オープンなど、ライブサービスの面目一新に注目します。SupercellによるMetacoreの買収や「ハースストーン」のクラス特化アップデートも、既存ユーザーを繋ぎ止め、サービス寿命を延ばそうとする戦略的な動きの一環です。\n\nこれは、**消費者心理**が単に「新しいゲーム」を探すことから、「自分の資産が安全に保たれる持続可能なゲーム」を探す方向へと移動したことを示しています。今やゲーム会社は単なるコンテンツ供給者を超え、変化するトレンドに合わせてゲームの構造をリアルタイムで作り変えることができる、高度な運営プラットフォームの役割を果たさなければなりません。🎮\n\n今、ゲーム産業の核心的な能力は、華やかなローンチではなく、**既存サービスの欠陥を果敢に切り捨て、ユーザーの信頼をリアルタイムで再構築する運営の回復弾力性（レジリエンス）にあります。** 検証済みのIPの生命力を延長する技術が、不確実な新作開発よりも高い価値を認められる時代が到来したのです。🛡️\n\n完成のない「ライブサービス」の時代に、あなたがプレイしているゲームは自らを革新していますか、それとも過去の栄光に留まっていますか？ ゲームの真の価値は、今や開発者の手を離れ、ユーザーと呼吸する「運営の技術」で決まります。"
+      },
+      "epic": {
+        "title": "Arranger: A Role-Puzzling Adventure",
+        "comment": "**[週末ゲーム情報]**\n\n**🎮 エピックゲームズ 今週の無料配布**\n\n*   **Arranger: A Role-Puzzling Adventure**（〜5月15日 00:00まで）\n    自分が動くと世界も一緒に移動するという、独特な方式のパズルアドベンチャーです。自分探しのために旅立つ魅力的な物語を、美麗なアートと共に楽しめる秀作です。🧩\n*   **Trash Goblin**（〜5月15日 00:00まで）\n    捨てられた品物を磨き、修理して販売する癒やし系ショップ経営シミュレーションです。ストレスなく可愛らしい小物を収集し、ショップを飾る楽しさに溢れており、暇つぶしに最適です。✨\n\n**📅 来週の予告**\n来週はベールに包まれた「ミステリーゲーム」2種が新たに公開される予定です！🎁\n\n**🔍 Steam 週末特典**\n今週、Steamで実施される別途の無料配布特典はありません。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "신작보다 짜릿한 ‘지속 가능성’의 시대 📈 (feat. Arranger 혜택 안내 🎁)",
+    "en": "Why 'Forever Games' are Winning 📈 (+ Grab your Arranger deals! 🎁)",
+    "ja": "「新作」より「長続き」が最強の時代？📈 (新作 Arranger のお得情報も！🎁)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "드디어 ‘나 혼자만 레벨업’ 게임이 정식 출시됐네요! ⚔️ 신작 소식부터 요즘 대세인 '지속 가능한 게임'의 가치까지, 게이머라면 꼭 알아야 할 핵심 뉴스들만 모았습니다. 지금 구경해보세요! ✨\n\nhttps://www.gtplayer.net/edition-048/\n\n#나혼자만레벨업 #게임소식 #GTPlayer",
+          "posted": true,
+          "data": {
+            "data": {
+              "text": "드디어 ‘나 혼자만 레벨업’ 게임이 정식 출시됐네요! ⚔️ 신작 소식부터 요즘 대세인 '지속 가능한 게임'의 가치까지, 게이머라면 꼭 알아야 할 핵심 뉴스들만 모았습니다. 지금 구경해보세요! ✨\n\nhttps://t.co/ICq2k4HeEP\n\n#나혼자만레벨업 #게임소식 #GTPlayer",
+              "edit_history_tweet_ids": [
+                "2052510084912361913"
+              ],
+              "id": "2052510084912361913"
+            }
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-08T07:05:12.370554"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "5월 8일 오늘의 게임 소식 🎮\n\n📰 엔씨 TL의 서비스 확대부터 에이리언·헬 이즈 어스 신작 소식까지 한눈에!\n🗓️ 나혼렙:어라이즈 & 레고 배트맨 등 오늘 만나는 기대작 라인업 6종 확인 🕹️\n📈 Dr.K 인사이트: 신작의 설렘보다 강력한 ‘지속 가능성’과 운영의 가치 분석 (feat. Arranger 혜택 🎁)\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #GTPLAYER #뉴스레터 #게임덕후 #게임추천 #신작게임 #엔씨소프트 #TL #나혼자만레벨업어라이즈 #나혼렙 #레고배트맨 #게임인사이트 #게임시장 #콘솔게임 #모바일게임 #PC게임 #닌텐도스위치2 #게임업계 #인디게임 #게이머소통",
+          "image_paths": [
+            "web\\instagram\\edition_048\\card_news.png",
+            "web\\instagram\\edition_048\\card_calendar.png",
+            "web\\instagram\\edition_048\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3892075125558959347_39332818166",
+            "url": "https://www.instagram.com/p/DYDbbSiE1zz/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-08T07:05:41.020269"
+    }
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "num": "094",
+  "date": "2026-08-03",
+  "status": "published",
+  "schedule": {
+    "date": "2026-08-03",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "비스트 오브 리인카네이션",
+          "dev": "Beast Studio",
+          "date": "8월 3일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 3일 PC(Steam) 플랫폼을 통해 정식 출시되는 신작 액션 게임입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2001760/Beast_of_Reincarnation/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "빅 워크",
+          "dev": "하우스 하우스",
+          "date": "8월 4일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 4일 정식 출시되는 협동 중심의 퍼즐 어드벤처 신작입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/1478500/Big_Walk/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "킬 더 섀도우",
+          "dev": "섀도우 스튜디오",
+          "date": "8월 4일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 4일 정식 출시되는 추리 어드벤처 RPG 신작 게임입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2660230/Kill_The_Shadow/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "코리아. IL-2 시리즈",
+          "dev": "1C 게임 스튜디오",
+          "date": "8월 5일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 5일 정식 출시되는 비행 시뮬레이션 게임으로, 6·25 전쟁 당시의 공중전을 정교하게 다룹니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319113",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "슈퍼로봇대전 Y",
+          "dev": "반다이남코 엔터테인먼트",
+          "date": "8월 5일(수)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Switch"
+          ],
+          "color": "#3b82f6",
+          "note": "8월 4일 무료 업데이트에 이어 8월 5일 신규 기체와 연출이 담긴 애니버서리 익스팬션팩이 출시됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319116",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "더 디비전 리서전스",
+          "dev": "유비소프트",
+          "date": "8월 5일(수)",
+          "platforms": [
+            "PC",
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "8월 5일 정식 출시되는 디비전 시리즈 세계관 기반의 TPS 루트슈터 RPG입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3749720/The_Division_Resurgence/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "차이나조이 2026 (ChinaJoy 2026)",
+          "note": "세계적인 디지털 엔터테인먼트 전시회, 신작 게임 시연 및 B2B/B2C 행사 진행",
+          "venue": "상하이 뉴 인터내셔널 엑스포 센터",
+          "date": "2026-07-31 ~ 2026-08-03",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=319104"
+        },
+        {
+          "name": "Fate/Grand Order 제2부 종장 낭독극",
+          "note": "FGO 메인 스토리 제2부 결말을 포함한 성우진의 오프라인 낭독극 이벤트",
+          "venue": "파시피코 요코하마 국립대홀",
+          "date": "2026-11-01",
+          "tag": "오프라인 행사",
+          "website": "https://www.famitsu.com/article/202608/83248"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'마법사의 밤' 리마스터 모바일 버전 11월 20일 출시",
+          "source": "게임메카",
+          "time": "8월 1일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1778612"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "소니, 실물 게임 디스크 생산 중단 배경 공식 발표",
+          "source": "게임메카",
+          "time": "8월 1일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1778604"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'레고 파티!', 닌텐도 스위치 2 런칭 트레일러 공개",
+          "source": "IGN India",
+          "time": "8월 2일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/lego-party/267834/lego-party-official-nintendo-switch-2-launch-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'팰월드 TCG' 정식 출시 직후 되팔이로 가격 급등",
+          "source": "IGN India",
+          "time": "8월 2일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/palworld/267824/palworld-tcg-prices-skyrocket-as-ebay-scalpers-profit-off-of-card-game-launch"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'승리의 여신: 니케', '페르소나' 콜라보 8월 13일 개최",
+          "source": "4Gamer",
+          "time": "8월 2일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/456/G045622/20260801012/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'헤븐 번즈 레드' 4.5주년 맞이 메인 스토리 최종장 시작",
+          "source": "4Gamer",
+          "time": "8월 2일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/487/G048777/20260731063/"
+        },
+        {
+          "category": "discount",
+          "tag": "할인",
+          "title": "'발더스 게이트 3', 출시 3주년 기념 역대 최저가 할인",
+          "source": "PC Gamer",
+          "time": "8월 2일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-is-the-cheapest-its-ever-been-to-celebrate-its-third-anniversary/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "실물 디스크의 종말, 소니가 당겨온 '완전 디지털 시대'의 과제 📀",
+      "intro": "우리가 패키지 상자를 소장하며 느끼던 '소유의 기쁨'은 어디로 사라지는 걸까요? 🤔\n소니의 실물 디스크 생산 중단 선언은 단순한 비용 절감을 넘어 게임 산업의 근본적인 지형 변화를 알립니다.",
+      "points": "소니가 공식적으로 실물 게임 디스크 생산 중단 배경을 발표하며, 콘솔 시장을 지탱해 온 패키지 중심의 플랫폼 구조에 종식을 고했습니다. 이는 디비전 시리즈의 모바일 확장이나 라이브 서비스 게임들의 약진처럼 디지털 유통 중심으로 재편되는 글로벌 시장의 흐름을 명확히 보여줍니다. 📦➡️📱\n\n이러한 변화는 소비자의 게임 소비 구조와 심리에 직접적인 영향을 미칩니다. 게이머들은 이제 게임을 '영구히 소유'하는 것이 아닌 '접근 권한을 대여'받는 시대를 맞이하게 되었으며, 중고 거래 시장의 침체와 더불어 플랫폼 사업자의 독점적 가격 통제에 직면하게 됩니다. 📉💳\n\n디지털 생태계로의 전환은 개발사 및 유통사의 효율성을 극대화하지만, **소비자의 실질적 소유권을 제한하고 디지털 게임의 역사적 보존 가치를 위협하는 양날의 검**이 될 것입니다. ⚖️\n\n디스크 슬롯이 사라지고 서비스의 편리함만이 남는 미래, 게이머와 산업은 '디지털 온리' 시대의 부작용을 극복할 준비가 되어 있는지 스스로에게 물어야 할 때입니다. ❓"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": true,
+      "items": [],
+      "title": "Say what you will, but Nintendo consoles are reliable",
+      "score": 16650,
+      "url": "https://i.redd.it/w1t8pmmcbmfh1.png",
+      "preview_img": "https://i.redd.it/w1t8pmmcbmfh1.png",
+      "permalink": "https://redd.it/1v7c0de",
+      "subreddit": "gamememes",
+      "author": "SEVENS_HEAVEN_7",
+      "num_comments": 0,
+      "what_happened": "'뭐라 해도 닌텐도 기기는 참 믿음직하다'라는 제목처럼, 옷장을 정리하다 6년 만에 발견한 닌텐도 DS가 여전히 배터리 40%를 유지하며 살아있는 기적을 영화 <메가마인드>의 놀란 표정 밈으로 재치 있게 표현했습니다.",
+      "one_liner": "최신 스마트폰은 반나절 만에 꺼지는데, 닌텐도 DS 배터리는 인류가 멸망해도 켜져 있을 것 같네요! 🔋😲"
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=094&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=094&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Beast of Reincarnation",
+        "releases.0.note": "A new action game officially releasing on August 3 via PC (Steam).",
+        "releases.0.dev": "Beast Studio",
+        "releases.1.game": "Big Walk",
+        "releases.1.note": "A new co-op focused puzzle adventure game officially releasing on August 4.",
+        "releases.1.dev": "House House",
+        "releases.2.game": "Kill The Shadow",
+        "releases.2.note": "A new mystery adventure RPG officially releasing on August 4.",
+        "releases.2.dev": "Shadow Studio",
+        "releases.3.game": "Korea. IL-2 Series",
+        "releases.3.note": "A flight simulation game officially releasing on August 5, precisely depicting aerial combat during the Korean War.",
+        "releases.3.dev": "1C Game Studios",
+        "releases.4.game": "Super Robot Wars Y",
+        "releases.4.note": "Following a free update on August 4, an Anniversary Expansion Pack featuring new units and battle animations will be released on August 5.",
+        "releases.4.dev": "Bandai Namco Entertainment",
+        "releases.5.game": "The Division Resurgence",
+        "releases.5.note": "A TPS looter shooter RPG set in The Division universe, officially releasing on August 5.",
+        "releases.5.dev": "Ubisoft",
+        "events.0.name": "ChinaJoy 2026",
+        "events.0.note": "A global digital entertainment exhibition featuring new game demos and B2B/B2C events.",
+        "events.0.venue": "Shanghai New International Expo Center",
+        "events.1.name": "Fate/Grand Order Part 2 Finale Recitation Drama",
+        "events.1.note": "An offline recitation event featuring voice actors covering the ending of FGO Main Story Part 2.",
+        "events.1.venue": "PACIFICO Yokohama National Convention Hall"
+      },
+      "briefing": {
+        "items.0.title": "'Witch on the Holy Night' Remaster Mobile Version Releases on November 20",
+        "items.0.source": "Gamemeca",
+        "items.0.time": "August 1",
+        "items.1.title": "Sony Officially Announces Background Behind Discontinuing Physical Game Disc Production",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "August 1",
+        "items.2.title": "'LEGO Party!', Nintendo Switch 2 Launch Trailer Revealed",
+        "items.2.source": "IGN India",
+        "items.2.time": "August 2",
+        "items.3.title": "'Palworld TCG' Prices Soar Due to Resellers Immediately After Official Release",
+        "items.3.source": "IGN India",
+        "items.3.time": "August 2",
+        "items.4.title": "'Goddess of Victory: Nikke' x 'Persona' Collaboration to Launch on August 13",
+        "items.4.source": "4Gamer",
+        "items.4.time": "August 2",
+        "items.5.title": "'Heaven Burns Red' Begins Main Story Final Chapter for 4.5th Anniversary",
+        "items.5.source": "4Gamer",
+        "items.5.time": "August 2",
+        "items.6.title": "'Baldur's Gate 3' Reaches All-Time Low Price Discount for 3rd Anniversary",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "August 2"
+      },
+      "drk": {
+        "title": "The End of Physical Discs: Challenges of the 'Fully Digital Era' Accelerated by Sony 📀",
+        "intro": "Where is the 'joy of ownership' we used to feel holding physical game boxes disappearing to? 🤔\nSony's declaration to end physical disc production signifies a fundamental shift in the gaming industry's landscape, going far beyond simple cost reduction.",
+        "points": "Sony officially announced the background behind discontinuing physical game disc production, putting an end to the package-centric platform structure that sustained the console market. This clearly demonstrates the global market trend reshaping around digital distribution, much like the mobile expansion of The Division series and the surge of live-service games. 📦➡️📱\n\nThese changes directly impact consumers' gaming consumption structures and psychology. Gamers are now entering an era where they no longer 'permanently own' games but rather 'lease access rights,' facing a stagnant used-game market along with platform operators' monopolistic price control. 📉💳\n\nWhile the transition to a digital ecosystem maximizes efficiency for developers and publishers, it will serve as a **double-edged sword that restricts consumers' actual ownership and threatens the historical preservation value of digital games**. ⚖️\n\nIn a future where disc slots vanish and only service convenience remains, it is time for gamers and the industry to ask themselves if they are prepared to overcome the side effects of the 'digital-only' era. ❓"
+      },
+      "meme": {
+        "what_happened": "Just like the title 'Say what you will, Nintendo devices are truly reliable,' this wittily expresses the miracle of a Nintendo DS found in a closet after 6 years still being alive with 40% battery left, using the surprised face meme from the movie Megamind.",
+        "one_liner": "Latest smartphones die in half a day, but it feels like the Nintendo DS battery will still be on even if humanity goes extinct! 🔋😲"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ビースト・オブ・リインカーネーション",
+        "releases.0.note": "8月3日にPC（Steam）プラットフォームを通じて正式リリースされる新作アクションゲームです。",
+        "releases.0.dev": "Beast Studio",
+        "releases.1.game": "Big Walk",
+        "releases.1.note": "8月4日に正式リリースされる協力プレイ中心の新作パズルアドベンチャーです。",
+        "releases.1.dev": "House House",
+        "releases.2.game": "Kill The Shadow",
+        "releases.2.note": "8月4日に正式リリース되는新作推理アドベンチャーRPGです。",
+        "releases.2.dev": "Shadow Studio",
+        "releases.3.game": "KOREA. IL-2シリーズ",
+        "releases.3.note": "8月5日に正式リリースされるフライトシミュレーションゲームで、朝鮮戦争当時の空中戦を精巧に描いています。",
+        "releases.3.dev": "1C Game Studios",
+        "releases.4.game": "スーパーロボット大戦Y",
+        "releases.4.note": "8月4日の無料アップデートに続き、8月5日には新規機体や演出を収録したアニバーサリーエクスパンションパックが発売されます。",
+        "releases.4.dev": "バンダイナムコエンターテインメント",
+        "releases.5.game": "ディビジョン リサージェンス",
+        "releases.5.note": "8月5日に正式リリースされる「ディビジョン」シリーズの世界観をベースにしたTPSルーターシューターRPGです。",
+        "releases.5.dev": "ユービーアイソフト",
+        "events.0.name": "ChinaJoy 2026（チャイナジョイ 2026）",
+        "events.0.note": "世界的なデジタルエンターテインメント展示会。新作ゲームの試射やB2B/B2Cイベントを開催",
+        "events.0.venue": "上海新国際博覧中心",
+        "events.1.name": "Fate/Grand Order 第2部 終章 朗読劇",
+        "events.1.note": "『FGO』メインストーリー第2部の結末を含む豪華声優陣によるオフライン朗読劇イベント",
+        "events.1.venue": "パシフィコ横浜 国立大ホール"
+      },
+      "briefing": {
+        "items.0.title": "『魔法使いの夜』リマスター版モバイル向けに11月20日配信決定",
+        "items.0.source": "GameMeca",
+        "items.0.time": "8月1日",
+        "items.1.title": "ソニー、ゲームの物理ディスク生産終了の背景を公式発表",
+        "items.1.source": "GameMeca",
+        "items.1.time": "8月1日",
+        "items.2.title": "『レゴ パーティ！』、Nintendo Switch 2のローンチトレーラーを公開",
+        "items.2.source": "IGN India",
+        "items.2.time": "8月2日",
+        "items.3.title": "『パルワールド TCG』発売直後に転売で価格高騰",
+        "items.3.source": "IGN India",
+        "items.3.time": "8月2日",
+        "items.4.title": "『勝利の女神：NIKKE』、『ペルソナ』コラボを8月13日に開催",
+        "items.4.source": "4Gamer",
+        "items.4.time": "8月2日",
+        "items.5.title": "『ヘブンバーンズレッド』4.5周年を迎えメインストーリー最終章が始動",
+        "items.5.source": "4Gamer",
+        "items.5.time": "8月2日",
+        "items.6.title": "『バルダーズ・ゲート3』、リリース3周年記念で過去最安値のセールを実施",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "8月2日"
+      },
+      "drk": {
+        "title": "物理ディスクの終焉、ソニーが引き寄せた「完全デジタル時代」の課題 📀",
+        "intro": "私たちがパッケージ箱を所有することで感じていた「所有の喜び」は、どこへ消えてしまうのでしょうか？ 🤔\nソニーによる物理ディスク生産終了の宣言は、単なるコスト削減にとどまらず、ゲーム産業の根本的な構造変化を物語っています。",
+        "points": "ソニーが公式に物理ゲームディスクの生産終了の背景を発表し、コンソール市場を支えていたパッケージ中心のプラットフォーム構造に終止符を打ちました。これは「ディビジョン」シリーズのモバイル展開やライブサービスゲームの躍進のように、デジタル流通を中心に再編されるグローバル市場の流れを明確に示しています。 📦➡️📱\n\nこうした変化は、消費者のゲーム消費構造と心理に直接的な影響を与えます。ゲーマーは今やゲームを「永久に所有」するのではなく、「アクセス権をレンタル」する時代を迎えることになり、中古取引市場の停滞とともに、プラットフォーム事業者の独占的な価格統制に直面することになります。 📉💳\n\nデジタル生態系への移行は開発会社およびパブリッシャーの効率性を最大化しますが、**消費者の実質的な所有権を制限し、デジタルゲームの歴史的保存価値を脅かす諸刃の剣**となるでしょう。 ⚖️\n\nディスクスロットが消え、サービスの利便性だけが残る未来。ゲーマーと業界は「デジタルオンリー」時代の副作用を克服する準備ができているのか、自らに問いかけるべき時が来ています。 ❓"
+      },
+      "meme": {
+        "what_happened": "「なんだかんだ言って任天堂のハードは本当に信頼できる」というタイトルのように、クローゼットを整理していて6年ぶりに発見したニンテンドーDSが、今なおバッテリー40%を維持して動いている奇跡を、映画『メガマインド』の驚いた表情のミームでユーモアたっぷりに表現しています。",
+        "one_liner": "最新のスマホは半日で充電が切れるのに、ニンテンドーDSのバッテリーは人類が滅亡してもついたままになっていそうですね！ 🔋😲"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "이제 CD의 시대는 끝났다? 소니가 선언한 '완전 디지털' 미래 📀 (feat. 게이머 공감 밈)",
+    "en": "Are Physical Discs Dead? Sony’s Push for an All-Digital Future 📀 (feat. Today's Gaming Meme)",
+    "ja": "パッケージ版の終焉？ソニーが迫る「完全デジタル時代」の課題 📀 (feat. 今日のゲーマーミーム)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ]
+}

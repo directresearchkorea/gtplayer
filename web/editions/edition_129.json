@@ -1,0 +1,446 @@
+{
+  "num": "129",
+  "date": "2026-09-21",
+  "status": "published",
+  "schedule": {
+    "date": "2026-09-21",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "창세기전 외전: 서풍의 광시곡 리마스터",
+          "dev": "스튜디오 레기아",
+          "date": "9월 21일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "한국 고전 명작 RPG '창세기전 외전: 서풍의 광시곡'의 비주얼과 시스템을 전면 개선한 리마스터 버전이 9월 21일 스팀과 엔씨 퍼플을 통해 정식 출시됩니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780753",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "해피 휠즈",
+          "dev": "팬시 포스",
+          "date": "9월 21일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "고유한 물리 엔진 기반의 장애물 돌파 액션으로 전 세계적인 인기를 끌었던 클래식 게임이 9월 21일 스팀에 정식 출시됩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4705510/Happy_Wheels/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "그레이브야드 키퍼 2",
+          "dev": "레이지 베어 게임즈",
+          "date": "9월 22일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "중세 묘지 관리라는 독특한 콘셉트로 사랑받은 경영 시뮬레이션 RPG의 후속작이 9월 22일 스팀을 통해 정식 출시됩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4358690/Graveyard_Keeper_2/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "브레이브 뉴 원더스",
+          "dev": "더블 씽크 스튜디오",
+          "date": "9월 22일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "로봇 군단을 지휘하며 방대한 기지를 자동화하고 생산망을 구축하는 공장 건설 시뮬레이션 신작이 9월 22일 정식 출시됩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/sim/command-a-legion-of-robots-in-factory-builder-brave-new-wonders-launching-tomorrow/",
+          "source_name": "PC Gamer"
+        },
+        {
+          "category": "update",
+          "game": "코어 키퍼",
+          "dev": "퓨그스톰",
+          "date": "9월 22일(화)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "XSX",
+            "Switch"
+          ],
+          "color": "#3b82f6",
+          "note": "신규 서브 바이옴과 탈것 시스템 등 다양한 모험 요소를 선보이는 대규모 콘텐츠 업데이트 '지하의 라이더'가 9월 22일 적용됩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/action/core-keepers-riders-of-the-underground-update-drops-tomorrow-and-you-can-get-a-sneak-peek-of-it-right-here/",
+          "source_name": "PC Gamer"
+        },
+        {
+          "category": "release",
+          "game": "사일런트 힐: 타운폴",
+          "dev": "노 코드 스튜디오",
+          "date": "9월 23일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "상징적인 공포 게임 시리즈 '사일런트 힐' 세계관을 바탕으로 제작된 심리 공포 어드벤처 신작이 9월 23일 스팀에 정식 출시됩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/1636440/SILENT_HILL_Townfall/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "스트리트 파이터 6 'Red Bull Revenge'",
+          "note": "토키도 vs MenaRD, Blaz vs 사하라 등 정상급 선수들이 맞붙는 스트리트 파이터 6 스페셜 매치 (무관중 온라인 생중계)",
+          "venue": "온라인 생중계",
+          "date": "2026-09-21",
+          "tag": "e스포츠",
+          "website": "https://www.famitsu.com/article/202609/88612"
+        },
+        {
+          "name": "패미통 40주년 페스",
+          "note": "패미통 창간 40주년을 기념하는 대형 오프라인 페스티벌로, 최신 게임 시연 부스, 무대 행사, 역사 전시, 사인회 등 진행",
+          "venue": "오프라인 행사장",
+          "date": "2026-11-07",
+          "tag": "오프라인 행사",
+          "website": "https://www.famitsu.com/article/202609/87224"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "최휘영 문체부 장관, TGS 찾아 K-게임 해외 진출 지원 약속",
+          "source": "인벤",
+          "time": "9월 20일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=321217"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "크래프톤, '배그' 이벤트 대회 공정성 논란에 공식 사과",
+          "source": "인벤",
+          "time": "9월 20일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=321213"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "파피 플레이타임 스핀오프 '이스케이프', 얼리 액세스 일정 공개",
+          "source": "IGN India",
+          "time": "9월 20일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/escape-from-playtime/272335/poppy-playtime-spinoff-escape-from-playtime-gets-early-access-release-date"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "솔라펑크 MMO '로프티아', 11월 3일 얼리 액세스 돌입",
+          "source": "IGN India",
+          "time": "9월 20일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/loftia/272238/loftia-qloud-games-announces-release-date-for-their-upcoming-cozy-life-sim-solarpunk-mmo-game"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "도쿄게임쇼 2026, 25만 명 방문 성료… 2027년 일정 발표",
+          "source": "4Gamer",
+          "time": "9월 20일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/991/G999110/20260920052/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "일본 게임대상 2026 퓨처 부문, 'FF7 리베레이션' 등 10종 선정",
+          "source": "4Gamer",
+          "time": "9월 20일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/969/G096901/20260920034/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'PC 게이밍 쇼 도쿄 다이렉트 2026' 주요 신작 라인업 공개",
+          "source": "PC Gamer",
+          "time": "9월 20일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/gaming-industry/events-conferences/everything-announced-at-the-pc-gaming-show-tokyo-direct-2026/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "검증된 유산의 재발견: 클래식 IP가 스팀으로 향하는 이유",
+      "intro": "왜 글로벌 게임사들은 수십 년 전의 서랍을 다시 열어젖히고 있을까요? \n단순한 추억 팔이를 넘어, 안전지대를 찾는 자본과 검증된 재미를 원하는 게이머의 이해관계가 맞물렸습니다.",
+      "points": "한국의 '서풍의 광시곡'부터 글로벌 공포 명작 '사일런트 힐', 플래시 클래식 '해피 휠즈'까지 과거의 상징적 타이틀들이 일제히 스팀을 통해 부활합니다. 신작 개발비가 천문학적으로 치솟는 현 시장에서, 이미 팬덤이 형성된 원작을 현대적 시스템과 비주얼로 재단장해 출시하는 전략이 주류로 자리 잡았습니다. 🕹️\n\n이러한 현상은 게임 소비 구조의 안전지향적 변화를 보여줍니다. 실패에 대한 리스크가 커진 게이머들은 불확실한 신규 IP보다 과거의 긍정적 경험이 보장된 검증작에 지갑을 엽니다. 플랫폼 구조 측면에서도 글로벌 PC 플랫폼인 스팀은 지역적 한계에 갇혀 있던 고전 명작들에게 즉각적인 글로벌 전파력을 부여하는 핵심 창구가 되었습니다. 🌍\n\n결국 리마스터 열풍의 본질은 원작의 재현이 아닌 **현대적 감각에 맞춘 경험의 재정의**에 있습니다. 그래픽 개선에만 그친 복각은 빠른 이탈을 부르지만, 불편한 조작계를 덜어내고 서사를 보강한 타이틀은 구작 팬과 신규 세대 모두를 흡수하는 강력한 프랜차이즈 엔진이 됩니다. 💡\n\n과거의 명작은 영원한 보증수표가 될 수 있을까요? 아니면 치열해진 플랫폼 경쟁 속에서 마지막으로 꺼내 든 안전한 패에 불과할까요? 여러분의 기억 속에 남은 명작 중 다시 플레이하고 싶은 작품은 무엇인지 궁금합니다. 🤔"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": true,
+      "items": [],
+      "title": "this guy sacrificed his lvl 100 character in Path of Exile 2, giving everyone in his league a free skill point",
+      "score": 18865,
+      "url": "https://i.redd.it/70qmq6q70fqh1.png",
+      "preview_img": "https://i.redd.it/70qmq6q70fqh1.png",
+      "permalink": "https://redd.it/1wkdroa",
+      "subreddit": "gaming",
+      "author": "Zonticore",
+      "num_comments": 0,
+      "what_happened": "\"어떤 유저가 패스 오브 엑자일 2에서 100레벨 만렙 캐릭터를 제물로 바쳐 전 서버 유저들에게 공짜 스킬 포인트를 선물했다\"는 소식입니다. 게임 속 제단 한가운데 경건하게 떠오른 '순교자의 힘의 티끌' 오브를 누르며 수많은 유저들이 랜선으로 대동단결해 감사의 묵념을 올리고 있습니다.",
+      "one_liner": "수백 시간 갈아 넣은 만렙 캐를 인류애로 불태운 진정한 게임계의 성자... 형님 적게 일하고 미러만 드세요 😭🙏"
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "The War of Genesis: The Rhapsody of Zephyr Remaster",
+        "releases.0.note": "A remastered version of the classic Korean RPG 'The War of Genesis: The Rhapsody of Zephyr', featuring completely overhauled visuals and systems, officially launches on Steam and NC PURPLE on September 21.",
+        "releases.0.dev": "Studio Regia",
+        "releases.1.game": "Happy Wheels",
+        "releases.1.note": "The classic game that gained worldwide popularity through its unique physics-based obstacle course action officially launches on Steam on September 21.",
+        "releases.1.dev": "Fancy Force",
+        "releases.2.game": "Graveyard Keeper 2",
+        "releases.2.note": "The sequel to the beloved management simulation RPG featuring a unique medieval graveyard management concept officially launches on Steam on September 22.",
+        "releases.2.dev": "Lazy Bear Games",
+        "releases.3.game": "Brave New Wonders",
+        "releases.3.note": "A new factory construction simulation game where you command a robot army to automate massive bases and establish production networks officially launches on September 22.",
+        "releases.3.dev": "Double Think Studio",
+        "releases.4.game": "Core Keeper",
+        "releases.4.note": "A major content update titled 'Riders of the Underground', featuring new sub-biomes, a mount system, and diverse adventure elements, goes live on September 22.",
+        "releases.4.dev": "Pugstorm",
+        "releases.5.game": "Silent Hill: Townfall",
+        "releases.5.note": "A new psychological horror adventure game set in the universe of the iconic horror franchise 'Silent Hill' officially launches on Steam on September 23.",
+        "releases.5.dev": "No Code Studios",
+        "events.0.name": "Street Fighter 6 'Red Bull Revenge'",
+        "events.0.note": "A Street Fighter 6 special showcase featuring matchups between top-tier players such as Tokido vs. MenaRD and Blaz vs. Sahara (Online live stream without an in-person audience)",
+        "events.0.venue": "Online Live Stream",
+        "events.1.name": "Famitsu 40th Anniversary Fes",
+        "events.1.note": "A major offline festival celebrating the 40th anniversary of Famitsu's publication, featuring playable demo booths for upcoming games, stage events, historical exhibitions, autograph sessions, and more",
+        "events.1.venue": "On-site Venue"
+      },
+      "briefing": {
+        "items.0.title": "Culture Minister Choi Hwi-young Visits TGS, Pledges Support for Global Expansion of K-Games",
+        "items.0.source": "Inven",
+        "items.0.time": "September 20",
+        "items.1.title": "Krafton Issues Official Apology Over Fairness Controversy in 'PUBG' Event Tournament",
+        "items.1.source": "Inven",
+        "items.1.time": "September 20",
+        "items.2.title": "Poppy Playtime Spin-Off 'Escape' Reveals Early Access Schedule",
+        "items.2.source": "IGN India",
+        "items.2.time": "September 20",
+        "items.3.title": "Solarpunk MMO 'Loftia' Enters Early Access on November 3",
+        "items.3.source": "IGN India",
+        "items.3.time": "September 20",
+        "items.4.title": "Tokyo Game Show 2026 Wraps Up with 250,000 Visitors; Dates for 2027 Announced",
+        "items.4.source": "4Gamer",
+        "items.4.time": "September 20",
+        "items.5.title": "Japan Game Awards 2026 Future Division Names 10 Winners Including 'FF7 Liberation'",
+        "items.5.source": "4Gamer",
+        "items.5.time": "September 20",
+        "items.6.title": "'PC Gaming Show Tokyo Direct 2026' Major New Lineup Revealed",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "September 20"
+      },
+      "drk": {
+        "title": "Rediscovering Proven Legacies: Why Classic IPs Are Flocking to Steam",
+        "intro": "Why are global game publishers reopening drawers locked away decades ago? Beyond mere nostalgia, the interests of capital seeking safety and gamers craving proven entertainment have perfectly aligned.",
+        "points": "From Korea's 'The Rhapsody of Zephyr' to the global horror milestone 'Silent Hill' and the Flash classic 'Happy Wheels', iconic titles from the past are making a synchronized comeback on Steam. In an era where new game development budgets are skyrocketing astronomically, modernizing established IPs with updated systems and visuals while leveraging their pre-existing fanbases has solidified into a mainstream strategy. 🕹️\n\nThis phenomenon illustrates a risk-averse shift in consumer spending habits. Facing high opportunity costs and potential disappointment, gamers are increasingly opening their wallets to verified classics that guarantee fond memories rather than gambling on unproven, new IPs. From a platform perspective, Steam—as a global PC distribution hub—serves as an essential gateway offering instantaneous worldwide reach to retro gems once confined by regional limitations. 🌍\n\nUltimately, the essence of the remaster boom lies not in mere reproduction, but in **redefining the player experience for modern sensibilities**. Simple graphical upscales lead to quick player churn, but titles that iron out archaic controls and refine narrative delivery emerge as formidable franchise engines capable of engaging both veteran fans and newcomers alike. 💡\n\nWill these timeless classics serve as perpetual goldmines? Or are they merely a final, risk-free card played amid cutthroat platform competition? What beloved masterpiece from your past would you love to see revived on screen? 🤔"
+      },
+      "meme": {
+        "what_happened": "\"A player in Path of Exile 2 sacrificed their level 100 max-level character to grant free skill points to everyone on the server.\" Countless players have united online to pay silent respects of gratitude by clicking on the 'Mote of Martyr's Power' orb, which floats reverently at the center of the in-game altar.",
+        "one_liner": "A true gaming saint who sacrificed a max-level character with hundreds of hours poured into it for the love of humanity... Bro, may you work less and drop only Mirrors 😭🙏"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "創世紀戦外伝 西風の狂詩曲 リマスター",
+        "releases.0.note": "韓国の名作クラシックRPG『創世紀戦外伝 西風の狂詩曲』のグラフィックとシステムを全面的に刷新したリマスター版が、9月21日にSteamおよびNC PURPLEを通じて正式リリースされます。",
+        "releases.0.dev": "Studio Regia",
+        "releases.1.game": "Happy Wheels",
+        "releases.1.note": "独自の物理演算エンジンによる障害物突破アクションで世界的な人気を博した名作ゲームが、9月21日にSteamで正式リリースされます。",
+        "releases.1.dev": "Fancy Force",
+        "releases.2.game": "Graveyard Keeper 2",
+        "releases.2.note": "中世の墓地管理という独特なコンセプトで愛された経営シミュレーションRPGの続編が、9月22日にSteamを通じて正式リリースされます。",
+        "releases.2.dev": "Lazy Bear Games",
+        "releases.3.game": "Brave New Wonders",
+        "releases.3.note": "ロボット軍団を指揮し、広大な拠点の自動化と生産ラインの構築を進める新作工場建設シミュレーションが、9月22日に正式リリースされます。",
+        "releases.3.dev": "Double Think Studio",
+        "releases.4.game": "Core Keeper",
+        "releases.4.note": "新たなサブバイオームや乗り物システムなど、多彩な冒険要素を追加する大型コンテンツアップデート「地下のライダー」が9月22日に実装されます。",
+        "releases.4.dev": "Pugstorm",
+        "releases.5.game": "SILENT HILL: Townfall",
+        "releases.5.note": "象徴的なホラーゲームシリーズ『サイレントヒル』の世界観をベースに制作された、新作サイコロジカルホラーアドベンチャーが9月23日にSteamで正式リリースされます。",
+        "releases.5.dev": "No Code Studios",
+        "events.0.name": "ストリートファイター6「Red Bull Revenge」",
+        "events.0.note": "ときど vs MenaRD、Blaz vs サハラなど、トッププレイヤーたちが激突する『ストリートファイター6』スペシャルマッチ（無観客オンライン生配信）",
+        "events.0.venue": "オンライン生配信",
+        "events.1.name": "ファミ通40周年フェス",
+        "events.1.note": "ファミ通創刊40周年を記念した大型オフラインフェスティバル。最新ゲームの試遊ブース、ステージイベント、歴史展示、サイン会などを開催",
+        "events.1.venue": "オフライン会場"
+      },
+      "briefing": {
+        "items.0.title": "韓国文化体育観光部の崔輝永長官、TGSを訪れK-ゲームの海外進出支援を約束",
+        "items.0.source": "INVEN",
+        "items.0.time": "9月20日",
+        "items.1.title": "KRAFTON、『PUBG』イベント大会の公平性を巡る議論について公式謝罪",
+        "items.1.source": "INVEN",
+        "items.1.time": "9月20日",
+        "items.2.title": "『Poppy Playtime』スピンオフ『Escape』、早期アクセスの日程を公開",
+        "items.2.source": "IGN India",
+        "items.2.time": "9月20日",
+        "items.3.title": "ソーラーパンクMMO『Loftia』、11月3日に早期アクセス開始へ",
+        "items.3.source": "IGN India",
+        "items.3.time": "9月20日",
+        "items.4.title": "東京ゲームショウ2026、来場者数25万人で閉幕…2027年の開催日程を発表",
+        "items.4.source": "4Gamer",
+        "items.4.time": "9月20日",
+        "items.5.title": "日本ゲーム大賞2026 フューチャー部門、『FF7 リベレーション』など10作品が選出",
+        "items.5.source": "4Gamer",
+        "items.5.time": "9月20日",
+        "items.6.title": "「PC Gaming Show Tokyo Direct 2026」注目の新作ラインナップを公開",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "9월 20일"
+      },
+      "drk": {
+        "title": "検証された遺産の再発見：クラシックIPがSteamを目指す理由",
+        "intro": "なぜ世界のゲーム会社は、数十年前にしまった引き出しを再び開けているのでしょうか？\n単なる思い出の再販にとどまらず、安全地帯を求める資本と、確かな面白さを求めるゲーマーの利害が一致した結果です。",
+        "points": "韓国の『西風の狂詩曲』から世界的なホラーの名作『サイレントヒル』、Flashゲームのクラシック『Happy Wheels』に至るまで、過去を象徴するタイトルが一斉にSteamを通じて復活を遂げています。新作の開発費が天文学的に高騰する現在のゲーム市場において、すでにファン層が確立されている原作を現代的なシステムとビジュアルで再構築して投入する戦略が、今や主流として定着しました。🕹️\n\nこの現象は、ゲーム消費構造における安全志向への変化を物語っています。失敗へのリスクが高まる中、ゲーマーは不確実な新規IPよりも、過去のポジティブな体験が保証された実績作に財布を開く傾向にあります。プラットフォーム構造の面でも、世界的なPCプラットフォームであるSteamは、かつて地域的な制約に縛られていたクラシック名作に対し、即座にグローバルな拡散力をもたらす極めて重要な窓口となっています。🌍\n\n結局のところ、リマスターブームの本質は単なる原作の再現ではなく、**「現代の感覚に合わせた体験の再定義」**にあります。グラフィックの向上にとどまる復刻は急速なユーザー離れを招きますが、不便な操作感を払拭し物語体験を補強したタイトルは、旧作ファンと新世代の双方を巻き込む強力なフランチャイズエンジンとなります。💡\n\n過去の名作は永遠の保証手形となり得るのでしょうか？ それとも熾烈さを増すプラットフォーム競争において、最後に切られた安全牌にすぎないのでしょうか？ 皆さんの記憶に残り、もう一度プレイしたいと願う名作は何ですか？🤔"
+      },
+      "meme": {
+        "what_happened": "「あるユーザーが『Path of Exile 2』でレベル100のカンストキャラクターを生贄に捧げ、全サーバーのユーザーに無料のスキルポイントをプレゼントした」というニュースです。ゲーム内の祭壇の中央に厳かに浮かび上がったオーブ「殉教者の力の灰」に触れながら、数多くのプレイヤーがオンライン上で一致団結し、感謝の黙祷を捧げています。",
+        "one_liner": "何百時間も注ぎ込んだカンストキャラを人類愛のために燃やした真の聖者…どうか兄貴の労働が報われ、ミラーばかりドロップしますように😭🙏"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "추억의 명작들이 스팀으로 몰려오는 진짜 이유🕹️ (feat. 오늘의 게이머 밈🤣)",
+    "en": "Why Classic Gaming Gems Are Flooding Steam Right Now🕹️ (feat. Meme of the Day🤣)",
+    "ja": "あの伝説的名作がSteamに続々集結するワケ🕹️（話題のゲーマーミーム付き🤣）"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "그때 그 시절 인생 게임들이 스팀으로 돌아오고 있네요! 🕹️\n전설의 '서풍의 광시곡 리마스터'도 오늘 드디어 출시됐어요✨\n\nhttps://www.gtplayer.net/edition-129/\n#서풍의광시곡 #코어키퍼 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-21T07:01:29.645298"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "9월 21일 오늘의 게임 소식 🎮\n📰 [뉴스] TGS 2026 성료 및 K-게임 지원, 배그 공정성 논란 공식 사과와 파피 플레이타임 신작\n📅 [출시] 서풍의 광시곡 리마스터부터 사일런트 힐 신작, 코어 키퍼 콘솔 버전까지 이번 주 기대작\n✍️ [인사이트] 추억 팔이를 넘어선 선택, 명작 클래식 IP들이 스팀으로 다시 몰려오는 진짜 이유\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#gtplayer #게임뉴스 #신작게임 #게임추천 #스팀게임 #인디게임 #콘솔게임 #PC게임 #창세기전 #서풍의광시곡 #사일런트힐 #코어키퍼 #배틀그라운드 #도쿄게임쇼 #TGS2026 #게임스타그램 #게이머 #게임덕후 #게임소식 #게임이슈",
+          "image_paths": [
+            "web\\instagram\\edition_129\\card_cover.png",
+            "web\\instagram\\edition_129\\card_news.png",
+            "web\\instagram\\edition_129\\card_calendar.png",
+            "web\\instagram\\edition_129\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3990642778233341168_39332818166",
+            "url": "https://www.instagram.com/p/DdhnHamE4Tw/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-21T07:01:58.614196"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Why Classic Gaming Gems Are Flooding Steam Right Now🕹️ (feat. Meme of the Day🤣)\n\nNostalgia meets smart market strategy as classic gaming gems make a massive comeback on Steam, giving beloved franchises an exciting second life.\nCatch up on the latest retro revivals, fresh game reveals, and key industry moments from Tokyo Game Show 2026.\n\nhttps://www.gtplayer.net/edition-129-en/",
+        "error": null
+      },
+      "updated_at": "2026-09-21T07:02:41.551327"
+    }
+  }
+}

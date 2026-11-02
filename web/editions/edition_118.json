@@ -1,0 +1,511 @@
+{
+  "num": "118",
+  "date": "2026-09-04",
+  "status": "published",
+  "schedule": {
+    "date": "2026-09-04",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "더 블러드 오브 던워커",
+          "dev": "반다이남코 엔터테인먼트",
+          "date": "9월 3일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "XSX|S"
+          ],
+          "color": "#10b981",
+          "note": "14세기 유럽을 무대로 뱀파이어와 인간의 경계를 넘나드는 오픈월드 다크 판타지 액션 RPG가 정식 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780039",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "귀무자: 검의 길",
+          "dev": "캡콤",
+          "date": "9월 3일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "XSX|S"
+          ],
+          "color": "#10b981",
+          "note": "시리즈 특유의 진검 승부와 묵직한 검술 액션을 RE 엔진으로 재해석한 사무라이 액션 어드벤처 신작이 글로벌 정식 출시되었습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/action/onimusha-way-of-the-sword-launch-time-release-date/",
+          "source_name": "PC Gamer"
+        },
+        {
+          "category": "release",
+          "game": "달려라 헤베레케: EX",
+          "dev": "그라비티",
+          "date": "9월 3일(목)",
+          "platforms": [
+            "PC",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "고전 IP 헤베레케를 현대 감성으로 리메이크한 횡스크롤 캐주얼 레이싱 액션 게임으로 글로벌 시장에 정식 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780004",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "와룡: 폴른 다이너스티 컴플리트 에디션",
+          "dev": "코에이 테크모 게임스",
+          "date": "9월 3일(목)",
+          "platforms": [
+            "Switch 2"
+          ],
+          "color": "#10b981",
+          "note": "모든 추가 다운로드 콘텐츠와 무기, 시나리오를 집대성한 삼국지 다크 액션 RPG 완전판이 닌텐도 스위치 2 버전으로 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780014",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "스피드러너즈 2: 킹 오브 스피드",
+          "dev": "더블더치 게임즈",
+          "date": "9월 4일(금)",
+          "platforms": [
+            "PC",
+            "Switch",
+            "PS5"
+          ],
+          "color": "#10b981",
+          "note": "갈고리 액션과 다양한 아이템 방해 공작으로 속도 경쟁을 펼치는 4인 멀티플레이 플랫포머 신작이 정식 출시되었습니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/speedrunners-2-king-of-speed/270966/speedrunners-2-official-launch-trailer",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "release",
+          "game": "바이오에덴",
+          "dev": "사이버드림",
+          "date": "9월 4일(금)",
+          "platforms": [
+            "PC",
+            "Switch 2",
+            "PS5",
+            "XSX|S"
+          ],
+          "color": "#10b981",
+          "note": "생체 기계와 자연이 융합된 미지의 행성을 무대로 펼쳐지는 SF 어드벤처 신작이 차세대 콘솔 및 PC 플랫폼으로 정식 출시되었습니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/bioeden/270963/bioeden-official-launch-trailer",
+          "source_name": "IGN India"
+        }
+      ],
+      "events": [
+        {
+          "name": "게임문화축제 GXG 2026",
+          "note": "코스프레 프로그램 및 무대, 2차 창작 마켓, 의상 체험 등 진행",
+          "venue": "판교역 광장 일대",
+          "date": "2026-09-11 ~ 2026-09-12",
+          "tag": "오프라인 행사",
+          "website": "https://www.gamemeca.com/view.php?gid=1780008"
+        },
+        {
+          "name": "Fate/EXTRA Record 최신 정보 공개 생방송",
+          "note": "2027년 출시를 앞둔 리메이크 신작의 최신 게임 정보 및 영상 공개",
+          "venue": "온라인",
+          "date": "2026-09-04",
+          "tag": "쇼케이스",
+          "website": "https://dengekionline.com/article/202609/86637"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'메트로 2039', 2027년 2월 4일 멀티플랫폼 정식 출시",
+          "source": "인벤",
+          "time": "9월 4일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=320418"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'붉은사막', 첫 확장팩 '차팅 더 언노운' 전격 공개",
+          "source": "인벤",
+          "time": "9월 4일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=320411"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "격투 신작 '아바타 레전드', Xbox 론칭 트레일러 공개",
+          "source": "IGN India",
+          "time": "9월 4일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/avatar-the-last-airbender-competitive-fighting-game/270974/avatar-legends-the-fighting-game-official-xbox-launch-trailer"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'세인츠 로우 3 리마스터', 모바일 버전 출시 일정 발표",
+          "source": "IGN India",
+          "time": "9월 4일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/270952/saints-row-the-third-remastered-official-mobile-release-date-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "사이게임즈, '사이게임즈 엣지' 설립 및 신작 11월 출시",
+          "source": "4Gamer",
+          "time": "9월 4일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/039/G103924/20260903072/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'페이트/엑스트라 레코드', 2027년 1월 28일 출시 확정",
+          "source": "4Gamer",
+          "time": "9월 4일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/520/G052062/20260903088/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "MS, 엑스박스 클라우드 게이밍에 월간 이용 시간 제한 도입",
+          "source": "IGN",
+          "time": "9월 3일",
+          "country": "GLOBAL",
+          "article_url": "https://www.ign.com/articles/microsoft-announces-big-changes-to-xbox-cloud-gaming-switches-to-monthly-hour-limits"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "에픽 팀 스위니 \"게임 업계, 1980년대 이래 최악의 불황\"",
+          "source": "GamesIndustry.biz",
+          "time": "9월 3일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/this-is-the-worst-crash-weve-seen-since-the-1980s-says-tim-sweeney"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "클라우드의 환상이 걷힌 자리, 냉혹한 비용의 청구서",
+      "intro": "언제 어디서나 무제한으로 게임을 즐긴다는 약속은 왜 멈춰 섰을까요?\n클라우드 게이밍의 시간 제한과 업계 수장의 불황 경고가 가리키는 진실을 들여다봅니다. ☁️📉",
+      "points": "마이크로소프트가 엑스박스 클라우드 게이밍에 월간 이용 시간 제한을 도입하고, 에픽게임즈의 팀 스위니 대표는 현 게임 시장을 1980년대 이래 최악의 불황으로 진단했습니다. 장밋빛 미래로 포장되던 클라우드와 구독 모델이 마침내 물리적 인프라 비용이라는 냉혹한 현실의 벽에 부딪힌 결과입니다. 🛑\n\n이러한 조치는 게이머들의 소비 구조와 플랫폼 신뢰도에 직접적인 균열을 일으킵니다. 그동안 '월정액만 내면 무제한 스트리밍이 가능하다'는 명제로 이용자를 묶어두었던 락인(Lock-in) 전략이 흔들리며, 고사양 하드웨어 구매를 건너뛰려던 소비자 심리 역시 다시 패키지 소장이나 로컬 하드웨어 중심으로 돌아설 가능성이 큽니다. 🎮\n\n결국 **플랫폼이 감당해 온 막대한 서버 및 트래픽 비용을 유저에게 전가하기 시작했다는 점**이 핵심입니다. 외형 성장만을 좇던 거대 테크 기업조차 이제는 적자를 감내하지 않으며, 게임 산업 전반이 무제한 제공의 환상에서 철저한 비용 통제와 수익성 방어 체제로 급격히 전환되고 있습니다. 📊\n\n빅테크마저 지갑을 닫기 시작한 지금, 게임 패스의 축소는 과연 일시적 긴축일까요, 아니면 구독형 서비스의 근본적인 한계를 알리는 신호탄일까요? 여러분은 제한된 클라우드를 계속 선택하시겠습니까? 🤔"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "Castlevania Anniversary Collection",
+      "url": "https://store.epicgames.com/ko/p/castlevania-anniversary-collection-a61f94",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-yex6f.jpg",
+      "comment": "🎮 **이번 주말 게임 혜택 한눈에 보기**\n\n**[에픽게임즈 주말 특가 추천]**\n이번 주는 아쉽게도 무료 배포가 쉬어가지만, 고전 명작을 만나볼 좋은 기회가 준비되어 있습니다!\n- **Castlevania Anniversary Collection** (40% 할인, ~9/18 00:00까지): 뱀파이어 헌터 프랜차이즈의 기원을 담은 클래식 액션 합본팩으로, 레트로 감성과 풍성한 개발 비화 e-Book까지 함께 즐길 수 있습니다.\n\n**[Next Week]**\n다음 주(9/11~)에는 스타일리시한 아케이드 공중전 **Luftrausers**와 화려한 액션 로그라이트 **Astral Ascent**가 무료 배포될 예정입니다.\n\n**[스팀 주말 혜택]**\n웅장한 전장의 전율을 느끼고 싶다면, 9월 15일 02:00까지 75% 주말 특가로 진행되는 액션 블록버스터 **Warhammer 40,000: Space Marine 2**를 놓치지 마세요!",
+      "steam_deal": {
+        "type": "deal",
+        "name": "Warhammer 40,000: Space Marine 2",
+        "app_id": 2183900,
+        "url": "https://store.steampowered.com/app/2183900",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg?t=1787837240",
+        "discount_percent": 75,
+        "original_price": 6980000,
+        "final_price": 1745000,
+        "end_date": "2026-09-15 02:00"
+      },
+      "epic_current": [],
+      "epic_upcoming": [
+        {
+          "title": "Luftrausers",
+          "description": "The skies are aflame and the seas will overflow with wreckage in Vlambeer’s stylish arcade shooter LUFTRAUSERS! Take to the skies in customized fighter planes to battle battleships, submarines, and rival aces for glory, honor, and high scores.",
+          "url": "https://store.epicgames.com/ko/p/luftrausers-51e5e9",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/85ddeeec9d4243b3a2d78aab87bfae7f/luftrausers-1mxb1.png",
+          "start_date": "2026-09-11 00:00"
+        },
+        {
+          "title": "Astral Ascent",
+          "description": "4 영웅 중 한 명을 골라 12가지의 강력하고 신비로운 보스인 별자리들이 지키는 애스트럴 감옥인 정원에 도전하세요. 수십 가지의 독특한 주문과 신실한 친구들과 함께 놈들에게 도전하여 번개처럼 빠른 전투로 이 플랫포머 로그라이트 속에서의 이야기를 펼치십시오.",
+          "url": "https://store.epicgames.com/ko/p/astral-ascent-b33bc2",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/974c8a587d714d8d9e0c3b0fefe61a35/astral-ascent-b0gcm.png",
+          "start_date": "2026-09-11 00:00"
+        }
+      ],
+      "epic_discounted": [
+        {
+          "title": "Castlevania Anniversary Collection",
+          "description": "Konami's Castlevania Anniversary Collection traces the origins of the historic vampire franchise. Included is a unique eBook with details provided by developers, artists and others inspired by the Castlevania legacy which sheds a fresh light into the world of Castlevania.",
+          "url": "https://store.epicgames.com/ko/p/castlevania-anniversary-collection-a61f94",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-yex6f.jpg",
+          "end_date": "2026-09-18 00:00",
+          "discount_percent": 40
+        },
+        {
+          "title": "Monument Valley",
+          "description": "불가능한 환경과 환상적인 퍼즐 속에서 용서를 구하는 여정을 떠나세요. 모뉴먼트를 움직여 새롭고, 초현실적이고, 신비한 세계를 탐험하는 길을 만들어가며 몽환적이고 고요한 퍼즐 게임을 경험하세요.",
+          "url": "https://store.epicgames.com/ko/p/monument-valley-1d99d3",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg",
+          "end_date": "2026-09-18 00:00",
+          "discount_percent": 25
+        }
+      ]
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "The Blood of Dawnwalker",
+        "releases.0.note": "An open-world dark fantasy action RPG set in 14th-century Europe, crossing the boundaries between vampires and humans, has officially launched.",
+        "releases.0.dev": "Bandai Namco Entertainment",
+        "releases.1.game": "Onimusha: Way of the Sword",
+        "releases.1.note": "A new samurai action-adventure game that reimagines the series' signature lethal duels and weighty swordplay using the RE Engine has officially launched globally.",
+        "releases.1.dev": "Capcom",
+        "releases.2.game": "Run Hebereke: EX",
+        "releases.2.note": "A side-scrolling casual racing action game that remakes the classic Hebereke IP with a modern sensibility has officially launched in global markets.",
+        "releases.2.dev": "Gravity",
+        "releases.3.game": "Wo Long: Fallen Dynasty Complete Edition",
+        "releases.3.note": "The definitive edition of the Three Kingdoms dark action RPG, compiling all DLCs, weapons, and scenarios, has been released for Nintendo Switch 2.",
+        "releases.3.dev": "Koei Tecmo Games",
+        "releases.4.game": "SpeedRunners 2: King of Speed",
+        "releases.4.note": "A new 4-player multiplayer platformer where players race using grappling hook mechanics and disruptive items has officially launched.",
+        "releases.4.dev": "DoubleDutch Games",
+        "releases.5.game": "BioEden",
+        "releases.5.note": "A new sci-fi adventure game set on an uncharted planet where biomechanics and nature merge has officially launched on next-gen consoles and PC.",
+        "releases.5.dev": "CyberDream",
+        "events.0.name": "Game Cultural Festival GXG 2026",
+        "events.0.note": "Featuring cosplay programs and stage events, secondary creation markets, costume experience booths, and more",
+        "events.0.venue": "Around Pangyo Station Plaza",
+        "events.1.name": "Fate/EXTRA Record Latest Information Livestream",
+        "events.1.note": "Showcasing the latest game information and footage for the upcoming remake scheduled for a 2027 release",
+        "events.1.venue": "Online"
+      },
+      "briefing": {
+        "items.0.title": "'Metro 2039' Officially Launches Multiplatform on February 4, 2027",
+        "items.0.source": "Inven",
+        "items.0.time": "September 4",
+        "items.1.title": "'Crimson Desert' Unveils First Expansion 'Charting the Unknown'",
+        "items.1.source": "Inven",
+        "items.1.time": "September 4",
+        "items.2.title": "New Fighting Game 'Avatar Legends' Reveals Xbox Launch Trailer",
+        "items.2.source": "IGN India",
+        "items.2.time": "September 4",
+        "items.3.title": "'Saints Row: The Third Remastered' Announces Mobile Release Date",
+        "items.3.source": "IGN India",
+        "items.3.time": "September 4",
+        "items.4.title": "Cygames Establishes 'Cygames Edge' and Announces New Title for November Release",
+        "items.4.source": "4Gamer",
+        "items.4.time": "September 4",
+        "items.5.title": "'Fate/EXTRA Record' Confirmed for Release on January 28, 2027",
+        "items.5.source": "4Gamer",
+        "items.5.time": "September 4",
+        "items.6.title": "Microsoft Introduces Monthly Playtime Limits for Xbox Cloud Gaming",
+        "items.6.source": "IGN",
+        "items.6.time": "September 3",
+        "items.7.title": "Epic's Tim Sweeney: \"Game Industry in Worst Slump Since the 1980s\"",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "September 3"
+      },
+      "drk": {
+        "title": "Where the Cloud Illusion Clears, the Harsh Bill Arrives",
+        "intro": "Why did the promise of unlimited gaming anytime, anywhere suddenly come to a halt?\nWe look into the reality behind cloud gaming time limits and industry leaders' warnings of a downturn. ☁️📉",
+        "points": "Microsoft has implemented monthly playtime limits for Xbox Cloud Gaming, and Epic Games CEO Tim Sweeney has described the current gaming market as facing its worst slump since the 1980s. This is the inevitable outcome of cloud and subscription models—once wrapped in rosy promises—finally hitting the harsh wall of physical infrastructure costs. 🛑\n\nThese measures create direct fractures in player spending patterns and platform trust. The lock-in strategy that previously held users under the premise of 'unlimited streaming for just a monthly fee' is crumbling, and consumer sentiment that sought to bypass purchasing expensive hardware is very likely to swing back toward physical ownership or local hardware. 🎮\n\nUltimately, the crucial point is that **platforms have begun shifting the massive server and bandwidth costs they once absorbed onto users**. Even tech giants that previously pursued growth at all costs are no longer willing to endure mounting deficits, and the gaming industry as a whole is rapidly pivoting from the illusion of unlimited service to aggressive cost controls and margin defense. 📊\n\nWith Big Tech tightening its purse strings, is the downsizing of Game Pass merely a temporary measure of austerity, or is it a harbinger signaling the fundamental limitations of subscription-based services? Will you continue to choose restricted cloud gaming? 🤔"
+      },
+      "epic": {
+        "title": "Castlevania Anniversary Collection",
+        "comment": "🎮 **This Weekend's Game Deals at a Glance**\n\n**[Epic Games Weekend Deal Recommendation]**\nWhile there is no free giveaway this week, a great opportunity to pick up classic masterpieces awaits!\n- **Castlevania Anniversary Collection** (40% off, until September 17, 15:00 UTC): A classic action bundle containing the origins of the vampire hunter franchise, complete with retro appeal and a comprehensive development history e-Book.\n\n**[Next Week]**\nNext week (starting Sep 11), the stylish aerial dogfighting game **Luftrausers** and the vibrant action roguelite **Astral Ascent** are scheduled to be given away for free.\n\n**[Steam Weekend Deals]**\nIf you want to experience the thrill of an epic battlefield, don't miss the blockbuster action game **Warhammer 40,000: Space Marine 2**, on a 75% weekend sale until September 14, 17:00 UTC!"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "The Blood of Dawnwalker",
+        "releases.0.note": "14世紀のヨーロッパを舞台に、吸血鬼と人間の境界を行き交うオープンワールド・ダークファンタジー・アクションRPGが正式リリースされました。",
+        "releases.0.dev": "バンダイナムコエンターテインメント",
+        "releases.1.game": "鬼武者：剣の道",
+        "releases.1.note": "シリーズならではの真剣勝負と重厚な剣術アクションをRE ENGINEで再解釈した、サムライアクションアドベンチャーの新作が世界同時正式リリースされました。",
+        "releases.1.dev": "カプコン",
+        "releases.2.game": "走れ へべれけ EX",
+        "releases.2.note": "クラシックIP『へべれけ』を現代風にリメイクした横スクロールカジュアルレースアクションゲームとして、グローバル市場向けに正式リリースされました。",
+        "releases.2.dev": "グラビティ",
+        "releases.3.game": "Wo Long: Fallen Dynasty Complete Edition",
+        "releases.3.note": "すべての追加ダウンロードコンテンツや武器、シナリオを集大成した三国志ダークアクションRPGの完全版が、Nintendo Switch 2版として発売されました。",
+        "releases.3.dev": "コーエーテクモゲームス",
+        "releases.4.game": "SpeedRunners 2: King of Speed",
+        "releases.4.note": "グラップリングアクションや多彩なアイテム妨害でスピードを競い合う4人マルチプレイプラットフォーマーの新作が正式リリースされました。",
+        "releases.4.dev": "DoubleDutch Games",
+        "releases.5.game": "バイオエデン",
+        "releases.5.note": "生体機械と自然が融合した未知の惑星を舞台に繰り広げられるSFアドベンチャーの新作が、次世代コンソールおよびPCプラットフォーム向けに正式リリースされました。",
+        "releases.5.dev": "Cyberdream",
+        "events.0.name": "ゲーム文化フェスティバル GXG 2026",
+        "events.0.note": "コスプレプログラムおよびステージ、二次創作マーケット、衣装体験などを実施",
+        "events.0.venue": "板橋（パンギョ）駅前広場一帯",
+        "events.1.name": "『Fate/EXTRA Record』最新情報公開生放送",
+        "events.1.note": "2027年発売予定のリメイク新作の最新ゲーム情報および映像を公開",
+        "events.1.venue": "オンライン"
+      },
+      "briefing": {
+        "items.0.title": "『メトロ 2039』、2027年2月4日にマルチプラットフォームで正式リリース",
+        "items.0.source": "Inven",
+        "items.0.time": "9月4日",
+        "items.1.title": "『紅の砂漠』、初の拡張パック「Charting the Unknown」を電撃公開",
+        "items.1.source": "Inven",
+        "items.1.time": "9月4日",
+        "items.2.title": "格闘新作『アバター・レジェンド』、Xboxローンチトレーラーを公開",
+        "items.2.source": "IGN India",
+        "items.2.time": "9月4日",
+        "items.3.title": "『セインツロウ・ザ・サード：リマスタード』、モバイル版の発売スケジュールを発表",
+        "items.3.source": "IGN India",
+        "items.3.time": "9월 4일",
+        "items.4.title": "Cygames、『Cygames Edge』設立および新作を11月リリース",
+        "items.4.source": "4Gamer",
+        "items.4.time": "9月4日",
+        "items.5.title": "『Fate/EXTRA Record』、2027年1月28日の発売が決定",
+        "items.5.source": "4Gamer",
+        "items.5.time": "9月4日",
+        "items.6.title": "MS、Xbox Cloud Gamingに月間利用時間制限を導入",
+        "items.6.source": "IGN",
+        "items.6.time": "9月3日",
+        "items.7.title": "Epic ティム・スウィーニー氏「ゲーム業界、1980年代以来最悪の不況」",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "9月3日"
+      },
+      "drk": {
+        "title": "クラウドの幻想が消え去った後に残る、冷酷なコストの請求書",
+        "intro": "いつでもどこでも無制限にゲームを楽しめるという約束は、なぜ立ち止まってしまったのでしょうか？\nクラウドゲーミングの時間制限と業界トップの不況警告が指し示す真実に迫ります。☁️📉",
+        "points": "マイクロソフトがXbox Cloud Gamingに月間利用時間制限を導入し、Epic Gamesのティム・スウィーニーCEOは現在のゲーム市場を1980年代以来最悪の不況と診断しました。バラ色の未来として描かれていたクラウドとサブスクリプションモデルが、ついに物理的インフラコストという冷酷な現実の壁にぶつかった結果です。🛑\n\nこうした措置は、ゲーマーの消費構造やプラットフォームへの信頼性に直接的な亀裂を生じさせます。これまで「月額料金さえ払えば無制限にストリーミングできる」という前提でユーザーを囲い込んできたロックイン（Lock-in）戦略が揺らぎ、高スペックハードウェアの購入を見送ろうとしていた消費者の心理も、再びパッケージの所有やローカルハードウェア中心へと回帰する可能性が高いと言えます。🎮\n\n結局のところ、**プラットフォームが負担してきた膨大なサーバーおよびトラフィックコストをユーザーに転嫁し始めた**という点が核心です。規模拡大ばかりを追い求めていた巨大テック企業でさえ、もはや赤字を許容しなくなり、ゲーム産業全体が無制限提供という幻想から、徹底したコスト管理と収益性防衛の体制へと急激にシフトしています。📊\n\nビッグテックまでもが財布の紐を締め始めた今、Game Passの縮小は果たして一時的な緊縮なのか、それともサブスクリプション型サービスの根本的な限界を告げる号砲なのでしょうか？ 皆さんは制限付きのクラウドを選び続けますか？🤔"
+      },
+      "epic": {
+        "title": "悪魔城ドラキュラ アニバーサリーコレクション",
+        "comment": "🎮 **今週末のゲーム特典まとめ**\n\n**[Epic Games 週末セールのおすすめ]**\n今週は惜しくも無料配布はお休みですが、往年の名作に出会える絶好のチャンスが用意されています！\n- **悪魔城ドラキュラ アニバーサリーコレクション**（40%オフ、～9/18 00:00まで）：吸血鬼ハンターシリーズの原点を収めたクラシックアクションコレクションで、レトロな魅力と充実した開発秘話e-Bookを一緒にお楽しみいただけます。\n\n**[Next Week]**\n来週（9/11～）は、スタイリッシュなアーケード空中戦**Luftrausers**と、華麗なアクションローグライト**Astral Ascent**が無料配布される予定です。\n\n**[Steam 週末特典]**\n壮大な戦場のスリルを味わいたいなら、9月15日02:00まで75%オフの週末セールが実施されるアクション大作**Warhammer 40,000: Space Marine 2**をお見逃しなく！"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "클라우드의 환상이 깨진 날, 날아온 냉혹한 청구서 💸 (feat. 에픽게임즈 캐슬바니아 특가 🦇)",
+    "en": "The Cloud Illusion Shatters: Gaming's Brutal Reality Check 💸 (feat. Epic's Castlevania Sale 🦇)",
+    "ja": "クラウドの幻想崩壊と突きつけられた請求書 💸 (Epic『悪魔城ドラキュラ』セール情報 🦇)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "붉은사막 첫 확장팩 소식 실화인가요?! 😲\n깜짝 공개된 '차팅 더 언노운'부터 알짜배기 게임 뉴스 모아봤어요 🎮\n\nhttps://www.gtplayer.net/edition-118/\n#붉은사막 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-04T07:01:32.456764"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "9월 4일 오늘의 게임 소식 🎮 클라우드의 환상이 깨진 날, 날아온 냉혹한 청구서 💸\n\n📰 [뉴스] '메트로 2039' 출시일 확정부터 '붉은사막' 첫 확장팩 공개까지 주요 소식 총정리\n📅 [출시] '귀무자: 검의 길', '와룡 컴플리트 에디션' 등 이번 주 주목해야 할 신작 라인업\n✍️ [인사이트] 무제한 플레이의 환상과 시간 제한, 클라우드 게이밍에 닥친 비용의 냉혹한 진실\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #신작게임 #게임추천 #게임스타그램 #콘솔게임 #PC게임 #스팀게임 #메트로2039 #붉은사막 #귀무자 #와룡폴른다이너스티 #닌텐도스위치2 #플레이스테이션5 #엑스박스 #클라우드게임 #게임정보 #게임덕후 #게이머 #GT플레이어 #gtplayer",
+          "image_paths": [
+            "web\\instagram\\edition_118\\card_cover.png",
+            "web\\instagram\\edition_118\\card_news.png",
+            "web\\instagram\\edition_118\\card_calendar.png",
+            "web\\instagram\\edition_118\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3978321620632845332_39332818166",
+            "url": "https://www.instagram.com/p/Dc11m-YE7wU/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-04T07:02:03.987319",
+      "freegames_results": {
+        "success": true,
+        "id": "3978321861343926712_39332818166",
+        "url": "https://www.instagram.com/p/Dc11qejk1m4/",
+        "error": null
+      },
+      "freegames_updated_at": "2026-09-04T07:02:34.196025"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "The Cloud Illusion Shatters: Gaming's Brutal Reality Check 💸 (feat. Epic's Castlevania Sale 🦇)\n\nMetro 2039 locks in its launch date while Crimson Desert reveals a massive new expansion.\nHere is what is driving the biggest headlines and reshaping the future of cloud gaming this week.\n\nhttps://www.gtplayer.net/edition-118-en/",
+        "error": null
+      },
+      "updated_at": "2026-09-04T07:03:19.691211"
+    }
+  }
+}

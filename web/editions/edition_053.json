@@ -1,0 +1,454 @@
+{
+  "num": "053",
+  "date": "2026-05-20",
+  "status": "published",
+  "schedule": {
+    "date": "2026-05-20",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "update",
+          "game": "블루 아카이브",
+          "dev": "넥슨게임즈",
+          "date": "5월 20일(수)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "신규 캐릭터 '에리카'가 공식 추가되며, 5월 20일부터 특별 픽업 모집이 함께 진행됩니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202605/75250",
+          "source_name": "전격온라인"
+        },
+        {
+          "category": "update",
+          "game": "수박게임+",
+          "dev": "알라딘 엑스",
+          "date": "5월 21일(목)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "인기 애니메이션 '블루이(Bluey)'와의 협업을 통해 특별 BGM과 인형 테마의 독특한 과일 디자인을 5월 21일부터 선보입니다.",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202605/75226",
+          "source_name": "Famitsu"
+        },
+        {
+          "category": "event",
+          "game": "2026 플레이엑스포 (PlayX4)",
+          "dev": "경기도",
+          "date": "5월 21일(목)",
+          "platforms": [
+            "기타"
+          ],
+          "color": "#10b981",
+          "note": "5월 21일부터 24일까지 일산 킨텍스에서 개최되며, 35개 인디 게임 팀이 참여하는 공동 전시관 '인디오락실'이 함께 운영됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316550",
+          "source_name": "인벤"
+        },
+        {
+          "category": "event",
+          "game": "펌프 잇 업 피닉스 2",
+          "dev": "안다미로",
+          "date": "5월 21일(목)",
+          "platforms": [
+            "Arcade"
+          ],
+          "color": "#10b981",
+          "note": "6월 정식 출시를 앞둔 신작 아케이드 리듬 게임 '펌프 잇 업 피닉스 2'가 5월 21일 개막하는 플레이엑스포에서 국내 최초로 일반에 공개됩니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1775348",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "event",
+          "game": "유비트 (jubeat)",
+          "dev": "코나미",
+          "date": "5월 21일(목)",
+          "platforms": [
+            "Arcade"
+          ],
+          "color": "#10b981",
+          "note": "유니아나가 5월 21일 개막하는 플레이엑스포 2026에 참여해 인기 아케이드 리듬 게임 '유비트'의 최신형 기체를 공개합니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1775349",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "event",
+          "game": "비트서밋 펀치 2026 (BitSummit PUNCH)",
+          "dev": "일본인디게임협회",
+          "date": "5월 22일(금)",
+          "platforms": [
+            "PC",
+            "기타"
+          ],
+          "color": "#10b981",
+          "note": "일본 교토에서 개최되는 대규모 인디 게임 행사로, 국내 BIC 우수 선정작 6종을 비롯한 글로벌 유망작들이 5월 22일부터 부스를 열고 참관객을 맞이합니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1775356",
+          "source_name": "게임메카"
+        }
+      ],
+      "events": [
+        {
+          "name": "2026 PlayX4 '인디오락실'",
+          "note": "한국인공지능게임협회가 주관하는 인디게임 전시관으로 로그라이크, RPG 등 35개 팀의 다양한 인디게임 전시",
+          "venue": "일산 킨텍스",
+          "date": "2026-05-21 ~ 2026-05-24",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=316550"
+        },
+        {
+          "name": "NTE: Neverness to Everness Ver.1.1 '꿈을 도는 회랑' 예고 방송",
+          "note": "오픈월드 RPG 'NTE'의 업데이트 상세 내용을 공개하는 공식 예고 방송",
+          "venue": "온라인",
+          "date": "2026-05-23",
+          "tag": "쇼케이스",
+          "website": "https://www.4gamer.net/games/817/G081722/20260519039/"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "미호요, 향후 3년간 AI 분야 22조 원 투자 발표",
+          "source": "인벤",
+          "time": "5월 15일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316579"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "넥슨, 외부 개방 라이선스 프로젝트 '리플레이' 공개",
+          "source": "게임메카",
+          "time": "5월 18일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1775333"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "파밍 시뮬레이터 26, 스위치 및 모바일 출시",
+          "source": "IGN India",
+          "time": "5월 19일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/farming-simulator-26/261147/farming-simulator-26-official-nintendo-switch-and-mobile-launch-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "인생 시뮬레이션 신작 'Paralives' 영상 공개",
+          "source": "IGN India",
+          "time": "5월 19일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/paralives/261143/paralives-official-early-access-gameplay-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "협동 슈터 'Far Far West', 100만 장 판매 돌파",
+          "source": "4Gamer",
+          "time": "5월 18일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/985/G098546/20260519028/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "Q-Games, 협동 골프 신작 '요델 골프' 발표",
+          "source": "4Gamer",
+          "time": "5월 19일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/007/G100771/20260519021/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "포트나이트, 호주 제외 전 세계 iOS 마켓 복귀",
+          "source": "GamesIndustry.biz",
+          "time": "5월 19일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/fortnite-returns-to-ios-worldwide-excluding-australia-as-epic-prepares-for-final-battle-over-app-store-fees"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "퍼블리셔 파이어샤인, 생성형 AI 게임 협업 거부",
+          "source": "GamesIndustry.biz",
+          "time": "5월 19일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/far-far-west-publisher-says-we-dont-work-with-partners-that-are-relying-on-generative-ai"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "기술 혁신과 인간적 독창성, 갈림길에 선 게임 산업",
+      "intro": "누군가는 인공지능(AI)에 수십조 원을 베팅하고, 다른 누군가는 AI 도입을 단호히 거부합니다. \n급변하는 기술의 소용돌이 속에서 미래의 게임은 과연 누구의 손에서 탄생하게 될까요?",
+      "points": "최근 글로벌 게임 시장에서 AI를 둘러싼 극명한 시각 차이가 나타나고 있습니다. 🤖 미호요가 AI 분야에 22조 원의 대규모 투자를 발표한 반면, 퍼블리셔 파이어샤인은 생성형 AI 게임과의 협업을 전면 거부하며 대조적인 행보를 보였습니다.\n\n이러한 대립은 **실제 게임 형태의 변화**와 **소비자 심리**에 깊은 영향을 미칩니다. AI는 개발 효율을 극대화하고 방대한 가상 세계를 창조할 수 있지만, 게이머들은 기술 과잉과 콘텐츠의 양산형 기계화에 피로감을 느끼며 인간 창작자의 독창적인 감성과 손길이 닿은 인디 게임에 더 큰 매력을 느끼기 시작했습니다.\n\n결국 **게임의 본질적 흥행은 정형화된 알고리즘이 아닌 유저와의 정서적 연결에 달려 있으며**, 기술 만능주의 시대일수록 개발자의 뚜렷한 철학이 담긴 오리지널리티가 가장 강력한 무기가 될 것입니다. 💡\n\n초거대 자본의 기술 혁신과 인간 고유의 창의성이 격돌하는 지금, 여러분의 마음을 사로잡을 미래의 게임은 과연 어느 쪽에 가깝습니까? 🎮"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": true,
+      "title": "[PUMP IT UP PHOENIX] 2.11.0 Final Update FULL SONG LIST (Premium Mode Korean Version)",
+      "channel": "네브시스터NEVSISTER",
+      "videoId": "5wIJuYuhvkw",
+      "url": "https://www.youtube.com/watch?v=5wIJuYuhvkw",
+      "thumbnail": "https://i.ytimg.com/vi/5wIJuYuhvkw/hqdefault.jpg",
+      "comment": "리듬게임 팬들의 심장을 뛰게 한 <펌프 잇 업 피닉스>의 2.11.0 최종 업데이트를 기념해 이번 주 곡을 선정했습니다! 🎶 화려한 피날레를 장식한 전체 수록곡을 확인해 보세요. 오늘 퇴근길은 신나는 비트에 맞춰 발걸음을 옮겨보는 건 어떨까요? 👟✨",
+      "search_query": "Pump It Up Phoenix Official Soundtrack",
+      "ai_game_name": "펌프 잇 업 피닉스 2 (Pump It Up Phoenix 2)",
+      "ai_reason": "플레이엑스포 2026에서 최초 공개되며 화제를 모은 대한민국 대표 아케이드 리듬 게임입니다. 지난주 추천한 <서브노티카 2>의 고요하고 신비로운 심해 감성과 달리, 이번 주는 심장을 울리는 강력한 비트와 에너제틱한 일렉트로닉 사운드로 일상의 활력을 충전해 보세요!"
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=053&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=053&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Blue Archive",
+        "releases.0.note": "The new character 'Erika' is officially added, and a special Pick-Up Recruitment will run starting May 20.",
+        "releases.0.dev": "Nexon Games",
+        "releases.1.game": "Suika Game +",
+        "releases.1.note": "In collaboration with the popular animation 'Bluey', unique plush-themed fruit designs and a special BGM will be introduced starting May 21.",
+        "releases.1.dev": "Aladdin X",
+        "releases.2.game": "2026 PlayX4",
+        "releases.2.note": "Held at KINTEX in Ilsan from May 21 to 24, it will feature 'Indie Arcade', a joint exhibition hall where 35 indie game teams participate.",
+        "releases.2.dev": "Gyeonggi-do",
+        "releases.3.game": "Pump It Up Phoenix 2",
+        "releases.3.note": "Set for official release in June, the new arcade rhythm game 'Pump It Up Phoenix 2' will be publicly revealed for the first time in Korea at PlayX4, which opens on May 21.",
+        "releases.3.dev": "Andamiro",
+        "releases.4.game": "jubeat",
+        "releases.4.note": "Uniana will participate in PlayX4 2026, opening on May 21, to unveil the latest cabinet of the popular arcade rhythm game 'jubeat'.",
+        "releases.4.dev": "Konami",
+        "releases.5.game": "BitSummit PUNCH 2026",
+        "releases.5.note": "As a large-scale indie game event held in Kyoto, Japan, promising global games, including 6 outstanding selections from Korea's BIC, will open booths and welcome visitors starting May 22.",
+        "releases.5.dev": "Japan Independent Games Aggregate",
+        "events.0.name": "PlayX4 2026 'Indie Arcade'",
+        "events.0.note": "An indie game exhibition hall organized by the Korea Artificial Intelligence Game Association, showcasing various indie games from 35 teams, including roguelikes and RPGs.",
+        "events.0.venue": "Ilsan KINTEX",
+        "events.1.name": "NTE: Neverness to Everness Ver.1.1 'Dream-Looping Corridor' Preview Broadcast",
+        "events.1.note": "The official preview broadcast revealing details of the update for the open-world RPG 'NTE'.",
+        "events.1.venue": "Online"
+      },
+      "briefing": {
+        "items.0.title": "miHoYo Announces 22 Trillion Won Investment in AI Field Over Next 3 Years",
+        "items.0.source": "Inven",
+        "items.0.time": "May 15",
+        "items.1.title": "Nexon Unveils 'Replay', an Externally Open Licensing Project",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "May 18",
+        "items.2.title": "Farming Simulator 26 to Launch on Switch and Mobile",
+        "items.2.source": "IGN India",
+        "items.2.time": "May 19",
+        "items.3.title": "New Life Sim 'Paralives' Video Released",
+        "items.3.source": "IGN India",
+        "items.3.time": "May 19",
+        "items.4.title": "Co-op Shooter 'Far Far West' Surpasses 1 Million Copies Sold",
+        "items.4.source": "4Gamer",
+        "items.4.time": "May 18",
+        "items.5.title": "Q-Games Announces New Co-op Golf Game 'Yodel Golf'",
+        "items.5.source": "4Gamer",
+        "items.5.time": "May 19",
+        "items.6.title": "Fortnite Returns to iOS Markets Worldwide Except Australia",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "May 19",
+        "items.7.title": "Publisher Fireshine Games Refuses Collaboration on Generative AI Games",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "May 19"
+      },
+      "drk": {
+        "title": "Technological Innovation and Human Ingenuity: The Game Industry at a Crossroads",
+        "intro": "While some bet tens of trillions of won on artificial intelligence (AI), others resolutely refuse its adoption.\nIn the vortex of rapidly changing technology, in whose hands will the games of the future be born?",
+        "points": "Recently, stark differences in perspectives surrounding AI have emerged in the global gaming market. 🤖 While miHoYo announced a massive investment of 22 trillion won in the field of AI, publisher Fireshine Games took a contrasting path by completely refusing collaborations on generative AI games.\n\nThis clash deeply affects **changes in actual game design** and **consumer psychology**. Although AI can maximize development efficiency and create vast virtual worlds, gamers are feeling fatigued by technological excess and the mass-produced, mechanized nature of content, starting to find greater appeal in indie games touched by the unique sensibility and hands of human creators.\n\nUltimately, **the fundamental success of a game relies on emotional connection with players, rather than standardized algorithms**, and in an era of technological omnipotence, originality imbued with a developer's distinct philosophy will be the most powerful weapon. 💡\n\nAs hyper-capital technological innovation clashes with unique human creativity, which side of the future of gaming will capture your heart? 🎮"
+      },
+      "soundtrack": {
+        "title": "[PUMP IT UP PHOENIX] 2.11.0 Final Update FULL SONG LIST (Premium Mode Korean Version)",
+        "comment": "We have selected this week's track to celebrate the final 2.11.0 update of <Pump It Up Phoenix>, which made the hearts of rhythm game fans race! 🎶 Check out the full song list that marked a spectacular finale. Why not walk to an exciting beat on your way home from work today? 👟✨"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ブルーアーカイブ",
+        "releases.0.note": "新キャラクター「エリカ」が公式に追加され、5月20日から特別ピックアップ募集が同時に開催されます。",
+        "releases.0.dev": "ネクソンゲームズ",
+        "releases.1.game": "スイカゲーム+",
+        "releases.1.note": "人気アニメ「ブルーイ（Bluey）」とのコラボレーションにより、特別なBGMやぬいぐるみテーマのユニークなフルーツデザインを5月21日から順次提供します。",
+        "releases.1.dev": "Aladdin X",
+        "releases.2.game": "2026 PlayX4（プレイエキスポ）",
+        "releases.2.note": "5月21日から24日まで一山（イルサン）KINTEXで開催され、35のインディーゲームチームが参加する共同展示館「インディーゲームコーナー」が共に運営されます。",
+        "releases.2.dev": "京畿道",
+        "releases.3.game": "Pump It Up Phoenix 2",
+        "releases.3.note": "6月の正式リリースを控えた新作アーケードリズムゲーム『Pump It Up Phoenix 2』が、5月21日に開幕するPlayX4で韓国内で初めて一般公開されます。",
+        "releases.3.dev": "アンダミロ",
+        "releases.4.game": "jubeat（ユビート）",
+        "releases.4.note": "UNIANAが5月21日に開幕するPlayX4 2026に参加し、人気アーケードリズムゲーム『jubeat』の最新筐体を公開します。",
+        "releases.4.dev": "コナミ",
+        "releases.5.game": "BitSummit PUNCH 2026",
+        "releases.5.note": "日本・京都で開催される大規模インディーゲームイベントで、韓国のBIC優秀選定作6種をはじめとするグローバル有望作が5月22日からブースを出展し、来場者を迎えます。",
+        "releases.5.dev": "一般社団法人日本インディペンデント・ゲーム協会",
+        "events.0.name": "2026 PlayX4 「インディーゲームコーナー」",
+        "events.0.note": "韓国人工知能ゲーム協会が主催するインディーゲーム展示館で、ローグライ크、RPGなど35チームの様々なインディーゲームが展示されます。",
+        "events.0.venue": "一山 KINTEX",
+        "events.1.name": "NTE: Neverness to Everness Ver.1.1「夢を巡る回廊」予告番組",
+        "events.1.note": "オープンワールドRPG『NTE』のアップデート詳細内容を公開する公式予告番組",
+        "events.1.venue": "オンライン"
+      },
+      "briefing": {
+        "items.0.title": "miHoYo、今後3年間でAI分野に22兆ウォン投資を発表",
+        "items.0.source": "Inven",
+        "items.0.time": "5月15日",
+        "items.1.title": "ネクソン、外部開放ライセンスプロジェクト「Replay」を公開",
+        "items.1.source": "GameMeca",
+        "items.1.time": "5月18日",
+        "items.2.title": "ファーミングシミュレーター 26、Switchおよびモバイルで発売",
+        "items.2.source": "IGN India",
+        "items.2.time": "5月19日",
+        "items.3.title": "人生シミュレーション新作『Paralives』の映像公開",
+        "items.3.source": "IGN India",
+        "items.3.time": "5月19日",
+        "items.4.title": "協力型シューター『Far Far West』、100万本突破",
+        "items.4.source": "4Gamer",
+        "items.4.time": "5월 18일",
+        "items.5.title": "Q-Games、協力型ゴルフ新作『ヨーデルゴルフ』を発表",
+        "items.5.source": "4Gamer",
+        "items.5.time": "5月19日",
+        "items.6.title": "フォートナイト、オーストラリアを除く全世界のiOSマーケットに復帰",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "5月19日",
+        "items.7.title": "パブリッシャーのFireshine、生成AIゲームとの協業を拒否",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "5月19日"
+      },
+      "drk": {
+        "title": "技術革新と人間の創造性、岐路に立つゲーム産業",
+        "intro": "ある者は人工知能（AI）に数十兆ウォンを賭け、またある者はAIの導入を断固として拒否します。\n急激に変化する技術の渦の中で、未来のゲームは一体誰の手によって誕生するのでしょうか？",
+        "points": "最近のグローバルゲーム市場において、AIをめぐる極めて対照的な視点の違いが現れています。🤖 miHoYoがAI分野に22兆ウォンの大規模投資を発表した一方で、パブリッシャーのFireshine（ファイアシャイン）は生成AIゲームとの協業を全面拒否し、対照的な動きを見せました。\n\nこのような対立は、**実際のゲーム形態の変化**と**消費者心理**に深い影響を与えています。AIは開発効率を極大化し、広大な仮想世界を創造することができますが、ゲーマーは技術の過剰やコンテンツの量産型・機械化に疲弊を感じ、人間のクリエイターによる独創的な感性と温もりが感じられるインディーゲームに、より大きな魅力を感じ始めています。\n\n結局のところ、**ゲームの本質的なヒットは定型化されたアルゴリズムではなく、ユーザーとの感情的なつながりにかかっており**、技術万能主義の時代であるからこそ、開発者の明確な哲学が込められたオリジナリティが最も強力な武器となるでしょう。💡\n\n超巨大資本의 技術革新と人間固有の創造性が衝突する今、皆様の心を捉える未来のゲームは、果たしてどちらに近いでしょうか？🎮"
+      },
+      "soundtrack": {
+        "title": "[PUMP IT UP PHOENIX] 2.11.0 Final Update FULL SONG LIST (Premium Mode Korean Version)",
+        "comment": "リズムゲームファンの心を躍らせた『Pump It Up Phoenix』の2.11.0最終アップデートを記念して、今週の楽曲を選定しました！🎶 華やかなフィナーレを飾った全収録曲をチェックしてみてください。今日の帰り道は、エキサイティングなビートに合わせて歩みを進めてみてはいかがでしょうか？👟✨"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "AI vs 인간, 갈림길에 선 게임 산업의 미래 🤖 (feat. 펌프 피닉스 최종 수록곡 대공개 🔥)",
+    "en": "AI vs. Human: Gaming at a critical crossroads 🤖 (feat. Pump It Up Phoenix Final Tracklist 🔥)",
+    "ja": "AIか人間か、岐路に立つゲーム業界の未来 🤖 (feat. PUMP IT UP PHOENIX 最終収録曲公開 🔥)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "요즘 게임판 AI 소식으로 엄청 뜨거운 거 아시나요? 🔥\n미호요가 무려 22조 원을 AI 분야에 대규모 투자한다는 소식이에요!\n\nhttps://www.gtplayer.net/edition-053/\n\n#블루아카이브 #게임소식 #GTPlayer",
+          "posted": true,
+          "data": {
+            "data": {
+              "id": "2056858726544584780",
+              "edit_history_tweet_ids": [
+                "2056858726544584780"
+              ],
+              "text": "요즘 게임판 AI 소식으로 엄청 뜨거운 거 아시나요? 🔥\n미호요가 무려 22조 원을 AI 분야에 대규모 투자한다는 소식이에요!\n\nhttps://t.co/i9fp0ZYadf\n\n#블루아카이브 #게임소식 #GTPlayer"
+            }
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-20T07:05:09.410795"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "5월 20일 오늘의 게임 소식 🎮\n\n📰 **뉴스**: 미호요의 22조 AI 투자 소식부터 펌프 피닉스 최종 수록곡 대공개까지 핫이슈 모음!\n📅 **캘린더**: 블루 아카이브, 플레이엑스포, 펌프 잇 업 2 등 이번 주 놓칠 수 없는 신작&행사 일정!\n🧠 **Dr.K 인사이트**: AI vs 인간, 기술 혁신과 인간의 독창성 갈림길에 선 게임 산업의 미래는?\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요! \n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임소식 #gtplayer #지티플레이어 #게임덕후 #신작게임 #게임추천 #미호요 #넥슨 #펌프잇업 #블루아카이브 #플레이엑스포 #인디게임 #스팀게임 #모바일게임 #콘솔게임 #게임산업 #인공지능 #게임라이프 #게이머",
+          "image_paths": [
+            "web\\instagram\\edition_053\\card_news.png",
+            "web\\instagram\\edition_053\\card_calendar.png",
+            "web\\instagram\\edition_053\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3900772428704615976_39332818166",
+            "url": "https://www.instagram.com/p/DYiU9tSk44o/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-20T07:05:39.898289"
+    }
+  }
+}

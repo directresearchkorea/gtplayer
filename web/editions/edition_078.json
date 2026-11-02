@@ -1,0 +1,451 @@
+{
+  "num": "078",
+  "date": "2026-07-09",
+  "status": "published",
+  "schedule": {
+    "date": "2026-07-09",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "문라이트 피크스",
+          "dev": "리틀 치킨 게임 스튜디오",
+          "date": "7월 7일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "7월 7일 스팀에 정식 출시된 라이프 시뮬레이션 게임으로, 밤을 지배하는 뱀파이어가 되어 마법 농장을 가꾸고 마을 주민들과 교감하는 독특한 판타지 힐링을 선사합니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777555",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "로스트아크",
+          "dev": "스마일게이트 RPG",
+          "date": "7월 8일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "7월 8일 업데이트를 통해 시공간을 다루는 요즈족 신규 클래스 '차원술사'를 새롭게 선보이며 한층 더 화려하고 기동성 넘치는 전투 환경을 제공합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318248",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "하스스톤",
+          "dev": "블리자드 엔터테인먼트",
+          "date": "7월 8일(수)",
+          "platforms": [
+            "PC",
+            "iOS",
+            "Android"
+          ],
+          "color": "#3b82f6",
+          "note": "7월 8일 정식 출시된 하스스톤의 신규 확장팩 '보랏빛 요새 탈출 작전'으로, 새로운 메커니즘을 가진 키워드와 전략의 폭을 넓혀줄 다채로운 카드들이 전장에 합류합니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777523",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "어쌔신 크리드: 블랙 플래그 리싱크드",
+          "dev": "유비소프트",
+          "date": "7월 9일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "7월 9일 정식 출시되는 액션 어드벤처 게임으로, 역대 최고 명작으로 꼽히는 원작을 세련된 그래픽과 최신 편의 시스템으로 재해석해 복귀 및 신규 유저들을 맞이합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/assassins-creed/black-flag-release-date-launch-times/",
+          "source_name": "PC Gamer"
+        },
+        {
+          "category": "update",
+          "game": "그랑블루 판타지: 리링크",
+          "dev": "사이게임즈",
+          "date": "7월 9일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "PS4"
+          ],
+          "color": "#3b82f6",
+          "note": "7월 9일 정식 출시되는 액션 RPG의 대규모 확장팩 '엔드리스 라그나로크'로, 신규 스토리 전개와 함께 전반적인 시스템 개편 및 풍성한 콘텐츠가 추가됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318263",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "팰월드",
+          "dev": "포켓페어",
+          "date": "7월 10일(금)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "7월 10일 정식 출시되는 오픈월드 서바이벌 샌드박스 게임으로, 약 2년 6개월간의 얼리 액세스를 마치고 다양한 플랫폼을 통해 대망의 1.0 정식 버전을 선보입니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318257",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "2026 MSI 팬페스타 SOOP 현장 이벤트 및 LCK 파트너 구단 팬미팅",
+          "note": "2026 미드 시즌 인비테이셔널(MSI)을 맞아 진행되는 야외 팬페스타에서 LCK 파트너 구단 팬미팅 및 다양한 현장 이벤트를 진행합니다.",
+          "venue": "대전 엑스포 과학공원 한빛광장",
+          "date": "2026-07-09 ~ 2026-07-12",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=318255"
+        },
+        {
+          "name": "붕괴: 스타레일 몰입형 체험 전시 '별 사이를 걷는 회고록'",
+          "note": "호요버스의 인기 게임 '붕괴: 스타레일'의 세계관을 오감으로 경험할 수 있는 단독 몰입형 체험 전시회가 개최됩니다.",
+          "venue": "서울 잠실",
+          "date": "2026-07-17 ~",
+          "tag": "오프라인 행사",
+          "website": "https://www.gamemeca.com/view.php?gid=1777553"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "카카오게임즈, 자사주 50만 주 소각 결정",
+          "source": "인벤",
+          "time": "7월 8일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318254"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "위믹스, 美 가상자산 거래소 크라켄 상장",
+          "source": "게임메카",
+          "time": "7월 8일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777533"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "일본사고물건감시협회, 16일 스위치판 출시",
+          "source": "Famitsu",
+          "time": "7월 8일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202607/80776"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "요시노야, 드쿠 워크 세트 1탄 조기 완판",
+          "source": "4Gamer",
+          "time": "7월 8일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/461/G046174/20260708047/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "옵시디언, 신작 폴아웃 위해 어바우드2 취소",
+          "source": "IGN India",
+          "time": "7월 8일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/avowed/265767/obsidian-reportedly-cancels-avowed-2-to-focus-on-a-new-fallout-game"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "엘더스크롤 6, 출시까지 최소 2년 더 소요",
+          "source": "IGN India",
+          "time": "7월 8일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/the-elder-scrolls-6/265752/more-than-8-years-on-from-its-announcement-the-elder-scrolls-6-is-reportedly-still-at-least-2-more-y"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "유료 모바일 게임 시장 부활, 출시 77% 급증",
+          "source": "GamesIndustry.biz",
+          "time": "7월 8일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/premium-mobile-games-are-back-with-releases-up-77-in-2025"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "FF7 에버 크라이시스, 10월 서비스 종료",
+          "source": "PC Gamer",
+          "time": "7월 8일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/final-fantasy/less-than-3-years-after-it-launched-on-steam-the-final-fantasy-7-gacha-game-is-closing/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "유료 모바일 게임의 부활과 ‘지친 게이머’들의 소비 구조 변화",
+      "intro": "매달 끝없는 지출을 요구하는 부분 유료화 게임에 지치셨습니까?\n최근 모바일 게임 시장에서 감지되는 '유료 패키지'의 역습은 단순한 유행이 아닙니다.",
+      "points": "최근 유료 모바일 게임 출시가 77% 급증한 반면, 유명 IP 기반의 부분 유료화 게임인 '파이널 판타지 7 에버 크라이시스'가 서비스 종료를 발표했습니다. 이는 모바일 플랫폼 내에서 기존의 비즈니스 모델(BM)이 한계에 부딪혔으며, 새로운 대안적 생태계가 부상하고 있음을 보여주는 상징적인 장면입니다. 📉\n\n이러한 현상은 소비자들의 **게임 소비 구조**와 심리를 깊이 관통합니다. 지속적인 과금 유도와 확률형 아이템에 피로감을 느낀 게이머들이 일회성 구매로 온전한 경험을 제공하는 프리미엄 유료 게임으로 이동하고 있습니다. 이는 개발사들에게 무한 경쟁의 F2P 시장 대신, 완성도 높은 게임성으로 승부할 수 있는 새로운 플랫폼 구조의 가능성을 제시합니다. 📱\n\n결국, **지속 가능한 게임 경험을 향한 게이머의 갈망이 모바일 시장의 표준 BM을 재정의하고 있습니다.** 이제 모바일 게임의 성공 공식은 유저를 옭아매는 비즈니스 모델이 아닌, 소유하고 싶은 가치를 지닌 '프리미엄 콘텐츠'의 제공 여부에 달려 있습니다. 💡\n\n대작 F2P 게임들의 연이은 몰락과 유료 패키지 모델의 귀환이 교차하는 지금, 모바일 플랫폼의 본질은 어떻게 변하고 있습니까? 여러분은 다음 여정으로 어떤 게임을 선택하시겠습니까? 🤔"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": true,
+      "title": "Assassin&#39;s Creed Black Flag Resynced: PS5 Pro Immersion Trailer",
+      "channel": "Assassin's Creed",
+      "videoId": "U-aWl8_7P58",
+      "url": "https://www.youtube.com/watch?v=U-aWl8_7P58",
+      "thumbnail": "https://i.ytimg.com/vi/U-aWl8_7P58/hqdefault.jpg",
+      "comment": "전 세계 팬들의 인생작으로 꼽히는 명작이 최신 기술을 입고 돌아온 '어쌔신 크리드: 블랙 플래그 리싱크드(Assassin's Creed Black Flag Resynced)'의 새로운 트레일러가 공개되어 뜨거운 화제를 모으고 있습니다. 🏴‍☠️✨ \n\n이번 영상은 PS5 Pro의 강력한 성능을 활용하여 한층 더 선명해진 해상의 그래픽과 압도적인 몰입감을 생생하게 보여줍니다. 🌊🎮 \n\n푸른 카리브해로 다시 떠나는 모험이 얼마나 아름다워졌는지 공식 트레일러 영상을 통해 직접 확인해 보세요! ⚓️🎥",
+      "search_query": "Assassin's Creed Black Flag Rethinked Official Trailer",
+      "ai_game_name": "어쌔신 크리드: 블랙 플래그 리싱크드",
+      "ai_reason": "역대 최고의 명작으로 손꼽히는 해적 액션 어드벤처가 최신 그래픽과 시스템으로 부활했습니다. 한층 더 웅장해진 오픈월드 바다와 압도적인 해상 전투 비주얼을 감상할 수 있는 공식 트레일러입니다."
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Moonlight Peaks",
+        "releases.0.note": "A life simulation game officially released on Steam on July 7, offering a unique fantasy healing experience where players become a vampire ruling the night, tending to a magical farm, and interacting with town residents.",
+        "releases.0.dev": "Little Chicken Game Studio",
+        "releases.1.game": "Lost Ark",
+        "releases.1.note": "The July 8 update introduces the Yoz race's new space-time manipulating class, 'Dimensionist', providing an even more flashy and highly mobile combat environment.",
+        "releases.1.dev": "Smilegate RPG",
+        "releases.2.game": "Hearthstone",
+        "releases.2.note": "With Hearthstone's new expansion 'Operation Escape from the Violet Hold' officially released on July 8, keywords with new mechanics and a variety of cards to broaden strategic options join the battlefield.",
+        "releases.2.dev": "Blizzard Entertainment",
+        "releases.3.game": "Assassin's Creed: Black Flag Resynced",
+        "releases.3.note": "An action-adventure game officially releasing on July 9, welcoming returning and new players alike by reinterpreting the original masterpiece, widely considered one of the greatest of all time, with refined graphics and modern quality-of-life systems.",
+        "releases.3.dev": "Ubisoft",
+        "releases.4.game": "Granblue Fantasy: Relink",
+        "releases.4.note": "A massive expansion 'Endless Ragnarok' for the action RPG, officially releasing on July 9, featuring new story developments along with overall system overhauls and rich content updates.",
+        "releases.4.dev": "Cygames",
+        "releases.5.game": "Palworld",
+        "releases.5.note": "An open-world survival sandbox game officially releasing on July 10, bringing its highly anticipated version 1.0 to various platforms after completing approximately 2 and a half years of Early Access.",
+        "releases.5.dev": "Pocketpair",
+        "events.0.name": "2026 MSI Fan Fest SOOP On-site Event & LCK Partner Team Fan Meeting",
+        "events.0.note": "In celebration of the 2026 Mid-Season Invitational (MSI), an outdoor Fan Fest will host LCK partner team fan meetings and various on-site events.",
+        "events.0.venue": "Hanbit Plaza, Daejeon Expo Science Park",
+        "events.1.name": "Honkai: Star Rail Immersive Exhibition 'Memoir of Walking Among the Stars'",
+        "events.1.note": "A solo immersive exhibition will be held where visitors can experience the universe of HoYoverse's popular game 'Honkai: Star Rail' with all five senses.",
+        "events.1.venue": "Jamsil, Seoul"
+      },
+      "briefing": {
+        "items.0.title": "Kakao Games Decides to Cancel 500,000 Treasury Shares",
+        "items.0.source": "Inven",
+        "items.0.time": "July 8",
+        "items.1.title": "Wemix Listed on US Virtual Asset Exchange Kraken",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "July 8",
+        "items.2.title": "Japan Accident Property Surveillance Association, Nintendo Switch Version to Release on the 16th",
+        "items.2.source": "Famitsu",
+        "items.2.time": "July 8",
+        "items.3.title": "Yoshinoya, DQ Walk Collaboration Set Vol. 1 Sold Out Early",
+        "items.3.source": "4Gamer",
+        "items.3.time": "July 8",
+        "items.4.title": "Obsidian Cancels Avowed 2 for New Fallout",
+        "items.4.source": "IGN India",
+        "items.4.time": "July 8",
+        "items.5.title": "The Elder Scrolls 6 to Take at Least 2 More Years to Release",
+        "items.5.source": "IGN India",
+        "items.5.time": "July 8",
+        "items.6.title": "Revival of Paid Mobile Game Market, Releases Surge by 77%",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "July 8",
+        "items.7.title": "FF7 Ever Crisis to End Service in October",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "July 8"
+      },
+      "drk": {
+        "title": "The Revival of Paid Mobile Games and the Changing Consumption Patterns of 'Exhausted Gamers'",
+        "intro": "Are you tired of free-to-play games that demand endless monthly spending?\nThe recent counterattack of 'paid packages' detected in the mobile game market is not just a passing trend.",
+        "points": "While releases of paid mobile games have surged by 77% recently, 'Final Fantasy VII: Ever Crisis,' a free-to-play game based on a famous IP, has announced the end of its service. This is a symbolic scene showing that traditional business models (BM) in the mobile platform have hit their limits and a new alternative ecosystem is emerging. 📉\n\nThis phenomenon deeply penetrates consumers' **game consumption structures** and psychology. Gamers fatigued by constant monetization prompts and gacha items are moving toward premium paid games that offer a complete experience with a one-time purchase. For developers, this presents the possibility of a new platform structure where they can compete with high-quality gameplay instead of entering the hyper-competitive F2P market. 📱\n\nUltimately, **gamers' longing for a sustainable gaming experience is redefining the standard BM of the mobile market.** The formula for mobile game success no longer depends on business models that lock users in, but rather on whether they can provide 'premium content' worth owning. 💡\n\nAs we witness the consecutive downfalls of major F2P games and the return of the paid package model, how is the essence of the mobile platform changing? What game will you choose for your next journey? 🤔"
+      },
+      "trailer": {
+        "title": "Assassin's Creed Black Flag Resynced: PS5 Pro Immersion Trailer",
+        "comment": "A new trailer for 'Assassin's Creed Black Flag Resynced,' which brings back a masterpiece considered by fans worldwide as the game of their lives, now dressed in the latest technology, has been released and is drawing hot attention. 🏴‍☠️✨\n\nThis video vividly showcases sharper graphics and overwhelming immersion by utilizing the powerful performance of the PS5 Pro. 🌊🎮\n\nCheck out the official trailer to see how beautiful the adventure back to the blue Caribbean has become! ⚓️🎥"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ムーンライト・ピークス",
+        "releases.0.note": "7月7日にSteamで正式リリースされたライフシミュレーションゲームで、夜を支配するヴァンパイアとなり、魔法の農場を耕し、村の住民たちと交流する独特なファンタジーヒーリングをお届けします。",
+        "releases.0.dev": "リトルチキンゲームスタジオ",
+        "releases.1.game": "ロストアーク",
+        "releases.1.note": "7月8日のアップデートを通じて、時空間を操るヨズ族の新クラス「次元術師」を新たに披露し、より一層華やかで機動性に満ちた戦闘環境を提供します。",
+        "releases.1.dev": "スマイルゲートRPG",
+        "releases.2.game": "ハースストーン",
+        "releases.2.note": "7月8日に正式リリースされたハースストーンの新拡張版「バイオレット・ホールド脱出作戦」により、新たなメカニズムを持つキーワードや戦略の幅を広げる多彩なカードが戦場に加わります。",
+        "releases.2.dev": "ブリザード・エンターテイメント",
+        "releases.3.game": "アサシン クリード ブラック フラッグ リシンクド",
+        "releases.3.note": "7月9日に正式リリースされるアクションアドベンチャーゲームで、歴代最高の傑作とされる原作を洗練されたグラフィックと最新の便利システムで再解釈し、復帰プレイヤーや新規プレイヤーを迎えます。",
+        "releases.3.dev": "ユービーアイソフト",
+        "releases.4.game": "グランブルーファンタジー リリンク",
+        "releases.4.note": "7月9日に正式リリースされるアクションRPGの大規模拡張パック「エンドレス・ラグナロク」で、新規ストーリーの展開とともに、全体的なシステム改修や豊富なコンテンツが追加されます。",
+        "releases.4.dev": "サイゲームズ",
+        "releases.5.game": "パルワールド",
+        "releases.5.note": "7月10日に正式リリースされるオープンワールド・サバイバル・サンドボックスゲームで、約2年6ヶ月間の早期アクセスを終え、様々なプラットフォームを通じて待望の1.0正式バージョンを披露します。",
+        "releases.5.dev": "ポケットペア",
+        "events.0.name": "2026 MSIファンフェスタ SOOP会場イベントおよびLCKパートナー球団ファンミーティング",
+        "events.0.note": "2026ミッドシーズン・インビテーショナル（MSI）を記念して開催される屋外ファンフェスタにて、LCKパートナー球団のファンミーティングや様々な会場イベントを実施します。",
+        "events.0.venue": "大田エキスポ科学公園 ハンビッ広場",
+        "events.1.name": "『崩壊：スターレイル』没入型体験展示「星の間を歩む回顧録」",
+        "events.1.note": "HoYoverseの人気ゲーム『崩壊：スターレイル』の世界観を五感で体験できる、単独の没入型体験展示会が開催されます。",
+        "events.1.venue": "ソウル・蚕室"
+      },
+      "briefing": {
+        "items.0.title": "カカオゲームズ、自己株式50万株の消却を決定",
+        "items.0.source": "Inven",
+        "items.0.time": "7月8日",
+        "items.1.title": "WEMIX、米暗号資産取引所クラーケンに上場",
+        "items.1.source": "GameMeca",
+        "items.1.time": "7月8日",
+        "items.2.title": "日本事故物件監視協会、16日にSwitch版をリリース",
+        "items.2.source": "Famitsu",
+        "items.2.time": "7月8日",
+        "items.3.title": "吉野家、「ドラクエウォーク」セット第1弾が早期完売",
+        "items.3.source": "4Gamer",
+        "items.3.time": "7月8日",
+        "items.4.title": "オブシディアン、新作『Fallout』のために『Avowed 2』をキャンセル",
+        "items.4.source": "IGN India",
+        "items.4.time": "7月8日",
+        "items.5.title": "『エルダースクロールズ6』、発売まで最低2年以上を要する",
+        "items.5.source": "IGN India",
+        "items.5.time": "7月8日",
+        "items.6.title": "有料モバイルゲーム市場が復活、リリース数が77%急増",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "7月8日",
+        "items.7.title": "『FF7 エバークライシス』、10月にサービス終了",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "7月8日"
+      },
+      "drk": {
+        "title": "有料モバイルゲームの復活と「疲弊したゲーマー」の消費構造の変化",
+        "intro": "毎月終わりのない支出を要求する基本プレイ無料（F2P）ゲームに疲れていませんか？\n最近、モバイルゲーム市場で感知されている「有料パッケージ」の逆襲は、単なる流行ではありません。",
+        "points": "最近、有料モバイルゲームのリリースが77%急増した一方で、有名IPをベースにした基本プレイ無料ゲーム『ファイナルファンタジーVII エバークライシス』がサービス終了を発表しました。これは、モバイルプラットフォーム内において従来のビジネスモデル（BM）が限界に達し、新たな代替エコシステムが台頭していることを示す象徴的な出来事です。📉\n\nこの現象は、消費者の**ゲーム消費構造**と心理に深く浸透しています。絶え間ない課金誘導やガチャ（確率型アイテム）に疲労感を覚えたゲーマーたちが、一度の購入で完全な体験を提供するプレミアムな有料ゲームへと移行しています。これは開発会社に対し、無限競争のF2P（基本プレイ無料）市場の代わりに、完成度の高いゲーム性で勝負できる新たなプラットフォーム構造の可能性を提示しています。📱\n\n結局のところ、**持続可能なゲーム体験に対するゲーマーの渇望が、モバイル市場の標準BMを再定義しつつあります。** もはやモバイルゲームの成功方程式は、ユーザーを縛り付けるビジネスモデルではなく、所有したい価値を持つ「プレミアムコンテンツ」を提供できるかどうかにかかっています。💡\n\n大作F2Pゲームの相次ぐ没落と、有料パッケージモデルの帰還が交差する今、モバイルプラットフォームの本質はどのように変化しているのでしょうか？ あなたは次の旅路として、どのゲームを選びますか？🤔"
+      },
+      "trailer": {
+        "title": "Assassin&#39;s Creed Black Flag Resynced: PS5 Pro Immersion Trailer",
+        "comment": "世界中のファンから「人生の1本」として挙げられる名作が、最新技術をまとって帰ってきた『アサシン クリード ブラック フラッグ リシンクド（Assassin's Creed Black Flag Resynced）』の新しいトレーラーが公開され、大きな話題を呼んでいます。🏴‍☠️✨\n\n今回の映像は、PS5 Proの強力な性能を活かし、一段と鮮明になった解像度のグラフィックと圧倒的な没入感をリアルに描き出しています。🌊🎮\n\n青いカリブ海へと再び旅立つ冒険がどれほど美しく生まれ変わったのか、公式トレーラー映像でぜひ直接お確かめください！⚓️🎥"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "현질에 지친 게이머들이 모바일 '유료 게임'으로 도망치는 이유 📱 (feat. 블랙 플래그 PS5 Pro 🏴‍☠️)",
+    "en": "Sick of pay-to-win? Why gamers are buying mobile games again 📱 (feat. AC Black Flag PS5 Pro 🏴‍☠️)",
+    "ja": "課金に疲れたゲーマーが「買い切りスマホゲー」に回帰する理由 📱 (feat. アサクリ ブラックフラッグ PS5 Pro 🏴‍☠️)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "끝없는 현질 유도에 지쳐버린 게이머들! 💸\n요즘 광고 없고 깔끔한 모바일 '유료 게임'으로 대거 피신 중이래요! 🏃‍♂️\n\nhttps://www.gtplayer.net/edition-078/\n\n#어쌔신크리드 #게임소식 #GTPlayer",
+          "posted": false,
+          "data": null,
+          "error": "X API 오류 (402): {\"account_id\":2041741108661612544,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2041741108661612544] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/problems/credits\"}"
+        }
+      },
+      "updated_at": "2026-07-09T07:05:08.628675"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "7월 9일 오늘의 게임 소식 🎮 현질에 지친 게이머들이 모바일 '유료 게임'으로 도망치는 진짜 이유!📱\n📰 카카오게임즈 자사주 소각 소식부터 옵시디언의 '폴아웃' 신작 준비 비화까지 핵심 뉴스 요약!\n🗓️ <어쌔신 크리드: 블랙 플래그 리싱크드>, <팰월드>, <로스트아크> 등 이번 주 주목해야 할 출시 캘린더!\n💡 [Dr. K 인사이트] 매달 무한 현질을 요구하는 부분 유료화에 지쳐 '유료 모바일 게임'으로 눈을 돌리는 게이머들의 소비 구조 변화 분석.\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#gtplayer #게임뉴스 #게임정보 #신작게임 #게임추천 #모바일게임 #스팀게임 #콘솔게임 #플스5 #어쌔신크리드 #블랙플래그 #팰월드 #로스트아크 #카카오게임즈 #위믹스 #폴아웃 #게임덕후 #게이머 #인디게임 #게임스타그램",
+          "image_paths": [
+            "web\\instagram\\edition_078\\card_news.png",
+            "web\\instagram\\edition_078\\card_calendar.png",
+            "web\\instagram\\edition_078\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3937011222973761583_39332818166",
+            "url": "https://www.instagram.com/p/DajEtkeE8gv/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-07-09T07:05:41.069601"
+    }
+  }
+}

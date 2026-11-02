@@ -1,0 +1,438 @@
+{
+  "num": "127",
+  "date": "2026-09-17",
+  "status": "published",
+  "schedule": {
+    "date": "2026-09-17",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "파이어 엠블렘: 만자천홍",
+          "dev": "인텔리전트 시스템즈",
+          "date": "9월 17일(목)",
+          "platforms": [
+            "Switch 2"
+          ],
+          "color": "#10b981",
+          "note": "9월 17일 닌텐도 스위치2로 출시된 닌텐도의 대표 SRPG 신작으로, 4인의 영웅을 중심으로 펼쳐지는 깊이 있는 군상극과 전략적인 턴제 전투를 선보입니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780569",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "더 길드 1 리메이크: 유로파 1410",
+          "dev": "바이플랜 게임즈",
+          "date": "9월 17일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 17일 PC 스팀을 통해 정식 출시되는 중세 라이프 시뮬레이션 RPG 리메이크작으로, 15세기 유럽을 무대로 가문을 세우고 번영시키는 경제 전략과 롤플레잉 요소를 제공합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2977260/The_Guild_1_Remake_Europa_1410/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "프로페셔널 쉽 시뮬레이터",
+          "dev": "선샤인 스튜디오",
+          "date": "9월 17일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 17일 PC 스팀 및 에픽게임즈 스토어에서 얼리 액세스를 시작한 선박 조작 시뮬레이션 게임으로, 정밀한 물리 엔진을 통해 다양한 상선과 해상 운항을 현실감 있게 구현했습니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/professional-ship-simulator/272061/professional-ship-simulator-official-early-access-launch-trailer",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "update",
+          "game": "프라그마타",
+          "dev": "캡콤",
+          "date": "9월 17일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#3b82f6",
+          "note": "9월 17일 신규 무료 DLC '록맨 팩'이 배포되어 록맨과 롤을 테마로 한 캐릭터 커스텀 코스튬 및 특별 아이템을 즉시 이용할 수 있습니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/512/G051239/20260916053/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "선큰 렐름",
+          "dev": "아비소 소프트웨어",
+          "date": "9월 18일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 18일 PC 스팀을 통해 출시 예정인 해저 탐험 서바이벌 어드벤처 게임으로, 신비로운 심해 문명의 폐허를 탐사하고 자원을 채취해 기지를 구축하는 재미를 담았습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/1897860/Sunken_Realms/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "완드 & 오더: 마법 상점을 청소하자!",
+          "dev": "스펠바운드 랩스",
+          "date": "9월 18일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 18일 PC 스팀으로 출시되는 캐주얼 정리 시뮬레이션 게임으로, 마법 도구와 물약으로 어질러진 마법 상점을 지팡이와 주문을 사용해 청소하고 꾸려나가는 힐링 플레이를 선사합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4981570/Wand__Order_Tidy_up_the_magic_shop/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "도쿄게임쇼 2026 (Tokyo Game Show 2026)",
+          "note": "주요 게임사 신작 시연, 스테이지 이벤트 및 부스 전시가 진행되는 글로벌 종합 게임 전시회",
+          "venue": "일본 치바 마쿠하리 멧세",
+          "date": "2026-09-17 ~ 2026-09-21",
+          "tag": "오프라인 행사",
+          "website": "https://www.gamemeca.com/view.php?gid=1780579"
+        },
+        {
+          "name": "PC 게이밍 쇼 도쿄 다이렉트 2026 (PC Gaming Show Tokyo Direct 2026)",
+          "note": "도쿄게임쇼 2026 주간을 맞아 다양한 신작 PC 게임 트레일러와 최신 소식을 공개하는 온라인 쇼케이스",
+          "venue": "온라인 (YouTube, Twitch)",
+          "date": "2026-09-17 ~ 2026-09-21",
+          "tag": "쇼케이스",
+          "website": "https://www.pcgamer.com/gaming-industry/events-conferences/how-to-watch-the-pc-gaming-show-tokyo-direct-2026/"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "레벨파이브, 공개 영상 내 생성 AI 직접 사용 중단",
+          "source": "인벤",
+          "time": "9월 17일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=321027"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "코에이 신작 '와룡 2', 내년 3월 4일 출시 확정",
+          "source": "게임메카",
+          "time": "9월 16일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780564"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'몬헌 와일즈: 아센던스', 고룡 '테오' 참전 영상 공개",
+          "source": "4Gamer",
+          "time": "9월 16일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/013/G101399/20260916052/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'드래곤즈 도그마 2 DA' 신규 영상 및 커스텀 앱 공개",
+          "source": "4Gamer",
+          "time": "9월 16일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/015/G101558/20260916054/"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "'바이오하자드' 미카미 신지, DICE 명예의 전당 헌액",
+          "source": "IGN India",
+          "time": "9월 16일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/resident-evil-2002/272081/resident-evil-creator-shinji-mikami-to-be-inducted-into-dice-hall-of-fame"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'하이퍼 라이트' 개발사, 퍼블리셔 투자 철회로 경영 위기",
+          "source": "IGN India",
+          "time": "9월 16일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/possessors/272083/studio-behind-hyper-light-drifter-in-peril-after-publisher-withdraws-funding-for-unannounced-project"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "세가·넷플릭스, '크레이지 택시' 등 영상화 파트너십",
+          "source": "GamesIndustry.biz",
+          "time": "9월 16일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/sega-and-netflix-announce-partnership-to-develop-crazy-taxi-sonic-and-stranger-than-heaven-adaptations"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "생성 AI라는 지름길 앞에서 멈춰 선 게임사들",
+      "intro": "제작 효율의 구원투수로 각광받던 생성 AI가 왜 게이머들 앞에서는 거센 역풍을 맞고 있을까요? 🤔\n레벨파이브의 돌연한 'AI 직접 사용 중단' 선언이 업계에 던진 서늘한 질문을 짚어봅니다.",
+      "points": "일본의 주요 게임사 레벨파이브가 향후 공개 영상 등에서 생성 AI의 직접적인 사용을 전면 중단하겠다고 발표했습니다. 📢 신기술을 통한 개발 및 마케팅 효율화를 적극 타진하던 대형 개발사가 팬덤의 거센 반발을 수용하고 공식적으로 한 발 물러선 상징적인 사례입니다.\n\n이러한 결정의 이면에는 생성 AI 콘텐츠에 극도의 피로감과 거부감을 표출하는 최근의 소비자 심리가 자리 잡고 있습니다. 📉 게이머들은 AI로 생성된 일러스트와 영상에서 '원가 절감'과 '창작자의 인간적 장인정신 부재'를 먼저 읽어내며, 이는 곧 브랜드에 대한 신뢰도 하락과 지갑을 닫는 결과로 이어집니다. 제작비 절감을 노린 기술 도입이 도리어 상업적 가치를 훼손하는 역설적 구조가 형성된 것입니다.\n\n게임은 단순한 기능적 소프트웨어가 아니라, 창작자의 철학과 정성을 교감하는 정서적 소비재입니다. 결국 **생성 AI는 보이지 않는 내부 개발 파이프라인의 효율화 도구로 머물러야 하며, 소비자와 직접 마주하는 결과물 전면에 드러나는 순간 게임의 프리미엄 가치를 급격히 떨어뜨립니다.** 💡\n\n기술의 효율성과 팬덤의 감성적 저항선 사이에서 창작자들은 어디에 선을 그어야 할까요? 🎮 이제 업계의 진짜 과제는 AI를 얼마나 쓰느냐가 아니라, 인간의 독창성을 어떻게 증명해 내느냐에 달려 있습니다."
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": true,
+      "title": "TODO lo que mostraron de MH Wilds Ascendance  Resumen y Nuevas Noticias",
+      "channel": "DesWolfx",
+      "videoId": "CAvhc6baTN0",
+      "url": "https://www.youtube.com/watch?v=CAvhc6baTN0",
+      "thumbnail": "https://i.ytimg.com/vi/CAvhc6baTN0/hqdefault.jpg",
+      "comment": "전 세계 게이머들의 뜨거운 관심을 받고 있는 기대작, '몬스터 헌터 와일즈'의 최신 정보가 한자리에 모였습니다. 역동적으로 변화하는 생태계와 한층 진화한 사냥 액션은 시리즈 팬들이 손꼽아 기다리는 핵심 포인트입니다. 이번 영상을 통해 새롭게 공개된 주요 소식들을 직접 확인하고 다가올 모험을 미리 준비해 보세요! ⚔️✨",
+      "search_query": "Monster Hunter Wilds Teostra Reveal Official Trailer",
+      "ai_game_name": "몬스터 헌터 와일즈",
+      "ai_reason": "시리즈를 상징하는 인기 고룡 '테오-테스카토르'의 웅장한 귀환과 차세대 그래픽으로 무장한 화려한 화염 연출을 공식 영상으로 직접 확인할 수 있는 최고의 기대작입니다."
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Fire Emblem: Splendor of Blooms",
+        "releases.0.note": "Released on September 17 for Nintendo Switch 2, this is Nintendo's flagship SRPG newcomer, featuring a deep ensemble drama centered around four heroes and strategic turn-based combat.",
+        "releases.0.dev": "Intelligent Systems",
+        "releases.1.game": "The Guild 1 Remake: Europa 1410",
+        "releases.1.note": "Officially releasing on PC via Steam on September 17, this medieval life simulation RPG remake combines economic strategy and role-playing elements as you establish and grow a dynasty in 15th-century Europe.",
+        "releases.1.dev": "Biplan Games",
+        "releases.2.game": "Professional Ship Simulator",
+        "releases.2.note": "Launched in Early Access on September 17 across PC Steam and the Epic Games Store, this ship handling simulator realistically depicts a variety of merchant vessels and maritime operations powered by an accurate physics engine.",
+        "releases.2.dev": "Sunshine Studio",
+        "releases.3.game": "Pragmata",
+        "releases.3.note": "A new free DLC, the 'Mega Man Pack,' was released on September 17, granting immediate access to character customization costumes and special items themed after Mega Man and Roll.",
+        "releases.3.dev": "Capcom",
+        "releases.4.game": "Sunken Realm",
+        "releases.4.note": "Scheduled for release on PC via Steam on September 18, this underwater exploration survival adventure game invites players to explore the ruins of a mysterious deep-sea civilization, gather resources, and build bases.",
+        "releases.4.dev": "Abisso Software",
+        "releases.5.game": "Wand & Order: Clean the Magic Shop!",
+        "releases.5.note": "Releasing on PC via Steam on September 18, this casual cleanup simulation game offers a cozy experience where you use wands and spells to tidy up and run a magic shop cluttered with magical tools and potions.",
+        "releases.5.dev": "Spellbound Labs",
+        "events.0.name": "Tokyo Game Show 2026",
+        "events.0.note": "A comprehensive global game exhibition featuring new title demos from major developers, stage events, and booth exhibits.",
+        "events.0.venue": "Makuhari Messe, Chiba, Japan",
+        "events.1.name": "PC Gaming Show Tokyo Direct 2026",
+        "events.1.note": "An online showcase airing during Tokyo Game Show 2026 week, revealing various upcoming PC game trailers and the latest news.",
+        "events.1.venue": "Online (YouTube, Twitch)"
+      },
+      "briefing": {
+        "items.0.title": "Level-5 Halts Direct Use of Generative AI in Public Promotional Videos",
+        "items.0.source": "Inven",
+        "items.0.time": "September 17",
+        "items.1.title": "Koei Tecmo's New Title 'Wo Long 2' Confirmed for Release on March 4 Next Year",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "September 16",
+        "items.2.title": "'Monster Hunter Wilds: Ascendance' Unveils Elder Dragon Teostra Showcase Trailer",
+        "items.2.source": "4Gamer",
+        "items.2.time": "September 16",
+        "items.3.title": "'Dragon's Dogma 2 DA' Unveils New Footage and Character Customization App",
+        "items.3.source": "4Gamer",
+        "items.3.time": "September 16",
+        "items.4.title": "'Resident Evil' Creator Shinji Mikami Inducted into D.I.C.E. Hall of Fame",
+        "items.4.source": "IGN India",
+        "items.4.time": "September 16",
+        "items.5.title": "'Hyper Light' Developer Faces Crisis Following Publisher's Investment Withdrawal",
+        "items.5.source": "IGN India",
+        "items.5.time": "September 16",
+        "items.6.title": "Sega and Netflix Partner on Screen Adaptations, Including 'Crazy Taxi'",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "September 16"
+      },
+      "drk": {
+        "title": "Game Companies Halting Before the Generative AI Shortcut",
+        "intro": "Why is generative AI—once hailed as the ultimate savior of production efficiency—facing such fierce backlash from gamers? 🤔\nWe examine the chilling question Level-5's sudden decision to halt direct AI usage poses to the industry.",
+        "points": "Major Japanese game developer Level-5 announced that it will completely halt the direct use of generative AI in upcoming public promotional videos. 📢 This serves as a symbolic milestone where a major studio actively seeking development and marketing efficiencies through emerging technology officially stepped back after listening to fierce pushback from fans.\n\nBeneath this decision lies a growing consumer sentiment marked by extreme fatigue and aversion toward generative AI content. 📉 Gamers primarily perceive 'cost-cutting' and a 'lack of human craftsmanship' in AI-generated artwork and video, directly eroding brand trust and closing wallets. An ironic paradox has taken shape: technology introduced to trim production costs is instead undermining commercial value.\n\nVideo games are not mere utilitarian software; they are emotional consumer goods where players connect with a creator's philosophy and devotion. Ultimately, **generative AI must remain an invisible efficiency tool inside the backend development pipeline; the moment it surfaces front-and-center in consumer-facing deliverables, the game's premium value drops precipitously.** 💡\n\nWhere must creators draw the line between technical efficiency and fandom's emotional boundaries? 🎮 The real challenge facing the industry today is no longer about how much AI to use, but how to prove the value of human originality."
+      },
+      "trailer": {
+        "title": "TODO lo que mostraron de MH Wilds Ascendance  Resumen y Nuevas Noticias",
+        "comment": "The latest updates on the highly anticipated 'Monster Hunter Wilds,' currently capturing the spotlight among gamers worldwide, are gathered in one place. Dynamically shifting ecosystems and further evolved hunting action remain the defining highlights fans are eager to experience. Check out the newly revealed highlights in this video and gear up for the upcoming adventure! ⚔️✨"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ファイアーエムブレム 万紫千紅",
+        "releases.0.note": "9月17日にNintendo Switch 2向けに発売された任天堂を代表するSRPGの完全新作。4人の英雄を中心に繰り広げられる深みのある群像劇と、戦略的なターン制バトルが展開されます。",
+        "releases.0.dev": "インテリジェントシステムズ",
+        "releases.1.game": "ザ・ギルド 1 リメイク：ヨーロッパ 1410",
+        "releases.1.note": "9月17日にPC（Steam）で正式リリースされる中世ライフシミュレーションRPGのリメイク作。15世紀のヨーロッパを舞台に、家系を築き繁栄させていく経済戦略とロールプレイング要素を楽しめます。",
+        "releases.1.dev": "バイプラン・ゲームズ",
+        "releases.2.game": "プロフェッショナル・シップ・シミュレーター",
+        "releases.2.note": "9月17日にPC（SteamおよびEpic Games Store）にて早期アクセスを開始した船舶操縦シミュレーションゲーム。精密な物理エンジンにより、多様な商船と海上航行をリアルに再現しています。",
+        "releases.2.dev": "サンシャインスタジオ",
+        "releases.3.game": "プラグマタ",
+        "releases.3.note": "9月17日より新規無料DLC「ロックマンパック」の配信が開始され、ロックマンとロールをモチーフにしたキャラクターカスタムコスチュームや特別アイテムが今すぐ利用可能です。",
+        "releases.3.dev": "カプコン",
+        "releases.4.game": "サンクン・レルム",
+        "releases.4.note": "9月18日にPC（Steam）向けにリリース予定の海底探検サバイバルアドベンチャーゲーム。神秘的な深海文明の廃墟を探索し、資源を採取して拠点を築き上げる面白さを備えています。",
+        "releases.4.dev": "アビソ・ソフトウェア",
+        "releases.5.game": "ワンド＆オーダー：魔法商店をお掃除しよう！",
+        "releases.5.note": "9月18日にPC（Steam）で発売されるカジュアル整理シミュレーションゲーム。魔法の道具やポーションで散らかった魔法商店を、杖と呪文を使って掃除し整えていく心癒やされるプレイ体験を提供します。",
+        "releases.5.dev": "スペルバウンド・ラボ",
+        "events.0.name": "東京ゲームショウ2026 (Tokyo Game Show 2026)",
+        "events.0.note": "主要ゲームメーカーの新作試遊、ステージイベント、ブース展示などが行われるグローバル総合ゲーム展示会",
+        "events.0.venue": "日本・千葉 幕張メッセ",
+        "events.1.name": "PC Gaming Show Tokyo Direct 2026 (PCゲーミングショウ 東京ダイレクト 2026)",
+        "events.1.note": "東京ゲームショウ2026ウィークに合わせ、多彩な新作PCゲームのトレーラーや最新情報を発表するオンラインショーケース",
+        "events.1.venue": "オンライン（YouTube、Twitch）"
+      },
+      "briefing": {
+        "items.0.title": "レベルファイブ、公開映像における生成AIの直接使用を中止",
+        "items.0.source": "INVEN",
+        "items.0.time": "9月17日",
+        "items.1.title": "コーエー新作『Wo Long 2』、来年3月4日の発売が決定",
+        "items.1.source": "GameMeca",
+        "items.1.time": "9月16日",
+        "items.2.title": "『モンハンワイルズ：アセンダンス』、古龍「テオ」参戦映像を公開",
+        "items.2.source": "4Gamer",
+        "items.2.time": "9月16日",
+        "items.3.title": "『ドラゴンズドグマ 2 DA』最新映像およびキャラクターエディットアプリを公開",
+        "items.3.source": "4Gamer",
+        "items.3.time": "9月16日",
+        "items.4.title": "『バイオハザード』の三上真司氏、D.I.C.E.の殿堂入り",
+        "items.4.source": "IGN India",
+        "items.4.time": "9月16日",
+        "items.5.title": "『Hyper Light』開発元、パブリッシャーの投資撤回により経営危機",
+        "items.5.source": "IGN India",
+        "items.5.time": "9月16日",
+        "items.6.title": "セガとNetflix、『クレイジータクシー』などの映像化パートナーシップを締結",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "9月16日"
+      },
+      "drk": {
+        "title": "生成AIという近道の前に立ち止まるゲーム会社たち",
+        "intro": "制作効率の救世主として脚光を浴びていた生成AIが、なぜゲーマーの前では激しい逆風にさらされているのでしょうか？ 🤔\nレベルファイブの突然の「AI直接使用中止」宣言が業界に投げかけた冷徹な問いを振り返ります。",
+        "points": "日本の主要ゲームメーカーであるレベルファイブが、今後公開する映像などにおいて生成AIの直接的な使用を全面的に中止すると発表しました。 📢 新技術による開発およびマーケティングの効率化を積極的に模索していた大手スタジオが、ファンダムからの激しい反発を受け止め、公式に一歩後退した象徴的な事例です。\n\nこのような決断の背景には、生成AIコンテンツに対して極度の疲労感と拒否感を示す最近の消費者心理があります。 📉 ゲーマーたちはAIで生成されたイラストや映像に「コスト削減」や「クリエイターならではの人間的な職人精神の欠如」を敏感に感じ取り、それがブランドへの信頼低下や買い控えにつながっています。制作費削減を狙った技術導入が、かえって商業的価値を毀損するという逆説的な構造が生まれているのです。\n\nゲームは単なる機能的ソフトウェアではなく、クリエイターの哲学と情熱に共感する情緒的な消費財です。結局のところ、**生成AIは見えない内部開発パイプラインの効率化ツールにとどまるべきであり、消費者が直接目にするアウトプットの前面に出た瞬間、ゲームのプレミアム価値を急激に損なうことになります。** 💡\n\n技術の効率性とファンダムの感情的防衛線の間で、クリエイターはどこに一線を引くべきでしょうか？ 🎮 いま業界に突きつけられた真の課題は、AIをどれだけ活用するかではなく、人間の独創性をどのように証明してみせるかにあるのです。"
+      },
+      "trailer": {
+        "title": "TODO lo que mostraron de MH Wilds Ascendance  Resumen y Nuevas Noticias",
+        "comment": "世界中のゲーマーから熱い注目を集める期待作『モンスターハンターワイルズ』の最新情報が一堂に会しました。ダイナミックに変化する生態系と、一段と進化したハンティングアクションは、シリーズファンが心待ちにしている最大の見どころです。本映像で新たに公開された主要ニュースをぜひチェックし、迫り来る冒険に備えましょう！ ⚔️✨"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "게임사들이 '생성 AI' 지름길 앞에서 멈춰 선 이유 🤔 (feat. 몬헌 와일즈 신규 총정리 ⚔️)",
+    "en": "Why Game Studios Are Hitting the Brakes on Gen AI 🛑 (feat. MH Wilds Latest Reveal ⚔️)",
+    "ja": "なぜゲーム会社は「生成AI」の前で立ち止まったのか？🛑（モンハンワイルズ最新情報まとめ ⚔️）"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "헌터님들, 드디어 테오가 돌아옵니다! 🔥\n몬헌 와일즈 신규 영상에 불꽃의 제왕 테오 참전 소식이 떴네요. ⚔️\n\nhttps://www.gtplayer.net/edition-127/\n#몬헌와일즈 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-17T07:01:27.907797"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "9월 17일 오늘의 게임 소식 🎮\n\n📰 [뉴스] 몬헌 와일즈 고룡 '테오' 참전 영상 공개 & 코에이 신작 '와룡 2' 출시일 확정!\n📅 [출시] 프라그마타, 파이어 엠블렘 만자천홍 등 이번 주 기대작 6종 출시\n✍️ [인사이트] 제작 효율의 구원투수 생성 AI, 게임사들이 갑자기 발을 뺀 이유는?\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#gtplayer #게임뉴스 #신작게임 #게임소식 #게임추천 #몬스터헌터 #몬헌와일즈 #와룡2 #파이어엠블렘 #프라그마타 #드래곤즈도그마2 #스팀게임 #콘솔게임 #닌텐도스위치 #게임스타그램 #게이머 #게임덕후 #게임트렌드 #생성AI #인디게임",
+          "image_paths": [
+            "web\\instagram\\edition_127\\card_cover.png",
+            "web\\instagram\\edition_127\\card_news.png",
+            "web\\instagram\\edition_127\\card_calendar.png",
+            "web\\instagram\\edition_127\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3987743668211765066_39332818166",
+            "url": "https://www.instagram.com/p/DdXT7z_E09K/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-17T07:01:57.102285"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Why Game Studios Are Hitting the Brakes on Gen AI 🛑 (feat. MH Wilds Latest Reveal ⚔️)\n\nGame studios are hitting pause on generative AI shortcuts just as heavyweights like Monster Hunter Wilds drop fiery new reveals.\nDiscover why player pushback is reshaping production strategies alongside this week's biggest release announcements and industry milestones.\n\nhttps://www.gtplayer.net/edition-127-en/",
+        "error": null
+      },
+      "updated_at": "2026-09-17T07:02:37.867090"
+    }
+  }
+}

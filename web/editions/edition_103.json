@@ -1,0 +1,502 @@
+{
+  "num": "103",
+  "date": "2026-08-14",
+  "status": "published",
+  "schedule": {
+    "date": "2026-08-14",
+    "time": "12:14",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "월희 -A piece of blue glass moon-",
+          "dev": "타입문",
+          "date": "8월 13일(목)",
+          "platforms": [
+            "PS4",
+            "Switch 2"
+          ],
+          "color": "#10b981",
+          "note": "공식 한국어를 지원하는 비주얼 노벨 리메이크 패키지판이 8월 13일 정식 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1779092",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "던전앤파이터 모바일",
+          "dev": "네오플",
+          "date": "8월 13일(목)",
+          "platforms": [
+            "Mobile",
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "8월 13일 신규 시즌 '마계' 업데이트를 적용하며 최고 레벨 확장과 신규 지역 및 던전을 선보였습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1779081",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "마비노기",
+          "dev": "넥슨",
+          "date": "8월 13일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "8월 13일 여름 캠페인 2차 업데이트를 단행하며 강력한 신규 스킬 '아르카나 각성 스킬'을 추가했습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1779091",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "건즈: 더 듀얼 리마스터",
+          "dev": "마상소프트",
+          "date": "8월 14일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 14일 스팀 글로벌 서비스를 시작하는 액션 슈팅 게임으로, 원작 특유의 스타일리시한 K-스타일 액션을 현대적으로 재현했습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319543",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "죠죠의 기묘한 모험: 골든 스피릿",
+          "dev": "완다시네마스게임즈",
+          "date": "8월 14일(금)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "8월 14일 정식 출시된 신작 모바일 전략 RPG로, 원작 애니메이션의 명장면과 연출을 충실히 구현했습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1779142",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "헬 렛 루즈: 베트남",
+          "dev": "익스프레션 게임즈",
+          "date": "8월 14일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 14일 정식 출시된 대규모 택티컬 FPS 신작으로, 베트남 전쟁의 정글 전장을 무대로 한 하드코어 전투를 제공합니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/000/G100009/20260814008/",
+          "source_name": "4Gamer"
+        }
+      ],
+      "events": [
+        {
+          "name": "부산인디커넥트페스티벌 2026 (BIC 2026)",
+          "note": "국내외 인디게임 332개 전시 및 시연 행사",
+          "venue": "부산 벡스코",
+          "date": "2026-08-14 ~ 08-16",
+          "tag": "오프라인 행사",
+          "website": "https://www.gamemeca.com/view.php?gid=1779122"
+        },
+        {
+          "name": "TFT 와일드 팬페스트 인플루언서 매치",
+          "note": "신규 세트 출시 기념 인플루언서 8인 초청 경기",
+          "venue": "더현대 서울",
+          "date": "2026-08-15",
+          "tag": "e스포츠",
+          "website": "https://www.inven.co.kr/webzine/news/?news=319538"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "텐센트, 게임 수익 AI 인프라에 우선 배분 발표",
+          "source": "인벤",
+          "time": "8월 14일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319547"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "오픈AI, 31일 서울서 세계 최초 게임 해커톤 개최",
+          "source": "인벤",
+          "time": "8월 14일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319548"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "넷플릭스, '옥센프리' 제작사 나이트 스쿨 스튜디오 폐쇄",
+          "source": "IGN India",
+          "time": "8월 14일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/oxenfree/268800/night-school-staff-speak-out-after-netflix-shuts-down-developer-following-top-tier-launch-of-unhinge"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "Xbox, 컴펄전 게임즈와 분리 완료… 독립 퍼블리싱 전환",
+          "source": "IGN India",
+          "time": "8월 14일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/south-of-midnight/268815/xboxs-separation-from-compulsion-games-seems-complete-as-studio-is-listed-as-the-publisher-of-south"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "포켓몬 뱅크 및 무브 기능, 2027년 2월 서비스 종료",
+          "source": "4Gamer",
+          "time": "8월 14일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/999/G999905/20260814007/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'얼터드 카본' 원작자 참여 SF RPG '.curator' 발표",
+          "source": "4Gamer",
+          "time": "8월 13일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/032/G103287/20260813027/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "아마존, TL·로스트아크 글로벌 서비스 권한 원개발사에 이관",
+          "source": "GamesIndustry.biz",
+          "time": "8월 13일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/mmorpg-throne-and-liberty-transitions-from-amazon-game-studios-to-nc-formerly-ncsoft"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "마텔, 자체 IP 기반 게임 개발 스튜디오 사업부 신설",
+          "source": "GamesIndustry.biz",
+          "time": "8월 13일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/mattel-launches-new-global-studios-business-to-develop-games-based-on-its-ip"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "빅테크의 게임 잔혹사, '자본'보다 중요한 것은 '본질'입니다",
+      "intro": "수천억 원을 쏟아붓던 글로벌 IT 거인들이 왜 게임 사업의 빗장을 연이어 풀고 있을까요? \n화려했던 빅테크의 게임 시장 진출이 거대한 전환점을 맞이하고 있습니다.",
+      "points": "넷플릭스의 '옥센프리' 개발사 폐쇄와 아마존의 퍼블리싱 권한 반환 등 거대 IT 기업들의 게임 사업 재편이 가속화되고 있습니다. 텐센트 역시 게임 수익을 AI 인프라로 재배분하는 등, 플랫폼 공룡들의 시선이 콘텐츠 직접 제작에서 기술 인프라로 빠르게 이동하는 흐름이 뚜렷합니다. 📉\n\n이러한 플랫폼 구조의 변화는 게임 소비 구조와 서비스 안정성에 직접적인 영향을 미칩니다. 개발사가 직접 글로벌 라이브 서비스를 전담하게 되면서 유저 피드백 수용과 업데이트 속도는 한층 빨라질 수 있지만, 대형 플랫폼이 제공하던 마케팅 화력과 진입 장벽 완화 효과는 줄어들게 됩니다. 🔄\n\n빅테크의 자본력과 알고리즘만으로는 게이머의 마음을 온전히 살 수 없다는 사실이 증명되었습니다. **게임 산업의 지속 가능성은 거대한 플랫폼 종속이 아니라, 오직 독창적인 IP와 유저 경험의 밀도에서 나온다는 본질**을 직시해야 합니다. 💡\n\n거품이 걷힌 자리에서 진정한 창작의 가치가 다시 고개를 들고 있습니다. 거대 자본의 우산에서 벗어난 개발사들이 글로벌 시장에서 독자적인 생존력을 증명할 수 있을지 주목됩니다. 여러분은 플랫폼의 편리함과 개발사의 순수한 독립성 중 어느 쪽에 더 신뢰를 보내십니까? 🎮"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "Caravan SandWitch",
+      "url": "https://store.epicgames.com/ko/p/caravan-sandwitch-05ff58",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-1uz0l.jpg",
+      "comment": "**🎁 이번 주 에픽게임즈 무료 배포**\n- **Caravan SandWitch** (~2026-08-21 00:00까지)\n  광활하고 매혹적인 풍경을 탐험하는 서사 중심의 어드벤처 게임입니다. 전투 스트레스 없이 나만의 속도로 세계를 여행하며 잔잔한 힐링을 즐기기 좋습니다.\n\n**👀 Next Week**\n다음 주에는 카드 배틀 RPG **Cardpocalypse Standard Edition**과 알비온 온라인 유저를 위한 **에픽 메이지 번들**이 무료 배포될 예정입니다.\n\n**🔥 스팀 주말 혜택**\n웅장한 판타지 대규모 전략을 즐길 수 있는 **토탈워: 워해머 3**가 8월 28일 02:00까지 85% 할인 중이니 놓치지 마세요!",
+      "steam_deal": {
+        "type": "deal",
+        "name": "토탈워: 워해머 3",
+        "app_id": 1142710,
+        "url": "https://store.steampowered.com/app/1142710",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg?t=1786634522",
+        "discount_percent": 85,
+        "original_price": 6000000,
+        "final_price": 900000,
+        "end_date": "2026-08-28 02:00"
+      },
+      "epic_current": [
+        {
+          "title": "Caravan SandWitch",
+          "description": "매혹적인 서사 중심의 탐험 어드벤처, Caravan SandWitch에서 광대한 풍경을 가로지르는 여정을 떠납니다.",
+          "url": "https://store.epicgames.com/ko/p/caravan-sandwitch-05ff58",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-1uz0l.jpg",
+          "end_date": "2026-08-21 00:00"
+        }
+      ],
+      "epic_upcoming": [
+        {
+          "title": "Cardpocalypse Standard Edition",
+          "description": "10살 소녀 Jess 때문에 Dudsdale Elementary 전교생이 즐겨하던 트레이딩 카드 게임이 교내에서 금지되었습니다. 그것도 Jess가 처음으로 이 학교에 등교한 날에 말이죠! 바로 그 때, 게임 카드 속에 있던 뮤턴트들이 현실 세계로 넘어와 버렸습니다. 이제 Jess와 친구들이 괴물들을 막아야 합니다. Mega Mutant Power Pets 마스터가 되어 학교를 구해야 합니다... 어쩌면 세계를 구해야 할지도 모르죠.",
+          "url": "https://store.epicgames.com/ko/p/cardpocalypse/home",
+          "thumbnail": "https://cdn1.epicgames.com/offer/2bfd5ca43ef443739ada168e017e1b78/s1_2560x1440-8d68e37943d666ad0f05093481c4d7df",
+          "start_date": "2026-08-21 00:00"
+        },
+        {
+          "title": "에픽 메이지 번들",
+          "description": "$55 이상의 가치가 있는 마법 같은 무료 선물을 받아가세요! 마법이 깃든 명품 아이템, 두 가지 특별한 탈것 스킨, 그리고 성장에 필요한 풍성한 보상으로 알비온에서의 여정을 더욱 특별하게 만들어 보세요",
+          "url": "https://store.epicgames.com/ko/p/albion-online-7eb24d",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-v5q98.png",
+          "start_date": "2026-08-21 00:00"
+        }
+      ],
+      "epic_discounted": []
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Tsukihime -A piece of blue glass moon-",
+        "releases.0.note": "The visual novel remake packaged edition supporting official Korean was officially released on August 13.",
+        "releases.0.dev": "TYPE-MOON",
+        "releases.1.game": "Dungeon & Fighter Mobile",
+        "releases.1.note": "Applied the new season 'Pandemonium' update on August 13, introducing an expanded level cap, new regions, and dungeons.",
+        "releases.1.dev": "Neople",
+        "releases.2.game": "Mabinogi",
+        "releases.2.note": "Carried out the 2nd summer campaign update on August 13, adding powerful new 'Arcana Awakening Skills'.",
+        "releases.2.dev": "Nexon",
+        "releases.3.game": "GunZ: The Duel Remastered",
+        "releases.3.note": "An action shooter game launching global service on Steam on August 14, modernly recreating the original's signature stylish K-style action.",
+        "releases.3.dev": "Masangsoft",
+        "releases.4.game": "JoJo's Bizarre Adventure: Golden Spirit",
+        "releases.4.note": "A new mobile strategy RPG officially released on August 14, faithfully recreating famous scenes and directing from the original anime.",
+        "releases.4.dev": "Wanda Cinemas Games",
+        "releases.5.game": "Hell Let Loose: Vietnam",
+        "releases.5.note": "A new large-scale tactical FPS officially released on August 14, delivering hardcore combat set in the jungle battlefields of the Vietnam War.",
+        "releases.5.dev": "Expression Games",
+        "events.0.name": "Busan Indie Connect Festival 2026 (BIC 2026)",
+        "events.0.note": "Exhibition and demo event featuring 332 domestic and international indie games",
+        "events.0.venue": "BEXCO, Busan",
+        "events.1.name": "TFT Wild Fan Fest Influencer Match",
+        "events.1.note": "An invitational match of 8 influencers celebrating the launch of the new set",
+        "events.1.venue": "The Hyundai Seoul"
+      },
+      "briefing": {
+        "items.0.title": "Tencent Announces Priority Allocation of Game Profits to AI Infrastructure",
+        "items.0.source": "Inven",
+        "items.0.time": "August 14",
+        "items.1.title": "OpenAI to Host World's First Gaming Hackathon in Seoul on the 31st",
+        "items.1.source": "Inven",
+        "items.1.time": "August 14",
+        "items.2.title": "Netflix Shuts Down 'Oxenfree' Developer Night School Studio",
+        "items.2.source": "IGN India",
+        "items.2.time": "August 14",
+        "items.3.title": "Xbox Completes Separation from Compulsion Games… Transitions to Independent Publishing",
+        "items.3.source": "IGN India",
+        "items.3.time": "August 14",
+        "items.4.title": "Pokémon Bank and Poké Transporter Services to End in February 2027",
+        "items.4.source": "4Gamer",
+        "items.4.time": "August 14",
+        "items.5.title": "Sci-Fi RPG '.curator' Involving 'Altered Carbon' Creator Announced",
+        "items.5.source": "4Gamer",
+        "items.5.time": "August 13",
+        "items.6.title": "Amazon Transfers Global Publishing Rights for TL and Lost Ark to Original Developers",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "August 13",
+        "items.7.title": "Mattel Establishes New Game Development Studio Division Based on Proprietary IP",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "August 13"
+      },
+      "drk": {
+        "title": "Big Tech's Gaming Cruelty: What Matters More Than 'Capital' Is 'Essence'",
+        "intro": "Why are global IT giants, who once poured hundreds of billions of won into gaming, unlocking their exit doors one after another? \nBig Tech's glamorous entry into the gaming market is facing a massive turning point.",
+        "points": "The restructuring of game businesses by massive IT corporations is accelerating, marked by Netflix closing the 'Oxenfree' studio and Amazon handing back publishing rights. With Tencent also reallocating game revenue into AI infrastructure, there is a clear trend of platform giants rapidly shifting their focus from direct content production to technology infrastructure. 📉\n\nSuch shifts in platform structure directly impact game consumption models and service stability. While developers directly managing global live services can accelerate user feedback adoption and update speeds, the marketing firepower and reduced barriers to entry once provided by mega platforms will diminish. 🔄\n\nIt has been proven that Big Tech's capital and algorithms alone cannot completely win over gamers' hearts. **We must face the essence: the sustainability of the gaming industry stems not from massive platform dependence, but solely from original IP and the depth of user experience.** 💡\n\nAs the bubble clears, the true value of creation is rising once again. Attention is now focused on whether developers freed from the umbrella of massive capital can prove their own survival capabilities in the global market. Between platform convenience and a developer's pure independence, which one earns your trust? 🎮"
+      },
+      "epic": {
+        "title": "Caravan SandWitch",
+        "comment": "**🎁 This Week's Free Epic Games Release**\n- **Caravan SandWitch** (~until 2026-08-20 15:00 UTC)\n  A narrative-driven adventure game exploring vast and captivating landscapes. Enjoy a calm and healing journey at your own pace across the world without combat stress.\n\n**👀 Next Week**\nNext week, the card battler RPG **Cardpocalypse Standard Edition** and the **Epic Mage Bundle** for Albion Online players will be available for free.\n\n**🔥 Steam Weekend Deals**\nDon't miss out on **Total War: WARHAMMER III**, where you can experience grand fantasy mass strategy, on an 85% discount until August 27, 17:00 UTC!"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "月姫 -A piece of blue glass moon-",
+        "releases.0.note": "公式韓国語に対応したビジュアルノベルリメイクのパッケージ版が8月13日に正式リリースされました。",
+        "releases.0.dev": "TYPE-MOON",
+        "releases.1.game": "ダンジョン＆ファイターモバイル",
+        "releases.1.note": "8月13日に新シーズン「魔界」アップデートが適用され、レベルキャップの解放や新規地域・ダンジョンが登場しました。",
+        "releases.1.dev": "NEOPLE",
+        "releases.2.game": "マビノギ",
+        "releases.2.note": "8月13日に夏キャンペーンの第2弾アップデートが実施され、強力な新規スキル「アルカナ覚醒スキル」が追加されました。",
+        "releases.2.dev": "ネクソン",
+        "releases.3.game": "GunZ: The Duel Remastered",
+        "releases.3.note": "8月14日にSteamグローバルサービスを開始するアクションシューティングゲームで、原作特有のスタイリッシュなK-スタイルアクションを現代風に再現しています。",
+        "releases.3.dev": "Masangsoft",
+        "releases.4.game": "ジョジョの奇妙な冒険：ゴールデンスピリット",
+        "releases.4.note": "8月14日に正式リリースされた新作モバイル戦略RPGで、原作アニメの名シーンや演出を忠実に再現しています。",
+        "releases.4.dev": "Wanda Cinemas Games",
+        "releases.5.game": "Hell Let Loose: Vietnam",
+        "releases.5.note": "8月14日に正式リリースされた大規模タクティカルFPSの新作で、ベトナム戦争のジャングル戦場を舞台にしたハードコアな戦闘を提供します。",
+        "releases.5.dev": "Expression Games",
+        "events.0.name": "釜山インディーコネクトフェスティバル 2026 (BIC 2026)",
+        "events.0.note": "国内外のインディーゲーム332作品の展示および試遊イベント",
+        "events.0.venue": "釜山 BEXCO",
+        "events.1.name": "TFT ワイルドファンフェスト インフルエンサーマッチ",
+        "events.1.note": "新セット登場を記念したインフルエンサー8名による招待マッチ",
+        "events.1.venue": "ザ・現代ソウル"
+      },
+      "briefing": {
+        "items.0.title": "テンセント、ゲーム収益をAIインフラへ優先配分すると発表",
+        "items.0.source": "Inven",
+        "items.0.time": "8月14日",
+        "items.1.title": "OpenAI、31日にソウルで世界初のゲームハッカソンを開催",
+        "items.1.source": "Inven",
+        "items.1.time": "8月14日",
+        "items.2.title": "Netflix、『OXENFREE』開発元のNight School Studioを閉鎖",
+        "items.2.source": "IGN India",
+        "items.2.time": "8월 14일",
+        "items.3.title": "Xbox、Compulsion Gamesの切り離しを完了… 独立パブリッシングへ移行",
+        "items.3.source": "IGN India",
+        "items.3.time": "8月14日",
+        "items.4.title": "「ポケモンバンク」および「ポケムーバー」、2027年2月にサービス終了",
+        "items.4.source": "4Gamer",
+        "items.4.time": "8月14日",
+        "items.5.title": "『オルタード・カーボン』原作者が参加するSF RPG『.curator』発表",
+        "items.5.source": "4Gamer",
+        "items.5.time": "8月13日",
+        "items.6.title": "Amazon、『TL』『ロストアーク』のグローバルサービス権限を原開発元へ移管",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "8月13日",
+        "items.7.title": "マテル、自社IPベースのゲーム開発スタジオ事業部を新設",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "8月13日"
+      },
+      "drk": {
+        "title": "ビッグテックのゲーム残酷史、「資本」よりも重要なのは「本質」である",
+        "intro": "数千億ウォンを注ぎ込んできたグローバルIT巨人たちは、なぜゲーム事業の撤退・縮小を相次いで決断しているのでしょうか？\n華々しかったビッグテックのゲーム市場進出が、大きな転換点を迎えています。",
+        "points": "Netflixによる『OXENFREE』開発スタジオの閉鎖や、Amazonによるパブリッシング権限の返還など、巨大IT企業によるゲーム事業の再編が加速しています。テンセントもゲーム事業の収益をAIインフラへ再配分するなど、プラットフォームの巨人たちの視線がコンテンツ直接制作から技術インフラへと急速に移行している流れは明白です。📉\n\nこうしたプラットフォーム構造の変化は、ゲームの消費構造やサービスの安定性に直接的な影響を及ぼします。開発元がグローバルライブサービスを直接主導することで、ユーザーからのフィードバック反映やアップデートの速度は一段と向上する一方、大手プラットフォームが提供していた強力なマーケティングや参入障壁の緩和効果は減少することになります。🔄\n\nビッグテックの資本力とアルゴリズムだけでは、ゲーマーの心を完全に掴むことはできないという事実が証明されました。**ゲーム産業の持続可能性は、巨大プラットフォームへの従属ではなく、独創的なIPと密度の高いユーザー体験からのみ生まれるという本質**を直視しなければなりません。💡\n\nバブルが弾けた後、真の創作価値が再び頭角を現し始めています。巨大資本の傘から脱した開発元が、グローバル市場で独自の生存力を証明できるかどうかが注目されます。皆さんは、プラットフォームの利便性と開発元の純粋な独立性、どちらをより信頼しますか？🎮"
+      },
+      "epic": {
+        "title": "Caravan SandWitch",
+        "comment": "**🎁 今週のEpic Games無料配布**\n- **Caravan SandWitch**（〜2026-08-21 00:00まで）\n  広大で魅力的な風景を探索するストーリー重視のアドベンチャーゲームです。戦闘のストレスなく、自分のペースで世界を旅しながら心温まる癒しの時間を楽しめます。\n\n**👀 Next Week**\n来週は、カードバトルRPG **Cardpocalypse Standard Edition** と、『Albion Online』プレイヤー向けの **エピックメイジバンドル** が無料配布される予定です。\n\n**🔥 Steam週末セール**\n壮大なファンタジー大規模戦略が楽しめる **Total War: WARHAMMER III** が、8月28日02:00まで85%オフとなっていますので、ぜひお見逃しなく！"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "돈만 쏟아붓던 빅테크의 게임 잔혹사 📉 (feat. 에픽 신작 무료 배포 🎁)",
+    "en": "Why Big Tech Keeps Failing at Games 📉 (feat. This Week's Epic FREE Game 🎁)",
+    "ja": "大金をつぎ込んだビッグテックの残酷史📉 (今週のエピック無料配布も！🎁)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "8월 14일 오늘의 게임 소식 🎮\n\n📰 [뉴스] 텐센트 AI 투자 집중·오픈AI 서울 해커톤 개최 및 넷플릭스 스튜디오 폐쇄 등 빅테크 지각변동\n📅 [출시] '월희', '던전앤파이터 모바일', '마비노기', '건즈: 더 듀얼 리마스터' 등 기대작 출격\n✍️ [인사이트] 돈만 쏟아붓던 빅테크의 게임 잔혹사, '자본'보다 중요한 것은 '본질'입니다\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#GTPlayer #게임뉴스 #게임소식 #신작게임 #게임출시 #게임추천 #게임정보 #게임인사이트 #게임스타그램 #겜스타그램 #콘솔게임 #PC게임 #모바일게임 #월희 #던파모바일 #마비노기 #건즈 #오픈AI #넷플릭스게임 #포켓몬",
+          "image_paths": [
+            "web\\instagram\\edition_103\\card_cover.png",
+            "web\\instagram\\edition_103\\card_news.png",
+            "web\\instagram\\edition_103\\card_calendar.png",
+            "web\\instagram\\edition_103\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3963259417437340186_39332818166",
+            "url": "https://www.instagram.com/p/DcAU3EhEwIa/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-08-14T12:16:10.259802",
+      "freegames_results": {
+        "success": true,
+        "id": "3963259654667230094_39332818166",
+        "url": "https://www.instagram.com/p/DcAU6hdE9uO/",
+        "error": null
+      },
+      "freegames_updated_at": "2026-08-14T12:16:39.364537"
+    },
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "돈만 퍼붓던 빅테크들의 게임 잔혹사, 다들 보셨나요? 👀\n넷플릭스 개발사 폐쇄부터 건즈 리마스터 출시 소식까지 싹 모았어요! 🎮\n\nhttps://www.gtplayer.net/edition-103/\n#건즈 #월희 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-08-14T12:19:22.478851"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Why Big Tech Keeps Failing at Games 📉 (feat. This Week's Epic FREE Game 🎁)\n\nBillions in capital cannot buy gaming magic as tech giants retreat, while AI pioneers and iconic franchises shake up the global landscape.\nCatch the biggest industry shifts, major new game releases, and claim this week's featured free game before it is gone.\n\nhttps://www.gtplayer.net/edition-103-en/",
+        "error": null
+      },
+      "updated_at": "2026-08-14T12:26:08.836523"
+    },
+    "youtube_community": {
+      "results": {
+        "posted": true,
+        "text": "🔥 막대한 자본만 믿고 게임판에 뛰어들었던 빅테크 기업들의 씁쓸한 잔혹사! 이번 주도 놓치면 아쉬운 에픽 무료 배포 소식까지 알차게 모았습니다.\n\n주요 뉴스 요약:\n- 돈만 쏟아붓는다고 대작이 될까? 거대 빅테크 기업들의 게임 도전 흑역사 총정리 📉\n- 이번 주도 라이브러리 채울 시간! 에픽게임즈 신작 무료 배포 소식 🎁\n- 막강한 자본력에도 불구하고 게이머들의 마음을 사로잡지 못한 결정적 이유는? 🧐\n\n🎮 전체 캘린더와 상세 기사는 아래 뉴스레터에서 확인해 보세요!\n👉 https://www.gtplayer.net/edition-103/",
+        "error": null
+      },
+      "updated_at": "2026-08-14T12:47:26.301566"
+    }
+  }
+}

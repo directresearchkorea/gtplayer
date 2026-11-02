@@ -1,0 +1,437 @@
+{
+  "num": "080",
+  "date": "2026-07-13",
+  "status": "published",
+  "schedule": {
+    "date": "2026-07-13",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "팰월드",
+          "dev": "포켓페어",
+          "date": "7월 10일(금)",
+          "platforms": [
+            "PC",
+            "Xbox Series X/S",
+            "Xbox One"
+          ],
+          "color": "#10b981",
+          "note": "신규 지역과 72종의 신규 팰이 추가된 서바이벌 크래프팅 게임 '팰월드'의 정식 버전이 7월 10일 글로벌 시장에 정식 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318403",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "어쌔신 크리드 블랙 플래그 리싱크드",
+          "dev": "유비소프트",
+          "date": "7월 11일(토)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "해적 액션 어드벤처 명작의 리메이크 타이틀 '어쌔신 크리드 블랙 플래그 리싱크드'가 7월 11일 정식 출시되어 첫날 판매량 200만 장을 돌파했습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-sales-reach-2-million-on-day-1",
+          "source_name": "IGN"
+        },
+        {
+          "category": "event",
+          "game": "템페스트 라이징",
+          "dev": "슬립게이트 아이언웍스",
+          "date": "7월 11일(토)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "고전 스타일 RTS 신작 '템페스트 라이징'의 신규 세력인 'Veti's Wrath' 싱글플레이 캠페인을 미리 경험해 볼 수 있는 무료 데모 버전이 공개되었습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/strategy/tempest-risings-elusive-third-faction-will-get-its-own-singleplayer-campaign-as-a-paid-expansion-and-you-can-play-the-demo-right-now/",
+          "source_name": "PC Gamer"
+        },
+        {
+          "category": "event",
+          "game": "소울프레임",
+          "dev": "디지털 익스트림즈",
+          "date": "7월 13일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "신작 판타지 액션 RPG '소울프레임'이 7월 13일까지 가입한 이용자들을 대상으로 정식 출시 전까지 프리알파 테스트를 무제한으로 플레이할 수 있는 혜택을 제공합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318371",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "기동전사 건담 익스트림 버서스 2 인피니트 부스트",
+          "dev": "반다이 남코 에이전트",
+          "date": "7월 15일(수)",
+          "platforms": [
+            "Arcade"
+          ],
+          "color": "#f59e0b",
+          "note": "7월 15일 여름 업데이트를 통해 신규 플레이어블 기체인 '∫(인테그래럴) 익스트림 건담'이 참전하고 기존 기체들의 밸런스 조정이 진행됩니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202607/81102",
+          "source_name": "전격 온라인"
+        },
+        {
+          "category": "event",
+          "game": "아주르 렌",
+          "dev": "만쥬 게임즈",
+          "date": "7월 16일(목)",
+          "platforms": [
+            "iOS",
+            "Android"
+          ],
+          "color": "#3b82f6",
+          "note": "미소녀 함선 모바일 게임 '아주르 렌'이 인기 액션 RPG '니어 오토마타'와의 대규모 콜라보레이션 이벤트를 오는 7월 16일 점검 이후부터 개최합니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/390/G039084/20260711006/",
+          "source_name": "4Gamer"
+        }
+      ],
+      "events": [
+        {
+          "name": "무직전생 신작 게임 '크로에코' 특별 방송",
+          "note": "신작 게임 관련 상세 정보 및 호화 성우진(우치야마 유미, 카야노 아이 등)이 출연하는 생방송 특보",
+          "venue": "온라인 (YouTube 등)",
+          "date": "2026-07-25",
+          "tag": "쇼케이스",
+          "website": "https://dengekionline.com/article/202607/81119"
+        },
+        {
+          "name": "Fate/Grand Order Fes. 2026 칼데아 학원제 ~11th Anniversary~",
+          "note": "FGO 서비스 11주년을 기념하는 대규모 오프라인 축제 및 파트너사(코에이 테크모 등) 부스 출전",
+          "venue": "오프라인 (일본)",
+          "date": "2026-08-01 ~ 2026-08-02",
+          "tag": "오프라인 행사",
+          "website": "https://www.4gamer.net/games/677/G067760/20260712008/"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "한화생명e스포츠, 창단 첫 MSI 우승 달성",
+          "source": "인벤",
+          "time": "7월 12일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318399"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "LoL, 과거 재현한 '리그 클래식' 출시 발표",
+          "source": "인벤",
+          "time": "7월 12일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318394"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "토탈 워: 워해머 40k 플레이 영상 최초 공개",
+          "source": "IGN India",
+          "time": "7월 12일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/total-war-warhammer-40000/265983/total-war-warhammer-40000-gameplay-video-bilibili-world-2026"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "페르소나 4 리바이벌, 요스케 트레일러 공개",
+          "source": "IGN India",
+          "time": "7월 12일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/persona-4-revival/265976/persona-4-revival-official-yosuke-hanamura-sizzle-trailer"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "하얀고양이 신작, 스위치 2용으로 개발 발표",
+          "source": "電撃オンライン",
+          "time": "7월 11일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202607/81096"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "일본 코카콜라 자판기, 포켓스톱으로 등록",
+          "source": "Famitsu",
+          "time": "7월 11일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202607/81110"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "EA, 대학 풋볼 27 내 싱글 모드 과금 전면 제거",
+          "source": "PC Gamer",
+          "time": "7월 12일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/sports/college-football-27-to-remove-microtransactions-after-player-backlash-though-ea-maintains-they-were-only-added-to-give-players-more-choice/"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "Xbox, 새 수석 전략가로 매튜 볼 영입",
+          "source": "PC Gamer",
+          "time": "7월 12일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/gaming-industry/matthew-ball-was-hired-to-help-fix-xbox-will-gamers-like-what-he-prescribes/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "익숙함이라는 가장 강력한 무기, 게임 업계에 부는 '클래식' 회귀 바람",
+      "intro": "검증되지 않은 신작에 지친 게이머들이 다시 과거의 명작으로 눈을 돌리고 있습니다.\n단 하루 만에 200만 장을 판 해적들과 초창기 맵으로 돌아가는 게이머들은 우리에게 어떤 신호를 보내고 있을까요?",
+      "points": "최근 게임 시장은 '어쌔신 크리드 블랙 플래그 리싱크드'의 첫날 200만 장 판매 돌파, '리그 오브 레전드 클래식' 출시 발표, 그리고 '페르소나 4 리바이벌' 예고까지 과거 명작들의 귀환과 재해석으로 뜨겁습니다. 여기에 EA마저 신작의 싱글 모드 내 과금을 전면 제거하겠다고 선언하며 게임 본연의 재미와 패키지 형태에 집중하는 흐름에 동참하고 있습니다. 🎮\n\n이러한 현상은 과도한 라이브 서비스와 지속적인 결제 유도에 피로감을 느낀 **소비자 심리**가 안전하고 검증된 과거의 경험을 선택하는 방향으로 회귀했음을 보여줍니다. 게이머들은 리스크가 큰 신작 모험 대신 이미 재미가 보장된 IP에 기꺼이 지갑을 열고 있으며, 이는 게임 소비 구조를 단순한 '소비'에서 '안정적 가치의 소장'으로 변화시키고 있습니다. 🔄\n\n결국 현재 시장을 관통하는 핵심 통찰은 새로운 기술의 과시가 아닌 **'소비자와의 신뢰 회복과 본질적인 플레이 경험의 제공'**에 있습니다. 게이머들은 화려하지만 공허한 최신 시스템보다, 플레이어의 시간과 노력을 존중해 주던 과거 게임들의 탄탄한 게임 구조에 더 큰 가치를 부여하고 있습니다. 💡\n\n과거의 영광을 재포장하는 전략은 단기적으로 확실한 흥행을 보장하지만, 장기적으로는 업계의 창의성과 새로운 도전을 정체시킬 위험이 있습니다. 여러분이 기억하는 가장 완벽했던 게임의 황금기는 언제이며, 과연 지금의 게임 산업은 그 시절보다 진보했다고 당당히 말할 수 있습니까? 🧐"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Palworld",
+        "releases.0.note": "The official version of 'Palworld', a survival crafting game that introduces a new region and 72 new Pals, was officially released globally on July 10.",
+        "releases.0.dev": "Pocketpair",
+        "releases.1.game": "Assassin's Creed Black Flag Resynced",
+        "releases.1.note": "The remake of the pirate action-adventure masterpiece, 'Assassin's Creed Black Flag Resynced', was officially released on July 11, with first-day sales surpassing 2 million copies.",
+        "releases.1.dev": "Ubisoft",
+        "releases.2.game": "Tempest Rising",
+        "releases.2.note": "A free demo version has been released for the upcoming classic-style RTS 'Tempest Rising', allowing players to experience the single-player campaign of the new faction, 'Veti's Wrath'.",
+        "releases.2.dev": "Slipgate Ironworks",
+        "releases.3.game": "Soulframe",
+        "releases.3.note": "The new fantasy action RPG 'Soulframe' is offering users who register by July 13 the benefit of unlimited play in the pre-alpha test until the official release.",
+        "releases.3.dev": "Digital Extremes",
+        "releases.4.game": "Mobile Suit Gundam Extreme Vs. 2 Infinite Boost",
+        "releases.4.note": "Through the summer update on July 15, the new playable unit '∫ (Integral) Extreme Gundam' will join the battle, along with balance adjustments for existing units.",
+        "releases.4.dev": "Bandai Namco Amusement",
+        "releases.5.game": "Azur Lane",
+        "releases.5.note": "The bishojo ship girl mobile game 'Azur Lane' will hold a major collaboration event with the popular action RPG 'NieR:Automata' starting after the maintenance on July 16.",
+        "releases.5.dev": "Manjuu Games",
+        "events.0.name": "Special Broadcast of the New Mushoku Tensei Game 'ChroEco'",
+        "events.0.note": "A live broadcast special featuring detailed information about the new game and a star-studded voice cast (Yumi Uchiyama, Ai Kayano, etc.)",
+        "events.0.venue": "Online (YouTube, etc.)",
+        "events.1.name": "Fate/Grand Order Fes. 2026 Chaldea Academy Festival ~11th Anniversary~",
+        "events.1.note": "A large-scale offline festival celebrating the 11th anniversary of FGO's service, featuring partner company booths (Koei Tecmo, etc.)",
+        "events.1.venue": "Offline (Japan)"
+      },
+      "briefing": {
+        "items.0.title": "Hanwha Life Esports Achieves First-Ever MSI Championship",
+        "items.0.source": "Inven",
+        "items.0.time": "July 12",
+        "items.1.title": "LoL Announces Release of 'League Classic' Recreating the Past",
+        "items.1.source": "Inven",
+        "items.1.time": "July 12",
+        "items.2.title": "First Gameplay Video of 'Total War: Warhammer 40k' Revealed",
+        "items.2.source": "IGN India",
+        "items.2.time": "July 12",
+        "items.3.title": "Persona 4 Revival Releases Yosuke Trailer",
+        "items.3.source": "IGN India",
+        "items.3.time": "July 12",
+        "items.4.title": "New 'Shironeko Project' Game Announced for Nintendo Switch 2",
+        "items.4.source": "Dengeki Online",
+        "items.4.time": "July 11",
+        "items.5.title": "Coca-Cola Vending Machines in Japan Registered as PokéStops",
+        "items.5.source": "Famitsu",
+        "items.5.time": "July 11",
+        "items.6.title": "EA Completely Removes Microtransactions from Single-Player Mode in College Football 27",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "July 12",
+        "items.7.title": "Xbox Recruits Matthew Ball as New Chief Strategist",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "July 12"
+      },
+      "drk": {
+        "title": "The Strongest Weapon Called Familiarity: The 'Classic' Return Trend Sweeping the Game Industry",
+        "intro": "Gamers tired of unproven new releases are turning their eyes back to the masterpieces of the past.\nWhat signal are pirates who sold 2 million copies in just one day, and gamers returning to early maps, sending us?",
+        "points": "Recently, the gaming market has been buzzing with the return and reinterpretation of past masterpieces, from 'Assassin's Creed Black Flag Resynced' surpassing 2 million copies in first-day sales, the announcement of 'League of Legends Classic,' to the teaser for 'Persona 4 Revival.' Even EA has joined this trend of focusing on the intrinsic fun of games and the packaged format by announcing the complete removal of microtransactions from the single-player mode of its new title. 🎮\n\nThis phenomenon demonstrates that **consumer sentiment**, fatigued by excessive live services and continuous monetization pressure, has shifted back toward choosing safe and proven past experiences. Instead of taking risks on unproven new games, gamers are willingly opening their wallets for IPs with guaranteed fun, which is changing the game consumption structure from simple 'consumption' to 'ownership of stable value.' 🔄\n\nUltimately, the core insight penetrating the current market lies not in showing off new technology, but in **'restoring trust with consumers and providing essential gameplay experiences.'** Gamers place greater value on the solid game structures of past titles that respected the player's time and effort, rather than the flashy but empty systems of modern games. 💡\n\nWhile the strategy of repackaging past glory guarantees short-term success, it carries the risk of stagnating the industry's creativity and new challenges in the long run. When was the most perfect golden age of gaming that you remember, and can we confidently say that today's gaming industry has progressed compared to those days? 🧐"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "パルワールド",
+        "releases.0.note": "新たなエリアと72種の新規パルが追加されたサバイバルクラフトゲーム『パルワールド』の正式版が、7月10日にグローバル市場に向けて正式にリリースされました。",
+        "releases.0.dev": "ポケットペア",
+        "releases.1.game": "アサシン クリード ブラック フラッグ リシンクド",
+        "releases.1.note": "海賊アクションアドベンチャーの名作のリメイクタイトル『アサシン クリード ブラック フラッグ リシンクド』が7月11日に正式リリースされ、初日の販売本数が200万本を突破しました。",
+        "releases.1.dev": "ユービーアイソフト",
+        "releases.2.game": "テンペスト・ライジング",
+        "releases.2.note": "クラシックスタイルの新作RTS『テンペスト・ライジング』の新規勢力「Veti's Wrath」のシングルプレイキャンペーンを先行体験できる無料体験版が公開されました。",
+        "releases.2.dev": "スリップゲート・アイアンワークス",
+        "releases.3.game": "ソウルフレーム",
+        "releases.3.note": "新作ファンタジーアクションRPG『ソウルフレーム』が、7月13日までに登録したユーザーを対象に、正式リリース前までプレアルファテストを無制限にプレイできる特典を提供します。",
+        "releases.3.dev": "デジタル・エクストリームス",
+        "releases.4.game": "機動戦士ガンダム エクストリームバーサス2 インフィニットブースト",
+        "releases.4.note": "7月15日の夏アップデートを通じて、新規プレイアブル機体「∫（インテグラル）エクストリームガンダム」が参戦し、既存機体のバランス調整が行われます。",
+        "releases.4.dev": "バンダイナムコエージェント",
+        "releases.5.game": "アズールレーン",
+        "releases.5.note": "美少女艦船モバイルゲーム『アズールレーン』が、人気アクションRPG『ニーア オートマタ』との大規模コラボレーションイベントを、来たる7月16日のメンテナンス後より開催します。",
+        "releases.5.dev": "マンジュウゲームズ",
+        "events.0.name": "「無職転生」新作ゲーム『クロエコ』特別番組",
+        "events.0.note": "新作ゲームに関する詳細情報および豪華声優陣（内山夕実、茅野愛衣など）が出演する生放送特番",
+        "events.0.venue": "オンライン（YouTubeなど）",
+        "events.1.name": "Fate/Grand Order Fes. 2026 カルデア学園祭 ～11th Anniversary～",
+        "events.1.note": "FGOサービス11周年を記念する大規模オフラインイベントおよびパートナー企業（コーエーテクモなど）のブース出展",
+        "events.1.venue": "オフライン（日本）"
+      },
+      "briefing": {
+        "items.0.title": "ハンファ生命eスポーツ、創設初のMSI優勝達成",
+        "items.0.source": "インベン",
+        "items.0.time": "7月12日",
+        "items.1.title": "LoL、過去を再現した「リーグ・クラシック」のリリースを発表",
+        "items.1.source": "인벤",
+        "items.1.time": "7月12日",
+        "items.2.title": "『トータルウォー：ウォーハンマー40K』プレイ映像が初公開",
+        "items.2.source": "IGN India",
+        "items.2.time": "7月12日",
+        "items.3.title": "『ペルソナ4 リバイバル』ヨースケのトレーラー公開",
+        "items.3.source": "IGN India",
+        "items.3.time": "7月12日",
+        "items.4.title": "『白猫』新作、Switch 2向けに開発発表",
+        "items.4.source": "電撃オンライン",
+        "items.4.time": "7月11日",
+        "items.5.title": "日本のコカ・コーラ自販機、ポケストップに登録",
+        "items.5.source": "Famitsu",
+        "items.5.time": "7月11日",
+        "items.6.title": "EA、『カレッジフットボール 27』ゲーム内シングルモードの課金を全面排除",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "7月12日",
+        "items.7.title": "Xbox、新たなチーフ・ストラテジストとしてマシュー・ボール氏を迎え入れ",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "7月12日"
+      },
+      "drk": {
+        "title": "「親しみやすさ」という最強の武器、ゲーム業界に吹き荒れる「クラシック」回帰の風",
+        "intro": "検証されていない新作に疲れたゲーマーたちが、再び過去の名作に目を向けています。\nわずか一日で200万本を売り上げた海賊たちと、初期のマップに回帰するゲーマーたちは、私たちにどのようなシグナルを送っているのでしょうか？",
+        "points": "最近のゲーム市場は、『アサシン クリード ブラック フラッグ リシンクド』の初日売上200万本突破、『リーグ・オブ・レジェンド クラシック』のリリース発表、そして『ペルソナ4 リバイバル』の予告まで、過去の名作の帰還と再解釈で盛り上がっています。ここにEAまでもが新作のシングルプレイモードにおける課金要素を全面排除すると宣言し、ゲーム本来の面白さとパッケージ形式に集中する流れに合流しています。🎮\n\nこのような現象は、過剰なライブサービスや継続的な課金誘導に疲弊した**消費者心理**が、安全で検証された過去の体験を選択する方向へと回帰したことを示しています。ゲーマーたちは、リスクの大きい新作への挑戦の代わりに、すでに面白さが保証されているIPに進んで財布を開いており、これはゲームの消費構造を単なる「消費」から「安定した価値の所有（コレクション）」へと変化させています。🔄\n\n結局のところ、現在の市場を貫く核心的なインサイトは、新しい技術の誇示ではなく、**「消費者との信頼回復と本質的なプレイ体験の提供」**にあります。ゲーマーたちは、華やかだが中身のない最新のシステムよりも、プレイヤーの時間と努力を尊重してくれた過去のゲームの堅実なゲーム構造に、より大きな価値を見出しているのです。💡\n\n過去の栄光を再パッケージ化する戦略は、短期的には確実なヒットを保証しますが、長期的には業界の創造性や新しい挑戦を停滞させるリスクがあります。皆さんが記憶している、最も完璧だったゲームの黄金期はいつですか？そして、果たして現在のゲーム産業は、あの頃よりも進歩したと胸を張って言えるでしょうか？🧐"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "결국 우린 '그 시절'로 돌아간다 🎮 게임 업계에 부는 클래식 회귀의 비밀",
+    "en": "We always go back to the classics 🎮 Inside gaming's ultimate nostalgia trip",
+    "ja": "結局、僕らは『あの頃』に戻ってしまう 🎮 ゲーム界を席巻する「クラシック」回帰の秘密"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "결국 우린 '그 시절' 감성으로 돌아갑니다! 🎮\n무려 롤이 전성기 시절을 재현한 '리그 클래식'을 공식 발표했네요! ✨\n\nhttps://www.gtplayer.net/edition-080/\n\n#리그오브레전드 #게임소식 #GTPlayer",
+          "posted": false,
+          "data": null,
+          "error": "X API 오류 (402): {\"account_id\":2041741108661612544,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2041741108661612544] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/problems/credits\"}"
+        }
+      },
+      "updated_at": "2026-07-13T07:05:09.121408"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "7월 13일 오늘의 게임 소식 🎮 결국 우린 '그 시절'로 돌아간다!\n📰 한화생명 MSI 우승 및 LoL 클래식 발표 등 이번 주 가장 뜨거운 뉴스 총정리!\n🗓️ <팰월드>, <어쌔신 크리드 블랙 플래그 리싱크드> 등 눈여겨볼 신작 출시 캘린더!\n🧠 검증되지 않은 신작에 지친 게이머들이 다시 '클래식'으로 회귀하는 이유에 대한 Dr. K의 인사이트!\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요! \n🔗 전체 뉴스레터 링크는 프로필에서\n\n#gtplayer #게임플레이어 #게임뉴스 #게임소식 #신작게임 #게임추천 #리그오브레전드 #한화생명e스포츠 #롤클래식 #페르소나4 #토탈워 #팰월드 #어쌔신크리드 #스팀게임 #콘솔게임 #모바일게임 #게임덕후 #게임스타그램 #게이머 #클래식게임",
+          "image_paths": [
+            "web\\instagram\\edition_080\\card_news.png",
+            "web\\instagram\\edition_080\\card_calendar.png",
+            "web\\instagram\\edition_080\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3939910321058337689_39332818166",
+            "url": "https://www.instagram.com/p/DatX4_9k9OZ/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-07-13T07:05:41.134975"
+    }
+  }
+}

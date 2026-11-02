@@ -1,0 +1,420 @@
+{
+  "num": "105",
+  "date": "2026-08-18",
+  "status": "published",
+  "schedule": {
+    "date": "2026-08-18",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "싱킹 시티 2",
+          "dev": "프로그웨어즈",
+          "date": "8월 18일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 18일 출시되는 러브크래프트풍 서바이벌 호러 액션 어드벤처 신작으로, 더욱 강화된 전투 액션과 미스터리한 탐험을 제공합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2825860/The_Sinking_City_2/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "라스트 파이럿: 다이 투게더",
+          "dev": "인디 개발사",
+          "date": "8월 18일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 18일 스팀으로 출시되는 협동 해적 생존 액션 게임으로, 동료들과 함께 위험천만한 미지의 바다를 탐험하며 생존을 도모합니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/last-pirates-die-together/269044/last-pirates-die-together-official-launch-trailer",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "release",
+          "game": "베이퍼 월드: 오버 더 마인드",
+          "dev": "얼라이브",
+          "date": "8월 18일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 18일 출시되는 소울라이크 스타일의 내러티브 2D 액션 어드벤처 게임으로, 기괴한 내면 세계 속에서 펼쳐지는 정밀한 패링 액션을 선보입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/1996090/Vapor_World_Over_The_Mind/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "슈타인즈 게이트 리부트",
+          "dev": "메이지스",
+          "date": "8월 19일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 19일 출시되는 명작 SF 비주얼 노벨의 리부트 작품으로, 새로워진 그래픽 비주얼과 추가 연출로 시간여행 서사를 다시 전달합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4012810/STEINSGATE_REBOOT/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "하스 앤 햄릿",
+          "dev": "인디 개발사",
+          "date": "8월 19일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 19일 출시되는 중세 시뮬레이션 게임으로, 정착지를 건설하고 주민들을 돌보며 마을을 번영시키는 경영 요소를 제공합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4315040/Hearth_and_Hamlet/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "모탈 셸 2",
+          "dev": "콜드 시메트리",
+          "date": "8월 20일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 20일 출시되는 다크 판타지 액션 RPG 후속작으로, 광활한 오픈월드 환경과 새로운 셸 빙의 시스템을 활용한 묵직한 하드코어 전투를 선보입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2584270/Mortal_Shell_II/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "원피스 바운티 러시 7.5주년 기념 공식 생방송",
+          "note": "신규 캐릭터 공개 및 7.5주년 최신 정보 발표",
+          "venue": "온라인 생방송",
+          "date": "2026-08-19",
+          "tag": "쇼케이스",
+          "website": "https://dengekionline.com/article/202608/84627"
+        },
+        {
+          "name": "츠루기히메(つるぎ姫) 클로즈드 배틀 베타 테스터 모집",
+          "note": "신작 액션 RPG 첫 전투 CBT 테스터 모집",
+          "venue": "온라인 (PC)",
+          "date": "2026-08-17 ~ 2026-08-23",
+          "tag": "베타 테스트",
+          "website": "https://www.4gamer.net/games/672/G067214/20260817023/"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'가비지 컨트리', BIC 2026 어워드 그랑프리 수상",
+          "source": "인벤",
+          "time": "8월 17일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319607"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "제18회 대통령배 KeG, 부산광역시 15년 만에 종합 우승",
+          "source": "인벤",
+          "time": "8월 17일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319613"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "세가 '소닉 프론티어', 글로벌 판매량 500만 장 돌파",
+          "source": "4Gamer",
+          "time": "8월 17일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/608/G060894/20260817040/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'TCG 카드 샵 시뮬레이터', 9월 16일 정식 출시 결정",
+          "source": "4Gamer",
+          "time": "8월 17일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/845/G084533/20260817044/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'킹덤 하츠', D23 트레일러 효과로 美 스팀 판매 2위 등극",
+          "source": "IGN India",
+          "time": "8월 17일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/kingdom-hearts-iv/269057/kingdom-hearts-becomes-second-top-selling-steam-game-in-the-us-after-extended-d23-trailer-sparks-fan"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'리마더드: 레드 넌스 레거시', 공식 출시일 트레일러 공개",
+          "source": "IGN India",
+          "time": "8월 17일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/remothered-red-nuns-legacy/269048/remothered-red-nuns-legacy-official-release-date-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "美 배달 플랫폼 도어대시, 디지털 비디오 게임 판매 개시",
+          "source": "IGN",
+          "time": "8월 17일",
+          "country": "GLOBAL",
+          "article_url": "https://www.ign.com/articles/you-can-now-buy-digital-video-games-on-doordash"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "음식 배달 앱에서 게임을 사는 시대, 유통 플랫폼의 경계가 무너지다",
+      "intro": "피자를 주문하듯 최신 비디오 게임의 디지털 코드를 결제하는 일상이 시작되었습니다.\n게임 유통의 판을 바꾸려는 이종 플랫폼의 진출은 과연 어떤 변화를 가져올까요?",
+      "points": "미국의 대표적인 배달 플랫폼 도어대시(DoorDash)가 디지털 비디오 게임 판매를 공식 개시했습니다. 🍕 기존의 패키지 실물 배송을 넘어 플랫폼 내에서 즉시 활성화 가능한 디지털 코드를 유통하기 시작한 것입니다.\n\n이러한 변화는 전통적인 스팀, 콘솔 스토어 중심의 플랫폼 구조에 신선한 균열을 냅니다. 일상적인 온디맨드 커머스 플랫폼과 결합한 게임 소비 구조는 접근 장벽을 낮추고, 일반 대중의 충동구매 심리를 자극하여 비게이머 층까지 고객 풀을 넓히는 기폭제가 됩니다. 🛒\n\n결국 **게임 소비 구조가 목적 지향적 탐색 시장에서 일상 라이프스타일 소비 영역으로 완전히 편입되고 있다는 점**이 핵심입니다. 콘텐츠 유통의 접점이 일상 앱으로 침투할수록 게임에 대한 소비자 심리적 거리감은 극적으로 좁혀집니다. 💡\n\n모든 디지털 재화가 하나의 플랫폼에서 거래되는 시대, 전통적인 게임 플랫폼들은 과연 어떤 독점적 가치로 게이머를 붙잡아둘 수 있을까요? 🎮"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "리그 오브 레전드 (League of Legends)",
+      "title": "전술적 피드백과 신규 패치가 불러온 소환사의 협곡 대격변",
+      "imgUrl": "",
+      "comment": "팀들의 철저한 피드백과 차기 패치 준비가 소환사의 협곡 메타에 가져올 새로운 격돌의 순간을 AI에게 상상해 보라고 지시한 보너스 컷입니다.",
+      "ai_prompt": "Actual in-game screenshot, exact original game engine rendering, completely identical to original art style, NO cinematic styling, NO illustration. Top-down isometric MOBA camera perspective of Summoner's Rift in League of Legends. Intense 5v5 teamfight unfolding in the Dragon pit featuring updated champion abilities, colorful magical particle effects, glowing ground markers, precise stylized hand-painted textures, floating overhead health bars and champion names, vibrant blue and red side map aesthetics, authentic in-game HUD interface overlay around the screen edges."
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "The Sinking City 2",
+        "releases.0.note": "Releasing on August 18, this new Lovecraftian survival horror action-adventure features enhanced combat action and mysterious exploration.",
+        "releases.0.dev": "Frogwares",
+        "releases.1.game": "Last Pirate: Die Together",
+        "releases.1.note": "Releasing on Steam on August 18, this co-op pirate survival action game tasks you and your crewmates with exploring uncharted, perilous seas to survive.",
+        "releases.1.dev": "Indie Developer",
+        "releases.2.game": "Vapor World: Over The Mind",
+        "releases.2.note": "Releasing on August 18, this Soulslike narrative 2D action-adventure game delivers precise parrying action set within a bizarre inner world.",
+        "releases.2.dev": "ALIVE",
+        "releases.3.game": "STEINS;GATE RE:BOOT",
+        "releases.3.note": "Releasing on August 19, this reboot of the masterpiece sci-fi visual novel retells its time-travel narrative with refreshed visual graphics and enhanced presentation.",
+        "releases.3.dev": "MAGES.",
+        "releases.4.game": "Hearth & Hamlet",
+        "releases.4.note": "Releasing on August 19, this medieval simulation game features management elements where players build settlements, care for villagers, and expand their towns.",
+        "releases.4.dev": "Indie Developer",
+        "releases.5.game": "Mortal Shell 2",
+        "releases.5.note": "Releasing on August 20, this dark fantasy action RPG sequel showcases heavy, hardcore combat across a vast open-world environment utilizing a new shell possession mechanic.",
+        "releases.5.dev": "Cold Symmetry",
+        "events.0.name": "ONE PIECE Bounty Rush 7.5th Anniversary Official Livestream",
+        "events.0.note": "Reveal of new characters and announcement of the latest 7.5th anniversary updates",
+        "events.0.venue": "Online Livestream",
+        "events.1.name": "TSURUGIHIME Closed Battle Beta Tester Recruitment",
+        "events.1.note": "Recruiting testers for the upcoming action RPG's first combat CBT",
+        "events.1.venue": "Online (PC)"
+      },
+      "briefing": {
+        "items.0.title": "'Garbage Country' Wins Grand Prix at BIC 2026 Awards",
+        "items.0.source": "Inven",
+        "items.0.time": "August 17",
+        "items.1.title": "18th President's Cup KeG: Busan Metropolitan City Wins Overall Championship for First Time in 15 Years",
+        "items.1.source": "Inven",
+        "items.1.time": "August 17",
+        "items.2.title": "Sega's 'Sonic Frontiers' Surpasses 5 Million Units in Global Sales",
+        "items.2.source": "4Gamer",
+        "items.2.time": "August 17",
+        "items.3.title": "'TCG Card Shop Simulator' Official Release Set for September 16",
+        "items.3.source": "4Gamer",
+        "items.3.time": "August 17",
+        "items.4.title": "'Kingdom Hearts' Rises to #2 in US Steam Sales Following D23 Trailer",
+        "items.4.source": "IGN India",
+        "items.4.time": "August 17",
+        "items.5.title": "'Remothered: Red Nuns' Legacy' Official Release Date Trailer Revealed",
+        "items.5.source": "IGN India",
+        "items.5.time": "August 17",
+        "items.6.title": "US Delivery Platform DoorDash Begins Selling Digital Video Games",
+        "items.6.source": "IGN",
+        "items.6.time": "August 17"
+      },
+      "drk": {
+        "title": "Buying Games on Food Delivery Apps: The Blurring Boundaries of Distribution Platforms",
+        "intro": "Purchasing digital codes for the latest video games just like ordering a pizza has become reality.\nWhat kind of transformation will cross-industry platforms bring as they seek to disrupt game distribution?",
+        "points": "Leading US food delivery platform DoorDash has officially started selling digital video games. 🍕 Moving beyond physical delivery of boxed games, it now distributes instantly activatable digital codes directly within its app.\n\nThis shift creates a novel disruption to the traditional distribution structure centered around Steam and console storefronts. Integrating game commerce into everyday on-demand commerce platforms lowers barriers to entry and drives impulsive purchases among the general public, serving as a catalyst to expand the customer pool toward non-gamers. 🛒\n\nUltimately, the key takeaway is that **game consumption is transitioning from a purpose-driven search market into an everyday lifestyle consumption domain**. As touchpoints for content distribution penetrate everyday lifestyle apps, the psychological distance consumers feel toward gaming narrows dramatically. 💡\n\nIn an era where all digital goods can be purchased on a single platform, what proprietary value will traditional gaming storefronts offer to retain their players? 🎮"
+      },
+      "gamescene": {
+        "game": "League of Legends",
+        "title": "Summoner's Rift Upheaval Brought by Tactical Feedback and New Patch",
+        "comment": "A bonus cut prompting AI to envision a new moment of clash on Summoner's Rift, shaped by teams' rigorous feedback and upcoming patch preparations."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ザ・シンキング シティ 2",
+        "releases.0.note": "8月18日に発売されるラヴクラフト調サバイバルホラーアクションアドベンチャーの新作。さらに強化されたバトルアクションと謎に満ちた探索をお届けします。",
+        "releases.0.dev": "Frogwares",
+        "releases.1.game": "Last Pirate: Die Together",
+        "releases.1.note": "8月18日にSteamで配信される協力型海賊サバイバルアクションゲーム。仲間とともに危険に満ちた未知の海を探索し、生き残りを目指します。",
+        "releases.1.dev": "インディー開発元",
+        "releases.2.game": "Vapor World: Over The Mind",
+        "releases.2.note": "8月18日に発売されるソウルライクスタイルのナラティブ2Dアクションアドベンチャーゲーム。奇怪な内面世界で繰り広げられる精密なパリィアクションが特徴です。",
+        "releases.2.dev": "ALIVE",
+        "releases.3.game": "STEINS;GATE RE:BOOT",
+        "releases.3.note": "8月19日に発売される名作SFビジュアルノベルのリブート作品。刷新されたグラフィックと新規演出により、タイムトラベルの物語が再び描かれます。",
+        "releases.3.dev": "MAGES.",
+        "releases.4.game": "Hearth & Hamlet",
+        "releases.4.note": "8月19日に発売される中世シミュレーションゲーム。入植地を建設し、住民を世話し、村を繁栄させていく経営要素を楽しめます。",
+        "releases.4.dev": "インディー開発元",
+        "releases.5.game": "Mortal Shell 2",
+        "releases.5.note": "8月20日に発売されるダークファンタジー・アクションRPGの続編。広大なオープンワールド環境と新たな憑依システムを駆使した、重厚でハードコアなバトルが展開されます。",
+        "releases.5.dev": "Cold Symmetry",
+        "events.0.name": "『ONE PIECE バウンティラッシュ』7.5周年記念公式生放送",
+        "events.0.note": "新キャラクターの公開および7.5周年最新情報の発表",
+        "events.0.venue": "オンライン生放送",
+        "events.1.name": "『つるぎ姫』クローズドバトルベータテスター募集",
+        "events.1.note": "新作アクションRPGの初戦闘CBTテスター募集",
+        "events.1.venue": "オンライン (PC)"
+      },
+      "briefing": {
+        "items.0.title": "『Garbage Country』、BIC 2026アワードでグランプリ受賞",
+        "items.0.source": "Inven",
+        "items.0.time": "8月17日",
+        "items.1.title": "第18回大統領杯KeG、釜山広域市が15年ぶりに総合優勝",
+        "items.1.source": "Inven",
+        "items.1.time": "8月17日",
+        "items.2.title": "セガ『ソニックフロンティア』、世界累計販売本数500万本を突破",
+        "items.2.source": "4Gamer",
+        "items.2.time": "8月17日",
+        "items.3.title": "『TCG Card Shop Simulator』、9月16日に正式リリース決定",
+        "items.3.source": "4Gamer",
+        "items.3.time": "8月17日",
+        "items.4.title": "『キングダム ハーツ』、D23トレーラー効果で米Steam売上2位にランクイン",
+        "items.4.source": "IGN India",
+        "items.4.time": "8月17日",
+        "items.5.title": "『Remothered: Red Nun's Legacy』、公式発売日発表トレーラーを公開",
+        "items.5.source": "IGN India",
+        "items.5.time": "8月17日",
+        "items.6.title": "米デリバリー大手DoorDash、デジタルゲームの販売を開始",
+        "items.6.source": "IGN",
+        "items.6.time": "8月17日"
+      },
+      "drk": {
+        "title": "フードデリバリーアプリでゲームを買う時代、流通プラットフォームの境界が崩れる",
+        "intro": "ピザを注文するかのように最新ビデオゲームのデジタルコードを購入する日常が始まりました。\nゲーム流通の構図を変えようとする異業種プラットフォームの進出は、果たしてどのような変化をもたらすのでしょうか？",
+        "points": "アメリカを代表するデリバリープラットフォーム「DoorDash」が、デジタルビデオゲームの販売を公式に開始しました。🍕 従来のパッケージ版の実物配送にとどまらず、アプリ内で即座に有効化できるデジタルコードの流通を始めたのです。\n\nこの変化は、従来のSteamやコンソールストアを中心としたプラットフォーム構造に新鮮な風穴を開けています。日常的なオンデマンド・コマースプラットフォームと融合したゲーム消費構造は購入のハードルを下げ、一般層の衝動買い心理を刺激して非ゲーマー層にまで顧客基盤を広げる起爆剤となります。🛒\n\n結局のところ、**ゲームの消費構造が目的志向型の探索市場から、日常的なライフスタイル消費の領域へと完全に組み込まれつつある点**が肝要です。コンテンツ流通の接点が日常的なアプリへと浸透するほど、ゲームに対する消費者の心理的距離感は劇的に縮まります。💡\n\nあらゆるデジタル商品が単一のプラットフォーム上で取引される時代、従来のゲームプラットフォームは果たしてどのような独自の価値をもってゲーマーを引き留め続けることができるでしょうか？🎮"
+      },
+      "gamescene": {
+        "game": "リーグ・オブ・レジェンド (League of Legends)",
+        "title": "戦術的フィードバックと新パッチがもたらすサモナーズリフトの地殻変動",
+        "comment": "各チームの徹底したフィードバックと次期パッチへの準備が、サモナーズリフトのメタにもたらす新たな激突の瞬間をAIにイメージさせたボーナスカットです。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "치킨 시키려다 게임을 샀습니다 🍕🎮 무너지는 플랫폼의 경계",
+    "en": "Ordering dinner… and a new game? 🍕🎮 The wild shift in gaming retail",
+    "ja": "ピザ頼むついでに新作ゲーム購入！？🍕🎮 激変するゲーム流通のリアル"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "x_posted": false,
+  "instagram_posted": false,
+  "linkedin_posted": false,
+  "youtube_community": {
+    "posted": false
+  },
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "배달 앱 켰다가 게임까지 사버릴 뻔했네요! 🍕\n오늘 드디어 '슈타인즈 게이트 리부트' 출시 소식까지 떴습니다 🎮\n\nhttps://www.gtplayer.net/edition-105/\n#슈타인즈게이트 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-08-18T18:07:07.328974"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Ordering dinner… and a new game? 🍕🎮 The wild shift in gaming retail\n\nImagine adding the latest video game straight into your digital cart right next to your Friday night pizza order.\nFrom digital games landing on food delivery platforms to massive sales surges for Sonic and Kingdom Hearts, here is the freshest industry momentum you need to know.\n\nhttps://www.gtplayer.net/edition-105-en/",
+        "error": null
+      },
+      "updated_at": "2026-08-18T18:07:44.188012"
+    }
+  }
+}

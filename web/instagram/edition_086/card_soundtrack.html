@@ -1,0 +1,101 @@
+
+    <!DOCTYPE html><html><head><meta charset="UTF-8">
+    <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+        width: 1080px; height: 1080px; overflow: hidden;
+        font-family: 'Noto Sans KR', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif;
+        background: #ffffff;
+        color: #111827;
+    }
+    .card {
+        width: 1080px; height: 1080px;
+        display: flex; flex-direction: column;
+        position: relative; overflow: hidden;
+    }
+    .gradient-bg {
+        /* Removed gradient */
+    }
+    .accent-circle {
+        display: none;
+    }
+    .logo {
+        font-size: 36px; font-weight: 900; letter-spacing: 1px;
+        color: #000;
+        text-transform: uppercase;
+    }
+    .logo span { color: #000; }
+    .tag {
+        display: inline-block;
+        background: #f3f4f6;
+        color: #111827;
+        border: 1px solid #d1d5db;
+        font-size: 34px; font-weight: 700;
+        padding: 14px 28px; border-radius: 8px;
+        letter-spacing: 1px;
+    }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&display=swap" rel="stylesheet">
+    </head>
+    <body style="background:#121212; color:#ffffff;">
+    <div class="card" style="border: 20px solid #1a1a1a; background:#121212;">
+        <!-- Blurred Background -->
+        <div style="position: absolute; top: 0; left: 0; width: 1080px; height: 1080px; 
+            background: url('https://i.ytimg.com/vi/gUARQKRNgiM/hqdefault.jpg') no-repeat center center; background-size: cover; 
+            filter: blur(50px) brightness(0.25); z-index: 0;"></div>
+            
+        <div style="position:relative;z-index:1;padding:50px 60px;display:flex;flex-direction:column;height:100%;justify-content:space-between;">
+            <!-- Header -->
+            <div style="display:flex;justify-content:space-between;align-items:center;">
+                <div class="logo" style="color:#ffffff;">GT<span style="color:#22c55e;">PLAYER</span></div>
+                <div style="font-size:34px;color:#a7a7a7;font-weight:600;">#086 · 2026-07-22</div>
+            </div>
+
+            <!-- Music Player Container -->
+            <div style="display:flex; flex-direction:column; align-items:center; margin-top:20px;">
+                <div style="width: 440px; height: 440px; border-radius: 24px; overflow: hidden; 
+                    box-shadow: 0 25px 50px rgba(0,0,0,0.6); border: 1px solid rgba(255,255,255,0.15);">
+                    <img src="https://i.ytimg.com/vi/gUARQKRNgiM/hqdefault.jpg" style="width: 100%; height: 100%; object-fit: cover;" />
+                </div>
+                
+                <div style="text-align: center; margin-top: 36px; padding: 0 40px; width: 100%;">
+                    <div style="font-size: 36px; font-weight: 900; color: #ffffff; margin-bottom: 8px;
+                        white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">The Alters | Full Original Soundtrack</div>
+                    <div style="font-size: 24px; color: #a7a7a7; font-weight: 700; letter-spacing: 0.5px;">디 얼터스 · 11 bit studios</div>
+                </div>
+                
+                <!-- Progress Bar & Controls -->
+                <div style="width: 720px; margin-top: 36px;">
+                    <div style="width: 100%; height: 6px; background: rgba(255,255,255,0.2); border-radius: 3px; position: relative;">
+                        <div style="width: 40%; height: 100%; background: #22c55e; border-radius: 3px;"></div>
+                        <div style="position: absolute; left: 40%; top: 50%; transform: translate(-50%, -50%); 
+                            width: 16px; height: 16px; background: #22c55e; border-radius: 50%; box-shadow: 0 0 12px #22c55e;"></div>
+                    </div>
+                    <div style="display: flex; justify-content: space-between; font-size: 18px; color: #a7a7a7; margin-top: 10px; font-weight: 500;">
+                        <span>1:38</span>
+                        <span>3:55</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Comment Box -->
+            <div style="background: rgba(255, 255, 255, 0.07); border: 1px solid rgba(255,255,255,0.1); 
+                border-radius: 18px; padding: 24px 32px; backdrop-filter: blur(10px); margin: 0 20px;">
+                <div style="font-size: 20px; font-weight: 900; color: #22c55e; margin-bottom: 10px; display: flex; align-items: center; gap: 8px;">
+                    <span style="font-size: 22px;">🎧</span> Dr. K의 음악 추천
+                </div>
+                <div style="font-size: 23px; line-height: 1.6; color: #e5e7eb; font-weight: 500;">
+                    최근 큰 화제를 모은 신작 <디 얼터스>의 OST 영상이 공개되어 이번 주 추천곡으로 선정했어요! 🎧 자신과의 협동이라는 독특한 생존 분위기를 담아 기묘하고 몰입감이 넘친답니다. 🌌 오늘 하루를 마무리하며 이 몽환적인 음악 속으로 깊이 빠져보세요! ✨
+                </div>
+            </div>
+
+            <!-- Footer -->
+            <div style="border-top:1px solid rgba(255,255,255,0.1);padding-top:24px;
+                display:flex;justify-content:space-between;align-items:center;">
+                <div style="font-size:20px;color:#a7a7a7;font-weight:600;">gtplayer.net/edition-086/</div>
+                <div style="font-size:20px;color:#22c55e;font-weight:800;">#게임OST #Lofi #GTPlayer</div>
+            </div>
+        </div>
+    </div>
+    </body></html>
+    

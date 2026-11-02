@@ -1,0 +1,415 @@
+{
+  "num": "054",
+  "date": "2026-05-21",
+  "status": "published",
+  "schedule": {
+    "date": "2026-05-21",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "투인마경전 헤라클레스의 영광",
+          "dev": "데이타 이스트",
+          "date": "5월 21일(목)",
+          "platforms": [
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "1987년 데이타 이스트에서 발매된 클래식 명작 RPG '투인마경전 헤라클레스의 영광'이 콘솔 아카이브스를 통해 5월 21일 이식 출시됩니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/008/G100850/20260520036/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "더 빅 프로레슬링",
+          "dev": "테크노스 저팬",
+          "date": "5월 21일(목)",
+          "platforms": [
+            "PS4",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "1983년 출시된 추억의 명작 레슬링 게임 '더 빅 프로레슬링'이 아케이드 아카이브스 버전으로 5월 21일 이식 출시됩니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/008/G100838/20260520028/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "update",
+          "game": "원피스 바운티 러시",
+          "dev": "반다이 남코 엔터테인먼트",
+          "date": "5월 21일(목)",
+          "platforms": [
+            "iOS",
+            "Android"
+          ],
+          "color": "#f59e0b",
+          "note": "모바일 인기 액션 게임 '원피스 바운티 러시'에 신규 캐릭터 '양익 조로&상디'가 5월 21일 업데이트를 통해 새롭게 합류합니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202605/75435",
+          "source_name": "전격 온라인"
+        },
+        {
+          "category": "event",
+          "game": "삼국지 BOND",
+          "dev": "게라파",
+          "date": "5월 22일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "삼국지를 무대로 한 덱 빌딩 로그라이트 군세 배틀 게임 '삼국지 BOND'가 올여름 정식 출시를 앞두고 5월 22일부터 스팀 플레이테스트를 실시합니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/008/G100845/20260520029/",
+          "source_name": "4Gamer"
+        }
+      ],
+      "events": [
+        {
+          "name": "2026 플레이엑스포 (PlayX4)",
+          "note": "다양한 신작 게임 전시 및 참관객 이벤트가 진행되는 수도권 최대 규모의 융복합 게임쇼",
+          "venue": "일산 킨텍스 제1전시장",
+          "date": "2026-05-21 ~ 2026-05-24",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=316610"
+        },
+        {
+          "name": "플레이스테이션 'State of Play'",
+          "note": "'마블 울버린'의 최신 영상을 비롯해 다양한 PS5 신작 정보를 공개하는 60분 이상의 쇼케이스",
+          "venue": "온라인 (유튜브, 트위치)",
+          "date": "2026-06-03",
+          "tag": "쇼케이스",
+          "website": "https://www.inven.co.kr/webzine/news/?news=316629"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "던파, 신규 캐릭터 '제국기사' 및 '인파이터(여)' 공개",
+          "source": "인벤",
+          "time": "5월 20일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316602"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "아이온, 대규모 '리메이크' 업데이트 및 신규 서버 오픈",
+          "source": "인벤",
+          "time": "5월 20일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316606"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "스퀘어에닉스, 총상금 10억 엔 규모 개발 콘테스트 개최",
+          "source": "4Gamer",
+          "time": "5월 20일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/991/G999101/20260520050/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "디즈니, 신작 모바일 게임 '스파클링크 스타즈' 발표",
+          "source": "4Gamer",
+          "time": "5월 20일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/008/G100854/20260520042/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "워호스 스튜디오, '반지의 제왕' 오픈월드 RPG 개발",
+          "source": "IGN India",
+          "time": "5월 20일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/marvels-wolverine/261243/open-world-lord-of-the-rings-rpg-announced-by-kingdom-come-deliverance-developer-ign-daily-fix"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "협동 교도관 시뮬레이션 '프리즌 포켓 패트롤' 발표",
+          "source": "IGN India",
+          "time": "5월 20일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/261239/prison-pocket-patrol-official-announcement-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "밸브, 뉴욕주 '카스 2' 전리품 상자 소송 기각 요청",
+          "source": "PC Gamer",
+          "time": "5월 20일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/fps/valve-asks-new-york-court-to-dismiss-counter-strike-lawsuit-says-people-enjoy-surprises-and-equating-loot-boxes-to-gambling-is-nonsensical/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "퀀틱 드림, 라이브 서비스 신작 개발 취소 및 감원",
+          "source": "IGN",
+          "time": "5월 20일",
+          "country": "GLOBAL",
+          "article_url": "https://www.ign.com/articles/detroit-become-human-dev-quantic-dream-kills-live-service-game-3-months-after-early-access-launch-insists-star-wars-eclipse-continues-as-planned"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "화려한 신기루 '라이브 서비스'의 종말과 본질로의 회귀",
+      "intro": "장기적인 캐시카우라 믿었던 '라이브 서비스'의 환상이 마침내 깨지고 있습니다.\n위기에 직면한 글로벌 게임사들이 다시 '검증된 IP'와 '싱글 플레이'로 눈을 돌리는 이유는 무엇일까요?",
+      "points": "최근 퀀틱 드림의 라이브 서비스 신작 취소와 감원 소식은 업계의 냉혹한 현실을 보여줍니다. 반면 워호스 스튜디오의 '반지의 제왕' RPG 개발과 전통적 클래식 IP들의 리메이크 열풍은, 리스크가 큰 라이브 서비스 대신 검증된 본질로 선회하는 업계의 흐름을 극명히 대변합니다. 🎮\n\n이러한 변화는 소비자의 **게임 소비 구조와 심리**에 큰 변화를 일으키고 있습니다. 매일 숙제처럼 접속하고 끝없는 결제를 요구하는 라이브 서비스에 피로감을 느낀 게이머들은, 이제 완성도 높은 일회성 경험이나 신뢰할 수 있는 IP 게임으로 빠르게 회귀하고 있습니다. 기업들 역시 과도한 BM 설계로 인한 법적 리스크를 피하기 위해 패키지 형태의 웰메이드 게임으로 방향을 틀고 있습니다. 📉\n\n결국 게임 산업은 **'지속 가능한 라이브 서비스'라는 신기루를 버리고, 플레이 가치가 명확한 '콘텐츠의 본질'로 회귀하는 과도기**에 진입했습니다. 유저의 지갑을 계속 열게 만드는 정교한 과금 모델보다, 단 한 번이라도 깊은 몰입감을 선사하는 웰메이드 콘텐츠를 만드는 것이 오히려 가장 안전하고 확실한 투자 공식이 된 것입니다. 💡\n\n앞으로의 게임 시장은 화려한 껍데기만 있는 서비스형 게임 대신, 탄탄한 내러티브와 깊이를 갖춘 작품들이 주도해 나갈 것입니다. 여러분은 매일 의무적으로 접속해야 하는 게임과, 한 편의 완벽한 서사를 선사하는 소장용 게임 중 어느 쪽에 기꺼이 지갑을 여시겠습니까? 🤔"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": true,
+      "title": "DNF(Mobile): Origin | INFIGHTER New Character Trailer",
+      "channel": "2:10 Animation",
+      "videoId": "tyZr2tvey9w",
+      "url": "https://www.youtube.com/watch?v=tyZr2tvey9w",
+      "thumbnail": "https://i.ytimg.com/vi/tyZr2tvey9w/hqdefault.jpg",
+      "comment": "드디어 《던전앤파이터 모바일》에 수많은 모험가들이 손꼽아 기다려온 신규 클래스 '인파이터(여)'가 짜릿한 등장을 예고했습니다. 🥊✨\n\n이번 캐릭터는 눈을 뗄 수 없을 정도로 빠르고 강력한 권격 액션과 독보적인 타격감을 선사할 것으로 큰 기대를 모으고 있습니다. 🔥⚡\n\n'2:10 Animation'이 선보이는 감각적인 공식 트레일러 영상을 통해 그녀의 화려한 움직임을 지금 바로 감상해 보세요! 🎬🎮",
+      "search_query": "DNF Mobile Female Infighter Official Trailer",
+      "ai_game_name": "던전앤파이터 모바일 (신규 캐릭터 '인파이터(여)' 업데이트)",
+      "ai_reason": "던전앤파이터 IP 역사상 유저들이 가장 오랫동안 기다려온 최초의 '여성 인파이터'의 등장을 담은 트레일러입니다. 특유의 빠른 템포와 가공할 만한 타격감을 느낄 수 있는 스타일리시한 2D 도트 액션의 정수를 보여줍니다."
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=054&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=054&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Glory of Heracles: Toin Makyoden",
+        "releases.0.note": "The classic masterpiece RPG 'Glory of Heracles: Toin Makyoden', originally released by Data East in 1987, will be ported and released on May 21 through Console Archives.",
+        "releases.0.dev": "Data East",
+        "releases.1.game": "The Big Pro Wrestling!",
+        "releases.1.note": "The nostalgic masterpiece wrestling game 'The Big Pro Wrestling!', originally released in 1983, will be ported and released on May 21 as an Arcade Archives version.",
+        "releases.1.dev": "Technos Japan",
+        "releases.2.game": "One Piece Bounty Rush",
+        "releases.2.note": "New characters 'Zoro & Sanji (Wings of the Pirate King)' will join the popular mobile action game 'One Piece Bounty Rush' through an update on May 21.",
+        "releases.2.dev": "Bandai Namco Entertainment",
+        "releases.3.game": "Three Kingdoms BOND",
+        "releases.3.note": "The deck-building roguelite army battle game 'Three Kingdoms BOND', set in the Three Kingdoms era, will run a Steam Playtest starting May 22 ahead of its official release this summer.",
+        "releases.3.dev": "Gerapa",
+        "events.0.name": "2026 PlayX4",
+        "events.0.note": "The largest convergence game show in the metropolitan area, featuring various new game exhibitions and visitor events.",
+        "events.0.venue": "Ilsan KINTEX Exhibition Center 1",
+        "events.1.name": "PlayStation 'State of Play'",
+        "events.1.note": "A 60+ minute showcase revealing information on various new PS5 titles, including the latest footage of 'Marvel's Wolverine'.",
+        "events.1.venue": "Online (YouTube, Twitch)"
+      },
+      "briefing": {
+        "items.0.title": "DNF Reveals New Characters 'Imperial Knight' and 'Female Infighter'",
+        "items.0.source": "Inven",
+        "items.0.time": "May 20",
+        "items.1.title": "Aion: Large-Scale 'Remake' Update and New Server Launch",
+        "items.1.source": "Inven",
+        "items.1.time": "May 20",
+        "items.2.title": "Square Enix to Host a Game Development Contest with 1 Billion Yen in Total Prize Money",
+        "items.2.source": "4Gamer",
+        "items.2.time": "May 20",
+        "items.3.title": "Disney Announces New Mobile Game 'Sparklink Stars'",
+        "items.3.source": "4Gamer",
+        "items.3.time": "May 20",
+        "items.4.title": "Warhorse Studios to Develop an Open-World 'Lord of the Rings' RPG",
+        "items.4.source": "IGN India",
+        "items.4.time": "May 20",
+        "items.5.title": "Co-op Prison Guard Simulation 'Prison Pocket Patrol' Announced",
+        "items.5.source": "IGN India",
+        "items.5.time": "May 20",
+        "items.6.title": "Valve Requests Dismissal of 'CS2' Loot Box Lawsuit in New York",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "May 20",
+        "items.7.title": "Quantic Dream Cancels New Live-Service Game Development and Lays Off Staff",
+        "items.7.source": "IGN",
+        "items.7.time": "May 20"
+      },
+      "drk": {
+        "title": "The End of the Glamorous Mirage of 'Live Service' and a Return to Core Value",
+        "intro": "The illusion of 'live service' games, once believed to be long-term cash cows, is finally shattering.\nWhy are global gaming companies facing crises turning their attention back to 'proven IPs' and 'single-player' experiences?",
+        "points": "The recent news of Quantic Dream canceling its new live-service project and laying off staff highlights the harsh reality of the industry. On the other hand, Warhorse Studios' development of a 'Lord of the Rings' RPG and the craze of remaking traditional classic IPs clearly represent the industry trend of pivoting toward proven core values instead of high-risk live services. 🎮\n\nThis shift is causing significant changes in consumers' **game consumption structure and psychology**. Gamers, fatigued by live-service games that feel like daily homework and demand endless microtransactions, are now rapidly returning to high-quality, one-time experiences or games based on trusted IPs. To avoid legal risks arising from excessive monetization designs, companies are also shifting their focus toward well-made, packaged-type games. 📉\n\nUltimately, the gaming industry has entered a **transition period, abandoning the mirage of 'sustainable live service' and returning to the 'essence of content' with clear gameplay value**. Instead of sophisticated monetization models designed to keep opening players' wallets, creating well-made content that offers a deep sense of immersion, even if only once, has become the safest and most reliable investment formula. 💡\n\nIn the future, the gaming market will be led by titles with solid narratives and depth, rather than service-type games with only a flashy exterior. Between a game you must log into daily as an obligation and a collectible game that delivers a single, perfect narrative, which one would you willingly open your wallet for? 🤔"
+      },
+      "trailer": {
+        "title": "DNF(Mobile): Origin | INFIGHTER New Character Trailer",
+        "comment": "Finally, the highly anticipated new class 'Female Infighter' is making a thrilling entrance in 《Dungeon & Fighter Mobile》. 🥊✨\n\nThis character is raising high expectations, promising incredibly fast and powerful fist action alongside an unrivaled sensation of impact. 🔥⚡\n\nCheck out her spectacular moves right now in the sensational official trailer presented by '2:10 Animation'! 🎬🎮"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "闘人魔境伝 ヘラクレスの栄光",
+        "releases.0.note": "1987年にデータイーストから発売されたクラシック名作RPG『闘人魔境伝 ヘラクレスの栄光』が、コンソールアーカイブスを通じて5月21日に移植リリースされます。",
+        "releases.0.dev": "データイースト",
+        "releases.1.game": "ザ・ビッグプロレスリング",
+        "releases.1.note": "1983年にリリースされた思い出の名作プロレスゲーム『ザ・ビッグプロレスリング』が、アーケードアーカイブス版として5月21日に移植リリースされます。",
+        "releases.1.dev": "テクノスジャパン",
+        "releases.2.game": "ワンピース バウンティラッシュ",
+        "releases.2.note": "モバイル人気アクションゲーム『ワンピース バウンティラッシュ』に、新規キャラクター「両翼 ゾロ＆サンジ」が5月21日のアップデートにより新たに参戦します。",
+        "releases.2.dev": "バンダイナムコエンターテインメント",
+        "releases.3.game": "三國志BOND",
+        "releases.3.note": "三国志を舞台にしたデッキ構築型ローグライト軍勢バトルゲーム『三國志BOND』が、今夏の正式リリースを控え、5月22日からSteamプレイテストを実施します。",
+        "releases.3.dev": "ゲラパ",
+        "events.0.name": "2026 プレイエキスポ (PlayX4)",
+        "events.0.note": "多様な新作ゲームの展示や来場者イベントが開催される、首都圏最大規模の総合ゲームショー",
+        "events.0.venue": "一山 KINTEX 第1展示場",
+        "events.1.name": "PlayStation 「State of Play」",
+        "events.1.note": "『Marvel's Wolverine（ウルヴァリン）』の最新映像をはじめ、様々なPS5新作情報を公開する60分以上のショウケース",
+        "events.1.venue": "オンライン（YouTube、Twitch）"
+      },
+      "briefing": {
+        "items.0.title": "『アラド戦記』、新キャラクター「帝国騎士」および「インファイター（女）」を公開",
+        "items.0.source": "Inven",
+        "items.0.time": "5月20일",
+        "items.1.title": "『アイオン』、大規模『リメイク』アップデートおよび新規サーバーオープン",
+        "items.1.source": "Inven",
+        "items.1.time": "5月 20일",
+        "items.2.title": "スクウェア・エニックス、総賞金10億円規模の開発コンテストを開催",
+        "items.2.source": "4Gamer",
+        "items.2.time": "5月 20일",
+        "items.3.title": "ディズニー、新作モバイルゲーム『スパークリンク・スターズ』を発表",
+        "items.3.source": "4Gamer",
+        "items.3.time": "5月 20일",
+        "items.4.title": "Warhorse Studios、『ロード・オブ・ザ・リング』オープンワールドRPGを開発",
+        "items.4.source": "IGN India",
+        "items.4.time": "5月 20일",
+        "items.5.title": "協力型刑務官シミュレーション『プリズン・ポケット・パトロール』を発表",
+        "items.5.source": "IGN India",
+        "items.5.time": "5月 20일",
+        "items.6.title": "Valve、ニューヨーク州での『CS2』ルートボックス訴訟の棄却を要請",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "5月 20일",
+        "items.7.title": "Quantic Dream、ライブサービス新作の開発中止および人員削減",
+        "items.7.source": "IGN",
+        "items.7.time": "5月 20일"
+      },
+      "drk": {
+        "title": "華麗なる蜃気楼『ライブサービス』の終焉と本質への回帰",
+        "intro": "長期的なキャッシュカウだと信じられていた『ライブサービス』の幻想が、ついに崩れつつあります。\n危機に直面したグローバルゲーム企業が、再び『検証済みのIP』と『シングルプレイ』に目を向ける理由は何でしょうか？",
+        "points": "最近のQuantic Dreamによるライブサービス新作の中止と人員削減のニュースは、業界の冷酷な現実を示しています。一方、Warhorse Studiosの『ロード・オブ・ザ・リング』RPG開発や伝統的なクラシックIPのリメイクブームは、リスクの大きいライブサービスの代わりに、検証済みの本質へと舵を切る業界の流れを克明に代弁しています。🎮\n\nこのような変化は、消費者の**ゲーム消費構造と心理**に大きな変化をもたらしています。毎日宿題のようにログインし、終わりのない課金を要求するライブサービスに疲弊したゲーマーたちは、今や完成度の高い一回きりの体験や、信頼できるIPゲームへと急速に回帰しています。企業側もまた、過度なBM設計による法的リスクを避けるため、パッケージ形式のウェルメイドなゲームへと方向を転換しています。📉\n\n結局のところ、ゲーム産業は**「持続可能なライブサービス」という蜃気楼を捨て、プレイ価値が明確な「コンテンツの本質」へと回帰する過渡期**に突入したのです。ユーザーの財布をこじ開け続ける精巧な課金モデルよりも、たった一度でも深い没入感を提供するウェルメイドなコンテンツを作ることこそが、むしろ最も安全で確実な投資の方程式となったのです。💡\n\nこれからのゲーム市場は、華やかな殻だけのサービス型ゲームの代わりに、しっかりとしたナラティブと深みを備えた作品が主導していくでしょう。皆さんは、毎日義務的にログインしなければならないゲームと、一編の完璧な叙事詩を届けてくれるコレクション用のゲーム、どちらに喜んで財布を開きますか？🤔"
+      },
+      "trailer": {
+        "title": "DNF(Mobile): Origin | INFIGHTER New Character Trailer",
+        "comment": "ついに『アラド戦記モバイル』に、数多くの冒険者たちが待ち望んでいた新規クラス「インファイター（女）」が、刺激的な登場を予告しました。🥊✨\n\n今回のキャラクターは、目を見張るほど素早く強力な拳撃アクションと、圧倒的な打撃感を提供してくれるものと大きな期待を集めています。🔥⚡\n\n「2:10 Animation」がお届けする、感覚的な公式トレーラー映像を通じて、彼女の華麗な動きを今すぐご堪能ください！🎬🎮"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "신기루였던 '라이브 서비스'의 종말 📉 (feat. 던파 모바일 역대급 신캐 등장 🥊)",
+    "en": "Is the 'Live Service' Era Finally Over? 📉 (feat. Insane DNF Mobile Infighter Trailer 🥊)",
+    "ja": "『ライブサービス』という幻の終焉 📉 (feat. DNFモバイル新キャラ『インファイター』PV解禁 🥊)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "던파 모바일 유저분들 소리 질러~! 📣\n드디어 역대급 신캐 '여인파이터'와 '제국기사' 소식이 떴네요! 🥊\n\nhttps://www.gtplayer.net/edition-054/\n\n#던전앤파이터 #게임소식 #GTPlayer",
+          "posted": true,
+          "data": {
+            "data": {
+              "id": "2057221131653074997",
+              "edit_history_tweet_ids": [
+                "2057221131653074997"
+              ],
+              "text": "던파 모바일 유저분들 소리 질러~! 📣\n드디어 역대급 신캐 '여인파이터'와 '제국기사' 소식이 떴네요! 🥊\n\nhttps://t.co/GZcGtHGfIf\n\n#던전앤파이터 #게임소식 #GTPlayer"
+            }
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-21T07:05:09.354461"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "5월 21일 오늘의 게임 소식 🎮\n\n🥊 던파 모바일 역대급 신캐 '제국기사'&'인파이터(여)' 공개 및 주요 뉴스!\n📅 투인마경전, 삼국지 BOND 등 이번 주 취향 저격 신작 캘린더!\n📉 [Dr. K 인사이트] 화려했던 '라이브 서비스'의 종말과 본질로의 회귀.\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임덕후 #게임추천 #신작게임 #던파모바일 #아이온 #반지의제왕 #스퀘어에닉스 #모바일게임 #콘솔게임 #PC게임 #삼국지BOND #원피스바운티러시 #게임정보 #게임스타그램 #GTPLAYER #지티플레이어 #뉴스레터 #게임라이프 #겜덕",
+          "image_paths": [
+            "web\\instagram\\edition_054\\card_news.png",
+            "web\\instagram\\edition_054\\card_calendar.png",
+            "web\\instagram\\edition_054\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3901497258206763594_39332818166",
+            "url": "https://www.instagram.com/p/DYk5xXXkxpK/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-21T07:05:43.157426"
+    }
+  }
+}

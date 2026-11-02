@@ -1,0 +1,315 @@
+{
+  "num": "010",
+  "date": "2026-03-20",
+  "status": "published",
+  "schedule": {
+    "date": "",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "붉은사막",
+          "dev": "펄어비스",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "글로벌 동시 출시",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1772977",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "event",
+          "game": "마라톤",
+          "dev": "번지",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#3b82f6",
+          "note": "첫 번째 레이드 '크라이오 아카이브' 시작",
+          "country": "IN",
+          "article_url": "https://in.ign.com/marathon/256211/news/bungie-reveals-all-details-of-marathons-first-raid-cryo-archive-goes-live-on-march-20-and-weekends-o",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "update",
+          "game": "페르소나 5: 더 팬텀 X",
+          "dev": "세가",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC",
+            "iOS",
+            "Android"
+          ],
+          "color": "#3b82f6",
+          "note": "Ver.3.4 업데이트 및 신규 캐릭터 '요시자와 카스미' 등장",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/840/G084066/20260319082/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "event",
+          "game": "CD 프로젝트 레드 실적 발표",
+          "dev": "CD 프로젝트 레드",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#6366f1",
+          "note": "위쳐 4 및 사이버펑크 차기작 개발 현황 공개",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=314609",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "몬스터 헌터 나우",
+          "dev": "나이언틱",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "iOS",
+            "Android"
+          ],
+          "color": "#3b82f6",
+          "note": "시즌 9 '박두하는 천인과 봄밤의 도약' 시작",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202603/69312",
+          "source_name": "전격 온라인"
+        },
+        {
+          "category": "event",
+          "game": "엑소더스",
+          "dev": "아키타입 엔터테인먼트",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#3b82f6",
+          "note": "첫 실기 플레이 영상 공개",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1772986",
+          "source_name": "게임메카"
+        }
+      ],
+      "events": [
+        {
+          "name": "iicon 2026 (E3 후속)",
+          "note": "",
+          "venue": "미국 라스베가스",
+          "date": "2026-04-27~2026-04-30",
+          "tag": "행사",
+          "d_day_str": "D-38",
+          "website": "https://www.iicon.com"
+        },
+        {
+          "name": "서머 게임 페스트 2026",
+          "note": "",
+          "venue": "미국",
+          "date": "2026-06-01~2026-06-30",
+          "tag": "행사",
+          "d_day_str": "D-73",
+          "website": "https://www.summergamefest.com"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'스파이더맨' 신작 예고편, 24시간 만에 7억 뷰 돌파",
+          "source": "IGN India",
+          "time": "오늘",
+          "country": "GLOBAL",
+          "article_url": "https://in.ign.com/spider-man-brand-new-day/256215/news/spider-man-brand-new-day-beats-gta-6-record-after-trailer-pulls-718-million-views-in-24-hours"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'스페이스 마린 2' 개발사, 유료 DLC 사과 및 무료화",
+          "source": "IGN India",
+          "time": "오늘",
+          "country": "GLOBAL",
+          "article_url": "https://in.ign.com/warhammer-40000-space-marine-ii/256213/news/its-obvious-this-dlc-has-failed-to-meet-your-expectations-warhammer-40000-space-marine-2-dev-issues"
+        },
+        {
+          "category": "discount",
+          "tag": "할인",
+          "title": "세가·아틀러스, 2026 Steam 봄 할인 개최",
+          "source": "인벤",
+          "time": "오늘",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=314616"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "포켓몬 카드 게임 포켓, 신규 팩 '샤이닝 메가' 공개",
+          "source": "4Gamer",
+          "time": "어제",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/779/G077901/20260319088/"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "유비소프트, 레드 스톰 개발 중단 및 인원 감축",
+          "source": "GamesIndustry.biz",
+          "time": "오늘",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/ubisoft-announces-layoffs-and-the-cease-of-game-development-at-red-storm-entertainment"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "에픽세븐, 신규 월광 영웅 '노토스' 업데이트",
+          "source": "인벤",
+          "time": "오늘",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=314615"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'뱀파이어 서바이버' 후속작, 4월 21일 출시 확정",
+          "source": "게임메카",
+          "time": "오늘",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1772985"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": true,
+      "game": "AION2",
+      "period": "최근 30일",
+      "count": "4,316",
+      "sources": "커뮤니티",
+      "score": "2.7",
+      "pos": 4,
+      "neu": 76,
+      "neg": 20,
+      "keywords": [
+        {
+          "text": "Dungeon / Raid Discussion",
+          "positive": true
+        },
+        {
+          "text": "Class Mention",
+          "positive": true
+        },
+        {
+          "text": "Build Meta",
+          "positive": true
+        },
+        {
+          "text": "Buff/Nerf Debate",
+          "positive": true
+        },
+        {
+          "text": "Currency",
+          "positive": true
+        }
+      ],
+      "comments": [
+        {
+          "text": "1. PVP 개선 - PVP 사망 시 랭킹 포인트 감소량 대폭 감소 상위 계급 기준 기존 대비 약 87 감소 - 일일 연속 사망 시 랭킹 포인트 감소량 비율 증가 최저 감소 포인트량 대폭 하향 2. 어비스 개선 - PVE 어비스 피해증폭 세트 효과 상향 - 필드네임드 리스트 '감시자 카이라' 추가 - 어비스 보스 처치 시 사망 상태에서도 기여도에 따라 보상 획득 가능 - 어비스 내 플레이어의 네임 플레이트를 계급 아이콘으로 간소화 시키는 기능",
+          "positive": false
+        },
+        {
+          "text": "1. PVP 개선 - PVP 사망 시 랭킹 포인트 감소량 대폭 감소 상위 계급 기준 기존 대비 약 87 감소 - 일일 연속 사망 시 랭킹 포인트 감소량 비율 증가 최저 감소 포인트량 대폭 하향 2. 어비스 개선 - PVE 어비스 피해증폭 세트 효과 상향 - 필드네임드 리스트 '감시자 카이라' 추가 - 어비스 보스 처치 시 사망 상태에서도 기여도에 따라 보상 획득 가능 - 어비스 내 플레이어의 네임 플레이트를 계급 아이콘으로 간소화 시키는 기능",
+          "positive": false
+        },
+        {
+          "text": "두 개의 하늘, 하나의 영광 안녕하세요, 데바 여러분! AION2입니다. 수정사항 - 웰컴백 쿠폰의 일부 구성품의 아이템명 변경 및 구성품 내 신규 아이템이 추가되었습니다. 2 23 16 10 데바님들의 꾸준한 관심과 성원 덕분에 저희가 100일을 맞이할 수 있었습니다. 함께해 주신 시간에 진심으로 감사드리며, 감사의 마음을 담아 쿠폰을 준비했습니다. 앞으로도 함께 만들어갈 여정에 많은 관심 부탁드리며, 쿠폰 2종의 사용 기간과 구성품 안내 드",
+          "positive": false
+        }
+      ]
+    },
+    "drk": {
+      "enabled": true,
+      "title": "거대 IP의 귀환과 몰락하는 공룡: 이제 시장은 '진짜'만 남긴다",
+      "intro": "CD 프로젝트 레드의 차기작 개발 현황과 '붉은사막'의 글로벌 출시 소식, 그리고 '스파이더맨' 신작의 기록적인 조회수는 시장이 여전히 '강력한 한 방'을 원하고 있음을 증명합니다. 반면, 유비소프트의 개발 중단과 인원 감축 소식은 과거의 영광에 안주하며 양적 팽창에만 집중했던 거대 기업의 비극적인 단면을 적나라하게 보여주고 있습니다.",
+      "points": "현재 게임 산업은 브랜드의 이름값보다 '경험의 질'이 우선시되는 냉혹한 선별 과정에 놓여 있습니다. '스페이스 마린 2' 제작진이 유료 DLC를 철회하며 고개를 숙인 것은 단순한 사과가 아니라, 높아진 유저의 권위와 시장의 기준치를 체감한 방어적 기동입니다. 이제 게이머들은 완성되지 않은 결과물이나 관성적인 시리즈물에 더 이상 지갑을 열지 않습니다.\n\n결국 오늘날의 게임 산업은 **'유저와의 신뢰 자본을 얼마나 확보했는가'에 따라 성패가 갈리는 잔혹한 서바이벌**로 변모했습니다. 단순히 그래픽이 좋거나 규모가 큰 게임이 이기는 시대는 끝났습니다. **핵심 IP의 오리지널리티를 지키면서도 유저의 요구에 기민하게 반응하는 '유연한 장인 정신'**만이 글로벌 시장에서 생존을 담보하는 유일한 마스터키가 될 것입니다.\n\n거대 자본의 비대해진 몸집이 오히려 혁신의 독이 되는 시대입니다. '붉은사막'과 '위쳐 4'가 보여줄 새로운 기준이 과연 무너지는 공룡들이 비워낸 자리를 완전히 대체할 수 있을까요? 여러분은 이름값만 남은 과거의 명작과, 절실함으로 무장한 신흥 강자 중 누구의 손을 들어주시겠습니까?"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "붉은사막 (Crimson Desert)",
+      "title": "황혼이 머무는 파이웰의 심장",
+      "imgUrl": "",
+      "comment": "최첨단 엔진으로 구현된 극실사 렌더링은 단순한 그래픽을 넘어, 대륙의 거친 숨결과 중세 판타지의 장엄한 서사를 한 폭의 명화처럼 완성해냅니다.",
+      "ai_prompt": "Cinematic wide shot of a rugged medieval mercenary standing on a high cliff edge overlooking the vast, lush continent of Pywel, Crimson Desert game aesthetic, ultra-realistic 8k, photorealistic rendering, sunset golden hour lighting casting warm glows, snowy mountain peaks in the far distance, a faint silhouette of a dragon soaring through orange-tinted clouds, highly detailed textures of leather and fur armor, floating embers and light particles, epic and melancholic fantasy atmosphere."
+    },
+    "chart": {
+      "enabled": true,
+      "pc": [
+        {
+          "game": "League of Legends",
+          "change": "-"
+        },
+        {
+          "game": "Counter-Strike 2",
+          "change": "-"
+        },
+        {
+          "game": "Helldivers 2",
+          "change": "NEW"
+        }
+      ],
+      "console": [
+        {
+          "game": "Final Fantasy VII Rebirth",
+          "change": "NEW"
+        },
+        {
+          "game": "Helldivers 2",
+          "change": "▲2"
+        },
+        {
+          "game": "Elden Ring",
+          "change": "▲3"
+        }
+      ],
+      "mobile": [
+        {
+          "game": "Last War: Survival Game",
+          "change": "▲2"
+        },
+        {
+          "game": "Brawl Stars",
+          "change": "▲1"
+        },
+        {
+          "game": "Lineage M",
+          "change": "-"
+        }
+      ]
+    }
+  },
+  "translations": {
+    "en": {},
+    "ja": {}
+  }
+}

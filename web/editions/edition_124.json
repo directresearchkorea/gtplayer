@@ -1,0 +1,447 @@
+{
+  "num": "124",
+  "date": "2026-09-14",
+  "status": "published",
+  "schedule": {
+    "date": "2026-09-14",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "update",
+          "game": "워크래프트 3: 리포지드",
+          "dev": "블리자드 엔터테인먼트",
+          "date": "9월 14일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "블리즈컨 2026 개막과 함께 언더시티의 기원을 다룬 23년 만의 신규 캠페인 '포세이큰 왕국'이 깜짝 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780399",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "Dimraeth",
+          "dev": "Dimraeth Games",
+          "date": "9월 14일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 14일 스팀을 통해 정식 출시되는 인디 어드벤처 신작입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2402680/Dimraeth/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "크리에이터 크로니클 (Creator Chronicles)",
+          "dev": "Chronicle Studio",
+          "date": "9월 14일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 14일 스팀에 출시되는 크리에이터 성장 시뮬레이션 게임입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3947460/Creator_Chronicles/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "액티브 매터 (Active Matter)",
+          "dev": "Team Matter",
+          "date": "9월 15일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 15일 스팀에 출시되는 양자 이상 현상 기반의 SF 밀리터리 익스트랙션 슈터 신작입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2887580/Active_Matter/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "update",
+          "game": "디아블로 4",
+          "dev": "블리자드 엔터테인먼트",
+          "date": "9월 16일(수)",
+          "platforms": [
+            "PC",
+            "PS4",
+            "PS5",
+            "XBO",
+            "XSX"
+          ],
+          "color": "#3b82f6",
+          "note": "9월 16일 시작되는 신규 시즌 '지옥의 유산'에서는 아마존 영혼 용병 시스템과 역대 대악마 보스전 등 대규모 콘텐츠가 추가됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=320805",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "영웅전설: 하늘의 궤적 SC (Trails in the Sky 2nd Chapter)",
+          "dev": "니혼 팔콤",
+          "date": "9월 16일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 16일 스팀을 통해 출시되는 고전 명작 스토리 RPG 시리즈의 두 번째 챕터입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4225980/Trails_in_the_Sky_2nd_Chapter/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "월드 오브 워크래프트: 포에버 심층 탐구 세션",
+          "note": "블리즈컨 2026 와우: 포에버 신규 시스템(전문기술, 형상변환 등) 세부 정보 공개",
+          "venue": "온라인",
+          "date": "2026-09-14",
+          "tag": "쇼케이스",
+          "website": "https://www.inven.co.kr/webzine/news/?news=320806"
+        },
+        {
+          "name": "월드 오브 워크래프트: 포에버 베타 테스트",
+          "note": "아제로스 기반 클래식+ 신작 'WoW: Forever' 비공개/공개 베타 테스트 진행",
+          "venue": "온라인",
+          "date": "2026-09-14 ~ 2026-09-20",
+          "tag": "베타 테스트",
+          "website": "https://www.pcgamer.com/games/world-of-warcraft/the-wow-classic-rumors-were-true-world-of-warcraft-forever-promises-to-be-another-timelines-bizzarro-version-of-the-mmo/"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "젠지, 한화생명 꺾고 LCK 통산 7회 우승 달성",
+          "source": "인벤",
+          "time": "9월 13일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=320800"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "블리자드, 차기작 '디아블로 5' 2029년 출시 발표",
+          "source": "게임메카",
+          "time": "9월 13일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780397"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'스타크래프트' 오픈월드 슈터 신작, 2030년 출시",
+          "source": "IGN India",
+          "time": "9월 13일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/271730/new-starcraft-gameplay-details-a-promised-release-date"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "블리자드, '와우: 포에버' 깜짝 발표로 개막식 장식",
+          "source": "IGN India",
+          "time": "9월 13일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/world-of-warcraft/271713/blizzards-big-blizzcon-2026-opening-ceremony-mic-drop-is-world-of-warcraft-forever"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'멜티 블러드: TWI-LUMINA', 2027년 4월 발매",
+          "source": "4Gamer",
+          "time": "9월 12일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/019/G101928/20260911052/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'아이돌마스터 SideM', 스위치 2 신작 제작 결정",
+          "source": "Famitsu",
+          "time": "9월 13일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202609/87799"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'히오스', 6년 만에 신규 영웅 '잘아타스' 깜짝 공개",
+          "source": "IGN",
+          "time": "9월 13일",
+          "country": "GLOBAL",
+          "article_url": "https://www.ign.com/articles/heroes-of-the-storm-gets-first-new-character-in-six-years"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "과거의 유산으로 미래를 설계하는 블리자드의 승부수",
+      "intro": "23년 만의 신규 캠페인부터 2030년 신작 로드맵까지, 왜 블리자드는 다시 오랜 유산에 집착하는 것일까요? 낡은 IP의 재소비일지, 아니면 새로운 전성기를 위한 교두보일지 짚어봅니다.",
+      "points": "블리즈컨 2026을 기점으로 블리자드가 클래식 IP의 대대적인 부활을 선언했습니다. 23년 만에 선보인 '워크래프트 3' 신규 캠페인과 '히어로즈 오브 더 스톰'의 업데이트는 물론, '스타크래프트' 오픈월드 슈터와 '디아블로 5'에 이르는 장기 로드맵을 연이어 공개하며 커뮤니티의 시선을 단숨에 사로잡았습니다. 🏛️\n\n이러한 행보는 최근 신규 IP 개발의 리스크가 극대화된 글로벌 게임 시장의 단면을 명확히 보여줍니다. 검증된 세계관을 재활성화하여 기존 팬덤의 충성도를 결집하는 방식은 마케팅 비용을 줄이고 초기 전환율을 극대화하는 **소비자 심리** 기반의 안전한 전략입니다. 특히 방치되었던 타이틀까지 사후 지원을 재개함으로써, 라이브 서비스의 연속성에 불안을 느끼던 유저들에게 강력한 신뢰 신호를 보낸 셈입니다. 📉\n\n결국 관건은 과거의 향수에 머무르지 않고 현대적인 게임성으로 확장할 수 있는가에 있습니다. 유저들이 진정으로 바라는 것은 박제된 추억의 재포장이 아니라, **시대를 앞서갔던 세계관이 진보한 기술력과 결합해 선사하는 새로운 플레이 경험**입니다. 🎮\n\n원작의 영광을 기억하는 세대와 새로운 플레이 방식을 원하는 차세대 게이머를 모두 만족시킬 수 있을까요? 2030년을 향한 블리자드의 거대한 타임라인이 증명해야 할 시험대는 이제 막 시작되었습니다. 🧭"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": true,
+      "items": [],
+      "title": "DLSS 5? People are just being too picky... /s",
+      "score": 20847,
+      "url": "https://i.redd.it/urwyuibxvxoh1.png",
+      "preview_img": "https://i.redd.it/urwyuibxvxoh1.png",
+      "permalink": "https://redd.it/1wdpixb",
+      "subreddit": "pcmasterrace",
+      "author": "TechOverwrite",
+      "num_comments": 0,
+      "what_happened": "\"DLSS 5 퀄리티 가지고 다들 너무 까다롭게 구네\"라는 반어법 제목과 함께, 스타워즈 아나킨과 파드메 밈이 과도한 AI 업스케일링으로 인해 부담스러울 만큼 번쩍거리는 순정만화풍 비주얼로 왜곡된 모습을 풍자해 큰 웃음을 주었습니다.",
+      "one_liner": "이러다 나중엔 프레임 조금 올리려고 DLSS 켰다가 거친 마초 주인공이 강제 아이돌 성형당하게 생겼네요. 🤣✨"
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Warcraft III: Reforged",
+        "releases.0.note": "With the opening of BlizzCon 2026, 'Kingdom of the Forsaken'—the first new campaign in 23 years exploring the origins of the Undercity—was surprise-released.",
+        "releases.0.dev": "Blizzard Entertainment",
+        "releases.1.game": "Dimraeth",
+        "releases.1.note": "A new indie adventure game officially releasing on Steam on September 14.",
+        "releases.1.dev": "Dimraeth Games",
+        "releases.2.game": "Creator Chronicles",
+        "releases.2.note": "A creator growth simulation game launching on Steam on September 14.",
+        "releases.2.dev": "Chronicle Studio",
+        "releases.3.game": "Active Matter",
+        "releases.3.note": "A new quantum anomaly-based sci-fi military extraction shooter releasing on Steam on September 15.",
+        "releases.3.dev": "Team Matter",
+        "releases.4.game": "Diablo IV",
+        "releases.4.note": "Starting September 16, the new season 'Legacy of Hell' introduces major content including the Amazon spirit mercenary system and iconic Prime Evil boss battles.",
+        "releases.4.dev": "Blizzard Entertainment",
+        "releases.5.game": "The Legend of Heroes: Trails in the Sky SC",
+        "releases.5.note": "The second chapter of the classic masterpiece story RPG series, launching on Steam on September 16.",
+        "releases.5.dev": "Nihon Falcom",
+        "events.0.name": "World of Warcraft: Forever Deep Dive Session",
+        "events.0.note": "Detailed information reveal for WoW: Forever's new systems (professions, transmogrification, etc.) at BlizzCon 2026",
+        "events.0.venue": "Online",
+        "events.1.name": "World of Warcraft: Forever Beta Test",
+        "events.1.note": "Closed and open beta testing for 'WoW: Forever', a new Classic+ title based in Azeroth",
+        "events.1.venue": "Online"
+      },
+      "briefing": {
+        "items.0.title": "Gen.G Defeats Hanwha Life Esports to Claim 7th Total LCK Championship",
+        "items.0.source": "Inven",
+        "items.0.time": "September 13",
+        "items.1.title": "Blizzard Announces Upcoming Sequel 'Diablo 5' for 2029 Release",
+        "items.1.source": "GameMeca",
+        "items.1.time": "September 13",
+        "items.2.title": "New 'StarCraft' Open-World Shooter to Launch in 2030",
+        "items.2.source": "IGN India",
+        "items.2.time": "September 13",
+        "items.3.title": "Blizzard Opens Ceremony with Surprise Announcement of 'WoW: Forever'",
+        "items.3.source": "IGN India",
+        "items.3.time": "September 13",
+        "items.4.title": "'MELTY BLOOD: TWI-LUMINA' to Release in April 2027",
+        "items.4.source": "4Gamer",
+        "items.4.time": "September 12",
+        "items.5.title": "'THE IDOLM@STER SideM' Greenlit for New Switch 2 Title",
+        "items.5.source": "Famitsu",
+        "items.5.time": "September 13",
+        "items.6.title": "'Heroes of the Storm' Surprisingly Reveals New Hero 'Xal'atath' After 6 Years",
+        "items.6.source": "IGN",
+        "items.6.time": "September 13"
+      },
+      "drk": {
+        "title": "Blizzard's Bold Gambit: Designing the Future with the Legacy of the Past",
+        "intro": "From their first new campaign in 23 years to a roadmap extending to 2030, why is Blizzard clinging to its old legacy once again? We examine whether this is mere re-consumption of aged IPs or a stepping stone toward a brand-new golden age.",
+        "points": "Starting with BlizzCon 2026, Blizzard declared a massive resurgence of its classic IPs. By revealing a brand-new 'Warcraft III' campaign after 23 years and an update for 'Heroes of the Storm,' as well as a long-term roadmap leading up to an open-world 'StarCraft' shooter and 'Diablo 5,' they instantly captured the community's undivided attention. 🏛️\n\nThis move clearly reflects the reality of the global gaming market, where the risks of developing new IPs have reached an all-time high. Revitalizing proven universes to rally existing fandom loyalty is a safe strategy rooted in **consumer psychology** that slashes marketing costs while maximizing initial conversion rates. In particular, by resuming post-launch support even for long-neglected titles, they sent a strong signal of reliability to players anxious about the continuity of live-service games. 📉\n\nUltimately, the key lies in whether they can avoid resting on past nostalgia and expand into modern gameplay. What players truly desire is not repackaged, taxidermied memories, but **a fresh gameplay experience born from a visionary universe merged with cutting-edge technology.** 🎮\n\nCan they satisfy both the veteran generation that remembers the originals' glory and next-gen gamers seeking new ways to play? The testing ground that Blizzard's massive timeline toward 2030 must prove has only just begun. 🧭"
+      },
+      "meme": {
+        "what_happened": "Under the sarcastic title \"Everyone's being way too picky about DLSS 5 quality,\" a meme featuring Star Wars' Anakin and Padme brought huge laughs by satirizing how excessive AI upscaling distorted their faces into an overwhelmingly glittery, shojo romance manga visual.",
+        "one_liner": "At this rate, we'll turn on DLSS just to squeeze out a few extra frames and end up giving our rugged, macho protagonist forced idol plastic surgery. 🤣✨"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ウォークラフトIII：リフォージド",
+        "releases.0.note": "BlizzCon 2026の開幕とともに、アンダーシティの起源を描いた23年ぶりの新規キャンペーン「フォーセイクン王国」がサプライズリリースされました。",
+        "releases.0.dev": "Blizzard Entertainment",
+        "releases.1.game": "Dimraeth",
+        "releases.1.note": "9月14日にSteamを通じて正式リリースされるインディーアドベンチャーの新作です。",
+        "releases.1.dev": "Dimraeth Games",
+        "releases.2.game": "クリエイタークロニクル (Creator Chronicles)",
+        "releases.2.note": "9月14日にSteamでリリースされるクリエイター育成シミュレーションゲームです。",
+        "releases.2.dev": "Chronicle Studio",
+        "releases.3.game": "アクティブ・マター (Active Matter)",
+        "releases.3.note": "9月15日にSteamでリリースされる、量子異常現象をベースにしたSFミリタリー・エキストラクションシューターの新作です。",
+        "releases.3.dev": "Team Matter",
+        "releases.4.game": "ディアブロ IV",
+        "releases.4.note": "9月16日に開幕する新シーズン「地獄の遺産」では、アマゾンの魂の傭兵システムや歴代の三大悪魔ボス戦など、大規模なコンテンツが追加されます。",
+        "releases.4.dev": "Blizzard Entertainment",
+        "releases.5.game": "英雄伝説 空の軌跡SC (Trails in the Sky 2nd Chapter)",
+        "releases.5.note": "9月16日にSteamを通じてリリースされる、古典的名作ストーリーRPGシリーズの第2章です。",
+        "releases.5.dev": "日本ファルコム",
+        "events.0.name": "ワールド オブ ウォークラフト：フォーエバー ディープダイブセッション",
+        "events.0.note": "BlizzCon 2026にて『WoW: Forever』の新システム（専門技能、外見変更など）の詳細情報を公開",
+        "events.0.venue": "オンライン",
+        "events.1.name": "ワールド オブ ウォークラフト：フォーエバー ベータテスト",
+        "events.1.note": "アゼロスを舞台にしたClassic+の新作『WoW: Forever』のクローズド／オープンベータテストを実施",
+        "events.1.venue": "オンライン"
+      },
+      "briefing": {
+        "items.0.title": "Gen.G、Hanwha Lifeを破りLCK通算7度目の優勝を達成",
+        "items.0.source": "Inven",
+        "items.0.time": "9月13日",
+        "items.1.title": "Blizzard、次回作『ディアブロ V』を2029年に発売すると発表",
+        "items.1.source": "GameMeca",
+        "items.1.time": "9月13日",
+        "items.2.title": "『スタークラフト』オープンワールドシューター新作、2030年に発売",
+        "items.2.source": "IGN India",
+        "items.2.time": "9月13日",
+        "items.3.title": "Blizzard、『WoW: Forever』のサプライズ発表でオープニングを飾る",
+        "items.3.source": "IGN India",
+        "items.3.time": "9月13日",
+        "items.4.title": "『MELTY BLOOD: TWI-LUMINA』、2027年4月発売へ",
+        "items.4.source": "4Gamer",
+        "items.4.time": "9月12日",
+        "items.5.title": "『アイドルマスター SideM』、Switch 2向け新作の制作が決定",
+        "items.5.source": "Famitsu",
+        "items.5.time": "9月13日",
+        "items.6.title": "『HotS』、6年ぶりの新ヒーロー「ザラタス」をサプライズ公開",
+        "items.6.source": "IGN",
+        "items.6.time": "9月13日"
+      },
+      "drk": {
+        "title": "過去の遺産で未来を描くBlizzardの勝負手",
+        "intro": "23年ぶりの新キャンペーンから2030年の新作ロードマップまで、なぜBlizzardは再び古き良き遺産にこだわるのでしょうか？ 過去IPの焼き直しか、それとも新たな黄金期へ向けた足がかりなのかを考察します。",
+        "points": "BlizzCon 2026を皮切りに、BlizzardはクラシックIPの大々的な復活を宣言しました。23年ぶりとなる『ウォークラフトIII』の新規キャンペーンや『Heroes of the Storm』のアップデートはもちろん、『スタークラフト』のオープンワールドシューターから『ディアブロ V』に至る長期ロードマップを立て続けに公開し、コミュニティの注目を一気に集めました。🏛️\n\nこうした動きは、近年新規IP開発のリスクが極限まで高まっている世界的なゲーム市場の現状を如実に反映しています。実績のある世界観を再活性化させて既存ファンのロイヤルティを結集させるアプローチは、マーケティングコストを抑えつつ初期の定着率を最大化する**消費者心理**に基づいた安全確実な戦略です。とりわけ、長らく放置されていたタイトルへのサポートを再開したことは、ライブサービスの継続性に不安を抱いていたユーザーに対して強力な信頼のシグナルを送ったと言えます。📉\n\n結局のところ、鍵を握るのは過去のノスタルジーにとどまらず、現代的なゲームプレイへと昇華できるかどうかにあります。ユーザーが真に求めているのは、形骸化した思い出の再包装ではなく、**時代を先取りしていた世界観が最新の技術と融合することによってもたらされる、新たなプレイ体験**です。🎮\n\n原典の栄光を胸に刻む世代と、新たなゲーム体験を求める次世代ゲーマーの双方を満足させることができるでしょうか？ 2030年へと続くBlizzardの壮大なタイムラインが証明すべき試練は、今まさに始まったばかりです。🧭"
+      },
+      "meme": {
+        "what_happened": "「DLSS 5のクオリティにみんな文句つけすぎだろ」という皮肉混じりのタイトルとともに、過度なAIアップスケーリングによって少女マンガのように過剰にキラキラしたビジュアルへと歪められた『スター・ウォーズ』のアナキンとパドメのミームが投稿され、大きな笑いを誘いました。",
+        "one_liner": "この調子じゃ、将来フレームレートを少し稼ごうとDLSSをオンにしただけで、渋いマッチョ主人公が強制的にK-POPアイドル顔に整形されちゃいそうですね。🤣✨"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "블리자드가 다시 '과거'를 꺼내든 진짜 승부수 ⏳ (feat. 오늘의 밈 🤣)",
+    "en": "Why Blizzard is Betting Its Entire Future on Nostalgia ⏳ (feat. Meme of the Day 🤣)",
+    "ja": "ブリザードが今あえて「過去の栄光」に賭けるワケ ⏳ (feat. 今日のミーム 🤣)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "블리자드 팬분들 지금 소리 지를 준비되셨나요?! 😱\n무려 '스타크래프트' 오픈월드 슈터 신작 소식이 깜짝 공개됐대요! 🚀\n\nhttps://www.gtplayer.net/edition-124/\n#스타크래프트 #디아블로5 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-14T07:01:33.394095"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "9월 14일 오늘의 게임 소식 🎮 블리자드가 꺼내든 파격적인 미래 로드맵!\n\n📰 [뉴스] 젠지 LCK 7회 우승 달성 및 디아블로 5·스타 신작 깜짝 발표\n📅 [출시] 워크래프트 3: 리포지드, 디아블로 4, 하늘의 궤적 SC 등\n✍️ [인사이트] 과거의 유산으로 미래를 설계하는 블리자드의 진짜 승부수\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#GTPlayer #게임뉴스 #게임정보 #신작게임 #게임추천 #블리자드 #디아블로5 #스타크래프트 #월드오브워크래프트 #와우 #젠지 #LCK #리그오브레전드 #디아블로4 #워크래프트 #게임덕후 #게임스타그램 #게이머 #PC게임 #콘솔게임",
+          "image_paths": [
+            "web\\instagram\\edition_124\\card_cover.png",
+            "web\\instagram\\edition_124\\card_news.png",
+            "web\\instagram\\edition_124\\card_calendar.png",
+            "web\\instagram\\edition_124\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3985569378565596508_39332818166",
+            "url": "https://www.instagram.com/p/DdPlju9E6Vc/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-14T07:02:01.609015"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Why Blizzard is Betting Its Entire Future on Nostalgia ⏳ (feat. Meme of the Day 🤣)\n\nBlizzard just shook the gaming world by unveiling Diablo 5 and a brand-new open-world StarCraft shooter.\nHere is why the legendary studio is staking its entire long-term roadmap on the power of its classic universes.\n\nhttps://www.gtplayer.net/edition-124-en/",
+        "error": null
+      },
+      "updated_at": "2026-09-14T07:02:42.814232"
+    }
+  }
+}

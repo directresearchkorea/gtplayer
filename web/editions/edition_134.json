@@ -1,0 +1,444 @@
+{
+  "num": "134",
+  "date": "2026-09-28",
+  "status": "published",
+  "schedule": {
+    "date": "2026-09-28",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "마인크래프트 던전스 2",
+          "dev": "모장 스튜디오",
+          "date": "9월 29일(화)",
+          "platforms": [
+            "PC",
+            "Xbox Series X/S",
+            "PS5",
+            "Switch 2"
+          ],
+          "color": "#10b981",
+          "note": "9월 29일 정식 출시되는 협동 액션 던전 크롤러 신작으로, 신규 차원 '시프트(Sift)'와 점프 액션이 도입된 4인 멀티플레이를 지원합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/1912410/Minecraft_Dungeons_II/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "트랜스포트 피버 3",
+          "dev": "어반 게임즈",
+          "date": "9월 29일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 29일 정식 출시되는 교통 경영 시뮬레이션 신작으로, 철도·도로·해운·항공 인프라를 구축해 물류망을 확장하는 재미를 제공합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3493540/Transport_Fever_3/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "니발리스 나이츠",
+          "dev": "아이온 랜드",
+          "date": "9월 29일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 29일 출시되는 사이버펑크 생활 시뮬레이션 게임으로, 미래 도시 니발리스에서 식당을 운영하고 밤 문화를 탐험하는 콘텐츠를 담았습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/1488490/Nivalis_Nights/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "진·삼국무쌍 3: 컴플리트 에디션 리마스터",
+          "dev": "코에이 테크모 게임즈",
+          "date": "9월 30일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 30일 출시되는 명작 택티컬 액션 리마스터작으로, 그래픽 및 편의성 개선과 함께 본편 및 확장팩 콘텐츠를 모두 담아 선보입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3841510/DYNASTY_WARRIORS_3_Complete_Edition_Remastered/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "송스 오브 글리머윅",
+          "dev": "이스트쉐이드 스튜디오",
+          "date": "9월 30일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 30일 출시되는 스토리 중심의 마법 학원 RPG로, 음악으로 마법을 연주하고 정원을 가꾸며 학원 생활을 즐길 수 있습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/1706510/Songs_of_Glimmerwick/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "라디오솔",
+          "dev": "레트로 스튜디오 인터랙티브",
+          "date": "9월 30일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 30일 정식 출시되는 공상과학 SF 어드벤처 신작으로, 신비로운 전파 신호를 추적하며 잃어버린 식민지의 미스터리를 풀어나가게 됩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2934330/RADIOSOL/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "인도 게임 개발자 컨퍼런스 2026",
+          "note": "",
+          "venue": "인도 (장소 미정)",
+          "date": "2026-11-01~2026-11-30",
+          "tag": "오프라인 행사",
+          "d_day_str": "D-34",
+          "website": "https://www.igdc.in"
+        },
+        {
+          "name": "지스타 2026",
+          "note": "",
+          "venue": "한국 부산 벡스코",
+          "date": "2026-11-18~2026-11-22",
+          "tag": "오프라인 행사",
+          "d_day_str": "D-51",
+          "website": "https://www.gstar.or.kr"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'마인즈아이' 개발사 빌드 어 로켓 보이, 법정 관리 신청",
+          "source": "게임메카",
+          "time": "9월 28일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1781050"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "아시안게임 대전격투 韓 대표팀, 일본 꺾고 극적 금메달",
+          "source": "인벤",
+          "time": "9월 27일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=321458"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "마베러스, '목장이야기' 첫 MR 신작 2027년 봄 출시 발표",
+          "source": "電撃オンライン",
+          "time": "9월 27일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202609/89260"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "반다이남코 '신듀얼리티', 온라인 종료 후 오프라인 전환",
+          "source": "電撃オンライン",
+          "time": "9월 27일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202609/89238"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "마인크래프트, 14년 만의 신규 차원 '시프트' 깜짝 공개",
+          "source": "IGN India",
+          "time": "9월 27일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/minecraft/272933/minecraft-is-getting-its-first-new-dimension-in-over-14-years"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "포트나이트, 핼러윈 맞아 '프레디의 피자가게' 콜라보 발표",
+          "source": "IGN India",
+          "time": "9월 27일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/fortnite/272953/fortnite-official-five-nights-at-freddys-joins-fortnitemares-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "MS CEO, 대규모 감원 속 엑스박스 슬림화 \"보기 좋다\" 논란",
+          "source": "PC Gamer",
+          "time": "9월 27일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/gaming-industry/microsoft-ceo-says-xboxs-streamlining-process-is-great-to-see-following-its-most-recent-round-of-layoffs/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "서버가 꺼진 뒤 남겨진 것: 라이브 서비스와 게임 소유권의 재정의",
+      "intro": "수백 시간을 쏟아부은 당신의 게임은 서버가 닫히면 어디로 사라질까요? 🎮\n반다이남코 '신듀얼리티'의 이례적인 오프라인 전환 결정이 던진 묵직한 화두를 들여다봅니다.",
+      "points": "반다이남코의 메카 슈터 '신듀얼리티'가 온라인 서비스 종료 발표와 동시에 싱글 플레이 중심의 오프라인 모드 전환을 확정했습니다. 🛠️ 대다수 라이브 서비스 게임이 수익성 악화 시 일방적인 서버 셧다운과 함께 디지털 폐기물로 전락하던 관행에 비추어 볼 때, 매우 이례적이면서도 과감한 결정입니다.\n\n이 사건은 최근 글로벌 게임계의 뜨거운 감자인 '디지털 게임 소비 구조'와 소유권 논쟁에 새로운 기준을 제시합니다. 📉 유저들은 '게임을 온전히 소유하지 못하고 대여하고 있다'는 피로감 속에서 라이브 서비스 신작 진입을 주저하는 경향을 보여왔습니다. 이번 조치는 잔존 플레이어들에게 박탈감 대신 플레이 경험의 지속성을 보장함으로써, 무너질 뻔한 퍼블리셔의 신뢰 자산을 지켜내는 **소비자 심리 방어 전략**으로 해석할 수 있습니다.\n\n수많은 게임이 쏟아지는 범람의 시대, **'서버가 닫힌 후에도 내가 지불한 가치가 보존되는가'**는 유저가 지갑을 여는 핵심 평가 기준이 되었습니다. 이제 라이브 서비스의 기획 단계부터 서버 종료 시점의 '오프라인 아카이빙 퇴장로'를 설계하는 것은 단순한 팬서비스를 넘어 브랜드 생존을 위한 필수 역량이 되고 있습니다. 🏛️\n\n출구 전략이 준비되지 않은 라이브 서비스는 더 이상 똑똑해진 게이머들의 선택을 받기 어렵습니다. 여러분이 지금 플레이하고 있는 온라인 게임은, 마지막 날이 찾아왔을 때 어떤 모습으로 기억될 준비를 하고 있습니까? 💭"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": true,
+      "items": [],
+      "title": "Nine months ago I showed r/gaming my ridiculous idea of turning pinball into a vertical climbing game. Today, Fallosophy is finally out.",
+      "score": 38433,
+      "url": "https://i.redd.it/15t84lwotorh1.gif",
+      "preview_img": "https://i.redd.it/15t84lwotorh1.gif",
+      "permalink": "https://redd.it/1wpzvcw",
+      "subreddit": "gaming",
+      "author": "OneThatEatYou",
+      "num_comments": 0,
+      "what_happened": "\"9개월 전 핀볼을 수직 등반 게임으로 만들겠다던 제 황당한 아이디어 기억하시나요? 드디어 정식 출시했습니다!\"라며 한 인디 개발자가 신작 'Fallosophy'를 공개했습니다. 핀볼 패들로 아슬아슬하게 튕겨 올라가다 삐끗하면 바닥까지 굴러떨어질 게 뻔히 보이는 '태초마을' 비주얼이 수많은 게이머들의 도전욕과 PTSD를 동시에 자극하며 화제가 되었습니다.",
+      "one_liner": "보기만 해도 혈압 오르는 이 핀볼 항아리 게임, 제발 패들 헛스윙만 안 나오길 빕니다... 🕹️😱"
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Minecraft Dungeons 2",
+        "releases.0.note": "A new co-op action dungeon crawler officially releasing on September 29, featuring 4-player multiplayer with the new 'Sift' dimension and jump actions.",
+        "releases.0.dev": "Mojang Studios",
+        "releases.1.game": "Transport Fever 3",
+        "releases.1.note": "A new transport simulation game officially launching on September 29, offering the joy of expanding logistics networks by developing rail, road, maritime, and air infrastructure.",
+        "releases.1.dev": "Urban Games",
+        "releases.2.game": "Nivalis Nights",
+        "releases.2.note": "A cyberpunk slice-of-life simulation game releasing on September 29, featuring content where players manage restaurants and explore the nightlife of the futuristic city of Nivalis.",
+        "releases.2.dev": "ION LANDS",
+        "releases.3.game": "Dynasty Warriors 3: Complete Edition Remaster",
+        "releases.3.note": "A remaster of the classic tactical action title releasing on September 30, offering graphical and quality-of-life upgrades alongside all content from both the base game and expansions.",
+        "releases.3.dev": "Koei Tecmo Games",
+        "releases.4.game": "Songs of Glimmerwick",
+        "releases.4.note": "A story-driven magic academy RPG releasing on September 30, where players cast magic through music, tend gardens, and enjoy school life.",
+        "releases.4.dev": "Eastshade Studios",
+        "releases.5.game": "Radiosol",
+        "releases.5.note": "A new sci-fi adventure game officially releasing on September 30, where players track mysterious radio signals to unravel the secrets of a lost colony.",
+        "releases.5.dev": "Retro Studio Interactive",
+        "events.0.name": "India Game Developer Conference 2026",
+        "events.0.venue": "India (Venue TBD)",
+        "events.1.name": "G-STAR 2026",
+        "events.1.venue": "BEXCO, Busan, South Korea"
+      },
+      "briefing": {
+        "items.0.title": "'MindsEye' Developer Build A Rocket Boy Files for Administration",
+        "items.0.source": "Gamemeca",
+        "items.0.time": "September 28",
+        "items.1.title": "South Korean Fighting Game Team Dramatically Defeats Japan to Claim Asian Games Gold",
+        "items.1.source": "Inven",
+        "items.1.time": "September 27",
+        "items.2.title": "Marvelous Announces First 'Story of Seasons' MR Title Scheduled for Spring 2027",
+        "items.2.source": "Dengeki Online",
+        "items.2.time": "September 27",
+        "items.3.title": "Bandai Namco's 'Synduality' to Transition to Offline Play Following Online Service Shutdown",
+        "items.3.source": "Dengeki Online",
+        "items.3.time": "September 27",
+        "items.4.title": "Minecraft Surprise-Reveals 'Sift', Its First New Dimension in 14 Years",
+        "items.4.source": "IGN India",
+        "items.4.time": "September 27",
+        "items.5.title": "Fortnite Announces Halloween Collaboration with 'Five Nights at Freddy's'",
+        "items.5.source": "IGN India",
+        "items.5.time": "September 27",
+        "items.6.title": "Microsoft CEO Stirs Controversy by Calling Streamlined Xbox 'Great to See' Amid Mass Layoffs",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "September 27"
+      },
+      "drk": {
+        "title": "What Remains After the Servers Go Dark: Live Services and Redefining Game Ownership",
+        "intro": "Where does a game you poured hundreds of hours into disappear once its servers shut down? 🎮\nWe examine the profound questions raised by Bandai Namco's unusual decision to transition 'Synduality' into an offline title.",
+        "points": "Bandai Namco's mecha shooter 'Synduality' announced the termination of its online service while simultaneously confirming an offline transition centered on single-player mode. 🛠️ Considering the prevailing practice where most live-service games deteriorate into digital waste through unilateral shutdowns when profitability declines, this is an exceptionally rare and bold decision.\n\nThis move establishes a new benchmark for the ongoing debate over digital game consumption models and ownership—a hot-button issue across the global gaming landscape. 📉 Exhausted by the reality of 'renting rather than truly owning games,' players have increasingly hesitated to commit to new live-service titles. By guaranteeing continuity for remaining players rather than leaving them empty-handed, this approach can be viewed as a **consumer sentiment defense strategy** that salvages a publisher's nearly compromised trust.\n\nIn an age inundated with game releases, **'Will the value I paid for endure even after the servers shut down?'** has emerged as a crucial standard for players when deciding to open their wallets. Planning an 'offline archival exit route' right from the pre-production phase of a live-service game is no longer just fan service—it is becoming an essential capability for brand survival. 🏛️\n\nA live-service game with no exit strategy will struggle to earn the trust of today's discerning players. As for the online games you are enjoying right now, how are they preparing to be remembered when their final day comes? 💭"
+      },
+      "meme": {
+        "what_happened": "\"Remember my absurd pitch 9 months ago to turn pinball into a vertical climbing game? It's finally out!\" An indie developer announced their new title 'Fallosophy'. The visuals—where a single mistimed bounce on the flippers sends you tumbling all the way back to square one—became a hot topic, simultaneously fueling gamers' competitive spirits and their PTSD.",
+        "one_liner": "Just watching this pinball 'Getting Over It'-style game sends my blood pressure through the roof; please, just don't whiff on the flippers... 🕹️😱"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "マインクラフト ダンジョンズ 2",
+        "releases.0.note": "9月29日に正式リリースされる協力型アクションダンジョンクローラーの新作。新たな次元「Sift」やジャンプアクションが導入され、4人マルチプレイに対応しています。",
+        "releases.0.dev": "Mojang Studios",
+        "releases.1.game": "Transport Fever 3",
+        "releases.1.note": "9月29日に正式リリースされる交通経営シミュレーションの新作。鉄道・道路・海運・航空のインフラを構築し、物流ネットワークを拡大する楽しさを提供します。",
+        "releases.1.dev": "Urban Games",
+        "releases.2.game": "Nivalis Nights",
+        "releases.2.note": "9月29日にリリースされるサイバーパンクライフシミュレーションゲーム。未来都市ニヴァリスでレストランを経営し、夜のカルチャーを探索するコンテンツが盛り込まれています。",
+        "releases.2.dev": "ION LANDS",
+        "releases.3.game": "真・三國無双3 Complete Edition Remaster",
+        "releases.3.note": "9月30日にリリースされる名作タクティカルアクションのリマスター版。グラフィックや利便性の向上とともに、本編および拡張パックのコンテンツをすべて収録して登場します。",
+        "releases.3.dev": "コーエーテクモゲームス",
+        "releases.4.game": "Songs of Glimmerwick",
+        "releases.4.note": "9月30日にリリースされるストーリー主導の魔法学園RPG。音楽で魔法を奏で、庭の手入れをしながら学園生活を楽しむことができます。",
+        "releases.4.dev": "Eastshade Studios",
+        "releases.5.game": "Radiosol",
+        "releases.5.note": "9月30日に正式リリースされるSFアドベンチャーの新作。神秘的な電波信号を追跡し、失われた植民地の謎を解き明かしていきます。",
+        "releases.5.dev": "Retro Studios Interactive",
+        "events.0.name": "インドゲーム開発者会議（IGDC）2026",
+        "events.0.venue": "インド（会場未定）",
+        "events.1.name": "G-STAR 2026",
+        "events.1.venue": "韓国・釜山 BEXCO"
+      },
+      "briefing": {
+        "items.0.title": "『MindsEye』開発元Build A Rocket Boy、法的管理を申請",
+        "items.0.source": "ゲームメッカ",
+        "items.0.time": "9月28日",
+        "items.1.title": "アジア競技大会の格闘ゲーム韓国代表、日本を破り劇的な金メダル",
+        "items.1.source": "インベン",
+        "items.1.time": "9月27日",
+        "items.2.title": "マーベラス、『牧場物語』初のMR新作を2027年春発売と発表",
+        "items.2.source": "電撃オンライン",
+        "items.2.time": "9月27日",
+        "items.3.title": "バンダイナムコ『SYNDUALITY』、オンライン終了後にオフライン版へ移行",
+        "items.3.source": "電撃オンライン",
+        "items.3.time": "9月27日",
+        "items.4.title": "『Minecraft』、14年ぶりの新ディメンション「Sift」をサプライズ発表",
+        "items.4.source": "IGN India",
+        "items.4.time": "9月27日",
+        "items.5.title": "『フォートナイト』、ハロウィンに向けて『Five Nights at Freddy's』コラボを発表",
+        "items.5.source": "IGN India",
+        "items.5.time": "9月27日",
+        "items.6.title": "MS CEO、大規模な人員削減の中でXboxのスリム化を「見ていて気持ちがいい」と発言し物議",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "9月27日"
+      },
+      "drk": {
+        "title": "サーバー停止後に残されるもの：ライブサービスとゲーム所有権の再定義",
+        "intro": "数百時間を費やしたあなたのゲームは、サーバーが閉じられたらどこへ消えてしまうのでしょうか？ 🎮\nバンダイナムコ『SYNDUALITY』の異例となるオフライン移行の決定が投げかけた重いテーマを掘り下げます。",
+        "points": "バンダイナムコのメカシューター『SYNDUALITY』が、オンラインサービス終了の発表と同時にシングルプレイ主体のオフラインモードへの移行を確定させました。🛠️ 多くのライブサービスゲームが収益性悪化の際に一方的なサーバー停止とともにデジタル廃棄物と化してきた慣行に照らし合わせると、極めて異例かつ大胆な決断です。\n\nこの出来事は、最近世界のゲーム業界で熱い議論が交わされている「デジタルゲームの消費構造」と所有権の論争に新たな基準を提示しています。📉 プレイヤーは「ゲームを完全に所有できず、レンタルしているに過ぎない」という疲労感から、新規ライブサービスへの参入を躊躇する傾向を見せてきました。今回の措置は、残されたプレイヤーに喪失感ではなくプレイ体験の持続性を保証することで、崩れかけていたパブリッシャーへの信頼という資産を守り抜く**消費者心理防衛戦略**と解釈することができます。\n\n無数のゲームが溢れかえる時代において、**「サーバー停止後も自分が支払った価値は保持されるのか」**は、ユーザーが財布を開く際の重要な判断基準となりました。もはやライブサービスの企画段階からサービス終了時の「オフラインアーカイブという出口戦略」を設計することは、単なるファンサービスを超え、ブランド生存のための必須能力になりつつあります。🏛️\n\n出口戦略が用意されていないライブサービスは、賢くなったゲーマーたちから選ばれ続けることは難しくなるでしょう。あなたが今プレイしているオンラインゲームは、最後の日が訪れたとき、どのような姿で記憶される準備をしていますか？ 💭"
+      },
+      "meme": {
+        "what_happened": "「9ヶ月前にピンボールを垂直登頂ゲームにするという突飛なアイデアを話したのを覚えていますか？ ついに正式リリースしました！」と、あるインディー開発者が新作『Fallosophy』を公開しました。ピンボールのパドルで危なっかしく跳ね上がり、少しのミスでどん底まで転落することが目に見えている「始まりの村」のような光景が、多くのゲーマーの挑戦意欲とPTSDを同時に刺激し、大きな話題を呼びました。",
+        "one_liner": "見ているだけで血圧が上がるこのピンボール壺男ゲーム、どうかパドルの空振りだけは起きませんように… 🕹️😱"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "서버 꺼지면 내 게임도 증발?! 🔌 게임 소유권의 위기 (feat. 오늘의 밈 😂)",
+    "en": "Servers shut down, and our games are GONE? 🔌 (feat. Meme of the Day 😂)",
+    "ja": "サバ終したらゲームも消滅…!? 🔌 ゲーム所有権の行方（feat. 今日の爆笑ミーム😂）"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "열심히 질러둔 내 게임, 서버 꺼지면 다 날아가는 거 아시나요? 🔌\n마인크래프트 14년 만의 신규 차원 공개 소식까지 꽉 채워왔어요! 🎮\n\nhttps://www.gtplayer.net/edition-134/\n#마인크래프트 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-28T07:01:28.026199"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "9월 28일 오늘의 게임 소식 🎮 서버 꺼지면 내 게임도 증발할까?!\n📰 [뉴스] 마인크래프트 14년 만의 신규 차원 공개 및 e스포츠 격투게임 韓 금메달 소식\n📅 [출시] 마인크래프트 던전스 2, 진·삼국무쌍 3 리마스터 등 이번 주 신작 라인업\n✍️ [인사이트] 섭종하면 끝? 신듀얼리티의 오프라인 전환으로 본 게임 소유권의 위기\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#gtplayer #게임뉴스 #게임스타그램 #신작게임 #게임추천 #마인크래프트 #마인크래프트던전스2 #진삼국무쌍 #게이머 #콘솔게임 #스팀게임 #PC게임 #e스포츠 #게임이슈 #게임덕후 #게임소식 #닌텐도스위치 #플레이스테이션 #엑스박스 #인디게임",
+          "image_paths": [
+            "web\\instagram\\edition_134\\card_cover.png",
+            "web\\instagram\\edition_134\\card_news.png",
+            "web\\instagram\\edition_134\\card_calendar.png",
+            "web\\instagram\\edition_134\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3995716205541588244_39332818166",
+            "url": "https://www.instagram.com/p/Ddzorf-k_0U/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-28T07:01:57.346976"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Servers shut down, and our games are GONE? 🔌 (feat. Meme of the Day 😂)\n\nWhat really happens to your favorite titles when online services vanish, and can offline modes save our digital ownership?\nFrom Minecraft unveiling its first new dimension in 14 years to dramatic esports victories, here is this week's biggest gaming news.\n\nhttps://www.gtplayer.net/edition-134-en/",
+        "error": null
+      },
+      "updated_at": "2026-09-28T07:02:39.726339"
+    }
+  }
+}

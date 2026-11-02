@@ -1,0 +1,495 @@
+{
+  "num": "128",
+  "date": "2026-09-18",
+  "status": "published",
+  "schedule": {
+    "date": "2026-09-18",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "데이브 더 다이버 모바일",
+          "dev": "민트로켓",
+          "date": "9월 17일(목)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "9월 17일 글로벌 시장에 정식 출시된 해양 탐험 및 초밥집 경영 하이브리드 어드벤처의 모바일 버전입니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780646",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "스페셜포스 리마스터",
+          "dev": "드래곤플라이",
+          "date": "9월 17일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 17일 언리얼 엔진 5로 그래픽과 시스템을 전면 개편해 정식 서비스를 시작한 명작 온라인 FPS 게임입니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780642",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "셰이프 오브 드림즈",
+          "dev": "리자드 스무디",
+          "date": "9월 17일(목)",
+          "platforms": [
+            "Xbox Series X/S",
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 17일 1주년 업데이트와 함께 Xbox 콘솔 플랫폼으로 정식 출시되며 게임패스 데이원에 합류했습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=321105",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "루미마스터",
+          "dev": "빌리빌리 게임",
+          "date": "9월 17일(목)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "9월 17일 정식 출시된 몬스터 테이밍 RPG로, 100종 이상의 몬스터를 수집하고 육성하는 캐주얼 모바일 게임입니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780637",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "엔드리스 레전드 2",
+          "dev": "앰플리튜드 스튜디오",
+          "date": "9월 18일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "얼리 액세스를 마치고 9월 18일 PC 플랫폼을 통해 1.0 버전으로 정식 출시된 4X 판타지 턴제 전략 게임입니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/endless-legend-2/272192/endless-legend-2-official-version-10-launch-trailer",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "event",
+          "game": "월드 오브 워크래프트: 포에버",
+          "dev": "블리자드 엔터테인먼트",
+          "date": "9월 18일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#6366f1",
+          "note": "9월 18일부터 진행되는 월드 오브 워크래프트 클래식 기반 신규 프로젝트의 글로벌 베타 테스트입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-beta-launch-times-how-to-sign-up-and-play-blizzards-twist-on-wow-classic/",
+          "source_name": "PC Gamer"
+        }
+      ],
+      "events": [
+        {
+          "name": "도쿄게임쇼 2026 (TGS 2026)",
+          "note": "글로벌 주요 게임사 신작 시연 및 쇼케이스 진행",
+          "venue": "일본 치바 마쿠하리 멧세",
+          "date": "2026-09-17 ~ 2026-09-21",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=321095"
+        },
+        {
+          "name": "SD건담 지제네레이션 이터널 공식 생방송",
+          "note": "향후 로드맵 등 최신 정보 공개 라이브",
+          "venue": "온라인",
+          "date": "2026-09-23",
+          "tag": "쇼케이스",
+          "website": "https://dengekionline.com/article/202609/88340"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "넥슨 '템빨: 오버기어드', 10월 1일 사전등록 시작",
+          "source": "게임메카",
+          "time": "9월 17일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780645"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "엔씨 '아스트라에 오라티오', TGS 첫 시연 1시간 대기",
+          "source": "인벤",
+          "time": "9월 17일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=321085"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "3D 액션 '기동경찰 패트레이버' 신작 스팀 등 정식 발매",
+          "source": "4Gamer",
+          "time": "9월 17일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/992/G099296/20260917075/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "산리오 '플라가리아 메모리즈', 2027년 모바일 출시",
+          "source": "4Gamer",
+          "time": "9월 17일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/959/G095956/20260917072/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "액티비전, '모던 워페어 4' 시리즈 공식 완결 선언",
+          "source": "IGN India",
+          "time": "9월 17일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/call-of-duty-2025-unofficial-name/272193/activision-calls-call-of-duty-modern-warfare-4-the-epic-conclusion-leaving-fans-wondering-whats-next"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "락스타, 'GTA 6' 출시 이후에도 GTA 온라인 지원 유지",
+          "source": "IGN India",
+          "time": "9월 17일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/grand-theft-auto-online/272176/gta-online-will-be-supported-beyond-gta-6-release-pc-becoming-more-and-more-important"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "EU, 미성년자 보호 명목 온라인 게임 강력 규제 법안 발의",
+          "source": "GamesIndustry.biz",
+          "time": "9월 17일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/draft-of-new-eu-law-proposes-sweeping-restrictions-on-online-games"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "차기작이 나와도 세계는 닫히지 않는다: 영속화되는 라이브 서비스 🌐",
+      "intro": "10년 넘게 축적된 거대한 디지털 세계는 차세대 신작 앞에서도 문을 닫지 않습니다.\n과거의 흥행 공식이었던 '후속작에 의한 세대교체'는 왜 라이브 서비스 시대에 무력해졌을까요?",
+      "points": "락스타 게임즈가 'GTA 6' 출시 이후에도 기존 'GTA 온라인'의 지원을 유지하겠다고 발표했습니다. 🎮 블리자드 역시 '월드 오브 워크래프트: 포에버'를 통해 클래식 경험의 영속화를 꾀하고 있으며, 이는 신작 출시가 곧 기존 세계의 종말을 의미하던 과거 콘솔·PC 패키지 중심의 세대교체 공식이 완전히 붕괴했음을 보여주는 상징적 장면입니다.\n\n이러한 흐름은 현대 게이머의 **게임 소비 구조**와 심리에 직접적인 영향을 미칩니다. 👥 수년간 축적한 자산과 인간관계가 초기화되는 것을 극도로 꺼리는 유저들에게 구작의 존속은 강력한 심리적 안전장치가 됩니다. 개발사 역시 신작 적응에 실패한 유저의 완전 이탈을 방지하고, 단일 IP 안에서 신·구 세대의 매출 파이프라인을 동시에 가동하는 플랫폼 안정성을 확보하게 됩니다.\n\n이제 대형 IP는 단순한 일회성 소프트웨어가 아니라 **자체적인 사회를 형성한 가상 플랫폼**으로 기능하고 있습니다. 🏛️ 압도적인 기술 혁신이 담긴 신작이 등장하더라도, 이미 거대한 경제와 커뮤니티가 정착된 터전을 강제로 허물 이유는 없습니다. 결국 미래 게임 산업의 핵심은 '차기작으로의 일방적 강제 이전'이 아닌, **'세대별 경험의 병렬적 공존'**을 얼마나 유연하게 설계하느냐에 달려 있습니다.\n\n새로운 기술이 약속하는 신세계와 익숙한 손때가 묻은 구세계의 공존은 과연 시너지를 낼 수 있을까요? 🧭 분산된 유저 풀 속에서 두 개의 거대한 세계를 동시에 지탱해야 할 개발사들의 정교한 운영 능력이 시험대에 올랐습니다."
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "마인드캅",
+      "url": "https://store.epicgames.com/ko/p/mindcop-78e6c1",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-kplp1.jpg",
+      "comment": "🎁 **에픽게임즈 이번 주 무료 배포 (~9월 25일 00:00까지)**\n- **마인드캅**: 실시간 3매치 퍼즐과 추리가 결합된 독특한 수사 어드벤처입니다. 용의자의 마음에 침투해 거짓을 간파하고 숨겨진 진실을 밝혀내는 깊이 있는 스토리를 즐겨보세요.\n- **Shogun Showdown**: 턴제 전투 기반의 로그라이크 덱 빌딩 수작입니다. 정교한 타일 콤보와 전략적인 위치 선정을 통해 쇼군을 쓰러뜨리는 묵직한 손맛을 제공합니다.\n\n🔮 **Next Week**: 다음 주에는 독창적인 주사위 덱 빌딩 로그라이크 **'Astrea Six Sided Oracles'**가 무료 배포될 예정입니다.\n\n🎮 **스팀 주말 특가**: 오픈월드 액션의 명작 **'Grand Theft Auto V 인핸스드'**를 9월 22일 02:00까지 50% 할인된 조건으로 만나보실 수 있습니다.",
+      "steam_deal": {
+        "type": "deal",
+        "name": "Grand Theft Auto V 인핸스드",
+        "app_id": 3240220,
+        "url": "https://store.steampowered.com/app/3240220",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header_koreana.jpg?t=1781187782",
+        "discount_percent": 50,
+        "original_price": 3679000,
+        "final_price": 1839000,
+        "end_date": "2026-09-22 02:00"
+      },
+      "epic_current": [
+        {
+          "title": "마인드캅",
+          "description": "마인드캅은 깊은 스토리와 실시간 3 매치 퍼즐을 결합한 퍼즐 어드벤처 속에서 \"후더닛(누가 했는가)\"을 밝혀내는 비선형적 사건 수사 게임입니다. 악명 높은 마인드캅이 되어 용의자들의 마음속에 침투하고 거짓을 간파하며, 그들이 숨기고 싶어 하는 비밀들을 밝혀내세요.",
+          "url": "https://store.epicgames.com/ko/p/mindcop-78e6c1",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-kplp1.jpg",
+          "end_date": "2026-09-25 00:00"
+        },
+        {
+          "title": "Shogun Showdown",
+          "description": "Shogun Showdown is a turn-based combat game with rogue-like and deck-building elements. Position yourself and attack at the right time, upgrade your tiles and combo them to get ready to face the Shogun!",
+          "url": "https://store.epicgames.com/ko/p/shogun-showdown-61832d",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-hz1yh.jpg",
+          "end_date": "2026-09-25 00:00"
+        }
+      ],
+      "epic_upcoming": [
+        {
+          "title": "Astrea Six Sided Oracles",
+          "description": "완전히 새로운 주사위 덱 빌딩 로그라이크 게임 Astera에서 6명의 용감한 선지자 중 한 명이 되어 잊혀진 문명의 폐허를 탐험하세요. 계속해서 변화하는 주사위 덱과 마법의 힘이 부여된 센티넬을 활용해 타락한 적들의 무리와 부패한 여신을 정화하고 항성계를 구하세요.",
+          "url": "https://store.epicgames.com/ko/p/astrea-six-sided-oracles-33c949",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/astrea-six-sided-oracles-offer-bvy0n.png",
+          "start_date": "2026-09-25 00:00"
+        }
+      ],
+      "epic_discounted": [
+        {
+          "title": "Astrea Six Sided Oracles",
+          "description": "완전히 새로운 주사위 덱 빌딩 로그라이크 게임 Astera에서 6명의 용감한 선지자 중 한 명이 되어 잊혀진 문명의 폐허를 탐험하세요. 계속해서 변화하는 주사위 덱과 마법의 힘이 부여된 센티넬을 활용해 타락한 적들의 무리와 부패한 여신을 정화하고 항성계를 구하세요.",
+          "url": "https://store.epicgames.com/ko/p/astrea-six-sided-oracles-33c949",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/astrea-six-sided-oracles-offer-bvy0n.png",
+          "end_date": "2026-09-18 08:59",
+          "discount_percent": 50
+        },
+        {
+          "title": "고스트러너 2",
+          "description": "고스트러너 2는 포스트 아포칼립스 사이버펑크 세계관에서 펼쳐지는 하드코어 1인칭 슬래시 액션 명작입니다. 1편에서 호평을 받았던 요소들과 더불어 더 화려해진 보스전, 생동감 있는 스토리, 짜릿한 난이도의 모터바이크 스테이지, 한층 강력해진 닌자 액션을 만나보세요. ",
+          "url": "https://store.epicgames.com/ko/p/ghostrunner-2",
+          "thumbnail": "com.epicgames.video://0f7cf270-5d4b-42de-a19e-6582bb97f30a?cover=https%3A%2F%2Fmedia-cdn.epicgames.com%2F67a5feb82a4e4afc9ded58edf3427937%2F67a5feb82a4e4afc9ded58edf3427937-00001-thumb.png",
+          "end_date": "2026-09-25 02:00",
+          "discount_percent": 20
+        }
+      ]
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Dave the Diver Mobile",
+        "releases.0.note": "The mobile adaptation of the hybrid marine exploration and sushi restaurant management adventure, officially launched in the global market on September 17.",
+        "releases.0.dev": "MINTROCKET",
+        "releases.1.game": "Special Force Remastered",
+        "releases.1.note": "A classic online FPS game that officially launched service on September 17 with an overhaul of its graphics and systems powered by Unreal Engine 5.",
+        "releases.1.dev": "Dragonfly",
+        "releases.2.game": "Shape of Dreams",
+        "releases.2.note": "Officially launched on Xbox console platforms alongside its 1st anniversary update on September 17, joining Game Pass on Day One.",
+        "releases.2.dev": "Lizard Smoothie",
+        "releases.3.game": "Lumimaster",
+        "releases.3.note": "A monster-taming RPG officially released on September 17, offering casual mobile gameplay where players collect and raise over 100 species of monsters.",
+        "releases.3.dev": "Bilibili Games",
+        "releases.4.game": "Endless Legend 2",
+        "releases.4.note": "A 4X fantasy turn-based strategy game that concluded Early Access and officially launched as version 1.0 on PC platforms on September 18.",
+        "releases.4.dev": "Amplitude Studios",
+        "releases.5.game": "World of Warcraft: Forever",
+        "releases.5.note": "A global beta test starting September 18 for a new project based on World of Warcraft Classic.",
+        "releases.5.dev": "Blizzard Entertainment",
+        "events.0.name": "Tokyo Game Show 2026 (TGS 2026)",
+        "events.0.note": "Demos and showcases of new titles from major global game companies",
+        "events.0.venue": "Makuhari Messe, Chiba, Japan",
+        "events.1.name": "SD Gundam G Generation Eternal Official Livestream",
+        "events.1.note": "Livestream revealing the latest updates, including future roadmaps",
+        "events.1.venue": "Online"
+      },
+      "briefing": {
+        "items.0.title": "Nexon's 'Overgeared' to Open Pre-Registration on October 1",
+        "items.0.source": "GameMeca",
+        "items.0.time": "September 17",
+        "items.1.title": "NCSoft's 'Astrae Oratio' Sees 1-Hour Queue for First TGS Demo",
+        "items.1.source": "Inven",
+        "items.1.time": "September 17",
+        "items.2.title": "New 3D Action 'Mobile Police Patlabor' Title Officially Released on Steam and Other Platforms",
+        "items.2.source": "4Gamer",
+        "items.2.time": "September 17",
+        "items.3.title": "Sanrio's 'Fragaria Memories' Set for Mobile Release in 2027",
+        "items.3.source": "4Gamer",
+        "items.3.time": "September 17",
+        "items.4.title": "Activision Officially Declares Conclusion of the 'Modern Warfare 4' Series",
+        "items.4.source": "IGN India",
+        "items.4.time": "September 17",
+        "items.5.title": "Rockstar to Continue Supporting GTA Online Even After 'GTA 6' Launch",
+        "items.5.source": "IGN India",
+        "items.5.time": "September 17",
+        "items.6.title": "EU Introduces Strict Online Gaming Regulation Bill to Protect Minors",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "September 17"
+      },
+      "drk": {
+        "title": "The World Does Not End When the Sequel Arrives: The Perpetuation of Live Services 🌐",
+        "intro": "Massive digital worlds built over more than a decade no longer shut their gates in front of next-generation sequels.\nWhy has the traditional success formula of 'generational transition via sequels' become obsolete in the live-service era?",
+        "points": "Rockstar Games announced that it will continue supporting the existing 'GTA Online' even after the release of 'GTA 6.' 🎮 Blizzard is also seeking to perpetuate the classic experience through 'World of Warcraft: Forever.' These represent a symbolic moment signaling the complete collapse of the past console and PC packaged-game formula, where the launch of a sequel inevitably meant the demise of the preceding world.\n\nThis shift directly impacts modern gamers' **consumption habits** and psychology. 👥 For players who deeply resist having years of accumulated assets and social networks wiped out, preserving older titles serves as a vital psychological safety net. For developers, it prevents churn among players who struggle to adapt to the new game, while securing platform stability by operating simultaneous monetization pipelines across both older and newer generations within a single IP.\n\nToday, major IPs function not merely as one-off software products, but as **virtual platforms that form their own societies**. 🏛️ Even when a technologically revolutionary sequel emerges, there is little reason to forcibly dismantle a thriving hub where a massive economy and community have already taken root. Ultimately, the crux of the future gaming industry lies not in 'forcing a one-sided migration to the next title,' but in how flexibly studios can design the **'parallel coexistence of generational experiences.'**\n\nCan the promising new world promised by cutting-edge technology truly create synergy with a familiar, time-tested old world? 🧭 Developers now face the test of executing sophisticated live operations capable of sustaining two massive worlds simultaneously amidst a divided player pool."
+      },
+      "epic": {
+        "title": "Mindcop",
+        "comment": "🎁 **Epic Games Free This Week (~Until September 24, 15:00 UTC)**\n- **Mindcop**: A distinctive detective adventure combining real-time match-3 puzzles with deductive reasoning. Dive into suspects' minds, uncover deceptions, and unravel the hidden truth through an engaging narrative.\n- **Shogun Showdown**: A masterful turn-based roguelike deckbuilder. Experience deeply satisfying tactical depth by lining up tile combos and strategically positioning your hero to defeat the Shogun.\n\n🔮 **Next Week**: The unique dice-building roguelike **'Astrea: Six-Sided Oracles'** is scheduled to be available for free.\n\n🎮 **Steam Weekend Deal**: The legendary open-world action title **'Grand Theft Auto V Enhanced'** is available at a 50% discount until September 21, 17:00 UTC."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "デイヴ・ザ・ダイバー モバイル",
+        "releases.0.note": "9月17日にグローバル市場で正式リリースされた、海洋探検と寿司屋経営のハイブリッド・アドベンチャーのモバイル版です。",
+        "releases.0.dev": "MINTROCKET",
+        "releases.1.game": "スペシャルフォース リマスター",
+        "releases.1.note": "9月17日にUnreal Engine 5でグラフィックとシステムを全面刷新し、正式サービスを開始した名作オンラインFPSゲームです。",
+        "releases.1.dev": "ドラゴンフライ",
+        "releases.2.game": "シェイプ・オブ・ドリームズ",
+        "releases.2.note": "9月17日の1周年アップデートとともにXboxコンソール向けに正式リリースされ、Xbox Game Passデイワンに対応しました。",
+        "releases.2.dev": "Lizard Smoothie",
+        "releases.3.game": "ルミマスター",
+        "releases.3.note": "9月17日に正式リリースされたモンスターテイミングRPGで、100種以上のモンスターを収集・育成するカジュアルモバイルゲームです。",
+        "releases.3.dev": "bilibili games",
+        "releases.4.game": "Endless Legend 2",
+        "releases.4.note": "早期アクセスを終了し、9月18日にPCプラットフォーム向けにバージョン1.0として正式リリースされた4Xファンタジー・ターン制戦略ゲームです。",
+        "releases.4.dev": "Amplitude Studios",
+        "releases.5.game": "ワールド オブ ウォークラフト: フォーエバー",
+        "releases.5.note": "9月18日より実施される、『World of Warcraft Classic』をベースにした新規プロジェクトのグローバルベータテストです。",
+        "releases.5.dev": "Blizzard Entertainment",
+        "events.0.name": "東京ゲームショウ2026 (TGS 2026)",
+        "events.0.note": "世界の主要ゲーム会社による新作試遊およびショウケースの実施",
+        "events.0.venue": "日本・千葉 幕張メッセ",
+        "events.1.name": "『SDガンダム ジージェネレーション エターナル』公式生配信",
+        "events.1.note": "今後のロードマップなど最新情報を公開するライブ配信",
+        "events.1.venue": "オンライン"
+      },
+      "briefing": {
+        "items.0.title": "ネクソン『テムパル：OVERGEARED』、10月1日より事前登録開始",
+        "items.0.source": "GameMeca",
+        "items.0.time": "9月17日",
+        "items.1.title": "NC『アストラエ・オラティオ』、TGS初の試遊展示で1時間待ち",
+        "items.1.source": "INVEN",
+        "items.1.time": "9월 17日",
+        "items.2.title": "3Dアクション『機動警察パトレイバー』新作、Steamなどで正式リリース",
+        "items.2.source": "4Gamer",
+        "items.2.time": "9月17日",
+        "items.3.title": "サンリオ『フラガリアメモリーズ』、2027年にモバイル向け配信決定",
+        "items.3.source": "4Gamer",
+        "items.3.time": "9月17日",
+        "items.4.title": "アクティビジョン、『モダン・ウォーフェア4』でシリーズ完結を公式宣言",
+        "items.4.source": "IGN India",
+        "items.4.time": "9月17日",
+        "items.5.title": "ロックスター、『GTA 6』発売後も『GTAオンライン』のサポートを継続",
+        "items.5.source": "IGN India",
+        "items.5.time": "9月17日",
+        "items.6.title": "EU、未成年者保護を名目にオンラインゲームの強力な規制法案を発議",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "9月17日"
+      },
+      "drk": {
+        "title": "次回作が登場しても世界は閉じない：永続化するライブサービス 🌐",
+        "intro": "10年以上にわたり蓄積された巨大なデジタル世界は、次世代の新作が登場してもその扉を閉ざすことはありません。\nかつてのヒットの方程式であった「後継作による世代交代」は、なぜライブサービスの時代において無力化したのでしょうか？",
+        "points": "ロックスター・ゲームスが『GTA 6』発売後も従来の『GTAオンライン』のサポートを継続すると発表しました。🎮 Blizzardもまた『ワールド オブ ウォークラフト: フォーエバー』を通じてクラシック体験の永続化を図っており、これは新作のリリースが既存の世界の終焉を意味していた、かつてのコンソール・PCパッケージ中心の世代交代モデルが完全に崩壊したことを示す象徴的な場面です。\n\nこうした流れは、現代のゲーマーの**ゲーム消費構造**と心理に直接的な影響を与えています。👥 数年間蓄積してきた資産や人間関係がリセットされることを極度に嫌うユーザーにとって、旧作の存続は強力な心理的安全装置となります。開発会社にとっても、新作に適応できなかったユーザーの完全な離脱を防ぎ、単一のIP内で新旧世代双方の収益パイプラインを同時に稼働させるプラットフォームの安定性を確保できます。\n\nいまや大型IPは単なる一度きりのソフトウェアではなく、**独自の社会を形成した仮想プラットフォーム**として機能しています。🏛️ 圧倒的な技術革新を備えた新作が登場したとしても、すでに巨大な経済とコミュニティが定着した拠点を強制的に壊す理由はありません。結局のところ、未来のゲーム産業の核心は「次回作への一方的な強制移行」ではなく、**「世代ごとの体験の並列的な共存」**をいかに柔軟に設計できるかにかかっています。\n\n新しい技術が約束する新世界と、慣れ親しんだ旧世界の共存は、果たしてシナジーを生み出すことができるでしょうか？🧭 分散したユーザー層の中で2つの巨大な世界を同時に支えなければならない開発各社の、緻密な運営能力が試されています。"
+      },
+      "epic": {
+        "title": "マインドコップ",
+        "comment": "🎁 **Epic Games 今週の無料配布（〜9月25日 00:00まで）**\n- **マインドコップ**：リアルタイムのマッチ3パズルと推理が融合したユニークな捜査アドベンチャーです。容疑者の心の中に侵入して嘘を見破り、隠された真実を解き明かす奥深いストーリーをお楽しみください。\n- **Shogun Showdown**：ターン制バトルをベースにしたローグライク・デッキ構築の名作です。緻密なタイルコンボと戦略的な位置取りで将軍を討ち倒す、重厚な手応えを提供します。\n\n🔮 **Next Week**：来週は独創的なサイコロ・デッキ構築ローグライク**『Astrea: Six-Sided Oracles』**が無料配布される予定です。\n\n🎮 **Steam 週末特化**：オープンワールド・アクションの名作**『グランド・セフト・オートV エンハンスド』**が、9月22日 02:00まで50%オフでお求めいただけます。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "차기작이 나와도 섭종은 없다? 영속화되는 게임의 세계 🌐 (feat. 에픽 무료 배포 🎁)",
+    "en": "Games That Refuse to Die: The Age of Endless Worlds 🌐 (feat. Free Epic Drop 🎁)",
+    "ja": "続編が出ても「サ終」しない時代へ！？ 🌐（今週のEpic無料配布もチェック 🎁）"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "드디어 데이브를 폰으로 만날 시간! 📱\n오늘 '데이브 더 다이버' 모바일이 나와서 침대에서도 초밥 쥘 수 있네요 🍣\n\nhttps://www.gtplayer.net/edition-128/\n#데이브더다이버 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-18T07:01:30.977044"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "9월 18일 오늘의 게임 소식 🎮\n📰 [뉴스] 넥슨 '템빨' 사전등록 시작부터 액티비전 '모던 워페어 4' 완결 선언까지!\n📅 [출시] '데이브 더 다이버 모바일', '와우: 포에버' 등 이번 주 핫한 신작 라인업\n✍️ [인사이트] 차기작이 나와도 섭종은 없다? 영속화되는 라이브 서비스 게임의 미래\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임뉴스레터 #gtplayer #신작게임 #게임추천 #게임덕후 #게임소식 #게임스타그램 #모바일게임 #PC게임 #스팀게임 #템빨 #데이브더다이버 #스페셜포스 #월드오브워크래프트 #넥슨 #엔씨소프트 #모던워페어 #콘솔게임 #겜스타그램",
+          "image_paths": [
+            "web\\instagram\\edition_128\\card_cover.png",
+            "web\\instagram\\edition_128\\card_news.png",
+            "web\\instagram\\edition_128\\card_calendar.png",
+            "web\\instagram\\edition_128\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3988468477530939038_39332818166",
+            "url": "https://www.instagram.com/p/DdZ4vLREx6e/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-18T07:02:01.892498",
+      "freegames_results": {
+        "success": false,
+        "id": null,
+        "url": null,
+        "error": "Instagram 업로드 실패: 404 Client Error: Not Found for url: https://i.instagram.com/api/v1/qe/expose/"
+      },
+      "freegames_updated_at": "2026-09-18T07:02:32.529806"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Games That Refuse to Die: The Age of Endless Worlds 🌐 (feat. Free Epic Drop 🎁)\n\nMassive virtual worlds no longer fade away when sequels arrive, reshaping how we play forever alongside Dave the Diver landing on mobile.\nCatch the buzz around NCSoft's packed TGS demo queues, major franchise finales, and this week's free Epic drop.\n\nhttps://www.gtplayer.net/edition-128-en/",
+        "error": null
+      },
+      "updated_at": "2026-09-18T07:03:15.444227"
+    }
+  }
+}

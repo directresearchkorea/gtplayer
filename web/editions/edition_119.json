@@ -1,0 +1,443 @@
+{
+  "num": "119",
+  "date": "2026-09-07",
+  "status": "published",
+  "schedule": {
+    "date": "2026-09-07",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "타이니 에덴 (Tiny Eden)",
+          "dev": "레빗 바이츠 (Rabbit Bites)",
+          "date": "9월 7일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 7일 정식 출시되는 힐링 생태계 시뮬레이션 신작으로, 플레이어만의 정원을 가꾸며 작은 동식물들을 번식시키는 평화로운 경험을 제공합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3375110/Tiny_Eden/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "할로윈: 더 게임 (Halloween: The Game)",
+          "dev": "일포닉 (IllFonic)",
+          "date": "9월 8일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 8일 PC(스팀)로 정식 출시되는 멀티플레이어 서바이벌 호러 게임으로, 살인마 마이클 마이어스와 생존자 간의 긴박한 사투를 다룹니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3219630/Halloween_The_Game/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "허니컴: 더 월드 비욘드 (Honeycomb: The World Beyond)",
+          "dev": "프로즌 디스트릭트 (Frozen District)",
+          "date": "9월 8일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 8일 스팀으로 출시되는 SF 생존 샌드박스 시뮬레이션 게임으로, 미지의 외계 행성 생태계를 탐험하고 기지를 건설하는 재미를 선사합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/1510440/Honeycomb_The_World_Beyond/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "다이스 타번: 운명의 한 던지기",
+          "dev": "포 휠 스튜디오 (Four Wheel Studio)",
+          "date": "9월 8일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 8일 출시되는 주사위 덱빌딩 로그라이크 신작으로, 주사위 조합과 패시브 효과를 전략적으로 활용해 목표 점수 달성에 도전합니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/999/G099936/20260902053/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "update",
+          "game": "벽람항로 (아주르 레인)",
+          "dev": "만주 / 요스타 (Yostar)",
+          "date": "9월 8일(화)",
+          "platforms": [
+            "모바일"
+          ],
+          "color": "#3b82f6",
+          "note": "9월 8일 정기 점검을 통해 신규 이벤트 '요이기담'이 시작되며, 신규 UR 등급 함선 '아즈치'와 '타이거'가 새롭게 추가됩니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/390/G039084/20260905008/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "동방홍마향: New Classic",
+          "dev": "팀 크레센트 (Team Crescent)",
+          "date": "9월 9일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 9일 스팀으로 출시되는 탄막 슈팅 게임으로, 원작 '동방홍마향'을 현대적 그래픽과 시스템으로 리메이크한 작품입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4659620/Touhou_Koumakyou_New_Classic__the_Embodiment_of_Scarlet_Devil/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "닌텐도 다이렉트 (Nintendo Direct)",
+          "note": "자사 주요 라인업을 소개하는 온라인 게임 쇼케이스",
+          "venue": "온라인",
+          "date": "2026-09-08 ~ 09-09",
+          "tag": "쇼케이스",
+          "website": "https://www.gamemeca.com/view.php?gid=1780098"
+        },
+        {
+          "name": "도쿄 게임쇼 2026 (TGS 2026)",
+          "note": "주요 글로벌 게임사들이 참여하는 대규모 국제 게임 전시회",
+          "venue": "일본 지바현 마쿠하리 멧세",
+          "date": "2026-09-17 ~ 09-21",
+          "tag": "오프라인 행사",
+          "website": "https://www.4gamer.net/games/019/G101928/20260905005/"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'더 블러드 오브 던워커', 출시 3일 만에 100만 장 판매",
+          "source": "인벤",
+          "time": "9월 6일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=320480"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "닌텐도 다이렉트, 9월 8일·9일 이틀간 온라인 개최",
+          "source": "게임메카",
+          "time": "9월 6일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780098"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "라이엇 공동 창립자 \"롤 MMO 개발은 끝없는 '성배' 찾기\"",
+          "source": "IGN India",
+          "time": "9월 6일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/league-of-legends-mmorpg/271141/riot-co-founder-calls-league-of-legends-mmo-the-grail-quest-5-years-after-it-was-announced"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "SF 대작 '엑소더스', 플레이어 선택형 엔딩 시스템 공개",
+          "source": "IGN India",
+          "time": "9월 6일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/exodus-2024/271144/exodus-ending-and-character-fates-change-based-on-your-choices"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "배틀그라운드, 인기 애니메이션 '주술회전'과 컬래버 확정",
+          "source": "Famitsu",
+          "time": "9월 6일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202609/86814"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "코나미, 국가 운영 덱빌딩 신작 '프로젝트 지르콘' 공개",
+          "source": "Famitsu",
+          "time": "9월 6일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202609/86810"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "세이버 \"차기작 '스페이스 마린 3'에 생성형 AI 배제\"",
+          "source": "PC Gamer",
+          "time": "9월 6일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/action/there-is-absolutely-no-generative-ai-in-space-marine-3-promises-saber-interactive-executive/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "생성형 AI 시대, 인간의 손끝이 새로운 럭셔리가 되는 이유",
+      "intro": "생성형 AI가 게임 개발의 기본값으로 자리 잡는 지금, 왜 어떤 개발사는 기술을 전면 배제하겠다고 선언할까요? 효율성이 지배하는 시장에서 역설적으로 커지는 장인정신의 가치를 짚어봅니다.",
+      "points": "세이버 인터랙티브가 차기작 '스페이스 마린 3'에 생성형 AI를 배제하겠다고 선언했습니다. 반면 대다수 스튜디오는 제작비 절감과 공정 단축을 위해 AI 툴 도입을 서두르는 추세입니다. 기술 중심의 흐름 속에서 정반대의 길을 걷겠다는 명확한 의사 표현입니다. 🤖\n\n이러한 선언은 **소비자 심리**와 직결됩니다. 게이머들은 이미 무작위로 복제된 듯한 콘텐츠에 피로를 느끼고 있으며, AI 생성 결과물에 대해 윤리적·품질적 불신을 드러내고 있습니다. 결과적으로 인간 창작자의 정교한 수작업과 오리지널 아트는 고유한 프리미엄 가치를 지닌 대체 불가능한 세일즈 포인트가 됩니다. 🎨\n\nDr. K의 관점에서, 미래 게임 시장은 고효율 AI 양산형 타이틀과 고비용 핸드메이드 장인 타이틀로 양극화될 것입니다. **인간 개발자의 개입은 단순한 노동을 넘어 제품의 진정성을 보증하는 핵심 브랜드 전략**이 될 것입니다. 결국 소비자는 완벽한 알고리즘이 아니라 창작자의 의도와 결점이 빚어낸 고유한 경험을 구매합니다. 💡\n\n기술의 발전이 극에 달할수록 역설적으로 인간적인 감각이 가장 희소한 자원이 됩니다. 여러분은 앞으로 어떤 게임에 기꺼이 풀프라이스를 지불하시겠습니까? 🎮"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": true,
+      "items": [],
+      "title": "New XBOX ad campaign just dropped",
+      "score": 19065,
+      "url": "https://i.redd.it/geq2qh65ycnh1.png",
+      "preview_img": "https://i.redd.it/geq2qh65ycnh1.png",
+      "permalink": "https://redd.it/1w6hoba",
+      "subreddit": "gaming",
+      "author": "Blackpoc",
+      "num_comments": 0,
+      "what_happened": "'따끈따끈한 엑스박스 신규 광고 뜸'이라는 제목으로, 스마트폰부터 TV까지 모든 기기가 엑스박스가 된다는 MS의 실제 광고 'This is an Xbox'를 패러디한 밈입니다. 원본 문구에 작은 별표(*)를 달고 '단, 한 달에 딱 15시간만요'라는 쪼잔한 단서 조항을 합성해, 구독제와 클라우드 게이밍의 제한 정책을 유쾌하게 풍자하며 폭발적인 공감을 샀습니다.",
+      "one_liner": "모든 게 엑스박스가 될 순 있지만, 내 주말 플레이 타임까지 감당할 순 없었나 봅니다 🎮⏳"
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Tiny Eden",
+        "releases.0.note": "A new cozy ecosystem simulation officially launching on September 7, offering a peaceful experience where players cultivate their own garden and nurture small wildlife and plants.",
+        "releases.0.dev": "Rabbit Bites",
+        "releases.1.game": "Halloween: The Game",
+        "releases.1.note": "A multiplayer survival horror game officially releasing on PC (Steam) on September 8, capturing the intense struggle between killer Michael Myers and the survivors.",
+        "releases.1.dev": "IllFonic",
+        "releases.2.game": "Honeycomb: The World Beyond",
+        "releases.2.note": "A sci-fi survival sandbox simulation launching on Steam on September 8, delivering the thrill of exploring uncharted alien ecosystems and building bases.",
+        "releases.2.dev": "Frozen District",
+        "releases.3.game": "Dice Tavern: A Roll of Fate",
+        "releases.3.note": "A new dice deckbuilding roguelike releasing on September 8, where players strategically combine dice and passive effects to reach target scores.",
+        "releases.3.dev": "Four Wheel Studio",
+        "releases.4.game": "Azur Lane",
+        "releases.4.note": "Following routine maintenance on September 8, the new event will begin, introducing the new UR-tier shipgirls 'Azuchi' and 'Tiger'.",
+        "releases.4.dev": "Manjuu / Yostar",
+        "releases.5.game": "Touhou Koumakyou: New Classic",
+        "releases.5.note": "A bullet hell shoot 'em up releasing on Steam on September 9, remaking the original 'The Embodiment of Scarlet Devil' with modern graphics and systems.",
+        "releases.5.dev": "Team Crescent",
+        "events.0.name": "Nintendo Direct",
+        "events.0.note": "An online gaming showcase introducing Nintendo's major upcoming lineup.",
+        "events.0.venue": "Online",
+        "events.1.name": "Tokyo Game Show 2026 (TGS 2026)",
+        "events.1.note": "A major international video game trade show featuring leading global gaming companies.",
+        "events.1.venue": "Makuhari Messe, Chiba, Japan"
+      },
+      "briefing": {
+        "items.0.title": "'The Blood of Dawnwalker' Sells 1 Million Copies in 3 Days Post-Launch",
+        "items.0.source": "Inven",
+        "items.0.time": "September 6",
+        "items.1.title": "Nintendo Direct to Stream Online Over Two Days on September 8–9",
+        "items.1.source": "GameMeca",
+        "items.1.time": "September 6",
+        "items.2.title": "Riot Co-Founder: Developing the LoL MMO Is an Endless Search for the 'Holy Grail'",
+        "items.2.source": "IGN India",
+        "items.2.time": "September 6",
+        "items.3.title": "Sci-Fi Epic 'EXODUS' Unveils Player Choice-Driven Ending System",
+        "items.3.source": "IGN India",
+        "items.3.time": "September 6",
+        "items.4.title": "PUBG Confirms Collaboration with Hit Anime 'Jujutsu Kaisen'",
+        "items.4.source": "Famitsu",
+        "items.4.time": "September 6",
+        "items.5.title": "Konami Unveils New Kingdom-Building Deckbuilder 'Project Zircon'",
+        "items.5.source": "Famitsu",
+        "items.5.time": "September 6",
+        "items.6.title": "Saber: \"Generative AI Will Be Excluded from Upcoming 'Space Marine 3'\"",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "September 6"
+      },
+      "drk": {
+        "title": "Why the Human Touch Is Becoming the New Luxury in the Generative AI Era",
+        "intro": "As generative AI becomes the default in game development, why are some studios declaring a total ban on the technology? We explore the paradoxical rise in the value of human craftsmanship in an efficiency-driven market.",
+        "points": "Saber Interactive has announced that it will exclude generative AI from its upcoming title 'Space Marine 3'. Meanwhile, most studios are rushing to adopt AI tools to slash production budgets and shorten pipelines. It is a clear declaration to walk the exact opposite path in a tech-centric wave. 🤖\n\nThis stance directly resonates with **consumer sentiment**. Gamers are already growing fatigued by content that feels randomly cloned, voicing ethical and qualitative distrust toward AI-generated outputs. Consequently, delicate manual work and original art by human creators are transforming into an irreplaceable, premium selling point. 🎨\n\nFrom Dr. K's perspective, the future gaming market will polarize into hyper-efficient, mass-produced AI titles and high-cost, handmade artisan experiences. **Human developer involvement will transcend mere labor to become a core brand strategy that certifies product authenticity.** Ultimately, consumers buy not a flawless algorithm, but a distinct experience shaped by a creator's intent and imperfections. 💡\n\nAs technological advancement peaks, the human touch paradoxically turns into the rarest commodity. Going forward, what kind of games will you gladly pay full price for? 🎮"
+      },
+      "meme": {
+        "what_happened": "Titled 'Brand New Xbox Ad Just Dropped,' this meme parodies Microsoft's real 'This is an Xbox' campaign, which claimed that any device—from smartphones to TVs—can be an Xbox. By slapping a tiny asterisk (*) onto the original tagline with the petty disclaimer 'Only for 15 hours a month, though,' the meme humorously satirizes restrictive policies in subscription and cloud gaming services, sparking widespread relatability.",
+        "one_liner": "Turns out everything can be an Xbox, except something that can handle my weekend playtime. 🎮⏳"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "タイニーエデン (Tiny Eden)",
+        "releases.0.note": "9月7日に正式リリースされる癒やし系生態系シミュレーションの新作。自分だけの庭を整え、小さな動植物を繁殖させる穏やかな体験を提供します。",
+        "releases.0.dev": "Rabbit Bites",
+        "releases.1.game": "ハロウィン：ザ・ゲーム (Halloween: The Game)",
+        "releases.1.note": "9月8日にPC（Steam）で正式リリースされるマルチプレイヤー・サバイバルホラーゲーム。殺人鬼マイケル・マイヤーズと生存者たちによる緊迫した死闘を描きます。",
+        "releases.1.dev": "IllFonic",
+        "releases.2.game": "Honeycomb: The World Beyond",
+        "releases.2.note": "9月8日にSteamでリリースされるSFサバイバルサンドボックス・シミュレーションゲーム。未知の太陽系外惑星の生態系を探検し、拠点を建設する楽しさを届けます。",
+        "releases.2.dev": "Frozen District",
+        "releases.3.game": "ダイスタバーン：運命のひと投げ",
+        "releases.3.note": "9月8日にリリースされるダイスデッキ構築型ローグライクの新作。サイコロの組み合わせとパッシブ効果を戦略的に活用し、目標スコアの達成を目指します。",
+        "releases.3.dev": "Four Wheel Studio",
+        "releases.4.game": "アズールレーン",
+        "releases.4.note": "9月8日の定期メンテナンスにより新規イベント「宵異奇譚」が開幕し、新たなUR艦船「安土」と「タイガー」が追加されます。",
+        "releases.4.dev": "Manjuu / Yostar",
+        "releases.5.game": "東方紅魔郷: New Classic",
+        "releases.5.note": "9月9日にSteamでリリースされる弾幕シューティングゲーム。原作『東方紅魔郷』を現代的なグラフィックとシステムでリメイクした作品です。",
+        "releases.5.dev": "Team Crescent",
+        "events.0.name": "Nintendo Direct (ニンテンドーダイレクト)",
+        "events.0.note": "自社の主要ラインナップを紹介するオンラインゲームショウケース",
+        "events.0.venue": "オンライン",
+        "events.1.name": "東京ゲームショウ2026 (TGS 2026)",
+        "events.1.note": "主要なグローバルゲーム企業が参加する大規模な国際ゲーム展示会",
+        "events.1.venue": "日本 千葉県 幕張メッセ"
+      },
+      "briefing": {
+        "items.0.title": "『The Blood of Dawnwalker』、発売3日で100万本を突破",
+        "items.0.source": "Inven",
+        "items.0.time": "9月6日",
+        "items.1.title": "Nintendo Direct、9月8日・9日の2日間にわたりオンライン開催",
+        "items.1.source": "GameMeca",
+        "items.1.time": "9月6日",
+        "items.2.title": "ライアット共同創業者「LoL MMOの開発は終わりなき『聖杯』探し」",
+        "items.2.source": "IGN India",
+        "items.2.time": "9月6日",
+        "items.3.title": "大型SF作『EXODUS』、プレイヤーの選択によるマルチエンディングシステムを公開",
+        "items.3.source": "IGN India",
+        "items.3.time": "9月6日",
+        "items.4.title": "『PUBG』、人気アニメ『呪術廻戦』とのコラボが決定",
+        "items.4.source": "ファミ通",
+        "items.4.time": "9月6日",
+        "items.5.title": "コナミ、国家運営デッキ構築型の新作『Project Zircon』を発表",
+        "items.5.source": "ファミ通",
+        "items.5.time": "9月6日",
+        "items.6.title": "Saber「次回作『スペースマリーン3』に生成AIは不使用」",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "9月6日"
+      },
+      "drk": {
+        "title": "生成AI時代、人間の手仕事が新たなラグジュアリーとなる理由",
+        "intro": "生成AIがゲーム開発の標準になりつつある今、なぜ一部の開発会社は技術の全面排除を宣言するのでしょうか？ 効率性が支配する市場において、逆説的に高まる職人技の価値を考察します。",
+        "points": "Saber Interactiveが、次回作『スペースマリーン3』において生成AIを使用しないと宣言しました。一方で大多数のスタジオは、開発費の削減と工程短縮のためにAIツールの導入を急いでいます。技術至上主義の流れの中で、正反対の道を歩むという明確な意思表明です。🤖\n\nこの宣言は**消費者心理**に直結しています。ゲーマーはすでに無作為に量産されたかのようなコンテンツに食傷気味であり、AI生成物に対して倫理的・品質的な不信感を抱き始めています。結果として、人間のクリエイターによる精巧な手仕事とオリジナルアートは、独自のプレミアム価値を持つ代替不可能なセールスポイントとなります。🎨\n\nDr. Kの視点では、未来のゲーム市場は高効率なAI量産型タイトルと、高コストなハンドメイド職人型タイトルへと二極化していくと考えられます。**人間の開発者による介在は、単なる労働を超えて製品の真正性を保証する中核的なブランド戦略**となるでしょう。結局のところ、消費者が購入するのは完璧なアルゴリズムではなく、創作者の意図と欠落が生み出す唯一無二の体験なのです。💡\n\n技術の進化が極まるほど、逆説的に人間的な感性こそが最も希少な資源となります。皆さんは今後、どのようなゲームに対して喜んでフルプライスを支払いますか？ 🎮"
+      },
+      "meme": {
+        "what_happened": "「ホヤホヤのXbox新作広告キタ」というタイトルで、スマートフォンからテレビまであらゆる機器がXboxになるというマイクロソフトの実際の広告「This is an Xbox」をパロディ化したミームです。元のフレーズに小さなアスタリスク（*）を付け、「※ただし、月間たった15時間のみ」というケチくさい条件を合成し、サブスクリプションやクラウドゲーミングの制限方針をユーモラスに風刺して大きな共感を呼びました。",
+        "one_liner": "すべてのものがXboxになれるとしても、私の週末のプレイ時間までは背負いきれなかったようです 🎮⏳"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "AI 시대, 게임의 '인간 손맛'이 새로운 럭셔리가 된 이유 🎮 (feat. 오늘의 밈 😂)",
+    "en": "Why 'Handcrafted' Games Are the New Luxury in the AI Era 🎮 (feat. Meme of the Day 😂)",
+    "ja": "AI時代、ゲームの「手作業」が究極の贅沢になる理由 🎮 (feat. 今日のミーム 😂)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "배그에 영역 전개가 뜬다고요?! 💥\n배틀그라운드와 주술회전의 역대급 컬래버가 드디어 확정됐네요! 👀\n\nhttps://www.gtplayer.net/edition-119/\n#배틀그라운드 #주술회전 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-07T07:01:32.878699"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "9월 7일 오늘의 게임 소식 🎮\n\n📰 [뉴스] 던워커 100만 장 돌파, 닌텐도 다이렉트 개최 일정부터 배그x주술회전 컬래버까지!\n📅 [출시] 타이니 에덴, 할로윈: 더 게임, 동방홍마향 등 이번 주 찾아오는 신작 라인업\n✍️ [인사이트] 생성형 AI 시대, 역설적으로 게임의 '인간 손맛'이 새로운 럭셔리가 된 이유\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임소식 #게임추천 #신작게임 #게임출시 #인디게임 #스팀게임 #닌텐도 #닌텐도다이렉트 #배틀그라운드 #주술회전 #리그오브레전드 #롤MMO #엑소더스 #게임개발 #AI게임 #게이머 #게임스타그램 #겜스타그램 #gtplayer",
+          "image_paths": [
+            "web\\instagram\\edition_119\\card_cover.png",
+            "web\\instagram\\edition_119\\card_news.png",
+            "web\\instagram\\edition_119\\card_calendar.png",
+            "web\\instagram\\edition_119\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3980495950502392902_39332818166",
+            "url": "https://www.instagram.com/p/Dc9j_o3k3RG/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-07T07:02:04.915544"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Why 'Handcrafted' Games Are the New Luxury in the AI Era 🎮 (feat. Meme of the Day 😂)\n\nWith fresh hits smashing one million sales in days, players are proving that genuine creative vision still rules the industry.\nBetween breakout release records and major upcoming showcases, here is what is shaping the future of gaming this week.\n\nhttps://www.gtplayer.net/edition-119-en/",
+        "error": null
+      },
+      "updated_at": "2026-09-07T07:02:51.330982"
+    }
+  }
+}

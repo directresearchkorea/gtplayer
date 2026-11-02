@@ -1,0 +1,81 @@
+{
+  "num": "003",
+  "date": "2026-03-20",
+  "status": "published",
+  "schedule": {
+    "date": "",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [],
+      "events": [
+        {
+          "name": "iicon 2026 (E3 후속)",
+          "note": "",
+          "venue": "미국 라스베가스",
+          "date": "2026-04-27~2026-04-30",
+          "tag": "행사",
+          "d_day_str": "D-38",
+          "website": "https://www.iicon.com"
+        },
+        {
+          "name": "서머 게임 페스트 2026",
+          "note": "",
+          "venue": "미국",
+          "date": "2026-06-01~2026-06-30",
+          "tag": "행사",
+          "d_day_str": "D-73",
+          "website": "https://www.summergamefest.com"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": []
+    },
+    "feedback": {
+      "enabled": true,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "오늘의 인사이트를 준비 중입니다",
+      "intro": "기술적인 문제로 인해 인사이트 생성이 지연되고 있습니다.",
+      "points": "잠시 후 다시 확인해 주시기 바랍니다."
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    }
+  },
+  "translations": {
+    "en": {},
+    "ja": {}
+  }
+}

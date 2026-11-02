@@ -1,0 +1,459 @@
+{
+  "num": "133",
+  "date": "2026-09-25",
+  "status": "published",
+  "schedule": {
+    "date": "2026-09-25",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "사일런트 힐: 타운폴",
+          "dev": "노코드 스튜디오",
+          "date": "9월 24일(목)",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "color": "#10b981",
+          "note": "9월 24일 정식 출시된 심리적 공포 어드벤처 게임으로, 음산한 안개에 휩싸인 마을 세인트 아멜리아에서 마주하는 기괴한 현상과 비밀을 다룹니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1781022",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "신모의 클리파",
+          "dev": "아크시스템웍스",
+          "date": "9월 24일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "9월 24일 정식 출시된 턴제 택티컬 RPG로, 괴이가 출몰하는 붕괴 후 도쿄를 무대로 적의 공격 타이밍에 맞춘 카운터 액션을 선보입니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780977",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "뱅드림 아워 노트",
+          "dev": "빌리빌리",
+          "date": "9월 24일(목)",
+          "platforms": [
+            "iOS",
+            "Android"
+          ],
+          "color": "#10b981",
+          "note": "9월 24일 글로벌 정식 서비스를 시작한 모바일 리듬 게임으로, 신규 밴드를 포함한 다섯 걸즈 밴드의 다채로운 스토리와 오리지널 음원을 제공합니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780949",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "워프레임",
+          "dev": "디지털 익스트림즈",
+          "date": "9월 24일(목)",
+          "platforms": [
+            "PC",
+            "PS4",
+            "PS5",
+            "Xbox One",
+            "XSX/S",
+            "Switch"
+          ],
+          "color": "#3b82f6",
+          "note": "9월 24일 적용된 대규모 업데이트 '나린의 얼음검'을 통해 66번째 한국 콘셉트 신규 워프레임 나린과 신규 지역 및 전용 무기들이 추가되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=321440",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "와일드 웨스트 파이오니어스",
+          "dev": "독립 개발사",
+          "date": "9월 25일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 25일 스팀을 통해 정식 출시되는 서부 개척 시뮬레이션 게임으로, 미개척지를 탐험하며 자신만의 정착지를 건설하고 번영시키는 재미를 선사합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3222640/Wild_West_Pioneers/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "2026 사이버 정기전 (연고대 e스포츠 대항전)",
+          "note": "오버워치, 발로란트, 리그 오브 레전드 종목으로 펼쳐지는 연세대와 고려대의 e스포츠 대항전",
+          "venue": "상암 SOOP 콜로세움",
+          "date": "2026-09-28",
+          "tag": "e스포츠",
+          "website": "https://www.gamemeca.com/view.php?gid=1780975"
+        },
+        {
+          "name": "아스트라에 오라티오 글로벌 비공개 테스트 (CBT)",
+          "note": "엔씨(NC) 신작 '아스트라에 오라티오'의 글로벌 비공개 테스트 진행",
+          "venue": "온라인",
+          "date": "2026-10-02 ~ 10-06",
+          "tag": "베타 테스트",
+          "website": "https://www.gamemeca.com/view.php?gid=1780972"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "김태곤 RTS 신작 '프로젝트: 진달래' 스팀 공개",
+          "source": "게임메카",
+          "time": "9월 24일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1781019"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "'카제나', 최승현 신임 PD 선임 체제 전환",
+          "source": "게임메카",
+          "time": "9월 24일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1781009"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'타이탄 퀘스트 2', 2027년 1월 19일 정식 출시",
+          "source": "Famitsu",
+          "time": "9월 24일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202609/89041"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'포켓몬 카드 게임 포켓', 신규 확장팩 30일 추가",
+          "source": "4Gamer",
+          "time": "9월 24일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/779/G077901/20260924068/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "샌드박스 대작 '하이테일', 챕터 1 출시일 티저 공개",
+          "source": "IGN India",
+          "time": "9월 24일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/hytale/272733/hytale-official-chapter-1-release-date-teaser-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'GTA 6', 게임 빠진 400달러 에디션에 팬 반발",
+          "source": "IGN India",
+          "time": "9월 24일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/grand-theft-auto-vi/272723/gta-6-fans-are-outraged-by-400-collectors-set-and-are-comparing-it-to-red-dead-redemption-2s-version"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "네덜란드 소비자 단체, 에픽게임즈에 1억 유로 소송",
+          "source": "GamesIndustry.biz",
+          "time": "9월 24일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/dutch-consumer-group-files-lawsuit-against-epic-for-misleading-young-players-on-fortnite-seeking-more-than-100m-in-compensation"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "400달러 패키지에 게임이 없다? 선을 넘은 한정판 마케팅",
+      "intro": "게임 타이틀이 빠진 400달러짜리 한정판, 과연 여러분은 납득할 수 있습니까? 🎮\n소장 가치를 앞세운 퍼블리셔의 영악한 상술이 게이머들의 인내심을 시험대에 올렸습니다.",
+      "points": "전 세계가 주목하는 대작 'GTA 6'가 400달러에 달하는 고가 에디션을 선보였으나, 정작 본편 게임이 제외된 구성으로 밝혀지며 거센 반발을 사고 있습니다. 패키지 소장품과 소프트웨어를 분리해 판매하는 기형적인 상술이 AAA급 프랜차이즈의 정점에서도 노골화된 것입니다. 📦\n\n이러한 현상은 실물 패키지 시장의 축소와 맞물려 **게임 소비 구조**의 본질을 왜곡하고 있습니다. 퍼블리셔는 디지털 다운로드로의 전환 비용을 게이머에게 전가하며 이중 지출을 유도합니다. 그 결과, 게임에 대한 애정으로 지갑을 열던 소비자 심리는 배신감과 피로감으로 급격히 돌아서고 있습니다. 📉\n\n아무리 독보적인 IP라 할지라도 **소비자와의 정서적 신뢰를 외면한 상품 기획은 브랜드의 영속성을 갉아먹는 독**이 됩니다. 플레이할 수 없는 껍데기만 쥐여주는 전략은 팬덤 비즈니스의 고도화가 아니라 노골적인 착취에 가깝습니다. 💡\n\nIP 비즈니스가 팽창할수록 게임 본연의 가치보다 부가 상품을 통한 수익 극대화가 우선되는 주객전도가 심화되고 있습니다. 여러분은 게임이 빠진 고가의 굿즈 상자를 과연 진정한 컬렉터스 에디션으로 인정할 수 있습니까? 🧭"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "Astrea Six Sided Oracles",
+      "url": "https://store.epicgames.com/ko/p/astrea-six-sided-oracles-33c949",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/astrea-six-sided-oracles-offer-bvy0n.png",
+      "comment": "🎲 **에픽게임즈 이번 주 무료 배포** (~10월 2일 00:00까지)\n• **Astrea: Six-Sided Oracles**: 카드가 아닌 주사위를 굴려 덱을 구성하는 독창적인 덱 빌딩 로그라이크 수작입니다. 개성 있는 센티넬과 계속해서 변화하는 주사위 조합으로 타락한 적들을 정화하는 깊이 있는 전략의 재미를 즐겨보세요.\n\n👀 **Next Week**: 다음 주에는 생방송 오디션 무대 붕괴 현장의 진실을 파헤치는 미스터리 어드벤처, <베리드 스타즈>가 무료 배포됩니다.\n\n🎮 **스팀 주말 특가**\n• 스타일리시한 명작 JRPG <페르소나 3 리로드>의 70% 할인 행사가 10월 2일 02:00까지 진행 중이니 주말 동안 새로운 모험을 떠나보세요!",
+      "steam_deal": {
+        "type": "deal",
+        "name": "페르소나3 리로드",
+        "app_id": 2161700,
+        "url": "https://store.steampowered.com/app/2161700",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg?t=1764776430",
+        "discount_percent": 70,
+        "original_price": 6980000,
+        "final_price": 2094000,
+        "end_date": "2026-10-02 02:00"
+      },
+      "epic_current": [
+        {
+          "title": "Astrea Six Sided Oracles",
+          "description": "완전히 새로운 주사위 덱 빌딩 로그라이크 게임 Astera에서 6명의 용감한 선지자 중 한 명이 되어 잊혀진 문명의 폐허를 탐험하세요. 계속해서 변화하는 주사위 덱과 마법의 힘이 부여된 센티넬을 활용해 타락한 적들의 무리와 부패한 여신을 정화하고 항성계를 구하세요.",
+          "url": "https://store.epicgames.com/ko/p/astrea-six-sided-oracles-33c949",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/astrea-six-sided-oracles-offer-bvy0n.png",
+          "end_date": "2026-10-02 00:00"
+        }
+      ],
+      "epic_upcoming": [
+        {
+          "title": "베리드 스타즈 (BURIED STARS)",
+          "description": "『베리드 스타즈』는 생방송 오디션 프로그램 붕괴 사고 현장을 배경으로 펼쳐지는 미스터리 어드벤처입니다. 갇힌 사람들은 서로, 그리고 SNS를 통해 소통하며 구조를 기다리지만, 뜻밖의 사건이 벌어지며 갈등과 의심에 휘말리게 됩니다.",
+          "url": "https://store.epicgames.com/ko/p/buried-stars-d7c88c",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-1j9of.jpg",
+          "start_date": "2026-10-02 00:00"
+        }
+      ],
+      "epic_discounted": []
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Silent Hill: Townfall",
+        "releases.0.note": "A psychological horror adventure game officially released on September 24, exploring bizarre phenomena and secrets encountered in the fog-shrouded town of St. Amelia.",
+        "releases.0.dev": "No Code Studio",
+        "releases.1.game": "Qliphoth of the Divine Mother",
+        "releases.1.note": "A turn-based tactical RPG officially released on September 24, set in a post-collapse Tokyo infested with apparitions, featuring counter-action mechanics timed to enemy attacks.",
+        "releases.1.dev": "Arc System Works",
+        "releases.2.game": "BanG Dream! Our Note",
+        "releases.2.note": "A mobile rhythm game that launched its global service on September 24, offering diverse stories and original tracks from five all-girl bands, including a brand-new band.",
+        "releases.2.dev": "bilibili",
+        "releases.3.game": "Warframe",
+        "releases.3.note": "Through the major update 'Narin's Ice Sword' released on September 24, the 66th Warframe—the Korean-themed Narin—has been added alongside new regions and signature weapons.",
+        "releases.3.dev": "Digital Extremes",
+        "releases.4.game": "Wild West Pioneers",
+        "releases.4.note": "A frontier settlement simulation game officially launching on Steam on September 25, offering the experience of exploring uncharted lands to build and prosper your own settlement.",
+        "releases.4.dev": "Indie Developer",
+        "events.0.name": "2026 Cyber Games (Yonsei-Korea Esports Rivalry Match)",
+        "events.0.note": "An esports match between Yonsei University and Korea University featuring Overwatch, VALORANT, and League of Legends.",
+        "events.0.venue": "Sangam SOOP Colosseum",
+        "events.1.name": "Astrae Oratio Global Closed Beta Test (CBT)",
+        "events.1.note": "Global closed beta test underway for NC's new title 'Astrae Oratio'.",
+        "events.1.venue": "Online"
+      },
+      "briefing": {
+        "items.0.title": "Kim Tae-gon's New RTS 'Project: Jindallae' Revealed on Steam",
+        "items.0.source": "GameMeca",
+        "items.0.time": "September 24",
+        "items.1.title": "'Kazena' Transitions Leadership to Newly Appointed PD Choi Seung-hyun",
+        "items.1.source": "GameMeca",
+        "items.1.time": "September 24",
+        "items.2.title": "'Titan Quest II' Officially Launches on January 19, 2027",
+        "items.2.source": "Famitsu",
+        "items.2.time": "September 24",
+        "items.3.title": "'Pokémon Trading Card Game Pocket' to Add New Expansion Pack on the 30th",
+        "items.3.source": "4Gamer",
+        "items.3.time": "September 24",
+        "items.4.title": "Blockbuster Sandbox Game 'Hytale' Reveals Chapter 1 Release Date Teaser",
+        "items.4.source": "IGN India",
+        "items.4.time": "September 24",
+        "items.5.title": "Fans Backlash Against $400 'GTA 6' Edition That Omits the Game",
+        "items.5.source": "IGN India",
+        "items.5.time": "September 24",
+        "items.6.title": "Dutch Consumer Group Sues Epic Games for €100 Million",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "September 24"
+      },
+      "drk": {
+        "title": "No Game in a $400 Package? Limited Edition Marketing Crosses the Line",
+        "intro": "A $400 limited edition that doesn't even include the game title—can you accept this? 🎮\nPublishers' sly commercial tactics touting collectible value have put gamers' patience to the test.",
+        "points": "The world-renowned blockbuster 'GTA 6' introduced a high-priced edition reaching $400, but has sparked fierce backlash after it was revealed that the base game itself is excluded. The distorted business practice of selling packaged collectibles separately from software has become blatant even at the pinnacle of AAA franchises. 📦\n\nCoupled with the shrinking physical package market, this phenomenon distorts the very nature of **game consumption patterns**. Publishers shift the transition costs of moving to digital downloads onto gamers, encouraging double spending. As a result, consumer sentiment—which once opened wallets out of love for games—is rapidly turning into betrayal and fatigue. 📉\n\nNo matter how unrivaled an IP may be, **product planning that ignores emotional trust with consumers acts as a poison that erodes brand sustainability**. A strategy that hands over an unplayable hollow shell is not an advanced fandom business, but closer to overt exploitation. 💡\n\nAs the IP business expands, the cart has been put before the horse, prioritizing profit maximization through ancillary merchandise over the inherent value of games. Can you truly accept an expensive box of merchandise without the game as a genuine collector's edition? 🧭"
+      },
+      "epic": {
+        "title": "Astrea: Six-Sided Oracles",
+        "comment": "🎲 **Epic Games This Week's Free Giveaway** (until October 1 at 15:00 UTC)\n• **Astrea: Six-Sided Oracles**: An ingenious deck-building roguelike masterpiece where you roll dice instead of drawing cards. Enjoy deep strategic gameplay by purifying corrupted foes with distinctive Sentinels and an ever-evolving combination of dice.\n\n👀 **Next Week**: Next week, the mystery adventure *Buried Stars*, which uncovers the truth behind the collapse of a live audition stage, will be available for free.\n\n🎮 **Steam Weekend Deal**\n• A 70% discount on the stylish classic JRPG *Persona 3 Reload* is running until October 1 at 17:00 UTC, so embark on a new adventure over the weekend!"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "SILENT HILL: Townfall",
+        "releases.0.note": "9月24日に正式リリースされたサイコロジカルホラーアドベンチャーゲームで、不気味な霧に包まれた町「セント・アメリア」で直面する奇怪な現象と秘密を描きます。",
+        "releases.0.dev": "No Code",
+        "releases.1.game": "神母のクリファ",
+        "releases.1.note": "9月24日に正式リリースされたターン制タクティカルRPGで、怪異が跋扈する崩壊後の東京を舞台に、敵の攻撃タイミングに合わせたカウンターアクションが展開されます。",
+        "releases.1.dev": "アークシステムワークス",
+        "releases.2.game": "バンドリ！ Our Note",
+        "releases.2.note": "9月24日にグローバル正式サービスを開始したモバイルリズムゲームで、新規バンドを含む5つのガールズバンドによる多彩なストーリーとオリジナル楽曲をお届けします。",
+        "releases.2.dev": "bilibili",
+        "releases.3.game": "Warframe",
+        "releases.3.note": "9月24日に実装された大型アップデート「ナリンの氷剣」により、66体目となる韓国をコンセプトにした新規Warframe「ナリン」や、新エリアおよび専用武器が追加されました。",
+        "releases.3.dev": "Digital Extremes",
+        "releases.4.game": "Wild West Pioneers",
+        "releases.4.note": "9月25日にSteamにて正式リリースされる西部開拓シミュレーションゲームで、未開拓地を探索しながら自分だけの入植地を建設し繁栄させていく楽しさを提供します。",
+        "releases.4.dev": "インディー開発元",
+        "events.0.name": "2026 サイバー定期戦（延高eスポーツ対抗戦）",
+        "events.0.note": "『オーバーウォッチ』、『VALORANT』、『リーグ・オブ・レジェンド』の種目で繰り広げられる延世大学と高麗大学のeスポーツ対抗戦",
+        "events.0.venue": "上岩 SOOP コロシアム",
+        "events.1.name": "Astrae Oratio グローバルクローズドベータテスト（CBT）",
+        "events.1.note": "NCSOFTの新作『Astrae Oratio』のグローバルクローズドベータテストを実施",
+        "events.1.venue": "オンライン"
+      },
+      "briefing": {
+        "items.0.title": "キム・テゴンの新作RTS『プロジェクト：チンダルレ』がSteamで公開",
+        "items.0.source": "GameMeca",
+        "items.0.time": "9月24日",
+        "items.1.title": "『カゼナ』、チェ・スンヒョン新PDの選任体制へ移行",
+        "items.1.source": "GameMeca",
+        "items.1.time": "9月24日",
+        "items.2.title": "『タイタン クエスト II』、2027年1月19日に正式リリース",
+        "items.2.source": "Famitsu",
+        "items.2.time": "9月24日",
+        "items.3.title": "『Pokémon Trading Card Game Pocket』、新拡張パックを30日に追加",
+        "items.3.source": "4Gamer",
+        "items.3.time": "9月24日",
+        "items.4.title": "サンドボックス大作『Hytale』、チャプター1発売日のティザーを公開",
+        "items.4.source": "IGN India",
+        "items.4.time": "9月24日",
+        "items.5.title": "『GTA 6』、ゲーム本編が入っていない400ドルエディションにファンが反発",
+        "items.5.source": "IGN India",
+        "items.5.time": "9月24日",
+        "items.6.title": "オランダの消費者団体、Epic Gamesを相手取り1億ユーロ規模の訴訟",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "9月24日"
+      },
+      "drk": {
+        "title": "400ドルのパッケージにゲームが入っていない？一線を越えた限定版マーケティング",
+        "intro": "ゲームソフトが入っていない400ドルの限定版、果たして皆さんは納得できますか？ 🎮\nコレクション価値を前面に押し出したパブリッシャーの抜け目のない商法が、ゲーマーたちの忍耐を試しています。",
+        "points": "世界中が注目する大作『GTA 6』が400ドルに達する高額エディションを発表したものの、肝心のゲーム本編が含まれていない構成であることが明らかになり、激しい反発を招いています。パッケージのコレクターズアイテムとソフトウェアを別売りする奇形的な商法が、AAA級フランチャイズの頂点においてさえ露骨化しているのです。 📦\n\nこうした現象は、パッケージ版市場の縮小と相まって、**ゲーム消費構造**の本質を歪めています。パブリッシャーはデジタル配信への移行コストをゲーマーに転嫁し、二重支出を誘発しています。その結果、ゲームへの愛着から財布の紐を緩めていた消費者心理は、裏切りと疲弊感によって急速に冷え込んでいます。 📉\n\nいくら類まれなIPであろうと、**消費者との情緒的な信頼を無視した商品企画は、ブランドの永続性を蝕む毒**となります。プレイできない抜け殻だけを与える戦略は、ファンダムビジネスの高度化などではなく、露骨な搾取にすぎません。 💡\n\nIPビジネスが拡大するにつれ、ゲーム本来の価値よりも関連グッズによる収益最大化が優先されるという本末転倒な状況が深刻化しています。皆さんは、ゲームが入っていない高額なグッズボックスを、果たして真のコレクターズエディションとして認めることができますか？ 🧭"
+      },
+      "epic": {
+        "title": "Astrea: Six-Sided Oracles",
+        "comment": "🎲 **Epic Games 今週の無料配布**（〜10月2日 00:00まで）\n• **Astrea: Six-Sided Oracles**：カードではなくダイスを振ってデッキを構築する独創的なデッキ構築型ローグライクの秀作です。個性あふれるセンチネルと変化し続けるダイスの組み合わせで堕落した敵を浄化する、奥深い戦略の面白さをお楽しみください。\n\n👀 **Next Week**：来週は、生放送オーディション番組のステージ崩壊事故の真相に迫るミステリーアドベンチャー『BURIED STARS（ベリード スターズ）』が無料配布されます。\n\n🎮 **Steam 週末特売**\n• スタイリッシュな名作JRPG『ペルソナ3 リロード』の70%オフセールが10月2日 02:00まで開催中ですので、この週末に新たな冒険へ旅立ってみてはいかがでしょうか！"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "400달러 한정판에 '게임'이 없다?! 🤯 (feat. 에픽 역대급 무료 배포 🎁)",
+    "en": "A $400 Collector's Edition with NO game?! 🤯 (Plus: Epic's latest freebie 🎁)",
+    "ja": "400ドルの限定版に「ゲーム」が入ってない件🤯（＋今週のEpic無料配布🎁）"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "400달러 한정판에 정작 '게임'이 안 들어있다니 실화인가요? 😱\n공포 기대작 '사일런트 힐: 타운폴' 출시 소식까지 싹 모아봤어요! 🎮\n\nhttps://www.gtplayer.net/edition-133/\n#사일런트힐 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-25T07:01:31.195360"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "9월 25일 오늘의 게임 소식 🎮\n📰 [뉴스] 김태곤 RTS 신작 공개부터 대작 하이테일 출시일 티저까지!\n📅 [출시] 사일런트 힐: 타운폴, 뱅드림 신작 등 이번 주 신규 출시작 총정리\n✍️ [인사이트] 400달러 한정판 패키지에 게임이 없다? 선 넘은 퍼블리셔의 상술\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#gtplayer #게임뉴스 #게임뉴스레터 #신작게임 #게임추천 #사일런트힐 #하이테일 #타이탄퀘스트2 #프로젝트진달래 #워프레임 #포켓몬카드 #스팀게임 #콘솔게임 #PS5 #닌텐도스위치 #모바일게임 #게임덕후 #게임스타그램 #겜스타그램 #인디게임",
+          "image_paths": [
+            "web\\instagram\\edition_133\\card_cover.png",
+            "web\\instagram\\edition_133\\card_news.png",
+            "web\\instagram\\edition_133\\card_calendar.png",
+            "web\\instagram\\edition_133\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3993541890796629656_39332818166",
+            "url": "https://www.instagram.com/p/Ddr6TDkky6Y/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-25T07:02:04.014193",
+      "freegames_results": {
+        "success": false,
+        "id": null,
+        "url": null,
+        "error": "Instagram 업로드 실패: 404 Client Error: Not Found for url: https://i.instagram.com/api/v1/qe/expose/"
+      },
+      "freegames_updated_at": "2026-09-25T07:02:35.812010"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "A $400 Collector's Edition with NO game?! 🤯 (Plus: Epic's latest freebie 🎁)\n\nFrom pricey collector bundles shipping without an actual game to huge release dates for Titan Quest II and Hytale, the industry is packed with surprises this week.\nCatch up on the latest gaming headlines, notable studio moves, and the newest free titles waiting to be claimed right now.\n\nhttps://www.gtplayer.net/edition-133-en/",
+        "error": null
+      },
+      "updated_at": "2026-09-25T07:03:21.730686"
+    }
+  }
+}

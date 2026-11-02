@@ -1,0 +1,47 @@
+# Secrets & credentials
+.env
+credentials.json
+token.json
+sheets_token.json
+*token*.json
+*credential*.json
+*session*.json
+*_state.json
+*_user_data/
+
+# Intermediate / temp files (always regenerated)
+.tmp/
+tmp/
+newsletter_manager/.tmp/
+
+# Task scheduler definitions with Windows SIDs
+task*.xml
+
+# Logs and debug output
+*.log
+err.txt
+out.txt
+syntax_error_*.txt
+schlog.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local Netlify folder
+.netlify
+
+# Subscriber PII, SNS follow logs & Ghost data export archive
+newsletter_manager/execution/subscribers.json
+sns_manager/execution/instagram_followed.json
+gtplayer_data_export.zip
+*.db

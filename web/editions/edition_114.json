@@ -1,0 +1,458 @@
+{
+  "num": "114",
+  "date": "2026-08-31",
+  "status": "published",
+  "schedule": {
+    "date": "2026-08-31",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "브레스엣지 2",
+          "dev": "레드루인스 소프트웍스",
+          "date": "8월 31일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 31일 정식 출시되는 우주 서바이벌 어드벤처 후속작으로, 특유의 블랙 코미디와 대폭 확장된 오픈월드 탐험을 선보입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2412960/Breathedge_2/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "시리어스 샘: 섀터버스",
+          "dev": "크로팀",
+          "date": "8월 31일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 31일 출시되는 하이퍼 클래식 FPS로, 다차원을 넘나들며 쏟아지는 외계 군단을 화끈하게 격파하는 쾌속 액션을 담았습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2067210/Serious_Sam_Shatterverse/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "서커 포 러브: 크러시 랜딩",
+          "dev": "아카바카",
+          "date": "8월 31일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 31일 출시되는 크툴루 신화 모티브의 코믹 연애 시뮬레이션 후속작으로, 신규 외계 히로인들과의 기괴하고 유쾌한 러브스토리를 다룹니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3848900/Sucker_for_Love_Crush_Landing/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "크림슨 문",
+          "dev": "크림슨 게임즈",
+          "date": "9월 1일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 1일 출시되는 다크 판타지 액션 게임으로, 붉은 달이 뜬 저주받은 세계를 정화하기 위한 탐험과 긴장감 넘치는 전투를 선보입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4317690/Crimson_Moon/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "더 블러드 오브 던워커",
+          "dev": "던워커 스튜디오",
+          "date": "9월 2일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 2일 출시되는 다크 RPG 신작으로, 흡혈귀와 인간 사이의 암투와 선택에 따라 갈리는 서사 중심의 전략 액션을 제공합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3751260/The_Blood_of_Dawnwalker/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "봄바나나!",
+          "dev": "봄바나나 팀",
+          "date": "9월 2일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 2일 출시되는 캐주얼 난투 파티 게임으로, 다양한 폭탄 기믹과 통통 튀는 바나나 캐릭터들을 활용한 멀티플레이 대전을 즐길 수 있습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4656000/BOMBANANA/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "2026 FSL 서머 결승 진출전",
+          "note": "T1 '네이비' 김유민 vs KT '우타' 이지환 맞대결",
+          "venue": "잠실 DN 콜로세움",
+          "date": "2026-09-06",
+          "tag": "e스포츠",
+          "website": "https://www.inven.co.kr/webzine/news/?news=320199"
+        },
+        {
+          "name": "호요랜드 2026 (HoYoLAND 2026)",
+          "note": "호요버스 주요 IP 대표작들이 한자리에 모이는 대규모 오프라인 유저 축제",
+          "venue": "일산 킨텍스 (KINTEX)",
+          "date": "2026-10-02 ~ 2026-10-05",
+          "tag": "오프라인 행사",
+          "website": "https://www.gamemeca.com/view.php?gid=1779806"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'더 위쳐3', 신규 확장팩 12분 플레이 영상 공개",
+          "source": "인벤",
+          "time": "8월 31일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=320205"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "비대칭 호러 신작 '쏘우: 제네시스' 전격 공개",
+          "source": "인벤",
+          "time": "8월 31일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=320189"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "락스타 \"GTA 6, 출시 시점 생성 AI·소액결제 배제\"",
+          "source": "IGN India",
+          "time": "8월 30일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/grand-theft-auto-vi/270518/gta-6-will-have-no-microtransactions-or-generative-ai-at-launch-rockstar-says"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "CDPR, \"위쳐 4 실물 패키지 판 출시 유지 확정\"",
+          "source": "IGN India",
+          "time": "8월 30일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/the-witcher-4-polaris/270515/the-witcher-4-will-have-a-physical-edition-even-if-discs-go-away-cd-projekt-red-confirms"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'원스 휴먼', 10월 대형 업데이트 '심연의 섬' 발표",
+          "source": "4Gamer",
+          "time": "8월 29일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/658/G065821/20260829015/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "토에이 게임즈, TGS 첫 참가 및 신작 3종 시연",
+          "source": "Famitsu",
+          "time": "8월 31일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202608/86030"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'토탈 워: 워해머 4만', 게임스컴 최우수 PC 게임 수상",
+          "source": "PC Gamer",
+          "time": "8월 30일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/strategy/total-war-warhammer-40-000-wins-best-pc-game-at-gamescom/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "액티비전, '콜 오브 듀티' 불법 핵 프로그램 유통 제재",
+          "source": "PC Gamer",
+          "time": "8월 30일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/call-of-duty/activision-serves-cease-and-desist-to-infamous-call-of-duty-cheat-maker-and-films-the-whole-thing-we-will-find-you/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "기본으로의 회귀: GTA 6가 던진 AAA 게임의 본질적 가치",
+      "intro": "생성형 AI와 소액결제가 지배하는 시대, 세계 최대의 기대작은 왜 이를 전면 배제했을까요?\n거대 자본이 선택한 '완성도 우선주의'가 게임 산업에 던지는 묵직한 경종을 분석합니다.",
+      "points": "락스타 게임즈가 GTA 6 출시 시점에 생성형 AI와 소액결제를 배제하겠다고 밝히며, CDPR의 실물 패키지 유지 선언과 함께 전통적인 게임 제작 및 유통 방식으로의 회귀를 시사했습니다. 🎮\n\n이는 라이브 서비스의 피로도와 미완성 출시에 지친 전 세계 게이머들의 **소비자 심리**를 정확히 꿰뚫은 전략입니다. 무분별한 조기 수익화 모델 대신 콘텐츠 자체의 밀도에 집중함으로써, 타이틀의 초기 신뢰도와 브랜드 가치를 극대화하는 **게임 소비 구조**의 안정화를 꾀하고 있습니다. 💡\n\n결국 첨단 기술의 무조건적인 도입보다 **'장인 정신에 기반한 완결성 높은 경험'이 AAA 시장의 절대적인 흥행 공식**임을 증명하는 사례입니다. 🔍\n\n과연 락스타의 이번 결단이 지난 수년간 업계를 지배해 온 단기 수익 중심의 비즈니스 모델을 재편하는 분수령이 될 수 있을까요? 🚀"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": true,
+      "items": [],
+      "title": "Peter Cullen, the voice of Optimus Prime for 40 years of movies, shows and games, has sadly passed away at 85",
+      "score": 50441,
+      "url": "https://i.redd.it/bnklsgqhjxlh1.png",
+      "preview_img": "https://i.redd.it/bnklsgqhjxlh1.png",
+      "permalink": "https://redd.it/1vzw3su",
+      "subreddit": "gaming",
+      "author": "ChiefLeef22",
+      "num_comments": 0,
+      "what_happened": "\"40년간 영화, 애니, 게임에서 옵티머스 프라임을 연기한 성우 피터 컬런이 85세로 별세했습니다\"라는 제목과 함께, 자신의 시그니처 사인이 담긴 옵티머스 프라임 피규어를 소중하게 쥐고 미소 짓는 고인의 사진이 올라와 전 세계 게이머들의 가슴을 먹먹하게 만들었습니다.",
+      "one_liner": "어린 시절 우리 모두의 영원한 대장님, 올스파크의 품에서 편히 쉬시길 바랍니다. Autobots, roll out! 🫡🕊️"
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Breathedge 2",
+        "releases.0.note": "A sequel to the space survival adventure officially launching on August 31, featuring its signature dark comedy and greatly expanded open-world exploration.",
+        "releases.0.dev": "RedRuins Softworks",
+        "releases.1.game": "Serious Sam: Shatterverse",
+        "releases.1.note": "A hyper-classic FPS releasing on August 31, featuring fast-paced action where players jump across multiple dimensions to blast through waves of alien hordes.",
+        "releases.1.dev": "Croteam",
+        "releases.2.game": "Sucker for Love: Crush Landing",
+        "releases.2.note": "A sequel to the comedic Cthulhu mythos dating sim releasing on August 31, chronicling bizarre and delightful love stories with new alien heroines.",
+        "releases.2.dev": "Akabaka",
+        "releases.3.game": "Crimson Moon",
+        "releases.3.note": "A dark fantasy action game releasing on September 1, featuring exploration and intense combat to cleanse a cursed world under a crimson moon.",
+        "releases.3.dev": "Crimson Games",
+        "releases.4.game": "The Blood of Dawnwalker",
+        "releases.4.note": "A new dark RPG releasing on September 2, offering narrative-driven strategic action shaped by choices and secret feuds between vampires and humans.",
+        "releases.4.dev": "Dawnwalker Studio",
+        "releases.5.game": "Bombanana!",
+        "releases.5.note": "A casual party brawler releasing on September 2, where players can enjoy multiplayer battles using various bomb gimmicks and bouncy banana characters.",
+        "releases.5.dev": "Bombanana Team",
+        "events.0.name": "2026 FSL Summer Semifinals",
+        "events.0.note": "Showdown between T1 'Navy' Kim Yoo-min and KT 'Uta' Lee Ji-hwan",
+        "events.0.venue": "Jamsil DN Colosseum",
+        "events.1.name": "HoYoLAND 2026",
+        "events.1.note": "A massive offline fan festival gathering all flagship titles across HoYoverse IPs in one place.",
+        "events.1.venue": "KINTEX, Ilsan"
+      },
+      "briefing": {
+        "items.0.title": "'The Witcher 3' Unveils 12-Minute Gameplay Video for New Expansion",
+        "items.0.source": "Inven",
+        "items.0.time": "August 31",
+        "items.1.title": "New Asymmetrical Horror Title 'Saw: Genesis' Revealed",
+        "items.1.source": "Inven",
+        "items.1.time": "August 31",
+        "items.2.title": "Rockstar: \"GTA 6 to Exclude Generative AI and Microtransactions at Launch\"",
+        "items.2.source": "IGN India",
+        "items.2.time": "August 30",
+        "items.3.title": "CDPR Confirms Physical Edition Release for 'The Witcher 4'",
+        "items.3.source": "IGN India",
+        "items.3.time": "August 30",
+        "items.4.title": "'Once Human' Announces Major October Update 'Abyss Island'",
+        "items.4.source": "4Gamer",
+        "items.4.time": "August 29",
+        "items.5.title": "Toei Games Makes TGS Debut with Demos for 3 New Titles",
+        "items.5.source": "Famitsu",
+        "items.5.time": "August 31",
+        "items.6.title": "'Total War: Warhammer 40,000' Wins Best PC Game at Gamescom",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "August 30",
+        "items.7.title": "Activision Cracks Down on Illegal 'Call of Duty' Cheat Distribution",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "August 30"
+      },
+      "drk": {
+        "title": "Back to Basics: The Intrinsic Value of AAA Games Sparked by GTA 6",
+        "intro": "In an era dominated by generative AI and microtransactions, why has the world's most anticipated title completely excluded them?\nWe analyze the profound wake-up call that big capital's choice of 'polish-first' sends to the gaming industry.",
+        "points": "Rockstar Games announced that it will exclude generative AI and microtransactions at the launch of GTA 6, which, alongside CD Projekt Red's commitment to physical editions, signals a return to traditional game development and distribution models. 🎮\n\nThis strategy precisely taps into the **consumer sentiment** of global gamers who are exhausted by live-service fatigue and unfinished releases. By focusing on content depth rather than indiscriminate early monetization models, they aim to stabilize the **game consumption structure** while maximizing the title's initial trust and brand value. 💡\n\nUltimately, this proves that **'a complete, high-polish experience rooted in craftsmanship' remains the absolute formula for success in the AAA market**, rather than the unconditional adoption of cutting-edge technology. 🔍\n\nCould Rockstar's decisive move become the turning point that reshapes the short-term profit-driven business models that have dominated the industry over the past several years? 🚀"
+      },
+      "meme": {
+        "what_happened": "A post titled \"Peter Cullen, the voice actor who played Optimus Prime across movies, animation, and games for 40 years, has passed away at the age of 85\" went viral along with a photo of the late actor smiling warmly while holding an Optimus Prime figure with his signature autograph, touching the hearts of gamers worldwide.",
+        "one_liner": "To our forever Commander from childhood, may you rest in peace in the embrace of the AllSpark. Autobots, roll out! 🫡🕊️"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "Breathedge 2",
+        "releases.0.note": "8月31日に正式リリースされる宇宙サバイバルアドベンチャーの続編で、特有のブラックユーモアと大幅に拡張されたオープンワールド探索をお届けします。",
+        "releases.0.dev": "RedRuins Softworks",
+        "releases.1.game": "Serious Sam: Shatterverse",
+        "releases.1.note": "8月31日にリリースされるハイクラシックFPSで、多次元を行き交い押し寄せるエイリアン軍団をド派手に撃破する爽快アクションが楽しめます。",
+        "releases.1.dev": "Croteam",
+        "releases.2.game": "Sucker for Love: Crush Landing",
+        "releases.2.note": "8月31日にリリースされるクトゥルフ神話をモチーフにしたコミック恋愛シミュレーションの続編で、新たな異星人ヒロインたちとの奇怪で愉快なラブストーリーを描きます。",
+        "releases.2.dev": "Akabaka",
+        "releases.3.game": "Crimson Moon",
+        "releases.3.note": "9月1日にリリースされるダークファンタジーアクションゲームで、紅い月が昇る呪われた世界を浄化するための探索と緊張感あふれる戦闘を繰り広げます。",
+        "releases.3.dev": "Crimson Games",
+        "releases.4.game": "The Blood of Dawnwalker",
+        "releases.4.note": "9月2日にリリースされるダークRPGの新作で、吸血鬼と人間の暗闘や選択によって分岐する物語主導の戦略アクションを提供します。",
+        "releases.4.dev": "Dawnwalker Studio",
+        "releases.5.game": "ボンバナナ！",
+        "releases.5.note": "9月2日にリリースされるカジュアル乱闘パーティーゲームで、多彩な爆弾ギミックとコミカルに跳ね回るバナナキャラクターを活用したマルチプレイ対戦が楽しめます。",
+        "releases.5.dev": "Team Bombanana",
+        "events.0.name": "2026 FSLサマー 決勝進出戦",
+        "events.0.note": "T1「Navy」キム・ユミン vs KT「Uta」イ・ジファン 直接対決",
+        "events.0.venue": "蚕室DNコロシアム",
+        "events.1.name": "HoYoLAND 2026",
+        "events.1.note": "HoYoverseの主要IP代表作が一堂に会する大規模オフラインユーザーフェスティバル",
+        "events.1.venue": "一山KINTEX（キンテックス）"
+      },
+      "briefing": {
+        "items.0.title": "『ウィッチャー3』、新規拡張パックの12分プレイ映像を公開",
+        "items.0.source": "Inven",
+        "items.0.time": "8月31日",
+        "items.1.title": "非対称ホラー新作『SAW: Genesis』電撃公開",
+        "items.1.source": "Inven",
+        "items.1.time": "8月31日",
+        "items.2.title": "ロックスター「『GTA 6』、発売時点で生成AI・マイクロトランザクションを排除」",
+        "items.2.source": "IGN India",
+        "items.2.time": "8月30日",
+        "items.3.title": "CDPR「『ウィッチャー4』パッケージ版の発売継続を確定」",
+        "items.3.source": "IGN India",
+        "items.3.time": "8月30日",
+        "items.4.title": "『Once Human』、10月大型アップデート「深淵の島」を発表",
+        "items.4.source": "4Gamer",
+        "items.4.time": "8月29日",
+        "items.5.title": "東映ゲームズ、TGS初出展および新作3本の試遊を実施",
+        "items.5.source": "Famitsu",
+        "items.5.time": "8月31日",
+        "items.6.title": "『トータルウォー：ウォーハンマー40K』、gamescom最優秀PCゲーム賞を受賞",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "8月30日",
+        "items.7.title": "アクティビジョン、『コール オブ デューティ』の不正チートツール流通を取り締まり",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "8月30日"
+      },
+      "drk": {
+        "title": "原点への回帰：『GTA 6』が問いかけるAAAタイトルの本質的価値",
+        "intro": "生成AIとマイクロトランザクションが席巻する時代、世界最大の期待作はなぜこれらを全面排除したのでしょうか？\n巨大資本が選択した「完成度至上主義」がゲーム業界に投げかける重厚な警鐘を分析します。",
+        "points": "ロックスター・ゲームスが『GTA 6』の発売時点で生成AIとマイクロトランザクションを排除すると明かし、CDPRによるパッケージ版継続宣言とともに伝統的なゲーム制作・流通方式への回帰を示唆しました。🎮\n\nこれはライブサービスの疲労感と未完成リリースに辟易した世界中のゲーマーたちの**消費者心理**を的確に捉えた戦略です。無分別な早期マネタイズモデルの代わりにコンテンツ自体の密度に集中することで、タイトルの初期信頼性とブランド価値を最大化する**ゲーム消費構造**の安定化を図っています。💡\n\n結局のところ、先端技術の無条件な導入よりも**「職人精神に基づく完成度の高い体験」こそがAAA市場における絶対的な成功法則**であることを証明する事例と言えます。🔍\n\n果たしてロックスターの今回の決断は、過去数年間にわたり業界を支配してきた短期収益中心のビジネスモデルを再編する分岐点となり得るのでしょうか？🚀"
+      },
+      "meme": {
+        "what_happened": "「40年間にわたり映画、アニメ、ゲームでオプティマスプライムを演じた声優ピーター・カレン氏が85歳で逝去」というニュースとともに、自身のサインが入ったオプティマスプライムのフィギュアを大切そうに抱えて微笑む故人の写真が投稿され、世界中のゲーマーの胸を締め付けました。",
+        "one_liner": "幼い頃の私たち全員の永遠のリーダー、オールス nationalパークの胸の中でどうか安らかにお眠りください。Autobots, roll out! 🫡🕊️"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "GTA 6가 일깨운 AAA 게임의 본질 🚗 (feat. 이번 주 꿀잼 밈 모음 🤣)",
+    "en": "What GTA 6 Just Proved About AAA Gaming 🚗 (feat. Spiciest Gaming Memes 🤣)",
+    "ja": "『GTA 6』が突きつけたAAAタイトルの真価 🚗 (feat. 今週の爆笑ミーム 🤣)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "락스타가 제대로 칼 갈았네요! 🔥\nGTA 6는 출시 때 생성 AI랑 소액결제 싹 뺀대요 🚗\n\nhttps://www.gtplayer.net/edition-114/\n#GTA6 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-08-31T07:01:30.620980"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "8월 31일 오늘의 게임 소식 🎮\n\n📰 [뉴스] GTA 6 생성 AI·소액결제 배제 선언 & 위쳐 3 신규 확장팩 플레이 영상 공개 등\n📅 [출시] 브레스엣지 2, 시리어스 샘: 섀터버스 등 이번 주 PC 신작 라인업\n✍️ [인사이트] GTA 6가 던진 경종, 거대 자본이 생성 AI와 소액결제를 뺀 이유\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#gtplayer #게임뉴스 #게임소식 #게임뉴스레터 #신작게임 #게임추천 #GTA6 #GTA #락스타게임즈 #더위쳐3 #위쳐4 #원스휴먼 #쏘우제네시스 #브레스엣지2 #시리어스샘 #PC게임 #스팀게임 #게임스타그램 #겜스타그램 #게이머",
+          "image_paths": [
+            "web\\instagram\\edition_114\\card_cover.png",
+            "web\\instagram\\edition_114\\card_news.png",
+            "web\\instagram\\edition_114\\card_calendar.png",
+            "web\\instagram\\edition_114\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3975422509847891958_39332818166",
+            "url": "https://www.instagram.com/p/DcribXDk0_2/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-08-31T07:02:03.745167"
+    },
+    "linkedin": {
+      "results": {
+        "posted": false,
+        "text": "What GTA 6 Just Proved About AAA Gaming 🚗 (feat. Spiciest Gaming Memes 🤣)\n\nRockstar is setting a bold new standard by launching GTA 6 with zero generative AI and microtransactions. From massive Witcher reveals to the latest industry shifts, catch up on the most exciting stories shaping the future of gaming.\n\nhttps://www.gtplayer.net/edition-114-en/",
+        "error": "LinkedIn posting failed"
+      },
+      "updated_at": "2026-08-31T07:02:21.745339"
+    }
+  }
+}

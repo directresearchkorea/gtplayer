@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="{{#is "post"}}{{#post}}{{#has tag="hash-lang-en"}}en{{else}}{{#has tag="hash-lang-ja"}}ja{{else}}ko{{/has}}{{/has}}{{/post}}{{else}}{{@site.locale}}{{/is}}">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M3429V8X');</script>
+<!-- End Google Tag Manager -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{meta_title}}</title>
+{{ghost_head}}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{asset "css/style.css"}}">
+<script>
+  if (!localStorage.getItem('langSelectBoxSelected')) {
+    const currentPath = window.location.pathname;
+    const isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(navigator.userAgent);
+    // 검색엔진 봇은 리다이렉트하지 않음, 기본 도메인 접속시에만 리다이렉트 실행
+    if (!isBot && currentPath === '/') {
+      fetch('https://ipapi.co/json/')
+        .then(response => response.json())
+        .then(data => {
+          const country = data.country_code;
+          if (country === 'KR') {
+            // Do nothing, Korean content is default
+          } else if (country === 'JP') {
+            window.location.replace('/ja/');
+          } else {
+            window.location.replace('/en/');
+          }
+        })
+        .catch(error => console.error("Error fetching location data", error));
+    }
+  }
+</script>
+</head>
+<body class="{{body_class}}">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M3429V8X"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  {{> header}}
+
+  <main>
+    {{{body}}}
+  </main>
+
+  {{> footer}}
+
+  <script>
+    // Ghost Content API key — Code Injection에서 설정된 값이 있으면 유지
+    if (!window.__GHOST_CONTENT_KEY) window.__GHOST_CONTENT_KEY = '';
+  </script>
+
+  {{ghost_foot}}
+</body>
+</html>

@@ -1,0 +1,24 @@
+{
+  "name": "ghost-theme-gtplayer",
+  "description": "GTPlayer — Daily Game Intelligence newsletter theme",
+  "version": "1.0.8",
+  "engines": {
+    "ghost": ">=5.0.0"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "GTPlayer Team",
+    "email": "contact@gtplayer.net"
+  },
+  "config": {
+    "posts_per_page": 12,
+    "image_sizes": {
+      "xxs": { "width": 30 },
+      "xs": { "width": 100 },
+      "s": { "width": 300 },
+      "m": { "width": 600 },
+      "l": { "width": 1000 },
+      "xl": { "width": 2000 }
+    }
+  }
+}

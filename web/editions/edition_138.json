@@ -1,0 +1,496 @@
+{
+  "num": "138",
+  "date": "2026-10-02",
+  "status": "published",
+  "schedule": {
+    "date": "2026-10-02",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "트랜스포트 피버 3",
+          "dev": "어반 게임즈",
+          "date": "10월 1일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 1일 출시된 교통 경영 시뮬레이션 게임으로, 육해공을 아우르는 운송망을 구축하고 도시 간 물류와 여객을 관리하는 신작입니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1781221",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "봄의 소리는 마치 너와 닮아서",
+          "dev": "언네임드문",
+          "date": "10월 1일(목)",
+          "platforms": [
+            "Switch",
+            "iOS",
+            "Android"
+          ],
+          "color": "#10b981",
+          "note": "10월 1일 닌텐도 스위치 및 모바일 플랫폼으로 정식 출시된 백합 비주얼 노벨로, 두 주인공 사이의 섬세한 서사를 감상할 수 있습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1781172",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "event",
+          "game": "아바 리버스",
+          "dev": "밸로프",
+          "date": "10월 1일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "10월 1일부터 7일까지 5천 명 규모의 클로즈 베타 테스트(CBT)를 진행하여 원작 IP 기반의 신규 시스템과 안정성을 점검합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=321671",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "007 퍼스트 라이트",
+          "dev": "IO 인터랙티브",
+          "date": "10월 1일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#f59e0b",
+          "note": "10월 1일 첫 번째 무료 DLC '확장 작전'이 배포되어 5가지 신규 미션과 뉴 게임 플러스(NG+), 신규 모드가 새롭게 추가됩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://www.ign.com/articles/007-first-lights-first-dlc-out-now-adds-new-game-plus",
+          "source_name": "IGN"
+        },
+        {
+          "category": "release",
+          "game": "인트라비너스 3: 보더라인",
+          "dev": "익스플로시브 스쿼트 게임즈",
+          "date": "10월 2일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 2일 PC(스팀)로 정식 출시되는 탑다운 전술 액션 게임으로, 정밀한 잠입 침투와 격렬한 총격전의 선택지를 자유롭게 제공합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4890770/Intravenous_3_Borderline/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "듀얼 프로토콜: 에바 앤 마일즈",
+          "dev": "듀얼 프로토콜 개발팀",
+          "date": "10월 2일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 2일 스팀을 통해 출시되는 미스터리 추리 어드벤처 게임으로, 두 인물의 시점을 오가며 사건의 진실을 파헤치는 신작입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4660280/DUAL_PROTOCOL_The_Case_of_Eva__Miles/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "2026 아이치·나고야 아시안게임 LoL 결승전",
+          "note": "대한민국 대표팀 vs 대만 대표팀 5전 3선승제 금메달 결정전",
+          "venue": "아이치 스카이 엑스포 D홀",
+          "date": "2026-10-02",
+          "tag": "e스포츠",
+          "website": "https://www.inven.co.kr/webzine/news/?news=321695"
+        },
+        {
+          "name": "AVA RE:BIRTH 클로즈 베타 테스트(CBT)",
+          "note": "Alliance of Valiant Arms IP 기반 신작 FPS 비공개 테스트",
+          "venue": "온라인 (PC)",
+          "date": "2026-10-01 ~ 10-07",
+          "tag": "베타 테스트",
+          "website": "https://www.inven.co.kr/webzine/news/?news=321671"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "엔씨 '아이온2', 글로벌 사전 플레이 첫날 동접 17만 돌파",
+          "source": "게임메카",
+          "time": "10월 1일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1781256"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "크래프톤, 익스트랙션 슈터 'PUBG: 블랙 버짓' 개발 중단",
+          "source": "게임메카",
+          "time": "10월 1일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1781251"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "락스타 'GTA 6', 북미 ESRB서 성인(M) 등급 확정",
+          "source": "IGN India",
+          "time": "10월 1일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/grand-theft-auto-vi/273429/gta-6-finally-gets-a-rating-from-the-esrb-ign-daily-fix"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "메트로 2033·라스트 라이트, 차세대 콘솔 업데이트 발표",
+          "source": "IGN India",
+          "time": "10월 1일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/metro-2033/273419/ahead-of-metro-2039-metro-2033-and-metro-last-light-are-getting-next-gen-updates"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'케나: 코스모라의 각인', 완성도 높이기 위해 2027년 출시 연기",
+          "source": "4Gamer",
+          "time": "10월 1일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/983/G098316/20261001057/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'젤다의 전설 시간의 오카리나' 스위치2 리메이크 예약 개시",
+          "source": "電撃オンライン",
+          "time": "10월 1일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202610/89611"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "EU 당국, 글로벌 게임사 9곳 대상 인게임 재화 관행 조사 착수",
+          "source": "GamesIndustry.biz",
+          "time": "10월 1일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/consumer-protection-cooperation-network-launches-coordinated-actions-against-nine-companies-on-in-game-currency"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'더 위쳐 3', 리마스터 출시 효과로 스팀 역대 최고 동접 돌파",
+          "source": "GamesIndustry.biz",
+          "time": "10월 1일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/the-witcher-3-hits-its-highest-ever-steam-concurrent-player-count-following-Remastered-launch"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "‘PUBG: 블랙 버짓’ 개발 중단이 던진 경종, 익스트랙션 슈터의 거품은 꺼졌는가",
+      "intro": "강력한 IP와 막대한 자본만 있다면 차세대 흥행 장르를 손쉽게 선점할 수 있을까요?\n크래프톤의 전격적인 프로젝트 중단 발표는 유행을 좇던 글로벌 게임업계에 서늘한 질문을 던집니다.",
+      "points": "크래프톤이 배틀그라운드 IP 기반의 차기 익스트랙션 슈터 'PUBG: 블랙 버짓'의 개발을 전격 중단했습니다. 🎮 '탈코프' 라이크 열풍을 이어받아 배틀로얄의 뒤를 이을 차세대 주자로 꼽히던 프로젝트였기에, 대형 IP를 쥔 베테랑 개발사조차 이 장르에서 발을 뺀 사실은 업계 안팎에 큰 충격을 주고 있습니다.\n\n이번 결정은 단순한 프로젝트 취소를 넘어 익스트랙션 장르의 구조적 한계와 **소비자 심리**의 급격한 변화를 보여줍니다. 📉 높은 진입 장벽과 가혹한 손실 페널티는 소수의 하드코어 유저만을 결집시켰을 뿐, 대다수 게이머에게는 지속하기 힘든 피로감으로 작용했습니다. 대중적인 유저 풀을 확보하지 못한 라이브 서비스 게임은 유지 자체가 불가능하다는 냉혹한 현실이 다시금 드러난 셈입니다.\n\n트렌드를 모방한 대규모 프로젝트의 시대는 저물고 있습니다. 익스트랙션 슈터 시장의 실제 파이가 예상보다 훨씬 협소함이 증명된 지금, **게이머가 진정으로 몰입할 수 있는 본질적인 재미 대신 맹목적으로 장르적 문법만을 답습한 기획은 필패한다**는 점을 분명히 인식해야 합니다. 💡\n\n빠른 실패를 인정하고 체질을 개선하는 결단은 냉정하지만 합리적인 경영 판단입니다. 🧭 과연 장르의 유행 뒤에 가려진 피로도를 걷어내고, 전 세계 게이머의 마음을 다시 움직일 새로운 게임 플레이의 해답은 어디서 찾을 수 있을까요?"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "베리드 스타즈 (BURIED STARS)",
+      "url": "https://store.epicgames.com/ko/p/buried-stars-d7c88c",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-1j9of.jpg",
+      "comment": "🎁 **이번 주 에픽게임즈 무료 배포**\n- **베리드 스타즈 (BURIED STARS)** (~10월 9일 00:00까지)\n  생방송 무대 붕괴 사고 현장을 배경으로 한 긴장감 넘치는 미스터리 어드벤처입니다. 현장 대화와 SNS를 통해 단서를 모아 진실을 추적하는 깊이 있는 스토리텔링을 경험해 보세요!\n\n👀 **Next Week**\n다음 주에는 감성적인 공포 게임 <Out of Sight>와 아늑한 중세 도시 건설 퍼즐 <TerraScape>가 무료 배포될 예정입니다.\n\n🔥 **스팀 주말 혜택**\n방대한 서부 오픈 월드의 걸작 <Red Dead Redemption 2> 주말 특가 할인이 10월 9일 02:00까지 진행됩니다. 아직 경험해보지 못했다면 이번 기회를 놓치지 마세요!",
+      "steam_deal": {
+        "type": "deal",
+        "name": "Red Dead Redemption 2",
+        "app_id": 1174180,
+        "url": "https://store.steampowered.com/app/1174180",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+        "discount_percent": 75,
+        "original_price": 7300000,
+        "final_price": 1825000,
+        "end_date": "2026-10-09 02:00"
+      },
+      "epic_current": [
+        {
+          "title": "베리드 스타즈 (BURIED STARS)",
+          "description": "『베리드 스타즈』는 생방송 오디션 프로그램 붕괴 사고 현장을 배경으로 펼쳐지는 미스터리 어드벤처입니다. 갇힌 사람들은 서로, 그리고 SNS를 통해 소통하며 구조를 기다리지만, 뜻밖의 사건이 벌어지며 갈등과 의심에 휘말리게 됩니다.",
+          "url": "https://store.epicgames.com/ko/p/buried-stars-d7c88c",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-1j9of.jpg",
+          "end_date": "2026-10-09 00:00"
+        }
+      ],
+      "epic_upcoming": [
+        {
+          "title": "Out of Sight",
+          "description": "Out of Sight는 1인칭과 2인칭 관점을 매혹적인 목소리 연기와 결합하여 소름 끼치면서도 감성적인 여정에 몰입시키는 심오한 분위기의 공포 게임입니다.",
+          "url": "https://store.epicgames.com/ko/p/out-of-sight-b96ca8",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/6e1bf54cfa6344c89d41e4e7af036ac9/out-of-sight-1l12n.jpg",
+          "start_date": "2026-10-09 00:00"
+        },
+        {
+          "title": "TerraScape",
+          "description": "아늑한 중세 도시 건설 퍼즐에서 건물을 전략적으로 배치해 하늘에 떠 있는 섬에 아름다운 왕국을 건설하세요. 숨겨진 조합을 발견하고, 주간 도전에 도전하며, 다양한 싱글플레이 및 멀티플레이 모드에서 무작위로 생성되는 맵을 탐험할 수 있습니다.",
+          "url": "https://store.epicgames.com/ko/p/terrascape-2b12b1",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/a740a2eed807469f88b9dff17e7cd3a3/terrascape-j7p8d.png",
+          "start_date": "2026-10-09 00:00"
+        }
+      ],
+      "epic_discounted": []
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Transport Fever 3",
+        "releases.0.note": "Released on October 1, this new transport management simulation game lets players build land, sea, and air transport networks and manage intercity logistics and passenger transit.",
+        "releases.0.dev": "Urban Games",
+        "releases.1.game": "The Sound of Spring Resembles You",
+        "releases.1.note": "A yuri visual novel officially released on Nintendo Switch and mobile platforms on October 1, featuring a delicate narrative between two protagonists.",
+        "releases.1.dev": "Unnamed Moon",
+        "releases.2.game": "AVA RE:BIRTH",
+        "releases.2.note": "Conducting a Closed Beta Test (CBT) for 5,000 players from October 1 to 7 to evaluate new systems and stability based on the original IP.",
+        "releases.2.dev": "VALOFE",
+        "releases.3.game": "007 First Light",
+        "releases.3.note": "The first free DLC 'Expanded Operations' launched on October 1, adding five new missions, New Game Plus (NG+), and new game modes.",
+        "releases.3.dev": "IO Interactive",
+        "releases.4.game": "Intravenous 3: Borderline",
+        "releases.4.note": "A top-down tactical action game officially launching on PC (Steam) on October 2, offering players the freedom to choose between stealth infiltration and intense firefights.",
+        "releases.4.dev": "Explosive Squat Games",
+        "releases.5.game": "Dual Protocol: Eva & Miles",
+        "releases.5.note": "A mystery detective adventure game releasing on Steam on October 2, where players uncover the truth behind incidents by switching perspectives between two characters.",
+        "releases.5.dev": "Dual Protocol Development Team",
+        "events.0.name": "2026 Aichi-Nagoya Asian Games LoL Finals",
+        "events.0.note": "South Korea vs. Chinese Taipei Best-of-Five Gold Medal Match",
+        "events.0.venue": "Aichi Sky Expo Hall D",
+        "events.1.name": "AVA RE:BIRTH Closed Beta Test (CBT)",
+        "events.1.note": "Closed beta test for the new FPS based on the Alliance of Valiant Arms IP",
+        "events.1.venue": "Online (PC)"
+      },
+      "briefing": {
+        "items.0.title": "NCSOFT's 'Aion 2' Surpasses 170,000 Concurrent Players on First Day of Global Pre-Play",
+        "items.0.source": "Gamemeca",
+        "items.0.time": "October 1",
+        "items.1.title": "Krafton Cancels Development of Extraction Shooter 'PUBG: Black Budget'",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "October 1",
+        "items.2.title": "Rockstar's 'GTA 6' Confirmed for Mature (M) Rating by North American ESRB",
+        "items.2.source": "IGN India",
+        "items.2.time": "October 1",
+        "items.3.title": "Metro 2033 & Last Light Announce Next-Gen Console Updates",
+        "items.3.source": "IGN India",
+        "items.3.time": "October 1",
+        "items.4.title": "'Kena: Scars of Cosmora' Delayed to 2027 to Improve Quality",
+        "items.4.source": "4Gamer",
+        "items.4.time": "October 1",
+        "items.5.title": "Pre-orders Open for 'The Legend of Zelda: Ocarina of Time' Switch 2 Remake",
+        "items.5.source": "Dengeki Online",
+        "items.5.time": "October 1",
+        "items.6.title": "EU Regulators Launch Investigation into In-Game Currency Practices Across 9 Global Game Companies",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "October 1",
+        "items.7.title": "'The Witcher 3' Breaks All-Time Steam Concurrent Player Peak Following Remaster Release",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "October 1"
+      },
+      "drk": {
+        "title": "The Wake-Up Call from 'PUBG: Black Budget' Cancellation: Has the Extraction Shooter Bubble Burst?",
+        "intro": "Can a strong IP and massive capital alone effortlessly secure dominance over the next blockbuster genre? Krafton's sudden project cancellation poses a chilling question to a global gaming industry that has been chasing trends.",
+        "points": "Krafton has abruptly halted development on 'PUBG: Black Budget', the upcoming extraction shooter based on the PUBG IP. 🎮 As a project expected to ride the 'Tarkov-like' wave and succeed the battle royale genre, the fact that even a veteran studio with a massive IP withdrew has sent shockwaves through the industry.\n\nThis decision extends beyond a mere project cancellation, highlighting structural limitations of the extraction genre and rapid shifts in **consumer sentiment**. 📉 High entry barriers and punishing loss penalties rallied only a niche hardcore audience, while causing unsustainable fatigue for the broader player base. It once again exposes the harsh reality that a live-service game lacking a mainstream user pool simply cannot survive.\n\nThe era of large-scale projects mimicking trends is waning. Now that the actual market share for extraction shooters has proven far narrower than anticipated, developers must recognize that **projects blindly copying genre conventions without offering core fun that genuinely engages players are bound to fail**. 💡\n\nAdmitting failure early and restructuring is a ruthless yet rational management decision. 🧭 Stripping away the fatigue hidden behind genre hype, where can the industry find the answers for new gameplay that truly resonates with gamers worldwide?"
+      },
+      "epic": {
+        "title": "BURIED STARS",
+        "comment": "🎁 **This Week's Epic Games Free Distribution**\n- **BURIED STARS** (~Until October 8, 15:00 UTC)\n  A suspenseful mystery adventure set against the collapse of a live broadcast stage. Experience deep storytelling as you uncover the truth by gathering clues through on-site conversations and social media!\n\n👀 **Next Week**\nNext week, the emotional horror game <Out of Sight> and the cozy medieval city-building puzzle game <TerraScape> will be available for free.\n\n🔥 **Steam Weekend Deal**\nThe masterpiece open-world Western <Red Dead Redemption 2> is on a weekend special discount until October 8, 17:00 UTC. Don't miss this opportunity if you haven't experienced it yet!"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "トランスポートフィーバー3",
+        "releases.0.note": "10月1日にリリースされた交通経営シミュレーションゲームで、陸・海・空を網羅する輸送網を構築し、都市間の物流と旅客を管理する新作です。",
+        "releases.0.dev": "Urban Games",
+        "releases.1.game": "春の音はまるで君に似ていて",
+        "releases.1.note": "10月1日にNintendo Switchおよびモバイルプラットフォーム向けに正式リリースされた百合ビジュアルノベルで、2人の主人公の繊細な物語を楽しむことができます。",
+        "releases.1.dev": "Unnamed Moon",
+        "releases.2.game": "AVA RE:BIRTH",
+        "releases.2.note": "10月1日から7日まで5千人規模のクローズドベータテスト（CBT）を実施し、原作IPベースの新規システムと安定性を検証します。",
+        "releases.2.dev": "VALOFE",
+        "releases.3.game": "007 ファーストライト",
+        "releases.3.note": "10月1日に初の無料DLC「拡張作戦」が配信され、5つの新ミッションやニューゲームプラス（NG+）、新モードが新たに追加されます。",
+        "releases.3.dev": "IO Interactive",
+        "releases.4.game": "Intravenous 3: Borderline",
+        "releases.4.note": "10月2日にPC（Steam）で正式リリースされるトップダウン戦術アクションゲームで、緻密なステルス潜入と激しい銃撃戦の選択肢を自由に提供します。",
+        "releases.4.dev": "Explosive Squat Games",
+        "releases.5.game": "デュアルプロトコル：エヴァ＆マイルズ",
+        "releases.5.note": "10月2日にSteamを通じてリリースされるミステリー推理アドベンチャーゲームで、2人の視点を行き来しながら事件の真相を解き明かす新作です。",
+        "releases.5.dev": "デュアルプロトコル開発チーム",
+        "events.0.name": "2026年愛知・名古屋アジア競技大会 LoL決勝戦",
+        "events.0.note": "韓国代表 vs チャイニーズ・タイペイ代表 5戦3先勝制 金メダル決定戦",
+        "events.0.venue": "Aichi Sky Expo ホールD",
+        "events.1.name": "AVA RE:BIRTH クローズドベータテスト（CBT）",
+        "events.1.note": "Alliance of Valiant Arms IPベースの新作FPS非公開テスト",
+        "events.1.venue": "オンライン（PC）"
+      },
+      "briefing": {
+        "items.0.title": "NCSOFT『アイオン2』、グローバル事前プレイ初日に同時接続者数17万人を突破",
+        "items.0.source": "ゲームメッカ",
+        "items.0.time": "10月1日",
+        "items.1.title": "KRAFTON、エクストラクションシューター『PUBG: Black Budget』の開発を中止",
+        "items.1.source": "ゲームメッカ",
+        "items.1.time": "10月1日",
+        "items.2.title": "Rockstar Games『GTA 6』、北米ESRBで成人向け（M）レーティング確定",
+        "items.2.source": "IGN India",
+        "items.2.time": "10月1日",
+        "items.3.title": "『メトロ 2033』『メトロ ラストライト』、次世代機向けアップデートを発表",
+        "items.3.source": "IGN India",
+        "items.3.time": "10月1日",
+        "items.4.title": "『ケーナ：コスモラの刻印』、完成度向上のため2027年に発売延期",
+        "items.4.source": "4Gamer",
+        "items.4.time": "10月1日",
+        "items.5.title": "『ゼルダの伝説 時のオカリナ』Switch 2リメイクの予約受付が開始",
+        "items.5.source": "電撃オンライン",
+        "items.5.time": "10月1日",
+        "items.6.title": "EU当局、グローバルゲーム企業9社を対象にゲーム内通貨の商慣行調査に着手",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "10月1日",
+        "items.7.title": "『ウィッチャー3』、リマスター発売効果でSteam歴代最高同時接続者数を更新",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "10月1日"
+      },
+      "drk": {
+        "title": "『PUBG: Black Budget』の開発中止が鳴らす警鐘、エクストラクションシューターのバブルは崩壊したのか",
+        "intro": "強力なIPと莫大な資本さえあれば、次世代のヒットジャンルを容易に先取りできるのでしょうか？\nKRAFTONの電撃的なプロジェクト中止発表は、流行を追っていたグローバルゲーム業界に冷ややかな問いを投げかけています。",
+        "points": "KRAFTONが『PUBG』IPベースの次期エクストラクションシューター『PUBG: Black Budget』の開発を電撃中止しました。🎮 『タルコフ（Tarkov）』ライクのブームを受け継ぎ、バトルロイヤルの後を継ぐ次世代の旗手と目されていたプロジェクトだっただけに、大手IPを擁するベテラン開発会社すらこのジャンルから撤退したという事実は、業界内外に大きな衝撃を与えています。\n\n今回の決定は単なるプロジェクトの中止にとどまらず、エクストラクションジャンルの構造的限界と**消費者心理**の急激な変化を示しています。📉 高い参入障壁と過酷なロスペナルティは少数のコアユーザーを結集させたに過ぎず、大多数のゲーマーにとっては継続困難な疲労感として作用しました。大衆的なユーザー層を確保できなかったライブサービスゲームは、維持自体が不可能であるという冷酷な現実が改めて浮き彫りになった形です。\n\nトレンドを模倣した大規模プロジェクトの時代は終わりを告げつつあります。エクストラクションシューター市場の実際のパイが予想よりもはるかに小さいことが証明された今、**ゲーマーが真に没入できる本質的な面白さの代わりに、盲目的にジャンルの作法を踏襲しただけの企画は必ず失敗する**という点を明確に認識しなければなりません。💡\n\n迅速に失敗を認め、体質改善を図る決断は、冷静ながらも合理的な経営判断です。🧭 果たしてジャンルの流行の裏に隠された疲労感を払拭し、世界中のゲーマーの心を再び動かす新たなゲームプレイの答えはどこに見出すことができるのでしょうか。"
+      },
+      "epic": {
+        "title": "BURIED STARS（ベリードスターズ）",
+        "comment": "🎁 **今週のEpic Games無料配布**\n- **BURIED STARS（ベリードスターズ）**（〜10月9日 00:00まで）\n  生放送のステージ崩壊事故現場を舞台にした、緊迫感あふれるミステリーアドベンチャーです。現場での会話やSNSを通じて手がかりを集め、真相に迫る深みのあるストーリーテリングを体験してください！\n\n👀 **Next Week**\n来週は情緒あふれるホラーゲーム『Out of Sight』と、居心地の良い中世都市建設パズル『TerraScape』が無料配布される予定です。\n\n🔥 **Steamウィークエンドセール**\n広大な西部オープンワールドの傑作『Red Dead Redemption 2』の週末セールが10月9日 02:00まで開催中です。まだプレイしたことがない方は、ぜひこの機会をお見逃しなく！"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "‘PUBG 신작’ 개발 취소 충격… 익스트랙션 슈터의 거품은 끝났는가? 📉 (feat. 에픽 무료 배포 🎁)",
+    "en": "Are Extraction Shooters Dying? 📉 PUBG Spin-off Canceled (+ Epic Free Game 🎁)",
+    "ja": "『PUBG』新作がまさかの開発中止…脱出シューターの終焉？📉（Epic無料配布も🎁）"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "배그 신작 기다리셨던 분들 계신가요? 😢\n크래프톤의 야심작 'PUBG: 블랙 버짓' 개발이 전격 취소됐다고 하네요! 📉\n\nhttps://www.gtplayer.net/edition-138/\n#배틀그라운드 #PUBG #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-10-02T07:01:30.510663"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "10월 2일 오늘의 게임 소식 🎮\n\n📰 [뉴스] 크래프톤 PUBG 신작 개발 중단 충격과 엔씨 아이온2 글로벌 사전 플레이 흥행 등 핵심 소식!\n📅 [출시] 트랜스포트 피버 3, 007 퍼스트 라이트 등 이번 주 주목해야 할 주요 신작 라인업 총정리\n✍️ [인사이트] PUBG 블랙 버짓 개발 취소가 던진 경종, 과연 익스트랙션 슈터의 거품은 꺼졌는가?\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임소식 #배틀그라운드 #PUBG #아이온2 #GTA6 #게임추천 #신작게임 #스팀게임 #콘솔게임 #PC게임 #게임스타그램 #게이머 #게임덕후 #게임리뷰 #게임정보 #게임플레이 #gtplayer #게임트렌드 #인디게임",
+          "image_paths": [
+            "web\\instagram\\edition_138\\card_cover.png",
+            "web\\instagram\\edition_138\\card_news.png",
+            "web\\instagram\\edition_138\\card_calendar.png",
+            "web\\instagram\\edition_138\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3998615303718430327_39332818166",
+            "url": "https://www.instagram.com/p/Dd9727jk-Z3/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-10-02T07:01:56.670416",
+      "freegames_results": {
+        "success": false,
+        "id": null,
+        "url": null,
+        "error": "Instagram 업로드 실패: 404 Client Error: Not Found for url: https://i.instagram.com/api/v1/qe/expose/"
+      },
+      "freegames_updated_at": "2026-10-02T07:02:28.470696"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Are Extraction Shooters Dying? 📉 PUBG Spin-off Canceled (+ Epic Free Game 🎁)\n\nKrafton just pulled the plug on its high-profile extraction shooter PUBG: Black Budget, signaling a massive shift in the genre.\nFrom major GTA 6 updates and Aion 2 player milestones to your next free Epic title, catch up on the biggest gaming stories right now.\n\nhttps://www.gtplayer.net/edition-138-en/",
+        "error": null
+      },
+      "updated_at": "2026-10-02T07:03:08.363811"
+    }
+  }
+}

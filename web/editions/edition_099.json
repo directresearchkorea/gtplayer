@@ -1,0 +1,416 @@
+{
+  "num": "099",
+  "date": "2026-08-10",
+  "status": "published",
+  "schedule": {
+    "date": "2026-08-10",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "돌록 타운",
+          "dev": "미상",
+          "date": "8월 10일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "포스트아포칼립스 세계관을 다룬 횡스크롤 픽셀 아트 농장 시뮬레이션 게임 '돌록 타운'이 8월 10일 PC(스팀)로 정식 출시됩니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1778900",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "팍스 오토크라티카",
+          "dev": "미상",
+          "date": "8월 10일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 10일 스팀을 통해 정식 출시되는 대전략 시뮬레이션 신작 게임입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/1067360/Pax_Autocratica/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "카 워시 시뮬레이터",
+          "dev": "미상",
+          "date": "8월 10일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "세차장을 경영하며 다양한 차량을 관리하고 세차하는 시뮬레이션 신작으로 8월 10일 스팀을 통해 출시됩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/992840/Car_Wash_Simulator/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "에코즈 오브 미스트랄리아",
+          "dev": "미상",
+          "date": "8월 11일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 11일 스팀을 통해 정식 출시되는 판타지 액션 어드벤처 신작 게임입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/974480/Echoes_of_Mystralia/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "에이전트 64: 스파이즈 네버 다이",
+          "dev": "미상",
+          "date": "8월 11일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "90년대 콘솔 액션 감성을 담은 복고풍 레트로 FPS 신작 '에이전트 64: 스파이즈 네버 다이'가 8월 11일 스팀으로 출시됩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/1574480/Agent_64_Spies_Never_Die/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "맨데이트 오더",
+          "dev": "미상",
+          "date": "8월 11일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 11일 스팀 플랫폼을 통해 정식 출시되는 신작 전략 시뮬레이션 게임입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/1733690/Mandate_Order/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "게임스컴 2026",
+          "note": "",
+          "venue": "독일 쾰른",
+          "date": "2026-08-26~2026-08-30",
+          "tag": "오프라인 행사",
+          "d_day_str": "D-16",
+          "website": "https://www.gamescom.global"
+        },
+        {
+          "name": "도쿄 게임쇼 2026",
+          "note": "",
+          "venue": "일본 마쿠하리 멧세",
+          "date": "2026-09-17~2026-09-21",
+          "tag": "오프라인 행사",
+          "d_day_str": "D-38",
+          "website": "https://tgs.nikkeibp.co.jp"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "포병 시뮬 신작 '아이언 네스트', 스팀 '압도적 긍정적'",
+          "source": "게임메카",
+          "time": "8월 9일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1778899"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'명조: 워더링 웨이브', 3.6 업데이트 8월 20일 실시",
+          "source": "게임메카",
+          "time": "8월 9일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1778892"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'마블 토콘', PC 포트 최적화 논란에 아크시스템 대응",
+          "source": "IGN India",
+          "time": "8월 9일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/marvel-tokon-fighting-souls/268312/marvel-tokon-stumbles-to-mixed-steam-reviews-as-miserable-pc-port-complaints-prompt-response-from-ar"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'FF7 에버 크라이시스', 신규 챕터 12 트레일러 공개",
+          "source": "IGN India",
+          "time": "8월 9일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/final-fantasy-vii-ever-crisis/268331/final-fantasy-7-ever-crisis-official-chapter-12-battle-for-the-planet-trailer"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "아케이드 신작 '건담 아세날 코맨더', 내년 2월 가동",
+          "source": "4Gamer",
+          "time": "8월 9일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/031/G103171/20260809010/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'프리코네R', '우마무스메' 콜라보 올가을 개최 확정",
+          "source": "電撃オンライン",
+          "time": "8월 9일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202608/83969"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'P의 거짓' 개발사, 'Nough'로 사명 변경 및 후속작 예고",
+          "source": "PC Gamer",
+          "time": "8월 9일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/action/lies-of-p-studio-reveals-name-change-and-hypes-up-sequel-my-goal-has-been-to-create-the-worlds-greatest-action-game/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "로블록스, 이용자 감소 지속에 주가 70% 폭락",
+          "source": "PC Gamer",
+          "time": "8월 9일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/roblox-shares-plummet-by-70-percent-after-the-company-reports-persistent-decline-in-player-numbers-and-of-course-the-solution-involves-ai/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "거대 플랫폼의 위기와 고밀도 니치 게임의 부상",
+      "intro": "거대 플랫폼 로블록스의 주가가 70% 폭락하는 동안, 작은 세차 시뮬레이터와 포병 게임은 폭발적인 환호를 얻고 있습니다. 📉\n유저들은 왜 모든 것을 담았다는 거대한 가상세계 대신, '하나에 집중한 좁고 깊은 경험'으로 눈을 돌리는 걸까요? 🤔",
+      "points": "오늘 뉴스에서는 무한한 가상세계를 표방하던 로블록스의 유저 이탈과 주가 70% 폭락, 그리고 '아이언 네스트'나 각종 시뮬레이터처럼 명확한 주제를 가진 니치 장르 게임들의 성공이 극명한 대조를 이루었습니다. 📊\n\n이러한 현상은 게이머들의 소비자 심리와 게임 소비 구조가 근본적으로 변화했음을 시사합니다. 무한하지만 깊이가 얕은 가상 공간에 피로감을 느낀 소비자들이, 명확한 목적성과 정교한 게임성을 갖춘 개별 완성형 시뮬레이션으로 빠르게 이동하고 있는 것입니다. 🎯\n\n산업을 관통하는 핵심은 분명합니다. **이제 게임 시장의 주도권은 막연하게 넓은 공간을 제공하는 메타버스가 아니라, 단 하나의 핵심 재미를 극대화한 '고밀도 콘텐츠'로 완전히 이동했습니다.** 🔥\n\n거대한 거품이 걷힌 자리에 비로소 본연의 디테일한 재미가 빛을 발하고 있습니다. 여러분은 지금 어떤 밀도의 재미에 돈과 시간을 투자하고 계십니까? 💡"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": true,
+      "items": [],
+      "title": "Say what you will, but Nintendo consoles are reliable",
+      "score": 16647,
+      "url": "https://i.redd.it/w1t8pmmcbmfh1.png",
+      "preview_img": "https://i.redd.it/w1t8pmmcbmfh1.png",
+      "permalink": "https://redd.it/1v7c0de",
+      "subreddit": "gamememes",
+      "author": "SEVENS_HEAVEN_7",
+      "num_comments": 0,
+      "what_happened": "'뭐라 하든 닌텐도 기기는 진짜 믿음직하다'는 제목처럼, 영화 <메가마인드> 짤을 통해 6년 만에 옷장에서 발굴한 닌텐도 DS가 여전히 배터리 40% 잔량으로 켜지는 경이로운 생존력을 유쾌하게 그려냈습니다.",
+      "one_liner": "요즘 스마트폰은 반나절만 지나도 죽어가는데, 서랍 속 옛날 닌텐도는 자체 원자력 발전이라도 돌리는 게 틀림없습니다. 🔋🎮"
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=099&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=099&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Dullock Town",
+        "releases.0.note": "The post-apocalyptic side-scrolling pixel art farming simulation game 'Dullock Town' will officially launch on PC (Steam) on August 10.",
+        "releases.0.dev": "Unknown",
+        "releases.1.game": "Pax Autocratica",
+        "releases.1.note": "A new grand strategy simulation game officially launching on Steam on August 10.",
+        "releases.1.dev": "Unknown",
+        "releases.2.game": "Car Wash Simulator",
+        "releases.2.note": "A new simulation game where you manage a car wash, maintaining and washing various vehicles, releasing on Steam on August 10.",
+        "releases.2.dev": "Unknown",
+        "releases.3.game": "Echoes of Mystralia",
+        "releases.3.note": "A new fantasy action-adventure game officially releasing on Steam on August 11.",
+        "releases.3.dev": "Unknown",
+        "releases.4.game": "Agent 64: Spies Never Die",
+        "releases.4.note": "A new retro-style FPS capturing 90s console action vibes, 'Agent 64: Spies Never Die', will be released on Steam on August 11.",
+        "releases.4.dev": "Unknown",
+        "releases.5.game": "Mandate Order",
+        "releases.5.note": "A new strategy simulation game officially launching on the Steam platform on August 11.",
+        "releases.5.dev": "Unknown",
+        "events.0.name": "Gamescom 2026",
+        "events.0.venue": "Cologne, Germany",
+        "events.1.name": "Tokyo Game Show 2026",
+        "events.1.venue": "Makuhari Messe, Japan"
+      },
+      "briefing": {
+        "items.0.title": "New Artillery Sim 'Iron Nest' Achieves 'Overwhelmingly Positive' on Steam",
+        "items.0.source": "Gamemeca",
+        "items.0.time": "August 9",
+        "items.1.title": "'Wuthering Waves' Version 3.6 Update Set for August 20",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "August 9",
+        "items.2.title": "Arc System Works Responds to PC Port Optimization Controversy for 'Marvel Tokon'",
+        "items.2.source": "IGN India",
+        "items.2.time": "August 9",
+        "items.3.title": "'FF7 Ever Crisis' Reveals New Chapter 12 Trailer",
+        "items.3.source": "IGN India",
+        "items.3.time": "August 9",
+        "items.4.title": "New Arcade Game 'Gundam Arsenal Commander' to Launch Next February",
+        "items.4.source": "4Gamer",
+        "items.4.time": "August 9",
+        "items.5.title": "'Princess Connect! Re:Dive' Confirms Collaboration with 'Umamusume' This Fall",
+        "items.5.source": "Dengeki Online",
+        "items.5.time": "August 9",
+        "items.6.title": "'Lies of P' Developer Changes Name to 'Nough' and Teases Sequel",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "August 9",
+        "items.7.title": "Roblox Stock Plunges 70% Amid Sustained User Decline",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "August 9"
+      },
+      "drk": {
+        "title": "Crisis of Giant Platforms and the Rise of High-Density Niche Games",
+        "intro": "While stock of the mega-platform Roblox plunges 70%, small car wash simulators and artillery games are receiving explosive acclaim. 📉\nWhy are players turning away from vast virtual worlds promising everything, in favor of 'narrow and deep experiences focused on a single thing'? 🤔",
+        "points": "In today's news, Roblox's loss of users and 70% stock plunge—despite championing an infinite virtual world—stood in stark contrast to the success of niche genre games with clear themes, such as 'Iron Nest' and various simulation titles. 📊\n\nThis phenomenon suggests a fundamental shift in gamers' consumer psychology and gaming consumption patterns. Consumers fatigued by infinite yet shallow virtual spaces are rapidly migrating toward standalone, complete simulations boasting clear purpose and refined gameplay. 🎯\n\nThe key takeaway penetrating the industry is clear: **The initiative in the gaming market has completely shifted away from vague, sprawling metaverses to 'high-density content' that maximizes a single core element of fun.** 🔥\n\nNow that the giant bubble has cleared, intrinsic, detailed fun is finally shining through. What density of fun are you investing your time and money in right now? 💡"
+      },
+      "meme": {
+        "what_happened": "Just like the title 'Say what you will, Nintendo hardware is truly reliable', it humorously depicts the astonishing survivability of a Nintendo DS uncovered from a closet after 6 years—turning on with 40% battery remaining—using a meme from the movie <Megamind>.",
+        "one_liner": "Smartphones these days die after half a day, but old Nintendos sitting in drawers must be running on built-in nuclear power. 🔋🎮"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ドロック・タウン",
+        "releases.0.note": "ポストアポカリプスな世界観を描いた横スクロールのピクセルアート農場シミュレーションゲーム『ドロック・タウン』が8月10日にPC（Steam）で正式リリースされます。",
+        "releases.0.dev": "不明",
+        "releases.1.game": "パックス・オートクラティカ",
+        "releases.1.note": "8月10日にSteamを通じて正式リリースされる大戦略シミュレーションの新作ゲームです。",
+        "releases.1.dev": "不明",
+        "releases.2.game": "カーウォッシュ・シミュレーター",
+        "releases.2.note": "洗車場を経営しながら様々な車両を管理・洗車するシミュレーション新作で、8月10日にSteamを通じてリリースされます。",
+        "releases.2.dev": "不明",
+        "releases.3.game": "エコーズ・オブ・ミストラリア",
+        "releases.3.note": "8月11日にSteamを通じて正式リリースされるファンタジーアクションアドベン처の新作ゲームです。",
+        "releases.3.dev": "不明",
+        "releases.4.game": "エージェント64：スパイズ・ネバー・ダイ",
+        "releases.4.note": "90年代のコンソールアクションの感性を込めたレトロFPS新作『エージェント64：スパイズ・ネバー・ダイ』が8月11日にSteamでリリースされます。",
+        "releases.4.dev": "不明",
+        "releases.5.game": "マンデート・オーダー",
+        "releases.5.note": "8月11日にSteamプラットフォームを通じて正式リリースされる新作戦略シミュレーションゲームです。",
+        "releases.5.dev": "不明",
+        "events.0.name": "gamescom 2026",
+        "events.0.venue": "ドイツ・ケルン",
+        "events.1.name": "東京ゲームショウ 2026",
+        "events.1.venue": "日本・幕張メッセ"
+      },
+      "briefing": {
+        "items.0.title": "砲兵シミュ新作『アイアン・ネスト』、Steamで「圧倒的に好評」",
+        "items.0.source": "ゲームメッカ",
+        "items.0.time": "8月9日",
+        "items.1.title": "『鳴潮』、Ver.3.6アップデートを8月20日に実施",
+        "items.1.source": "ゲームメッカ",
+        "items.1.time": "8월 9일",
+        "items.2.title": "『マーベル トコン』、PC移植の最適化論争にアークシステムワークスが対応",
+        "items.2.source": "IGN India",
+        "items.2.time": "8月9日",
+        "items.3.title": "『FF7 エバークライシス』、新規チャプター12のトレーラーを公開",
+        "items.3.source": "IGN India",
+        "items.3.time": "8月9日",
+        "items.4.title": "アーケード新作『ガンダム アーセナルコマンダー』、来年2月に稼動開始",
+        "items.4.source": "4Gamer",
+        "items.4.time": "8月9日",
+        "items.5.title": "『プリコネR』、『ウマ娘』コラボが今秋開催決定",
+        "items.5.source": "電撃オンライン",
+        "items.5.time": "8月9日",
+        "items.6.title": "『Lies of P』開発元、「Nough」に社名変更および続編を予告",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "8月9日",
+        "items.7.title": "Roblox、ユーザー減少の継続により株価が70%暴落",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "8月9日"
+      },
+      "drk": {
+        "title": "巨大プラットフォームの危機と高密度なニッチゲームの台頭",
+        "intro": "巨大プラットフォームRobloxの株価が70%暴落する一方で、小さな洗車シミュレーターや砲兵ゲームが爆発的な歓声を集めています。 📉\nユーザーはなぜ、すべてを詰め込んだという巨大な仮想世界ではなく、「ひとつに集中した狭く深い体験」へと目を向けるのでしょうか？ 🤔",
+        "points": "本日のニュースでは、無限の仮想世界を標榜していたRobloxのユーザー離脱と株価70%暴落、そして『アイアン・ネスト』や各種シミュレーターのように明確なテーマを持ったニッチジャンルゲームの成功が鮮明な対照をなしました。 📊\n\nこのような現象は、ゲーマーの消費者心理とゲーム消費構造が根本的に変化したことを示唆しています。無限でありながら深みが浅い仮想空間に疲弊を感じた消費者が、明確な目的意識と精巧なゲーム性を備えた個別の完成型シミュレーションへと急速に移動しているのです。 🎯\n\n産業を貫く核心は明確です。 **もはやゲーム市場の主導権は、漠然と広い空間を提供するメタバースではなく、たった一つのコアな面白さを極限まで高めた「高密度コンテンツ」へと完全に移行しました。** 🔥\n\n巨大な泡（バブル）が消え去った場所に、ようやく本来のディテールに富んだ面白さが光を放っています。皆さんは今、どのような密度の面白さにお金と時間を投資していますか？ 💡"
+      },
+      "meme": {
+        "what_happened": "「何と言おうとニンテンドーのハードは本当に信頼できる」というタイトルのように、映画『メガマインド』のミーム画像を通して、6年ぶりにクローゼットから発掘されたニンテンドーDSが依然としてバッテリー残量40%で起動するという驚異的な生存力をコミカルに描いています。",
+        "one_liner": "最近のスマートフォンは半日も経てばバッテリーが切れてしまうのに、引き出しの中の昔のニンテンドーハードは自家用原子力発電でも回しているに違いありません。 🔋🎮"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "거대 플랫폼의 위기와 니치 게임의 반란 📉 (feat. 빵 터지는 게이머 밈 😂)",
+    "en": "Big Gaming is Crashing, Niche Games are Taking Over 📉 (feat. Today’s Top Gamer Meme 😂)",
+    "ja": "大手プラットフォームの危機とニッチゲーの大逆襲 📉 (feat. 今日の爆笑ゲームネタ 😂)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ]
+}

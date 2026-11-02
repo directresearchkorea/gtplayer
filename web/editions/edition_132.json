@@ -1,0 +1,438 @@
+{
+  "num": "132",
+  "date": "2026-09-24",
+  "status": "published",
+  "schedule": {
+    "date": "2026-09-24",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "신모의 클리파",
+          "dev": "아크시스템웍스",
+          "date": "9월 24일(목)",
+          "platforms": [
+            "PS5",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "9월 24일 정식 출시되는 액션 JRPG로, 괴이를 쫓는 독특한 세계관과 몰입감 넘치는 스토리를 선보입니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780977",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "뱅드림 아워 노트",
+          "dev": "빌리빌리",
+          "date": "9월 24일(목)",
+          "platforms": [
+            "모바일"
+          ],
+          "color": "#10b981",
+          "note": "9월 24일 글로벌 정식 출시되는 신작 모바일 리듬 게임으로, 다섯 걸즈 밴드의 새로운 음악과 스토리를 담았습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780949",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "애니모",
+          "dev": "파우프린트 스튜디오",
+          "date": "9월 24일(목)",
+          "platforms": [
+            "모바일",
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "크로스 플랫폼 오픈월드 몬스터 포획 RPG로, 정식 모바일 버전을 출시하며 PC와의 크로스플레이를 지원합니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780950",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "컨트롤 레조넌트",
+          "dev": "레메디 엔터테인먼트",
+          "date": "9월 24일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 24일 스팀으로 정식 출시되는 초능력 3인칭 액션 어드벤처 신작입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3669870/CONTROL_Resonant/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "EA 스포츠 FC 27",
+          "dev": "EA 스포츠",
+          "date": "9월 24일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 24일 스팀을 통해 정식 출시되는 인기 축구 시뮬레이션 시리즈의 최신 타이틀입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4080220/EA_SPORTS_FC_27/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "킹덤 러쉬 6: 제네시스 TD",
+          "dev": "아이언하이드 게임 스튜디오",
+          "date": "9월 24일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 24일 스팀으로 정식 출시되는 대표 전략 타워 디펜스 '킹덤 러쉬' 시리즈의 6번째 신작입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4259190/Kingdom_Rush_6_Genesis_TD/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "2026 발로란트 챔피언스 상하이",
+          "note": "전 세계 발로란트 강팀들이 격돌하는 2026 시즌 최종 챔피언십 대회",
+          "venue": "중국 상하이",
+          "date": "2026-09-24 ~ 10-18",
+          "tag": "e스포츠",
+          "website": "https://www.inven.co.kr/webzine/news/?news=321408"
+        },
+        {
+          "name": "2026 사이버 정기전 (연고대 e스포츠 대항전)",
+          "note": "연세대와 고려대의 오버워치·발로란트·LoL 종목 맞대결 e스포츠 대항전",
+          "venue": "상암 SOOP 콜로세움",
+          "date": "2026-09-28",
+          "tag": "e스포츠",
+          "website": "https://www.gamemeca.com/view.php?gid=1780975"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "한국 김영찬, 'GT7'서 2026 아시안게임 첫 메달",
+          "source": "인벤",
+          "time": "9월 23일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=321416"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "카카오게임즈 '도깨비의세계', 선점 폭주로 서버 증설",
+          "source": "인벤",
+          "time": "9월 23일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=321425"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "공포 게임 '야근사건', 닌텐도 스위치 2 버전 출시",
+          "source": "4Gamer",
+          "time": "9월 24일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/044/G104430/20260918077/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'포코 아 포켓몬', 일본 게임대상 2026 대상 수상",
+          "source": "電撃オンライン",
+          "time": "9월 23일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202609/88574"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "공포 영화 '컨저링' 첫 공식 게임, 10월 넷플릭스 출시",
+          "source": "IGN India",
+          "time": "9월 23일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/netflix/272605/the-conjuring-gets-its-first-ever-video-game-coming-to-netflix-next-month"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'아크 레이더스', 대형 2.0 업데이트 '프로즌 트레일' 공개",
+          "source": "IGN India",
+          "time": "9월 23일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/arc-raiders/272597/arc-raiders-official-frozen-trail-update-developer-overview-video"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "센서타워 \"상반기 日 콘솔·PC 패키지 판매량 13% 증가\"",
+          "source": "GamesIndustry.biz",
+          "time": "9월 23일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-evil-requiem"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "끝없는 과금에 지친 게이머들, '완결된 경험'으로 회귀하다",
+      "intro": "모바일 라이브 서비스의 홍수 속에서 왜 콘솔·PC 패키지 시장이 다시 반등하고 있을까요?\n끝없는 숙제와 확률형 과금에 지친 게이머들의 소비 심리가 새로운 균열을 만들어내고 있습니다.",
+      "points": "최근 센서타워 집계에 따르면 상반기 일본 콘솔·PC 패키지 판매량이 전년 대비 13% 증가했습니다. 📊 '컨트롤 레조넌트', '킹덤 러쉬 6' 같은 패키지 기반 신작 출시와 함께 차세대 콘솔을 겨냥한 게임들이 연이어 등장하며 전통적인 플랫폼 생태계가 뚜렷한 활기를 띠고 있습니다.\n\n이는 라이브 서비스 중심이던 게임 소비 구조에 본질적인 변화가 시작되었음을 시사합니다. ⏳ 일일 퀘스트와 지속적인 결제 유도에 피로감을 느낀 소비자들이 온전한 시작과 명확한 결말이 보장된 패키지 타이틀에서 심리적 안식을 찾고 있는 것입니다. 소유권과 몰입감에 대한 갈망이 다시금 지갑을 열게 만든 셈입니다.\n\nDr. K가 주목하는 지점은 **소비자가 게임에 요구하는 핵심 가치가 '무한한 체류'에서 '완결성 있는 밀도'로 이동했다는 사실**입니다. 💡 성공 방정식은 더 이상 유저의 시간을 억지로 붙잡아두는 라이브 운영에만 머물지 않으며, 정해진 시간 안에 완성도 높은 경험을 전달하는 내러티브와 기획력이 다시금 강력한 경쟁력으로 부상하고 있습니다.\n\n플랫폼의 세대교체와 맞물려 패키지 시장의 질적 성장은 더욱 가속화될 전망입니다. 🎮 여러분은 오늘 밤, 끝이 보이지 않는 모바일 속 경쟁과 확실한 엔딩이 기다리는 패키지 게임 중 어느 쪽을 선택하시겠습니까?"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": true,
+      "title": "EA SPORTS FC 27 | Official Launch Trailer",
+      "channel": "XBOX",
+      "videoId": "Z9z-g3mrNbE",
+      "url": "https://www.youtube.com/watch?v=Z9z-g3mrNbE",
+      "thumbnail": "https://i.ytimg.com/vi/Z9z-g3mrNbE/hqdefault.jpg",
+      "comment": "Xbox 공식 채널을 통해 EA의 대표 축구 시뮬레이션 신작, **EA 스포츠 FC 27**의 공식 런칭 트레일러가 공개되었습니다. 이번 신작은 한층 더 진화한 그래픽과 정교한 물리 엔진으로 실제 경기장에 있는 듯한 최고의 몰입감을 선사할 예정입니다. 전 세계 축구 팬들의 가슴을 뛰게 할 뜨거운 그라운드의 열기를 지금 영상으로 직접 확인해 보세요! ⚽🎮",
+      "search_query": "EA SPORTS FC 27 Official Reveal Trailer",
+      "ai_game_name": "EA 스포츠 FC 27",
+      "ai_reason": "전 세계 축구 팬들의 기대를 한몸에 받는 글로벌 대표 스포츠 프랜차이즈의 최신작으로, 압도적인 하이퍼모션 그래픽과 현장감 넘치는 비주얼을 감상하기에 가장 적합한 공식 영상입니다."
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Shinmo no Qliphoth",
+        "releases.0.note": "An action JRPG officially releasing on September 24, featuring a unique world of hunting supernatural anomalies and an immersive storyline.",
+        "releases.0.dev": "Arc System Works",
+        "releases.1.game": "BanG Dream! Our Note",
+        "releases.1.note": "A new mobile rhythm game officially launching globally on September 24, featuring new music and stories from five girl bands.",
+        "releases.1.dev": "bilibili",
+        "releases.2.game": "Animo",
+        "releases.2.note": "A cross-platform open-world monster-taming RPG launching its official mobile version with cross-play support for PC.",
+        "releases.2.dev": "Pawprint Studio",
+        "releases.3.game": "Control Resonant",
+        "releases.3.note": "A new supernatural third-person action-adventure game officially releasing on Steam on September 24.",
+        "releases.3.dev": "Remedy Entertainment",
+        "releases.4.game": "EA SPORTS FC 27",
+        "releases.4.note": "The latest installment in the popular football simulation series, officially releasing via Steam on September 24.",
+        "releases.4.dev": "EA Sports",
+        "releases.5.game": "Kingdom Rush 6: Genesis TD",
+        "releases.5.note": "The 6th installment in the iconic strategy tower defense 'Kingdom Rush' series, officially launching on Steam on September 24.",
+        "releases.5.dev": "Ironhide Game Studio",
+        "events.0.name": "2026 VALORANT Champions Shanghai",
+        "events.0.note": "The final championship tournament of the 2026 season where top VALORANT teams from around the world clash",
+        "events.0.venue": "Shanghai, China",
+        "events.1.name": "2026 Cyber Games (Yonsei-Korea University Esports Rivalry)",
+        "events.1.note": "An esports showdown between Yonsei University and Korea University competing in Overwatch, VALORANT, and LoL",
+        "events.1.venue": "Sangam SOOP Colosseum"
+      },
+      "briefing": {
+        "items.0.title": "South Korea's Kim Young-chan wins first medal at 2026 Asian Games in 'GT7'",
+        "items.0.source": "Inven",
+        "items.0.time": "September 23",
+        "items.1.title": "Kakao Games expands servers for 'World of Dokkaebi' amid overwhelming character pre-registration",
+        "items.1.source": "Inven",
+        "items.1.time": "September 23",
+        "items.2.title": "Horror game 'The Overtime Incident' releases Nintendo Switch 2 version",
+        "items.2.source": "4Gamer",
+        "items.2.time": "September 24",
+        "items.3.title": "'Poco a Pokémon' wins Grand Prize at Japan Game Awards 2026",
+        "items.3.source": "Dengeki Online",
+        "items.3.time": "September 23",
+        "items.4.title": "First official game based on horror film 'The Conjuring' to launch on Netflix in October",
+        "items.4.source": "IGN India",
+        "items.4.time": "September 23",
+        "items.5.title": "'ARC Raiders' unveils major 2.0 update 'Frozen Trail'",
+        "items.5.source": "IGN India",
+        "items.5.time": "September 23",
+        "items.6.title": "Sensor Tower: \"H1 Japanese console and PC packaged game sales up 13%\"",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "September 23"
+      },
+      "drk": {
+        "title": "Gamers exhausted by endless microtransactions return to 'complete experiences'",
+        "intro": "Amid a flood of mobile live-service games, why is the console and PC packaged game market rebounding once again?\nFatigued by endless daily chores and gacha monetization, gamers' consumer sentiment is creating a new shift.",
+        "points": "According to recent Sensor Tower data, sales of packaged console and PC games in Japan increased by 13% year-on-year in the first half of the year. 📊 Traditional platform ecosystems are showing distinct vitality, driven by releases of new packaged titles like 'Control Resonant' and 'Kingdom Rush 6', as well as games targeting next-generation consoles.\n\nThis suggests that a fundamental shift has begun in the gaming consumption landscape, which was previously centered on live services. ⏳ Consumers tired of daily quests and continuous spending prompts are seeking psychological comfort in packaged titles that guarantee a complete start and a definitive ending. A longing for true ownership and immersion is opening wallets once more.\n\nWhat Dr. K highlights is that **the core value consumers demand from games has shifted from 'infinite retention' to 'well-rounded, dense completion.'** 💡 The formula for success is no longer confined to live-service operations that artificially hostage players' time; rather, narrative craft and game design capable of delivering a polished, high-quality experience within a set timeframe are reemerging as strong competitive edges.\n\nCoupled with platform generational shifts, the qualitative growth of the packaged game market is expected to accelerate further. 🎮 Tonight, which will you choose: endless mobile competition, or a packaged game with a definitive ending waiting for you?"
+      },
+      "trailer": {
+        "title": "EA SPORTS FC 27 | Official Launch Trailer",
+        "comment": "The official launch trailer for EA's premier football simulation newcomer, **EA SPORTS FC 27**, has been released via the official Xbox channel. This latest title is set to deliver ultimate immersion as if standing on a real pitch, powered by further evolved graphics and a refined physics engine. Check out the video now to feel the thrilling heat of the pitch that will get football fans' hearts racing worldwide! ⚽🎮"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "神貌のクリファ",
+        "releases.0.note": "9月24日に正式リリースされるアクションJRPGで、怪異を追う独特な世界観と没入感あふれるストーリーをお届けします。",
+        "releases.0.dev": "アークシステムワークス",
+        "releases.1.game": "バンドリ！ Our Notes",
+        "releases.1.note": "9月24日に全世界で正式リリースされる新作モバイルリズムゲームで、5つのガールズバンドによる新たな楽曲とストーリーが展開されます。",
+        "releases.1.dev": "bilibili",
+        "releases.2.game": "Animo",
+        "releases.2.note": "クロスプラットフォーム対応のオープンワールド・モンスター捕獲RPGで、モバイル版の正式リリースとともにPCとのクロスプレイに対応します。",
+        "releases.2.dev": "パウプリント・スタジオ",
+        "releases.3.game": "CONTROL Resonant",
+        "releases.3.note": "9月24日にSteamで正式リリースされる超能力サードパーソン・アクションアドベンチャーの新作です。",
+        "releases.3.dev": "Remedy Entertainment",
+        "releases.4.game": "EA SPORTS FC 27",
+        "releases.4.note": "9月24日にSteamを通じて正式リリースされる人気サッカーシミュレーションシリーズの最新作です。",
+        "releases.4.dev": "EA Sports",
+        "releases.5.game": "キングダムラッシュ6：ジェネシスTD",
+        "releases.5.note": "9月24日にSteamで正式リリースされる定番戦略タワーディフェンス『キングダムラッシュ』シリーズの第6作目となる完全新作です。",
+        "releases.5.dev": "Ironhide Game Studio",
+        "events.0.name": "2026 VALORANT Champions Shanghai",
+        "events.0.note": "世界中のVALORANT強豪チームが激突する2026年シーズンの最終チャンピオンシップ大会",
+        "events.0.venue": "中国・上海",
+        "events.1.name": "2026 サイバー定期戦（延高eスポーツ対抗戦）",
+        "events.1.note": "延世大学と高麗大学によるオーバーウォッチ、VALORANT、LoL種目の直接対決eスポーツ対抗戦",
+        "events.1.venue": "上岩（サンアム）SOOPコロシアム"
+      },
+      "briefing": {
+        "items.0.title": "韓国のキム・ヨンチャン、『GT7』で2026年アジア大会初のメダル獲得",
+        "items.0.source": "Inven",
+        "items.0.time": "9月23日",
+        "items.1.title": "カカオゲームズ『トッケビの世界』、事前枠殺到によりサーバー増設",
+        "items.1.source": "Inven",
+        "items.1.time": "9月23日",
+        "items.2.title": "ホラーゲーム『夜勤事件』、Nintendo Switch 2版が発売",
+        "items.2.source": "4Gamer",
+        "items.2.time": "9月24日",
+        "items.3.title": "『ポコ ア ポケモン』、日本ゲーム大賞2026で大賞を受賞",
+        "items.3.source": "電撃オンライン",
+        "items.3.time": "9月23日",
+        "items.4.title": "ホラー映画『死霊館』初の公式ゲーム、10月にNetflixで配信",
+        "items.4.source": "IGN India",
+        "items.4.time": "9月23日",
+        "items.5.title": "『ARC Raiders』、大型2.0アップデート「フローズン・トレイル」を公開",
+        "items.5.source": "IGN India",
+        "items.5.time": "9月23日",
+        "items.6.title": "Sensor Tower「上半期の日本コンソール・PCパッケージ販売数が13％増加」",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "9月23日"
+      },
+      "drk": {
+        "title": "果てしない課金に疲弊したゲーマーたち、「完結した体験」へと回帰する",
+        "intro": "モバイル向けライブサービスの氾濫のなか、なぜコンソール・PCパッケージ市場が再び反発しているのでしょうか？\n終わりのない日課やガチャ課金に疲弊したゲーマーたちの消費心理が、新たな地殻変動を生み出しています。",
+        "points": "先般のSensor Towerの集計によると、今年上半期の日本におけるコンソール・PCパッケージ販売数が前年同期比で13％増加しました。📊 『CONTROL Resonant』や『キングダムラッシュ6』といった買い切り型の新作リリースに加え、次世代コンソールを見据えたタイトルが相次いで登場し、伝統的なプラットフォームのエコシステムが顕著な活況を見せています。\n\nこれは、ライブサービス中心であったゲームの消費構造に本質的な変化が芽生え始めたことを示唆しています。⏳ デイリークエストや絶え間ない課金誘導に疲労を感じたユーザーが、最初から最後まで確実に用意されたパッケージタイトルの中に心理的な安らぎを見出しているのです。所有感と没入体験への渇望が、再び財布の紐を緩めさせました。\n\nDr. Kが着目するのは、**ユーザーがゲームに求める核心的価値が『際限のない滞在』から『完結性のある密度』へとシフトしたという事実**です。💡 成功の方程式はもはや、プレイヤーの時間を無理やり引き留めるライブ運営だけにとどまらず、決められた時間の中で高い完成度の体験を提供するナラティブと企画力が、再び強力な競争力として浮上しています。\n\nハードウェアの世代交代とも相まって、パッケージ市場の質的成長は今後さらに加速する見通しです。🎮 あなたは今夜、終わりの見えないスマートフォンの中での競争と、確かなエンディングが待つパッケージゲームのどちらを選びますか？"
+      },
+      "trailer": {
+        "title": "EA SPORTS FC 27 | Official Launch Trailer",
+        "comment": "Xbox公式チャンネルにて、EAを代表する本格サッカーシミュレーション最新作『**EA SPORTS FC 27**』の公式ローンチトレーラーが公開されました。今作では一段と進化を遂げたグラフィックと精巧な物理エンジンにより、本物のスタジアムに立っているかのような極上の没入感をお届けします。世界中のサッカーファンの胸を躍らせる熱きピッチの興奮を、ぜひ動画で直接体感してみてください！ ⚽🎮"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "\"과금 지옥은 이제 그만!\" 완결형 게임으로 회귀하는 게이머들 🎮 (feat. FC 27 론칭 트레일러 ⚽)",
+    "en": "Done with microtransaction hell? Gamers return to complete experiences 🎮 (feat. FC 27 Launch Trailer ⚽)",
+    "ja": "もう課金地獄はお断り？「完結型ゲーム」へと回帰するゲーマーたち 🎮 (feat. FC 27 発売トレーラー ⚽)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "끝없는 가챠와 과금에 다들 지치지 않으셨나요? 🎮\n오늘 출시된 FC 27 소식부터 완결형 게임 트렌드까지 싹 모았어요! ⚽\n\nhttps://www.gtplayer.net/edition-132/\n#FC27 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-24T07:01:29.195302"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "9월 24일 오늘의 게임 소식 🎮\n📰 [뉴스] 'GT7' 아시안게임 첫 메달부터 스위치 2 버전 '야근사건', 넷플릭스 '컨저링' 게임화까지 주요 이슈 총정리!\n📅 [출시] 드디어 출격하는 'FC 27'부터 '킹덤 러쉬 6', '신모의 클리파' 등 이번 주 주목할 신작 라인업!\n✍️ [인사이트] 과금 지옥과 끝없는 숙제에 지친 게이머들, 왜 다시 완결형 패키지 게임으로 회귀하고 있을까?\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임소식 #gtplayer #신작게임 #게임추천 #게임스타그램 #겜스타그램 #FC27 #EASPORTSFC #콘솔게임 #스팀게임 #닌텐도스위치 #PS5 #게임덕후 #킹덤러쉬 #게임트렌드 #비디오게임 #모바일게임 #PC게임 #게임매거진",
+          "image_paths": [
+            "web\\instagram\\edition_132\\card_cover.png",
+            "web\\instagram\\edition_132\\card_news.png",
+            "web\\instagram\\edition_132\\card_calendar.png",
+            "web\\instagram\\edition_132\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3992817119595283455_39332818166",
+            "url": "https://www.instagram.com/p/DdpVgPyk0P_/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-24T07:02:00.877325"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Done with microtransaction hell? Gamers return to complete experiences 🎮 (feat. FC 27 Launch Trailer ⚽)\n\nGamers are walking away from endless in-game purchases and rediscovering the magic of full, finished titles that respect their time.\nFrom EA SPORTS FC 27 hitting the pitch to historic esports wins at the Asian Games, get up to speed on the biggest gaming shifts this week.\n\nhttps://www.gtplayer.net/edition-132-en/",
+        "error": null
+      },
+      "updated_at": "2026-09-24T07:02:44.305570"
+    }
+  }
+}

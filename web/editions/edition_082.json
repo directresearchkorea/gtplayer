@@ -1,0 +1,453 @@
+{
+  "num": "082",
+  "date": "2026-07-15",
+  "status": "published",
+  "schedule": {
+    "date": "2026-07-15",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "혈풍",
+          "dev": "게임리서치",
+          "date": "7월 14일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "과거 '묵향 온라인'의 세계관을 계승하고 현대적인 편의성을 도입한 PC 무협 MMORPG '혈풍'이 7월 14일 정식 서비스를 개시했습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318468",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "어센드투제로",
+          "dev": "플라이웨이게임즈",
+          "date": "7월 14일(화)",
+          "platforms": [
+            "PC",
+            "Xbox Series X/S",
+            "Xbox One"
+          ],
+          "color": "#10b981",
+          "note": "크래프톤 산하 플라이웨이게임즈가 개발한 독특한 시간 정지 시스템 기반의 신작 액션 로그라이크 게임 '어센드투제로'가 7월 14일 스팀 및 엑스박스로 정식 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777774",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "디토피아",
+          "dev": "마루미투 게임즈",
+          "date": "7월 14일(화)",
+          "platforms": [
+            "PC",
+            "Nintendo Switch",
+            "PS5",
+            "PS4"
+          ],
+          "color": "#10b981",
+          "note": "AI가 완벽히 관리하는 낙원 속 숨겨진 미스터리와 모순을 파헤치는 인디 SF 퍼즐 어드벤처 게임 '디토피아(D-TOPIA)'가 7월 14일 정식 출시되었습니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/d-topia/266137/d-topia-official-launch-trailer",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "update",
+          "game": "검은사막 모바일",
+          "dev": "펄어비스",
+          "date": "7월 14일(화)",
+          "platforms": [
+            "iOS",
+            "Android"
+          ],
+          "color": "#3b82f6",
+          "note": "요정 성장 및 시즌 캐릭터 전환 기능이 추가된 두 번째 시즌의 시작과 함께, 여름 특별 이벤트인 '용궁' 업데이트가 7월 14일 적용되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318469",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "아스달 연대기: 세 개의 세력",
+          "dev": "넷마블",
+          "date": "7월 14일(화)",
+          "platforms": [
+            "PC",
+            "iOS",
+            "Android"
+          ],
+          "color": "#3b82f6",
+          "note": "유료 패키지와 뽑기 상품을 과감히 제거해 순수한 게임 플레이를 통한 성장을 강조한 신규 서버 '뉴 월드'가 7월 14일 전격 오픈했습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318462",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "명일방주: 엔드필드",
+          "dev": "그리프라인",
+          "date": "7월 16일(목)",
+          "platforms": [
+            "PC",
+            "iOS",
+            "Android"
+          ],
+          "color": "#3b82f6",
+          "note": "서브컬처 RPG '명일방주: 엔드필드'가 정식 서비스 반주년을 기념해 대규모 신규 콘텐츠를 선보이는 '심연으로' 업데이트를 7월 16일 진행합니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777750",
+          "source_name": "게임메카"
+        }
+      ],
+      "events": [
+        {
+          "name": "LoL 클래식 LCK 레전드 매치",
+          "note": "리그 오브 레전드 클래식 모드 공개를 기념하여 개최되는 LCK 레전드 선수들의 이벤트 매치",
+          "venue": "서울 종로구 치지직 롤파크",
+          "date": "2026-08-04",
+          "tag": "e스포츠",
+          "website": "https://www.gamemeca.com/view.php?gid=1777778"
+        },
+        {
+          "name": "단종 한국 게임, 다시 켜다 전시회",
+          "note": "국내 공공기관 최초로 단종된 한국 게임들을 조명하고 직접 체험해볼 수 있는 기획 전시회",
+          "venue": "국립중앙도서관",
+          "date": "2026-07-14 ~ 2026-12-31",
+          "tag": "오프라인 행사",
+          "website": "https://www.gamemeca.com/view.php?gid=1777746"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "위메이드맥스, 레드브릭하우스 전략적 투자",
+          "source": "게임메카",
+          "time": "7월 14일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777773"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "배틀그라운드 IP 기반 실물 카드게임 제작",
+          "source": "인벤",
+          "time": "7월 14일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318478"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "베컴, 포트나이트 콜라보 캐릭터로 참전",
+          "source": "IGN India",
+          "time": "7월 14일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/fortnite/266132/as-englands-world-cup-semi-final-nears-david-beckham-announces-hes-joining-fortnite"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "멕시코, 실물 게임 중단한 소니에 반독점 소송",
+          "source": "IGN India",
+          "time": "7월 14일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/playstation-5-1/266152/sony-faces-anti-trust-lawsuit-from-mexican-lawmakers-over-its-decision-to-end-production-of-physical"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "고전 RPG '아레사' 부활 펀딩 개시",
+          "source": "4Gamer",
+          "time": "7월 15일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/996/G099651/20260714046/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "Sky: 빛의 아이들, 고흐 테마 신규 영상 공개",
+          "source": "4Gamer",
+          "time": "7월 14일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/707/G070745/20260714040/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "유비소프트, 신작 의존도 낮춘 사업 모델 전환",
+          "source": "GamesIndustry.biz",
+          "time": "7월 14일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/ubisoft-pivots-to-selective-model-to-reduce-reliance-on-individual-game-launches"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "전 에픽게임즈 VP 스티브 앨리슨, 세이버 CBO 부임",
+          "source": "GamesIndustry.biz",
+          "time": "7월 14일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/former-epic-games-vp-steve-allison-appointed-chief-business-officer-at-saber-interactive"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "'지갑' 대신 '시간'을 요구하는 게임들: 페이투윈(P2W) 종말의 전조",
+      "intro": "독한 유료 패키지와 뽑기를 스스로 제거한 MMORPG 신규 서버가 등장했습니다.\n유저들의 지갑을 쥐어짜던 게임사들이 왜 갑자기 '착한 게임'을 자처하고 나선 걸까요?",
+      "points": "최근 '아스달 연대기: 세 개의 세력'이 유료 패키지와 뽑기를 완전히 배제한 신규 서버를 오픈하고, 유비소프트가 신작 의존도를 낮추는 사업 모델 전환을 선언했습니다. 이는 기존의 과도한 BM(비즈니스 모델) 설계와 막대한 신작 개발비 리스크가 시장에서 한계에 봉착했음을 보여주는 상징적인 장면입니다. 📉\n\n이러한 변화는 소비자 심리와 게임 소비 구조에 직접적인 영향을 미칩니다. 확률형 아이템과 페이투윈(P2W) 구조에 피로감을 느낀 게이머들은 이제 단기적인 지출이 아닌 '노력에 합당한 성장 보상'을 요구하고 있습니다. 게임사들 역시 신규 유저 유입과 잔존율을 확보하기 위해, 매출 극대화보다 공정한 경쟁 환경을 제공하는 방향으로 **실제 게임 서비스 형태를 변화**시키고 있습니다. 🔄\n\n게임 업계의 생존 공식은 이제 '얼마나 많이 파는가'가 아닌 **'얼마나 오랫동안 유저를 머무르게 하는가'**로 이동하고 있습니다. 과도한 과금 유도로 유저를 떠나보내기보다, 공정한 플레이 환경을 제공해 플랫폼 잔존율을 높이는 것이 장기적인 IP 생태계 유지와 안정적인 매출 확보에 훨씬 유리하다는 정량적 판단이 선 것입니다. 💡\n\n화려한 과금 패키지 뒤에 숨겨진 게임성의 바닥을 유저들은 이미 간파하고 있습니다. 단순한 BM 다이어트를 넘어 유저의 '플레이 가치'를 진정으로 존중하는 게임들이 시장의 주류로 자리 잡을 수 있을까요? 여러분은 이제 어떤 게임에 기꺼이 소중한 시간을 투자하시겠습니까? ❓"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": true,
+      "title": "1 Hour Relaxing Zenless Zone Zero Music | OST",
+      "channel": "KiSinL",
+      "videoId": "KtgGtJjcRLM",
+      "url": "https://www.youtube.com/watch?v=KtgGtJjcRLM",
+      "thumbnail": "https://i.ytimg.com/vi/KtgGtJjcRLM/hqdefault.jpg",
+      "comment": "최근 업데이트로 화제인 ‘젠레스 존 제로’의 감각적인 사운드가 차분한 로파이 버전으로 찾아왔습니다! 🎧 수요일인 오늘 하루를 마무리하며, 1시간 동안 흘러나오는 트렌디하고 편안한 비트에 몸을 맡겨보세요. 지친 마음에 완벽한 휴식이 될 거예요. ✨",
+      "search_query": "Zenless Zone Zero Official Soundtrack",
+      "ai_game_name": "젠레스 존 제로",
+      "ai_reason": "최근 글로벌 런칭 이후 트렌디하고 감각적인 비주얼로 전 세계적인 열풍을 일으키고 있는 신작입니다. 지난주 추천해 드린 웅장한 판타지 오케스트라 사운드와는 완전히 대비되는 힙하고 세련된 어반 일렉트로닉, 뉴잭스윙 스타일의 사운드트랙으로 귀에 짜릿한 트렌디함을 선사합니다."
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Hyeolpung",
+        "releases.0.note": "The PC martial arts MMORPG 'Hyeolpung', which inherits the worldview of the classic 'Dark Story Online' and introduces modern convenience features, officially launched its service on July 14.",
+        "releases.0.dev": "Game Research",
+        "releases.1.game": "Ascend to Zero",
+        "releases.1.note": "Developed by Flyway Games, a subsidiary of KRAFTON, the new action roguelike game 'Ascend to Zero' featuring a unique time-stop system was officially released on Steam and Xbox on July 14.",
+        "releases.1.dev": "Flyway Games",
+        "releases.2.game": "D-TOPIA",
+        "releases.2.note": "The indie sci-fi puzzle adventure game 'D-TOPIA', which uncovers hidden mysteries and contradictions in a paradise perfectly managed by AI, was officially released on July 14.",
+        "releases.2.dev": "Marumitu Games",
+        "releases.3.game": "Black Desert Mobile",
+        "releases.3.note": "Along with the start of the second season, which adds fairy growth and season character transfer features, the summer special event 'Dragon Palace' update was applied on July 14.",
+        "releases.3.dev": "Pearl Abyss",
+        "releases.4.game": "Arthdal Chronicles: Three Factions",
+        "releases.4.note": "The new server 'New World', which boldly removes paid packages and gacha items to emphasize growth through pure gameplay, officially opened on July 14.",
+        "releases.4.dev": "Netmarble",
+        "releases.5.game": "Arknights: Endfield",
+        "releases.5.note": "The subculture RPG 'Arknights: Endfield' will release the 'Into the Abyss' update on July 16, introducing massive new content to celebrate its half-anniversary of official service.",
+        "releases.5.dev": "GRYPHLINE",
+        "events.0.name": "LoL Classic LCK Legends Match",
+        "events.0.note": "An event match featuring LCK legend players held to celebrate the release of League of Legends Classic Mode.",
+        "events.0.venue": "Chzzk LoL Park, Jongno-gu, Seoul",
+        "events.1.name": "Exhibition of Discontinued Korean Games: Powered Back On",
+        "events.1.note": "The first special exhibition by a domestic public institution that highlights discontinued Korean games and allows visitors to experience them firsthand.",
+        "events.1.venue": "National Library of Korea"
+      },
+      "briefing": {
+        "items.0.title": "Wemade Max Makes Strategic Investment in Redbrick House",
+        "items.0.source": "Gamemeca",
+        "items.0.time": "July 14",
+        "items.1.title": "Physical Card Game Based on PUBG IP in Development",
+        "items.1.source": "Inven",
+        "items.1.time": "July 14",
+        "items.2.title": "Beckham Joins Fortnite as Collaboration Character",
+        "items.2.source": "IGN India",
+        "items.2.time": "July 14",
+        "items.3.title": "Mexico Files Antitrust Lawsuit Against Sony Over Discontinuing Physical Games",
+        "items.3.source": "IGN India",
+        "items.3.time": "July 14",
+        "items.4.title": "Crowdfunding Campaign Launches to Revive Classic RPG 'Aretha'",
+        "items.4.source": "4Gamer",
+        "items.4.time": "July 15",
+        "items.5.title": "Sky: Children of the Light Releases New Van Gogh-Themed Video",
+        "items.5.source": "4Gamer",
+        "items.5.time": "July 14",
+        "items.6.title": "Ubisoft Shifts Business Model to Reduce Reliance on New Releases",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "July 14",
+        "items.7.title": "Former Epic Games VP Steve Allison Appointed as Saber CBO",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "July 14"
+      },
+      "drk": {
+        "title": "Games Demanding 'Time' Instead of 'Wallets': A Harbinger of the End of Pay-to-Win (P2W)",
+        "intro": "New MMORPG servers that have voluntarily removed aggressive paid packages and gacha have emerged. Why are game companies, which used to squeeze players' wallets, suddenly claiming to make 'generous games'?",
+        "points": "Recently, 'Arthdal Chronicles: Three Factions' opened a new server that completely excludes paid packages and gacha, and Ubisoft announced a shift in its business model to reduce reliance on new releases. These are symbolic scenes showing that the existing excessive business model (BM) design and the massive risk of new game development costs have hit their limits in the market. 📉\n\nThese changes directly affect consumer sentiment and the structure of game consumption. Gamers fatigued by randomized items and pay-to-win (P2W) mechanics are now demanding 'growth rewards worthy of effort' rather than short-term spending. Game companies are also **changing the actual form of game services** to provide a fair competitive environment rather than maximizing immediate revenue in order to secure new user inflow and retention. 🔄\n\nThe survival formula for the gaming industry is now shifting from 'how much is sold' to **'how long users can be kept in the game.'** Rather than driving players away with excessive monetization pressures, a quantitative judgment has been made that offering a fair playing environment to increase platform retention is far more advantageous for maintaining a long-term IP ecosystem and securing stable revenue. 💡\n\nGamers have already seen through the shallow gameplay hidden behind flashy paid packages. Beyond simple business model downsizing, can games that truly respect the 'value of play' for players become mainstream in the market? Which game are you now willing to invest your precious time in? ❓"
+      },
+      "soundtrack": {
+        "title": "1 Hour Relaxing Zenless Zone Zero Music | OST",
+        "comment": "The sensational sound of 'Zenless Zone Zero,' which is currently a hot topic due to its recent update, is here in a calm lo-fi version! 🎧 As you wind down your day this Wednesday, lose yourself in the trendy and relaxing beats playing for an hour. It will be the perfect relaxation for your tired mind. ✨"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "血風",
+        "releases.0.note": "過去の『黙香オンライン』の世界観を継承し、現代的な利便性を導入したPC武侠MMORPG『血風』が7月14日に正式サービスを開始しました。",
+        "releases.0.dev": "ゲームリサーチ",
+        "releases.1.game": "アセンド・トゥ・ゼロ",
+        "releases.1.note": "KRAFTON傘下のFlyway Gamesが開発した、独特な時間停止システムをベースにした新作アクションローグライクゲーム『アセンド・トゥ・ゼロ』が、7月14日にSteamおよびXboxで正式リリースされました。",
+        "releases.1.dev": "フライウェイゲームズ",
+        "releases.2.game": "D-TOPIA",
+        "releases.2.note": "AIが完璧に管理する楽園に隠された謎と矛盾を暴く、インディーSFパズルアドベンチャーゲーム『D-TOPIA』が7月14日に正式リリースされました。",
+        "releases.2.dev": "マルミツゲームズ",
+        "releases.3.game": "黒い砂漠 MOBILE",
+        "releases.3.note": "妖精の成長やシーズンキャラクター転換機能が追加された第2シーズンの開始とともに、夏の特別イベント「竜宮」アップデートが7月14日に適用されました。",
+        "releases.3.dev": "パールアビス",
+        "releases.4.game": "アスダル年代記：３つの勢力",
+        "releases.4.note": "有料パッケージとガチャ商品を大胆に排除し、純粋なゲームプレイによる成長を強調した新規サーバー「ニューワールド」が7月14日に電撃オープンしました。",
+        "releases.4.dev": "ネットマーブル",
+        "releases.5.game": "アークナイツ：エンドフィールド",
+        "releases.5.note": "サブカルチャーRPG『アークナイツ：エンドフィールド』が正式サービス半周年を記念し、大規模な新規コンテンツを披露する「深淵へ」アップデートを7月16日に実施します。",
+        "releases.5.dev": "GRYPHLINE",
+        "events.0.name": "LoLクラシック LCKレジェンドマッチ",
+        "events.0.note": "リーグ・オブ・レジェンドのクラシックモード公開を記念して開催される、LCKレジェンド選手たちによるイベントマッチ",
+        "events.0.venue": "ソウル市鐘路区 Chzzk LoL PARK",
+        "events.1.name": "「サービス終了した韓国ゲーム、再び起動する」展示会",
+        "events.1.note": "国内の公共機関として初めて、サービス終了した韓国のゲームにスポットを当て、実際に体験できる企画展示会",
+        "events.1.venue": "国立中央図書館"
+      },
+      "briefing": {
+        "items.0.title": "WEMADE MAX、Redbrickに戦略的投資",
+        "items.0.source": "GameMeca",
+        "items.0.time": "7月14日",
+        "items.1.title": "PUBG IPベースのリアルカードゲーム製作",
+        "items.1.source": "Inven",
+        "items.1.time": "7月14日",
+        "items.2.title": "ベッカム、フォートナイトのコラボキャラクターとして参戦",
+        "items.2.source": "IGN India",
+        "items.2.time": "7月14日",
+        "items.3.title": "メキシコ、パッケージ版ゲームの販売を停止したソニーに独占禁止法訴訟",
+        "items.3.source": "IGN India",
+        "items.3.time": "7月14日",
+        "items.4.title": "名作RPG『アレサ』復活に向けたクラウドファンディングが開始",
+        "items.4.source": "4Gamer",
+        "items.4.time": "7月15日",
+        "items.5.title": "Sky 星を紡ぐ子どもたち、ゴッホテーマの新規映像を公開",
+        "items.5.source": "4Gamer",
+        "items.5.time": "7月14日",
+        "items.6.title": "ユービーアイソフト、新作への依存度を下げるビジネスモデルへ転換",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "7月14日",
+        "items.7.title": "元Epic GamesのVPスティーブ・アリソン氏、SaberのCBOに就任",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "7月14日"
+      },
+      "drk": {
+        "title": "「財布」の代わりに「時間」を求めるゲームたち：Pay-to-Win（P2W）終焉の兆し",
+        "intro": "過度な有料パッケージやガチャを自ら排除したMMORPGの新規サーバーが登場しました。ユーザーの財布を絞り上げていたゲーム会社が、なぜ急に「優しいゲーム」を自負し始めたのでしょうか？",
+        "points": "最近、『アスダル年代記：３つの勢力』が有料パッケージとガチャを完全に排除した新規サーバーをオープンし、ユービーアイソフトが新作依存度を下げるビジネスモデルへの転換を宣言しました。これは、既存の過度なBM（ビジネスモデル）設計と莫大な新作開発費のリスクが、市場において限界に達していることを示す象徴的な出来事です。 📉\n\nこのような変化は、消費者心理やゲームの消費構造に直接的な影響を与えます。確率型アイテム（ガチャ）やPay-to-Win（P2W）構造に疲弊したゲーマーたちは、今や短期的な支出ではなく「努力に見合った成長の報酬」を求めています。ゲーム会社もまた、新規ユーザーの流入と維持率を確保するため、売上の最大化よりも公正な競争環境を提供することに**実際のゲームサービスの形態を変化**させています。 🔄\n\nゲーム業界の生存公式は、今や「どれだけ多く売るか」ではなく、**「どれだけ長くユーザーを留まらせるか」**へと移行しています。過度な課金誘導でユーザーを失うよりも、公正なプレイ環境を提供してプラットフォームの維持率を高めることが、長期的なIPエコシステムの維持と安定した売上の確保において遥かに有利であるという定量的な判断が下されたのです。 💡\n\n華やかな課金パッケージの裏に隠されたゲーム性の底を、ユーザーはすでに見抜いています。単なるBMのダイエットを超え、ユーザーの「プレイ価値」を真に尊重するゲームが市場の主流として定着できるでしょうか？ 皆さんはこれから、どのようなゲームに大切な時間を投資しますか？ ❓"
+      },
+      "soundtrack": {
+        "title": "1 Hour Relaxing ゼンレスゾーンゼロ Music | OST",
+        "comment": "最近のアップデートで話題の『ゼンレスゾーンゼロ』のスタイリッシュなサウンドが、落ち着いたLo-Fiバージョンになって登場しました！ 🎧 水曜日である今日、一日の締めくくりに、1時間流れるトレンディで心地よいビートに身を任せてみてはいかがでしょうか。疲れた心に完璧な癒しを届けてくれるはずです。 ✨"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "P2W의 종말? 이젠 돈 대신 '시간'을 요구하는 게임들 ⏳ (feat. 젠존제 1시간 힐링 OST 🎧)",
+    "en": "Is P2W finally dead? Games now want your TIME, not your wallet ⏳ (feat. Zenless Zone Zero Chill OST 🎧)",
+    "ja": "P2Wの終焉？課金より『時間』を捧げるゲームたち ⏳ (feat. ゼンゼロ1時間癒やしBGM 🎧)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "이제 게임에서 지갑 닫아도 되는 걸까요? 🤔\n돈 대신 '시간'을 요구하는 P2W 종말의 트렌드를 함께 파헤쳐봐요!\n\nhttps://www.gtplayer.net/edition-082/\n\n#젠존제 #게임소식 #GTPlayer",
+          "posted": false,
+          "data": null,
+          "error": "X API 오류 (402): {\"account_id\":2041741108661612544,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2041741108661612544] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/problems/credits\"}"
+        }
+      },
+      "updated_at": "2026-07-15T07:05:11.647482"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "7월 15일 오늘의 게임 소식 🎮 P2W의 시대는 가고, 이제는 '시간'을 쓰는 시대가 온다?! ⏳\n\n📰 [이슈/뉴스] 베컴의 포트나이트 참전 & 배그 실물 카드게임 제작 등 이번 주 핫이슈 모음!\n📅 [출시 정보] <명일방주: 엔드필드>를 포함한 이번 주 놓치지 말아야 할 신작/업데이트 캘린더!\n💡 [Dr. K 인사이트] 지갑을 닫은 유저들, 돈 대신 '시간'을 요구하는 게임사들의 진짜 속사정은?\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#gtplayer #게임뉴스 #게임덕후 #게임추천 #신작게임 #게임리뷰 #게임정보 #게이머 #온라인게임 #모바일게임 #스팀게임 #콘솔게임 #포트나이트 #배그 #명일방주엔드필드 #검은사막모바일 #아스달연대기 #게임스타그램 #뉴스레터 #P2W",
+          "image_paths": [
+            "web\\instagram\\edition_082\\card_news.png",
+            "web\\instagram\\edition_082\\card_calendar.png",
+            "web\\instagram\\edition_082\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3941359908474276941_39332818166",
+            "url": "https://www.instagram.com/p/DayhfRck0xN/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-07-15T07:05:46.105970"
+    }
+  }
+}

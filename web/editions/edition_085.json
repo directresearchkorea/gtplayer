@@ -1,0 +1,447 @@
+{
+  "num": "085",
+  "date": "2026-07-21",
+  "status": "published",
+  "schedule": {
+    "date": "2026-07-21",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "update",
+          "game": "포트나이트",
+          "dev": "에픽게임즈",
+          "date": "7월 20일(월)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S",
+            "Switch",
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "7월 20일 전설적인 축구 스타 데이비드 베컴이 선수 및 구단주 모습의 신규 스킨을 포함해 아이콘 시리즈 캐릭터로 합류했습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777992",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "두근두근타운",
+          "dev": "XD",
+          "date": "7월 20일(월)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "7월 20일 모바일 힐링 라이프 시뮬레이션 게임 두근두근타운에 글로벌 인기 캐릭터 IP '산리오캐릭터즈' 컬래버레이션 콘텐츠가 업데이트되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777989",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "제로스페이스",
+          "dev": "스타랜스 스튜디오 / 아이언워드",
+          "date": "7월 21일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "7월 21일 스팀에서 얼리 액세스를 시작한 신작 RTS 게임으로, 스토리 선택지에 따라 전개가 변화하는 RPG 요소가 결합된 것이 특징입니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/017/G101719/20260721004/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "캐트 아일랜드",
+          "dev": "돔케게임즈 / 픽셀덕쿠",
+          "date": "7월 21일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "7월 21일 스팀에 정식 출시된 경영 및 데코레이션 시뮬레이션 게임으로, 고양이들을 손님으로 맞이하는 아기자기한 섬을 꾸밀 수 있습니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/018/G101872/20260721003/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "event",
+          "game": "에이스 컴뱃 8: 시브의 날개",
+          "dev": "반다이남코 엔터테인먼트",
+          "date": "7월 21일(화)",
+          "platforms": [
+            "PS5"
+          ],
+          "color": "#f59e0b",
+          "note": "7월 21일부터 PS5용 플라이트 슈팅 게임 '에이스 컴뱃 8: 시브의 날개' 한국어판 패키지 예약 판매가 시작됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318665",
+          "source_name": "인벤"
+        },
+        {
+          "category": "event",
+          "game": "세븐나이츠 리버스",
+          "dev": "넷마블",
+          "date": "7월 22일(수)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#f59e0b",
+          "note": "7월 22일부터 8월 11일까지 홍대 AK플라자에서 한정 굿즈와 특별 식음료 메뉴를 선보이는 콜라보 카페가 운영됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318667",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "세븐나이츠 리버스 콜라보 카페",
+          "note": "홍대 AK플라자에서 운영되는 공식 콜라보레이션 카페 및 한정 굿즈 판매",
+          "venue": "홍대 AK플라자 3층 SMG CAFE",
+          "date": "2026-07-22 ~ 2026-08-11",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=318667"
+        },
+        {
+          "name": "블루 아카이브 5.5주년 기념 생방송",
+          "note": "5.5주년을 기념하여 다양한 게임 정보와 이벤트를 공개하는 3부 구성의 특집 공식 라이브 방송",
+          "venue": "온라인",
+          "date": "2026-07-26",
+          "tag": "쇼케이스",
+          "website": "https://dengekionline.com/article/202607/81906"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "엑스엘게임즈, '아키에이지 S' 상표권 신규 출원",
+          "source": "인벤",
+          "time": "7월 21일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318677"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "아이언메이스, '다크 앤 다커' 시즌 10 업데이트",
+          "source": "인벤",
+          "time": "7월 17일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318666"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'마인 오브 마이 마인' 출시 예고편 공개",
+          "source": "IGN India",
+          "time": "7월 21일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/266684/mine-of-my-mind-official-launch-trailer"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'스타트렉: 보이저' 신규 확장팩 트레일러 공개",
+          "source": "IGN India",
+          "time": "7월 21일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/266696/star-trek-voyager-across-the-unknown-official-expansion-pass-trailer-gcig-2026"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "넷마블, 신작 RPG '펄 인 블루' 티저 공개",
+          "source": "4Gamer",
+          "time": "7월 18일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/026/G102600/20260718004/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "버튜버 게임 '홀로라이브 드림스', 23일 출시",
+          "source": "電撃オンライン",
+          "time": "7월 21일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202607/81908"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "엑스박스 노조, 부당 해고로 MS 공식 제소",
+          "source": "GamesIndustry.biz",
+          "time": "7월 21일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/union-slams-microsoft-for-unfair-labor-practice-alleging-xbox-unlawfully-laid-off-staff"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'파이널 판타지 14' 모바일 버전 개발 취소",
+          "source": "PC Gamer",
+          "time": "7월 21일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-attempt-to-take-the-mmo-mobile-is-over-before-the-world-even-gets-the-chance-to-see-it/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "멈춰선 메가 IP의 모바일화, '이지 머니' 시대의 종말",
+      "intro": "전 세계 수천만 명의 팬을 보유한 메가 IP의 모바일 이식은 왜 제동이 걸렸을까요?\n'파이널 판타지 14 모바일' 개발 취소 소식이 시장에 던지는 묵직한 화두를 분석합니다.",
+      "points": "최근 전해진 '파이널 판타지 14' 모바일 버전의 개발 취소 소식은 단순한 하나의 프로젝트 중단 이상의 의미를 가집니다. 이는 글로벌 대형 게임사들이 수년간 공식처럼 대입해 온 '흥행한 PC·콘솔 IP의 모바일 이식' 전략이 시장의 거대한 장벽에 부딪혔음을 보여주는 상징적 사건입니다. 📉\n\n이러한 현상은 최근 급격히 변화한 소비자 심리 및 게임 소비 구조와 맞닿아 있습니다. 모바일 게이머들의 눈높이는 이미 PC·콘솔 플랫폼 못지않게 높아졌으며, 더 이상 이름값만 앞세우고 알맹이는 자동 사냥과 과도한 비즈니스 모델(BM)로 채워진 복제형 게임에 지갑을 열지 않습니다. 원작의 방대한 스케일과 깊이 있는 수동 조작의 재미를 모바일 스크린에 온전히 담아내지 못한다면 오히려 브랜드 가치만 훼손된다는 계산이 선 것입니다. 📱💡\n\n결과적으로 **단순한 IP 네임밸류에 기대어 모바일 시장에서 손쉽게 수익을 올리던 '이지 머니(Easy Money)'의 시대는 끝났습니다.** 이제 글로벌 유저들은 모바일 플랫폼에서도 고유한 게임성과 완성도를 갖춘 독창적인 타이틀만을 선택적으로 소비하며, 업계는 대대적인 전략 수정이 불가피해졌습니다. 🎯\n\n양적 팽창에만 몰두하던 글로벌 모바일 게임 시장이 이제 질적 타협 없는 진검승부의 단계로 진입하고 있습니다. 브랜드의 명성 뒤에 숨지 않고, 모바일이라는 플랫폼의 한계를 극복해 게이머들을 감동시킬 다음 세대의 혁신작은 과연 무엇이 될까요? 🔮"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "두근두근타운",
+      "title": "산리오 캐릭터로 물든 꿈의 공간, 쿠로미 테마 하우스에서 맞이하는 힐링의 아침",
+      "imgUrl": "",
+      "comment": "산리오 컬래버레이션 이후 유저들이 쿠로미 테마의 가구와 코스튬으로 자신만의 공간을 완벽하게 꾸민 미래의 게임 속 순간을 상상하며, '두근두근타운' 특유의 귀엽고 아기자기한 3D 카툰 그래픽 스타일 그대로 묘사하도록 AI에게 지시한 결과물입니다.",
+      "ai_prompt": "Actual in-game screenshot, exact original game engine rendering, completely identical to original art style, NO cinematic styling, NO illustration. A cozy interior bedroom in the 3D life-simulation game 'Heartopia' (두근두근타운). A cute 3D chibi player character wearing a black Kuromi hood with a pink skull and a pastel-purple gothic-lolita outfit is sitting on a bed. The room is fully decorated with Sanrio's Kuromi theme: a purple and black wooden bed, a Kuromi-shaped vanity mirror, small skull-patterned wallpaper, and cute pastel plushies on shelves. Soft, bright morning sunlight streams through a large window, revealing a glimpse of a colorful cartoonish outdoor town. Low-poly, clean 3D mobile game aesthetic with vibrant, soft pastel lighting and clean textures."
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Fortnite",
+        "releases.0.note": "On July 20, legendary soccer star David Beckham joined as an Icon Series character, featuring new skins of him as both a player and a club owner.",
+        "releases.0.dev": "Epic Games",
+        "releases.1.game": "Heartopia",
+        "releases.1.note": "On July 20, the mobile healing life simulation game 'Heartopia' updated its collaboration content with the globally popular character IP 'Sanrio Characters'.",
+        "releases.1.dev": "XD",
+        "releases.2.game": "ZeroSpace",
+        "releases.2.note": "A new RTS game that entered Early Access on Steam on July 21, featuring RPG elements where the story unfolds differently based on player choices.",
+        "releases.2.dev": "Starlance Studios / Ironward",
+        "releases.3.game": "Cat Island",
+        "releases.3.note": "A management and decoration simulation game officially released on Steam on July 21, where players can decorate a charming island to welcome cats as guests.",
+        "releases.3.dev": "Domike Games / PixelDukku",
+        "releases.4.game": "Ace Combat 8: Wings of Siebe",
+        "releases.4.note": "Pre-orders for the Korean physical edition of the flight shooting game 'Ace Combat 8: Wings of Siebe' for PS5 will begin on July 21.",
+        "releases.4.dev": "Bandai Namco Entertainment",
+        "releases.5.game": "Seven Knights Re:Birth",
+        "releases.5.note": "From July 22 to August 11, a collaboration cafe offering limited-edition merchandise and special food and beverage menus will be open at Hongdae AK Plaza.",
+        "releases.5.dev": "Netmarble",
+        "events.0.name": "Seven Knights Re:Birth Collaboration Cafe",
+        "events.0.note": "An official collaboration cafe and limited-edition merchandise sales held at Hongdae AK Plaza.",
+        "events.0.venue": "SMG CAFE, 3rd Floor, Hongdae AK Plaza",
+        "events.1.name": "Blue Archive 5.5 Anniversary Special Broadcast",
+        "events.1.note": "A special 3-part official live broadcast celebrating the 5.5 anniversary, revealing various game updates and events.",
+        "events.1.venue": "Online"
+      },
+      "briefing": {
+        "items.0.title": "XLGAMES Files New Trademark for 'ArcheAge S'",
+        "items.0.source": "Inven",
+        "items.0.time": "July 21",
+        "items.1.title": "Ironmace Updates 'Dark and Darker' for Season 10",
+        "items.1.source": "Inven",
+        "items.1.time": "July 17",
+        "items.2.title": "Release Trailer Revealed for 'Mine of My Mind'",
+        "items.2.source": "IGN India",
+        "items.2.time": "July 21",
+        "items.3.title": "New Expansion Trailer Revealed for 'Star Trek: Voyager'",
+        "items.3.source": "IGN India",
+        "items.3.time": "July 21",
+        "items.4.title": "Netmarble Releases Teaser for New RPG 'Pearl in Blue'",
+        "items.4.source": "4Gamer",
+        "items.4.time": "July 18",
+        "items.5.title": "VTuber Game 'Hololive Dreams' to Launch on the 23rd",
+        "items.5.source": "Dengeki Online",
+        "items.5.time": "July 21",
+        "items.6.title": "Xbox Union Files Official Complaint Against Microsoft Over Unfair Layoffs",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "July 21",
+        "items.7.title": "Development of 'Final Fantasy XIV' Mobile Version Canceled",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "July 21"
+      },
+      "drk": {
+        "title": "The Stalled Mobilization of Mega IPs: The End of the 'Easy Money' Era",
+        "intro": "Why has the mobile porting of mega IPs with tens of millions of fans worldwide hit a snag?\nWe analyze the heavy implications that the news of 'Final Fantasy XIV Mobile's cancellation brings to the market.",
+        "points": "The recent news of the cancellation of the mobile version of 'Final Fantasy XIV' carries a significance that goes far beyond the halt of a single project. It is a symbolic event showing that the strategy of 'porting successful PC and console IPs to mobile'—which major global gaming companies have applied like a formula for years—has hit a massive wall in the market. 📉\n\nThis phenomenon is closely tied to recently and rapidly changing consumer sentiment and game consumption patterns. The standards of mobile gamers have already risen to match those of PC and console platforms; they no longer open their wallets for clone games that rely solely on brand value while being filled with auto-play and excessive business models (BM). The realization has set in that if the massive scale and deep, manual control-based fun of the original cannot be fully delivered on a mobile screen, it will instead only damage the brand value. 📱💡\n\nConsequently, **the era of 'Easy Money,' where companies easily profited in the mobile market by relying simply on IP name value, has come to an end.** Global players now selectively consume only original titles with unique gameplay and high polish even on mobile platforms, making a major strategic overhaul inevitable for the industry. 🎯\n\nThe global mobile gaming market, which used to focus solely on quantitative expansion, is now entering a stage of true competition with no compromise on quality. Without hiding behind brand reputation, what will be the next generation of innovative titles that overcome the limitations of the mobile platform to move gamers? 🔮"
+      },
+      "gamescene": {
+        "game": "Heartopia",
+        "title": "A Dream Space Painted with Sanrio Characters: A Healing Morning at the Kuromi-Themed House",
+        "comment": "This is the result of instructing the AI to depict a future in-game moment where players have perfectly decorated their own spaces with Kuromi-themed furniture and costumes following the Sanrio collaboration, rendered in the uniquely cute and charming 3D cartoon graphic style of 'Heartopia'."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "フォートナイト",
+        "releases.0.note": "7月20日、伝説的なサッカー界のスターであるデビッド・ベッカムが、選手およびクラブオーナー姿の新規スキンを含むアイコンシリーズのキャラクターとして合流しました。",
+        "releases.0.dev": "エピックゲームズ",
+        "releases.1.game": "ハートピア",
+        "releases.1.note": "7月20日、モバイル向け癒やし系ライフシミュレーションゲーム『ハートピア』に、世界的人気キャラクターIP「サンリオキャラクターズ」とのコラボレーションコンテンツがアップデートされました。",
+        "releases.1.dev": "XD",
+        "releases.2.game": "ゼロスペース",
+        "releases.2.note": "7月21日にSteamで早期アクセスを開始した新作RTSゲームで、ストーリーの選択肢によって展開が変化するRPG要素が融合しているのが特徴です。",
+        "releases.2.dev": "スターランス・スタジオ / アイアンワード",
+        "releases.3.game": "キャットアイランド",
+        "releases.3.note": "7月21日にSteamで正式リリースされた経営・デコレーションシミュレーションゲームで、猫たちをゲストとして迎える可愛らしい島を飾ることができます。",
+        "releases.3.dev": "ドームケゲームズ / ピクセルダック",
+        "releases.4.game": "エースコンバット8：シーヴの翼",
+        "releases.4.note": "7月21日から、PS5向けフライトシューティングゲーム『エースコンバット8：シーヴの翼』韓国語パッケージ版の予約販売が開始されます。",
+        "releases.4.dev": "バンダイナムコエンターテインメント",
+        "releases.5.game": "セブンナイツ リバース",
+        "releases.5.note": "7月22日から8月11日まで、弘大（ホンデ）AKプラザにて、限定グッズや特別コラボメニューを展開するコラボカフェが運営されます。",
+        "releases.5.dev": "ネットマーブル",
+        "events.0.name": "セブンナイツ リバース コラボカフェ",
+        "events.0.note": "弘大AKプラザで運営される公式コラボレーションカフェおよび限定グッズ販売",
+        "events.0.venue": "弘大AKプラザ 3階 SMG CAFE",
+        "events.1.name": "ブルーアーカイブ 5.5周年記念生放送",
+        "events.1.note": "5.5周年を記念して、様々なゲーム情報やイベントを公開する3部構成の特集公式生放送",
+        "events.1.venue": "オンライン"
+      },
+      "briefing": {
+        "items.0.title": "XLGAMES、「アーキエイジS」の商標権を新規出願",
+        "items.0.source": "INVEN",
+        "items.0.time": "7月21日",
+        "items.1.title": "IRONMACE、「Dark and Darker」シーズン10アップデート",
+        "items.1.source": "INVEN",
+        "items.1.time": "7月17日",
+        "items.2.title": "『Mine of My Mind』リリーストレーラー公開",
+        "items.2.source": "IGN India",
+        "items.2.time": "7月21日",
+        "items.3.title": "『スタートレック：ヴォイジャー』新規拡張パックのトレーラー公開",
+        "items.3.source": "IGN India",
+        "items.3.time": "7月21日",
+        "items.4.title": "ネットマーブル、新作RPG『パール・イン・ブルー』のティザー公開",
+        "items.4.source": "4Gamer",
+        "items.4.time": "7月18日",
+        "items.5.title": "VTuberゲーム『ホロライブ・ドリームス』、23日リリース",
+        "items.5.source": "電撃オンライン",
+        "items.5.time": "7月21日",
+        "items.6.title": "Xbox労働組合、不当解雇でMSを公式提訴",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "7月21日",
+        "items.7.title": "『ファイナルファンタジーXIV』モバイル版の開発中止",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "7月21日"
+      },
+      "drk": {
+        "title": "立ち止まるメガIP의 モバイル化、「イージーマネー」時代の終焉",
+        "intro": "世界中で数千万人のファンを抱えるメガIPのモバイル移植は、なぜブレーキがかかったのでしょうか？『ファイナルファンタジーXIV モバイル』開発中止の報せが市場に投げかける重い課題を分析します。",
+        "points": "最近伝えられた「ファイナルファンタジーXIV」モバイル版の開発中止のニュースは、単なる一つのプロジェクトの中止以上の意味を持っています。これは、グローバル大手ゲーム会社が長年、公式のように当てはめてきた「ヒットしたPC・コンソールIPのモバイル移植」戦略が、市場の巨大な障壁に突き当たったことを示す象徴的な出来事です。 📉\n\nこのような現象は、最近急激に変化した消費者の心理やゲームの消費構造と密接に関わっています。モバイルゲーマーの目線はすでにPC・コンソールプラットフォームに劣らないほど高くなっており、もはや名前の知名度だけを前面に出し、中身はオートプレイと過度なビジネスモデル（BM）で満たされた模倣型ゲームに財布を開くことはありません。原作の膨大なスケールと深みのある手動操作の楽しさをモバイルスクリーンに完全に落とし込めなければ、むしろブランド価値を損なうだけだという計算が働いたのです。 📱💡\n\n結果として、**単純なIPのネームバリューに依存し、モバイル市場で容易に収益を上げていた「イージーマネー（Easy Money）」の時代は終わりました。** 今やグローバルユーザーは、モバイルプラットフォームでも固有のゲーム性と完成度を備えた独創的なタイトルだけを選択的に消費するようになり、業界は抜本的な戦略の見直しを余儀なくされています。 🎯\n\n量的拡大だけに没頭していたグローバルモバイルゲーム市場が、今や質的な妥協のない真剣勝負の段階へと突入しています。ブランドの知名度の後ろに隠れず、モバイルというプラットフォームの限界を克服してゲーマーを感動させる次世代の革新作は、果たして何になるのでしょうか？ 🔮"
+      },
+      "gamescene": {
+        "game": "ハートピア",
+        "title": "サンリオキャラクターに染まった夢の空間、クロミテーマハウスで迎える癒やしの朝",
+        "comment": "サンリオコラボレーション以降、ユーザーがクロミテーマの家具やコスチュームで自分だけの空間を完璧に飾り付けた未来のゲーム内の瞬間を想像し、『ハートピア』ならではの可愛らしくてこぢんまりとした3Dカートゥーングラフィックスタイルそのままに描写するようAIに指示した結果物です。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "더는 '돈 복사' 안 통한다? 메가 IP 모바일화의 쓸쓸한 종말 📉",
+    "en": "The 'easy money' mobile cash-grab era is officially dead 📉",
+    "ja": "もう「スマホ移植＝集金」は通用しない？メガIPイージーマネー時代の終焉 📉"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "요즘 대작 IP 모바일 게임들, 예전만큼 흥행하기 쉽지 않네요. 📉\n모바일 '치트키' 시대의 종말과 앞으로의 트렌드를 콕 짚어 정리해 드려요! 🎮\n\nhttps://www.gtplayer.net/edition-085/\n\n#다크앤다커 #게임소식 #GTPlayer",
+          "posted": false,
+          "data": null,
+          "error": "X API 오류 (402): {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+        }
+      },
+      "updated_at": "2026-07-21T07:05:10.066303"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "7월 21일 오늘의 게임 소식! 더는 '돈 복사' 안 통한다? 메가 IP 모바일화의 쓸쓸한 종말 🎮📉\n\n📰 [뉴스] '아키에이지 S' 상표권 출원 및 넷마블 신작 '펄 인 블루' 티저 등 한 주간의 핫이슈!\n🗓️ [출시작] <두근두근타운>, <에이스 컴뱃 8>, <세븐나이츠 리버스> 등 이번 주 기대작 라인업!\n💡 [인사이트] '파이널 판타지 14 모바일' 개발 취소 소식으로 분석하는 '이지 머니' 시대의 종말!\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#GT플레이어 #gtplayer #게임뉴스 #게임뉴스레터 #신작게임 #게임추천 #모바일게임 #콘솔게임 #PC게임 #파이널판타지 #에이스컴뱃8 #세븐나이츠리버스 #두근두근타운 #넷마블 #아키에이지 #다크앤다커 #게임스타그램 #겜스타그램 #게임덕후 #게임분석",
+          "image_paths": [
+            "web\\instagram\\edition_085\\card_news.png",
+            "web\\instagram\\edition_085\\card_calendar.png",
+            "web\\instagram\\edition_085\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3945708543274060720_39332818166",
+            "url": "https://www.instagram.com/p/DbB-QPNEwuw/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-07-21T07:05:44.206090"
+    }
+  }
+}

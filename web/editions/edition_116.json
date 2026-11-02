@@ -1,0 +1,444 @@
+{
+  "num": "116",
+  "date": "2026-09-02",
+  "status": "published",
+  "schedule": {
+    "date": "2026-09-02",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "더 블러드 오브 던워커",
+          "dev": "레벨 울브스",
+          "date": "9월 2일(수)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "XSX"
+          ],
+          "color": "#10b981",
+          "note": "9월 2일 출시되는 다크 판타지 액션 RPG로, 위쳐 3 핵심 개발진이 선보이는 뱀파이어 배경의 오픈월드 게임입니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1779872",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "귀무자: 검의 길",
+          "dev": "캡콤",
+          "date": "9월 3일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "XSX"
+          ],
+          "color": "#10b981",
+          "note": "9월 3일 정식 출시되는 액션 어드벤처 신작으로, 특유의 일섬 액션과 세련된 검술 전투를 선보입니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1779873",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "NBA 2K27",
+          "dev": "비주얼 컨셉",
+          "date": "9월 3일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "XSX",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "9월 3일 글로벌 출시되는 대표 농구 스포츠 게임으로, 향상된 프로플레이 기술과 최신 로스터를 제공합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4356430/NBA_2K27/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "스피드러너 2: 킹 오브 스피드",
+          "dev": "더블더치 게임즈",
+          "date": "9월 3일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 3일 출시되는 4인 멀티플레이어 레이싱 플랫폼 게임으로, 새로운 트랩과 고속 달리기 액션을 담았습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3183760/SpeedRunners_2_King_of_Speed/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "update",
+          "game": "승리의 여신: 니케",
+          "dev": "시프트업",
+          "date": "9월 3일(목)",
+          "platforms": [
+            "PC",
+            "모바일"
+          ],
+          "color": "#3b82f6",
+          "note": "9월 3일 대규모 신규 버전 'GREAT VILLAIN UNION' 업데이트가 적용되어 신규 캐릭터와 스토리 이벤트가 추가됩니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202609/86203",
+          "source_name": "電撃オンライン"
+        },
+        {
+          "category": "release",
+          "game": "던전 세틀러",
+          "dev": "게임 리버",
+          "date": "9월 4일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 4일 출시되는 던전 탐험 및 건설 시뮬레이션 게임으로, 지하 미궁을 개척하고 거점을 확장하는 재미를 제공합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2798330/Dungeon_Settlers/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "코나미 프레스 스타트 (KONAMI PRESS START)",
+          "note": "코나미 디지털 엔터테인먼트 신작 소식 공개 온라인 방송",
+          "venue": "온라인",
+          "date": "2026-09-03",
+          "tag": "쇼케이스",
+          "website": "https://www.gamemeca.com/view.php?gid=1779906"
+        },
+        {
+          "name": "도깨비의세계 온라인 쇼케이스",
+          "note": "슈퍼캣 개발·카카오게임즈 서비스 신작 MMORPG 게임 영상 및 주요 일정 공개",
+          "venue": "온라인 (유튜브)",
+          "date": "2026-09-08",
+          "tag": "쇼케이스",
+          "website": "https://www.gamemeca.com/view.php?gid=1779911"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "스퀘어에닉스, 비상장사 전환설 공식 부인",
+          "source": "인벤",
+          "time": "9월 1일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=320302"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'씰 온라인' IP 모바일 신작, 中 외자판호 발급",
+          "source": "게임메카",
+          "time": "9월 1일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1779880"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "MS, 9월 엑스박스 게임패스 신규 라인업 공개",
+          "source": "IGN India",
+          "time": "9월 1일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/call-of-duty-black-ops-cold-war/270710/xbox-game-pass-september-2026-wave-1-lineup-announced"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "락스타 게임즈, 'GTA 온라인' 공식 RP 서버 공개",
+          "source": "IGN India",
+          "time": "9월 1일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/grand-theft-auto-online/270706/rockstar-games-reveals-its-official-gta-online-roleplaying-server-nopixel-v"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'에이스 컴뱃 8', 대규모 온라인 모드 세부 정보 공개",
+          "source": "4Gamer",
+          "time": "9월 1일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/969/G096901/20260828067/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "캡콤, TGS 2026서 '몬헌 와일즈: 어센던스' 최초 시연",
+          "source": "4Gamer",
+          "time": "9월 1일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/759/G075952/20260901022/"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "사우디 새비 게임즈 그룹, 브라이언 워드 CEO 사임",
+          "source": "GamesIndustry.biz",
+          "time": "9월 1일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/brian-ward-steps-down-as-savvy-games-group-ceo"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "유저가 만드는 세상, 게임 플랫폼의 주인이 바뀌다",
+      "intro": "유저들이 자발적으로 만든 가상 세계가 이제 게임사의 핵심 비즈니스가 됩니다. 락스타 게임즈가 'GTA 온라인'의 RP(Roleplay) 서버를 공식 편입한 진짜 이유는 무엇일까요? 🎮",
+      "points": "락스타 게임즈가 서드파티 모드 커뮤니티의 전유물이었던 'GTA 온라인' 공식 RP 서버 지원을 본격화했습니다. 그동안 비공식 영역에 머물던 유저 주도형 롤플레잉 생태계를 개발사가 직접 제도권 안으로 끌어안은 상징적인 사건입니다. 🌐\n\n이는 게임 소비 구조와 플랫폼 생태계의 패러다임을 근본적으로 바꿉니다. 유저는 단순히 정해진 퀘스트를 수행하는 수동적 소비자가 아니라, 가상 세계 속에서 직업을 갖고 사회를 구축하는 능동적 창작자가 됩니다. 게임사는 강력한 커뮤니티 결속력을 바탕으로 라이브 서비스 수명을 비약적으로 연장하는 효과를 얻습니다. 💡\n\n결국 미래 라이브 서비스의 성패는 **'유저에게 얼마나 자율적인 권한을 위임하여 스스로 생태계를 확장하게 만드느냐'**에 달려 있습니다. 유저 창작 모드(Mod)를 통제의 대상이 아닌 핵심 성장 동력으로 흡수한 이번 사례는 차세대 오픈월드 게임들이 나아갈 이정표를 제시합니다. 🔍\n\n플레이어가 직접 게임의 규칙을 정의하고 사회를 형성하는 시대, 차세대 대형 신작들은 유저들에게 가상 세계의 열쇠를 얼마나 내어줄 준비가 되어 있을까요? 🚀"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": true,
+      "title": "VILLAIN UNION [ NIKKE ]",
+      "channel": "Musan pro",
+      "videoId": "R1CjON1rlUQ",
+      "url": "https://www.youtube.com/watch?v=R1CjON1rlUQ",
+      "thumbnail": "https://i.ytimg.com/vi/R1CjON1rlUQ/hqdefault.jpg",
+      "comment": "최근 매력적인 빌런들의 등장으로 뜨겁게 화제가 된 <승리의 여신: 니케>의 사운드트랙이에요! 🎧 지친 수요일 저녁, 압도적인 비트와 긴장감 넘치는 선율로 에너지를 가득 충전해 보세요! 🔥",
+      "search_query": "Goddess of Victory Nikke GREAT VILLAIN UNION Official Soundtrack",
+      "ai_game_name": "승리의 여신: 니케",
+      "ai_reason": "대규모 업데이트 'GREAT VILLAIN UNION'에 맞춰 공개되는 스타일리시하고 비트감 넘치는 신규 사운드트랙으로, 이전 추천곡의 묵직한 톤과 대비되는 강렬하고 트렌디한 에너지를 선사합니다."
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "The Blood of Dawnwalker",
+        "releases.0.note": "A dark fantasy action RPG releasing on September 2, an open-world vampire game developed by core Witcher 3 veterans.",
+        "releases.0.dev": "Rebel Wolves",
+        "releases.1.game": "Onimusha: Way of the Sword",
+        "releases.1.note": "A new action-adventure game officially releasing on September 3, featuring signature Issen action and refined sword combat.",
+        "releases.1.dev": "Capcom",
+        "releases.2.game": "NBA 2K27",
+        "releases.2.note": "The flagship basketball sports game launching globally on September 3, featuring enhanced ProPLAY technology and updated rosters.",
+        "releases.2.dev": "Visual Concepts",
+        "releases.3.game": "SpeedRunners 2: King of Speed",
+        "releases.3.note": "A 4-player multiplayer racing platformer releasing on September 3, packed with new traps and high-speed running action.",
+        "releases.3.dev": "DoubleDutch Games",
+        "releases.4.game": "GODDESS OF VICTORY: NIKKE",
+        "releases.4.note": "A major new version update 'GREAT VILLAIN UNION' arrives on September 3, adding new characters and story events.",
+        "releases.4.dev": "Shift Up",
+        "releases.5.game": "Dungeon Settlers",
+        "releases.5.note": "A dungeon exploration and building simulation game releasing on September 4, offering the fun of pioneering underground labyrinths and expanding bases.",
+        "releases.5.dev": "Game River",
+        "events.0.name": "KONAMI PRESS START",
+        "events.0.note": "Online broadcast unveiling new title announcements from Konami Digital Entertainment.",
+        "events.0.venue": "Online",
+        "events.1.name": "World of Dokkaebi Online Showcase",
+        "events.1.note": "Unveiling gameplay footage and key schedule for the new MMORPG developed by Supercat and published by Kakao Games.",
+        "events.1.venue": "Online (YouTube)"
+      },
+      "briefing": {
+        "items.0.title": "Square Enix Officially Denies Rumors of Going Private",
+        "items.0.source": "Inven",
+        "items.0.time": "September 1",
+        "items.1.title": "New Mobile Game Based on 'Seal Online' IP Receives Chinese Import Game License",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "September 1",
+        "items.2.title": "Microsoft Unveils Xbox Game Pass Lineup for September",
+        "items.2.source": "IGN India",
+        "items.2.time": "September 1",
+        "items.3.title": "Rockstar Games Unveils Official RP Servers for 'GTA Online'",
+        "items.3.source": "IGN India",
+        "items.3.time": "September 1",
+        "items.4.title": "'Ace Combat 8' Reveals Details on Massive Online Mode",
+        "items.4.source": "4Gamer",
+        "items.4.time": "September 1",
+        "items.5.title": "Capcom to Host First Playable Demo of 'Monster Hunter Wilds: Ascendance' at TGS 2026",
+        "items.5.source": "4Gamer",
+        "items.5.time": "September 1",
+        "items.6.title": "Saudi Savvy Games Group CEO Brian Ward Steps Down",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "September 1"
+      },
+      "drk": {
+        "title": "A World Built by Users: The Changing Ownership of Gaming Platforms",
+        "intro": "Virtual worlds spontaneously created by players are now becoming a core business for game companies. What is the real reason Rockstar Games officially integrated 'GTA Online' RP (Roleplay) servers? 🎮",
+        "points": "Rockstar Games has officially begun supporting official RP servers for 'GTA Online', which used to be the exclusive domain of the third-party modding community. This is a symbolic milestone where a developer directly embraces a user-driven roleplaying ecosystem—previously existing in the unofficial realm—into the mainstream framework. 🌐\n\nThis fundamentally alters the paradigm of game consumption and platform ecosystems. Players are no longer merely passive consumers completing predetermined quests, but active creators who take on jobs and build societies within virtual worlds. In turn, game companies dramatically extend the lifespan of their live services through strong community cohesion. 💡\n\nUltimately, the success of future live services hinges on **'how much autonomous authority can be delegated to users to let them expand the ecosystem on their own.'** By absorbing user-created mods as a core growth driver rather than a target of control, this case presents a milestone for where next-generation open-world games should head. 🔍\n\nIn an era where players define the rules of games and forge societies themselves, how ready are next-generation AAA titles to hand over the keys to their virtual worlds? 🚀"
+      },
+      "soundtrack": {
+        "title": "VILLAIN UNION [ NIKKE ]",
+        "comment": "The soundtrack from <GODDESS OF VICTORY: NIKKE>, which has recently become a hot topic with the arrival of captivating villains! 🎧 Recharge your energy on a tiring Wednesday evening with overpowering beats and suspenseful melodies! 🔥"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ザ・ブラッド・オブ・ドーンウォーカー",
+        "releases.0.note": "9月2日にリリースされるダークファンタジー・アクションRPGで、『ウィッチャー3』の主要開発陣が手掛ける吸血鬼をテーマにしたオープンワールドゲームです。",
+        "releases.0.dev": "Rebel Wolves",
+        "releases.1.game": "鬼武者：剣の道",
+        "releases.1.note": "9月3日に正式リリースされるアクションアドベンチャーの新作で、特有の「一閃」アクションと洗練された剣術バトルをお届けします。",
+        "releases.1.dev": "カプコン",
+        "releases.2.game": "NBA 2K27",
+        "releases.2.note": "9月3日に世界同時発売される代表的なバスケットボールゲームで、進化したProPLAY技術と最新ロスターを提供します。",
+        "releases.2.dev": "Visual Concepts",
+        "releases.3.game": "SpeedRunners 2: King of Speed",
+        "releases.3.note": "9月3日にリリースされる4人マルチプレイ・レーシングプラットフォーマーで、新たなトラップとハイスピードなランアクションが特徴です。",
+        "releases.3.dev": "DoubleDutch Games",
+        "releases.4.game": "勝利の女神：NIKKE",
+        "releases.4.note": "9月3日に大型新バージョン「GREAT VILLAIN UNION」アップデートが実施され、新キャラクターやストーリーイベントが追加されます。",
+        "releases.4.dev": "SHIFT UP",
+        "releases.5.game": "ダンジョン・セトラー",
+        "releases.5.note": "9月4日にリリースされるダンジョン探索＆建設シミュレーションゲームで、地下迷宮を開拓し拠点を拡張する楽しさを提供します。",
+        "releases.5.dev": "Game River",
+        "events.0.name": "KONAMI PRESS START",
+        "events.0.note": "コナミデジタルエンタテインメントの新作情報をお届けするオンライン配信",
+        "events.0.venue": "オンライン",
+        "events.1.name": "トッケビの世界 オンラインショーケース",
+        "events.1.note": "Supercat開発・Kakao Games配信の新作MMORPGのゲーム映像および主要スケジュールを公開",
+        "events.1.venue": "オンライン（YouTube）"
+      },
+      "briefing": {
+        "items.0.title": "スクウェア・エニックス、非上場化の噂を公式に否定",
+        "items.0.source": "INVEN",
+        "items.0.time": "9月1日",
+        "items.1.title": "『シールオンライン』IP活用のモバイル新作、中国の版号を取得",
+        "items.1.source": "GameMeca",
+        "items.1.time": "9月1日",
+        "items.2.title": "マイクロソフト、9月のXbox Game Pass新規ラインナップを発表",
+        "items.2.source": "IGN India",
+        "items.2.time": "9월 1일",
+        "items.3.title": "ロックスター・ゲームス、『GTAオンライン』の公式RPサーバーを発表",
+        "items.3.source": "IGN India",
+        "items.3.time": "9月1日",
+        "items.4.title": "『エースコンバット8』、大規模オンラインモードの詳細情報を公開",
+        "items.4.source": "4Gamer",
+        "items.4.time": "9月1日",
+        "items.5.title": "カプコン、TGS 2026で『モンハンワイルズ：アセンダンス』を初試遊出展へ",
+        "items.5.source": "4Gamer",
+        "items.5.time": "9月1日",
+        "items.6.title": "サウジのSavvy Games Group、ブライアン・ウォードCEOが退任",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "9月1日"
+      },
+      "drk": {
+        "title": "ユーザーが創る世界、ゲームプラットフォームの主役が交代する",
+        "intro": "ユーザーが自発的に創り出した仮想世界が、今やゲーム会社のコアビジネスになりつつあります。ロックスター・ゲームスが『GTAオンライン』のRP（ロールプレイ）サーバーを公式に取り込んだ真の理由とは何でしょうか？ 🎮",
+        "points": "ロックスター・ゲームスが、これまでサードパーティModコミュニティの専有物だった『GTAオンライン』の公式RPサーバーのサポートを本格化させました。これまで非公式の領域にとどまっていたユーザー主導のロールプレイングエコシステムを、開発会社自らが公式の枠組みへと取り込んだ象徴的な出来事です。 🌐\n\nこれはゲームの消費構造とプラットフォームエコシステムのパラダイムを根本から変えるものです。ユーザーは単に決められたクエストをこなす受動的な消費者ではなく、仮想世界の中で職業を持ち、社会を構築する能動的なクリエイターとなります。ゲーム会社は強固なコミュニティの結束力を基盤に、ライブサービスの寿命を飛躍的に延ばすメリットを得られます。 💡\n\n結局のところ、今後のライブサービスの成否は**「ユーザーへどれだけ自律的な権限を委譲し、自発的にエコシステムを拡張させられるか」**にかかっています。ユーザー制作Modを統制の対象ではなく中核的な成長エンジンとして取り込んだ今回の事例は、次世代オープンワールドゲームが進むべき道標を示しています。 🔍\n\nプレイヤー自らがゲームのルールを定義し、社会を形成する時代。次世代の大型新作タイトルは、ユーザーに仮想世界の鍵を委ねる準備がどこまでできているでしょうか？ 🚀"
+      },
+      "soundtrack": {
+        "title": "VILLAIN UNION [ NIKKE ]",
+        "comment": "魅力的なヴィランたちの登場で大きな話題となった『勝利の女神：NIKKE』のサウンドトラックです！ 🎧 お疲れの水曜日の夜、圧倒的なビートと緊張感あふれる旋律でエネルギーを満タンにチャージしてみませんか？ 🔥"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "게임 플랫폼의 주인이 바뀐다?! 👑 (feat. 니케 역대급 신곡 OST 🎧)",
+    "en": "Players are taking over gaming platforms! 👑 (ft. NIKKE's epic new OST 🎧)",
+    "ja": "ゲームの主役が交代する時代へ?! 👑 (feat. 『NIKKE』神曲OST 🎧)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "GTA 온라인에 드디어 공식 RP 서버가 열린다는 소식 들으셨나요?! 🚗\n게임 플랫폼 판도가 어떻게 바뀔지 오늘 뉴스레터에서 확인해보세요 👀\n\nhttps://www.gtplayer.net/edition-116/\n#GTA온라인 #니케 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-02T07:01:29.473489"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "9월 2일 오늘의 게임 소식 🎮 게임 플랫폼의 주인이 바뀐다?!\n\n📰 [뉴스] 스퀘어에닉스 비상장 전환설 부인부터 GTA 온라인 공식 RP 서버 공개, 9월 엑박 게임패스 라인업까지!\n📅 [출시] NBA 2K27, 귀무자: 검의 길, 더 블러드 오브 던워커, 승리의 여신: 니케 등 이번 주 신작 총정리\n✍️ [인사이트] 유저가 만드는 세상, 락스타가 GTA RP 서버를 공식 편입하며 플랫폼의 주인이 바뀐 이유\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임소식 #게임트렌드 #GTPlayer #게임추천 #신작게임 #콘솔게임 #PC게임 #모바일게임 #스퀘어에닉스 #GTA온라인 #에이스컴뱃 #게임패스 #승리의여신니케 #니케 #NBA2K27 #귀무자 #게이머 #게임스타그램 #인디게임",
+          "image_paths": [
+            "web\\instagram\\edition_116\\card_cover.png",
+            "web\\instagram\\edition_116\\card_news.png",
+            "web\\instagram\\edition_116\\card_calendar.png",
+            "web\\instagram\\edition_116\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3976872055463459968_39332818166",
+            "url": "https://www.instagram.com/p/DcwsBBnE7yA/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-02T07:02:01.810327"
+    },
+    "linkedin": {
+      "results": {
+        "posted": false,
+        "text": "Players are taking over gaming platforms! 👑 (ft. NIKKE's epic new OST 🎧)\n\nRockstar is rolling out official GTA RP servers as player-driven worlds redefine the future of gaming platforms.\nCatch all the major industry headlines, exciting upcoming releases, and Shift Up's latest music drop right here.\n\nhttps://www.gtplayer.net/edition-116-en/",
+        "error": "LinkedIn posting failed"
+      },
+      "updated_at": "2026-09-02T07:02:45.800049"
+    }
+  }
+}

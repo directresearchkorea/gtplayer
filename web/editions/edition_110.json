@@ -1,0 +1,465 @@
+{
+  "num": "110",
+  "date": "2026-08-25",
+  "status": "published",
+  "schedule": {
+    "date": "2026-08-25",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "에일리언: 파이어팀 엘리트 2",
+          "dev": "콜드 아이언 스튜디오",
+          "date": "8월 25일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 25일 출시되는 3인 협동 3인칭 서바이벌 슈터 후속작으로, 제노모프 무리에 맞서 새로운 무기와 클래스로 사투를 벌입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3448650/Aliens_Fireteam_Elite_2/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "1666: 암스테르담",
+          "dev": "판초 게임즈",
+          "date": "8월 25일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 25일 출시되는 17세기 네덜란드 황금기 배경의 내러티브 어드벤처 게임으로, 암스테르담의 역사적 미스터리를 탐험합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3949550/1666_Amsterdam/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "제우스: 오만의 신",
+          "dev": "에이버튼",
+          "date": "8월 26일(수)",
+          "platforms": [
+            "PC",
+            "모바일"
+          ],
+          "color": "#10b981",
+          "note": "8월 26일 정식 출시되는 그리스 신화 배경의 신작 MMORPG로, 세력 간 대규모 전투와 신화 속 신들과의 대결을 특징으로 합니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1779495",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "브리가단딘 어비스",
+          "dev": "해피넷",
+          "date": "8월 26일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 26일 출시되는 판타지 턴제 국가 점령 시뮬레이션 RPG로, 군세를 이끌고 대륙을 통일하는 전략적 전투를 다룹니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3211430/BRIGANDINE_ABYSS/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "스타워즈 제로 컴퍼니",
+          "dev": "비트 리액터",
+          "date": "8월 27일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "8월 27일 출시되는 엑스컴 제작진의 신작 턴제 전술 전략 게임으로, 스타워즈 클론 전쟁을 배경으로 엘리트 클론 분대를 지휘합니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1779525",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "메탈 기어 솔리드: 마스터 컬렉션 Vol.2",
+          "dev": "코나미",
+          "date": "8월 27일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "8월 27일 정식 출시되는 명작 잠입 액션 합본팩으로, 메탈 기어 솔리드 4와 피스 워커 등 시리즈 대표작들이 현대 플랫폼으로 이식됩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://www.ign.com/articles/metal-gear-solid-master-collection-vol-2-pc-preorder-discount",
+          "source_name": "IGN"
+        }
+      ],
+      "events": [
+        {
+          "name": "젠레스 존 제로 Ver.3.2 예고 방송",
+          "note": "Ver.3.2 '비밀과, 과거와, 그녀들과' 신규 캐릭터 및 업데이트 정보 공개",
+          "venue": "온라인",
+          "date": "2026-08-28",
+          "tag": "쇼케이스",
+          "website": "https://www.4gamer.net/games/630/G063081/20260824017/"
+        },
+        {
+          "name": "타임 테이커즈 스팀 글로벌 플레이테스트",
+          "note": "엔씨소프트의 신작 타임 서바이벌 슈터 '타임 테이커즈' 72시간 한정 글로벌 테스트",
+          "venue": "Steam (온라인)",
+          "date": "2026-09-05 ~ 2026-09-08",
+          "tag": "베타 테스트",
+          "website": "https://www.inven.co.kr/webzine/news/?news=319849"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "펄어비스 '붉은사막', 게임스컴 어워드 2개 부문 후보 지명",
+          "source": "인벤",
+          "time": "8월 24일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319868"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "넥슨게임즈, 서브컬처 신작 명칭 '파레이돌리아'로 확정",
+          "source": "인벤",
+          "time": "8월 24일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319847"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "신작 협동 낚시 '하우 투 피시', 출시 이틀 만에 100만 장 판매",
+          "source": "4Gamer",
+          "time": "8월 24일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/035/G103514/20260824024/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "SFC 명작 액션 RPG '천지창조', 2027년 리메이크 출시 결정",
+          "source": "Famitsu",
+          "time": "8월 24일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202608/85377"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "트위치·아마존, 스트리머 영상 AI 무단 학습으로 집단소송 피소",
+          "source": "IGN India",
+          "time": "8월 24일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/twitch-1/269880/amazon-and-twitch-face-class-action-lawsuit-after-introducing-opt-out-setting-that-uses-streamers-co"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "오픈월드 레이싱 신작 '클러치', 공식 퍼블리싱 트레일러 공개",
+          "source": "IGN India",
+          "time": "8월 24일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/maverick-games-open-world-driving-project/269858/clutch-official-publishing-announcement-trailer"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "CDPR, 차기작 '위쳐 4' 목표 출시 시점 2028년으로 공식 발표",
+          "source": "PC Gamer",
+          "time": "8월 24일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/the-witcher/the-witcher-4-is-targeting-a-2028-release/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "더블 파인, Xbox로부터 독립 후 IP 소유권 및 판권 전면 회수",
+          "source": "GamesIndustry.biz",
+          "time": "8월 24일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/double-fine-productions-regains-ownership-of-ip-and-publishing-rights-following-independence-from-xbox"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "초대형 블록버스터의 긴 공백, 그 틈을 파고든 즉각적인 연대의 재미",
+      "intro": "5년을 더 기다려야 하는 AAA 대작과 이틀 만에 100만 장을 판 가벼운 협동 게임.\n지금 게이머들이 진정으로 지갑을 여는 곳은 어디일까요? 🤔",
+      "points": "CD 프로젝트 레드가 '위쳐 4'의 목표 출시 시점을 2028년으로 발표한 반면, 신작 협동 게임 '하우 투 피시'는 출시 단 이틀 만에 100만 장 판매를 돌파했습니다. ⏳🐟\n\n이는 거대 자본이 투입되는 AAA 게임의 개발 주기가 5년 이상으로 장기화되는 사이, 유저들의 **게임 소비 구조**가 즉각적이고 가벼운 플레이 경험으로 빠르게 이동하고 있음을 보여줍니다. 천문학적인 제작비와 긴 기다림을 요구하는 블록버스터의 공백을, 친구와 즉시 소통하며 즐길 수 있는 미들급 협동 게임들이 성공적으로 메우고 있는 셈입니다. 🎮📈\n\n결국 **게이머들은 압도적인 스케일의 먼 미래보다 지금 당장 유기적인 상호작용을 선사하는 플레이 경험을 선택**하고 있습니다. 초대형 프로젝트의 리스크가 임계점에 도달한 현시점에서, 개발 규모의 비대화가 곧 흥행을 보장하던 시대는 지나갔습니다. 💡\n\n수억 달러의 예산과 기나긴 개발 기간이 필수가 된 시장에서, 게임사들은 과연 어떻게 유저들의 피로감을 해소하고 지속 가능한 제작 환경을 구축할 수 있을까요? 🔍"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "서든어택",
+      "title": "달빛 아래 펼쳐지는 21주년의 새로운 전장, '문라이즈'",
+      "imgUrl": "",
+      "comment": "21주년을 맞이해 공개된 2026 시즌4 '문라이즈' 업데이트를 바탕으로, 푸른 달빛이 드리운 신규 야간 전장에서 펼쳐질 서든어택 특유의 긴박한 총격전 모습을 AI로 재현해 보았습니다.",
+      "ai_prompt": "Actual in-game screenshot, exact original game engine rendering, completely identical to original art style, NO cinematic styling, NO illustration. Sudden Attack classic online FPS game engine aesthetic, LithTech Jupiter engine visuals, low-to-mid poly military character models, classic texture resolution. A first-person shooter perspective holding a customized tactical assault rifle with glowing night camouflage skin under cool blue moonlight. The battlefield is an urban warehouse district at night with moonlight reflecting on wet asphalt, crates, and chain-link fences. In-game tactical HUD, ammo counter in the bottom right corner, mini-map in the top left corner, realistic authentic FPS in-game capture."
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Aliens: Fireteam Elite 2",
+        "releases.0.note": "Releasing August 25, this sequel to the 3-player co-op third-person survival shooter pits players against Xenomorph swarms with new weapons and classes.",
+        "releases.0.dev": "Cold Iron Studios",
+        "releases.1.game": "1666: Amsterdam",
+        "releases.1.note": "Releasing August 25, a narrative adventure game set in the 17th-century Dutch Golden Age exploring historical mysteries across Amsterdam.",
+        "releases.1.dev": "Panache Games",
+        "releases.2.game": "Zeus: God of Hubris",
+        "releases.2.note": "Officially launching August 26, this new Greek mythology MMORPG features large-scale faction battles and confrontations with mythical gods.",
+        "releases.2.dev": "Averton",
+        "releases.3.game": "Brigandine Abyss",
+        "releases.3.note": "Releasing August 26, a fantasy turn-based grand strategy RPG where players command armies to unify the continent through tactical warfare.",
+        "releases.3.dev": "Happinet",
+        "releases.4.game": "Star Wars: Zero Company",
+        "releases.4.note": "Releasing August 27, a new turn-based tactical strategy game from XCOM creators where players command an elite clone squad during the Star Wars Clone Wars.",
+        "releases.4.dev": "Bit Reactor",
+        "releases.5.game": "Metal Gear Solid: Master Collection Vol. 2",
+        "releases.5.note": "Officially releasing August 27, this compilation pack of stealth-action classics ports franchise highlights like Metal Gear Solid 4 and Peace Walker to modern platforms.",
+        "releases.5.dev": "Konami",
+        "events.0.name": "Zenless Zone Zero Ver. 3.2 Special Program",
+        "events.0.note": "Unveiling new characters and update details for Ver. 3.2 'Secrets, the Past, and the Girls'",
+        "events.0.venue": "Online",
+        "events.1.name": "Time Takers Steam Global Playtest",
+        "events.1.note": "NCSOFT's 72-hour limited global test for the new time-survival shooter 'Time Takers'",
+        "events.1.venue": "Steam (Online)"
+      },
+      "briefing": {
+        "items.0.title": "Pearl Abyss's 'Crimson Desert' Nominated in 2 Categories at Gamescom Awards",
+        "items.0.source": "Inven",
+        "items.0.time": "August 24",
+        "items.1.title": "Nexon Games Confirms Title of New Subculture Project as 'Pareidolia'",
+        "items.1.source": "Inven",
+        "items.1.time": "August 24",
+        "items.2.title": "New Co-Op Fishing Game 'How to Fish' Sells 1 Million Copies in Just Two Days",
+        "items.2.source": "4Gamer",
+        "items.2.time": "August 24",
+        "items.3.title": "Classic SNES Action RPG 'Terranigma' Slated for Remake Release in 2027",
+        "items.3.source": "Famitsu",
+        "items.3.time": "August 24",
+        "items.4.title": "Twitch and Amazon Hit with Class-Action Lawsuit Over Unauthorized AI Training on Streamer Videos",
+        "items.4.source": "IGN India",
+        "items.4.time": "August 24",
+        "items.5.title": "New Open-World Racing Game 'Clutch' Releases Official Publishing Trailer",
+        "items.5.source": "IGN India",
+        "items.5.time": "August 24",
+        "items.6.title": "CDPR Officially Targets 2028 Release Window for 'The Witcher 4'",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "August 24",
+        "items.7.title": "Double Fine Regains Full IP Ownership and Publishing Rights Following Independence from Xbox",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "August 24"
+      },
+      "drk": {
+        "title": "The Long Void of Mega-Blockbusters and the Rise of Instant Shared Fun",
+        "intro": "A AAA blockbuster that requires a 5-year wait versus a casual co-op game that sold 1 million copies in two days. Where are gamers truly opening their wallets right now? 🤔",
+        "points": "While CD Projekt Red announced a targeted 2028 release window for 'The Witcher 4', the new co-op title 'How to Fish' surpassed 1 million copies sold in just two days. ⏳🐟\n\nThis highlights how players' **game consumption patterns** are rapidly shifting toward immediate, bite-sized gameplay experiences while mega-budget AAA development cycles stretch beyond five years. Mid-tier co-op games that let players jump straight into communicating and having fun with friends are successfully filling the void left by astronomical budgets and agonizing waits. 🎮📈\n\nIn the end, **gamers are choosing organic, present-moment gameplay interactions over distant promises of overwhelming scale**. As the risks of mega-projects reach a boiling point, the era where bloated development scale alone guaranteed commercial success is over. 💡\n\nIn a market where multi-hundred-million-dollar budgets and extensive dev cycles have become the norm, how can studios alleviate player fatigue and build a sustainable production environment? 🔍"
+      },
+      "gamescene": {
+        "game": "Sudden Attack",
+        "title": "A New Battlefield Under the Moonlight for the 21st Anniversary, 'Moonrise'",
+        "comment": "Based on the 2026 Season 4 'Moonrise' update celebrating the 21st anniversary, this AI visualization captures Sudden Attack's signature intense gunplay set across a new night battlefield blanketed in blue moonlight."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "エイリアン：ファイアーチーム エリート 2",
+        "releases.0.note": "8月25日にリリースされる3人協力プレイ対応の三人称視点サバイバルシューター続編。ゼノモーフの群れに立ち向かい、新たな武器やクラスで死闘を繰り広げます。",
+        "releases.0.dev": "Cold Iron Studios",
+        "releases.1.game": "1666: アムステルダム",
+        "releases.1.note": "8月25日にリリースされる17世紀オランダ黄金時代を舞台にしたナラティブ・アドベンチャーゲーム。アムステルダムの歴史的謎を探索します。",
+        "releases.1.dev": "Pancho Games",
+        "releases.2.game": "ゼウス：傲慢の神",
+        "releases.2.note": "8月26日に正式リリースされるギリシャ神話を舞台にした新作MMORPG。勢力間の大規模戦闘や神話の神々との対決が特徴です。",
+        "releases.2.dev": "Averton",
+        "releases.3.game": "ブリガンダイン アビス",
+        "releases.3.note": "8月26日にリリースされるファンタジー・ターン制国取りシミュレーションRPG。軍勢を率いて大陸統一を目指す戦略的な戦いが描かれます。",
+        "releases.3.dev": "ハピネット",
+        "releases.4.game": "スター・ウォーズ ゼロ・カンパニー",
+        "releases.4.note": "8月27日にリリースされる『XCOM』開発陣による新作ターン制タクティカルストラテジーゲーム。『スター・ウォーズ』のクローン大戦を舞台に、エリート・クローン部隊を指揮します。",
+        "releases.4.dev": "Bit Reactor",
+        "releases.5.game": "メタルギア ソリッド: マスターコレクション Vol.2",
+        "releases.5.note": "8月27日に正式リリースされる名作ステルスアクションのコレクションパック。『メタルギア ソリッド 4』や『ピースウォーカー』など、シリーズを代表するタイトルが最新プラットフォームに移植されます。",
+        "releases.5.dev": "コナミ",
+        "events.0.name": "ゼンレスゾーンゼロ Ver.3.2 予告番組",
+        "events.0.note": "Ver.3.2「秘密と、過去と、彼女たちと」新キャラクターおよびアップデート情報を公開",
+        "events.0.venue": "オンライン",
+        "events.1.name": "タイム・テイカーズ Steamグローバルプレイテスト",
+        "events.1.note": "NCSOFTの新作タイムサバイバルシューター『タイム・テイカーズ』72時間限定グローバルテスト",
+        "events.1.venue": "Steam（オンライン）"
+      },
+      "briefing": {
+        "items.0.title": "Pearl Abyss『紅の砂漠』、gamescomアワード2部門にノミネート",
+        "items.0.source": "INVEN",
+        "items.0.time": "8月24日",
+        "items.1.title": "ネクソンゲームズ、サブカルチャー系新作の名称を『パレイドリア』に決定",
+        "items.1.source": "INVEN",
+        "items.1.time": "8月24日",
+        "items.2.title": "新作協力釣りゲーム『How to Fish』、発売からわずか2日で100万本販売",
+        "items.2.source": "4Gamer",
+        "items.2.time": "8月24日",
+        "items.3.title": "SFCの名作アクションRPG『天地創造』、2027年にリメイク版の発売が決定",
+        "items.3.source": "Famitsu",
+        "items.3.time": "8月24日",
+        "items.4.title": "Twitch・Amazon、ストリーマーの配信映像をAIに無断学習させたとして集団訴訟を起こされる",
+        "items.4.source": "IGN India",
+        "items.4.time": "8月24日",
+        "items.5.title": "オープンワールド・レースゲーム新作『Clutch』、公式パブリッシングトレーラーを公開",
+        "items.5.source": "IGN India",
+        "items.5.time": "8月24日",
+        "items.6.title": "CDPR、次回作『ウィッチャー4』の目標発売時期を2028年と公式発表",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "8月24日",
+        "items.7.title": "Double Fine、Xboxからの独立に伴いIPの所有権および版権を全面回収",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "8月24日"
+      },
+      "drk": {
+        "title": "超大作ブロックバスターの長い空白、その隙間を突いた即時的な連帯の楽しさ",
+        "intro": "あと5年も待たなければならないAAA級の大作と、わずか2日で100万本を売り上げたカジュアルな協力ゲーム。\n今、ゲーマーが真に財布を開く場所はどこなのでしょうか？ 🤔",
+        "points": "CD PROJEKT REDが『ウィッチャー4』の目標発売時期を2028年と発表した一方で、新作協力ゲーム『How to Fish』は発売からわずか2日で販売数100万本を突破しました。⏳🐟\n\nこれは、巨額の資本が投じられるAAAタイトルの開発サイクルが5年以上に長期化するなか、ユーザーの**ゲーム消費構造**が即時的でカジュアルなプレイ体験へと急速にシフトしていることを示しています。天文学的な制作費と長い待機期間を要する超大作の空白を、友人とすぐにコミュニケーションを取りながら楽しめるミドルクラスの協力ゲームが見事に埋めていると言えます。🎮📈\n\n結局のところ、**ゲーマーは圧倒的なスケールを誇る遠い未来よりも、今すぐ有機的なインタラクションをもたらしてくれるプレイ体験を選択**しています。超大型プロジェクトのリスクが限界点に達している今、開発規模の肥大化がそのままヒットを保証する時代は終わりました。💡\n\n数億ドルの予算と長い開発期間が必須となった市場で、ゲーム会社はいかにしてユーザーの疲労感を解消し、持続可能な制作環境を構築できるでしょうか？ 🔍"
+      },
+      "gamescene": {
+        "game": "サドンアタック",
+        "title": "月明かりの下に広がる21周年の新たな戦場、「ムーンライズ」",
+        "comment": "21周年を迎えて公開された2026シーズン4「ムーンライズ」アップデートを基に、青い月明かりが差し込む新たな夜間戦場で繰り広げられる『サドンアタック』ならではの緊迫した銃撃戦の様子をAIで再現しました。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "AAA 대작의 기나긴 공백, 지금 게이머들이 함께 뭉치는 이유 🎮🔥",
+    "en": "The AAA drought is real—and co-op chaos is taking over 🎮🔥",
+    "ja": "AAA大作の長い空白、今ゲーマーが「共闘」に熱狂する理由 🎮🔥"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "요즘 할 게임 없어서 심심하셨던 분들 주목! 👀\n펄어비스 '붉은사막'이 드디어 게임스컴 2개 부문 후보에 올랐네요 🎮\n\nhttps://www.gtplayer.net/edition-110/\n#붉은사막 #게임스컴 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-08-25T10:03:57.860097"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "The AAA drought is real—and co-op chaos is taking over 🎮🔥\n\nWhile massive blockbusters keep players waiting for years, casual co-op hits are breaking records and selling millions overnight.\nFrom viral indie sensations to exciting new franchise reveals, player habits are shifting faster than ever.\n\nhttps://www.gtplayer.net/edition-110-en/",
+        "error": null
+      },
+      "updated_at": "2026-08-25T07:02:14.786068"
+    },
+    "youtube_community": {
+      "results": {
+        "posted": true,
+        "text": "🔥 기다리던 대작 게임 소식이 뜸한 요즘, 오히려 게이머들이 더 끈끈하게 뭉치고 있다는 사실 알고 계셨나요? 🎮\n\n주요 뉴스 요약:\n- 끝없이 길어지는 AAA급 대작 개발 주기와 길어지는 신작 가뭄 현상 분석 ⏳\n- 대작 공백기 속에서 협동 멀티 게임과 인디 명작으로 발길을 돌리는 게이머들 👾\n- 신작 없이도 함께 뭉쳐서 더 재밌게 노는 요즘 게이머들의 생존법 🔥\n\n🎮 전체 캘린더와 상세 기사는 아래 뉴스레터에서 확인해 보세요!\n👉 www.gtplayer.net/edition-110/",
+        "error": null
+      },
+      "updated_at": "2026-08-25T09:48:24.452265"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "8월 25일 오늘의 게임 소식 🎮\n\n📰 [뉴스] 붉은사막 게임스컴 후보 지명부터 협동 낚시 신작 이틀 만에 100만 장 돌파 소식까지!\n📅 [출시] 에일리언: 파이어팀 엘리트 2, 스타워즈 제로 컴퍼니, 메탈 기어 솔리드 컬렉션 등 신작 라인업\n✍️ [인사이트] 5년을 기다리는 AAA 대작의 기나긴 공백, 지금 게이머들이 가벼운 연대에 열광하는 이유\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#GTPlayer #게임뉴스 #게임뉴스레터 #신작게임 #게임추천 #붉은사막 #하우투피시 #천지창조 #넥슨게임즈 #에일리언파이어팀엘리트2 #스타워즈제로컴퍼니 #메탈기어솔리드 #인디게임 #스팀게임 #콘솔게임 #PC게임 #게이머 #게임덕후 #게임소식 #게임스타그램",
+          "image_paths": [
+            "web\\instagram\\edition_110\\card_cover.png",
+            "web\\instagram\\edition_110\\card_news.png",
+            "web\\instagram\\edition_110\\card_calendar.png",
+            "web\\instagram\\edition_110\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3971165038950110790_39332818166",
+            "url": "https://www.instagram.com/p/DccaZATElZG/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-08-25T10:03:12.991048"
+    }
+  }
+}

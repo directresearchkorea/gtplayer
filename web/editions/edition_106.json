@@ -1,0 +1,442 @@
+{
+  "num": "106",
+  "date": "2026-08-19",
+  "status": "published",
+  "schedule": {
+    "date": "2026-08-19",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "슈타인즈 게이트 리부트",
+          "dev": "MAGES.",
+          "date": "8월 19일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 19일 정식 출시되는 명작 SF 비주얼 노벨 리메이크작으로, 그래픽 일신 및 신규 연출이 더해졌습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4012810/STEINSGATE_REBOOT/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "update",
+          "game": "마피아: 올드 컨트리",
+          "dev": "행거 13",
+          "date": "8월 19일(수)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X|S"
+          ],
+          "color": "#3b82f6",
+          "note": "8월 19일 정식 출시된 확장팩 '명예로운 사나이'를 통해 1905년 시칠리아를 배경으로 한 새로운 서사가 추가됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319632",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "다키스트 던전",
+          "dev": "레드훅 스튜디오",
+          "date": "8월 19일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "8월 19일 신규 DLC '파이어스 엣지'가 출시되어 2편의 캐릭터와 신규 콘텐츠가 1편에 새롭게 적용됩니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1779228",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "모탈 셸 2",
+          "dev": "콜드 시메트리",
+          "date": "8월 20일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X|S"
+          ],
+          "color": "#10b981",
+          "note": "8월 20일 출시되는 다크 판타지 액션 RPG로, 강화된 빙의 시스템과 깊이 있는 소울라이크 전투를 선보입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2584270/Mortal_Shell_II/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "브리가도어 킬러스",
+          "dev": "스텔라 졸츠",
+          "date": "8월 20일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 20일 정식 출시되는 탑다운 아이소메트릭 액션 게임으로, 파괴 가능한 전장과 강력한 메카닉 액션을 제공합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/903930/Brigador_Killers/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "update",
+          "game": "퍼스트 디센던트",
+          "dev": "넥슨게임즈",
+          "date": "8월 20일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X|S"
+          ],
+          "color": "#3b82f6",
+          "note": "8월 20일 대규모 업데이트 '대격전'을 통해 신규 계승자 레이븐과 요격전 극한 모드, 메가 던전이 추가됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319629",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "2026 오버워치 월드컵 그룹 스테이지",
+          "note": "오버워치 월드컵 결선 진출팀을 가리는 그룹 스테이지 경기",
+          "venue": "부산e스포츠경기장",
+          "date": "2026-08-20 ~ 2026-08-23",
+          "tag": "e스포츠",
+          "website": "https://www.gamemeca.com/view.php?gid=1779247"
+        },
+        {
+          "name": "게임스컴 2026 (gamescom 2026)",
+          "note": "역대 최대 규모 1,600개 이상 기업 참여 예정인 글로벌 게임 전시회",
+          "venue": "독일 쾰른메세",
+          "date": "2026-08-26 ~ 2026-08-30",
+          "tag": "오프라인 행사",
+          "website": "https://www.gamemeca.com/view.php?gid=1779248"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "라이엇, '캡스' 서양 선수 최초 전설의 전당 헌액",
+          "source": "인벤",
+          "time": "8월 18일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319642"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "AI기본법 시행 앞두고 게임업계 규제 대응 촉각",
+          "source": "인벤",
+          "time": "8월 18일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319638"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'브레이드' 개발진 신작 퍼즐, 10월 8일 출시 확정",
+          "source": "4Gamer",
+          "time": "8월 18일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/968/G096803/20260819001/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'포켓몬 챔피언스' 모바일, 日 매출 점유율 50% 기록",
+          "source": "4Gamer",
+          "time": "8월 18일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/886/G088683/20260818014/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'어몽 어스', 신규 역할군 '판사' 업데이트 공개",
+          "source": "IGN India",
+          "time": "8월 18일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/among-us/269154/among-us-official-judge-role-launch-trailer"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'나라카: 블레이드포인트', '하스스톤' 콜라보 발표",
+          "source": "IGN India",
+          "time": "8월 18일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/269147/naraka-bladepoint-x-hearthstone-official-collaboration-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "美 상원, 아동 안전 및 수익화 문제로 로블록스 조사 착수",
+          "source": "GamesIndustry.biz",
+          "time": "8월 18일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/us-senate-to-investigate-roblox-following-claims-it-prioritises-revenue-and-engagement-over-child-safety"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "창작의 자유와 책임: UGC 플랫폼을 향한 규제의 칼날",
+      "intro": "폭발적인 성장세를 이어가던 UGC 게임 생태계가 마침내 거대한 법적 시험대에 올랐습니다.\n아이들의 놀이터이자 차세대 메타버스로 불리던 공간은 왜 가장 엄격한 감시대상이 되었을까요?",
+      "points": "미국 상원이 아동 안전 보호 및 무분별한 수익화 구조를 이유로 로블록스에 대한 공식 조사에 착수했습니다. 🏛️ 전 세계 수천만 명의 미성년자가 매일 접속하는 대표적 UGC(이용자 생성 콘텐츠) 플랫폼의 구조적 취약점이 공론화된 것입니다.\n\n이번 조사는 플랫폼 사업자의 책임 범위를 재정의하고 글로벌 **게임 소비 구조**에 중대한 변화를 예고합니다. 📉 미성년자 대상의 불투명한 과금 유도와 콘텐츠 검증 부재는 소비자 신뢰를 훼손시키며, 향후 플랫폼 진입 장벽과 안전 관리 비용을 급격히 상승시키는 결과를 낳을 것입니다.\n\n자유로운 창작과 수익화라는 이상 뒤에 가려진 안전망의 부재는 언제든 생태계 전체를 흔들 수 있습니다. **차세대 게임 플랫폼의 진정한 경쟁력은 자율성 그 자체가 아니라, 타협 없는 보호 장치 위에서 구축되는 지속 가능성**에 있습니다. 🛡️\n\n수익 극대화와 사회적 책임의 갈림길에서, 글로벌 게임 플랫폼들은 신뢰를 회복할 수 있는 명확한 해답을 제시할 수 있을까요? 🤔"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": true,
+      "title": "「STEINS;GATE RE:BOOT」オープニングムービー",
+      "channel": "MAGES. GAME CHANNEL",
+      "videoId": "kwvfZIoeUsI",
+      "url": "https://www.youtube.com/watch?v=kwvfZIoeUsI",
+      "thumbnail": "https://i.ytimg.com/vi/kwvfZIoeUsI/hqdefault.jpg",
+      "comment": "새롭게 공개된 '슈타인즈 게이트 리부트' 오프닝 영상이 전 세계 팬들의 마음을 다시 흔들고 있어요! ⏳ 원작의 벅찬 감동을 떠올리며, 오늘 하루를 마무리하는 시간에 이 전율을 느껴보세요. 엘 프사이 콩그루! 📱✨",
+      "search_query": "Steins Gate RE BOOT Official Theme",
+      "ai_game_name": "슈타인즈 게이트 리부트",
+      "ai_reason": "지난주 웅장한 판타지 오케스트라와는 완전히 다른 분위기로, SF 명작의 감동을 다시 일깨우는 감성적이고 긴장감 넘치는 신규 편곡 테마곡을 감상할 수 있습니다."
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "STEINS;GATE RE:BOOT",
+        "releases.0.note": "A remake of the masterpiece sci-fi visual novel releasing on August 19, featuring revamped graphics and brand-new direction.",
+        "releases.0.dev": "MAGES.",
+        "releases.1.game": "Mafia: The Old Country",
+        "releases.1.note": "Adds a new narrative set in 1905 Sicily through the officially released expansion 'A Man of Honor' on August 19.",
+        "releases.1.dev": "Hangar 13",
+        "releases.2.game": "Darkest Dungeon",
+        "releases.2.note": "The new DLC 'Pyres Edge' releases on August 19, introducing sequel characters and new content to the original game.",
+        "releases.2.dev": "Red Hook Studios",
+        "releases.3.game": "Mortal Shell 2",
+        "releases.3.note": "A dark fantasy action RPG releasing on August 20, featuring an enhanced possession system and deep soulslike combat.",
+        "releases.3.dev": "Cold Symmetry",
+        "releases.4.game": "Brigador Killers",
+        "releases.4.note": "A top-down isometric action game officially releasing on August 20, delivering destructible environments and intense mech combat.",
+        "releases.4.dev": "Stellar Jockeys",
+        "releases.5.game": "The First Descendant",
+        "releases.5.note": "Adds the new Descendant Raven, Void Intercept Extreme Mode, and Mega Dungeons via the major update 'Clash of Fates' on August 20.",
+        "releases.5.dev": "Nexon Games",
+        "events.0.name": "2026 Overwatch World Cup Group Stage",
+        "events.0.note": "Group stage matches to determine the teams advancing to the Overwatch World Cup Finals",
+        "events.0.venue": "Busan Esports Arena",
+        "events.1.name": "gamescom 2026",
+        "events.1.note": "Global gaming convention featuring over 1,600 participating companies, marking the largest scale in its history",
+        "events.1.venue": "Koelnmesse, Germany"
+      },
+      "briefing": {
+        "items.0.title": "Riot Inducts 'Caps' into Hall of Legends as First Western Player",
+        "items.0.source": "Inven",
+        "items.0.time": "August 18",
+        "items.1.title": "Game Industry on High Alert for Compliance Ahead of AI Framework Act Implementation",
+        "items.1.source": "Inven",
+        "items.1.time": "August 18",
+        "items.2.title": "New Puzzle Game from 'Braid' Creator Confirmed for October 8 Release",
+        "items.2.source": "4Gamer",
+        "items.2.time": "August 18",
+        "items.3.title": "'Pokémon Champions' Mobile Captures 50% Revenue Share in Japan",
+        "items.3.source": "4Gamer",
+        "items.3.time": "August 18",
+        "items.4.title": "'Among Us' Unveils Update Introducing New 'Judge' Role",
+        "items.4.source": "IGN India",
+        "items.4.time": "August 18",
+        "items.5.title": "'Naraka: Bladepoint' Announces Collaboration with 'Hearthstone'",
+        "items.5.source": "IGN India",
+        "items.5.time": "August 18",
+        "items.6.title": "US Senate Launches Probe into Roblox Over Child Safety and Monetization Issues",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "August 18"
+      },
+      "drk": {
+        "title": "Creative Freedom and Responsibility: The Regulatory Blade Pointed at UGC Platforms",
+        "intro": "The UGC gaming ecosystem, which had been enjoying explosive growth, is finally facing a massive legal test.\nWhy has the space once hailed as a children's playground and the next-generation metaverse become the subject of the strictest scrutiny?",
+        "points": "The US Senate has launched a formal investigation into Roblox over child safety protections and predatory monetization structures. 🏛️ The structural vulnerabilities of the leading UGC (User-Generated Content) platform, accessed daily by tens of millions of minors worldwide, have now been brought into the public spotlight.\n\nThis probe redefines the scope of platform operators' accountability and heralds significant shifts in the global **game consumption structure**. 📉 Opaque billing practices targeting minors and the lack of content moderation undermine consumer trust, ultimately leading to steep increases in entry barriers and safety management costs for platforms in the future.\n\nBehind the ideals of creative freedom and monetization, the absence of a safety net can shake the entire ecosystem at any moment. **The true competitiveness of next-generation gaming platforms lies not in autonomy itself, but in sustainability built upon uncompromising safeguards.** 🛡️\n\nAt the crossroads of profit maximization and social responsibility, can global gaming platforms provide a clear answer to regain trust? 🤔"
+      },
+      "soundtrack": {
+        "title": "STEINS;GATE RE:BOOT Opening Movie",
+        "comment": "The newly revealed opening movie for 'STEINS;GATE RE:BOOT' is moving the hearts of fans worldwide once again! ⏳ Relive the overwhelming emotion of the original and feel the thrill as you wind down your day. El Psy Kongroo! 📱✨"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "STEINS;GATE RE:BOOT",
+        "releases.0.note": "8月19日に正式リリースされる名作SFビジュアルノベルのリメイク作品で、グラフィックの一新および新規演出が追加されています。",
+        "releases.0.dev": "MAGES.",
+        "releases.1.game": "Mafia: The Old Country",
+        "releases.1.note": "8月19日に正式リリースされた拡張パック「名誉ある男」を通じて、1905年のシチリアを舞台にした新たな物語が追加されます。",
+        "releases.1.dev": "Hangar 13",
+        "releases.2.game": "ダーケストダンジョン",
+        "releases.2.note": "8月19日に新規DLC「ファイヤーズ・エッジ」がリリースされ、2作目のキャラクターと新コンテンツが1作目に新たに適用されます。",
+        "releases.2.dev": "Red Hook Studios",
+        "releases.3.game": "Mortal Shell 2",
+        "releases.3.note": "8月20日にリリースされるダークファンタジー・アクションRPGで、強化された憑依システムと奥深いソウルライクな戦闘が楽しめます。",
+        "releases.3.dev": "Cold Symmetry",
+        "releases.4.game": "Brigador Killers",
+        "releases.4.note": "8月20日に正式リリースされるトップダウン・アイソメトリックアクションゲームで、破壊可能な戦場と強力なメカアクションを提供します。",
+        "releases.4.dev": "Stellar Jockeys",
+        "releases.5.game": "The First Descendant",
+        "releases.5.note": "8月20日の大規模アップデート「大決戦」を通じて、新規継承者「レイヴン」や迎撃戦の極限モード、メガダンジョンが追加されます。",
+        "releases.5.dev": "NEXON Games",
+        "events.0.name": "2026 オーバーウォッチ ワールドカップ グループステージ",
+        "events.0.note": "オーバーウォッチ ワールドカップ決勝進出チームを決めるグループステージの試合",
+        "events.0.venue": "釜山eスポーツ競技場",
+        "events.1.name": "gamescom 2026（ゲームスコム 2026）",
+        "events.1.note": "過去最大規模となる1,600社以上の企業が参加予定のグローバルゲーム展示会",
+        "events.1.venue": "ドイツ・ケルンメッセ"
+      },
+      "briefing": {
+        "items.0.title": "ライアット、「Caps」が西洋人選手として初の「殿堂」入り",
+        "items.0.source": "Inven",
+        "items.0.time": "8月18日",
+        "items.1.title": "AI基本法施行を控え、ゲーム業界は規制対応に注視",
+        "items.1.source": "Inven",
+        "items.1.time": "8月18日",
+        "items.2.title": "『Braid』開発陣の新作パズル、10月8日に発売決定",
+        "items.2.source": "4Gamer",
+        "items.2.time": "8月18日",
+        "items.3.title": "『ポケモンチャンピオンズ』モバイル、日本国内の売上シェア50％を記録",
+        "items.3.source": "4Gamer",
+        "items.3.time": "8月18日",
+        "items.4.title": "『Among Us』、新役職「裁判官（Judge）」アップデートを公開",
+        "items.4.source": "IGN India",
+        "items.4.time": "8月18日",
+        "items.5.title": "『NARAKA: BLADEPOINT』、『ハースストーン』とのコラボを発表",
+        "items.5.source": "IGN India",
+        "items.5.time": "8月18日",
+        "items.6.title": "米上院、児童の安全性および収益化問題でRobloxの調査に着手",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "8月18日"
+      },
+      "drk": {
+        "title": "創作の自由と責任：UGCプラットフォームに向けられた規制の刃",
+        "intro": "爆発的な成長を続けていたUGCゲームのエコシステムが、ついに巨大な法的試練に直面しました。\n子どもたちの遊び場であり次世代のメタバースと呼ばれた空間は、なぜ最も厳格な監視対象となったのでしょうか？",
+        "points": "米上院が子どもの安全保護および無分別な収益化構造を理由に、Robloxに対する公式調査に着手しました。🏛️ 世界中の数千万人の未成年者が毎日アクセスする代表的なUGC（ユーザー生成コンテンツ）プラットフォームの構造的脆弱性が表面化した形です。\n\n今回の調査はプラットフォーム事業者の責任範囲を再定義し、グローバルな**ゲーム消費構造**に重大な変化を予告しています。📉 未成年者を対象とした不透明な課金誘導やコンテンツ検証の不備は消費者の信頼を損ない、今後のプラットフォーム参入障壁と安全管理コストを急激に上昇させる結果をもたらすでしょう。\n\n自由な創作と収益化という理想の裏に隠されたセーフティネットの欠如は、いつでもエコシステム全体を揺るがしかねません。**次世代ゲームプラットフォームの真の競争力は、自律性そのものではなく、妥協のない保護体制の上に構築される持続可能性**にあります。🛡️\n\n収益の最大化と社会的責任の岐路において、グローバルゲームプラットフォームは信頼を回復するための明確な答えを提示できるでしょうか？🤔"
+      },
+      "soundtrack": {
+        "title": "「STEINS;GATE RE:BOOT」オープニングムービー",
+        "comment": "新たに公開された『STEINS;GATE RE:BOOT』のオープニング映像が、世界中のファンの心を再び震わせています！⏳ 原作の胸を打つ感動を思い出しながら、今日一日の締めくくりにこの興奮を味わってみてください。エル・プサイ・コングルゥ！📱✨"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "위기의 UGC 플랫폼, 창작의 자유는 끝났을까? 🛑 (feat. 슈타인즈 게이트 RE:BOOT 신규 OP ⏳)",
+    "en": "Crackdown on UGC games? 🛑 (feat. New STEINS;GATE RE:BOOT Opening ⏳)",
+    "ja": "UGCゲームに迫る規制の波…創作の自由はどうなる？🛑 (feat.『シュタゲ RE:BOOT』新OP解禁 ⏳)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "엘 프사이 콩그루! 드디어 '슈타게 리부트'가 찾아왔네요 ⏳\n위기의 UGC 플랫폼 이슈와 핫한 게임계 소식을 싹 모았습니다! 👀\n\n#슈타인즈게이트 #GTPlayer\nhttps://www.gtplayer.net/edition-106/",
+          "error": null
+        }
+      },
+      "updated_at": "2026-08-19T07:01:31.664617"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "8월 19일 오늘의 게임 소식 🎮\n📰 [뉴스] 캡스 서양 선수 최초 전설의 전당 헌액 & AI기본법 대응 등\n📅 [출시] 슈타인즈 게이트 리부트, 마피아: 올드 컨트리 등 신작 라인업\n✍️ [인사이트] 위기의 UGC 플랫폼, 창작의 자유와 규제의 칼날\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#gtplayer #게임뉴스 #게임소식 #신작게임 #게임추천 #게임스타그램 #게임덕후 #리그오브레전드 #슈타인즈게이트 #마피아올드컨트리 #어몽어스 #퍼스트디센던트 #인디게임 #스팀게임 #플레이스테이션 #엑스박스 #PC게임 #콘솔게임 #게이머 #게임정보",
+          "image_paths": [
+            "web\\instagram\\edition_106\\card_cover.png",
+            "web\\instagram\\edition_106\\card_news.png",
+            "web\\instagram\\edition_106\\card_calendar.png",
+            "web\\instagram\\edition_106\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3966725188322842447_39332818166",
+            "url": "https://www.instagram.com/p/DcMo4rLk9dP/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-08-19T07:02:01.409298"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Crackdown on UGC games? 🛑 (feat. New STEINS;GATE RE:BOOT Opening ⏳)\n\nFrom major regulatory shifts shaking up UGC platforms to Caps making history in the Hall of Legends, big changes are sweeping the industry.\nCatch the latest headlines alongside a fresh look at STEINS;GATE RE:BOOT and this week's most anticipated game releases.\n\nhttps://www.gtplayer.net/edition-106-en/",
+        "error": null
+      },
+      "updated_at": "2026-08-19T07:02:39.428140"
+    }
+  }
+}

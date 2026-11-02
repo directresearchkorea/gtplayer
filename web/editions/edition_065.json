@@ -1,0 +1,136 @@
+{
+  "num": "065",
+  "date": "2026-06-05",
+  "status": "published",
+  "schedule": {
+    "date": "2026-06-05",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [],
+      "events": [
+        {
+          "name": "비트서밋 2026",
+          "note": "",
+          "venue": "일본 교토",
+          "date": "2026-07-01~2026-07-31",
+          "tag": "오프라인 행사",
+          "d_day_str": "D-26",
+          "website": "https://www.bitsummit.org"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": []
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "오늘의 인사이트를 준비 중입니다",
+      "intro": "기술적인 문제로 인해 인사이트 생성이 지연되고 있습니다.",
+      "points": "잠시 후 다시 확인해 주시기 바랍니다."
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "Rogue Waters",
+      "url": "https://store.epicgames.com/ko/p/rogue-waters-9764d6",
+      "thumbnail": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/rogue-waters-wide_2560x1440-673011871d1a462292f9ff38cc0e3410",
+      "comment": "🎁 이번 주 에픽게임즈 무료 배포: Rogue Waters! 놓치지 마세요.",
+      "steam_deal": {
+        "type": "deal",
+        "name": "BIOHAZARD RE:4",
+        "app_id": 2050650,
+        "url": "https://store.steampowered.com/app/2050650",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header_koreana.jpg?t=1772502922",
+        "discount_percent": 75,
+        "original_price": "49,800원",
+        "final_price": "12,450원",
+        "end_date": "2026-06-19 02:00"
+      }
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=065&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=065&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {},
+    "ja": {}
+  },
+  "email_subject": {
+    "ko": "오늘의 인사이트를 준비 중입니다",
+    "en": "Global Gaming Insights & More",
+    "ja": "今週のゲームインサイト"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {},
+      "updated_at": "2026-06-05T07:05:01.927577"
+    }
+  }
+}

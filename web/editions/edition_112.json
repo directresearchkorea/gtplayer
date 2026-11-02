@@ -1,0 +1,457 @@
+{
+  "num": "112",
+  "date": "2026-08-27",
+  "status": "published",
+  "schedule": {
+    "date": "2026-08-27",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "스타워즈: 제로 컴퍼니",
+          "dev": "리스폰 엔터테인먼트",
+          "date": "8월 27일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 27일 정식 출시되는 스타워즈 세계관 기반의 턴제 전술 전략 게임으로, 클론 전쟁 시기의 정예 분대 전투를 다룹니다.",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/strategy/star-wars-zero-company-release-date-launch-times/",
+          "source_name": "PC Gamer"
+        },
+        {
+          "category": "release",
+          "game": "레조넌스: 플래그 테일 레거시",
+          "dev": "아소보 스튜디오",
+          "date": "8월 27일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "8월 27일 출시되는 플래그 테일 시리즈의 프리퀄 액션 어드벤처 신작으로, 그리스 신화 속 미궁을 배경으로 고대 괴물과 퍼즐을 헤쳐나가는 여정을 담았습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319896",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "메탈기어 솔리드: 마스터 컬렉션 Vol.2",
+          "dev": "코나미",
+          "date": "8월 27일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "8월 27일 글로벌 정식 출시되는 메탈기어 솔리드 시리즈 클래식 명작 합본의 두 번째 에디션입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3859630/METAL_GEAR_SOLID_MASTER_COLLECTION_Vol2/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "update",
+          "game": "앨리스 기어 아이기스",
+          "dev": "피라미드",
+          "date": "8월 27일(목)",
+          "platforms": [
+            "Mobile",
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "8월 27일부터 하츠네 미쿠와의 컬래버레이션 이벤트가 시작되어 신규 플레이어블 캐릭터 4종과 이벤트 미션이 추가됩니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202608/85648",
+          "source_name": "전격온라인"
+        },
+        {
+          "category": "release",
+          "game": "인페르노 프로토콜",
+          "dev": "인디 개발사",
+          "date": "8월 28일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 28일 스팀으로 정식 출시되는 SF 탑다운 액션 슈터 신작입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3908940/Inferno_Protocol/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "디비눔",
+          "dev": "인디 개발사",
+          "date": "8월 28일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 28일 스팀 플랫폼을 통해 정식 출시되는 전략 어드벤처 게임입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/1148130/Divinum/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "게임스컴 2026 (gamescom 2026)",
+          "note": "신작 공개 쇼케이스 및 부스 시연이 진행되는 세계 최대 게임 전시회",
+          "venue": "독일 쾰른메세 전시장 / 온라인 생중계",
+          "date": "2026-08-26 ~ 2026-08-30",
+          "tag": "오프라인 행사",
+          "website": "https://www.gamemeca.com/view.php?gid=1779510"
+        },
+        {
+          "name": "T1 인 더 스카이 (T1 IN THE SKY)",
+          "note": "T1과 서울스카이가 협력하여 선보이는 몰입형 테마 공간 및 한정판 굿즈 체험전",
+          "venue": "롯데월드타워 전망대 서울스카이",
+          "date": "2026-08-27 ~",
+          "tag": "오프라인 행사",
+          "website": "https://www.gamemeca.com/view.php?gid=1779608"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "Xbox, 실물 디스크 이용자에 디지털 권한 제공",
+          "source": "인벤",
+          "time": "8월 27일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=320006"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "호요버스, 생활 시뮬 신작 '쁘띠플래닛' 겨울 출시",
+          "source": "게임메카",
+          "time": "8월 26일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1779622"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "레트로 FPS '워해머 40K: 볼트건 2' 출시일 공개",
+          "source": "IGN India",
+          "time": "8월 26일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/warhammer-40000-boltgun-2/270220/warhammer-40000-boltgun-2-official-release-date-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "락스타 게임즈, 'GTA 6' 위해 개발 인력 2배 증원",
+          "source": "IGN India",
+          "time": "8월 26일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/grand-theft-auto-vi/270217/rockstar-games-doubled-in-size-for-gta-6-hired-real-world-professionals-for-fashion-vehicles-and-mor"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'메이플스토리 클래식', 10월 21일 글로벌 출시",
+          "source": "4Gamer",
+          "time": "8월 26일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/036/G103661/20260826094/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'파밍 시뮬레이터 25', 글로벌 판매량 500만 돌파",
+          "source": "4Gamer",
+          "time": "8월 26일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/813/G081325/20260826082/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "1047 게임즈, 라이브 서비스 슈터 개발 전면 중단",
+          "source": "GamesIndustry.biz",
+          "time": "8월 26일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/1047-games-ends-active-development-on-empulse-and-splitgate-arena-reloaded-says-its-moving-away-from-live-service-shooters"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "W4 게임즈, 텐센트 리드로 1,800만 달러 유치",
+          "source": "GamesIndustry.biz",
+          "time": "8월 26일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/godot-engine-partner-firm-w4-games-secures-18m-series-b-funding-signs-deal-with-tencent-to-bolster-asia-ecosystem"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "디스크의 종말과 소유권의 재정의 💿➡️☁️",
+      "intro": "서가에 꽂힌 게임 패키지는 이제 플라스틱 조각에 불과한 걸까요?\nXbox가 실물 디스크 보유자에게 디지털 라이선스를 부여하며 패키지 시대의 마침표를 찍고 있습니다.",
+      "points": "Xbox가 실물 디스크 소장자에게 디지털 다운로드 권한을 제공하는 과감한 정책을 발표했습니다. 📦 이는 콘솔 기기에서 디스크 드라이브가 점차 사라지는 하드웨어 트렌드 속에서, 기존 패키지 구매자들을 디지털 생태계로 자연스럽게 흡수하려는 전략적 행보입니다.\n\n이 변화는 게이머의 **게임 소비 구조**와 플랫폼 생태계를 근본적으로 바꿉니다. 🎮 디스크 드라이브가 없는 슬림형·휴대용 콘솔로 기기를 교체하더라도 기존 라이브러리를 유지할 수 있어 하드웨어 전환 장벽이 낮아집니다. 반면 중고 패키지 거래 시장의 축소와 영구 소유권이 아닌 '접속 권한' 대여로의 전환에 대한 소비자들의 심리적 불안감은 여전히 숙제로 남습니다.\n\n결국 플랫폼 홀더들의 최종 목표는 명확합니다. **물리적 유통망을 완전히 걷어내고 이용자를 자사 디지털 스토어에 영구적으로 묶어두는 락인(Lock-in) 효과**를 완성하는 것입니다. 🔒 실물 디스크는 이제 게임 실행 매체가 아닌, 디지털 인증을 위한 일회용 열쇠로 성격이 변하고 있습니다.\n\n완전한 디지털 전환은 게이머에게 진정한 편의일까요, 아니면 온전한 소유권의 상실일까요? 🕹️ 여러분의 서가에 남은 패키지들의 미래가 궁금해지는 시점입니다."
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": true,
+      "title": "Grand Theft Auto VI: An Extended Look Coming August 27",
+      "channel": "Rockstar Games",
+      "videoId": "qq76pQsI1iw",
+      "url": "https://www.youtube.com/watch?v=qq76pQsI1iw",
+      "thumbnail": "https://i.ytimg.com/vi/qq76pQsI1iw/hqdefault.jpg",
+      "comment": "락스타 게임즈(Rockstar Games)가 전 세계 게이머들이 손꼽아 기다려온 신작, '그랜드 테프트 오토 VI(GTA 6)'의 새로운 소식을 전했습니다. 오는 8월 27일 게임의 상세 정보를 담은 확장 영상 공개를 예고하며 커뮤니티의 뜨거운 관심을 모으고 있습니다. 지금 공식 영상을 확인하고 앞으로 펼쳐질 거대한 여정을 미리 만나보세요! 🌴🎬",
+      "search_query": "Grand Theft Auto VI Trailer 1 Rockstar Games",
+      "ai_game_name": "GTA 6 (그랜드 테프트 오토 VI)",
+      "ai_reason": "개발 인력 증원 소식과 함께 전 세계 게이머들의 이목이 집중된 차세대 오픈월드 대작으로, 압도적인 비주얼과 디테일한 연출이 돋보이는 공식 트레일러입니다."
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Star Wars: Zero Company",
+        "releases.0.note": "A turn-based tactical strategy game set in the Star Wars universe officially releasing on August 27, featuring elite squad combat during the Clone Wars.",
+        "releases.0.dev": "Respawn Entertainment",
+        "releases.1.game": "Resonance: A Plague Tale Legacy",
+        "releases.1.note": "A new prequel action-adventure game in the A Plague Tale series releasing on August 27, following a journey through a mythical Greek labyrinth facing ancient monsters and puzzles.",
+        "releases.1.dev": "Asobo Studio",
+        "releases.2.game": "Metal Gear Solid: Master Collection Vol. 2",
+        "releases.2.note": "The second edition of the classic masterpiece compilation from the Metal Gear Solid series, officially launching globally on August 27.",
+        "releases.2.dev": "Konami",
+        "releases.3.game": "Alice Gear Aegis",
+        "releases.3.note": "A collaboration event with Hatsune Miku begins on August 27, introducing four new playable characters and special event missions.",
+        "releases.3.dev": "Pyramid",
+        "releases.4.game": "Inferno Protocol",
+        "releases.4.note": "A new sci-fi top-down action shooter officially releasing on Steam on August 28.",
+        "releases.4.dev": "Indie Developer",
+        "releases.5.game": "Divinum",
+        "releases.5.note": "A strategy adventure game officially launching on Steam on August 28.",
+        "releases.5.dev": "Indie Developer",
+        "events.0.name": "gamescom 2026",
+        "events.0.note": "The world's largest gaming expo featuring new game reveal showcases and booth demonstrations.",
+        "events.0.venue": "Koelnmesse, Cologne, Germany / Online Livestream",
+        "events.1.name": "T1 IN THE SKY",
+        "events.1.note": "An immersive themed space and limited-edition merchandise exhibition presented in collaboration between T1 and SEOUL SKY.",
+        "events.1.venue": "Lotte World Tower SEOUL SKY Observatory"
+      },
+      "briefing": {
+        "items.0.title": "Xbox to Grant Digital Licenses to Physical Disc Owners",
+        "items.0.source": "Inven",
+        "items.0.time": "August 27",
+        "items.1.title": "HoYoverse's New Life Sim 'Petit Planet' Set for Winter Release",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "August 26",
+        "items.2.title": "Retro FPS 'Warhammer 40,000: Boltgun 2' Release Date Revealed",
+        "items.2.source": "IGN India",
+        "items.2.time": "August 26",
+        "items.3.title": "Rockstar Games Doubles Development Workforce for 'GTA 6'",
+        "items.3.source": "IGN India",
+        "items.3.time": "August 26",
+        "items.4.title": "'MapleStory Classic' Set for Global Launch on October 21",
+        "items.4.source": "4Gamer",
+        "items.4.time": "August 26",
+        "items.5.title": "'Farming Simulator 25' Surpasses 5 Million Global Sales",
+        "items.5.source": "4Gamer",
+        "items.5.time": "August 26",
+        "items.6.title": "1047 Games Completely Halts Live-Service Shooter Development",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "August 26",
+        "items.7.title": "W4 Games Secures $18 Million Led by Tencent",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "August 26"
+      },
+      "drk": {
+        "title": "The End of Discs and the Redefinition of Ownership 💿➡️☁️",
+        "intro": "Are the boxed game packages on our shelves now nothing more than pieces of plastic?\nXbox is signaling the end of the physical media era by granting digital licenses to physical disc owners.",
+        "points": "Xbox has announced a bold policy to provide digital download rights to physical disc owners. 📦 Amid the hardware trend of disc drives gradually disappearing from consoles, this is a strategic move to smoothly transition existing physical buyers into its digital ecosystem.\n\nThis shift fundamentally transforms gamers' **consumption habits** and the platform ecosystem. 🎮 Hardware upgrade barriers are lowered since players can maintain their existing library even when switching to discless slim or handheld consoles. Conversely, the shrinking second-hand physical market and lingering consumer anxieties over shifting from permanent ownership to rented 'access rights' remain major challenges.\n\nUltimately, platform holders have a clear end goal: **to completely eliminate physical distribution networks and establish a permanent lock-in effect within their own digital storefronts.** 🔒 Physical discs are turning from a game-running medium into disposable keys for digital authentication.\n\nIs full digital transition a true convenience for gamers, or the loss of genuine ownership? 🕹️ The future of the physical game cases remaining on our shelves is now in question."
+      },
+      "trailer": {
+        "title": "Grand Theft Auto VI: An Extended Look Coming August 27",
+        "comment": "Rockstar Games has shared new updates on their highly anticipated title, 'Grand Theft Auto VI (GTA 6).' Excitement is surging across the community following the announcement of an extended video showcase detailing the game on August 27. Check out the official trailer now and catch an early glimpse of the massive journey ahead! 🌴🎬"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "スター・ウォーズ：ゼロ・カンパニー",
+        "releases.0.note": "8月27日に正式リリースされる「スター・ウォーズ」の世界観をベースにしたターン制タクティカル戦略ゲームで、クローン戦争期のエリート分隊の戦いを描きます。",
+        "releases.0.dev": "Respawn Entertainment",
+        "releases.1.game": "レゾナンス：プレイグ テイル レガシー",
+        "releases.1.note": "8月27日にリリースされる「プレイグ テイル」シリーズの前日譚となる新作アクションアドベンチャーで、ギリシャ神話の迷宮を舞台に古代の怪物やパズルを乗り越えていく旅を描きます。",
+        "releases.1.dev": "Asobo Studio",
+        "releases.2.game": "METAL GEAR SOLID: MASTER COLLECTION Vol.2",
+        "releases.2.note": "8月27日にグローバルで正式リリースされる、「メタルギア ソリッド」シリーズの名作を集約したコレクション第2弾です。",
+        "releases.2.dev": "KONAMI",
+        "releases.3.game": "アリス・ギア・アイギス",
+        "releases.3.note": "8月27日より「初音ミク」とのコラボイベントがスタートし、新規プレイアブルキャラクター4体やイベント任務が追加されます。",
+        "releases.3.dev": "ピラミッド",
+        "releases.4.game": "インフェルノ・プロトコル",
+        "releases.4.note": "8月28日にSteamで正式リリースされるSFトップダウンアクションシューターの新作です。",
+        "releases.4.dev": "インディー開発元",
+        "releases.5.game": "ディビナム",
+        "releases.5.note": "8月28日にSteamプラットフォームを通じて正式リリースされる戦略アドベンチャーゲームです。",
+        "releases.5.dev": "インディー開発元",
+        "events.0.name": "gamescom 2026（ゲームズコム 2026）",
+        "events.0.note": "新作発表ショーケースやブース試遊が行われる世界最大級のゲーム展示会",
+        "events.0.venue": "ドイツ・ケルンメッセ会場 / オンライン生中継",
+        "events.1.name": "T1 IN THE SKY（T1 イン・ザ・スカイ）",
+        "events.1.note": "T1とソウルスカイが共同で開催する没入型テーマ空間および限定グッズの体験展",
+        "events.1.venue": "ロッテワールドタワー展望台 ソウルスカイ"
+      },
+      "briefing": {
+        "items.0.title": "Xbox、パッケージ版ディスク所有者にデジタル版ライセンスを提供",
+        "items.0.source": "Inven",
+        "items.0.time": "8月27日",
+        "items.1.title": "HoYoverse、生活シミュレーション新作『プチプラネット』今冬リリースへ",
+        "items.1.source": "GameMeca",
+        "items.1.time": "8月26日",
+        "items.2.title": "レトロFPS『Warhammer 40,000: Boltgun 2』発売日を公開",
+        "items.2.source": "IGN India",
+        "items.2.time": "8月26日",
+        "items.3.title": "Rockstar Games、『GTA 6』開発に向けて人員を2倍に増強",
+        "items.3.source": "IGN India",
+        "items.3.time": "8月26日",
+        "items.4.title": "『メイプルストーリー クラシック』10月21日にグローバル展開へ",
+        "items.4.source": "4Gamer",
+        "items.4.time": "8月26日",
+        "items.5.title": "『Farming Simulator 25』、世界累計販売本数500万本を突破",
+        "items.5.source": "4Gamer",
+        "items.5.time": "8月26日",
+        "items.6.title": "1047 Games、ライブサービス型シューターの開発を全面中断",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "8月26日",
+        "items.7.title": "W4 Games、テンセント主導のラウンドで1,800万ドルを調達",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "8月26日"
+      },
+      "drk": {
+        "title": "ディスクの終焉と所有権の再定義 💿➡️☁️",
+        "intro": "本棚に並ぶゲームパッケージは、いまや単なるプラスチックの破片にすぎないのでしょうか？\nXboxがパッケージ版ディスクの所有者にデジタルライセンスを付与し、パッケージ時代の幕引きを進めています。",
+        "points": "Xboxがパッケージ版ディスク所有者にデジタルダウンロード権を提供するという大胆なポリシーを発表しました。📦 これは、コンソール機器からディスクドライブが徐々に姿を消しつつあるハードウェアのトレンドの中で、既存のパッケージ購入者をデジタルエコシステムへとスムーズに移行させるための戦略的な動きです。\n\nこの変化は、ゲーマーの**ゲーム消費構造**とプラットフォームのエコシステムを根本から変革します。🎮 ディスクドライブのないスリム型や携帯型コンソールへ買い替えても従来のライブラリを維持できるため、ハードウェア移行のハードルが下がります。一方で、パッケージの中古売買市場の縮小や、永続的な所有権ではなく「アクセス権」のレンタルへとシフトすることに対するユーザーの心理的不安は、依然として課題として残っています。\n\n結局のところ、プラットフォームホルダーの最終目標は明確です。**物理的な流通網を完全に廃止し、ユーザーを自社のデジタルストアに永続的に囲い込むロックイン（Lock-in）効果**を完成させることです。🔒 実物ディスクはもはやゲームを起動するためのメディアではなく、デジタル認証のための使い捨ての鍵へとその役割を変えつつあります。\n\n完全なデジタル移行は、ゲーマーにとって真の利便性なのでしょうか、それとも完全な所有権の喪失なのでしょうか？🕹️ 本棚に残されたパッケージたちの未来に思いを巡らせる時期が来ています。"
+      },
+      "trailer": {
+        "title": "Grand Theft Auto VI: An Extended Look Coming August 27",
+        "comment": "Rockstar Gamesが世界中のゲーマーから熱狂的な期待を集める新作『グランド・セフト・オートVI（GTA 6）』の最新情報を発表しました。8月27日にゲームの詳細を収めた拡張映像の公開が予告され、コミュニティで大きな話題となっています。今すぐ公式映像をチェックして、これから始まる壮大な旅を一足早く体感しましょう！🌴🎬"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "내가 산 게임이 내 것이 아니라고? 💿 (feat. GTA 6 신규 트레일러 공개 임박! 🔥)",
+    "en": "Do we even 'own' our games anymore? 💿 (Plus: GTA 6 Extended Look Incoming! 🔥)",
+    "ja": "ディスク時代の終焉、僕らのゲームは誰のもの？💿 (feat.『GTA 6』最新映像が公開迫る！🔥)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "내가 산 게임 디스크가 내 게 아닐 수도 있다니 실화인가요? 💿\nGTA 6 신규 소식부터 오늘의 알짜 게임 뉴스 싹 정리해봤어요! 🔥\n\nhttps://www.gtplayer.net/edition-112/\n#GTA6 #Xbox #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-08-27T07:01:30.616261"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "8월 27일 오늘의 게임 소식 🎮\n📰 [뉴스] GTA 6 개발 인력 대규모 증원과 Xbox 디스크 소유권 이슈, 호요버스 신작 소식까지!\n📅 [출시] 메탈기어 솔리드 컬렉션 Vol.2, 레조넌스 등 이번 주 주목할 신작 라인업\n✍️ [인사이트] 디스크의 종말과 소유권의 재정의, 내가 산 게임 패키지는 이제 플라스틱 조각일까?\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#gtplayer #게임뉴스 #게임소식 #게임추천 #신작게임 #콘솔게임 #PC게임 #스팀게임 #Xbox #GTA6 #락스타게임즈 #호요버스 #메탈기어솔리드 #메이플스토리 #스타워즈 #플스5 #닌텐도스위치 #게임스타그램 #겜스타그램 #게임덕후",
+          "image_paths": [
+            "web\\instagram\\edition_112\\card_cover.png",
+            "web\\instagram\\edition_112\\card_news.png",
+            "web\\instagram\\edition_112\\card_calendar.png",
+            "web\\instagram\\edition_112\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3972523403416679069_39332818166",
+            "url": "https://www.instagram.com/p/DchPPzyk7Kd/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-08-27T07:02:04.171763"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Do we even 'own' our games anymore? 💿 (Plus: GTA 6 Extended Look Incoming! 🔥)\n\nAs Xbox reshapes how we hold digital licenses for physical discs, game ownership is shifting faster than ever.\nWith Rockstar doubling down on GTA 6 and exciting new releases hitting the scene, this week is packed with huge industry moves.\n\nhttps://www.gtplayer.net/edition-112-en/",
+        "error": null
+      },
+      "updated_at": "2026-08-27T07:02:41.709697"
+    }
+  }
+}

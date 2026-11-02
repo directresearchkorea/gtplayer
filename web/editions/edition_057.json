@@ -1,0 +1,439 @@
+{
+  "num": "057",
+  "date": "2026-05-26",
+  "status": "published",
+  "schedule": {
+    "date": "2026-05-26",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "러닝 트레인 | 달리는 열차! (RUNNING TRAIN)",
+          "dev": "노바테츠 게임즈 (Novatetsu Games)",
+          "date": "5월 25일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "5월 25일 Steam 얼리 액세스로 출시된 열차 운전 시뮬레이션 게임으로, 실제 일본의 아름다운 철도 풍경을 사실적으로 구현했습니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/009/G100998/20260525054/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "서펜츠 게이즈 (Serpent's Gaze)",
+          "dev": "피블 마인즈 (Feeble Minds)",
+          "date": "5월 25일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "5월 25일 Steam 얼리 액세스로 출시된 소울라이크 및 로그라이크 장르의 액션 게임으로, 최대 4인 협동 플레이를 지원합니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/966/G096623/20260525018/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "update",
+          "game": "이스케이프 프롬 타르코프 (Escape from Tarkov)",
+          "dev": "배틀스테이트 게임즈 (Battlestate Games)",
+          "date": "5월 25일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "최대 3인이 도전할 수 있는 신규 PvE 맵 '아이스브레이커(Icebreaker)'와 새로운 스토리 챕터 '보레아스'를 추가하는 대규모 업데이트가 5월 25일 적용되었습니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/375/G037564/20260525059/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "event",
+          "game": "볼 x 핏 (BALL x PIT)",
+          "dev": "인디 개발사",
+          "date": "5월 26일(화)",
+          "platforms": [
+            "Switch"
+          ],
+          "color": "#f59e0b",
+          "note": "블록 깨기, 공 융합, 기지 건설 요소가 결합된 서바이벌 로그라이크 게임으로, 5월 26일부터 닌텐도 스위치 '이세이 트라이얼'을 통해 일주일간 무료 체험 이벤트가 시작됩니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202605/75855/",
+          "source_name": "電撃オンライン"
+        },
+        {
+          "category": "event",
+          "game": "데드 바이 데이라이트 (Dead by Daylight)",
+          "dev": "비헤이비어 인터랙티브 (Behaviour Interactive)",
+          "date": "5월 27일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#f59e0b",
+          "note": "영화 '13일의 금요일'의 대표 살인마 '제이슨 부히스'가 신규 살인마로 참전하며, 5월 27일부터 Steam 퍼블릭 테스트 빌드(PTB)를 통해 사전 체험할 수 있습니다.",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202605/75851/",
+          "source_name": "Famitsu"
+        },
+        {
+          "category": "update",
+          "game": "포켓몬 카드 게임 포켓 (Pokémon TCG Pocket)",
+          "dev": "크리처스 / 디엔에이 (Creatures / DeNA)",
+          "date": "5월 28일(목)",
+          "platforms": [
+            "iOS",
+            "Android"
+          ],
+          "color": "#3b82f6",
+          "note": "5월 28일 출시되는 신규 확장팩 '진격 패러독스'를 통해 코라이돈과 미라이돈 등 패러독스 포켓몬 카드가 최초로 등장합니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202605/75854/",
+          "source_name": "電撃オンライン"
+        }
+      ],
+      "events": [
+        {
+          "name": "패스 오브 엑자일 2 'Return of the Ancients' 주말 무료 체험 이벤트",
+          "note": "최신 업데이트 빌드의 신규 리그 및 아센던시 등을 직접 체험해 볼 수 있는 주말 한정 무료 플레이 이벤트",
+          "venue": "온라인",
+          "date": "2026-05-30 ~ 2026-06-01",
+          "tag": "베타 테스트",
+          "website": "https://dengekionline.com/article/202605/75887"
+        },
+        {
+          "name": "니지산지 PUBG 모바일 대운동회",
+          "note": "인기 버추얼 라이버 그룹 '니지산지' 소속 라이버 38명이 참가하는 배틀그라운드 모바일 이벤트 대회",
+          "venue": "온라인 (니지산지 공식 유튜브 채널)",
+          "date": "2026-05-30",
+          "tag": "e스포츠",
+          "website": "https://www.4gamer.net/games/402/G040281/20260525046/"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "스타 시티즌, 누적 후원금 1조 4천억 돌파",
+          "source": "인벤",
+          "time": "5월 26일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316786"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "T1, DK 꺾고 EWC 본선 진출 성공",
+          "source": "인벤",
+          "time": "5월 25일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316782"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "철권 8, 신규 캐릭터 '한마 유지로' 참전",
+          "source": "IGN India",
+          "time": "5월 25일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/tekken-8/261536/tekken-8-official-yujiro-hanma-announcement-trailer"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "웨어윈즈밋, 신규 보스 '묘황' 트레일러 공개",
+          "source": "IGN India",
+          "time": "5월 25일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/where-winds-meet/261519/where-winds-meet-official-imperial-palace-world-boss-cat-emperor-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "블루 아카이브, 日 J리그와 공식 협업 발표",
+          "source": "4Gamer",
+          "time": "5월 25일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/519/G051983/20260525049/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "사카모토 데이즈 신작 모바일 게임 사전등록 시작",
+          "source": "電撃オンライン",
+          "time": "5월 25일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202605/75898"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "켄시, 누적 판매량 300만 장 돌파",
+          "source": "PC Gamer",
+          "time": "5월 25일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/survival-crafting/ultra-hard-survival-sandbox-kenshi-passes-3-million-copies-sold-teases-fans-with-kenshi-2-when-website/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "장르와 매체의 경계를 허무는 IP 협업, 게임 소비 구조의 패러다임을 바꾸다",
+      "intro": "철권에 등장한 한마 유지로와 데바데의 제이슨, 그리고 J리그를 만난 블루 아카이브의 공통점은 무엇일까요?\n단순한 이벤트를 넘어 게임의 생명력을 무한히 연장하는 'IP 융합'의 시대, 우리는 이 거대한 흐름에 주목해야 합니다.",
+      "points": "최근 게임 업계는 장르와 매체의 경계를 허무는 초대형 콜라보레이션 소식으로 뜨겁습니다. <철권 8>의 한마 유지로 참전, <데드 바이 데이라이트>의 제이슨 부히스 합류, 그리고 <블루 아카이브>와 일본 J리그의 공식 협업은 단순한 일회성 제휴를 넘어선 이종 산업 간의 거대한 결합을 보여줍니다. 🎮\n\n이러한 흐름은 현대 게이머들의 **게임 소비 구조**를 신작 소유에서 '지속적 경험'으로 변화시키고 있습니다. 유저들은 매번 새로운 게임을 구매하는 대신, 이미 익숙한 게임 내에서 또 다른 매력적인 IP를 소비하길 원합니다. 이는 기존 유저의 이탈을 방지함과 동시에 다른 분야의 팬덤까지 게임으로 끌어들이는 강력한 락인(Lock-in) 효과를 발휘하며, 낯선 게임에 대한 **소비자 심리**적 진입 장벽을 영리하게 무너뜨리고 있습니다. 📈\n\n여기서 주목해야 할 핵심은 **이제 게임은 독립된 콘텐츠가 아니라 다양한 세계관이 모여 교류하는 '문화적 플랫폼'으로 진화하고 있다**는 사실입니다. 자체 세계관의 완성도에만 집착하는 게임은 고립되기 쉽고, 외부의 매력적인 자산을 얼마나 유연하고 이질감 없이 수용할 수 있느냐가 향후 글로벌 게임 시장의 핵심 경쟁력이 될 것입니다. 💡\n\n앞으로 이 거대한 플랫폼 경쟁 속에서 여러분의 플레이 타임을 사로잡을 다음 IP 콜라보레이션은 무엇이 될까요? 게임이라는 매체가 보여줄 확장성의 한계는 어디까지일지 지켜볼 필요가 있습니다. 🌍"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "패스 오브 엑자일 2",
+      "title": "깨어난 고대의 거신과 맞서는 유배자의 사투",
+      "imgUrl": "",
+      "comment": "최근 공개된 '고대의 귀환' 업데이트 소식에 영감을 받아, 레이클라스트의 어두운 전장에서 깨어난 거대한 고대 신과 대치하는 유배자의 실제 전투 모습을 AI에게 그려보도록 했습니다. 특유의 어둡고 무거운 분위기와 정교한 액션이 살아있는 인게임 화면을 그대로 느껴보세요.",
+      "ai_prompt": "Actual in-game screenshot, exact original game engine rendering, completely identical to original art style, NO cinematic styling, NO illustration. A high-fidelity isometric quarter-down view of Path of Exile 2 gameplay. In a dark, damp, crumbling ancient stone temple, a gargantuan ancient stone deity with glowing runic patterns of violet and gold is awakening, breaking through the floor. A single exile character, a Ranger in detailed leather armor, is firing a barrage of glowing green poison arrows at the colossus. Gritty, realistic textures, dark fantasy atmosphere, mud and debris scattering. Classic dark HUD with red health orb and blue mana orb subtly visible at the bottom of the screen. True-to-game lighting and shadow effects of the proprietary engine."
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=057&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=057&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "RUNNING TRAIN",
+        "releases.0.note": "A train driving simulation game released in Steam Early Access on May 25, realistically recreating Japan's beautiful real-world railway scenery.",
+        "releases.0.dev": "Novatetsu Games",
+        "releases.1.game": "Serpent's Gaze",
+        "releases.1.note": "A Soulslike and Roguelike action game released in Steam Early Access on May 25, supporting up to 4-player co-op.",
+        "releases.1.dev": "Feeble Minds",
+        "releases.2.game": "Escape from Tarkov",
+        "releases.2.note": "A major update was applied on May 25, adding a new 3-player PvE map 'Icebreaker' and a new story chapter 'Boreas'.",
+        "releases.2.dev": "Battlestate Games",
+        "releases.3.game": "BALL x PIT",
+        "releases.3.note": "A survival roguelike game combining brick-breaking, ball merging, and base-building. A one-week free trial event starts on May 26 via Nintendo Switch 'Game Trials'.",
+        "releases.3.dev": "Indie Developer",
+        "releases.4.game": "Dead by Daylight",
+        "releases.4.note": "The iconic killer 'Jason Voorhees' from the movie 'Friday the 13th' joins as a new Killer, available for early access starting May 27 via the Steam Public Test Build (PTB).",
+        "releases.4.dev": "Behaviour Interactive",
+        "releases.5.game": "Pokémon TCG Pocket",
+        "releases.5.note": "Paradox Pokémon cards such as Koraidon and Miraidon will make their first appearance in the new expansion 'Paradox March' releasing on May 28.",
+        "releases.5.dev": "Creatures / DeNA",
+        "events.0.name": "Path of Exile 2 'Return of the Ancients' Free Weekend Trial Event",
+        "events.0.note": "A limited weekend free play event where players can experience the new league and ascendancy classes from the latest update build.",
+        "events.0.venue": "Online",
+        "events.1.name": "Nijisanji PUBG Mobile Grand Sports Festival",
+        "events.1.note": "A PUBG Mobile event tournament featuring 38 VTubers from the popular virtual liver group 'Nijisanji'.",
+        "events.1.venue": "Online (Nijisanji Official YouTube Channel)"
+      },
+      "briefing": {
+        "items.0.title": "Star Citizen Surpasses 1.4 Trillion KRW in Cumulative Funding",
+        "items.0.source": "Inven",
+        "items.0.time": "May 26",
+        "items.1.title": "T1 Defeats DK to Qualify for EWC Main Stage",
+        "items.1.source": "Inven",
+        "items.1.time": "May 25",
+        "items.2.title": "Tekken 8, New Character 'Yujiro Hanma' Joins the Fight",
+        "items.2.source": "IGN India",
+        "items.2.time": "May 25",
+        "items.3.title": "Where Winds Meet Releases New Boss 'Cat Emperor' Trailer",
+        "items.3.source": "IGN India",
+        "items.3.time": "May 25",
+        "items.4.title": "Blue Archive Announces Official Collaboration with Japan's J.League",
+        "items.4.source": "4Gamer",
+        "items.4.time": "May 25",
+        "items.5.title": "Pre-registration Begins for New Sakamoto Days Mobile Game",
+        "items.5.source": "Dengeki Online",
+        "items.5.time": "May 25",
+        "items.6.title": "Kenshi Surpasses 3 Million Copies in Cumulative Sales",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "May 25"
+      },
+      "drk": {
+        "title": "IP Collaborations Shattering Genre and Media Boundaries: Shifting the Paradigm of Game Consumption",
+        "intro": "What do Tekken's Yujiro Hanma, Dead by Daylight's Jason, and Blue Archive meeting the J.League have in common? In this era of 'IP Convergence' that goes beyond simple events to infinitely extend a game's lifespan, we must pay attention to this massive trend.",
+        "points": "Recently, the gaming industry has been buzzing with news of mega-scale collaborations that break the boundaries between genres and media. The addition of Yujiro Hanma to <Tekken 8>, Jason Voorhees joining <Dead by Daylight>, and the official partnership between <Blue Archive> and Japan's J.League demonstrate a massive convergence across different industries that goes far beyond a mere one-time crossover. 🎮\n\nThis trend is shifting modern gamers' **game consumption behavior** from owning new titles to pursuing 'continuous experiences.' Instead of purchasing new games every time, players want to experience other attractive IPs within games they are already familiar with. This keeps existing users engaged while drawing in fandoms from other fields, creating a powerful lock-in effect. It also cleverly lowers the **consumer psychological** entry barrier for unfamiliar games. 📈\n\nThe key takeaway here is that **games are no longer isolated pieces of content, but are evolving into 'cultural platforms' where diverse universes meet and interact.** Games that solely obsess over the perfection of their own lore are prone to isolation, whereas the ability to flexibly and seamlessly integrate external, appealing IPs will become a core competitiveness in the future global gaming market. 💡\n\nIn this colossal battle of platforms, what will be the next IP collaboration to capture your playtime? It will be fascinating to see just how far the limits of expansion for gaming as a medium can go. 🌍"
+      },
+      "gamescene": {
+        "game": "Path of Exile 2",
+        "title": "The Exile's Struggle Against the Awakened Ancient Colossus",
+        "comment": "Inspired by the recently announced 'Return of the Ancients' update, we asked AI to depict the actual battle of an Exile confronting a giant ancient god awakened on the dark battlefields of Wraeclast. Experience the in-game scene brought to life, filled with its signature dark, gritty atmosphere and intricate action."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "RUNNING TRAIN | 走る列車！ (RUNNING TRAIN)",
+        "releases.0.note": "5月25日にSteam早期アクセスでリリースされた列車運転シミュレーションゲームで、実際の日本の美しい鉄道風景をリアルに再現しています。",
+        "releases.0.dev": "ノバテツゲームズ (Novatetsu Games)",
+        "releases.1.game": "サーパンツ・ゲイズ (Serpent's Gaze)",
+        "releases.1.note": "5月25日にSteam早期アクセスでリリースされたソウルライクおよびローグライ크ジャンルのアクションゲームで、最大4人の協力プレイに対応しています。",
+        "releases.1.dev": "フィーブル・マインズ (Feeble Minds)",
+        "releases.2.game": "Escape from Tarkov",
+        "releases.2.note": "最大3人で挑戦できる新規PvEマップ「アイスブレイカー（Icebreaker）」と、新たなストーリーチャプター「ボレアス」を追加する大規模アップデートが5月25日に適用されました。",
+        "releases.2.dev": "Battlestate Games",
+        "releases.3.game": "BALL x PIT",
+        "releases.3.note": "ブロック崩し、ボール融合、基地建設要素が融合したサバイバルローグライ크ゲームで、5月26日からNintendo Switchの「いっせいトライアル」を通じて1週間の無料体験イベントが開始されます。",
+        "releases.3.dev": "インディー開発元",
+        "releases.4.game": "Dead by Daylight",
+        "releases.4.note": "映画『13日の金曜日』の代表的な殺人鬼「ジェイソン・ボーヒーズ」が新規キラーとして参戦し、5月27日からSteamパブリックテストビルド（PTB）を通じて事前体験が可能です。",
+        "releases.4.dev": "Behaviour Interactive",
+        "releases.5.game": "Pokémon Trading Card Game Pocket",
+        "releases.5.note": "5月28日にリリースされる新規拡張パック「進撃パラドックス」を通じて、コライドンやミライドンなどのパラドックスポケモンカードが初登場します。",
+        "releases.5.dev": "クリーチャーズ / DeNA (Creatures / DeNA)",
+        "events.0.name": "Path of Exile 2「Return of the Ancients」週末無料体験イベント",
+        "events.0.note": "最新アップデートビルドの新規リーグやアセンダンシーなどを直接体験できる週末限定の無料プレイイベント",
+        "events.0.venue": "オンライン",
+        "events.1.name": "にじさんじ PUBG MOBILE大運動会",
+        "events.1.note": "人気バーチャルライバーグループ「にじさんじ」所属のライバー38名が参加するPUBG MOBILEイベント大会",
+        "events.1.venue": "オンライン（にじさんじ公式YouTubeチャンネル）"
+      },
+      "briefing": {
+        "items.0.title": "『Star Citizen』、累計支援額が1兆4,000億ウォンを突破",
+        "items.0.source": "Inven",
+        "items.0.time": "5月26日",
+        "items.1.title": "T1、DKを破りEWC本戦進出に成功",
+        "items.1.source": "Inven",
+        "items.1.time": "5月25日",
+        "items.2.title": "『鉄拳8』に新キャラクター「範馬勇次郎」が参戦",
+        "items.2.source": "IGN India",
+        "items.2.time": "5月25日",
+        "items.3.title": "『Where Winds Meet』、新ボス「廟皇」のトレーラーを公開",
+        "items.3.source": "IGN India",
+        "items.3.time": "5月25日",
+        "items.4.title": "『ブルーアーカイブ』、日本のJリーグとの公式コラボを発表",
+        "items.4.source": "4Gamer",
+        "items.4.time": "5月25日",
+        "items.5.title": "『SAKAMOTO DAYS』新作モバイルゲームの事前登録が開始",
+        "items.5.source": "電撃オンライン",
+        "items.5.time": "5月25日",
+        "items.6.title": "『Kenshi』、累計販売本数300万本を突破",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "5月25日"
+      },
+      "drk": {
+        "title": "ジャンルとメディア의 境界を崩すIPコラボ、ゲーム消費構造のパラダイムを変える",
+        "intro": "『鉄拳』に登場した範馬勇次郎と『DbD』のジェイソン、そしてJリーグとコラボした『ブルーアーカイブ』の共通点は何でしょうか？\n単なるイベントを超えてゲームの生命力を無限に延長する「IP融合」の時代、私たちはこの巨大な潮流に注目しなければなりません。",
+        "points": "最近のゲーム業界は、ジャンルとメディアの境界を崩す超大型コラボレーションのニュースで沸いています。『鉄拳8』への範馬勇次郎の参戦、『Dead by Daylight』へのジェイソン・ボーヒーズの合流、そして『ブルーアーカイブ』と日本Jリーグの公式コラボは、単なる一回限りの提携を超えた異業種間の巨大な結合を示しています。🎮\n\nこうした流れは、現代のゲーマーたちの**ゲーム消費構造**を「新作の所有」から「持続的な体験」へと変化させています。ユーザーは毎回新しいゲームを購入する代わりに、すでに慣れ親しんだゲームの中で別の魅力的なIPを消費することを望んでいます。これは既存ユーザーの離脱を防ぐと同時に、他分野のファン層までゲームに引き込む強力なロックイン（Lock-in）効果を発揮し、馴染みのないゲームに対する**消費者心理**的な参入障壁をスマートに崩しています。📈\n\nここで注目すべき核心は、**「もはやゲームは独立したコンテンツではなく、多様な世界観が集まり交流する『文化的プラットフォーム』へと進化している」**という事実です。自社の世界観の完成度にばかり固執するゲームは孤立しやすく、外部の魅力的な資産をどれだけ柔軟に、かつ違和感なく受け入れられるかが、今後のグローバルゲーム市場における核心的な競争力となるでしょう。💡\n\n今後、この巨大なプラットフォーム競争の中で、皆様의 プレイタイムを魅了する次のIPコラボレーションは何になるでしょうか？ ゲームというメディアが見せてくれる拡張性の限界がどこまでなのか、見守る必要があります。🌍"
+      },
+      "gamescene": {
+        "game": "Path of Exile 2",
+        "title": "目覚めた古代の巨神に立ち向かう流刑者の死闘",
+        "comment": "最近公開された「Return of the Ancients」アップデートのニュースにインスパイアされ、レイクラストの暗い戦場で目覚めた巨大な古代の神と対峙する流刑者の実際の戦闘シーンをAIに描かせてみました。特有のダークで重厚な雰囲気と、精巧なアクションが生きているゲーム内画面をそのまま感じてみてください。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "선 넘는 역대급 콜라보의 등장! 🤯 (feat. 이번 주 스팀 무료 게임 🎁)",
+    "en": "IP crossovers are changing gaming forever! 🚀 (feat. This week's free games 🎁)",
+    "ja": "限界突破の異次元コラボが到来！🚀 (feat. 今週の無料ゲーム配布 🎁)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "철권에 '지상 최강의 생물'이 등판한다고요?! 🥊\n철권 8의 역대급 콜라보 소식부터 스팀 무료 게임 🎁 정보까지 한눈에 확인해 보세요!\n\nhttps://www.gtplayer.net/edition-057/\n\n#철권8 #게임소식 #GTPlayer",
+          "posted": true,
+          "data": {
+            "data": {
+              "edit_history_tweet_ids": [
+                "2059033052366754202"
+              ],
+              "id": "2059033052366754202",
+              "text": "철권에 '지상 최강의 생물'이 등판한다고요?! 🥊\n철권 8의 역대급 콜라보 소식부터 스팀 무료 게임 🎁 정보까지 한눈에 확인해 보세요!\n\nhttps://t.co/UoI0srIZaU\n\n#철권8 #게임소식 #GTPlayer"
+            }
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-26T07:05:09.076429"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "5월 26일 오늘의 게임 소식 🎮\n\n📰 **뉴스**: 철권8 x 한마 유지로?! 선 넘는 역대급 콜라보와 블루아카 J리그 협업 등 핫한 소식 모음! 🤯\n📅 **출시작**: 포켓몬 TCG 포켓부터 타르코프까지, 이번 주 놓치면 후회할 신작 캘린더 & 무료 게임! 🎁\n🧠 **인사이트**: 단순 이벤트를 넘어 장르와 매체의 경계를 허무는 'IP 융합'이 가져올 게임계의 미래! 📈\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#gtplayer #게임뉴스 #게임정보 #신작게임 #게임추천 #스팀게임 #철권8 #블루아카이브 #T1 #스타시티즌 #데드바이데이라이트 #포켓몬카드게임 #웨어윈즈밋 #게임덕후 #콘솔게임 #모바일게임 #PC게임 #게임스타그램 #게이머 #e스포츠",
+          "image_paths": [
+            "web\\instagram\\edition_057\\card_news.png",
+            "web\\instagram\\edition_057\\card_calendar.png",
+            "web\\instagram\\edition_057\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3905121103912332128_39332818166",
+            "url": "https://www.instagram.com/p/DYxxvQrk2tg/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-26T07:05:44.628597"
+    }
+  }
+}

@@ -1,0 +1,443 @@
+{
+  "num": "131",
+  "date": "2026-09-23",
+  "status": "published",
+  "schedule": {
+    "date": "2026-09-23",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "사일런트 힐: 타운폴",
+          "dev": "노 코드",
+          "date": "9월 23일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 23일 정식 출시되는 공포 심리 어드벤처 신작으로, 사일런트 힐 세계관 기반의 새로운 공포와 미스터리를 선보입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/1636440/SILENT_HILL_Townfall/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "그레이브야드 키퍼 2",
+          "dev": "레이지 베어 게임즈",
+          "date": "9월 23일(수)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "XSX",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "9월 23일 정식 출시된 중세 묘지 관리 시뮬레이션 후속작으로, 좀비를 활용한 노동 및 병력 시스템 등 확장된 콘텐츠를 제공합니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/graveyard-keeper-2/272448/graveyard-keeper-2-official-launch-trailer",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "update",
+          "game": "원신",
+          "dev": "호요버스",
+          "date": "9월 23일(수)",
+          "platforms": [
+            "PC",
+            "PS4",
+            "PS5",
+            "iOS",
+            "Android"
+          ],
+          "color": "#3b82f6",
+          "note": "9월 23일 7.1 버전 '죽음의 진혼곡' 대규모 업데이트가 적용되어 신규 캐릭터 및 신규 지역 탐험 콘텐츠가 추가됩니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780912",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "컨트롤 레조넌트",
+          "dev": "레메디 엔터테인먼트",
+          "date": "9월 24일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 24일 정식 출시되는 초능력 3인칭 액션 신작으로, 올디스트 하우스 밖으로 확장된 새로운 위협과 세계를 다룹니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3669870/CONTROL_Resonant/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "EA 스포츠 FC 27",
+          "dev": "EA 스포츠",
+          "date": "9월 24일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 24일 출시되는 축구 시뮬레이션 시리즈 최신작으로, 더욱 정교해진 모션 시스템과 전술 커스터마이징을 선보입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4080220/EA_SPORTS_FC_27/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "킹덤 러쉬 6: 제네시스 TD",
+          "dev": "아이언하이드 게임 스튜디오",
+          "date": "9월 24일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 24일 출시되는 인기 타워 디펜스 프랜차이즈 신작으로, 신규 영웅과 독창적인 기믹의 방어 타워들이 추가됩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4259190/Kingdom_Rush_6_Genesis_TD/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "2026 GSTL 결승전",
+          "note": "스타크래프트 II 팀리그 결승전 (정규리그 1위 T1 | ONSYDE 출전)",
+          "venue": "서울 대치동 프릭업 스튜디오 / SOOP 생중계",
+          "date": "2026-09-27",
+          "tag": "e스포츠",
+          "website": "https://www.gamemeca.com/view.php?gid=1780900"
+        },
+        {
+          "name": "2026 아이치·나고야 아시안게임 배틀그라운드 모바일 결승전",
+          "note": "배틀그라운드 모바일 종목 한국 국가대표팀 메달 결정전",
+          "venue": "일본 도코나메 아이치 스카이 엑스포",
+          "date": "2026-09-28 ~ 2026-09-29",
+          "tag": "e스포츠",
+          "website": "https://www.gamemeca.com/view.php?gid=1780901"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "MS, 보스전 직후·로딩 중 광고 송출 특허 출원",
+          "source": "게임메카",
+          "time": "9월 22일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780902"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "빌리빌리 '루미마스터', 글로벌 주요 앱스토어 1위",
+          "source": "인벤",
+          "time": "9월 22일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=321352"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "락스타, 'GTA 6' 마이애미 옥외광고에 100만 달러 투입",
+          "source": "IGN India",
+          "time": "9월 22일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/grand-theft-auto-vi/272460/grand-theft-auto-6s-miami-takeover-begins-as-rockstar-spends-nearly-1-million-on-welcome-to-vice-cit"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "소울라이크 신작 '폴스 히어로', 공식 런칭 트레일러 공개",
+          "source": "IGN India",
+          "time": "9월 22일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/false-hero/272447/false-hero-official-launch-trailer"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "쿠키런: 오븐브레이크, 산리오 캐릭터즈 대형 협업 개시",
+          "source": "Famitsu",
+          "time": "9월 23일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202609/88853"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "록맨: 듀얼 오버라이드, 2번째 신규 보스 '젯맨' 공개",
+          "source": "電撃オンライン",
+          "time": "9월 22일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202609/88807"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "MS, 액티비전에 헤일로 이관 및 닌자시어리 폐쇄 검토",
+          "source": "GamesIndustry.biz",
+          "time": "9월 22일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/xbox-transfers-rare-and-halo-franchise-to-activision-proposes-closure-of-ninja-theory-and-confirms-another-268-roles-cut-amid-studio-restructure"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "몰입의 순간을 파고드는 광고, 게임 소비 구조의 균열 🎯",
+      "intro": "치열한 보스전 직후 찾아오는 카타르시스의 순간, 눈앞에 상업 광고가 재생된다면 어떨까요?\n마이크로소프트의 새로운 특허는 게임 내 몰입 경험이 어떻게 자본화될 수 있는지 적나라하게 보여줍니다.",
+      "points": "마이크로소프트가 보스전 직후나 로딩 화면 등 플레이 흐름 사이에 맞춤형 광고를 송출하는 기술 특허를 출원했습니다. 최근 스튜디오 재편 및 비용 절감 압박이 거세지는 가운데, 플랫폼 홀더가 하이엔드 게임 환경에서도 새로운 수익원을 확보하기 위해 필사적으로 움직이고 있음을 보여주는 상징적 행보입니다. 📊\n\n이는 전통적인 패키지 패러다임과 구독 모델의 **게임 소비 구조**에 중대한 변화를 예고합니다. 플레이어가 긴장을 해소하는 심리적 공백기를 상업적으로 공략하려는 의도이나, 정당한 대가를 지불하고 온전한 몰입을 기대하는 콘솔 및 PC 게이머들의 강력한 반발과 거부감을 피하기 어렵습니다. 🎮\n\n결국 **플레이어의 가장 극적인 감정적 경험마저 데이터화되어 광고 단가로 치환되는 시대**가 눈앞에 다가왔습니다. 모바일 F2P 환경의 무분별한 BM이 콘솔 코어 타이틀까지 침투한다면, 단기적 수익은 늘어날지언정 완성도 높은 인터랙티브 미디어로서의 게임의 가치는 훼손될 수밖에 없습니다. 💡\n\n게임의 완성도를 높이는 도구여야 할 플랫폼 기술이 단순한 광고 송출판으로 변질되지 않기를 바랍니다. 플레이어의 온전한 경험을 쪼개어 파는 수익화 모델의 범람 속에서, 여러분은 게임 본연의 가치를 위해 어디까지 타협할 수 있으십니까? 🤔"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": true,
+      "title": "SILENT HILL: Townfall | &quot;Home&quot; Composer: Pilotpriest | KONAMI",
+      "channel": "SILENT HILL (Official)",
+      "videoId": "PfDNG0NFtjQ",
+      "url": "https://www.youtube.com/watch?v=PfDNG0NFtjQ",
+      "thumbnail": "https://i.ytimg.com/vi/PfDNG0NFtjQ/hqdefault.jpg",
+      "comment": "공식 음원이 공개되며 주목받은 <사일런트 힐: 타운폴>의 'Home'을 소개해요. 🌫️ Pilotpriest 특유의 몽환적이고 스산한 사운드가 압도적입니다. 🎧 오늘 하루를 마무리하며 미스터리한 안갯속 분위기에 푹 빠져보세요! 🌙",
+      "search_query": "Silent Hill Townfall Official Theme",
+      "ai_game_name": "사일런트 힐: 타운폴",
+      "ai_reason": "지난주 '마블 울버린'의 거칠고 웅장한 액션 시네마틱 테마와 대비되는, 사일런트 힐 특유의 몽환적이고 기괴하면서도 서정적인 심리 공포 앰비언트 사운드를 즐기기에 가장 완벽한 타이밍입니다."
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "SILENT HILL: Townfall",
+        "releases.0.note": "A new psychological horror adventure officially releasing on September 23, delivering new terror and mystery based on the Silent Hill universe.",
+        "releases.0.dev": "No Code",
+        "releases.1.game": "Graveyard Keeper 2",
+        "releases.1.note": "The sequel to the medieval cemetery management simulation officially released on September 23, featuring expanded content such as zombie-based labor and military force systems.",
+        "releases.1.dev": "Lazy Bear Games",
+        "releases.2.game": "Genshin Impact",
+        "releases.2.note": "The Version 7.1 major update 'Requiem of Death' arrives on September 23, adding new playable characters and new area exploration content.",
+        "releases.2.dev": "HoYoverse",
+        "releases.3.game": "Control Resonant",
+        "releases.3.note": "A new supernatural third-person action game officially releasing on September 24, exploring new threats and worlds expanding beyond The Oldest House.",
+        "releases.3.dev": "Remedy Entertainment",
+        "releases.4.game": "EA SPORTS FC 27",
+        "releases.4.note": "The latest entry in the football simulation series releasing on September 24, featuring a more refined motion system and tactical customization.",
+        "releases.4.dev": "EA Sports",
+        "releases.5.game": "Kingdom Rush 6: Genesis TD",
+        "releases.5.note": "A new installment in the popular tower defense franchise releasing on September 24, adding new heroes and defense towers with unique mechanics.",
+        "releases.5.dev": "Ironhide Game Studio",
+        "events.0.name": "2026 GSTL Finals",
+        "events.0.note": "StarCraft II Team League Finals (Featuring regular season 1st place T1 vs ONSYDE)",
+        "events.0.venue": "FreecUP Studio in Daechi-dong, Seoul / Live on SOOP",
+        "events.1.name": "2026 Aichi-Nagoya Asian Games PUBG Mobile Finals",
+        "events.1.note": "PUBG Mobile medal match for the South Korean National Team",
+        "events.1.venue": "Aichi Sky Expo, Tokoname, Japan"
+      },
+      "briefing": {
+        "items.0.title": "MS Files Patent to Deliver Ads Right After Boss Fights and During Loading Screens",
+        "items.0.source": "Gamemeca",
+        "items.0.time": "September 22",
+        "items.1.title": "Bilibili's 'LumiMaster' Tops Major Global App Stores",
+        "items.1.source": "Inven",
+        "items.1.time": "September 22",
+        "items.2.title": "Rockstar Spends $1 Million on Miami Outdoor Billboards for 'GTA 6'",
+        "items.2.source": "IGN India",
+        "items.2.time": "September 22",
+        "items.3.title": "New Soulslike 'False Hero' Unveils Official Launch Trailer",
+        "items.3.source": "IGN India",
+        "items.3.time": "September 22",
+        "items.4.title": "CookieRun: OvenBreak Kicks Off Major Collaboration with Sanrio Characters",
+        "items.4.source": "Famitsu",
+        "items.4.time": "September 23",
+        "items.5.title": "Mega Man: Dual Override Reveals 2nd New Boss 'Jet Man'",
+        "items.5.source": "Dengeki Online",
+        "items.5.time": "September 22",
+        "items.6.title": "MS Considers Transferring Halo to Activision and Closing Ninja Theory",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "September 22"
+      },
+      "drk": {
+        "title": "Ads Piercing Moments of Immersion: Cracks in the Structure of Game Consumption 🎯",
+        "intro": "What if a commercial ad played right before your eyes during the cathartic moment immediately following a grueling boss battle?\nMicrosoft's new patent vividly exposes how in-game immersion can be commodified.",
+        "points": "Microsoft has filed a patent for technology that serves tailored ads in between gameplay beats, such as right after boss battles or during loading screens. Amid mounting pressure for studio restructuring and cost reductions, this symbolic move highlights how platform holders are desperately seeking new revenue streams even in high-end gaming environments. 📊\n\nThis heralds a significant shift in the **game consumption structure** shaped by traditional packaging paradigms and subscription models. While intended to commercially target the psychological downtime when players decompress, it is bound to provoke fierce backlash and rejection from console and PC gamers who pay fair prices expecting uninterrupted immersion. 🎮\n\nUltimately, the era where **even a player's most dramatic emotional experiences are quantified into data and converted into advertising rates** has arrived. If unchecked monetization from mobile F2P environments infiltrates core console titles, short-term profits may rise, but the value of games as polished interactive media will inevitably be undermined. 💡\n\nOne can only hope that platform technology, which should serve as a tool to elevate game craftsmanship, will not degenerate into a mere advertising billboard. Amid a flood of monetization models that dismantle and sell off intact player experiences, how far are you willing to compromise on the intrinsic value of gaming? 🤔"
+      },
+      "soundtrack": {
+        "title": "SILENT HILL: Townfall | &quot;Home&quot; Composer: Pilotpriest | KONAMI",
+        "comment": "Introducing 'Home' from <SILENT HILL: Townfall>, which drew significant attention upon its official track release. 🌫️ Pilotpriest's signature dreamy, eerie soundscape is truly mesmerizing. 🎧 Wrap up your day by immersing yourself in its mysterious, foggy atmosphere! 🌙"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "サイレントヒル：タウンフォール",
+        "releases.0.note": "9月23日に正式リリースされるサイコロジカルホラーアドベンチャーの新作で、「サイレントヒル」の世界観をベースにした新たな恐怖と謎を描きます。",
+        "releases.0.dev": "No Code",
+        "releases.1.game": "Graveyard Keeper 2",
+        "releases.1.note": "9月23日に正式リリースされた中世墓地管理シミュレーションの続編で、ゾンビを活用した労働および兵力システムなど拡張されたコンテンツを提供します。",
+        "releases.1.dev": "Lazy Bear Games",
+        "releases.2.game": "原神",
+        "releases.2.note": "9月23日にVer.7.1大型アップデート「死のレクイエム」が適用され、新キャラクターや新エリア探索コンテンツが追加されます。",
+        "releases.2.dev": "HoYoverse",
+        "releases.3.game": "CONTROL Resonant",
+        "releases.3.note": "9月24日に正式リリースされる超能力サードパーソンアクション新作で、「オールデスト・ハウス」の外へと広がった新たな脅威と世界を描きます。",
+        "releases.3.dev": "Remedy Entertainment",
+        "releases.4.game": "EA SPORTS FC 27",
+        "releases.4.note": "9月24日に発売されるサッカーシミュレーションシリーズの最新作で、より洗練されたモーションシステムと戦術カスタマイズを導入しています。",
+        "releases.4.dev": "EA SPORTS",
+        "releases.5.game": "キングダム・ラッシュ6：ジェネシスTD",
+        "releases.5.note": "9月24日に発売される人気タワーディフェンスシリーズの新作で、新ヒーローや独創的なギミックを持つ防衛タワーが追加されます。",
+        "releases.5.dev": "Ironhide Game Studio",
+        "events.0.name": "2026 GSTL 決勝戦",
+        "events.0.note": "StarCraft II チームリーグ決勝戦（レギュラーシーズン1位 T1 | ONSYDE 出場）",
+        "events.0.venue": "ソウル大峙洞 フリークアップスタジオ / SOOP生中継",
+        "events.1.name": "2026年愛知・名古屋アジア競技大会 PUBG MOBILE決勝戦",
+        "events.1.note": "PUBG MOBILE種目 韓国代表チーム メダル決定戦",
+        "events.1.venue": "日本・常滑 Aichi Sky Expo（愛知県国際展示場）"
+      },
+      "briefing": {
+        "items.0.title": "マイクロソフト、ボス戦直後やロード中の広告配信特許を出願",
+        "items.0.source": "GameMeca",
+        "items.0.time": "9月22日",
+        "items.1.title": "bilibili『ルミマスター』、グローバル主要アプリストアで1位獲得",
+        "items.1.source": "INVEN",
+        "items.1.time": "9월 22일",
+        "items.2.title": "ロックスター、『GTA 6』マイアミの屋外広告に100万ドルを投入",
+        "items.2.source": "IGN India",
+        "items.2.time": "9月22日",
+        "items.3.title": "ソウルライク新作『フォルス・ヒーロー』、公式ローンチトレーラーを公開",
+        "items.3.source": "IGN India",
+        "items.3.time": "9月22日",
+        "items.4.title": "『クッキーラン：オーブンブレイク』、サンリオキャラクターズとの大型コラボを開始",
+        "items.4.source": "ファミ通",
+        "items.4.time": "9月23日",
+        "items.5.title": "『ロックマン：デュアルオーバーライド』、2人目の新ボス「ジェットマン」を公開",
+        "items.5.source": "電撃オンライン",
+        "items.5.time": "9月22日",
+        "items.6.title": "マイクロソフト、アクティビジョンへの『Halo』移管およびNinja Theory閉鎖を検討",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "9月22日"
+      },
+      "drk": {
+        "title": "没入の瞬間に割り込む広告、ゲーム消費構造の亀裂 🎯",
+        "intro": "白熱したボス戦の直後に訪れるカタルシスの瞬間、目の前で商業広告が再生されたらどうでしょうか？\nマイクロソフトの新たな特許は、ゲーム内の没入体験がどのように資本化され得るかを生々しく物語っています。",
+        "points": "マイクロソフトがボス戦直後やロード画面など、プレイの流れの合間にターゲティング広告を配信する技術特許を出願しました。昨今のスタジオ再編やコスト削減の圧力が強まる中、プラットフォーマーがハイエンドなゲーム環境においても新たな収益源を確保すべく必死に動いていることを示す象徴的な動きです。📊\n\nこれは、従来のパッケージ販売のパラダイムやサブスクリプションモデルによる**ゲーム消費構造**に重大な変化をもたらす予兆と言えます。プレイヤーが緊張を解く心理的な空白期間を商業的に狙う意図ですが、正当な対価を支払い完全な没入感を期待するコンソールおよびPCゲーマーからの強い反発や拒否感を避けることは困難です。🎮\n\n結局のところ、**プレイヤーの最も劇的な感情体験までもがデータ化され、広告単価へと変換される時代**が目前に迫っています。モバイルF2P環境における過剰なビジネスモデル（BM）がコンソールのコアタイトルにまで侵食すれば、短期的な収益は伸びたとしても、完成度の高いインタラクティブメディアとしてのゲーム本来の価値は損なわれざるを得ません。💡\n\nゲームの完成度を高めるツールであるべきプラットフォーム技術が、単なる広告配信ボードへと変質しないことを願うばかりです。プレイヤーの純粋な体験を切り売りする収益化モデルが氾濫する中で、皆さんはゲーム本来の価値のためにどこまで妥協できるでしょうか？🤔"
+      },
+      "soundtrack": {
+        "title": "SILENT HILL: Townfall | &quot;Home&quot; Composer: Pilotpriest | KONAMI",
+        "comment": "公式音源が公開され注目を集めている『サイレントヒル：タウンフォール』の「Home」をご紹介します。🌫️ Pilotpriest特有の幻想的でどこか不気味なサウンドが圧巻です。🎧 一日の終わりに、ミステリアスな霧の中の雰囲気に浸ってみてはいかがでしょうか？🌙"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "게임 속 파고드는 광고, 결국 선 넘었다? 🎯 (feat. 사일런트 힐 신작 OST 🎧)",
+    "en": "Are In-Game Ads Crossing the Line? 🎯 (feat. New SILENT HILL OST Drop 🎧)",
+    "ja": "ゲーム没入感を壊す「ゲーム内広告」の影 🎯（feat. 『サイレントヒル』新作神OST 🎧）"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "보스 잡고 감동에 젖었는데 갑자기 광고가 뜬다면? 😱\nMS가 게임 로딩과 보스전 직후에 광고를 넣는 특허를 냈대요! 🎯\n\nhttps://www.gtplayer.net/edition-131/\n#사일런트힐 #GTA6 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-23T07:01:29.404728"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "9월 23일 오늘의 게임 소식 🎮\n📰 [뉴스] MS의 보스전 직후 광고 특허 논란부터 GTA 6 대형 옥외광고, 쿠키런 산리오 협업까지!\n📅 [출시] 사일런트 힐: 타운폴, 그레이브야드 키퍼 2, EA 스포츠 FC 27 등 이번 주 신작 캘린더\n✍️ [인사이트] 보스전 카타르시스 뒤에 광고가? 몰입 경험을 파고드는 자본화와 게임 소비의 균열\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#GTPlayer #게임뉴스 #게임뉴스레터 #신작게임 #게임추천 #게임정보 #사일런트힐 #GTA6 #마이크로소프트 #엑스박스 #쿠키런오븐브레이크 #원신 #스팀게임 #콘솔게임 #PC게임 #게임덕후 #게임스타그램 #인디게임 #플스5 #닌텐도스위치",
+          "image_paths": [
+            "web\\instagram\\edition_131\\card_cover.png",
+            "web\\instagram\\edition_131\\card_news.png",
+            "web\\instagram\\edition_131\\card_calendar.png",
+            "web\\instagram\\edition_131\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3992092333621581668_39332818166",
+            "url": "https://www.instagram.com/p/DdmwtOQExdk/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-23T07:01:57.457616"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Are In-Game Ads Crossing the Line? 🎯 (feat. New SILENT HILL OST Drop 🎧)\n\nImagine taking down a brutal boss only to be immediately greeted by an unskippable commercial.\nFrom Microsoft's bold new ad patent to massive GTA 6 billboards in Miami, catch this week's most electrifying gaming updates.\n\nhttps://www.gtplayer.net/edition-131-en/",
+        "error": null
+      },
+      "updated_at": "2026-09-23T07:02:41.253344"
+    }
+  }
+}

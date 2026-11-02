@@ -1,0 +1,321 @@
+{
+  "num": "011",
+  "date": "2026-03-20",
+  "status": "published",
+  "schedule": {
+    "date": "",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "붉은사막",
+          "dev": "펄어비스",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X|S"
+          ],
+          "color": "#10b981",
+          "note": "정식 출시",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1772977",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "event",
+          "game": "마라톤",
+          "dev": "번지",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X|S"
+          ],
+          "color": "#f59e0b",
+          "note": "첫 레이드 'Cryo Archive' 개시",
+          "country": "IN",
+          "article_url": "https://in.ign.com/1000xresist/256235/news/director-of-one-of-2024s-best-games-says-expect-the-unexpected-ahead-of-upcoming-reveal",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "event",
+          "game": "CD 프로젝트 레드 실적 발표",
+          "dev": "CD 프로젝트 레드",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X|S"
+          ],
+          "color": "#f59e0b",
+          "note": "위쳐 4 및 사이버펑크 2 개발 현황 공개",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=314609",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "몬스터 헌터 나우",
+          "dev": "나이언틱",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "iOS",
+            "Android"
+          ],
+          "color": "#3b82f6",
+          "note": "시즌 9 '박두하는 천인과 봄밤의 도약' 시작",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202603/69312",
+          "source_name": "전격 온라인"
+        },
+        {
+          "category": "update",
+          "game": "풋볼 매니저 26",
+          "dev": "스포츠 인터랙티브",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "33% 할인 및 26.2 업데이트",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=314617",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "초신시공 게임 넵튠∞ (언리미티드)",
+          "dev": "컴파일 하트",
+          "date": "8월 27일(목)",
+          "platforms": [
+            "PS5",
+            "Switch",
+            "Switch 2"
+          ],
+          "color": "#10b981",
+          "note": "발매일 확정 및 신규 정보 공개",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/992/G099212/20260319025/",
+          "source_name": "4Gamer"
+        }
+      ],
+      "events": [
+        {
+          "name": "iicon 2026 (E3 후속)",
+          "note": "",
+          "venue": "미국 라스베가스",
+          "date": "2026-04-27~2026-04-30",
+          "tag": "행사",
+          "d_day_str": "D-38",
+          "website": "https://www.iicon.com"
+        },
+        {
+          "name": "서머 게임 페스트 2026",
+          "note": "",
+          "venue": "미국",
+          "date": "2026-06-01~2026-06-30",
+          "tag": "행사",
+          "d_day_str": "D-73",
+          "website": "https://www.summergamefest.com"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "유비소프트, 레드 스톰 개발 중단 및 인원 감축 발표",
+          "source": "GamesIndustry.biz",
+          "time": "오늘",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/ubisoft-announces-layoffs-and-the-cease-of-game-development-at-red-storm-entertainment"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "포켓몬 TCGP, 신규 팩 ‘샤이닝 메가’ 26일 출시",
+          "source": "4Gamer",
+          "time": "오늘",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/779/G077901/20260319088/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "에픽세븐, 신규 월광 영웅 ‘노토스’ 업데이트 실시",
+          "source": "인벤",
+          "time": "오늘",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=314615"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "스파이더맨 신작 트레일러, GTA 6 기록 깨고 7억 뷰 돌파",
+          "source": "IGN India",
+          "time": "오늘",
+          "country": "IN",
+          "article_url": "https://in.ign.com/spider-man-brand-new-day/256215/news/spider-man-brand-new-day-beats-gta-6-record-after-trailer-pulls-718-million-views-in-24-hours"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "워해머 40K: 스페이스 마린 2, 유료 DLC 논란 사과",
+          "source": "IGN",
+          "time": "오늘",
+          "country": "GLOBAL",
+          "article_url": "https://www.ign.com/articles/its-obvious-this-dlc-has-failed-to-meet-your-expectations-warhammer-40000-space-marine-2-dev-issues-apology-to-disgruntled-fans-for-controversial-5-voice-pack-offers-refunds-and-makes-it-free"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "테이크투 CEO “유료 게임 내 광고 삽입은 불공평한 일”",
+          "source": "GamesIndustry.biz",
+          "time": "오늘",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/take-two-boss-zelnick-says-it-would-be-unfair-to-put-ads-in-premium-games"
+        },
+        {
+          "category": "discount",
+          "tag": "할인",
+          "title": "세가퍼블리싱코리아, 스팀 봄 할인서 주요 PC 타이틀 특가",
+          "source": "인벤",
+          "time": "오늘",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=314616"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": true,
+      "game": "AION2",
+      "period": "최근 30일",
+      "count": "4,316",
+      "sources": "커뮤니티",
+      "score": "2.7",
+      "pos": 4,
+      "neu": 76,
+      "neg": 20,
+      "keywords": [
+        {
+          "text": "Dungeon / Raid Discussion",
+          "positive": true
+        },
+        {
+          "text": "Class Mention",
+          "positive": true
+        },
+        {
+          "text": "Build Meta",
+          "positive": true
+        },
+        {
+          "text": "Buff/Nerf Debate",
+          "positive": true
+        },
+        {
+          "text": "Currency",
+          "positive": true
+        }
+      ],
+      "comments": [
+        {
+          "text": "활발한 소통과 PVP 사망 패널티 완화 등 시스템 개선에 긍정적인 반응입니다.",
+          "positive": true
+        },
+        {
+          "text": "특정 직업의 밸런스 붕괴와 과도한 군중 제어 기술에 대한 유저 불만이 큽니다.",
+          "positive": false
+        },
+        {
+          "text": "100일 기념 보상과 합리적인 과금 구조, 매크로 척결 노력은 높게 평가받습니다.",
+          "positive": true
+        }
+      ]
+    },
+    "drk": {
+      "enabled": true,
+      "title": "화려한 껍데기의 종말, IP의 생존은 '숫자'가 아닌 '신뢰'에 달렸다",
+      "intro": "오늘의 뉴스는 글로벌 게임 시장의 극명한 명암을 보여줍니다. 펄어비스의 ‘붉은사막’ 정식 출시와 CD 프로젝트 레드의 차기작 로드맵, 그리고 7억 뷰를 돌파한 ‘스파이더맨’ 신작 트레일러는 강력한 IP가 가진 파괴력을 증명합니다. 반면, 유비소프트의 레드 스톰 개발 중단과 인원 감축, 그리고 ‘스페이스 마린 2’의 DLC 논란은 거대 자본을 투입한 AAA급 게임조차 운영의 묘수 없이는 모래성처럼 무너질 수 있음을 시사합니다.",
+      "points": "이러한 현상의 이면에는 ‘제작 효율성’과 ‘팬덤의 임계점’이라는 두 가지 키워드가 자리 잡고 있습니다. 유비소프트의 구조조정은 전통적인 AAA급 개발 방식이 한계에 봉착했음을 보여주는 신호탄이며, 테이크투 CEO가 유료 게임 내 광고 삽입을 부정적으로 언급한 것은 개발비 상승 압박 속에서도 유저의 역풍을 두려워하고 있다는 증거입니다. 이제 시장은 단순히 ‘나온다’는 사실에 열광하는 단계를 지나, 그 브랜드가 유저의 가치를 얼마나 존중하느냐를 냉정하게 따지기 시작했습니다.\n\n**이제 게임 산업은 IP의 양적 팽창이 아닌, ‘질적 신뢰’가 생존을 결정하는 초양극화 시대에 진입했습니다.** 자본의 힘으로 밀어붙이는 마케팅이나 지표 중심의 운영은 더 이상 통하지 않습니다. **결국 살아남는 것은 유저의 시간을 훔치는 ‘서비스’가 아니라, 유저의 삶에 흔적을 남기는 ‘경험’을 제공하는 기업뿐입니다.** ‘붉은사막’이 한국형 AAA의 새로운 이정표가 될지, 아니면 거대 자본의 함정에 빠질지는 바로 이 지점에서 결정될 것입니다.\n\n천문학적인 개발비와 유저들의 높아진 눈높이 사이에서, 게임사들은 과연 어떤 ‘지속 가능한 진심’을 보여줄 수 있을까요? 7억 번의 클릭이 환호가 될지 독이 될지는 종이 한 장 차이입니다. 여러분은 과연 어떤 게임에 당신의 소중한 시간을 기꺼이 지불하시겠습니까?"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "붉은사막 (Crimson Desert)",
+      "title": "황혼이 머무는 파이웰의 진혼곡",
+      "imgUrl": "",
+      "comment": "차세대 자체 엔진으로 구현된 압도적인 광원 효과와 지평선 끝까지 이어지는 세밀한 식생은 오픈월드 게임이 도달할 수 있는 시각적 미학의 정점을 보여줍니다.",
+      "ai_prompt": "A cinematic wide-angle shot of a rugged medieval mercenary standing on a jagged cliff overlooking the vast continent of Pywel. The scene is set during a dramatic golden hour with a crimson and orange sunset. Hyper-realistic textures of a worn leather cloak and fur armor fluttering in the wind. Below the cliff, a dense, ancient forest and a winding river reflect the glowing sky. In the far distance, majestic snow-capped mountains rise against volumetric clouds and god rays. High-fidelity rendering, 8k resolution, epic fantasy atmosphere, melancholic yet grand mood, detailed vegetation and realistic lighting."
+    },
+    "chart": {
+      "enabled": true,
+      "pc": [
+        {
+          "game": "Counter-Strike 2",
+          "change": "-"
+        },
+        {
+          "game": "Dota 2",
+          "change": "-"
+        },
+        {
+          "game": "Slay the Spire 2",
+          "change": "-"
+        },
+        {
+          "game": "PUBG: BATTLEGROUNDS",
+          "change": "-"
+        },
+        {
+          "game": "Bongo Cat",
+          "change": "-"
+        }
+      ],
+      "console": [
+        {
+          "game": "Call of Duty: Black Ops 6",
+          "change": "NEW"
+        },
+        {
+          "game": "EA Sports FC 25",
+          "change": "-"
+        },
+        {
+          "game": "Fortnite",
+          "change": "-"
+        }
+      ],
+      "mobile": [
+        {
+          "game": "Honor of Kings",
+          "change": "-"
+        },
+        {
+          "game": "Roblox",
+          "change": "▲1"
+        },
+        {
+          "game": "Monopoly GO!",
+          "change": "▼1"
+        }
+      ]
+    }
+  },
+  "translations": {
+    "en": {},
+    "ja": {}
+  }
+}

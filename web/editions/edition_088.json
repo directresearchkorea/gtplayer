@@ -1,0 +1,425 @@
+{
+  "num": "088",
+  "date": "2026-07-24",
+  "status": "published",
+  "schedule": {
+    "date": "2026-07-24",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "드래곤소드: 어웨이크닝",
+          "dev": "하운드13",
+          "date": "7월 23일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "7월 23일 스팀에 정식 출시된 오픈월드 액션 RPG로, 개성 넘치는 캐릭터 조합과 화려한 액션 전투를 선사합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318810",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "히간: 이루실",
+          "dev": "빌리빌리",
+          "date": "7월 23일(목)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "7월 23일 국내에 정식 출시된 서브컬처 3D 실시간 전략 RPG로, 현실과 꿈 세계를 오가는 전략적 카드 연출 전투를 제공합니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1778174",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "스탈존",
+          "dev": "엑스보",
+          "date": "7월 23일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "7월 23일 스팀을 통해 정식 출시된 무료 오픈월드 익스트랙션 MMOFPS로, 위험 지역 탐험과 물자 회수의 재미를 다룹니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1778166",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "event",
+          "game": "환세록 리메이크",
+          "dev": "유저조이",
+          "date": "7월 23일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#f59e0b",
+          "note": "1998년 클래식 전략 RPG를 현대적 그래픽으로 개선한 '환세록 리메이크'가 7월 23일부터 스팀에서 무료 체험판 배포를 시작했습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1778181",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "event",
+          "game": "실버 팰리스",
+          "dev": "엘리멘타",
+          "date": "7월 23일(목)",
+          "platforms": [
+            "PC",
+            "Mobile"
+          ],
+          "color": "#f59e0b",
+          "note": "오픈월드 추리 어드벤처 RPG 기대작 '실버 팰리스'가 7월 23일부터 게임성 검증을 위한 2차 비공개 테스트를 진행합니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1778171",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "아랑전설 시티 오브 더 울브스",
+          "dev": "SNK",
+          "date": "7월 23일(목)",
+          "platforms": [
+            "PC",
+            "PS4",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#3b82f6",
+          "note": "7월 23일 시즌 3 'DESTINED FOR REVENGE' 개막과 함께 신규 DLC 플레이어블 캐릭터 '릭 스트라우드' 배포를 시작했습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318826",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "콜오브듀티: 모던워페어4 쇼케이스 '콜오브듀티 넥스트' 및 베타 테스트",
+          "note": "게임 세부 정보를 다루는 쇼케이스 진행 및 예약 구매자 대상 베타 테스트",
+          "venue": "온라인",
+          "date": "2026-08-21 ~ 2026-08-25",
+          "tag": "베타 테스트",
+          "website": "https://www.inven.co.kr/webzine/news/?news=318811"
+        },
+        {
+          "name": "마비노기 이터니티 첫 알파 테스트",
+          "note": "마비노기 엔진 교체 프로젝트의 첫 알파 테스트 (8월 12일까지 참가 신청 모집)",
+          "venue": "온라인",
+          "date": "2026-09-03",
+          "tag": "베타 테스트",
+          "website": "https://www.inven.co.kr/webzine/news/?news=318820"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "엔씨 '아이온' 모바일, 중국 외자판호 발급 확정",
+          "source": "인벤",
+          "time": "7월 24일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318829"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "넥슨 '마비노기 이터니티', 9월 첫 알파 테스트 진행",
+          "source": "인벤",
+          "time": "7월 24일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318820"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "닌텐도 '동키콩 바난자', CEDEC 어워드 2026 3관왕 달성",
+          "source": "4Gamer",
+          "time": "7월 23일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/991/G999104/20260723057/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "게임프릭 신작 '비스트 오브 린카네이션' 실기 영상 공개",
+          "source": "4Gamer",
+          "time": "7월 23일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/918/G091815/20260723045/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "인섬니악 '마블 울버린', 신규 스토리 트레일러 공개",
+          "source": "IGN India",
+          "time": "7월 24일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/marvels-wolverine/267067/marvels-wolverine-story-trailer-comic-con-2026"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "MS, 광고 기반 무료 Xbox 게임 스트리밍 테스트 착수",
+          "source": "IGN India",
+          "time": "7월 24일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/xbox-series-s/267045/microsoft-launches-test-for-ad-supported-xbox-game-streaming-promises-the-ads-will-not-interrupt-the"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "해스브로, 게임 사업 5,600만 달러 상각 및 신작 취소",
+          "source": "GamesIndustry.biz",
+          "time": "7월 23일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/hasbro-records-56m-write-down-and-cancels-several-games-scheduled-for-2028-and-beyond"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "무료 스트리밍과 대폭적인 개발 취소, 게임 소비 지형이 바뀐다 📉🎮",
+      "intro": "게임을 돈 주고 사지 않는 시대가 본격적으로 다가오는 걸까요? 💡\n마이크로소프트의 무료 클라우드 테스트와 대형 게임 프로젝트의 취소가 동시에 일어난 배경을 살펴봅니다.",
+      "points": "마이크로소프트(MS)가 광고 기반의 무료 Xbox 게임 스트리밍 테스트에 착수한 한편, 해스브로는 5,600만 달러 규모의 게임 사업을 상각하며 신작 개발을 전격 취소했습니다. 이와 함께 '스탈존' 등 진입 장벽을 낮춘 무료 오픈월드 신작들과 무료 체험판 배포 움직임이 시장의 주요 뉴스에 올랐습니다. 🔍\n\n이 현상은 **플랫폼 구조와 게임 소비 구조**의 급격한 패러다임 변화를 의미합니다. 초기 구매 비용을 주저하는 플레이어 심리를 고려해, 플랫폼사들은 광고 모델을 통해서라도 플레이어의 '체류 시간'을 확보하는 방향으로 선회하고 있습니다. 반면, 치솟는 개발비를 감당하지 못하고 리스크 관리에 실패한 프로젝트들은 시장에 선보이지도 못한 채 빠르게 정리되고 있습니다. 📊\n\n결국 향후 게임 시장은 '유저의 초기 진입 장벽을 얼마나 낮출 수 있는가'의 싸움으로 집결될 것입니다. **단순한 그래픽 경쟁을 넘어, 플랫폼의 전향적인 접근성 확보 전략과 개발사의 철저한 리스크 관리 능력이 차세대 생존의 핵심 열쇠**입니다. 💡\n\n비용 부담 없이 광고 시청만으로 고사양 게임을 플레이하는 환경은 플레이어에게 새로운 선택지를 제공할 것입니다. 이러한 변화가 게임 산업의 지속 가능한 성장으로 이어질지 유심히 지켜볼 시점입니다. 🔮"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "Castlevania Anniversary Collection",
+      "url": "https://store.epicgames.com/ko/p/castlevania-anniversary-collection-a61f94",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-yex6f.jpg",
+      "comment": "🎮 **[에픽게임즈 추천 혜택]**\n이번 주 에픽게임즈 무료 배포는 쉬어가지만, 주말을 짜릿하게 채워줄 추천 할인작이 있습니다!\n* **고스트러너 2 (20% 할인, ~2026-07-31까지)**\n포스트 아포칼립스 사이버펑크 세계관에서 펼쳐지는 하드코어 1인칭 슬래시 액션 게임입니다. 박진감 넘치는 보스전과 속도감 있는 모터바이크 스테이지로 화려한 닌자 액션을 경험해 보세요.\n\n🔮 **[Next Week]**\n다음 주 에픽게임즈 무료 배포 예고는 아직 공개되지 않았습니다.\n\n⚔️ **[스팀 주말 혜택]**\n스팀에서는 웅장한 우주 전장의 스펙터클한 액션을 자랑하는 **Warhammer 40,000: Space Marine 2**를 70% 할인 중이니 2026년 7월 31일 02:00까지 놓치지 말고 즐겨보세요!",
+      "steam_deal": {
+        "type": "deal",
+        "name": "Warhammer 40,000: Space Marine 2",
+        "app_id": 2183900,
+        "url": "https://store.steampowered.com/app/2183900",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg?t=1780329761",
+        "discount_percent": 70,
+        "original_price": 6980000,
+        "final_price": 2094000,
+        "end_date": "2026-07-31 02:00"
+      }
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Dragon Sword: Awakening",
+        "releases.0.note": "An open-world action RPG officially released on Steam on July 23, delivering unique character combinations and spectacular action combat.",
+        "releases.0.dev": "Hound13",
+        "releases.1.game": "Higan: Eruthyll",
+        "releases.1.note": "A subculture 3D real-time strategy RPG officially released in Korea on July 23, offering strategic card-based combat taking place between reality and the dream world.",
+        "releases.1.dev": "Bilibili",
+        "releases.2.game": "Stalzone",
+        "releases.2.note": "A free-to-play open-world extraction MMOFPS officially released on Steam on July 23, featuring the fun of exploring hazardous areas and recovering supplies.",
+        "releases.2.dev": "EXBO",
+        "releases.3.game": "Hwanse Rok Remake",
+        "releases.3.note": "A modern graphical remaster of the 1998 classic strategy RPG, 'Hwanse Rok Remake' has released a free demo on Steam starting July 23.",
+        "releases.3.dev": "UserJoy",
+        "releases.4.game": "Silver Palace",
+        "releases.4.note": "The highly anticipated open-world mystery adventure RPG 'Silver Palace' is conducting its 2nd closed beta test starting July 23 to evaluate gameplay.",
+        "releases.4.dev": "Elementa",
+        "releases.5.game": "Fatal Fury: City of the Wolves",
+        "releases.5.note": "With the launch of Season 3 'DESTINED FOR REVENGE' on July 23, distribution of the new DLC playable character 'Rick Strowd' has begun.",
+        "releases.5.dev": "SNK",
+        "events.0.name": "Call of Duty: Modern Warfare 4 Showcase 'Call of Duty: Next' and Beta Test",
+        "events.0.note": "Showcase detailing game information and beta testing for pre-order customers",
+        "events.0.venue": "Online",
+        "events.1.name": "Mabinogi Eternity First Alpha Test",
+        "events.1.note": "First alpha test of Mabinogi's engine swap project (Recruiting participants until August 12)",
+        "events.1.venue": "Online"
+      },
+      "briefing": {
+        "items.0.title": "NC's 'Aion' Mobile Confirmed to Receive Import Game License in China",
+        "items.0.source": "Inven",
+        "items.0.time": "July 24",
+        "items.1.title": "Nexon's 'Mabinogi Eternity' to Hold First Alpha Test in September",
+        "items.1.source": "Inven",
+        "items.1.time": "July 24",
+        "items.2.title": "Nintendo's 'Donkey Kong Bananza' Wins 3 Awards at CEDEC Awards 2026",
+        "items.2.source": "4Gamer",
+        "items.2.time": "July 23",
+        "items.3.title": "Game Freak Reveals Gameplay Footage of New Title 'Beast of Reincarnation'",
+        "items.3.source": "4Gamer",
+        "items.3.time": "July 23",
+        "items.4.title": "Insomniac's 'Marvel's Wolverine' Reveals New Story Trailer",
+        "items.4.source": "IGN India",
+        "items.4.time": "July 24",
+        "items.5.title": "MS Begins Testing Ad-Supported Free Xbox Game Streaming",
+        "items.5.source": "IGN India",
+        "items.5.time": "July 24",
+        "items.6.title": "Hasbro Writes Off $56 Million in Games Business and Cancels New Titles",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "July 23"
+      },
+      "drk": {
+        "title": "Free Streaming and Massive Cancellations: The Game Consumption Landscape is Shifting 📉🎮",
+        "intro": "Is the era of not paying for games officially approaching? 💡\nWe take a look at the background behind Microsoft's free cloud testing and the simultaneous cancellation of major game projects.",
+        "points": "While Microsoft (MS) has begun testing ad-supported free Xbox game streaming, Hasbro wrote off $56 million in its games business and abruptly canceled new game developments. Alongside this, new free-to-play open-world titles lowering entry barriers like 'Stalzone' and movements toward releasing free demos made major market news. 🔍\n\nThis phenomenon signifies a drastic paradigm shift in **platform structure and game consumption patterns**. Considering the mindset of players who hesitate at upfront purchase costs, platform companies are shifting toward securing player 'dwelling time' even if through ad models. Conversely, projects unable to withstand skyrocketing development costs and failing at risk management are being rapidly shelved before even entering the market. 📊\n\nUltimately, the future games market will converge into a battle over 'how low the initial entry barrier for users can be set.' **Beyond mere graphics competition, proactive accessibility strategies from platforms and thorough risk management capabilities from developers are key to next-generation survival.** 💡\n\nAn environment where high-end games can be played just by watching ads without financial burden will offer players new options. Now is the time to closely observe whether these changes will lead to sustainable growth in the game industry. 🔮"
+      },
+      "epic": {
+        "title": "Castlevania Anniversary Collection",
+        "comment": "🎮 **[Epic Games Featured Deals]**\nWhile Epic Games is taking a break from free giveaways this week, we've got an exciting recommended deal to power up your weekend!\n* **Ghostrunner 2 (20% OFF, until July 31, 2026)**\nA hardcore FPP slasher set in a post-apocalyptic cyberpunk world. Experience flashy cyber-ninja action packed with pulse-pounding boss fights and high-speed motorcycle stages.\n\n🔮 **[Next Week]**\nNext week's free game teaser for Epic Games has not been revealed yet.\n\n⚔️ **[Steam Weekend Deals]**\nOver on Steam, **Warhammer 40,000: Space Marine 2**—delivering spectacular action across epic cosmic battlefields—is currently **70% OFF**! Don't miss out and grab it before July 31, 2026, at 02:00!"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ドラゴンソード：アウェイクニング",
+        "releases.0.note": "7月23日にSteamにて正式リリースされたオープンワールドアクションRPGで、個性豊かなキャラクターの組み合わせと華やかなアクションバトルをお届けします。",
+        "releases.0.dev": "ハウンド13",
+        "releases.1.game": "ヒガン：エルシル",
+        "releases.1.note": "7月23日に韓国で正式リリースされたサブカルチャー3Dリアルタイム戦略RPGで、現実と夢の世界を行き来する戦略的なカード演出バトルを提供します。",
+        "releases.1.dev": "bilibili",
+        "releases.2.game": "スタルゾーン",
+        "releases.2.note": "7月23日にSteamを通じて正式リリースされた基本プレイ無料のオープンワールド・エクストラクションMMOFPSで、危険地帯の探索と物資回収の楽しさを提示します。",
+        "releases.2.dev": "EXBO",
+        "releases.3.game": "幻世録リメイク",
+        "releases.3.note": "1998年のクラシック戦略RPGを現代的なグラフィックでリメイクした『幻世録リメイク』が、7月23日からSteamにて無料体験版の配信を開始しました。",
+        "releases.3.dev": "USERJOY",
+        "releases.4.game": "シルバーパレス",
+        "releases.4.note": "オープンワールド推理アドベンチャーRPGの期待作『シルバーパレス』が、7月23日からゲーム性の検証を目的とした第2次クローズドβテストを開始します。",
+        "releases.4.dev": "エレメンタ",
+        "releases.5.game": "餓狼伝説 City of the Wolves",
+        "releases.5.note": "7월 23日シーズン3「DESTINED FOR REVENGE」開幕とともに、新規DLCプレイアブルキャラクター「リック・ストロード」の配信を開始しました。",
+        "releases.5.dev": "SNK",
+        "events.0.name": "コール オブ デューティ: モダン・ウォーフェア4 ショーケース「Call of Duty: Next」およびベータテスト",
+        "events.0.note": "ゲームの詳細情報を扱うショーケースの実施および予約購入者を対象としたベータテスト",
+        "events.0.venue": "オンライン",
+        "events.1.name": "マビノギ イターニティ 初のαテスト",
+        "events.1.note": "マビノギのエンジン交換プロジェクトにおける初のαテスト（8月12日まで参加応募受付）",
+        "events.1.venue": "オンライン"
+      },
+      "briefing": {
+        "items.0.title": "NCSOFT『タワー オブ アイオン』モバイル、中国で外資版号の獲得が確定",
+        "items.0.source": "INVEN",
+        "items.0.time": "7月24日",
+        "items.1.title": "ネクソン『マビノギ イターニティ』、9月に初のαテストを実施",
+        "items.1.source": "INVEN",
+        "items.1.time": "7월 24日",
+        "items.2.title": "任天堂『ドンキーコング バナンザ』、CEDEC AWARDS 2026で3冠達成",
+        "items.2.source": "4Gamer",
+        "items.2.time": "7月23日",
+        "items.3.title": "ゲームフリークの新作『ビースト・オブ・リンカーネーション』実機映像を公開",
+        "items.3.source": "4Gamer",
+        "items.3.time": "7月23日",
+        "items.4.title": "インソムニアック『Marvel's Wolverine』、新規ストーリートレーラー公開",
+        "items.4.source": "IGN India",
+        "items.4.time": "7월 24日",
+        "items.5.title": "MS、広告ベースの無料Xboxゲームストリーミングテストに着手",
+        "items.5.source": "IGN India",
+        "items.5.time": "7월 24日",
+        "items.6.title": "ハズブロ、ゲーム事業で5,600万ドルを償却し新作開発をキャンセル",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "7月23日"
+      },
+      "drk": {
+        "title": "無料ストリーミングと大幅な開発キャンセル、ゲーム消費の構図が変わる 📉🎮",
+        "intro": "ゲームを購入しない時代が本格的に到来するのでしょうか？ 💡\nマイクロソフトの無料クラウドテストと大型ゲームプロジェクトのキャンセルが同時に起きた背景を掘り下げます。",
+        "points": "マイクロソフト（MS）が広告ベースの無料Xboxゲームストリーミングテストに着手した一方、ハズブロは5,600万ドル規模のゲーム事業を償却し、新作開発を電撃キャンセルしました。これとともに『スタルゾーン』などハードルを下げた基本プレイ無料のオープンワールド新作や、無料体験版配信の動きが市場の主なニュースとなりました。 🔍\n\nこの現象は**プラットフォーム構造とゲーム消費構造**の急激なパラダイムシフトを意味します。初期購入費用をためらうプレイヤー心理を考慮し、プラットフォーム各社は広告モデルを通してでもプレイヤーの「滞在時間」を確保する方向へと舵を切っています。一方、高騰する開発費に耐え切れずリスク管理に失敗したプロジェクトは、市場にお披露目されることもなく急速に整理されています。 📊\n\n結局のところ、今後のゲーム市場は「ユーザーの初期参入障壁をいかに下げられるか」の戦いに集約されるでしょう。**単なるグラフィック競争を超え、プラットフォームの積極的なアクセシビリティ確保戦略と、開発会社の徹底したリスク管理能力が次世代を生き残る鍵**となります。 💡\n\nコスト負担なく広告視聴だけでハイエンドゲームをプレイできる環境は、プレイヤーに新しい選択肢を提供するはずです。このような変化がゲーム産業の持続可能な成長につながるのか、注視すべきタイミングと言えます。 🔮"
+      },
+      "epic": {
+        "title": "Castlevania Anniversary Collection",
+        "comment": "🎮 **【Epic Gamesおすすめセール情報】**\n今週のEpic Games無料配布はお休みですが、週末をアツく盛り上げるおすすめのセールタイトルをご紹介！\n* **Ghostrunner 2（20%オフ、〜2026/07/31まで）**\nポストアポカリプスなサイバーパンク世界を舞台にした、ハードコア一人称視点スラッシュアクションです。迫力満点のボス戦やスピード感あふれるバイクステージで、スタイリッシュなニンジャアクションを体感してみてください。\n\n🔮 **【Next Week】**\n来週のEpic Games無料配布予告は、まだ公開されていません。\n\n⚔️ **【Steam週末セール情報】**\nSteamでは、壮大な宇宙の戦場で繰り広げられるスペクタクルなアクションが魅力の**Warhammer 40,000: Space Marine 2**が70%オフ！2026年7月31日 02:00までのビッグチャンスをぜひお見逃しなく！"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "잇따른 개발 취소, 흔들리는 게임 판도 📉 (feat. 에픽 캐슬베니아 특가 🦇)",
+    "en": "Dev Cancellations Are Shaking Up Gaming 📉 (Feat. Epic's Castlevania Sale 🦇)",
+    "ja": "相次ぐ開発中止で激変するゲーム業界 📉 (feat. Epic『悪魔城ドラキュラ』特価セール！ 🦇)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "7월 24일 오늘의 게임 소식 🎮\n📰 [뉴스] 엔씨 아이온 모바일 판호 발급부터 마비노기 이터니티 첫 테스트, 울버린 트레일러 공개!\n📅 [출시] 아랑전설 시티 오브 더 울브스, 환세록 리메이크 등 이번 주 주목할 신작 라인업.\n✍️ [인사이트] 대형 게임 개발 취소와 무료 클라우드 스트리밍, 급변하는 게임 소비 지형 분석.\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#지티플레이어 #GTPLAYER #게임뉴스 #게임소식 #신작게임 #게임추천 #아이온모바일 #마비노기이터니티 #울버린 #아랑전설 #환세록 #게임이슈 #게이머 #게임스타그램 #뉴스레터 #게임정보 #닌텐도 #넥슨 #엔씨소프트 #스팀게임",
+          "posted": false,
+          "error": "Dry run"
+        }
+      },
+      "updated_at": "2026-07-24T17:12:51.421779",
+      "freegames_results": {
+        "success": true,
+        "id": "3948180486568977544_39332818166",
+        "url": "https://www.instagram.com/p/DbKwTvzEqSI/",
+        "error": null
+      },
+      "freegames_updated_at": "2026-07-24T16:56:58.911939"
+    }
+  }
+}

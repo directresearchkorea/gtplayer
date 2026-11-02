@@ -1,0 +1,64 @@
+{{!< default}}
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-eyebrow">Daily Game Intelligence</div>
+  <h1>Game Insights,<br><em>Every Morning at 7 AM</em></h1>
+  <p class="hero-sub">PC · Console · Mobile · Industry News · Dr. K Commentary</p>
+  <div class="hero-subscribe-form">
+    <form data-members-form="subscribe">
+      <div class="hero-email-wrap">
+        <input data-members-email type="email" name="email" class="hero-email-input" placeholder="jamie@example.com" required>
+        <button type="submit" class="hero-email-btn">Subscribe</button>
+      </div>
+      <div class="message-success">Please check your inbox to confirm your email.</div>
+      <div class="message-error" data-members-error></div>
+    </form>
+  </div>
+  <p class="hero-note">No spam · Cancel anytime</p>
+</section>
+
+<div class="page">
+
+
+
+
+
+  {{#foreach posts}}
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">{{date format="MM.DD"}}</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">{{reading_time}} min read</span>
+    </div>
+    <a href="{{url}}" class="edition-link">
+      <h3 class="edition-title">{{title}}</h3>
+      {{#if custom_excerpt}}
+      <p class="edition-excerpt">{{custom_excerpt}}</p>
+      {{else}}
+      <p class="edition-excerpt">{{excerpt words="30"}}</p>
+      {{/if}}
+    </a>
+  </article>
+  {{/foreach}}
+
+  {{#unless posts}}
+  <div class="no-posts">
+    <p>No English editions available yet.</p>
+  </div>
+  {{/unless}}
+
+  <!-- PAGINATION -->
+  {{#if pagination.pages}}
+  <nav class="pagination">
+    {{#if pagination.prev}}
+    <a class="page-btn" href="{{page_url pagination.prev}}">← Prev</a>
+    {{/if}}
+    <span class="page-num">{{pagination.page}} / {{pagination.pages}}</span>
+    {{#if pagination.next}}
+    <a class="page-btn" href="{{page_url pagination.next}}">Next →</a>
+    {{/if}}
+  </nav>
+  {{/if}}
+
+</div>

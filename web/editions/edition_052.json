@@ -1,0 +1,439 @@
+{
+  "num": "052",
+  "date": "2026-05-19",
+  "status": "published",
+  "schedule": {
+    "date": "2026-05-19",
+    "time": "09:48",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "식혼도: 블루 피에타",
+          "dev": "디어팜",
+          "date": "5월 18일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "5월 18일 스팀과 스토브를 통해 글로벌 출시된 국산 탄막 슈팅 게임으로, 동양적 판타지 세계관과 개성 넘치는 보스전이 특징입니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316516",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "마블 코스믹 인베이전",
+          "dev": "세바 게임즈",
+          "date": "5월 18일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "2D 액션 비트엠업 게임의 첫 번째 DLC가 18일 출시되었으며, 신규 플레이어블 캐릭터로 사이클롭스와 더 씽이 새롭게 합류했습니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/marvel-cosmic-invasion/261061/marvel-cosmic-invasion-official-cyclops-the-thing-dlc-1-launch-trailer",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "release",
+          "game": "잇 리치스 (It Reaches)",
+          "dev": "엠버플라이트 게임즈",
+          "date": "5월 18일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "보디캠 시점의 독특한 연출이 돋보이는 일인칭 서바이벌 호러 게임으로, 18일 스팀 출시를 통해 폐쇄된 병원에서의 공포를 선보였습니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/980/G098032/20260518028/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "포르자 호라이즌 6",
+          "dev": "플레이그라운드 게임즈",
+          "date": "5월 19일(화)",
+          "platforms": [
+            "PC",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "5월 19일 정식 출시되는 오픈 월드 레이싱 게임으로, 시리즈 최초로 일본을 배경으로 삼아 역대급 규모의 맵과 사실적인 드라이빙 경험을 선사합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316530",
+          "source_name": "인벤"
+        },
+        {
+          "category": "event",
+          "game": "스팀 바다 게임 축제",
+          "dev": "밸브",
+          "date": "5월 19일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#f59e0b",
+          "note": "6월 넥스트 페스트에 앞서 19일부터 시작되는 스팀의 테마 할인 행사로, 해양 테마 게임들의 할인과 신작 데모 공개가 진행됩니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1775311",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "프로젝트: 미스트",
+          "dev": "엠버플라이트 게임즈",
+          "date": "5월 20일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "거대 생명체가 배회하는 미지의 섬을 배경으로 한 오픈 월드 서바이벌 호러 게임으로, 5월 20일 스팀 얼리 액세스를 시작합니다.",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202605/75161",
+          "source_name": "Famitsu"
+        }
+      ],
+      "events": [
+        {
+          "name": "PlayX4 2026 (플레이엑스포)",
+          "note": "수도권 최대 규모의 융복합 게임쇼로, 에어캡의 신작 '아가타' 최초 공개 및 다양한 인디 게임 전시와 이벤트가 진행됩니다.",
+          "venue": "일산 킨텍스(KINTEX)",
+          "date": "2026-05-21 ~ 2026-05-24",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=316523"
+        },
+        {
+          "name": "붕괴: 스타레일 Ver.4.3 '생자, 피안으로 건너가서' 예고 방송",
+          "note": "신규 업데이트 버전의 상세 정보와 스토리를 공개하는 개발자 라이브 방송입니다.",
+          "venue": "공식 유튜브 및 치지직 채널 등 온라인",
+          "date": "2026-05-22",
+          "tag": "쇼케이스",
+          "website": "https://www.4gamer.net/games/421/G042182/20260518040/"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "아시안게임 e스포츠 국대 후보 발표",
+          "source": "한국e스포츠협회",
+          "time": "5월 18일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316525"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "블루 아카이브 기부 러닝 매진 기록",
+          "source": "인벤",
+          "time": "5월 18일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316534"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "소니, 싱글 게임 콘솔 독점 회귀 방침",
+          "source": "IGN India",
+          "time": "5월 18일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/playstation-5-1/261078/playstation-reportedly-tells-developers-that-it-is-returning-to-console-exclusives-for-single-player"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "플레이스테이션 플러스 이용료 인상",
+          "source": "IGN India",
+          "time": "5월 18일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/playstation-plus/261066/sony-announces-playstation-plus-price-increases-due-to-ongoing-market-conditions"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "캡콤, 연간 게임 판매량 역대 최고",
+          "source": "4Gamer",
+          "time": "5월 18일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/917/G091773/20260518049/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "viviON, 모바일용 PC 게임 클라우드",
+          "source": "Famitsu",
+          "time": "5월 18일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202605/75082"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "스팀, '불렛 헤븐' 장르명 공식 채택",
+          "source": "PC Gamer",
+          "time": "5월 18일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/gaming-industry/its-official-steam-decrees-bullet-heaven-the-name-of-the-vampire-survivors-genre/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "소니의 '성벽 쌓기'와 캡콤의 '경계 허물기', 플랫폼 전략의 갈림길",
+      "intro": "독점의 성벽을 다시 쌓으려는 소니와 플랫폼의 경계를 허물며 비상하는 캡콤의 행보가 정면으로 엇갈리고 있습니다.\n유료 서비스 인상과 독점 강화라는 폐쇄적 전략이 게이머들의 소비 심리에 어떤 파장을 일으킬까요?",
+      "points": "최근 소니가 싱글 게임의 콘솔 독점 회귀 방침을 발표하고 PS Plus 이용료를 인상한 반면, 캡콤은 멀티 플랫폼 전략을 통해 역대 최고 판매량을 달성하며 극명한 대비를 보였습니다. 동시에 '포르자 호라이즌 6'와 같은 대작의 등장과 스팀의 '불렛 헤븐' 장르 공식 채택은 시장의 대형화와 세분화가 동시에 가속화되고 있음을 시사합니다. 📈\n\n소니의 폐쇄적 행보는 **플랫폼 구조** 내에서의 단기 수익 극대화를 꾀하지만, 이는 구독료 인상에 민감한 **소비자 심리**에 강한 저항선을 형성할 위험이 큽니다. 반면 캡콤의 성공은 플랫폼의 경계를 허무는 개방형 전략이 **게임 소비 구조**를 얼마나 거대하게 확장할 수 있는지 입증하며, 특정 하드웨어에 종속된 독점 전략이 가진 시대적 한계를 여실히 드러냅니다. 🔗\n\n결국 미래의 게임 시장은 플랫폼의 장벽이 아닌 **'콘텐츠의 보편적 접근성과 압도적 완성도'**가 성패를 가르는 핵심 동력이 될 것입니다. 독점이라는 전략적 자산이 오히려 생태계의 확장을 가로막고 유저 이탈을 부추기는 족쇄가 될 수 있음을 간과해서는 안 됩니다. ✨\n\n클라우드 기술의 발전으로 하드웨어의 경계가 희미해지는 지금, 특정 플랫폼에 갇힌 성벽은 과연 언제까지 견고할 수 있을까요? 높아진 입장료를 지불해서라도 그 성벽 안으로 들어갈 가치가 있는 콘텐츠를 소니가 지속적으로 증명해낼 수 있을지 냉정하게 지켜볼 시점입니다. 🧐"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "배틀그라운드 (PUBG: BATTLEGROUNDS)",
+      "title": "네온 아래 펼쳐지는 무법지대, 페이데이 도심 하이스트의 실체",
+      "imgUrl": "",
+      "comment": "배틀그라운드가 단순 배틀로얄을 넘어 협력형 하이스트 장르로 확장된 미래를 상상하며, 긴박한 야간 도심 속 교전 상황을 실제 인게임 엔진 그래픽으로 재현하도록 지시했습니다.",
+      "ai_prompt": "Actual in-game screenshot, exact original game engine rendering, completely identical to original art style, NO cinematic styling, NO illustration. A nighttime urban combat scene in PUBG's new Payday PvE mode. Four players wearing tactical gear and signature Payday masks are in a heated gunfight on a rain-slicked city street lit by neon signs. One player is taking cover behind a parked UAZ while others fire at armored security bots. Realistic Unreal Engine 4 lighting, gritty textures, and the standard PUBG 3rd-person perspective HUD including mini-map and squad status icons are visible to ensure it looks like a real gameplay capture."
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=052&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=052&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Shikhondo: Blue Pieta",
+        "releases.0.note": "A domestic bullet hell shooter released globally via Steam and STOVE on May 17, 15:00 UTC. It features an Oriental fantasy worldview and unique boss battles.",
+        "releases.0.dev": "DeerFarm",
+        "releases.1.game": "Marvel Cosmic Invasion",
+        "releases.1.note": "The first DLC for this 2D action beat 'em up was released on May 17, 15:00 UTC, with Cyclops and The Thing joining as new playable characters.",
+        "releases.1.dev": "Seba Games",
+        "releases.2.game": "It Reaches",
+        "releases.2.note": "A first-person survival horror game with a unique bodycam-style presentation, showcasing terror in a closed hospital upon its Steam release on May 17, 15:00 UTC.",
+        "releases.2.dev": "Emberflight Games",
+        "releases.3.game": "Forza Horizon 6",
+        "releases.3.note": "An open-world racing game officially releasing on May 18, 15:00 UTC. Set in Japan for the first time in the series, it offers an unprecedentedly large map and a realistic driving experience.",
+        "releases.3.dev": "Playground Games",
+        "releases.4.game": "Steam Marine Game Festival",
+        "releases.4.note": "A Steam themed sale starting May 18, 15:00 UTC before June's Next Fest, featuring discounts on ocean-themed games and the release of new demos.",
+        "releases.4.dev": "Valve",
+        "releases.5.game": "Project: Mist",
+        "releases.5.note": "An open-world survival horror game set on an unknown island inhabited by giant creatures, entering Steam Early Access on May 19, 15:00 UTC.",
+        "releases.5.dev": "Emberflight Games",
+        "events.0.name": "PlayX4 2026",
+        "events.0.note": "The largest convergence game show in the Seoul metropolitan area, featuring the first reveal of AirCap's new title 'Agatha' along with various indie game exhibitions and events.",
+        "events.0.venue": "KINTEX, Ilsan",
+        "events.1.name": "Honkai: Star Rail Ver. 4.3 'To the Living, to the Other Side' Special Program",
+        "events.1.note": "A developer live stream revealing detailed information and the story of the new update version.",
+        "events.1.venue": "Online (Official YouTube, CHZZK channels, etc.)"
+      },
+      "briefing": {
+        "items.0.title": "Announcement of National Esports Team Candidates for the Asian Games",
+        "items.0.source": "KeSPA (Korea e-Sports Association)",
+        "items.0.time": "May 17, 15:00 UTC",
+        "items.1.title": "Blue Archive Charity Run Recorded as Sold Out",
+        "items.1.source": "Inven",
+        "items.1.time": "May 17, 15:00 UTC",
+        "items.2.title": "Sony Decides to Return to Console Exclusivity for Single-Player Games",
+        "items.2.source": "IGN India",
+        "items.2.time": "May 17, 15:00 UTC",
+        "items.3.title": "PlayStation Plus Subscription Price Increase",
+        "items.3.source": "IGN India",
+        "items.3.time": "May 17, 15:00 UTC",
+        "items.4.title": "Capcom Achieves All-Time High Annual Game Sales",
+        "items.4.source": "4Gamer",
+        "items.4.time": "May 17, 15:00 UTC",
+        "items.5.title": "viviON Launches PC Game Cloud for Mobile",
+        "items.5.source": "Famitsu",
+        "items.5.time": "May 17, 15:00 UTC",
+        "items.6.title": "Steam Officially Adopts 'Bullet Heaven' as a Genre Name",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "May 17, 15:00 UTC"
+      },
+      "drk": {
+        "title": "Sony's 'Building Walls' vs. Capcom's 'Breaking Borders': A Crossroads in Platform Strategy",
+        "intro": "Sony's move to rebuild the walls of exclusivity and Capcom's soaring performance by breaking platform boundaries are in direct contrast. What impact will the closed strategy of subscription price hikes and strengthened exclusivity have on gamer sentiment?",
+        "points": "Recently, Sony announced a return to console exclusivity for single-player games and raised PS Plus fees, while Capcom showed a stark contrast by achieving record sales through a multi-platform strategy. Simultaneously, the emergence of blockbusters like 'Forza Horizon 6' and Steam's official adoption of the 'Bullet Heaven' genre suggest that market scaling and segmentation are accelerating at the same time. 📈\n\nSony's closed approach seeks to maximize short-term profits within its **platform structure**, but this carries a high risk of creating strong resistance among **consumers** who are sensitive to subscription fee increases. Conversely, Capcom's success proves how much an open strategy—breaking platform boundaries—can expand the **game consumption structure**, exposing the historical limitations of exclusivity tied to specific hardware. 🔗\n\nUltimately, the future of the gaming market will be driven not by platform barriers but by **'universal accessibility and overwhelming quality of content.'** One must not overlook that exclusivity, once a strategic asset, can become a shackle that hinders ecosystem expansion and encourages user churn. ✨\n\nWith cloud technology blurring hardware boundaries, how long can walls confined to specific platforms remain solid? It is time to calmly observe whether Sony can consistently prove its content is worth entering those walls, even at an increased entry price. 🧐"
+      },
+      "gamescene": {
+        "game": "PUBG: BATTLEGROUNDS",
+        "title": "Lawless Zone Under Neons: The Reality of a Payday Urban Heist",
+        "comment": "Imagining a future where PUBG expands beyond a simple battle royale into a cooperative heist genre, I instructed the reproduction of intense nighttime urban combat situations using actual in-game engine graphics."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "食魂徒：ブルー・ピエタ",
+        "releases.0.note": "5月18日にSteamとSTOVEを通じてグローバルリリースされた韓国産の弾幕シューティングゲームで、東洋的なファンタジー世界観と個性豊かなボス戦が特徴です。",
+        "releases.0.dev": "DeerFarm（ディアファーム）",
+        "releases.1.game": "マーベル・コスミック・インベージョン",
+        "releases.1.note": "2Dアクション・ベルトスクロールアクションゲームの最初のDLCが18日にリリースされ、新しいプレイアブルキャラクターとしてサイクロップスとザ・シングが新たに加わりました。",
+        "releases.1.dev": "Seba Games（セバ・ゲームズ）",
+        "releases.2.game": "It Reaches（イット・リーチズ）",
+        "releases.2.note": "ボディカム視点の独特な演出が際立つ一人称サバイバルホラーゲームで、18日のSteamリリースを通じて、閉鎖された病院での恐怖を披露しました。",
+        "releases.2.dev": "Emberlight Games（エンバーフライト・ゲームズ）",
+        "releases.3.game": "フォルツァ ホライゾン 6",
+        "releases.3.note": "5月19日に正式リリースされるオープンワールド・レーシングゲームで、シリーズで初めて日本を舞台にし、過去最大規模のマップとリアルなドライビング体験を提供します。",
+        "releases.3.dev": "Playground Games（プレイグラウンド・ゲームズ）",
+        "releases.4.game": "Steam 海フェス",
+        "releases.4.note": "6月の「Nextフェス」に先駆け、19日から開催されるSteamのテーマ別セールイベントで、海洋テーマのゲームの割引や新作デモの公開が行われます。",
+        "releases.4.dev": "Valve（バルブ）",
+        "releases.5.game": "Project: Mist（プロジェクト：ミスト）",
+        "releases.5.note": "巨大生物が徘徊する未知の島を舞台にしたオープンワールド・サバイバルホラーゲームで、5月20日にSteamでの早期アクセスを開始します。",
+        "releases.5.dev": "Emberlight Games（エンバーフライト・ゲームズ）",
+        "events.0.name": "PlayX4 2026（プレイエキスポ）",
+        "events.0.note": "首都圏最大規模の複合ゲームショーで、Aircapの新作『アガタ』の初公開や、多様なインディーゲームの展示・イベントが開催されます。",
+        "events.0.venue": "一山キンテックス（KINTEX）",
+        "events.1.name": "崩壊：スターレイル Ver.4.3「生者、彼岸へ渡りて」予告番組",
+        "events.1.note": "新規アップデートバージョンの詳細情報とストーリーを公開する開発者ライブ配信です。",
+        "events.1.venue": "公式YouTubeおよびCHZZKチャンネルなどのオンライン"
+      },
+      "briefing": {
+        "items.0.title": "アジア競技大会 eスポーツ代表候補発表",
+        "items.0.source": "韓国eスポーツ協会（KeSPA）",
+        "items.0.time": "5月18日",
+        "items.1.title": "ブルーアーカイブ 寄付ランニング完売を記録",
+        "items.1.source": "Inven（インベン）",
+        "items.1.time": "5月18日",
+        "items.2.title": "ソニー、シングルプレイ用ゲームのコンソール独占回帰方針",
+        "items.2.source": "IGN India",
+        "items.2.time": "5月18日",
+        "items.3.title": "PlayStation Plus 利用料金の値上げ",
+        "items.3.source": "IGN India",
+        "items.3.time": "5月18日",
+        "items.4.title": "カプコン、年間ゲーム販売本数が過去最高",
+        "items.4.source": "4Gamer",
+        "items.4.time": "5月18日",
+        "items.5.title": "viviON、モバイル向けPCゲームクラウド",
+        "items.5.source": "ファミ通",
+        "items.5.time": "5月18日",
+        "items.6.title": "Steam、「バレットヘブン」のジャンル名を公式採用",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "5月18日"
+      },
+      "drk": {
+        "title": "ソニーの「城壁作り」とカプコンの「境界崩し」、プラットフォーム戦略の分岐点",
+        "intro": "独占の城壁を再び築こうとするソニーと、プラットフォームの境界を崩しながら飛躍するカプコンの動きが真っ向から対立しています。有料サービスの価格改定と独占強化という閉鎖的な戦略が、ゲーマーの消費心理にどのような波紋を広げるのでしょうか？",
+        "points": "最近、ソニーがシングルプレイゲームのコンソール独占回帰方針を発表し、PS Plusの利用料金を値上げした一方で、カプコンはマルチプラットフォーム戦略を通じて過去最高の販売本数を達成し、鮮明なコントラストを見せました。同時に、『フォルツァ ホライゾン 6』のような大作の登場や、Steamによる『バレットヘブン』ジャンルの公式採用は、市場の大型化と細分化が同時に加速していることを示唆しています。📈\n\nソニーの閉鎖的な動きは、プラットフォーム構造内での短期的な収益最大化を図るものですが、これは購読料の値上げに敏感な消費者心理に強い抵抗線を形成するリスクが高いです。一方、カプコンの成功は、プラットフォームの境界を崩す開放型の戦略がゲーム消費構造をどれほど巨大に拡張できるかを証明しており、特定のハードウェアに従属した独占戦略が持つ時代的な限界を如実に露呈させています。🔗\n\n結局、未来のゲーム市場はプラットフォームの障壁ではなく、「コンテンツの普遍的なアクセシビリティと圧倒的な完成度」が成否を分ける核心的な原動力となるでしょう。独占という戦略的資産が、かえってエコシステムの拡張を阻み、ユーザー離れを加速させる足枷になり得ることを看過してはなりません。✨\n\nクラウド技術の発展によりハードウェアの境界が曖昧になりつつある今、特定のプラットフォームに閉じこもった城壁は、果たしていつまで堅固でいられるのでしょうか。高くなった入場料を支払ってでも、その城壁の中に入る価値があるコンテンツをソニーが継続的に証明できるかどうか、冷静に見守るべき時です。🧐"
+      },
+      "gamescene": {
+        "game": "PUBG: BATTLEGROUNDS",
+        "title": "ネオンの下で繰り広げられる無法地帯、ペイデイ風の都市ハイストの実体",
+        "comment": "PUBGが単なるバトルロイヤルを超え、協力型ハイストジャンルへと拡張された未来を想像し、緊迫した夜の都市部での交戦状況を実際のインゲームエンジングラフィックスで再現するよう指示しました。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "소니는 닫고 캡콤은 연다? 게임 생태계를 뒤흔드는 두 거물의 전략 차이 ⚔️",
+    "en": "Sony builds walls while Capcom tears them down: Where's gaming headed? 🎮",
+    "ja": "囲い込みのソニー、境界を壊すカプコン。ゲーム界の覇権を握る「極端な戦略」🛡️⚔️"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "요즘 소니랑 캡콤 분위기가 완전 딴판인 거 아시나요? ⚔️\n소니는 콘솔 독점으로 회귀하고, 캡콤은 경계를 허물며 역대 최고 판매량을 찍었네요!\nhttps://www.gtplayer.net/edition-052/\n#포르자호라이즌6 #게임소식 #GTPlayer",
+          "posted": true,
+          "data": {
+            "data": {
+              "edit_history_tweet_ids": [
+                "2056537851622559944"
+              ],
+              "text": "요즘 소니랑 캡콤 분위기가 완전 딴판인 거 아시나요? ⚔️\n소니는 콘솔 독점으로 회귀하고, 캡콤은 경계를 허물며 역대 최고 판매량을 찍었네요!\nhttps://t.co/NUtdTg7S7X\n#포르자호라이즌6 #게임소식 #GTPlayer",
+              "id": "2056537851622559944"
+            }
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-19T09:50:06.370616"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "5월 19일 오늘의 게임 소식 🎮 소니는 닫고, 캡콤은 연다?\n\n🏛️ 뉴스: 소니의 독점 회귀 & PS Plus 인상 소식부터 아시안게임 e스포츠 국대 후보 발표까지!\n📅 출시작: '포르자 호라이즌 6' 드디어 출격! 이번 주 꽉 찬 신작 캘린더와 스팀 축제 일정 확인\n⚔️ 인사이트: '성벽 쌓는' 소니 vs '경계 허무는' 캡콤, 극명하게 엇갈린 두 거물의 플랫폼 전략 분석\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요! \n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #GTPLAYER #지티플레이어 #게임덕후 #게임추천 #신작게임 #플스5 #PS5 #캡콤 #CAPCOM #포르자호라이즌6 #블루아카이브 #e스포츠 #스팀게임 #콘솔게임 #PC게임 #게임기사 #게임스타그램 #게이머 #게임인사이트",
+          "image_paths": [
+            "web\\instagram\\edition_052\\card_news.png",
+            "web\\instagram\\edition_052\\card_calendar.png",
+            "web\\instagram\\edition_052\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3900130677073540772_39332818166",
+            "url": "https://www.instagram.com/p/DYgDC_gknak/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-19T09:50:35.534637"
+    }
+  }
+}

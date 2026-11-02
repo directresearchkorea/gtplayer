@@ -1,0 +1,491 @@
+{
+  "num": "026",
+  "date": "2026-04-09",
+  "status": "published",
+  "schedule": {
+    "date": "2026-04-09",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "쿨로니쿠: 볼 업!",
+          "dev": "감비르 스튜디오",
+          "date": "4월 7일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "평화로운 마을에서 나만의 레스토랑을 운영하며 다양한 요리를 만드는 힐링 요리 시뮬레이션 게임이 Steam에 출시되었습니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/kuloniku-bowl-up/257836/video/kuloniku-bowl-up-official-launch-trailer",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "update",
+          "game": "스타필드",
+          "dev": "베데스다 게임 스튜디오",
+          "date": "4월 8일(수)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "신규 DLC '테란 아마다' 출시와 함께 대규모 업데이트 '프리레인'이 적용되었으며, PS5 버전이 정식 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1773824",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "노 맨즈 스카이",
+          "dev": "헬로 게임즈",
+          "date": "4월 8일(수)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "PS4",
+            "Xbox Series X/S",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "대규모 무료 업데이트 '제노 아레나'를 통해 외계 생물을 포획하고 육성하여 대전하는 우주판 포켓몬 시스템이 추가되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315217",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "소닉 럼블 파티",
+          "dev": "세가",
+          "date": "4월 8일(수)",
+          "platforms": [
+            "PC",
+            "iOS",
+            "Android"
+          ],
+          "color": "#10b981",
+          "note": "이상한 나라의 앨리스를 모티브로 한 신규 스테이지와 스킨이 등장하는 시즌 5 업데이트가 진행되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315215",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "초아로이 크래시",
+          "dev": "스타레아",
+          "date": "4월 8일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "레트로 SF 세계관을 배경으로 한 2D 횡스크롤 액션 로그라이크 게임으로, 화려한 콤보 액션을 특징으로 Steam 얼리 액세스를 시작했습니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202604/71187",
+          "source_name": "電撃オンライン"
+        },
+        {
+          "category": "event",
+          "game": "인빈시블 VS",
+          "dev": "스카이바운드 게임즈",
+          "date": "4월 9일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "인기 애니메이션 '인빈시블' IP를 기반으로 한 3대3 액션 격투 게임의 오픈 베타 테스트가 시작되었습니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/invincible-vs/257822/video/invincible-vs-official-open-beta-trailer",
+          "source_name": "IGN India"
+        }
+      ],
+      "events": [
+        {
+          "name": "몬길: STAR DIVE 출시 직전 생방송",
+          "note": "넷마블의 신작 '몬길: STAR DIVE'의 상세 정보 공개 및 성우들이 출연하는 공식 라이브 방송",
+          "venue": "온라인 (YouTube, X)",
+          "date": "2026-04-13",
+          "tag": "쇼케이스",
+          "website": "https://www.4gamer.net/games/857/G085718/20260408046/"
+        },
+        {
+          "name": "Women in Gaming UK",
+          "note": "IGN Entertainment와 Dentsu Gaming이 주관하는 영국 내 여성 게임인 대상 네트워킹 및 컨퍼런스 행사",
+          "venue": "오프라인 (영국)",
+          "date": "2026-04-17",
+          "tag": "오프라인 행사",
+          "website": "https://www.gamesindustry.biz/ign-entertainment-and-dentsu-gaming-announce-women-in-gaming-uk-event"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'포르자 호라이즌 6' 일본 전체 맵 공개",
+          "source": "IGN India",
+          "time": "4월 9일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/pokemon-champions/257844/video/forza-horizon-6s-full-japan-map-revealed-ign-daily-fix"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "전략 게임 '타운즈포크' 출시일 확정 발표",
+          "source": "IGN India",
+          "time": "4월 9일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/townsfolk/257830/video/townsfolk-official-release-date-announcement-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "3월 PS 스토어 '바이오하자드' 1위 등극",
+          "source": "4Gamer",
+          "time": "4월 8일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/085/G008540/20260408033/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'포켓몬 챔피언스' 스위치 버전 정식 출시",
+          "source": "4Gamer",
+          "time": "4월 8일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/886/G088682/20260408032/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "애플 앱스토어 외부결제 수수료 분쟁 재점화",
+          "source": "게임메카",
+          "time": "4월 9일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1773831"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'창세기전 모바일' 원스토어 매출 1위 달성",
+          "source": "게임메카",
+          "time": "4월 9일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1773827"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "소니, AI 기업 '시네머시브 랩스' 인수 발표",
+          "source": "GamesIndustry.biz",
+          "time": "4월 9일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/sony-to-acquire-ai-and-computer-vision-company-cinemersive-labs"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "테이크투, 구조조정 일환 AI 전담팀 해고",
+          "source": "GamesIndustry.biz",
+          "time": "4월 9일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/take-two-interactive-reportedly-lays-off-ai-team"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": [],
+      "items": [
+        {
+          "game": "AION2",
+          "period": "최근 30일",
+          "count": "7,224",
+          "sources": "커뮤니티",
+          "score": "2.7",
+          "pos": 5,
+          "neu": 73,
+          "neg": 22,
+          "keywords": [
+            {
+              "text": "Class Mention",
+              "positive": true
+            },
+            {
+              "text": "Dungeon / Raid Discussion",
+              "positive": true
+            },
+            {
+              "text": "DPS Comparison",
+              "positive": true
+            },
+            {
+              "text": "Buff/Nerf Debate",
+              "positive": true
+            },
+            {
+              "text": "Build Meta",
+              "positive": true
+            }
+          ],
+          "comments": [
+            {
+              "text": "특정 장비 밸런스 붕괴와 심각한 종족 불균형 때문에 너무 힘들어요.",
+              "positive": false
+            },
+            {
+              "text": "겉으로만 보상을 늘리고 획득 확률을 깎는 운영은 정말 실망스러워요.",
+              "positive": false
+            },
+            {
+              "text": "그래도 자동 추출 기능 추가와 계승 시스템 개선은 마음에 들어요.",
+              "positive": true
+            }
+          ]
+        }
+      ]
+    },
+    "drk": {
+      "enabled": true,
+      "title": "독점의 종말과 IP 생존을 위한 플랫폼 경계의 붕괴",
+      "intro": "엑스박스의 함선이 PS5 항구에 정박하며 콘솔 독점의 시대가 저물고 있습니다. \n이제 게임 산업은 '어디서' 플레이하느냐보다 '어떻게' 살아남느냐의 싸움으로 변모했습니다. 🚀",
+      "points": "스타필드의 PS5 출시와 노 맨즈 스카이의 파격적인 장르 융합형 업데이트는 대작 게임들이 출시 후에도 끊임없이 진화하며 플랫폼의 경계를 허물고 있음을 보여줍니다. 동시에 소니의 AI 기업 인수와 테이크투의 AI 팀 구조조정은 개발 효율성을 확보하려는 업계의 상반되지만 치열한 계산을 방증합니다. 📉\n\n이러한 흐름은 **플랫폼 구조**와 **소비자 심리**에 근본적인 변화를 일으키고 있습니다. 게이머들은 더 이상 특정 하드웨어에 종속되지 않는 유연한 소비를 지향하며, 개발사들은 고비용 IP의 수익성을 극대화하기 위해 '독점'이라는 상징성 대신 '멀티플랫폼 확장'이라는 실리를 선택할 수밖에 없는 환경에 놓였습니다. 🎮\n\n결국 게임 산업의 핵심은 하드웨어 점유율 싸움에서 **'콘텐츠의 지속 가능한 생명력'** 확보로 완전히 이동했습니다. 초기 판매량보다 중요한 것은 지속적인 콘텐츠 변주와 플랫폼 확장을 통해 유저를 얼마나 오래, 그리고 넓게 붙잡아둘 수 있느냐는 생존 전략입니다. 💎\n\n플랫폼 간의 벽이 낮아지고 AI가 개발 공정을 재편하는 대전환기 속에서 '독점작'이라는 단어는 점차 박물관으로 향하고 있습니다. 과연 미래의 게이머들에게 하드웨어 브랜드는 어떤 의미로 남게 될까요? 이제 우리는 브랜드의 자존심보다 콘텐츠 자체의 생명력에 더 주목해야 합니다. ❓"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": true,
+      "title": "Invincible VS - Open Beta Trailer | PS5 Games",
+      "channel": "PlayStation",
+      "videoId": "QmEvW2bUoO0",
+      "url": "https://www.youtube.com/watch?v=QmEvW2bUoO0",
+      "thumbnail": "https://i.ytimg.com/vi/QmEvW2bUoO0/hqdefault.jpg",
+      "comment": "전 세계적인 인기를 끌고 있는 슈퍼히어로 IP를 기반으로 한 신작 '인빈시블 VS(Invincible VS)'가 드디어 베일을 벗었습니다. 🦸‍♂️✨ 이번 트레일러에서는 PS5 플랫폼에서 즐길 수 있는 박진감 넘치는 액션과 더불어 곧 시작될 오픈 베타 소식을 확인할 수 있습니다. 🎮🔥 영상 속 화려한 전투 연출을 감상하며 전 우주를 무대로 한 히어로들의 대결을 미리 준비해 보세요! 🥊🚀",
+      "search_query": "Invincible VS Official Gameplay Trailer",
+      "ai_game_name": "인빈시블 VS",
+      "ai_reason": "글로벌 인기 IP '인빈시블'의 히어로들이 펼치는 압도적인 3대3 액션을 감상할 수 있습니다. 오픈 베타 시작과 함께 공개된 캐릭터들의 시그니처 무브와 강렬한 타격감이 담긴 공식 영상이 이번 주 가장 핫한 볼거리입니다."
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=026&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=026&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Starfield",
+        "releases.0.note": "With the release of the new DLC 'Terran Armada', the massive 'Free Reign' update has been applied, and the PS5 version has been officially launched.",
+        "releases.0.dev": "Bethesda Game Studios",
+        "releases.1.game": "No Man's Sky",
+        "releases.1.note": "The massive free update 'Xeno Arena' has introduced a space-themed 'Pokemon' system where players can capture, raise, and battle alien creatures.",
+        "releases.1.dev": "Hello Games",
+        "releases.2.game": "Sonic Rumble Party",
+        "releases.2.note": "The Season 5 update has been released, featuring new stages and skins inspired by Alice in Wonderland.",
+        "releases.2.dev": "SEGA",
+        "releases.3.game": "Invincible VS",
+        "releases.3.note": "The open beta test for the 3v3 action fighting game based on the popular animation IP 'Invincible' has begun.",
+        "releases.3.dev": "Skybound Games",
+        "releases.4.game": "Kuloniku: Ball Up!",
+        "releases.4.note": "A cozy cooking simulation game where you run your own restaurant in a peaceful village and create various dishes has been released on Steam.",
+        "releases.4.dev": "Gambir Studio",
+        "releases.5.game": "Choroie Crash",
+        "releases.5.note": "A 2D side-scrolling action roguelike set in a retro sci-fi world, featuring flashy combo action, has launched in Steam Early Access.",
+        "releases.5.dev": "Starea",
+        "events.0.name": "Monster Taming: STAR DIVE Pre-launch Live Broadcast",
+        "events.0.note": "An official live broadcast featuring the voice actors and revealing detailed information about Netmarble's new title 'Monster Taming: STAR DIVE'.",
+        "events.0.venue": "Online (YouTube, X)",
+        "events.1.name": "Women in Gaming UK",
+        "events.1.note": "A networking and conference event for women in the UK gaming industry, hosted by IGN Entertainment and Dentsu Gaming.",
+        "events.1.venue": "Offline (UK)"
+      },
+      "briefing": {
+        "items.0.title": "Full map of 'Forza Horizon 6' Japan revealed",
+        "items.0.source": "IGN India",
+        "items.0.time": "April 9",
+        "items.1.title": "Release date confirmed for strategy game 'Townspoke'",
+        "items.1.source": "IGN India",
+        "items.1.time": "April 9",
+        "items.2.title": "'Resident Evil' takes #1 spot on March PS Store",
+        "items.2.source": "4Gamer",
+        "items.2.time": "April 8",
+        "items.3.title": "'Pokémon Champions' officially released for Switch",
+        "items.3.source": "4Gamer",
+        "items.3.time": "April 8",
+        "items.4.title": "Apple App Store external payment fee dispute reignites",
+        "items.4.source": "Gamemeca",
+        "items.4.time": "April 9",
+        "items.5.title": "'The War of Genesis Mobile' reaches #1 in One Store sales",
+        "items.5.source": "Gamemeca",
+        "items.5.time": "April 9",
+        "items.6.title": "Sony announces acquisition of AI company 'Cinemmersive Labs'",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "April 9",
+        "items.7.title": "Take-Two lays off AI dedicated team as part of restructuring",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "April 9"
+      },
+      "feedback": {
+        "items.0.game": "AION2",
+        "items.0.period": "Last 30 Days",
+        "items.0.keywords.0.text": "Class Mention",
+        "items.0.keywords.1.text": "Dungeon / Raid Discussion",
+        "items.0.keywords.2.text": "DPS Comparison",
+        "items.0.keywords.3.text": "Buff/Nerf Debate",
+        "items.0.keywords.4.text": "Build Meta",
+        "items.0.comments.0.text": "It's so hard because of certain gear balance issues and severe faction imbalance.",
+        "items.0.comments.1.text": "It's really disappointing to see management increasing superficial rewards while cutting the actual drop rates.",
+        "items.0.comments.2.text": "However, I do like the addition of the auto-extraction feature and the improvements to the inheritance system."
+      },
+      "drk": {
+        "title": "The End of Exclusivity and the Collapse of Platform Boundaries for IP Survival",
+        "intro": "As Xbox ships dock at PS5 ports, the era of console exclusivity is coming to an end. The gaming industry has now transformed into a battle of 'how to survive' rather than 'where to play.' 🚀",
+        "points": "The release of Starfield on PS5 and the unconventional genre-blending update of No Man's Sky demonstrate how blockbuster games are constantly evolving after launch, breaking down platform barriers. Simultaneously, Sony's acquisition of an AI company and Take-Two's restructuring of its AI team reflect the industry's conflicting yet intense calculations to secure development efficiency. 📉\n\nThis trend is causing fundamental changes in **platform structures** and **consumer psychology**. Gamers no longer seek consumption tied to specific hardware, and developers are placed in an environment where they have no choice but to choose the practical benefit of 'multi-platform expansion' over the symbolism of 'exclusivity' to maximize the profitability of high-cost IPs. 🎮\n\nUltimately, the core of the gaming industry has completely shifted from a battle for hardware market share to securing **'the sustainable vitality of content.'** What is more important than initial sales figures is the survival strategy of how long and how wide a developer can retain users through continuous content variations and platform expansions. 💎\n\nIn this era of transition where walls between platforms are lowering and AI is reshaping the development process, the term 'exclusive title' is gradually heading toward the museum. What will hardware brands mean to the gamers of the future? We must now pay more attention to the vitality of the content itself rather than the pride of the brand. ❓"
+      },
+      "trailer": {
+        "title": "Invincible VS - Open Beta Trailer | PS5 Games",
+        "comment": "The veil has finally been lifted on 'Invincible VS', a new title based on the globally popular superhero IP. 🦸‍♂️✨ This trailer reveals the pulse-pounding action available on the PS5 platform, along with news of the upcoming open beta. 🎮🔥 Enjoy the spectacular combat sequences in the video and prepare for a showdown of heroes across the universe! 🥊🚀"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "スターフィールド",
+        "releases.0.note": "新規DLC「テラン・アルマダ」のリリースとともに、大規模アップデート「フリーレイン」が適用され、PS5版が正式に発売されました。",
+        "releases.0.dev": "ベセスダ・ゲーム・スタジオ",
+        "releases.1.game": "No Man's Sky",
+        "releases.1.note": "大規模無料アップデート「ゼノ・アリーナ」を通じて、異星生物を捕獲・育成して対戦させる宇宙版ポケモンシステムが追加されました。",
+        "releases.1.dev": "ハロー・ゲームズ",
+        "releases.2.game": "ソニック・ランブル",
+        "releases.2.note": "「不思議の国のアリス」をモチーフにした新規ステージとスキンが登場する、シーズン5アップデートが実施されました。",
+        "releases.2.dev": "セガ",
+        "releases.3.game": "インビンシブル VS",
+        "releases.3.note": "人気アニメ『インビンシブル』のIPをベースにした3対3アクション格闘ゲームのオープンベータテストが開始されました。",
+        "releases.3.dev": "スカイバウンド・ゲームズ",
+        "releases.4.game": "クーロニク：ボウル・アップ！",
+        "releases.4.note": "平和な村で自分だけのレストランを経営し、様々な料理を作る癒やし系料理シミュレーションゲームがSteamで発売されました。",
+        "releases.4.dev": "ガンビル・スタジオ",
+        "releases.5.game": "チョアロイ・クラッシュ",
+        "releases.5.note": "レトロSFの世界観を背景にした2D横スクロールアクション・ローグライクゲームで、華麗なコンボアクションを特徴にSteam早期アクセスを開始しました。",
+        "releases.5.dev": "スターレア",
+        "events.0.name": "モンギル：STAR DIVE リリース直前生放送",
+        "events.0.note": "ネットマーブルの新作「モンギル：STAR DIVE」の詳細情報公開および、声優陣が出演する公式ライブ放送。",
+        "events.0.venue": "オンライン (YouTube, X)",
+        "events.1.name": "Women in Gaming UK",
+        "events.1.note": "IGN EntertainmentとDentsu Gamingが主催する、英国内の女性ゲーム関係者を対象としたネットワーキングおよびカンファレンスイベント。",
+        "events.1.venue": "オフライン (イギリス)"
+      },
+      "briefing": {
+        "items.0.title": "「フォルツァ ホライゾン 6」日本全マップ公開",
+        "items.0.source": "IGN India",
+        "items.0.time": "4月9日",
+        "items.1.title": "戦略ゲーム「タウンズフォーク」発売日確定発表",
+        "items.1.source": "IGN India",
+        "items.1.time": "4月9日",
+        "items.2.title": "3月のPSストアで「バイオハザード」が1位にランクイン",
+        "items.2.source": "4Gamer",
+        "items.2.time": "4月8日",
+        "items.3.title": "「ポケモン・チャンピオンズ」Switch版が正式リリース",
+        "items.3.source": "4Gamer",
+        "items.3.time": "4月8日",
+        "items.4.title": "Apple App Storeの外部決済手数料紛争が再燃",
+        "items.4.source": "ゲームメッカ",
+        "items.4.time": "4月9日",
+        "items.5.title": "「創世記戦モバイル」ONE store売上1位を達成",
+        "items.5.source": "ゲームメッカ",
+        "items.5.time": "4月9日",
+        "items.6.title": "ソニー、AI企業「シネマッシブ・ラボ」の買収を発表",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "4月9日",
+        "items.7.title": "テイクツー、構造調整の一環としてAI専門チームを解雇",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "4月9日"
+      },
+      "feedback": {
+        "items.0.game": "AION2",
+        "items.0.period": "直近30日間",
+        "items.0.keywords.0.text": "Class Mention",
+        "items.0.keywords.1.text": "Dungeon / Raid Discussion",
+        "items.0.keywords.2.text": "DPS Comparison",
+        "items.0.keywords.3.text": "Buff/Nerf Debate",
+        "items.0.keywords.4.text": "Build Meta",
+        "items.0.comments.0.text": "特定装備のバランス崩壊と深刻な種族間の不均衡のせいで、とても辛いです。",
+        "items.0.comments.1.text": "表向きは報酬を増やしながら獲得確率を削るような運営には、本当に失望しています。",
+        "items.0.comments.2.text": "それでも、自動抽出機能の追加と継承システムの改善は気に入っています。"
+      },
+      "drk": {
+        "title": "独占の終焉とIP生存のためのプラットフォーム境界の崩壊",
+        "intro": "Xboxの艦船がPS5の港に停泊し、コンソール独占の時代が幕を閉じようとしています。今やゲーム業界は「どこで」プレイするかよりも「いかに」生き残るかの戦いへと変貌しました。🚀",
+        "points": "スターフィールドのPS5リリースや、ノー・マンズ・スカイの破格的なジャンル融合型アップデートは、大作ゲームが発売後も絶えず進化し続け、プラットフォームの境界を崩していることを示しています。同時に、ソニーによるAI企業の買収やテイクツーのAIチーム構造調整は、開発効率を確保しようとする業界の、相反しながらも熾烈な計算を裏付けています。📉\n\nこのような流れは、**プラットフォーム構造**と**消費者心理**に根本的な変化をもたらしています。ゲーマーはもはや特定のハードウェアに縛られない柔軟な消費を目指しており、開発会社は高コストIPの収益性を最大化するため、「独占」という象徴性の代わりに「マルチプラットフォーム展開」という実利を選択せざるを得ない環境に置かれています。🎮\n\n結局、ゲーム産業の核心はハードウェアのシェア争いから**「コンテンツの持続可能な生命力」**の確保へと完全に移行しました。初期販売数よりも重要なのは、継続的なコンテンツの変奏とプラットフォーム拡張を通じて、ユーザーをどれだけ長く、そして広く繋ぎ止めておけるかという生存戦略です。💎\n\nプラットフォーム間の壁が低くなり、AIが開発工程を再編する大転換期の中で、「独占作」という言葉は次第に博物館へと向かっています。果たして未来のゲーマーにとって、ハードウェアブランドはどのような意味を持つことになるのでしょうか？ 今、私たちはブランドのプライドよりも、コンテンツ自体の生命力にさらに注目すべきです。❓"
+      },
+      "trailer": {
+        "title": "Invincible VS - Open Beta Trailer | PS5 Games",
+        "comment": "世界的な人気を誇るスーパーヒーローIPをベースにした新作『インビンシブル VS (Invincible VS)』がついにベールを脱ぎました。🦸‍♂️✨ 今回のトレーラーでは、PS5プラットフォームで楽しめる迫力満点のアクションに加え、まもなく開始されるオープンベータのニュースを確認できます。🎮🔥 映像の中の華麗な戦闘演出を楽しみながら、全宇宙を舞台にしたヒーローたちの対決をあらかじめ準備しましょう！ 🥊🚀"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "독점작의 시대는 끝났다? 무너지는 장벽 📉 (feat. 인빈시블 VS 오픈 베타)",
+    "en": "The Death of Exclusives? 📉 (Plus: Invincible VS Open Beta Trailer Inside)",
+    "ja": "「独占タイトル」の終焉？崩れるプラットフォームの壁 📉 (Invincible VS βテスト情報)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ]
+}

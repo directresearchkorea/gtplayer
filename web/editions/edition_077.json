@@ -1,0 +1,426 @@
+{
+  "num": "077",
+  "date": "2026-07-08",
+  "status": "published",
+  "schedule": {
+    "date": "2026-07-08",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "문라이트 피크 (Moonlight Peaks)",
+          "dev": "리틀 치킨 게임스",
+          "date": "7월 7일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "7월 7일 PC 스팀으로 정식 출시된 뱀파이어 라이프 시뮬레이션 게임으로, 마법 마을에서 농사를 짓고 초자연적인 이웃 주민들과 교류하는 독특한 일상을 담고 있습니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/987/G098736/20260707049/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "어보브 더 선 (Above the Sun)",
+          "dev": "인디 개발사",
+          "date": "7월 8일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "7월 8일 스팀으로 정식 출시되는 클라이밍 액션 게임으로, 무작위로 생성되는 발판을 딛고 차오르는 산성 물질을 피해 위로 탈출하는 긴장감 넘치는 플레이를 선사합니다.",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202607/80305",
+          "source_name": "Famitsu"
+        },
+        {
+          "category": "update",
+          "game": "카오스 제로 나이트메어",
+          "dev": "슈퍼크리에이티브",
+          "date": "7월 8일(수)",
+          "platforms": [
+            "모바일"
+          ],
+          "color": "#3b82f6",
+          "note": "7월 8일 진행되는 시즌4 프리 시즌 업데이트를 통해 1막 스토리를 전면 개편하고, 함장의 역할 및 전투 능력을 대폭 강화합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318215",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "그랑블루 판타지: 리링크 - 엔드리스 라그나로크",
+          "dev": "사이게임즈",
+          "date": "7월 9일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "PS4"
+          ],
+          "color": "#3b82f6",
+          "note": "7월 9일 출시되는 대형 확장팩으로, 신규 난이도 'CHAOS'와 로그라이크 방식의 파밍 콘텐츠 '극돈공소', 그리고 6종의 신규 캐릭터가 새롭게 추가됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=317906",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "에코즈 오브 아인크라드 (Echoes of Aincrad)",
+          "dev": "반다이 남코 엔터테인먼트",
+          "date": "7월 10일(금)",
+          "platforms": [
+            "PS5",
+            "PS4"
+          ],
+          "color": "#10b981",
+          "note": "7월 10일 정식 출시되는 소드 아트 온라인 IP 기반의 신작 RPG로, 원작의 아인크라드를 배경으로 펼쳐지는 모험을 다룹니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/985/G098507/20260707037/",
+          "source_name": "4Gamer"
+        }
+      ],
+      "events": [
+        {
+          "name": "2026 스쿨리그 출정식",
+          "note": "전국 14개 학교가 참여하는 e스포츠 대회 '2026 스쿨리그'의 공식 출정식",
+          "venue": "대전e스포츠경기장",
+          "date": "2026-07-11",
+          "tag": "e스포츠",
+          "website": "https://www.gamemeca.com/view.php?gid=1777478"
+        },
+        {
+          "name": "게임스컴 2026 (Gamescom 2026)",
+          "note": "펄어비스가 삼성전자와 공동 부스로 참가해 '붉은사막'을 선보이는 글로벌 최대 게임쇼",
+          "venue": "독일 쾰른",
+          "date": "2026-08-26 ~ 2026-08-30",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=318211"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "넥슨, '던전앤파이터 키우기' 상표권 출원",
+          "source": "인벤",
+          "time": "7월 7일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318196"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "펄어비스, 붉은사막 스위치2 준비 및 도깨비 목표 공개",
+          "source": "인벤",
+          "time": "7월 7일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318214"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "마블 라이벌즈, 신규 캐릭터 '쥬빌리' 공개",
+          "source": "IGN India",
+          "time": "7월 7일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/marvel-rivals/265654/marvel-rivals-official-jubilee-the-explosive-firecracker-character-reveal-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "어쌔신 크리드 4 리메이크 예판, 스컬앤본즈 초과",
+          "source": "IGN India",
+          "time": "7월 7일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/assassins-creed-black-flag-resynced/265629/assassins-creed-black-flag-resynced-steam-pre-orders-have-already-beaten-skull-bones-lifetime-sales"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "AI 모델 활용한 'C&C 제너럴' iOS 이식 성공",
+          "source": "4Gamer",
+          "time": "7월 7일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/991/G999101/20260707033/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "협동 시뮬레이션 '나이트시프트 호스피탈' 발표",
+          "source": "4Gamer",
+          "time": "7월 7일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/023/G102325/20260707042/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "라이엇 게임즈, LoL e스포츠 자생력 확보 임박",
+          "source": "GamesIndustry.biz",
+          "time": "7월 7일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/we-can-break-even-and-be-self-sustaining-within-riot-the-firm-behind-league-of-legends-is-super-close-to-making-esports-sustainable"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "유럽서 오리지널 닌텐도 스위치 2027년 단종 예정",
+          "source": "GamesIndustry.biz",
+          "time": "7월 7일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/original-switch-console-lineup-to-be-discontinued-in-europe-by-mid-february-2027"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "IP의 무게를 덜어내는 대기업들, '키우기' 열풍이 남긴 과제",
+      "intro": "웅장한 액션을 자랑하던 메가 IP '던전앤파이터'마저 방치형 게임 시장의 문을 두드립니다.\n대형 게임사들이 앞다투어 무거운 옷을 벗고 초경량화에 집중하는 진짜 이유는 무엇일까요?",
+      "points": "넥슨이 최근 '던전앤파이터 키우기' 상표권을 출원하며 자사 대표 IP의 방치형 장르 진출을 예고했습니다. 이는 최근 모바일 시장을 휩쓴 방치형 RPG 열풍에 시장을 선도하는 대형 게임사까지 본격적으로 가세했음을 보여주는 상징적인 장면입니다. 📈\n\n이러한 현상은 글로벌 유저들의 **게임 소비 구조**가 무거운 몰입형 플레이에서 일상 밀착형 서브 플레이로 이동하고 있음을 보여줍니다. 거대 자본이 투입되는 대작 개발의 리스크를 줄이면서 검증된 IP의 친숙함을 무기로 유저를 확보하려는 전략은, 실제 게임 형태의 극단적인 캐주얼화와 모바일 플랫폼 내 효율적 비즈니스 모델(BM) 구축으로 이어지고 있습니다. 📱\n\n결국 앞으로의 모바일 시장에서는 **화려한 기술력의 과시보다 유저의 일상 속 파편화된 시간을 누가 더 영리하게 점유하느냐가 핵심 생존 전략**이 될 것입니다. 대형 IP의 인지도에만 기댄 안일한 기획은 유저들의 빠른 피로감을 유발해 시장에서 외면받을 위험이 큽니다. 💡\n\n원작 고유의 매력을 잃지 않으면서도 가벼운 재미를 전달하는 최적의 밸런스를 찾을 수 있을까요? 메가 IP의 경량화 흐름이 시장의 질적 진화를 이끌어낼 수 있을지 지켜보아야 할 시점입니다. 🤔"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": true,
+      "title": "Granblue Fantasy: Relink - Endless Ragnarok | VS Blizzadile Theme",
+      "channel": "Finding Purposes",
+      "videoId": "iUDnElcF9GM",
+      "url": "https://www.youtube.com/watch?v=iUDnElcF9GM",
+      "thumbnail": "https://i.ytimg.com/vi/iUDnElcF9GM/hqdefault.jpg",
+      "comment": "수요일 퇴근길, 보스전의 짜릿한 전율을 전하고자 《그랑블루 판타지: 리링크》의 'Endless Ragnarok'을 가져왔어요! 🧊 얼음 맹수 블리자딜과의 치열한 사투를 웅장한 오케스트라로 담아낸 곡입니다. 오늘 하루를 마무리하며 모험심 가득한 웅장함을 느껴보세요! ⚔️",
+      "search_query": "Granblue Fantasy Relink Endless Ragnarok Official Soundtrack",
+      "ai_game_name": "그랑블루 판타지: 리링크 - 엔드리스 라그나로크",
+      "ai_reason": "웅장한 오케스트라와 강렬한 락 사운드로 명성이 높은 그랑블루 판타지의 초대형 업데이트 기념 트랙입니다. 지난주 추천곡의 청량한 제이팝 분위기와 대비되는, 심장을 뛰게 하는 격정적이고 서사시적인 보스 전투 테마를 감상할 수 있습니다."
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Moonlight Peaks",
+        "releases.0.note": "A vampire life simulation game officially released on PC Steam on July 7, featuring a unique daily life of farming in a magical town and interacting with supernatural neighbors.",
+        "releases.0.dev": "Little Chicken Games",
+        "releases.1.game": "Above the Sun",
+        "releases.1.note": "A climbing action game officially releasing on Steam on July 8, offering a tense gameplay experience where players step on randomly generated platforms to escape upward from rising acid.",
+        "releases.1.dev": "Indie Developer",
+        "releases.2.game": "Chaos Zero Nightmare",
+        "releases.2.note": "Through the Season 4 Pre-season update on July 8, the Act 1 story will be completely revamped, and the Captain's role and combat capabilities will be significantly enhanced.",
+        "releases.2.dev": "Super Creative",
+        "releases.3.game": "Granblue Fantasy: Relink - Endless Ragnarok",
+        "releases.3.note": "A major expansion releasing on July 9, introducing the new 'CHAOS' difficulty level, the roguelike farming content 'Geukdongongso', and six new characters.",
+        "releases.3.dev": "Cygames",
+        "releases.4.game": "Echoes of Aincrad",
+        "releases.4.note": "A new RPG based on the Sword Art Online IP, officially releasing on July 10, depicting adventures set in the original series' Aincrad.",
+        "releases.4.dev": "Bandai Namco Entertainment",
+        "events.0.name": "2026 School League Launch Ceremony",
+        "events.0.note": "The official launch ceremony of the '2026 School League,' an esports tournament featuring 14 schools from across the country",
+        "events.0.venue": "Daejeon Esports Arena",
+        "events.1.name": "Gamescom 2026",
+        "events.1.note": "The world's largest game show where Pearl Abyss will participate with a joint booth with Samsung Electronics to showcase 'Crimson Desert'",
+        "events.1.venue": "Cologne, Germany"
+      },
+      "briefing": {
+        "items.0.title": "Nexon Files Trademark for 'Dungeon & Fighter Idle'",
+        "items.0.source": "Inven",
+        "items.0.time": "July 7",
+        "items.1.title": "Pearl Abyss Reveals Preparation of Crimson Desert for Switch 2 and Goals for DokeV",
+        "items.1.source": "Inven",
+        "items.1.time": "July 7",
+        "items.2.title": "Marvel Rivals Reveals New Character 'Jubilee'",
+        "items.2.source": "IGN India",
+        "items.2.time": "July 7",
+        "items.3.title": "Assassin's Creed IV Remake Pre-orders Exceed Skull and Bones",
+        "items.3.source": "IGN India",
+        "items.3.time": "July 7",
+        "items.4.title": "Successful iOS Port of 'C&C Generals' Using AI Models",
+        "items.4.source": "4Gamer",
+        "items.4.time": "July 7",
+        "items.5.title": "Co-op Simulation 'Nightshift Hospital' Announced",
+        "items.5.source": "4Gamer",
+        "items.5.time": "July 7",
+        "items.6.title": "Riot Games Nears Sustainability for LoL Esports",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "July 7",
+        "items.7.title": "Original Nintendo Switch Scheduled to Be Discontinued in Europe by 2027",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "July 7"
+      },
+      "drk": {
+        "title": "Big Companies Shedding the Weight of IPs: The Challenges Left by the 'Idle' Craze",
+        "intro": "Even 'Dungeon & Fighter,' a mega IP known for its grand action, is knocking on the doors of the idle game market.\nWhat is the real reason why major gaming companies are rushing to shed their heavy garments and focus on ultra-lightweight games?",
+        "points": "Nexon recently filed a trademark for 'Dungeon & Fighter Idle,' signaling the entry of its flagship IP into the idle genre. This is a symbolic scene showing that even market-leading major game developers are now fully joining the idle RPG craze that has recently swept the mobile market. 📈\n\nThis phenomenon illustrates that global users' **game consumption structure** is shifting from heavy, immersive play to daily, closely integrated sub-play. The strategy of reducing the risk of developing big-budget blockbusters while securing users through the familiarity of proven IPs is leading to the extreme casualization of actual game forms and the establishment of efficient business models (BM) within mobile platforms. 📱\n\nUltimately, in the future mobile market, **the key survival strategy will be who can more smartly occupy the fragmented moments of users' daily lives, rather than showing off flashy technology**. Complacent planning that relies solely on the recognition of big IPs carries a high risk of causing rapid user fatigue and being shunned by the market. 💡\n\nCan they find the optimal balance of delivering lightweight fun without losing the original's unique appeal? Now is the time to watch whether this lightweight trend of mega IPs can lead to the qualitative evolution of the market. 🤔"
+      },
+      "soundtrack": {
+        "title": "Granblue Fantasy: Relink - Endless Ragnarok | VS Blizzadile Theme",
+        "comment": "To deliver the thrilling excitement of a boss battle on your Wednesday commute home, I've brought 'Endless Ragnarok' from 《Granblue Fantasy: Relink》! 🧊 This track captures the fierce struggle against the icy beast Blizzadile in a grand orchestral arrangement. Feel the sense of adventure and grandeur as you wrap up your day! ⚔️"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ムーンライト・ピークス (Moonlight Peaks)",
+        "releases.0.note": "7月7日にPC（Steam）で正式リリースされたヴァンパイア・ライフシミュレーションゲームで、魔法の町で農業を営み、超自然的な隣人たちと交流するユニークな日常を描いています。",
+        "releases.0.dev": "リトル・チキン・ゲームズ",
+        "releases.1.game": "アバブ・ザ・サン (Above the Sun)",
+        "releases.1.note": "7月8日にSteamで正式リリースされるクライミングアクションゲームで、ランダムに生成される足場を踏み、迫り来る酸性物質を避けて上へと脱出する緊張感あふれるプレイをお届けします。",
+        "releases.1.dev": "インディー開発元",
+        "releases.2.game": "カオス・ゼロ・ナイトメア",
+        "releases.2.note": "7月8日に実施されるシーズン4プレシーズンアップデートを通じて、第1幕のストーリーを全面的に改編し、艦長の役割および戦闘能力を大幅に強化します。",
+        "releases.2.dev": "スーパークリエイティブ",
+        "releases.3.game": "グランブルーファンタジー リリンク - エンドレス・ラグナロク",
+        "releases.3.note": "7月9日にリリースされる大型拡張パックで、新規難易度「CHAOS」やローグライク方式のファーミングコンテンツ「極混沌公所」、そして6体の新規キャラクターが新たに追加されます。",
+        "releases.3.dev": "サイゲームズ",
+        "releases.4.game": "エコーズ・オブ・アインクラッド (Echoes of Aincrad)",
+        "releases.4.note": "7月10日に正式リリースされる『ソードアート・オンライン』のIPをベースにした新作RPGで、原作のアインクラッドを舞台に繰り広げられる冒険を描いています。",
+        "releases.4.dev": "バンダイナムコエンターテインメント",
+        "events.0.name": "2026 スクールリーグ出陣式",
+        "events.0.note": "全国14校が参加するeスポーツ大会「2026 スクールリーグ」の公式出陣式",
+        "events.0.venue": "大田（テジョン）eスポーツ競技場",
+        "events.1.name": "gamescom 2026（ゲームズコム 2026）",
+        "events.1.note": "パールアビスがサムスン電子と共同ブースで参加し、『紅の砂漠』を披露する世界最大のゲームショー",
+        "events.1.venue": "ドイツ・ケルン"
+      },
+      "briefing": {
+        "items.0.title": "ネクスン、『アラド戦記 放置型』の商標権を出願",
+        "items.0.source": "INVEN",
+        "items.0.time": "7月7일",
+        "items.1.title": "パールアビス、『紅の砂漠』Switch 2の準備および『ドケビ（DokeV）』の目標を公開",
+        "items.1.source": "INVEN",
+        "items.1.time": "7月7일",
+        "items.2.title": "『マーベル・ライバルズ』、新キャラクター「ジュビリー」を公開",
+        "items.2.source": "IGN India",
+        "items.2.time": "7月7일",
+        "items.3.title": "『アサシン クリード4』リメイクの予約数が『スカル アンド ボーンズ』を上回る",
+        "items.3.source": "IGN India",
+        "items.3.time": "7月7일",
+        "items.4.title": "AIモデルを活用した『C&C ジェネラルズ』のiOS移植に成功",
+        "items.4.source": "4Gamer",
+        "items.4.time": "7月7일",
+        "items.5.title": "協力型シミュレーション『ナイトシフト・ホスピタル』発表",
+        "items.5.source": "4Gamer",
+        "items.5.time": "7月7일",
+        "items.6.title": "ライアットゲームズ、LoL eスポーツの自立性確保が目前に",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "7月7일",
+        "items.7.title": "欧州で初代Nintendo Switchが2027年に生産終了予定",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "7月7일"
+      },
+      "drk": {
+        "title": "IPの重みを減らす大企業たち、「放置型」ブームが残した課題",
+        "intro": "壮大なアクションを誇っていたメガIP『アラド戦記』までもが、放置型ゲーム市場の門を叩いています。\n大手ゲーム会社がこぞって重い鎧を脱ぎ捨て、超軽量化に集中する本当の理由とは何でしょうか？",
+        "points": "ネクスンが最近、『アラド戦記 放置型』の商標権を出願し、自社を代表するIPの放置型ジャンルへの進出を予告しました。これは、最近モバイル市場を席巻している放置型RPGブームに、市場をリードする大手ゲーム会社までが本格的に参入したことを示す象徴的な場面です。📈\n\nこのような現象は、グローバルユーザーの**ゲーム消費構造**が、重い没入型のプレイから日常に密着したサブプレイへと移行していることを示しています。巨大資本が投入される大作開発のリスクを減らしつつ、検証されたIPの親しみやすさを武器にユーザーを確保しようとする戦略は、実際のゲーム形態の極端なカジュアル化や、モバイルプラットフォーム内での効率的なビジネスモデル（BM）の構築へとつながっています。📱\n\n結局のところ、今後のモバイル市場では、**華麗な技術力の誇示よりも、ユーザーの日常の断片化された時間を誰がよりスマートに占有できるかが核となる生存戦略**となるでしょう。大手IPの認知度だけに頼った安易な企画は、ユーザーに素早い疲労感を与え、市場から見捨てられるリスクが高まります。💡\n\n原作ならではの魅力を失わずに、手軽な楽しさを届ける最適なバランスを見つけられるでしょうか？メガIPの軽量化トレンドが、市場の質的な進化を導き出せるか注目すべき時期です。🤔"
+      },
+      "soundtrack": {
+        "title": "Granblue Fantasy: Relink - Endless Ragnarok | VS Blizzadile Theme",
+        "comment": "水曜日の退勤途中、ボス戦のしびれるような戦慄をお届けしたく、『グランブルーファンタジー リリンク』の「Endless Ragnarok」をご用意しました！🧊 氷の猛獣ブリザディルとの熾烈な死闘を壮大なオーケストラで描いた楽曲です。今日一日の締めくくりに、冒険心あふれる壮大さを感じてみてください！⚔️"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "무거운 IP는 가라! 대기업의 '키우기' 열풍과 그늘 📉 (feat. 그랑블루 리링크 갓곡 추천 🎧)",
+    "en": "Why big gaming is ditching massive IPs for 'Idle' games 📉 (plus a legendary Granblue Relink track 🎧)",
+    "ja": "重いIPはもう古い？大手ゲーム会社の「育成」シフトとその影 📉 (feat. グラブル リリンクの神曲降臨 🎧)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "헐, 이제 '던파'도 방치형으로 나오는 건가요?! 😲\n넥슨이 '던파 키우기' 상표를 출원하며 대기업들의 '키우기' 열풍이 더 뜨거워지네요! 🔥\n\nhttps://www.gtplayer.net/edition-077/\n\n#던전앤파이터 #게임소식 #GTPlayer",
+          "posted": false,
+          "data": null,
+          "error": "X API 오류 (402): {\"account_id\":2041741108661612544,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2041741108661612544] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/problems/credits\"}"
+        }
+      },
+      "updated_at": "2026-07-08T07:05:10.201603"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "7월 8일 오늘의 게임 소식 🎮\n📰 '던파 키우기' 상표권 출원부터 붉은사막 스위치2 준비까지, 이번 주 꼭 알아야 할 핵심 뉴스!\n📅 '그랑블루 판타지: 리링크' 신작과 '문라이트 피크' 등 기대작 가득한 이번 주 출시 캘린더!\n📉 대작 IP마저 초경량화? 대기업들이 '키우기' 열풍에 탑승하는 진짜 이유와 그늘 밀착 분석!\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#GT플레이어 #지티플레이어 #게임뉴스 #게임소식 #신작게임 #게임추천 #던전앤파이터 #붉은사막 #그랑블루판타지 #모바일게임 #스팀게임 #콘솔게임 #방치형게임 #게임덕후 #게임스타그램 #게임리뷰 #어쌔신크리드 #마블라이벌즈 #인디게임 #뉴스레터",
+          "image_paths": [
+            "web\\instagram\\edition_077\\card_news.png",
+            "web\\instagram\\edition_077\\card_calendar.png",
+            "web\\instagram\\edition_077\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3936286461025047986_39332818166",
+            "url": "https://www.instagram.com/p/Dagf65Tk9Wy/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-07-08T07:05:42.680185"
+    }
+  }
+}

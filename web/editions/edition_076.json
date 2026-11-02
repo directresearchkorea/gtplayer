@@ -1,0 +1,447 @@
+{
+  "num": "076",
+  "date": "2026-07-07",
+  "status": "published",
+  "schedule": {
+    "date": "2026-07-07",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "update",
+          "game": "붉은사막",
+          "dev": "펄어비스",
+          "date": "7월 6일(월)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X|S"
+          ],
+          "color": "#10b981",
+          "note": "오픈월드 액션 어드벤처 게임으로, 7월 6일 대규모 업데이트를 통해 주인공 클리프 외에도 웅카와 데미안 캐릭터가 어비스에 진입할 수 있도록 개선했습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318159",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "파우팝 매치",
+          "dev": "컴투스홀딩스",
+          "date": "7월 6일(월)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "동물 캐릭터들을 매칭하여 퍼즐을 풀어나가는 모바일 캐주얼 3매치 퍼즐 신작으로, 7월 6일 카카오톡과 카카오페이 플랫폼을 통해 선공개되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777450",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "둠스데이: 라스트 서바이버",
+          "dev": "IGG",
+          "date": "7월 6일(월)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "좀비 서바이벌 전략 게임으로, 7월 6일부터 인기 애니메이션 '페어리 테일'과의 컬래버레이션 업데이트를 진행하고 협업 콘텐츠를 추가했습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777447",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "신듀아리티 에코 오브 에이다",
+          "dev": "반다이남코 엔터테인먼트",
+          "date": "7월 6일(월)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X|S"
+          ],
+          "color": "#10b981",
+          "note": "공상과학 슈팅 게임으로, 7월 6일부터 다채로운 보상과 플레이 환경을 선사하는 신규 시즌 '드립터즈' 업데이트를 정식 시작했습니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202607/80440",
+          "source_name": "電撃オンライン"
+        },
+        {
+          "category": "update",
+          "game": "드래곤퀘스트 스매시그로우",
+          "dev": "스퀘어 에닉스",
+          "date": "7월 7일(화)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "7월 7일 업데이트를 진행하여 신규 상급직 '파라딘'과 함께 드래곤 퀘스트 6 콜라보레이션 이벤트 및 신규 전용 무기를 새롭게 선보입니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202607/80485",
+          "source_name": "電撃オンライン"
+        },
+        {
+          "category": "event",
+          "game": "서든어택 제로 포인트",
+          "dev": "넥슨게임즈",
+          "date": "7월 9일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "기존 주피터 엔진을 대폭 개선해 원작 특유의 속도감과 타격감을 살린 신작 FPS 게임으로, 7월 9일부터 13일까지 스팀 파이널 CBT를 진행합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318161",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "서든어택 제로 포인트 파이널 CBT",
+          "note": "원작의 플레이 감각을 계승하고 그래픽과 엔진을 대폭 개선한 서든어택 최신작의 최종 비공개 베타 테스트",
+          "venue": "Steam",
+          "date": "2026-07-09 ~ 2026-07-13",
+          "tag": "베타 테스트",
+          "website": "https://www.inven.co.kr/webzine/news/?news=318161"
+        },
+        {
+          "name": "2026 LoL 미드 시즌 인비테이셔널(MSI) 승자조 결승 진출전",
+          "note": "결승전 진출을 확정 짓기 위한 BLG와 한화생명e스포츠의 맞대결",
+          "venue": "대전컨벤션센터 제2전시장",
+          "date": "2026-07-09",
+          "tag": "e스포츠",
+          "website": "https://www.inven.co.kr/webzine/news/?news=318160"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "Xbox 역사상 최대 구조조정, 3200명 감원",
+          "source": "인벤",
+          "time": "7월 7일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318176"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "넷마블, 신작 '나혼렙: 카르마' 영상 공개",
+          "source": "게임메카",
+          "time": "7월 6일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777438"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'포켓몬 GO', 출시 10주년 특별 방송 예고",
+          "source": "IGN India",
+          "time": "7월 6일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/pokemon-go/265559/pokemon-go-hosting-major-10th-anniversary-broadcast-this-week"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "엘더스크롤 온라인, 대규모 감원으로 로드맵 수정",
+          "source": "IGN India",
+          "time": "7월 6일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/elder-scrolls-online/265557/the-elder-scrolls-online-has-reportedly-lost-as-much-as-half-of-its-development-team-as-its-roadmap"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "이나즈마 일레븐, 대형 DLC 배포 및 대회 개막",
+          "source": "4Gamer",
+          "time": "7월 6일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/819/G081980/20260706035/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "신작 '뱅드림! 아워노츠' 사전등록 50만 돌파",
+          "source": "전격 온라인",
+          "time": "7월 6일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202607/80522"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "닌텐도, 탈착식 배터리형 스위치 2 가을 출시",
+          "source": "IGN",
+          "time": "7월 6일",
+          "country": "GLOBAL",
+          "article_url": "https://www.ign.com/articles/new-nintendo-switch-2-announced-for-europe-this-fall-will-be-slightly-heavier-but-with-user-replaceable-batteries"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "컴펄션 게임즈, Xbox Reorg 속 독자 노선 구축",
+          "source": "PC Gamer",
+          "time": "7월 6일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/gaming-industry/compulsion-games-is-returning-to-independent-management-amid-sweeping-xbox-reorganization-our-immediate-priority-is-to-support-our-team/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "구조조정의 칼바람과 플랫폼 격변기, 글로벌 게임 생태계의 생존 방정식",
+      "intro": "글로벌 빅테크의 사상 최대 규모 구조조정과 닌텐도의 차세대 하드웨어 소식이 동시에 교차하고 있습니다.\n대혼란의 시기 속에서 글로벌 게임 생태계는 과연 어떤 생존 전략을 준비하고 있을까요?",
+      "points": "글로벌 게임 시장이 거대한 격변기를 맞이했습니다. Xbox의 역사상 최대 규모인 3,200명 감원과 '엘더스크롤 온라인'의 인력 감축 소식은 업계 전반에 큰 충격을 안겼습니다. 반면 닌텐도는 규제 변화에 맞춘 탈착식 배터리형 '스위치 2'를 올가을 출시한다는 소식을 전하며, 규제 대응과 하드웨어 플랫폼 혁신이라는 새로운 돌파구를 모색하고 있습니다.\n\n이러한 대규모 구조조정과 플랫폼 변화는 **소비자의 게임 소비 구조와 심리**에 직접적인 영향을 미칩니다. 개발 인력 축소는 즉각적인 라이브 서비스 게임의 업데이트 지연과 개발 로드맵 수정으로 이어져 유저들의 불안감을 자극하고 브랜드 신뢰도를 저하시킵니다. 또한, 플랫폼 홀더들의 긴축 재정 속에서 개발사들이 독자 노선을 구축하려는 시도는 향후 독창적인 신작의 감소나 서비스 품질 저하라는 형태로 소비자에게 돌아올 수 있습니다.\n\n결국 지금의 위기는 무분별한 외형 확장에만 치중했던 게임 산업이 내실을 다져야 하는 필연적인 과도기입니다. 앞으로의 게임 시장은 단순히 규모의 경제가 아닌, **독창적인 IP의 지속 가능성과 유연한 플랫폼 변화 적응력**을 증명하는 기업만이 생존할 수 있는 냉정한 적자생존의 무대가 될 것입니다.\n\n화려한 자본의 시대가 가고 효율성과 내실이 최우선 가치가 된 지금, 여러분은 다가올 새로운 게임 생태계에서 어떤 가치에 기꺼이 지갑을 열 준비가 되어 있으신가요? 🎮"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "붉은사막",
+      "title": "어비스의 심연을 개척하는 새로운 발걸음, 웅카의 대담한 탐험",
+      "imgUrl": "",
+      "comment": "이번 '어비스 진입' 업데이트 이후 더욱 다채로워진 캐릭터 탐험을 시각화하기 위해, 신규 보스 장비와 염색된 무기를 장착한 웅카가 심연의 미지의 영역을 탐색하는 인게임 전투 준비 순간을 AI로 예측해 본 보너스 이미지입니다.",
+      "ai_prompt": "Actual in-game screenshot, exact original game engine rendering, completely identical to original art style, NO cinematic styling, NO illustration. A third-person gameplay screen of Crimson Desert. The muscular warrior character Unka is standing inside the dark, eerie Abyss, surrounded by glowing ancient runes and floating dark energy particles. He wears highly detailed, rugged new boss armor crafted from dark metallic plates and customized dyed green camouflage leather. He holds a massive greatsword with customized crimson dyed hilt details. In the top corner, a refined, clean minimap UI is subtly visible. Realistic lighting casting long shadows on the stone floor, dusty atmosphere, captured in the game's native proprietary engine."
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Crimson Desert",
+        "releases.0.note": "An open-world action-adventure game. Through a major update on July 6, improvements were made to allow the characters Oonca and Damian, in addition to the protagonist Kliff, to enter the Abyss.",
+        "releases.0.dev": "Pearl Abyss",
+        "releases.1.game": "PawPop Match",
+        "releases.1.note": "A new mobile casual match-3 puzzle game where players solve puzzles by matching animal characters, pre-released on July 6 through the KakaoTalk and KakaoPay platforms.",
+        "releases.1.dev": "Com2uS Holdings",
+        "releases.2.game": "Doomsday: Last Survivors",
+        "releases.2.note": "A zombie survival strategy game that has launched a collaboration update with the popular anime 'FAIRY TAIL' starting July 6, adding collaborative content.",
+        "releases.2.dev": "IGG",
+        "releases.3.game": "SYNDUALITY Echo of Ada",
+        "releases.3.note": "A sci-fi shooter game that officially launched its new season 'Drifters' update on July 6, offering various rewards and an enhanced gameplay environment.",
+        "releases.3.dev": "Bandai Namco Entertainment",
+        "releases.4.game": "Dragon Quest Smash Grow",
+        "releases.4.note": "An update on July 7 introduces the new advanced class 'Paladin,' along with a Dragon Quest VI collaboration event and new exclusive weapons.",
+        "releases.4.dev": "Square Enix",
+        "releases.5.game": "Sudden Attack: Zero Point",
+        "releases.5.note": "A new FPS game that significantly improves the existing Jupiter Engine to preserve the original's characteristic speed and impact, running its Steam Final CBT from July 9 to 13.",
+        "releases.5.dev": "Nexon Games",
+        "events.0.name": "Sudden Attack: Zero Point Final CBT",
+        "events.0.note": "The final closed-beta test of the latest Sudden Attack title, which inherits the gameplay feel of the original while significantly improving graphics and the engine.",
+        "events.0.venue": "Steam",
+        "events.1.name": "2026 LoL Mid-Season Invitational (MSI) Bracket Stage Winners' Bracket Final",
+        "events.1.note": "A showdown between BLG and Hanwha Life Esports to secure a spot in the Grand Finals.",
+        "events.1.venue": "Daejeon Convention Center (DCC) Exhibition Hall 2"
+      },
+      "briefing": {
+        "items.0.title": "Largest Restructuring in Xbox History, Laying Off 3,200 Employees",
+        "items.0.source": "Inven",
+        "items.0.time": "July 7",
+        "items.1.title": "Netmarble Unveils Video for New Game 'Solo Leveling: Karma'",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "July 6",
+        "items.2.title": "'Pokémon GO' Announces Special Broadcast for 10th Anniversary",
+        "items.2.source": "IGN India",
+        "items.2.time": "July 6",
+        "items.3.title": "The Elder Scrolls Online Modifies Roadmap Due to Mass Layoffs",
+        "items.3.source": "IGN India",
+        "items.3.time": "July 6",
+        "items.4.title": "Inazuma Eleven Distributes Major DLC and Kicks Off Tournament",
+        "items.4.source": "4Gamer",
+        "items.4.time": "July 6",
+        "items.5.title": "Pre-registrations for New Title 'BanG Dream! Our Notes' Exceed 500,000",
+        "items.5.source": "Dengeki Online",
+        "items.5.time": "July 6",
+        "items.6.title": "Nintendo to Launch Switch 2 with Detachable Battery This Fall",
+        "items.6.source": "IGN",
+        "items.6.time": "July 6",
+        "items.7.title": "Compulsion Games Forges Its Own Path Amid Xbox Reorganization",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "July 6"
+      },
+      "drk": {
+        "title": "The Harsh Winds of Restructuring and Platform Upheaval: The Survival Formula of the Global Gaming Ecosystem",
+        "intro": "The largest-ever restructuring by global big tech and news of Nintendo's next-generation hardware are crossing paths. In this era of great chaos, what survival strategies is the global gaming ecosystem preparing?",
+        "points": "The global gaming market has entered a massive period of upheaval. The news of Xbox's largest restructuring in history with 3,200 layoffs, alongside workforce reductions for 'The Elder Scrolls Online,' has sent shockwaves through the entire industry. Conversely, Nintendo announced the release of a 'Switch 2' with a detachable battery this fall to align with regulatory changes, seeking a new breakthrough in regulatory compliance and hardware platform innovation.\n\nThese massive restructurings and platform shifts directly impact **consumers' game consumption patterns and psychology**. Reductions in development staff lead to immediate update delays for live-service games and revisions to development roadmaps, fueling user anxiety and damaging brand trust. Furthermore, attempts by developers to carve out independent paths amidst tightening budgets from platform holders may ultimately impact consumers through a decline in original new titles or a drop in service quality.\n\nUltimately, the current crisis represents an inevitable transition period where the gaming industry, which was once heavily focused on reckless expansion, must now consolidate its inner strength. The future gaming market will become a cold arena of survival of the fittest, where only companies that can prove the **sustainability of unique IPs and flexibility in adapting to platform changes** will survive, rather than those relying purely on economies of scale.\n\nAs the era of flashy capital fades and efficiency and internal stability take top priority, what kind of value are you willing to open your wallet for in this upcoming new gaming ecosystem? 🎮"
+      },
+      "gamescene": {
+        "game": "Crimson Desert",
+        "title": "A New Step into the Depths of the Abyss: Oonca's Bold Exploration",
+        "comment": "This bonus image is an AI-generated prediction of an in-game combat preparation moment, visualizing the expanded character exploration following the 'Abyss Entry' update. It features Oonca, equipped with new boss gear and dyed weapons, exploring the unknown territories of the abyss."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "紅の砂漠",
+        "releases.0.note": "オープンワールド・アクションアドベンチャーゲームで、7月6日の大規模アップデートを通じて、主人公クリフのほかにウンカやデミアンといったキャラクターもアビスに進入できるように改善されました。",
+        "releases.0.dev": "Pearl Abyss",
+        "releases.1.game": "パウポップマッチ",
+        "releases.1.note": "動物キャラクターをマッチさせてパズルを解いていくモバイルカジュアル3マッチパズルの新作で、7月6日にKakaoTalkとKakaoPayのプラットフォームを通じて先行公開されました。",
+        "releases.1.dev": "Com2uS Holdings",
+        "releases.2.game": "ドゥームズデイ：ラストサバイバー",
+        "releases.2.note": "ゾンビサバイバル戦略ゲームで、7月6日から人気アニメ「フェアリーテイル」とのコラボレーションアップデートを実施し、コラボコンテンツを追加しました。",
+        "releases.2.dev": "IGG",
+        "releases.3.game": "SYNDUALITY Echo of Ada",
+        "releases.3.note": "SFシューティングゲームで、7月6日から多彩な報酬とプレイ環境を提供する新シーズン「ドリフターズ」アップデートを正式に開始しました。",
+        "releases.3.dev": "バンダイナムコエンターテインメント",
+        "releases.4.game": "ドラゴンクエスト スマッシュグロウ",
+        "releases.4.note": "7月7日にアップデートを実施し、新規上級職「パラディン」とともに、『ドラゴンクエストVI』コラボレーションイベントおよび新規専用武器を新たに披露します。",
+        "releases.4.dev": "スクウェア・エニックス",
+        "releases.5.game": "サドンアタック ゼロポイント",
+        "releases.5.note": "既存のジュピターエンジンを大幅に改善し、原作特有のスピード感と打撃感を活かした新作FPSゲームで、7月9日から13日までSteamにてファイナルCBTを実施します。",
+        "releases.5.dev": "ネクソンゲームズ",
+        "events.0.name": "サドンアタック ゼロポイント ファイナルCBT",
+        "events.0.note": "原作のプレイ感覚を継承し、グラフィックとエンジンを大幅に改善したサドンアタック最新作の最終クローズドβテスト",
+        "events.0.venue": "Steam",
+        "events.1.name": "2026 LoL Mid-Season Invitational (MSI) 勝者側決勝進出戦",
+        "events.1.note": "決勝進出を確定させるための、BLGとハンファライフeスポーツの直接対決",
+        "events.1.venue": "大田コンベンションセンター第2展示場"
+      },
+      "briefing": {
+        "items.0.title": "Xbox史上最大の構造改革、3,200人レイオフ",
+        "items.0.source": "Inven",
+        "items.0.time": "7月7일",
+        "items.1.title": "ネットマーブル、新作『俺だけレベルアップな件：カルマ』の映像を公開",
+        "items.1.source": "GameMeca",
+        "items.1.time": "7月6일",
+        "items.2.title": "『Pokémon GO』、配信10周年特別番組を予告",
+        "items.2.source": "IGN India",
+        "items.2.time": "7月6일",
+        "items.3.title": "『エルダースクロールズ オンライン』、大規模な人員削減によりロードマップを修正",
+        "items.3.source": "IGN India",
+        "items.3.time": "7月6일",
+        "items.4.title": "『イナズマイレブン』、大型DLC配信および大会開幕",
+        "items.4.source": "4Gamer",
+        "items.4.time": "7月6일",
+        "items.5.title": "新作『バンドリ！アワーノーツ』事前登録者数50万人突破",
+        "items.5.source": "電撃オンライン",
+        "items.5.time": "7月6일",
+        "items.6.title": "任天堂、着脱式バッテリー型の「Switch 2」を今秋発売",
+        "items.6.source": "IGN",
+        "items.6.time": "7月6일",
+        "items.7.title": "コンパルション・ゲームズ、Xbox再編の中で独自路線を構築",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "7月6일"
+      },
+      "drk": {
+        "title": "人員削減の嵐とプラットフォームの激変期、グローバルゲームエコシステムの生存方程式",
+        "intro": "グローバルIT大手による史上最大規模の人員削減と、任天堂の次世代ハードウェアに関するニュースが同時に交錯しています。大混乱の時代の中で、グローバルゲームエコシステムは果たしてどのような生存戦略を準備しているのでしょうか？",
+        "points": "グローバルゲーム市場が巨大な激変期を迎えています。Xboxの史上最大規模である3,200人の人員削減と、『エルダースクロールズ オンライン』の人員削減のニュースは、業界全体に大きな衝撃を与えました。一方で任天堂は、規制の変化に合わせた着脱式バッテリー型の『Switch 2』を今秋に発売するというニュースを伝え、規制への対応とハードウェアプラットフォームの革新という新たな突破口を模索しています。\n\nこのような大規模な構造改革とプラットフォームの変化は、**消費者のゲーム消費構造と心理**に直接的な影響をボします。開発人員の削減は、即座にライブサービスゲームのアップデート遅延や開発ロードマップの修正につながり、ユーザーの不安をあおり、ブランドの信頼度を低下させます。また、プラットフォームホルダーの緊縮財政の中で、開発会社が独自路線を構築しようとする試みは、将来的には独創的な新作の減少やサービス品質の低下という形で消費者に跳ね返ってくる可能性があります。\n\n結局のところ、現在の危機は、無秩序な外形拡張だけに集中していたゲーム産業が中身を充実させるべき必然的な過渡期だと言えます。これからのゲーム市場は、単なる規模の経済ではなく、**独創的なIPの持続可能性と柔軟なプラットフォーム変化への適応力**を証明する企業だけが生き残れる、冷徹な適者生存の舞台となるでしょう。\n\n華やかな資本の時代が去り、効率性と内実が最優先価値となった今、皆さんはこれから訪れる新しいゲームエコシステムにおいて、どのような価値に対して喜んで財布を開く準備ができていますか？ 🎮"
+      },
+      "gamescene": {
+        "game": "紅の砂漠",
+        "title": "アビスの深淵を開拓する新たな一歩、ウンカの大胆な探検",
+        "comment": "今回の『アビス進入』アップデート後にさらに多彩になったキャラクター探索を視覚化するため、新規ボス装備と染色された武器を装着したウンカが深淵の未知の領域を探索する、インゲームでの戦闘準備の瞬間をAIで予測してみたボーナス画像です。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "구조조정 칼바람 속 게임업계 잔혹사 📉 (feat. 이번 주 주말 무료 게임 🎁)",
+    "en": "The brutal reality of gaming layoffs: Who survives? 📉 (feat. Free games of the week! 🎁)",
+    "ja": "吹き荒れる大リストラの嵐：ゲーム業界の生存戦略 📉（今週の無料ゲーム配布も！🎁）"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "헐, Xbox에서 3,200명이나 감원하는 역대급 구조조정이 터졌네요.. 📉\n쓸쓸한 소식이지만 오늘 출시된 '붉은사막' 달리면서 주말을 달래봅니다! 🎮\n\nhttps://www.gtplayer.net/edition-076/\n\n#붉은사막 #게임소식 #GTPlayer",
+          "posted": false,
+          "data": null,
+          "error": "X API 오류 (402): {\"account_id\":2041741108661612544,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2041741108661612544] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/problems/credits\"}"
+        }
+      },
+      "updated_at": "2026-07-07T07:05:12.607946"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "7월 7일 오늘의 게임 소식 🎮 구조조정 칼바람 속 흔들리는 게임업계 잔혹사!\n\n1️⃣ [뉴스] Xbox 역대급 구조조정 소식부터 넷마블 '나혼렙' 신작 영상 공개까지 📰\n2️⃣ [캘린더] 드디어 오는가! '붉은사막' 포함 신작 라인업 & 주말 무료 게임 혜택 🎁\n3️⃣ [인사이트] 대격변의 플랫폼 격변기, 글로벌 게임사들의 생존 방정식 분석 💡\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#GTPLAYER #게임뉴스 #게임정보 #게임추천 #신작게임 #붉은사막 #넷마블 #엑스박스 #포켓몬고 #스팀게임 #콘솔게임 #모바일게임 #무료게임 #게임덕후 #게이머 #게임소식 #게임스타그램 #인디게임 #플스5 #닌텐도스위치",
+          "image_paths": [
+            "web\\instagram\\edition_076\\card_news.png",
+            "web\\instagram\\edition_076\\card_calendar.png",
+            "web\\instagram\\edition_076\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3935561771168026771_39332818166",
+            "url": "https://www.instagram.com/p/Dad7JRSE9CT/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-07-07T07:05:51.964045"
+    }
+  }
+}

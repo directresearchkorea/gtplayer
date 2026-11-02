@@ -1,0 +1,445 @@
+{
+  "num": "086",
+  "date": "2026-07-22",
+  "status": "published",
+  "schedule": {
+    "date": "2026-07-22",
+    "time": "13:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "윈드러너 키우기",
+          "dev": "라이트컨",
+          "date": "7월 21일(화)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "7월 21일 한국과 대만에 정식 출시된 방치형 RPG로, 원작의 속도감을 살린 전투 시스템과 150여 종의 캐릭터 조합을 특징으로 합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318707",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "블루 아카이브",
+          "dev": "넥슨게임즈",
+          "date": "7월 21일(화)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "7월 21일 신규 이벤트 스토리 '키보토스 미확인 미스테리'가 업데이트되었으며 코노카, 레나 등 신규 캐릭터 2종이 추가되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318708",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "다크 앤 다커",
+          "dev": "아이언메이스",
+          "date": "7월 21일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "7월 21일 시즌 10 시작과 함께 신규 던전 지역인 '불의 심연' 확장 업데이트가 적용되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1778056",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "페이트/그랜드 오더",
+          "dev": "라스글렌",
+          "date": "7월 21일(화)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "7월 21일부터 8월 4일까지 신규 이벤트 '포흐욜라의 크리스마스 이브'가 진행되며 메인 퀘스트를 통해 이벤트 한정 캐릭터를 획득할 수 있습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318709",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "디 얼터스",
+          "dev": "11비트 스튜디오",
+          "date": "7월 21일(화)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#3b82f6",
+          "note": "7월 21일 미스터리 SF 어드벤처 '디 얼터스'의 본편 엔딩 후일담을 다룬 신규 DLC '마지막 변수'가 정식 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1778030",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "씨드 (SEED)",
+          "dev": "클랭크 웍스",
+          "date": "7월 22일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "7월 22일 스팀 얼리 액세스로 정식 출시된 MMO 시뮬레이션 게임입니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/266848/seed-official-early-access-launch-trailer",
+          "source_name": "IGN India"
+        }
+      ],
+      "events": [
+        {
+          "name": "토탈워: 워해머 40K 라이브 방송",
+          "note": "차기작 '토탈워: 워해머 40K' 전투 직접 시연 및 게임 정보 공개",
+          "venue": "온라인 (공식 유튜브 및 SNS)",
+          "date": "2026-07-23",
+          "tag": "쇼케이스",
+          "website": "https://www.inven.co.kr/webzine/news/?news=318729"
+        },
+        {
+          "name": "2026 LoL KeSPA컵",
+          "note": "LCK 팀 참가 LoL KeSPA컵 예선 및 본선 경기 진행",
+          "venue": "온라인",
+          "date": "2026-07-20 ~ 2026-07-26",
+          "tag": "e스포츠",
+          "website": "https://www.inven.co.kr/webzine/news/?news=318728"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "문명7, 신규 DLC '이순신' 트레일러 전격 공개",
+          "source": "인벤",
+          "time": "7월 22일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318734"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "게임스컴 2026, 행사 사상 첫 전시 부스 완전 완판",
+          "source": "인벤",
+          "time": "7월 22일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318727"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "대전격투 '마블 투혼', 매그니토 캐릭터 영상 공개",
+          "source": "IGN India",
+          "time": "7월 22일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/marvel-tokon-fighting-souls/266865/marvel-tokon-fighting-souls-official-magneto-character-guide-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "닌텐도, 관세 환급 요구 소비자 집단소송 기각 요청",
+          "source": "IGN India",
+          "time": "7월 22일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/the-witcher-3-wild-hunt-songs-of-the-past/266853/nintendo-argues-switch-2-customers-are-not-entitled-to-tariff-refunds-ign-daily-fix"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "EA Sports FC 27, 단독 커버 모델로 음바페 선정",
+          "source": "Famitsu",
+          "time": "7월 22일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202607/82060"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "콜 오브 듀티: 모던 워페어 4, 오픈 베타 일정 공개",
+          "source": "4Gamer",
+          "time": "7월 21일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/010/G101087/20260721038/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "유니티, 차세대 엔진 '유니티 7' 2027년 1분기 출시 발표",
+          "source": "GamesIndustry.biz",
+          "time": "7월 21일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/unity-7-to-launch-in-q1-2027-new-engine-is-a-direct-continuation-of-unity-6"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "디지털 시대의 역설, 왜 글로벌 게임사는 다시 오프라인으로 향하는가",
+      "intro": "디지털 온라인 쇼케이스가 대세로 자리 잡은 시대에, 세계 최대 게임쇼 '게임스컴 2026'이 사상 최초로 전시 부스 완전 완판을 기록했습니다. 🎪\n글로벌 기업들이 막대한 비용을 감수하면서까지 다시 현장으로 모여드는 진짜 이유는 무엇일까요?",
+      "points": "게임스컴 2026이 행사 역사상 최초로 모든 전시 부스의 조기 완판을 달성하며 글로벌 게임 산업의 큰 주목을 받고 있습니다. 🕹️ 온라인 쇼케이스가 주류를 이루던 지난 수년간의 흐름과 대비되는 이 이례적인 성과는 글로벌 마케팅 지형의 변화를 명확히 보여줍니다.\n\n이 현상은 **소비자 심리**와 **게임 소비 구조**의 근본적인 변화를 의미합니다. 화려하게 정제된 트레일러 영상에 피로감을 느낀 게이머들은 이제 직접 신작을 시연하고 현장의 열기를 나누는 실체 있는 경험을 갈망하고 있습니다. 기업들 역시 단순 디지털 방송만으로는 팬덤을 고착화하기 어렵다는 한계를 인식하고, 오프라인 시연을 통한 확실한 소비자 접점 확보에 사운을 걸기 시작했습니다.\n\n결국 **향후 게임 마케팅의 성패는 단순한 정보 전달을 넘어 게이머의 손끝에 직접 전달되는 '실시간 몰입 경험'의 질에 달려 있습니다.** 잘 편집된 홍보 영상보다 현장에서 게이머가 직접 느끼는 한 번의 패드 진동과 플레이 경험이 최종 구매 결정에 훨씬 결정적인 영향을 미치기 때문입니다.\n\n온·오프라인의 경계가 재편되는 지금, 여러분의 게임은 게이머에게 단순한 화면 너머의 정보 이상의 어떤 실체적인 경험을 선사하고 있습니까? 🔮"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": true,
+      "title": "The Alters | Full Original Soundtrack",
+      "channel": "11 bit studios",
+      "videoId": "gUARQKRNgiM",
+      "url": "https://www.youtube.com/watch?v=gUARQKRNgiM",
+      "thumbnail": "https://i.ytimg.com/vi/gUARQKRNgiM/hqdefault.jpg",
+      "comment": "최근 큰 화제를 모은 신작 <디 얼터스>의 OST 영상이 공개되어 이번 주 추천곡으로 선정했어요! 🎧 자신과의 협동이라는 독특한 생존 분위기를 담아 기묘하고 몰입감이 넘친답니다. 🌌 오늘 하루를 마무리하며 이 몽환적인 음악 속으로 깊이 빠져보세요! ✨",
+      "search_query": "The Alters The Last Variable Official Soundtrack",
+      "ai_game_name": "디 얼터스",
+      "ai_reason": "신규 DLC '마지막 변수' 출시에 맞춰, 지난주 로파이 음악과 대비되는 웅장하고 신비로운 SF 시네마틱 사운드트랙을 준비했습니다."
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "사이버펑크 2077",
+      "url": "https://store.epicgames.com/ko/p/cyberpunk-2077",
+      "thumbnail": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=600&q=80",
+      "comment": "정의 따윈 없는 나이트 시티의 용병이 되어 보시는 건 어떨까요? 금주 역대급 무료 배포입니다. 💥",
+      "end_date": "7월 30일 11:00",
+      "epic_current": [
+        {
+          "title": "사이버펑크 2077 (Cyberpunk 2077)",
+          "description": "권력과 사치, 신체 개조에 집착하는 대도시 나이트 시티를 배경으로 하는 오픈 월드 액션 어드벤처 RPG입니다.",
+          "url": "https://store.epicgames.com/ko/p/cyberpunk-2077",
+          "thumbnail": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=600&q=80",
+          "end_date": "7월 30일 11:00"
+        }
+      ]
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "WindRunner Idle",
+        "releases.0.note": "An idle RPG officially released in Korea and Taiwan on July 21, featuring a combat system that captures the original's sense of speed and over 150 character combinations.",
+        "releases.0.dev": "Lightcon",
+        "releases.1.game": "Blue Archive",
+        "releases.1.note": "On July 21, a new event story 'Kivotos Unidentified Mystery' was updated, adding two new characters: Konoka and Rena.",
+        "releases.1.dev": "Nexon Games",
+        "releases.2.game": "Dark and Darker",
+        "releases.2.note": "With the start of Season 10 on July 21, an expansion update featuring the new dungeon region 'Abyss of Fire' was applied.",
+        "releases.2.dev": "IRONMACE",
+        "releases.3.game": "Fate/Grand Order",
+        "releases.3.note": "A new event, 'Pohjola's Christmas Eve', runs from July 21 to August 4, where event-limited characters can be obtained through the main quest.",
+        "releases.3.dev": "Lasengle",
+        "releases.4.game": "The Alters",
+        "releases.4.note": "On July 21, 'The Last Variable', a new DLC covering the epilogue of the main story for the mystery sci-fi adventure 'The Alters', was officially released.",
+        "releases.4.dev": "11 bit studios",
+        "releases.5.game": "SEED",
+        "releases.5.note": "An MMO simulation game officially released in Steam Early Access on July 22.",
+        "releases.5.dev": "Klang Games",
+        "events.0.name": "Total War: Warhammer 40K Live Stream",
+        "events.0.note": "Direct gameplay demonstration of battles and release of game information for the upcoming title 'Total War: Warhammer 40K'.",
+        "events.0.venue": "Online (Official YouTube & Social Media)",
+        "events.1.name": "2026 LoL KeSPA Cup",
+        "events.1.note": "LoL KeSPA Cup qualifiers and main tournament matches featuring LCK teams.",
+        "events.1.venue": "Online"
+      },
+      "briefing": {
+        "items.0.title": "Civilization VII: New DLC 'Yi Sun-sin' Trailer Revealed",
+        "items.0.source": "Inven",
+        "items.0.time": "July 22",
+        "items.1.title": "Gamescom 2026: Exhibition Booths Completely Sold Out for the First Time in Event History",
+        "items.1.source": "Inven",
+        "items.1.time": "July 22",
+        "items.2.title": "Fighting Game 'Marvel Tokon': Magneto Character Trailer Revealed",
+        "items.2.source": "IGN India",
+        "items.2.time": "July 22",
+        "items.3.title": "Nintendo Requests Dismissal of Consumer Class Action Lawsuit Seeking Tariff Refunds",
+        "items.3.source": "IGN India",
+        "items.3.time": "July 22",
+        "items.4.title": "EA Sports FC 27 Selects Mbappé as Solo Cover Athlete",
+        "items.4.source": "Famitsu",
+        "items.4.time": "July 22",
+        "items.5.title": "Call of Duty: Modern Warfare 4 Open Beta Schedule Revealed",
+        "items.5.source": "4Gamer",
+        "items.5.time": "July 21",
+        "items.6.title": "Unity Announces Q1 2027 Launch for Next-Gen Engine 'Unity 7'",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "July 21"
+      },
+      "drk": {
+        "title": "The Paradox of the Digital Era: Why Global Game Companies Are Heading Back Offline",
+        "intro": "In an era where digital online showcases have become the norm, 'Gamescom 2026', the world's largest gaming show, has achieved a complete sellout of exhibition booths for the first time in history. 🎪\nWhat is the real reason global companies are gathering back on-site, even while bearing immense costs?",
+        "points": "Gamescom 2026 is drawing significant attention from the global gaming industry by achieving an early sellout of all exhibition booths for the first time in the event's history. 🕹️ This unprecedented achievement, contrasting with the trend of recent years where online showcases dominated, clearly demonstrates a shift in the global marketing landscape.\n\nThis phenomenon signifies a fundamental shift in **consumer psychology** and the **structure of game consumption**. Gamers who have grown fatigued by gorgeously polished trailer videos are now craving tangible experiences where they can test hands-on demos and share the excitement of the physical event. Companies, too, have recognized the limitations of solidifying a fandom through simple digital broadcasts alone, and have begun staking their fortunes on securing solid consumer touchpoints through offline demos.\n\nUltimately, **the success or failure of future game marketing relies on the quality of a 'real-time immersive experience' delivered directly to the gamer's fingertips beyond simple information delivery.** This is because a single controller vibration and play experience felt directly by gamers on-site has a far more decisive impact on their final purchase decisions than a well-edited promotional video.\n\nNow as the boundary between online and offline is being reshaped, what tangible experience beyond simple information across the screen is your game offering to gamers? 🔮"
+      },
+      "soundtrack": {
+        "title": "The Alters | Full Original Soundtrack",
+        "comment": "The OST video for <The Alters>, a much-talked-about new release, has been unveiled, so we selected it as this week's recommendation! 🎧 Capturing a unique survival atmosphere focused on cooperation with oneself, it's strange and deeply immersive. 🌌 Wrap up your day today by diving deep into this dreamlike music! ✨"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ウインドランナー育成",
+        "releases.0.note": "7月21日に韓国と台湾で正式リリースされた放置型RPGで、原作のスピード感を活かした戦闘システムと150種以上のキャラクターの組み合わせが特徴です。",
+        "releases.0.dev": "LIGHTCON",
+        "releases.1.game": "ブルーアーカイブ",
+        "releases.1.note": "7月21日に新規イベントストーリー「キヴォト스未確認ミステリー」がアップデートされ、コノカ、レナなど新規キャラクター2種が追加されました。",
+        "releases.1.dev": "Nexon Games",
+        "releases.2.game": "Dark and Darker",
+        "releases.2.note": "7月21日、シーズン10の開始とともに新規ダンジョン地域である「炎の深淵」拡張アップデートが適用されました。",
+        "releases.2.dev": "IRONMACE",
+        "releases.3.game": "Fate/Grand Order",
+        "releases.3.note": "7월 21日から8月4日まで新規イベント「ポヒョラのクリスマスイブ」が開催され、メインクエストを通じてイベント限定キャラクターを獲得できます。",
+        "releases.3.dev": "ラスグレン",
+        "releases.4.game": "The Alters",
+        "releases.4.note": "7月21日、ミステリーSFアドベンチャー『The Alters』の本編エンディング後の後日譚を描いた新規DLC「最後の変数」が正式リリースされました。",
+        "releases.4.dev": "11 bit studios",
+        "releases.5.game": "SEED",
+        "releases.5.note": "7月22日にSteamアーリーアクセスで正式リリースされたMMOシミュレーションゲームです。",
+        "releases.5.dev": "クランクワークス",
+        "events.0.name": "トータルウォー：ウォーハンマー40K ライブ配信",
+        "events.0.note": "次回作『トータルウォー：ウォーハンマー40K』の戦闘実機プレイおよびゲーム情報の公開",
+        "events.0.venue": "オンライン（公式YouTubeおよびSNS）",
+        "events.1.name": "2026 LoL KeSPA Cup",
+        "events.1.note": "LCKチームが参加するLoL KeSPA Cupの予選および本戦の試合を実施",
+        "events.1.venue": "オンライン"
+      },
+      "briefing": {
+        "items.0.title": "シヴィライゼーション7、新規DLC『イ・スンシン（李舜臣）』トレーラーを電撃公開",
+        "items.0.source": "Inven",
+        "items.0.time": "7月22日",
+        "items.1.title": "Gamescom 2026、イベント史上初の出展ブース完全完売",
+        "items.1.source": "Inven",
+        "items.1.time": "7月22日",
+        "items.2.title": "対戦格闘『MARVEL 闘魂』、マグニートーのキャラクター映像を公開",
+        "items.2.source": "IGN India",
+        "items.2.time": "7월 22日",
+        "items.3.title": "任天堂、関税払い戻しを求める消費者集団訴訟の棄却を請求",
+        "items.3.source": "IGN India",
+        "items.3.time": "7月22日",
+        "items.4.title": "EA Sports FC 27、単独カバーモデルにエムバペを起用",
+        "items.4.source": "ファミ通",
+        "items.4.time": "7월 22日",
+        "items.5.title": "コール オブ デューティ: モダン・ウォーフェア 4、オープンベータのスケジュールを公開",
+        "items.5.source": "4Gamer",
+        "items.5.time": "7月21日",
+        "items.6.title": "Unity、次世代エンジン『Unity 7』を2027年第1四半期にリリースと発表",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "7月21일"
+      },
+      "drk": {
+        "title": "デジタル時代のパラドックス、なぜグローバルゲーム企業は再びオフラインへと向かうのか",
+        "intro": "デジタルオンラインショウケースが主流となった時代において、世界最大のゲームショウ『Gamescom 2026』が史上初めて出展ブースの完全完売を記録しました。 🎪\nグローバル企業が多大な費用を投じてまで、再び現場へと集う真の理由とは何でしょうか？",
+        "points": "Gamescom 2026がイベント史上初めてすべての出展ブースの早期完売を達成し、グローバルゲーム産業から大きな注目を集めています。 🕹️ オンラインショウケースが主流を占めていた過去数年間の流れとは対照的なこの異例の成果は、グローバルマーケティングの構図の変化を明確に示しています。\n\nこの現象は**消費者心理**と**ゲーム消費構造**の根本的な変化を意味しています。華やかに洗練されたトレーラー映像に疲労感を感じたゲーマーたちは、今や直接新作を試遊し、会場の熱気を分かち合う実体のある体験を切望しています。企業側もまた、単なるデジタル配信だけではファンダムを定着させることが難しいという限界を認識し、オフライン試遊を通じた確実な消費者接点の確保に社運を賭け始めています。\n\n結局のところ、**今後のゲームマーケティングの成否は、単なる情報伝達を超えてゲーマーの指気に直接伝わる『リアルタイムな没入体験』の質にかかっています。** 精巧に編集されたプロモーション映像よりも、会場でゲーマーが直接感じる一度のパッドの振動やプレイ体験のほうが、最終的な購買決定にはるかに決定的な影響を与えるからです。\n\nオン・オフラインの境界が再編されつつある今、あなたのゲームはゲーマーに対して、単なる画面の向こう側の情報以上のどのような実体的な体験を届けているでしょうか？ 🔮"
+      },
+      "soundtrack": {
+        "title": "The Alters | Full Original Soundtrack",
+        "comment": "最近大きな話題を集めた新作『The Alters』のOST動画が公開されたので、今週のおすすめ曲に選定しました！ 🎧 自分自身との協力というユニークな生存の雰囲気を表現しており、奇妙で没入感に溢れています。 🌌 今日一日の締めくくりに、この幻想的な音楽の世界へ深く浸ってみてください！ ✨"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "디지털 시대의 역설: 글로벌 게임사는 왜 다시 오프라인으로 갈까? 🎮 (feat. The Alters OST 전곡 🎧)",
+    "en": "Why are global game studios ditching digital for offline? 🎮 (feat. The Alters Full OST 🎧)",
+    "ja": "デジタル時代になぜ？大手ゲーム会社が「リアル」に向かう理由 🎮 (feat. 『The Alters』フルOST 🎧)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "문명7에 드디어 이순신 장군님이 나온다는 사실, 알고 계셨나요? ⚔️\n신규 DLC 트레일러가 공개됐는데 벌써 타임머신 탈 생각에 설레네요🔥\n\nhttps://www.gtplayer.net/edition-086/\n#문명7 #게임소식 #GTPlayer",
+          "posted": false,
+          "data": null,
+          "error": "X API 오류 (402): {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+        }
+      },
+      "updated_at": "2026-07-22T14:51:12.834490"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "7월 22일 오늘의 게임 소식! 문명7 '이순신' DLC 전격 공개 🎮\n\n📰 **뉴스**: 문명7 이순신 트레일러 공개 & 게임스컴 2026 사상 첫 부스 완판!\n🚀 **출시작**: 기대작 '디 얼터스'부터 '윈드러너 키우기'까지 금주의 신작 라인업!\n🎪 **인사이트**: 디지털 시대에 글로벌 게임사들이 다시 오프라인으로 향하는 이유 (feat. 디 얼터스 OST 🎧)\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#GTPLAYER #지티플레이어 #게임뉴스 #게임소식 #게임정보 #게임덕후 #게임추천 #신작게임 #모바일게임 #PC게임 #콘솔게임 #문명7 #게임스컴 #이순신 #디얼터스 #EASPORTSFC27 #블루아카이브 #다크앤다커 #게임스타그램 #게이머",
+          "image_paths": [
+            "web\\instagram\\edition_086\\card_news.png",
+            "web\\instagram\\edition_086\\card_calendar.png",
+            "web\\instagram\\edition_086\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3946668783331107141_39332818166",
+            "url": "https://www.instagram.com/p/DbFYlkckuFF/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-07-22T14:53:33.598881",
+      "freegames_results": {
+        "posted": false,
+        "error": "Dry run"
+      },
+      "freegames_updated_at": "2026-07-24T15:15:03.073959"
+    }
+  }
+}

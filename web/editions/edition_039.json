@@ -1,0 +1,476 @@
+{
+  "num": "039",
+  "date": "2026-04-27",
+  "status": "published",
+  "schedule": {
+    "date": "2026-04-27",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "쉐이프즈 2",
+          "dev": "톱스프르게임즈",
+          "date": "4월 25일(토)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "스팀에서 '압도적으로 긍정적' 평가를 받은 공장 자동화 시뮬레이션 게임으로, 대규모 공장 건설 시스템인 '매뉴팩처 모드'와 함께 정식 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1774505",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "event",
+          "game": "젠레스 존 제로",
+          "dev": "호요버스",
+          "date": "4월 25일(토)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#f59e0b",
+          "note": "2026년 2분기 스팀 출시를 확정한 가운데, 5월 5일까지 스팀 버전 사전 테스트를 위한 테스터를 모집하고 있습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315828",
+          "source_name": "인벤"
+        },
+        {
+          "category": "event",
+          "game": "오메가 페넥스",
+          "dev": "스루메 공방",
+          "date": "4월 25일(토)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#f59e0b",
+          "note": "하이스피드 메카 슈팅 게임 '오메가 페넥스'의 오픈 베타 테스트가 시작되었으며, 게임의 초반부 미션과 메카 액션을 체험할 수 있습니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/002/G100248/20260424059/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "event",
+          "game": "파인딩 폴카",
+          "dev": "리드록스",
+          "date": "4월 25일(토)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#f59e0b",
+          "note": "사라진 반려견을 찾는 독특한 비주얼의 워킹 시뮬레이션 게임으로, 스팀을 통해 공개된 체험판 배포를 통해 정식 출시 전 분위기를 미리 경험할 수 있습니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/975/G097539/20260424037/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "매지컬 프린세스",
+          "dev": "마지, 네오트로",
+          "date": "4월 28일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "4월 28일 스팀으로 출시되는 육성 시뮬레이션 게임으로, 마법 학원을 배경으로 딸 '아리스'를 이끄는 40만 자 이상의 방대한 시나리오를 담고 있습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1774509",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "헬다이버즈 2",
+          "dev": "애로우헤드 게임 스튜디오",
+          "date": "4월 28일(화)",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "color": "#3b82f6",
+          "note": "4월 28일 신규 워본드 '엑소 엑스퍼트'가 출시되며, 방어막과 플라크 캐논을 장착한 새로운 엑소슈트 2종이 전장에 추가됩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/action/helldivers-2-is-getting-a-mech-themed-warbond-that-adds-two-new-exosuits-one-of-which-carries-a-shield-and-a-flak-cannon/",
+          "source_name": "PC Gamer"
+        }
+      ],
+      "events": [
+        {
+          "name": "카오스 제로 나이트메어 반주년 콜라보 카페 '나이트메어 가든 티파티'",
+          "note": "수집형 덱빌딩 RPG '카오스 제로 나이트메어' 출시 반주년 기념 오프라인 행사 및 이색 메뉴 판매",
+          "venue": "홍대 골든 크레마",
+          "date": "2026-04-25 ~ 2026-05-05",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=315825"
+        },
+        {
+          "name": "젠레스 존 제로 스팀 버전 사전 테스트 모집",
+          "note": "호요버스 '젠레스 존 제로'의 스팀 입점 확정에 따른 사전 테스터 모집",
+          "venue": "온라인",
+          "date": "2026-04-27 ~ 2026-05-05",
+          "tag": "베타 테스트",
+          "website": "https://www.inven.co.kr/webzine/news/?news=315828"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'에이리언: 아이솔레이션' 속편 티저 공개",
+          "source": "인벤",
+          "time": "4월 26일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315858"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "T1 '케리아' 류민석, 2029년까지 재계약",
+          "source": "인벤",
+          "time": "4월 26일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315846"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "'어쌔신 크리드 헥세' 디렉터, 유비소프트 퇴사",
+          "source": "IGN India",
+          "time": "4월 26일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/assassins-creed-codename-hexe/259424/assassins-creed-hexe-game-director-benoit-richer-exits-ubisoft-just-months-after-departure-of-previo"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "탑다운 슈팅 신작 '트루 컨페션' 최초 공개",
+          "source": "IGN India",
+          "time": "4월 26일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/259422/true-confession-official-announcement-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "FF7 리버스, 아사히 맥주 특별 콜라보 영상 공개",
+          "source": "4Gamer",
+          "time": "4월 26일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/865/G086563/20260426001/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'.45 파라벨럼 블러드하운드' 26년 여름 출시",
+          "source": "4Gamer",
+          "time": "4월 25일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/815/G081534/20260425023/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "트럼프 피격 용의자 제작 게임, 스팀 리뷰 폭격",
+          "source": "PC Gamer",
+          "time": "4월 26일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/gaming-industry/trump-shooting-suspects-steam-game-sees-review-bomb-spike-in-activity/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": [],
+      "items": [
+        {
+          "game": "AION2",
+          "period": "최근 30일",
+          "count": "1,020",
+          "sources": "커뮤니티",
+          "score": "2.7",
+          "pos": 6,
+          "neu": 71,
+          "neg": 23,
+          "keywords": [
+            {
+              "text": "Class Mention",
+              "positive": true
+            },
+            {
+              "text": "Dungeon / Raid Discussion",
+              "positive": true
+            },
+            {
+              "text": "DPS Comparison",
+              "positive": true
+            },
+            {
+              "text": "Buff/Nerf Debate",
+              "positive": true
+            },
+            {
+              "text": "Currency",
+              "positive": true
+            }
+          ],
+          "comments": [
+            {
+              "text": "핫스팟 하향이랑 무너진 게임 경제 때문에 서비스 종료할까 봐 겁나요.",
+              "positive": false
+            },
+            {
+              "text": "검성이나 궁성은 딸깍거려도 딜이 잘 나오는데 다른 직업은 너무 힘들어요.",
+              "positive": false
+            },
+            {
+              "text": "치유성은 조작이 편하고 던전 돌기가 좋아서 키우는 재미가 쏠쏠해요.",
+              "positive": true
+            }
+          ]
+        }
+      ]
+    },
+    "drk": {
+      "enabled": true,
+      "title": "플랫폼 장벽의 붕괴와 '경험의 연속성'이 만드는 새로운 시장 지배력",
+      "intro": "모바일 시장의 정점에 선 타이틀이 왜 다시 스팀이라는 가혹한 시험대에 오르는 것일까요? \n기기의 경계가 사라진 시대, 게이머의 시선이 머무는 곳은 더 이상 특정 하드웨어가 아닙니다.",
+      "points": "최근 '젠레스 존 제로'의 스팀 진출 선언과 '쉐이프즈 2' 같은 심층 시뮬레이션 장르의 약진은 게임 산업의 무게 중심이 플랫폼 권력에서 콘텐츠의 범용성으로 이동했음을 보여줍니다. 과거 특정 기기에 안주하던 대작들이 유저 피드백의 집결지인 PC 시장으로 모여드는 현상은 단순한 이식을 넘어선 전략적 확장이며, 이는 글로벌 시장에서의 검증을 거치려는 개발사들의 의지가 반영된 결과입니다. 🌐\n\n이러한 현상은 **소비자 심리와 게임 소비 구조**를 근본적으로 재편하고 있습니다. 유저들은 모바일의 편의성과 PC의 고품질 경험을 동시에 요구하며, 플랫폼 간의 '데이터 동기화'를 당연한 권리로 인식하기 시작했습니다. 이제 기업들에게 스팀과 같은 개방형 플랫폼에서의 '긍정적 평가'는 단순한 리뷰를 넘어, 브랜드의 기술력과 게임성을 증명하는 전 세계적인 신뢰의 척도가 되고 있습니다. 📈\n\n결국 게임의 흥행 공식은 화려한 마케팅이 아니라, **플랫폼의 물리적 한계를 극복하고 유저의 일상 속에 얼마나 깊숙이 침투하여 '연속적인 경험'을 제공하느냐**에 달려 있습니다. 하드웨어의 제약이 사라진 무한 경쟁 시장에서 살아남기 위해서는, 어떤 환경에서도 본질적인 재미를 유지할 수 있는 견고한 게임 디자인만이 유일한 생존 열쇠가 될 것입니다. 🔑\n\n하드웨어 사양의 격차가 점차 무의미해지는 지금, 여러분의 게임 리스트는 어떤 기준으로 채워지고 있습니까? 플랫폼 홀더들의 독점 전략이 점차 힘을 잃어가는 이 시점에서, 우리는 비로소 진정한 의미의 '콘텐츠 진검승부' 시대를 목격하고 있습니다. 🌌"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": true,
+      "items": [],
+      "title": "The French government announced they're going to replace Windows with Linux and they're holding a procession lol",
+      "score": 29519,
+      "url": "https://v.redd.it/q87o4yt1q7xg1",
+      "preview_img": "https://external-preview.redd.it/bHpudXd1djFxN3hnMcDeCY6_Dzf_4Lmc-tG3SrTYJYpfmHIjDaHqpdpwsfpi.png?format=pjpg&auto=webp&s=68b4eaa2f8ebb0f4b5cec85c6eb100ecbdca0461",
+      "permalink": "https://reddit.com/r/pcmasterrace/comments/1sutyrm/the_french_government_announced_theyre_going_to/",
+      "subreddit": "pcmasterrace",
+      "author": "Pezinhodemulher",
+      "num_comments": 763,
+      "what_happened": "프랑스 정부의 '리눅스 전면 도입 축하 행렬'이라는 제목과 달리, 게임 <어쌔신 크리드 유니티> 속 살벌한 군중과 단두대 장면을 매치해 윈도우의 종말을 혁명처럼 묘사한 것이 시각적 웃음 포인트입니다.",
+      "one_liner": "역시 혁명의 나라답게 OS 교체도 단두대급으로 화끈하네요. 윈도우 업데이트의 공포에서 해방되는 순간인가요! 🐧🪓"
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=039&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=039&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "shapez 2",
+        "releases.0.note": "A factory automation simulation game that received an 'Overwhelmingly Positive' rating on Steam. It has officially launched along with 'Manufacture Mode,' a large-scale factory construction system.",
+        "releases.0.dev": "tobspr Games",
+        "releases.1.game": "Zenless Zone Zero",
+        "releases.1.note": "While a Steam release has been confirmed for Q2 2026, the game is currently recruiting testers for a pre-release Steam version test until May 5.",
+        "releases.1.dev": "HoYoverse",
+        "releases.2.game": "Omega Phenix",
+        "releases.2.note": "The open beta test for the high-speed mecha shooting game 'Omega Phenix' has begun, allowing players to experience the early missions and mecha action.",
+        "releases.2.dev": "Surume-Kobo",
+        "releases.3.game": "Finding Polka",
+        "releases.3.note": "A walking simulation game with a unique visual style about searching for a lost pet dog. Players can experience the atmosphere before the official release through a demo available on Steam.",
+        "releases.3.dev": "Readrox",
+        "releases.4.game": "Magical Princess",
+        "releases.4.note": "A life simulation game releasing on Steam on April 28. Set in a magic academy, it features a vast scenario of over 400,000 characters as players guide their daughter, 'Iris.'",
+        "releases.4.dev": "Magi, Neotro Inc.",
+        "releases.5.game": "Helldivers 2",
+        "releases.5.note": "A new Warbond 'Exo-Experts' will be released on April 28, adding two new Exosuits equipped with shields and flak cannons to the battlefield.",
+        "releases.5.dev": "Arrowhead Game Studios",
+        "events.0.name": "Chaos Zero Nightmare 0.5 Anniversary Collaboration Cafe 'Nightmare Garden Tea Party'",
+        "events.0.note": "An offline event and sale of themed menu items celebrating the half-year anniversary of the collectible deck-building RPG 'Chaos Zero Nightmare.'",
+        "events.0.venue": "Golden Crema, Hongdae",
+        "events.1.name": "Zenless Zone Zero Steam Version Pre-test Recruitment",
+        "events.1.note": "Recruitment of pre-testers following the confirmation of HoYoverse's 'Zenless Zone Zero' coming to Steam.",
+        "events.1.venue": "Online"
+      },
+      "briefing": {
+        "items.0.title": "'Alien: Isolation' Sequel Teaser Revealed",
+        "items.0.source": "Inven",
+        "items.0.time": "April 26",
+        "items.1.title": "T1 'Keria' Ryu Min-seok Renews Contract Until 2029",
+        "items.1.source": "Inven",
+        "items.1.time": "April 26",
+        "items.2.title": "'Assassin's Creed Hexe' Director Leaves Ubisoft",
+        "items.2.source": "IGN India",
+        "items.2.time": "April 26",
+        "items.3.title": "New Top-Down Shooter 'True Confession' First Reveal",
+        "items.3.source": "IGN India",
+        "items.3.time": "April 26",
+        "items.4.title": "FF7 Rebirth x Asahi Beer Special Collaboration Video Released",
+        "items.4.source": "4Gamer",
+        "items.4.time": "April 26",
+        "items.5.title": "'.45 Parabellum Bloodhound' Releasing Summer 2026",
+        "items.5.source": "4Gamer",
+        "items.5.time": "April 25",
+        "items.6.title": "Game Made by Trump Shooting Suspect Faces Review Bombing on Steam",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "April 26"
+      },
+      "feedback": {
+        "items.0.game": "AION 2",
+        "items.0.period": "Past 30 days",
+        "items.0.keywords.0.text": "Class Mention",
+        "items.0.keywords.1.text": "Dungeon / Raid Discussion",
+        "items.0.keywords.2.text": "DPS Comparison",
+        "items.0.keywords.3.text": "Buff/Nerf Debate",
+        "items.0.keywords.4.text": "Currency",
+        "items.0.comments.0.text": "I'm afraid the game might shut down because of the hotspot nerfs and the broken game economy.",
+        "items.0.comments.1.text": "Gladiators and Rangers deal great damage even with low effort, but other classes are too difficult to play.",
+        "items.0.comments.2.text": "Clerics are fun to level up because the controls are comfortable and they are great for running dungeons."
+      },
+      "drk": {
+        "title": "The Collapse of Platform Barriers and the New Market Dominance Created by 'Continuity of Experience'",
+        "intro": "Why do titles at the pinnacle of the mobile market return to the harsh testing ground of Steam? In an era where device boundaries have vanished, gamers' attention is no longer fixed on specific hardware.",
+        "points": "The recent announcement of 'Zenless Zone Zero' entering Steam and the surge of deep simulation genres like 'shapez 2' demonstrate that the gaming industry's center of gravity has shifted from platform power to content versatility. The phenomenon of major titles, which previously settled for specific devices, gathering in the PC market—the hub of user feedback—is a strategic expansion beyond simple porting. It reflects the will of developers to undergo validation in the global market. 🌐\n\nThis trend is fundamentally reshaping consumer psychology and the structure of game consumption. Users now demand the convenience of mobile and the high-quality experience of PC simultaneously, beginning to perceive 'data synchronization' between platforms as a natural right. For companies, 'Positive Reviews' on open platforms like Steam are no longer just reviews; they have become a global benchmark of trust proving a brand's technical prowess and gameplay quality. 📈\n\nUltimately, the formula for a game's success lies not in flashy marketing, but in how deeply it penetrates a user's daily life to provide a 'continuous experience' by overcoming the physical limitations of platforms. To survive in an infinite competition market where hardware constraints have disappeared, a robust game design that can maintain essential fun in any environment will be the only key to survival. 🔑\n\nNow that hardware specification gaps are becoming meaningless, what criteria are you using to fill your game list? As the exclusive strategies of platform holders gradually lose power, we are finally witnessing an era of true 'content showdown.' 🌌"
+      },
+      "meme": {
+        "what_happened": "Despite the title 'French Government's Linux Adoption Celebration,' the visual humor comes from matching the grim crowd and guillotine scenes from the game <Assassin's Creed Unity> to depict the end of Windows as a revolution.",
+        "one_liner": "True to the country of revolution, even an OS change is as bold as a guillotine. Is this the moment of liberation from the terror of Windows updates! 🐧🪓"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "shapez 2",
+        "releases.0.note": "Steamで「圧倒的に好評」の評価を得た工場自動化シミュレーションゲームで、大規模工場建設システム「マニュファクチャ・モード」の導入と共に正式リリースされました。",
+        "releases.0.dev": "tobspr games",
+        "releases.1.game": "ゼンレスゾーンゼロ",
+        "releases.1.note": "2026年第2四半期のSteamリリースを確定した中、5月5日までSteam版の先行テストのためのテスターを募集しています。",
+        "releases.1.dev": "HoYoverse",
+        "releases.2.game": "オメガ・フェネクス",
+        "releases.2.note": "ハイスピードメカシューティングゲーム『オメガ・フェネクス』のオープンベータテストが開始され、ゲームの序盤ミッションとメカアクションを体験できます。",
+        "releases.2.dev": "するめ工房",
+        "releases.3.game": "Finding Polka",
+        "releases.3.note": "行方不明の愛犬を探す独特なビジュアルのウォーキングシミュレーターで、Steamで公開された体験版の配信を通じて、正式リリース前の雰囲気を一足先に体験できます。",
+        "releases.3.dev": "LeadLox",
+        "releases.4.game": "マジカルプリンセス",
+        "releases.4.note": "4月28日にSteamでリリースされる育成シミュレーションゲームで、魔法学院を舞台に娘「アリス」を導く40万字以上の膨大なシナリオを収録しています。",
+        "releases.4.dev": "Masi, Neotro",
+        "releases.5.game": "HELLDIVERS 2",
+        "releases.5.note": "4月28日に新規ウォーボンド「エクソ・エキスパート」がリリースされ、シールドとフラックキャノンを装備した2種類の新しいエクススーツが戦場に追加されます。",
+        "releases.5.dev": "Arrowhead Game Studios",
+        "events.0.name": "カオス・ゼロ・ナイトメア ハーフアニバーサリー・コラボカフェ「ナイトメア・ガーデン・ティーパーティー」",
+        "events.0.note": "収集型デッキ構築RPG『カオス・ゼロ・ナイトメア』リリース半周年記念オフラインイベントおよび限定メニューの販売",
+        "events.0.venue": "弘大（ホンデ） ゴールデンクレマ",
+        "events.1.name": "ゼンレスゾーンゼロ Steam版先行テスト募集",
+        "events.1.note": "HoYoverse『ゼンレスゾーンゼロ』のSteam展開確定に伴う先行テスター募集",
+        "events.1.venue": "オンライン"
+      },
+      "briefing": {
+        "items.0.title": "『エイリアン アイソレーション』続編のティーザーが公開",
+        "items.0.source": "Inven",
+        "items.0.time": "4月26日",
+        "items.1.title": "T1 'Keria' リュ・ミンソク、2029年まで契約更新",
+        "items.1.source": "Inven",
+        "items.1.time": "4月26日",
+        "items.2.title": "『アサシン クリード ヘクセ』のディレクターがUbisoftを退社",
+        "items.2.source": "IGN India",
+        "items.2.time": "4月26日",
+        "items.3.title": "新作トップダウンシューティング『True Confession』を初公開",
+        "items.3.source": "IGN India",
+        "items.3.time": "4月26日",
+        "items.4.title": "『FF7 リバース』、アサヒビールの特別コラボ動画を公開",
+        "items.4.source": "4Gamer",
+        "items.4.time": "4月26日",
+        "items.5.title": "『.45 Parabellum Bloodhound』2026年夏にリリース",
+        "items.5.source": "4Gamer",
+        "items.5.time": "4月25日",
+        "items.6.title": "トランプ氏銃撃容疑者が制作したゲーム、Steamレビューで批判殺到",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "4月26日"
+      },
+      "feedback": {
+        "items.0.game": "アイオン2",
+        "items.0.period": "直近30日間",
+        "items.0.keywords.0.text": "クラスへの言及",
+        "items.0.keywords.1.text": "ダンジョン・レイドの議論",
+        "items.0.keywords.2.text": "DPS比較",
+        "items.0.keywords.3.text": "バフ・ナーフ論争",
+        "items.0.keywords.4.text": "通貨",
+        "items.0.comments.0.text": "ホットスポットの下方修正と崩壊したゲーム経済のせいで、サービス終了するのではないかと不安です。",
+        "items.0.comments.1.text": "ソードウィングやボウウィングは操作が簡単でも火力が出るのに、他の職業は大変すぎます。",
+        "items.0.comments.2.text": "キュアウィングは操作が楽でダンジョンも回りやすいので、育てるのが本当に楽しいです。"
+      },
+      "drk": {
+        "title": "プラットフォームの壁の崩壊と「体験の連続性」が生む新たな市場支配力",
+        "intro": "モバイル市場の頂点に立つタイトルが、なぜ再びSteamという過酷な試練の場に上がるのでしょうか？デバイスの境界が消えた時代、ゲーマーの視線が留まる場所はもはや特定のハードウェアではありません。",
+        "points": "近年の『ゼンレスゾーンゼロ』のSteam進出宣言や、『shapez 2』のような深みのあるシミュレーションジャンルの躍進は、ゲーム産業の重心がプラットフォームの権力からコンテンツの汎用性へと移動したことを示しています。かつて特定のハードウェアに安住していた大作が、ユーザーフィードバックの集結地であるPC市場に集まる現象は、単なる移植を超えた戦略的拡張であり、これはグローバル市場での検証を試みようとする開発会社たちの意志が反映された結果です。🌐\n\nこのような現象は、**消費者心理とゲーム消費構造**を根本から再編しています。ユーザーはモバイルの利便性とPCの高品質な体験を同時に求め、プラットフォーム間の「データ同期」を当然の権利として認識し始めています。今や企業にとって、Steamのようなオープンなプラットフォームでの「好意的な評価」は単なるレビューを超え、ブランドの技術力とゲーム性を証明する世界的な信頼の尺度となっています。📈\n\n結局、ゲームのヒットの方程式は派手なマーケティングではなく、**プラットフォームの物理的な限界を克服し、ユーザーの日常の中にどれだけ深く入り込み「連続的な体験」を提供できるか**にかかっています。ハードウェアの制約がなくなった無限競争市場で生き残るためには、どのような環境でも本質的な楽しさを維持できる堅牢なゲームデザインこそが、唯一の生存の鍵となるでしょう。🔑\n\nハードウェア仕様の格差が次第に無意味になりつつある今、あなたのゲームリストはどのような基準で埋められていますか？プラットフォームホルダーの独占戦略が徐々に力を失いつつあるこの時点で、私たちはようやく真の意味での「コンテンツ真剣勝負」の時代を目撃しています。🌌"
+      },
+      "meme": {
+        "what_happened": "フランス政府の「Linux全面導入祝賀行列」というタイトルとは裏腹に、ゲーム『アサシン クリード ユニティ』内の殺伐とした群衆とギロチンのシーンを合わせ、Windowsの終焉を革命のように描写したのが視覚的な笑いのポイントです。",
+        "one_liner": "さすが革命の国らしく、OSの交換もギロチン級に過激ですね。Windowsアップデートの恐怖から解放される瞬間でしょうか！🐧🪓"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "플랫폼 경계가 무너진다! 🎮 끊김 없는 경험의 시대 (feat. 오늘의 밈 🤣)",
+    "en": "Platform barriers are falling! 💥 The era of seamless play (+ Meme of the Day 👾)",
+    "ja": "プラットフォームの壁が消える！🎮 「体験の連続性」が支配する新市場 (feat. 今日のミーム 😂)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ]
+}

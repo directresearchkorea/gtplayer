@@ -1,0 +1,459 @@
+{
+  "num": "102",
+  "date": "2026-08-13",
+  "status": "published",
+  "schedule": {
+    "date": "2026-08-13",
+    "time": "09:14",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "RO 라이트",
+          "dev": "그라비티",
+          "date": "8월 12일(수)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "8월 12일 글로벌 정식 출시된 라그나로크 IP 기반 신규 캐주얼 브랜드로, 첫 타이틀 'RO 라이트 - 애로우'를 함께 선보입니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1779038",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "검은사막",
+          "dev": "펄어비스",
+          "date": "8월 12일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "8월 12일 대규모 업데이트를 단행해 신들이 거주하는 마계 컨셉의 신규 지역 '에다니아 파트 2'를 새롭게 확장했습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1779015",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "헬 렛 루즈: 베트남",
+          "dev": "팀17",
+          "date": "8월 13일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 13일 정식 출시된 대규모 FPS 게임으로, 베트남전을 배경으로 100인 대규모 교전과 헬기, 지하 터널 등 전술적 요소가 새롭게 추가되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319442",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "군주의전쟁: 진격",
+          "dev": "스카이샤크 게임즈",
+          "date": "8월 13일(목)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "8월 13일 정식 출시된 모바일 전략 시뮬레이션 게임으로, 다양한 영웅 조합을 활용한 영지 확장과 실시간 전투를 제공합니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1778851",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "호라이즌 워커",
+          "dev": "젠틀매니악",
+          "date": "8월 13일(목)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "8월 13일 콘텐츠 업데이트를 실시하여 신규 캐릭터 '코토하'와 전용 시즌패스, 다중 부관 배치 시스템을 새롭게 선보였습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319439",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "TV 아카이브: 타이디 업 투게더",
+          "dev": "Steam",
+          "date": "8월 14일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 14일 스팀을 통해 정식 출시되는 협동 캐주얼 게임으로, 다른 플레이어와 힘을 모아 공간을 정돈하는 조작의 재미를 선사합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4934370/TV_Archive_Tidy_Up_Together/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "제18회 대통령배 아마추어 e스포츠 대회(KeG) 전국 결선",
+          "note": "전국 최강 아마추어 게이머를 가리는 KeG 전국 결선 대회",
+          "venue": "경북 경주",
+          "date": "2026-08-15 ~ 2026-08-16",
+          "tag": "e스포츠",
+          "website": "https://www.gamemeca.com/view.php?gid=1779014"
+        },
+        {
+          "name": "킹덤 하츠 개발 비하인드 생방송 (KINGDOM HEARTS DEEP...)",
+          "note": "디즈니&픽사 게임즈 주관, 킹덤 하츠 개발진 출연 제작 비하인드 온라인 생방송",
+          "venue": "온라인",
+          "date": "2026-08-16",
+          "tag": "쇼케이스",
+          "website": "https://www.4gamer.net/games/015/G101577/20260812039/"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'데이브 더 다이버' 모바일, 9월 17일 정식 출시",
+          "source": "인벤",
+          "time": "8월 13일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319460"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "인디 '메챠 카멜레온', 출시 2달 만에 2,000만 장 돌파",
+          "source": "인벤",
+          "time": "8월 12일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319426"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "WB, '호그와트 레거시' 후속작 개발 공식 확인",
+          "source": "IGN India",
+          "time": "8월 12일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/hogwarts-legacy-2-unofficial-title/268657/hogwarts-legacy-2-is-officially-in-the-works-confirms-warner-bros"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'헤일로: 캠페인 이볼브드', PS5·Xbox 판매량 5대5 기록",
+          "source": "IGN India",
+          "time": "8월 12일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/halo-campaign-evolved/268654/halo-campaign-evolved-sales-estimates-put-it-at-a-nearly-50-50-split-between-xbox-and-ps5-buyers"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'에버스페이스 2', 닌텐도 스위치 2 버전 정식 출시",
+          "source": "4Gamer",
+          "time": "8월 12일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/032/G103231/20260812022/"
+        },
+        {
+          "category": "discount",
+          "tag": "할인",
+          "title": "'아케이드 아카이브스 2 리지 레이서' 첫 30% 할인",
+          "source": "4Gamer",
+          "time": "8월 12일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/898/G089831/20260812041/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "RTS 기대작 '던 오브 워 4', 완성도 제고 위해 12월로 연기",
+          "source": "PC Gamer",
+          "time": "8월 12일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/strategy/dawn-of-war-4-has-been-delayed-we-saw-an-opportunity-to-further-enhance-dawn-of-war-4-and-deliver-the-quality-of-experience-weve-always-envisioned/"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "CDPR, '위쳐' 멀티 스핀오프 개발팀 20% 추가 감원",
+          "source": "GamesIndustry.biz",
+          "time": "8월 12일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/witcher-multiplayer-spin-off-project-sirius-hit-by-fresh-layoffs"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "독점의 종말과 본질의 승리: 게임 시장의 새 흥행 공식",
+      "intro": "한때 플랫폼의 자존심이었던 타이틀이 경쟁 기기에서 동일한 판매량을 기록하고, 작은 인디 게임이 대기업을 압도하는 시대가 열렸습니다.\n우리가 알던 게임 산업의 흥행 공식은 과연 어떻게 재편되고 있는 것일까요? 🎮",
+      "points": "오늘 발표된 뉴스들은 게임 시장의 패러다임이 급격히 변화하고 있음을 명확히 보여줍니다. 마이크로소프트의 핵심 IP인 '헤일로' 신작이 PS5와 Xbox에서 5대5의 판매 비중을 기록하고, 인디 게임 '메챠 카멜레온'이 단 2달 만에 2,000만 장을 판매한 반면, CDPR은 '위쳐' 멀티플레이 프로젝트 인력을 축소했습니다. 📉\n\n이는 **플랫폼 구조**와 **소비자 심리**의 근본적인 변화를 의미합니다. 게이머들은 더 이상 특정 하드웨어나 화려한 AAA 브랜드라는 이유만으로 지갑을 열지 않으며, 직관적인 재미와 완성도를 최우선으로 선택합니다. 독점작으로 유저를 가두던 장벽이 무너지면서, 개발사들은 모든 플랫폼에서 순수한 콘텐츠 경쟁력으로 승부해야 하는 환경에 직면했습니다. 🌐\n\n결국 오늘날의 시장은 **거대한 자본과 플랫폼의 후광보다 확실한 재미를 선사하는 기획력이 승리하는 시대**로 진화했습니다. 무리한 라이브 서비스 멀티플레이 확장보다는, 접점을 다변화하고 멀티플랫폼 환경에서 게이머의 시간을 사로잡는 것이 가장 유효한 생존 전략입니다. 💡\n\n플랫폼의 경계가 사라진 지금, 여러분이 오직 '게임 고유의 재미'만을 보고 선택했던 마지막 타이틀은 무엇이었습니까? ❓"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": true,
+      "title": "Hell Let Loose: Vietnam - Official Launch Trailer",
+      "channel": "IGN",
+      "videoId": "tkNdpNP-wWI",
+      "url": "https://www.youtube.com/watch?v=tkNdpNP-wWI",
+      "thumbnail": "https://i.ytimg.com/vi/tkNdpNP-wWI/hqdefault.jpg",
+      "comment": "이번 주 게임 뉴스레터의 화제작은 베트남전을 배경으로 한 대규모 전술 FPS 신작, '헬 렛 루즈: 베트남'입니다. 🎮\n공개된 공식 트레일러에서는 울창한 정글 속 긴박한 보병전과 헬리콥터 강하 장면이 실감 나는 하이라이트로 펼쳐집니다. 🚁\n생생한 전장의 긴장감을 직접 느낄 수 있는 이번 트레일러를 지금 바로 확인해 보세요! ✨",
+      "search_query": "Hell Let Loose Vietnam Official Trailer",
+      "ai_game_name": "헬 렛 루즈: 베트남",
+      "ai_reason": "베트남전을 배경으로 한 100인 대규모 전술 FPS 신작으로, 이전 추천작과 달리 웅장하고 박진감 넘치는 실감 나는 전장 비주얼과 압도적인 액션을 감상할 수 있습니다."
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "RO Lite",
+        "releases.0.note": "A new casual brand based on the Ragnarok IP officially launched globally on August 12, introducing its first title, 'RO Lite - Arrow'.",
+        "releases.0.dev": "Gravity",
+        "releases.1.game": "Black Desert",
+        "releases.1.note": "A major update was released on August 12, expanding the new area 'Edania Part 2,' themed around a Demon Realm where gods reside.",
+        "releases.1.dev": "Pearl Abyss",
+        "releases.2.game": "Hell Let Loose: Vietnam",
+        "releases.2.note": "A large-scale FPS game officially released on August 13. Set during the Vietnam War, it introduces new tactical elements such as 100-player large-scale battles, helicopters, and underground tunnels.",
+        "releases.2.dev": "Team17",
+        "releases.3.game": "Lord's War: Advance",
+        "releases.3.note": "A mobile strategy simulation game officially released on August 13, featuring real-time combat and territory expansion using various hero combinations.",
+        "releases.3.dev": "Skyshark Games",
+        "releases.4.game": "Horizon Walker",
+        "releases.4.note": "A content update was conducted on August 13, introducing the new character 'Kotoha,' an exclusive season pass, and a multi-adjutant deployment system.",
+        "releases.4.dev": "GentleManiac",
+        "releases.5.game": "TV Archive: Tidy Up Together",
+        "releases.5.note": "A co-op casual game officially launching on Steam on August 14, offering the fun of working together with other players to tidy up spaces.",
+        "releases.5.dev": "Steam",
+        "events.0.name": "18th President's Cup Amateur Esports Tournament (KeG) National Finals",
+        "events.0.note": "The KeG National Finals tournament to crown the best amateur gamer in the nation.",
+        "events.0.venue": "Gyeongju, Gyeongbuk",
+        "events.1.name": "KINGDOM HEARTS Behind-the-Scenes Live Stream (KINGDOM HEARTS DEEP...)",
+        "events.1.note": "An online live stream hosted by Disney & Pixar Games featuring the Kingdom Hearts development team sharing behind-the-scenes stories.",
+        "events.1.venue": "Online"
+      },
+      "briefing": {
+        "items.0.title": "'Dave the Diver' Mobile Officially Launches on September 17",
+        "items.0.source": "Inven",
+        "items.0.time": "August 13",
+        "items.1.title": "Indie Game 'Mecha Chameleon' Surpasses 20 Million Copies Sold in 2 Months",
+        "items.1.source": "Inven",
+        "items.1.time": "August 12",
+        "items.2.title": "WB Officially Confirms Development of 'Hogwarts Legacy' Sequel",
+        "items.2.source": "IGN India",
+        "items.2.time": "August 12",
+        "items.3.title": "'Halo: Campaign Evolved' Records 5:5 Sales Split Between PS5 and Xbox",
+        "items.3.source": "IGN India",
+        "items.3.time": "August 12",
+        "items.4.title": "'EVERSPACE 2' Officially Released on Nintendo Switch 2",
+        "items.4.source": "4Gamer",
+        "items.4.time": "August 12",
+        "items.5.title": "'Arcade Archives 2 Ridge Racer' Gets First 30% Discount",
+        "items.5.source": "4Gamer",
+        "items.5.time": "August 12",
+        "items.6.title": "Anticipated RTS 'Dawn of War 4' Delayed to December for Higher Polish",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "August 12",
+        "items.7.title": "CDPR Lays Off Additional 20% of 'The Witcher' Multiplayer Spin-off Team",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "August 12"
+      },
+      "drk": {
+        "title": "The End of Exclusivity and the Victory of Essence: The Gaming Market's New Formula for Success",
+        "intro": "An era has arrived where titles that were once the pride of a single platform achieve identical sales figures on competing devices, and small indie games overwhelm industry giants.\nHow exactly is the success formula of the gaming industry we once knew being reshaped? 🎮",
+        "points": "Today's news clearly demonstrates that the paradigm of the gaming market is undergoing a rapid shift. Microsoft's key IP, the new 'Halo' title, recorded a 5:5 sales split across PS5 and Xbox, and the indie game 'Mecha Chameleon' sold 20 million copies in just two months, whereas CDPR scaled down personnel for its 'The Witcher' multiplayer project. 📉\n\nThis signifies a fundamental change in **platform structures** and **consumer mindsets**. Gamers no longer open their wallets simply because a title belongs to specific hardware or carries a flashy AAA brand name; instead, they prioritize intuitive fun and polished quality above all else. As the walls of platform exclusivity crumble, developers face an environment where they must compete purely on content appeal across every platform. 🌐\n\nUltimately, today's market has evolved into an **era where creative design delivering genuine fun triumphs over massive capital and platform prestige**. Rather than forcing live-service multiplayer expansions, the most effective survival strategy is to diversify touchpoints and capture gamers' time in a multiplatform environment. 💡\n\nNow that platform boundaries have dissolved, what was the last title you chose solely for its 'inherent gameplay fun'? ❓"
+      },
+      "trailer": {
+        "title": "Hell Let Loose: Vietnam - Official Launch Trailer",
+        "comment": "This week's highlight in the game newsletter is 'Hell Let Loose: Vietnam', a new large-scale tactical FPS set during the Vietnam War. 🎮\nThe newly released official trailer showcases tense infantry combat in dense jungles and realistic helicopter insertion scenes as key highlights. 🚁\nCheck out the trailer right now to experience the vivid tension of the battlefield firsthand! ✨"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ROライト",
+        "releases.0.note": "8月12日にグローバル正式リリースされたラグナロクIPベースの新規カジュアルブランドで、最初のタイトル『ROライト - アロー』を併せてお披露目します。",
+        "releases.0.dev": "グラビティ",
+        "releases.1.game": "黒い砂漠",
+        "releases.1.note": "8月12日に大規模アップデートを実施し、神々が居住する魔界コンセプトの新規地域「エダニア パート2」を新たに拡張しました。",
+        "releases.1.dev": "パールアビス",
+        "releases.2.game": "ヘル・レット・ルーズ：ベトナム",
+        "releases.2.note": "8月13日に正式リリースされた大規模FPSゲームで、ベトナム戦争を舞台に100人規模の戦闘やヘリコプター、地下トンネルなどの戦術的要素が新たに追加されました。",
+        "releases.2.dev": "Team17",
+        "releases.3.game": "君主の戦争：進撃",
+        "releases.3.note": "8月13日に正式リリースされたモバイル戦略シミュレーションゲームで、多様な英雄の組み合わせを活用した領地拡大とリアルタイム戦闘を提供します。",
+        "releases.3.dev": "スカイシャークゲームズ",
+        "releases.4.game": "ホライゾンウォーカー",
+        "releases.4.note": "8月13日にコンテンツアップデートを実施し、新規キャラクター「コトハ」と専用シーズンパス、多重副官配置システムを新たにお披露目しました。",
+        "releases.4.dev": "ジェントルマニアック",
+        "releases.5.game": "TVアーカイブ：タイディ・アップ・トゥギャザー",
+        "releases.5.note": "8月14日にSteamを通じて正式リリースされる協力カジュアルゲームで、他のプレイヤーと協力して空間を片付ける操作の楽しさを提供します。",
+        "releases.5.dev": "Steam",
+        "events.0.name": "第18回大統領杯アマチュアeスポーツ大会（KeG）全国決勝",
+        "events.0.note": "全国最強のアマチュアゲーマーを決めるKeG全国決勝大会",
+        "events.0.venue": "慶北 慶州",
+        "events.1.name": "キングダム ハーツ 開発ビハインド生放送 (KINGDOM HEARTS DEEP...)",
+        "events.1.note": "ディズニー＆ピクサー・ゲームズ主催、キングダム ハーツ開発陣が出演する制作ビハインドオンライン生放送",
+        "events.1.venue": "オンライン"
+      },
+      "briefing": {
+        "items.0.title": "『デイヴ・ザ・ダイバー』モバイル、9月17日に正式リリース",
+        "items.0.source": "INVEN",
+        "items.0.time": "8月13일",
+        "items.1.title": "インディー『メチャ・カメレオン』、リリース2か月で2,000万本突破",
+        "items.1.source": "INVEN",
+        "items.1.time": "8월 12일",
+        "items.2.title": "WB、『ホグワーツ・レガシー』続編の開発を正式確認",
+        "items.2.source": "IGN India",
+        "items.2.time": "8월 12일",
+        "items.3.title": "『ヘイロー：キャンペーン・エボルヴ』、PS5・Xboxの販売比率が5対5を記録",
+        "items.3.source": "IGN India",
+        "items.3.time": "8월 12일",
+        "items.4.title": "『エバースペース2』、Nintendo Switch 2版が正式リリース",
+        "items.4.source": "4Gamer",
+        "items.4.time": "8월 12일",
+        "items.5.title": "『アーケードアーカイブス2 リッジレーサー』初の30%割引",
+        "items.5.source": "4Gamer",
+        "items.5.time": "8월 12일",
+        "items.6.title": "RTS期待作『ドーン・オブ・ウォー4』、完成度向上のため12月に延期",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "8월 12일",
+        "items.7.title": "CDPR、『ウィッチャー』マルチスピンオフ開発チームの20%を追加削減",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "8월 12일"
+      },
+      "drk": {
+        "title": "独占の終焉と本質の勝利：ゲーム市場の新たなヒットの方程式",
+        "intro": "かつてプラットフォームの誇りであったタイトルが競合機で同等の販売量を記録し、小さなインディーゲームが大手企業を圧倒する時代が到来しました。\n私たちが知っていたゲーム産業のヒットの方程式は、果たしてどのように再編されつつあるのでしょうか？ 🎮",
+        "points": "本日発表されたニュースは、ゲーム市場のパラダイムが急速に変化していることを明確に示しています。マイクロソフトの核となるIPである『ヘイロー』の新作がPS5とXboxで5対5の販売比率を記録し、インディーゲーム『メチャ・カメレオン』がわずか2か月で2,000万本を販売した一方で、CDPRは『ウィッチャー』マルチプレイヤープロジェクトの人員を縮小しました。 📉\n\nこれは**プラットフォーム構造**と**消費者心理**の根本的な変化を意味します。ゲーマーはもはや特定のハードウェアや華やかなAAAブランドという理由だけでは財布を開かず、直感的な面白さと完成度を最優先に選択します。独占タイトルでユーザーを囲い込んでいた壁が崩壊したことで、開発会社はすべてのプラットフォームで純粋なコンテンツ競争力によって勝負しなければならない環境に直面しています。 🌐\n\n結局のところ、今日の市場は**巨大な資本やプラットフォームの後光よりも、確かな面白さを提供する企画力が勝利する時代**へと進化しました。無理なライブサービス型のマルチプレイヤー拡張よりも、接点を多様化し、マルチプラットフォーム環境でゲーマーの時間を惹きつけることが最も有効な生存戦略です。 💡\n\nプラットフォームの境界が消え去った今、あなたがただ「ゲーム固有の面白さ」だけを見て選んだ最後のタイトルは何でしたか？ ❓"
+      },
+      "trailer": {
+        "title": "Hell Let Loose: Vietnam - Official Launch Trailer",
+        "comment": "今週のゲームニュースレターの話題作は、ベトナム戦争を舞台にした大規模戦術FPSの新作『ヘル・レット・ルーズ：ベトナム』です。 🎮\n公開された公式トレーラーでは、鬱蒼としたジャングルの中での緊迫した歩兵戦やヘリコプター降下シーンがリアルなハイライトとして繰り広げられます。 🚁\n臨場感あふれる戦場の緊張感を直接感じられる今回のトレーラーを今すぐチェックしてみてください！ ✨"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "독점의 시대는 끝났다?!🔥 게임 시장의 새 흥행 공식 (feat. 헬 렛 루즈: 베트남 트레일러 🪖)",
+    "en": "RIP Console Exclusives? 📉 Gaming’s New Winning Formula (feat. Hell Let Loose: Vietnam Trailer 🔥)",
+    "ja": "「独占」の時代は終了！？🔥 ゲーム市場の新たなヒット法則（feat. Hell Let Loose: Vietnam 最新PV 🪖）"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "게이머라면 주목! 초대박 인디 갓겜이 모바일로 찾아옵니다 📱\n'데이브 더 다이버' 모바일이 오는 9월 17일 정식 출시된대요! 🍣\n\nhttps://www.gtplayer.net/edition-102/\n\n#데이브더다이버 #게임소식 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-08-13T09:48:41.596874"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "8월 13일 오늘의 게임 소식 🎮\n📰 [뉴스] 데이브 더 다이버 모바일 확정과 헤일로 PS5·Xbox 5대5 판매 기록까지!\n📅 [출시] 헬 렛 루즈: 베트남, 검은사막, RO 라이트 등 이번 주 신작 라인업 🪖\n✍️ [인사이트] 독점의 시대는 끝났다! 인디와 본질이 증명하는 새로운 흥행 공식 🔥\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #GTPLAYER #지티플레이어 #게임소식 #신작게임 #게임추천 #데이브더다이버 #헬렛루즈 #검은사막 #헤일로 #닌텐도스위치 #모바일게임 #PC게임 #스팀게임 #인디게임 #게임스타그램 #게임덕후 #콘솔게임 #게이머 #게임이슈",
+          "image_paths": [
+            "web\\instagram\\edition_102\\card_cover.png",
+            "web\\instagram\\edition_102\\card_news.png",
+            "web\\instagram\\edition_102\\card_calendar.png",
+            "web\\instagram\\edition_102\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3962461195861192733_39332818166",
+            "url": "https://www.instagram.com/p/Db9fXavk3Ad/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-08-13T09:50:14.339142"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "RIP Console Exclusives? 📉 Gaming’s New Winning Formula (feat. Hell Let Loose: Vietnam Trailer 🔥)\n\nThe console wars are officially shifting as major titles shatter sales records across competing platforms. From Halo splitting sales equally on PS5 and Xbox to massive indie breakout hits, gaming is entering a wild new era.\n\nhttps://www.gtplayer.net/edition-102-en/",
+        "error": null
+      },
+      "updated_at": "2026-08-13T10:07:16.175605"
+    },
+    "youtube_community": {
+      "results": {
+        "posted": true,
+        "text": "🔥 독점 타이틀 시대의 종말?! 멀티 플랫폼이 대세로 자리 잡은 게임 시장의 새로운 흥행 공식을 알려드립니다! 🎮\n\n주요 뉴스 요약:\n- 독점작 파티는 끝났다? 멀티 플랫폼 전략으로 변화하는 게임 트렌드 분석\n- 밀리터리 덕후들 심장 뛰게 만든 헬 렛 루즈: 베트남 트레일러 기습 공개! 🪖\n- Dr. K가 풀어주는 요즘 잘나가는 게임들의 진짜 흥행 공식과 인사이트\n\n🎮 전체 캘린더와 상세 기사는 아래 뉴스레터에서 확인해 보세요!\n👉 https://www.gtplayer.net/edition-102/",
+        "error": null
+      },
+      "updated_at": "2026-08-13T16:29:09.017560"
+    }
+  }
+}

@@ -1,0 +1,488 @@
+{
+  "num": "037",
+  "date": "2026-04-23",
+  "status": "published",
+  "schedule": {
+    "date": "2026-04-23",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "드래곤 퀘스트 스매시/그로우",
+          "dev": "스퀘어 에닉스",
+          "date": "4월 22일(수)",
+          "platforms": [
+            "iOS",
+            "Android"
+          ],
+          "color": "#10b981",
+          "note": "4월 22일 글로벌 출시된 모바일 액션 로그라이트 게임으로, 드래곤 퀘스트 IP의 몬스터들을 조작하여 적을 물리치며 성장하는 재미를 담았습니다.",
+          "country": "IN",
+          "article_url": "https://www.ign.com/articles/action-focused-roguelite-dragon-quest-smashgrow-launches-on-ios-and-android",
+          "source_name": "IGN"
+        },
+        {
+          "category": "update",
+          "game": "로스트아크",
+          "dev": "스마일게이트",
+          "date": "4월 22일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "4월 22일 업데이트를 통해 카제로스 레이드 1막과 2막에 고난도 버전인 '익스트림 모드'를 추가하여 이용자들에게 새로운 도전을 제공합니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1774324",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "로드나인",
+          "dev": "엔엑스쓰리게임즈",
+          "date": "4월 22일(수)",
+          "platforms": [
+            "PC",
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "4월 22일 대규모 업데이트를 실시하여 신규 성장 시스템인 '어빌리티 각성'을 선보이고 총 70종의 신규 직업을 추가했습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315706",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "페이트/그랜드 오더",
+          "dev": "넷마블",
+          "date": "4월 22일(수)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "4월 22일 신규 메인 시나리오인 '주장3 신영장후계전 아키타입 인셉션' 업데이트와 함께 5성 서번트 'BB두바이' 소환 픽업을 시작했습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315708",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "게임숍 사양 (게임숍의 황혼)",
+          "dev": "로브 스튜디오",
+          "date": "4월 22일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "4월 22일 스팀에 출시된 경영 시뮬레이션 게임으로, 1985년부터 2010년까지의 격동하는 게임 업계 흐름 속에서 게임숍을 운영하는 과정을 그립니다.",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202604/72752",
+          "source_name": "Famitsu"
+        },
+        {
+          "category": "release",
+          "game": "우리들의 킹덤: 시간 먹는 과일과 고대의 마물",
+          "dev": "인티 크리에이츠",
+          "date": "4월 23일(목)",
+          "platforms": [
+            "PC",
+            "PS4",
+            "PS5",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "4월 23일 정식 출시된 액션 RPG로, 과거 소셜 게임이었던 작품을 왕국 복구 시뮬레이션 요소가 가미된 싱글 플레이 전용 게임으로 재구성했습니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202604/72694",
+          "source_name": "電撃オンライン"
+        }
+      ],
+      "events": [
+        {
+          "name": "2026 파주슈필",
+          "note": "국내 최대 규모의 야외 보드게임 축제 (4회)",
+          "venue": "경기도 파주시 경기미래교육 파주캠퍼스",
+          "date": "2026-05-09 ~ 2026-05-10",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=315698"
+        },
+        {
+          "name": "2026 LCK MSI 대표 선발전 결승",
+          "note": "미드 시즌 인비테이셔널(MSI)에 진출할 LCK 대표팀 결정전",
+          "venue": "원주종합체육관",
+          "date": "2026-06-12",
+          "tag": "e스포츠",
+          "website": "https://www.gamemeca.com/view.php?gid=1774325"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "2026 LCK MSI 선발전, 6월 원주서 개최 확정",
+          "source": "게임메카",
+          "time": "4월 22일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1774325"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'RF 온라인 넥스트', 가오가이가 콜라보 업데이트",
+          "source": "인벤",
+          "time": "4월 22일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315705"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "닌텐도 팬들, 관세 환급금 반환 요구 집단 소송 제기",
+          "source": "IGN India",
+          "time": "4월 22일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/nintendo-switch-1/259096/nintendo-fans-demand-tariff-refunds-returned-to-customers"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "디아블로 4 '증오의 그릇' 오프닝 시네마틱 공개",
+          "source": "IGN India",
+          "time": "4월 22일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/diablo-iv-lord-of-hatred/259102/diablo-4-lord-of-hatred-official-opening-cinematic"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "MMORPG '카오스 월드', 4월 29일 글로벌 출시",
+          "source": "4Gamer",
+          "time": "4월 22일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/997/G099721/20260422035/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "푸류, 신작 '프로젝트 앨리스' 티저 및 공식 계정 공개",
+          "source": "電撃オンライン",
+          "time": "4월 22일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202604/72714"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "코에이 테크모, '인왕 3' 성공에 실적 전망 상향",
+          "source": "GamesIndustry.biz",
+          "time": "4월 22일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/koei-tecmo-revises-fy26-results-following-success-of-pokemon-pokopia-and-nioh-3"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "헤일로 주역 '키키 울프킬', 28년 만에 MS 퇴사",
+          "source": "PC Gamer",
+          "time": "4월 22일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/gaming-industry/kiki-wolfkill-longtime-halo-veteran-and-head-of-xbox-film-and-tv-has-left-microsoft-after-nearly-30-years/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": [],
+      "items": [
+        {
+          "game": "AION2",
+          "period": "최근 30일",
+          "count": "3,017",
+          "sources": "커뮤니티",
+          "score": "2.6",
+          "pos": 6,
+          "neu": 70,
+          "neg": 24,
+          "keywords": [
+            {
+              "text": "Class Mention",
+              "positive": true
+            },
+            {
+              "text": "DPS Comparison",
+              "positive": true
+            },
+            {
+              "text": "Buff/Nerf Debate",
+              "positive": true
+            },
+            {
+              "text": "Dungeon / Raid Discussion",
+              "positive": true
+            },
+            {
+              "text": "Anger",
+              "positive": true
+            }
+          ],
+          "comments": [
+            {
+              "text": "히든큐브 보상을 늘리면서 열쇠 확률을 낮춘 건 유저 기만이에요.",
+              "positive": false
+            },
+            {
+              "text": "직업 간 딜량 격차와 종족 불균형 때문에 사냥조차 하기 힘들어요.",
+              "positive": false
+            },
+            {
+              "text": "버그를 방치하고 패치 내역을 모호하게 공개하는 운영에 실망했어요.",
+              "positive": false
+            }
+          ]
+        }
+      ]
+    },
+    "drk": {
+      "enabled": true,
+      "title": "IP의 생존 전략: 과거의 유산을 현대적 가치로 재구성하다",
+      "intro": "1985년의 게임숍 주인과 2024년의 모바일 게이머가 공유하는 감각은 무엇일까요?\n단순한 복고를 넘어, 기존 IP의 문법을 완전히 재구성하는 '리바이벌' 경쟁이 시작되었습니다.",
+      "points": "최근 출시된 '우리들의 킹덤'은 과거의 소셜 게임을 싱글 플레이 RPG로 과감히 재구성했으며, '게임숍 사양'은 업계의 황금기를 경영 시뮬레이션으로 복원해냈습니다. 드래곤 퀘스트와 페이트 같은 거대 IP 역시 모바일 로그라이트나 심층적인 시나리오 업데이트를 통해 끊임없이 생명력을 연장하며 시장에 새로운 활력을 불어넣고 있습니다. 🎮\n\n이러한 흐름은 **소비자 심리**의 안정을 추구하는 동시에, 검증된 IP를 다양한 장르와 **실제 게임 형태의 변화**로 연결하려는 산업적 전략입니다. 신규 IP 개발의 리스크를 줄이고 기존 팬덤의 충성도를 극대화하는 '보수적 혁신'이 주류가 됨에 따라, 게이머들은 익숙한 세계관 안에서 전혀 다른 플레이 메커니즘을 경험하는 구조에 익숙해지고 있습니다. 📈\n\n**이제 게임 산업은 무(無)에서 유(有)를 창조하는 모험보다, 기존 IP의 본질을 현대적 감각으로 재조립(Re-assemble)하는 능력이 핵심 경쟁력이 되었습니다.** 창조적 파괴가 아닌 '창조적 복원'이 시장의 수익 구조를 지탱하는 가장 강력한 엔진이 된 셈입니다. 💡\n\n결국 익숙함이라는 안정 장치와 새로움이라는 자극 사이에서 정교하게 균형을 맞추는 게임만이 살아남는 시대입니다. 여러분은 과거의 추억이 담긴 게임이 어떤 장르로 재탄생했을 때 가장 지갑을 열고 싶어지십니까? 🔍"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": true,
+      "title": "DIABLO 4 Opening Cinematic (2023) 4K ULTRA HD",
+      "channel": "GameClips",
+      "videoId": "L9wc4CMinuM",
+      "url": "https://www.youtube.com/watch?v=L9wc4CMinuM",
+      "thumbnail": "https://i.ytimg.com/vi/L9wc4CMinuM/hqdefault.jpg",
+      "comment": "이번 주 화제작은 블리자드 엔터테인먼트의 상징적인 액션 RPG, '디아블로 4: 증오의 그릇'입니다. ⚔️\n4K 고화질로 구현된 이번 오프닝 시네마틱은 성역의 어두운 분위기와 압도적인 몰입감을 선사하는 영상미가 가장 큰 하이라이트입니다. 🌌\n어둠에 맞서는 웅장한 서막을 예고하는 이 특별한 영상을 통해 전설적인 여정의 시작을 경험해 보세요. 🔥",
+      "search_query": "Diablo IV Vessel of Hatred Official Opening Cinematic",
+      "ai_game_name": "디아블로 4: 증오의 그릇",
+      "ai_reason": "블리자드 특유의 압도적인 시네마틱 퀄리티와 증오의 군주 '메피스토'의 귀환을 알리는 어둡고 긴장감 넘치는 연출이 글로벌 게이머들 사이에서 큰 화제가 되고 있습니다."
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=037&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=037&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Dragon Quest Smash/Grow",
+        "releases.0.note": "A mobile action roguelite game released globally on April 22nd, capturing the fun of growing while defeating enemies by controlling monsters from the Dragon Quest IP.",
+        "releases.0.dev": "Square Enix",
+        "releases.1.game": "Lost Ark",
+        "releases.1.note": "Through the April 22nd update, the high-difficulty 'Extreme Mode' was added to Kazeros Raid Acts 1 and 2, providing a new challenge for users.",
+        "releases.1.dev": "Smilegate",
+        "releases.2.game": "Lord Nine",
+        "releases.2.note": "Conducted a major update on April 22nd, introducing a new growth system called 'Ability Awakening' and adding a total of 70 new classes.",
+        "releases.2.dev": "NX3 Games",
+        "releases.3.game": "Fate/Grand Order",
+        "releases.3.note": "Along with the new main scenario 'Ordeal Call III: Humanity's Successor War, Archetype Inception' update on April 22nd, the summoning pickup for the 5-star Servant 'BB Dubai' has begun.",
+        "releases.3.dev": "Netmarble",
+        "releases.4.game": "Game Shop Specs (The Twilight of Game Shops)",
+        "releases.4.note": "A management simulation game released on Steam on April 22nd, depicting the process of running a game shop amidst the turbulent trends of the game industry from 1985 to 2010.",
+        "releases.4.dev": "Lobe Studio",
+        "releases.5.game": "Our Kingdom: The Time-Eating Fruit and the Ancient Monsters",
+        "releases.5.note": "An action RPG officially released on April 23rd, restructuring a former social game into a single-player-only game with kingdom restoration simulation elements added.",
+        "releases.5.dev": "Inti Creates",
+        "events.0.name": "2026 Paju Spiel",
+        "events.0.note": "The largest outdoor board game festival in Korea (4th edition)",
+        "events.0.venue": "Gyeonggi Future Education Paju Campus, Paju-si, Gyeonggi-do",
+        "events.1.name": "2026 LCK MSI Representative Selection Finals",
+        "events.1.note": "Selection match for the LCK representative team to advance to the Mid-Season Invitational (MSI)",
+        "events.1.venue": "Wonju Gymnasium"
+      },
+      "briefing": {
+        "items.0.title": "2026 LCK MSI Selection Match Confirmed to be Held in Wonju in June",
+        "items.0.source": "GameMeca",
+        "items.0.time": "April 22",
+        "items.1.title": "'RF Online Next' Collaborates with GaoGaiGar for Update",
+        "items.1.source": "Inven",
+        "items.1.time": "April 22",
+        "items.2.title": "Nintendo Fans File Class Action Lawsuit Demanding Return of Customs Duty Refunds",
+        "items.2.source": "IGN India",
+        "items.2.time": "April 22",
+        "items.3.title": "Diablo IV 'Vessel of Hatred' Opening Cinematic Revealed",
+        "items.3.source": "IGN India",
+        "items.3.time": "April 22",
+        "items.4.title": "MMORPG 'Chaos World' to Launch Globally on April 29",
+        "items.4.source": "4Gamer",
+        "items.4.time": "April 22",
+        "items.5.title": "FuRyu Reveals Teaser and Official Account for New Title 'Project Alice'",
+        "items.5.source": "Dengeki Online",
+        "items.5.time": "April 22",
+        "items.6.title": "Koei Tecmo Raises Earnings Outlook Following Success of 'Nioh 3'",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "April 22",
+        "items.7.title": "Halo Lead 'Kiki Wolfkill' Leaves MS After 28 Years",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "April 22"
+      },
+      "feedback": {
+        "items.0.game": "AION2",
+        "items.0.period": "Last 30 days",
+        "items.0.keywords.0.text": "Class Mention",
+        "items.0.keywords.1.text": "DPS Comparison",
+        "items.0.keywords.2.text": "Buff/Nerf Debate",
+        "items.0.keywords.3.text": "Dungeon / Raid Discussion",
+        "items.0.keywords.4.text": "Anger",
+        "items.0.comments.0.text": "Lowering the key drop rate while increasing Hidden Cube rewards is a deception to the users.",
+        "items.0.comments.1.text": "It's hard to even hunt because of the damage gap between classes and racial imbalance.",
+        "items.0.comments.2.text": "I'm disappointed with the management for neglecting bugs and vaguely disclosing patch notes."
+      },
+      "drk": {
+        "title": "IP Survival Strategy: Restructuring Past Legacies into Modern Value",
+        "intro": "What sense is shared by a game shop owner in 1985 and a mobile gamer in 2024? Beyond mere retro, a 'revival' competition has begun, completely restructuring the grammar of existing IPs.",
+        "points": "The recently released 'Our Kingdom' boldly restructured a past social game into a single-player RPG, and 'Game Shop Specs' restored the industry's golden age through a management simulation. Giant IPs like Dragon Quest and Fate also continuously extend their lifespan and breathe new vitality into the market through mobile roguelites or deep scenario updates. 🎮\n\nThis trend is an industrial strategy to seek stability in **consumer psychology** while connecting proven IPs to various genres and **changes in actual game forms**. As 'conservative innovation,' which reduces the risk of developing new IPs and maximizes the loyalty of existing fandoms, becomes mainstream, gamers are getting used to a structure where they experience completely different play mechanisms within familiar universes. 📈\n\n**Now, in the game industry, the core competitiveness is no longer the adventure of creating something from nothing, but the ability to re-assemble the essence of existing IPs with a modern sense.** 'Creative restoration,' rather than creative destruction, has become the most powerful engine supporting the market's profit structure. 💡\n\nUltimately, it is an era where only games that exquisitely balance the safety device of familiarity and the stimulus of novelty survive. Into what genre would you be most willing to open your wallet if a game filled with past memories were reborn? 🔍"
+      },
+      "trailer": {
+        "title": "DIABLO 4 Opening Cinematic (2023) 4K ULTRA HD",
+        "comment": "This week's hot topic is Blizzard Entertainment's iconic action RPG, 'Diablo IV: Vessel of Hatred.' ⚔️\nThe highlight of this opening cinematic, implemented in 4K high quality, is the visual beauty that provides a dark atmosphere of Sanctuary and overwhelming immersion. 🌌\nExperience the beginning of a legendary journey through this special video that heralds a grand prelude to standing against the darkness. 🔥"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ドラゴンクエスト スマッシュ/グロウ",
+        "releases.0.note": "4月22日にグローバルリリースされたモバイルアクションローグライトゲームで、ドラゴンクエストIPのモンスターを操作して敵を倒しながら成長する楽しさを込めています。",
+        "releases.0.dev": "スクウェア・エニックス",
+        "releases.1.game": "ロストアーク",
+        "releases.1.note": "4月22日のアップデートを通じて、カゼロスレイド第1幕と第2幕に高難易度バージョンである「エクストリームモード」を追加し、ユーザーに新たな挑戦を提供します。",
+        "releases.1.dev": "スマイルゲート",
+        "releases.2.game": "ロードナイン",
+        "releases.2.note": "4月22日に大規模アップデートを実施し、新規成長システム「アビリティ覚醒」を披露し、計70種の新規職業を追加しました。",
+        "releases.2.dev": "NX3ゲームズ",
+        "releases.3.game": "フェイト/グランドオーダー",
+        "releases.3.note": "4月22日、新規メインシナリオ「奏章III 新霊長後継戦 アーキタイプ・インセプション」のアップデートとともに、★5サーヴァント「BBドバイ」の召喚ピックアップを開始しました。",
+        "releases.3.dev": "ネットマーブル",
+        "releases.4.game": "ゲームショップ仕様 (ゲームショップの黄昏)",
+        "releases.4.note": "4月22日にSteamで発売された経営シミュレーションゲームで、1985年から2010年までの激動するゲーム業界の流れの中でゲームショップを運営する過程を描いています。",
+        "releases.4.dev": "ローブスタジオ",
+        "releases.5.game": "ぼくらのキングダム：時を喰らう果実と古代の魔物",
+        "releases.5.note": "4月23日に正式リリースされたアクションRPGで、かつてソーシャルゲームだった作品を王国復興シミュレーション要素が加わったシングルプレイ専用ゲームとして再構成しました。",
+        "releases.5.dev": "インティ・クリエイツ",
+        "events.0.name": "2026 パジュシュピール",
+        "events.0.note": "国内最大規模の屋外ボードゲームの祭典（第4回）",
+        "events.0.venue": "京畿道 坡州市 京畿未来教育 坡州キャンパス",
+        "events.1.name": "2026 LCK MSI 代表選抜戦 決勝",
+        "events.1.note": "ミッドシーズン・インビテーショナル(MSI)に進出するLCK代表チームの決定戦",
+        "events.1.venue": "原州総合体育館"
+      },
+      "briefing": {
+        "items.0.title": "2026 LCK MSI 選抜戦、6月に原州での開催が確定",
+        "items.0.source": "ゲームメッカ",
+        "items.0.time": "4月22日",
+        "items.1.title": "『RF ONLINE NEXT』、勇者王ガオガイガーコラボアップデート",
+        "items.1.source": "インベン",
+        "items.1.time": "4月22日",
+        "items.2.title": "任天堂ファン、関税還付金の返還を求める集団訴訟を提起",
+        "items.2.source": "IGN India",
+        "items.2.time": "4月22日",
+        "items.3.title": "ディアブロ IV「憎悪の器」オープニングシネマティック公開",
+        "items.3.source": "IGN India",
+        "items.3.time": "4月22日",
+        "items.4.title": "MMORPG『カオスワールド』、4月29日グローバルリリース",
+        "items.4.source": "4Gamer",
+        "items.4.time": "4月22日",
+        "items.5.title": "フリュー、新作『プロジェクト・アリス』ティザーおよび公式アカウント公開",
+        "items.5.source": "電撃オンライン",
+        "items.5.time": "4月22日",
+        "items.6.title": "コーエーテクモ、『仁王3』の成功により業績予想を上方修正",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "4月22日",
+        "items.7.title": "ヘイローの立役者キキ・ウルフキル、28年ぶりにMSを退社",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "4月22日"
+      },
+      "feedback": {
+        "items.0.game": "AION2",
+        "items.0.period": "最近30日間",
+        "items.0.keywords.0.text": "クラスへの言及",
+        "items.0.keywords.1.text": "DPS比較",
+        "items.0.keywords.2.text": "バフ・ナーフ論争",
+        "items.0.keywords.3.text": "ダンジョン/レイド議論",
+        "items.0.keywords.4.text": "怒り",
+        "items.0.comments.0.text": "ヒドゥンキューブの報酬を増やしながら鍵の確率を下げたのは、ユーザーを欺く行為です。",
+        "items.0.comments.1.text": "職業間のダメージ格差と種族間の不均衡のせいで、狩りすらまともにできません。",
+        "items.0.comments.2.text": "バグを放置し、パッチ内容を曖昧に公開する運営には失望しました。"
+      },
+      "drk": {
+        "title": "IPの生存戦略：過去の遺産を現代的価値で再構成する",
+        "intro": "1985年のゲームショップ店主と2024年のモバイルゲーマーが共有する感覚とは何でしょうか？単なるレトロを超え、既存IPの文法を完全に再構成する「リバイバル」競争が始まりました。",
+        "points": "最近リリースされた『ぼくらのキングダム』は、過去のソーシャルゲームをシングルプレイRPGへと大胆に再構成し、『ゲームショップ仕様』は業界の黄金期を経営シミュレーションとして復元しました。ドラゴンクエストやFateのような巨大IPも、モバイルローグライトや深層的なシナリオアップデートを通じて絶えず生命力を延長し、市場に新たな活力を吹き込んでいます。🎮\n\nこのような流れは、**消費者心理**の安定を追求すると同時に、検証済みのIPを多様なジャンルや**実際のゲーム形態の変化**へと繋げようとする産業的戦略です。新規IP開発のリスクを減らし、既存ファン層の忠実度を最大化する「保守的な革新」が主流になるにつれ、ゲーマーは馴染みのある世界観の中で全く異なるプレイメカニズムを体験する構造に慣れつつあります。📈\n\n**今やゲーム産業は、無から有を創造する冒険よりも、既存IPの本質を現代的な感覚で再構築（Re-assemble）する能力が核心的な競争力となりました。** 創造的破壊ではなく「創造的復元」が市場の収益構造を支える最も強力なエンジンとなったわけです。💡\n\n結局、馴染み深さという安全装置と、新しさという刺激の間で精巧にバランスを取るゲームだけが生き残る時代です。皆さんは、過去の思い出が詰まったゲームがどのようなジャンルで再誕生したとき、最も財布を開きたくなりますか？🔍"
+      },
+      "trailer": {
+        "title": "DIABLO 4 Opening Cinematic (2023) 4K ULTRA HD",
+        "comment": "今週の話題作は、ブリザード・エンターテイメントの象徴的なアクションRPG、『ディアブロ IV：憎悪の器』です。⚔️\n4K高画質で具現化された今回のオープニングシネマティックは、サンクチュアリの暗い雰囲気と圧倒的な没入感を与える映像美が最大のハイライトです。🌌\n闇に立ち向かう壮大な序幕を予告するこの特別な映像を通じて、伝説的な旅の始まりを体験してください。🔥"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "올드 IP가 살아남는 법! 🔥 (feat. 4K로 보는 디아블로 4 오프닝)",
+    "en": "How classic IPs evolve to survive 🔥 (feat. Diablo IV's epic 4K cinematic)",
+    "ja": "伝説のIPが生き残る戦略とは？🔥 (feat. ディアブロIV 4Kシネマティック)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ]
+}

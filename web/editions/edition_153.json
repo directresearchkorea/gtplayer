@@ -1,0 +1,485 @@
+{
+  "num": "153",
+  "date": "2026-10-23",
+  "status": "published",
+  "schedule": {
+    "date": "2026-10-23",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "콜 오브 듀티: 모던 워페어 4",
+          "dev": "액티비전",
+          "date": "10월 23일(금)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "XSX/S"
+          ],
+          "color": "#10b981",
+          "note": "10월 23일 정식 출시되는 밀리터리 FPS 신작으로, 전면 개편된 캠페인과 함께 12종의 신규 6v6 멀티플레이어 모드를 선보입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4435490/Call_of_Duty_Modern_Warfare_4/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "워리어스: 클랜스 오브 더 포레스트",
+          "dev": "워리어 캣츠 게임즈",
+          "date": "10월 23일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 23일 스팀으로 출시되는 어드벤처 RPG로, 소설 '고양이 전사들'의 세계관을 바탕으로 야생 고양이 클랜 간의 생존과 모험을 그립니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3960600/Warrior_Cats_Clans_of_the_Forest/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "문 스위퍼스",
+          "dev": "루나 소프트웨어",
+          "date": "10월 23일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 23일 출시되는 SF 로그라이크 액션 게임으로, 달 탐사 기지를 배경으로 오염된 기계 군단을 소탕하는 전투를 다룹니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/5335510/Moon_Sweepers/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "update",
+          "game": "메이플스토리",
+          "dev": "넥슨",
+          "date": "10월 23일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "10월 23일부터 최상위 보스 콘텐츠 '익스트림 림보'와 '발드릭스'가 오픈되며 대규모 밸런스 개편이 적용됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=322439",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "타이디 업 더 할로윈 샵",
+          "dev": "스푸키 코지 스튜디오",
+          "date": "10월 23일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 23일 스팀에 출시되는 캐주얼 퍼즐 시뮬레이션으로, 할로윈 시즌을 맞아 잡화점을 정리하고 장식하는 힐링 플레이를 제공합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/5316540/Tidy_Up_the_Halloween_Shop/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "2026 LoL 월드 챔피언십 본선 스위스 스테이지",
+          "note": "2026 롤드컵 본선 1라운드 개막 (LCK 4팀 출전)",
+          "venue": "미국 텍사스 앨런 크레딧 유니언 오브 텍사스 이벤트 센터 / 온라인 중계",
+          "date": "2026-10-24",
+          "tag": "e스포츠",
+          "website": "https://www.inven.co.kr/webzine/news/?news=322449"
+        },
+        {
+          "name": "에픽세븐 월드 챔피언십 2026(E7WC) 녹아웃 스테이지",
+          "note": "글로벌 16인 출전 더블 앨리미네이션 토너먼트",
+          "venue": "온라인 생중계",
+          "date": "2026-10-24 ~ 2026-11-14",
+          "tag": "e스포츠",
+          "website": "https://www.inven.co.kr/webzine/news/?news=322457"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "캡콤, 해킹으로 회원 정보 1,177만 건 유출",
+          "source": "인벤",
+          "time": "10월 22일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=322464"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'씰M2', 정식 출시 당일 양대 마켓 인기 1위",
+          "source": "인벤",
+          "time": "10월 22일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=322453"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "반다이남코, '드래곤볼 제노버스 3' 출시 윤곽 공개",
+          "source": "IGN India",
+          "time": "10월 22일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/dragon-ball-xenoverse-3/275173/dragon-ball-xenoverse-3-narrows-release-window-following-player-feedback"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'소닉폭스', 대회 측 AI 무단 활용에 계약 해지",
+          "source": "IGN India",
+          "time": "10월 22일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/news/275167/sonicfox-cancels-contract-with-gaming-convention-after-event-uses-likeness-in-ai-generated-poster"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'사이버펑크 2077', 2.5 대형 무료 업데이트 배포",
+          "source": "4Gamer",
+          "time": "10월 22일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/189/G018964/20261022050/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "모바일 신작 '디즈니 스파클링 스타즈', 11월 4일 출시",
+          "source": "4Gamer",
+          "time": "10월 22일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/008/G100854/20261022029/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "소니 '마블 울버린', 9월 미국 게임 판매 차트 1위",
+          "source": "GamesIndustry.biz",
+          "time": "10월 22일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/marvels-wolverine-leads-us-september-charts-achieves-highest-monthly-dollar-sales-for-a-sony-published-title-since-helldivers-2"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "'엔딩' 이후에 시작되는 게임, 사후 지원이 바꾼 소비의 기준 🎮",
+      "intro": "수년 전 출시된 패키지 게임이 또 한 번 대규모 무료 업데이트로 게이머들을 결집시키고 있습니다.\n우리는 이제 발매 당일의 완성도가 아닌, 타이틀이 진화할 '가능성'에 지갑을 여는 시대를 살고 있는 것일까요?",
+      "points": "CD 프로젝트 레드가 '사이버펑크 2077'의 2.5 대형 무료 업데이트를 배포했습니다. 출시 초기 치명적인 결함으로 거센 비판에 직면했던 작품이 수년간의 끈질긴 사후 지원을 거치며 다시금 글로벌 게이머들의 주목을 받고 있습니다. 🛠️\n\n이는 전통적인 싱글 패키지 타이틀의 **게임 소비 구조**가 완전히 재편되었음을 명확히 보여줍니다. 과거 게이머들은 패키지를 구매하는 순간 완결된 경험을 기대했으나, 이제는 지속적인 개선 여부를 지켜보며 구매를 결정하는 유보적 소비자 심리를 형성하고 있습니다. 제작진의 진정성 있는 업데이트는 이탈했던 유저층을 복귀시키고, 장기 판매를 견인하는 핵심 동력으로 작용합니다. 📈\n\nDr. K가 바라본 이번 현상의 본질은 명확합니다. **현대 게임 산업에서 타이틀의 최종 가치는 출시 당일의 결과물이 아니라, 실패 이후 개발사가 증명해 낸 책임감의 무게로 정의된다는 점**입니다. 뼈아픈 실책을 겪더라도 끝까지 책임을 다하는 스튜디오만이 냉엄한 시장에서 가장 견고한 브랜드 팬덤을 재건할 수 있습니다. 💡\n\n지속적인 유지보수가 일회성 패키지의 한계를 지우는 현시점에서, 개발사와 소비자 간의 진정한 신뢰는 어디서 완성될까요? 여러분은 등을 돌렸던 게임이 약속을 지켰을 때, 기꺼이 다시 기회를 줄 준비가 되셨습니까? 🎯"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "Home - A Unique Horror Adventure",
+      "url": "https://store.epicgames.com/ko/p/home-19212a",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1f6qi.png",
+      "comment": "🎮 **이번 주 에픽게임즈 무료 배포**\n- **Home - A Unique Horror Adventure** (~10월 30일 00:00까지)\n플레이어의 선택에 따라 사건의 진상과 결말이 바뀌는 픽셀 그래픽 기반의 미스터리 호러 어드벤처입니다. 담백한 비주얼 속에서 서서히 조여오는 심리적 긴장감을 즐겨보세요.\n\n👀 **Next Week (다음 주 예고)**\n- 고정 카메라 시점의 레트로 서바이벌 호러 **Sorry We're Closed**가 10월 30일부터 무료 배포될 예정입니다.\n\n🔥 **스팀 주말 특가**\n- 방대한 오픈월드 액션 RPG **Cyberpunk 2077**을 10월 27일 03:00까지 70% 할인 혜택으로 만나보실 수 있습니다.",
+      "steam_deal": {
+        "type": "deal",
+        "name": "Cyberpunk 2077",
+        "app_id": 1091500,
+        "url": "https://store.steampowered.com/app/1091500",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ca6de5bbca893ccc5e8715b1068f6443d0918ea4/header_alt_assets_9_koreana.jpg?t=1792682505",
+        "discount_percent": 70,
+        "original_price": 6600000,
+        "final_price": 1980000,
+        "end_date": "2026-10-27 03:00"
+      },
+      "epic_current": [
+        {
+          "title": "Home - A Unique Horror Adventure",
+          "description": "Home is a unique horror adventure set in a beautifully-realized pixel world. It’s a murder mystery with a twist – because you decide what ultimately happens.",
+          "url": "https://store.epicgames.com/ko/p/home-19212a",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1f6qi.png",
+          "end_date": "2026-10-30 00:00"
+        }
+      ],
+      "epic_upcoming": [
+        {
+          "title": "Sorry We're Closed",
+          "description": "향수를 불러일으키는 싱글 플레이어 서바이벌 호러 게임 Sorry We're Closed는 풍부한 스토리, 깊이 있는 캐릭터, 다양한 엔딩이 특징입니다. 고정된 카메라 각도로 오싹한 장소들을 탐험하세요. Third Eye를 떠서 세계 사이를 보고 비밀을 밝히고 퍼즐을 풀어보세요.",
+          "url": "https://store.epicgames.com/ko/p/sorry-were-closed-724c86",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-1orqh.png",
+          "start_date": "2026-10-30 00:00"
+        }
+      ],
+      "epic_discounted": [
+        {
+          "title": "Eternal Threads",
+          "description": "Eternal Threads는 시간 조작과 선택, 그리고 이에 따른 결과에 관한 1인칭 스토리 전개 중심의 싱글 플레이어 퍼즐 게임입니다.",
+          "url": "https://store.epicgames.com/ko/p/eternal-threads-197169",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-1vm6i.jpg",
+          "end_date": "2026-11-03 01:00",
+          "discount_percent": 20
+        },
+        {
+          "title": "Castlevania Anniversary Collection",
+          "description": "Konami's Castlevania Anniversary Collection traces the origins of the historic vampire franchise. Included is a unique eBook with details provided by developers, artists and others inspired by the Castlevania legacy which sheds a fresh light into the world of Castlevania.",
+          "url": "https://store.epicgames.com/ko/p/castlevania-anniversary-collection-a61f94",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-yex6f.jpg",
+          "end_date": "2026-11-03 01:00",
+          "discount_percent": 40
+        },
+        {
+          "title": "Sorry We're Closed",
+          "description": "향수를 불러일으키는 싱글 플레이어 서바이벌 호러 게임 Sorry We're Closed는 풍부한 스토리, 깊이 있는 캐릭터, 다양한 엔딩이 특징입니다. 고정된 카메라 각도로 오싹한 장소들을 탐험하세요. Third Eye를 떠서 세계 사이를 보고 비밀을 밝히고 퍼즐을 풀어보세요.",
+          "url": "https://store.epicgames.com/ko/p/sorry-were-closed-724c86",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-1orqh.png",
+          "end_date": "2026-11-03 01:00",
+          "discount_percent": 70
+        },
+        {
+          "title": "Monument Valley",
+          "description": "불가능한 환경과 환상적인 퍼즐 속에서 용서를 구하는 여정을 떠나세요. 모뉴먼트를 움직여 새롭고, 초현실적이고, 신비한 세계를 탐험하는 길을 만들어가며 몽환적이고 고요한 퍼즐 게임을 경험하세요.",
+          "url": "https://store.epicgames.com/ko/p/monument-valley-1d99d3",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg",
+          "end_date": "2026-11-03 01:00",
+          "discount_percent": 35
+        }
+      ]
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Call of Duty: Modern Warfare 4",
+        "releases.0.note": "A new military FPS officially releasing on October 23, featuring a fully revamped campaign alongside 12 new 6v6 multiplayer modes.",
+        "releases.0.dev": "Activision",
+        "releases.1.game": "Warriors: Clans of the Forest",
+        "releases.1.note": "An adventure RPG launching on Steam on October 23, based on the 'Warriors' novel series, depicting survival and adventure among wild cat clans.",
+        "releases.1.dev": "Warrior Cats Games",
+        "releases.2.game": "Moon Sweepers",
+        "releases.2.note": "A sci-fi roguelike action game releasing on October 23, featuring combat to clear out corrupted machine legions set in a lunar exploration base.",
+        "releases.2.dev": "Lunar Software",
+        "releases.3.game": "MapleStory",
+        "releases.3.note": "Starting October 23, top-tier boss content 'Extreme Limbo' and 'Baldrix' will open, accompanied by a major balance overhaul.",
+        "releases.3.dev": "Nexon",
+        "releases.4.game": "Tidy Up the Halloween Shop",
+        "releases.4.note": "A casual puzzle simulation releasing on Steam on October 23, offering relaxing gameplay tidying up and decorating a general store for the Halloween season.",
+        "releases.4.dev": "Spooky Cozy Studio",
+        "events.0.name": "2026 LoL World Championship Main Event - Swiss Stage",
+        "events.0.note": "2026 Worlds Main Event Round 1 Opening (4 LCK teams participating)",
+        "events.0.venue": "Credit Union of Texas Event Center, Allen, Texas, USA / Online Broadcast",
+        "events.1.name": "Epic Seven World Arena Championship 2026 (E7WC) Knockout Stage",
+        "events.1.note": "Global 16-player double-elimination tournament",
+        "events.1.venue": "Online Live Stream"
+      },
+      "briefing": {
+        "items.0.title": "Capcom Suffers Hack, 11.77 Million Member Records Leaked",
+        "items.0.source": "Inven",
+        "items.0.time": "October 22",
+        "items.1.title": "'Seal M2' Claims Top Popularity Spot on Both Major App Stores on Launch Day",
+        "items.1.source": "Inven",
+        "items.1.time": "October 22",
+        "items.2.title": "Bandai Namco Outlines Release Plans for 'Dragon Ball Xenoverse 3'",
+        "items.2.source": "IGN India",
+        "items.2.time": "October 22",
+        "items.3.title": "'SonicFox' Terminates Contract Over Tournament Organizer's Unauthorized AI Use",
+        "items.3.source": "IGN India",
+        "items.3.time": "October 22",
+        "items.4.title": "'Cyberpunk 2077' Deploys Major Free Update 2.5",
+        "items.4.source": "4Gamer",
+        "items.4.time": "October 22",
+        "items.5.title": "New Mobile Title 'Disney Sparkling Stars' Set for Launch on November 4",
+        "items.5.source": "4Gamer",
+        "items.5.time": "October 22",
+        "items.6.title": "Sony's 'Marvel's Wolverine' Tops US Video Game Sales Chart for September",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "October 22"
+      },
+      "drk": {
+        "title": "Games That Begin After the 'Ending': How Post-Launch Support Shifted Consumer Standards 🎮",
+        "intro": "A packaged game released years ago is rallying gamers once more with another massive free update.\nAre we now living in an era where we open our wallets not for launch-day polish, but for a title's 'potential' to evolve?",
+        "points": "CD Projekt Red has deployed the massive 2.5 free update for Cyberpunk 2077. Once facing fierce criticism over critical flaws at launch, the game has recaptured the global gaming community's attention through years of relentless post-launch support. 🛠️\n\nThis clearly illustrates a complete restructuring of the **game consumption paradigm** for traditional single-player packaged titles. In the past, players expected a fully finished experience the moment they purchased a game; now, consumers hold a more reserved mindset, deciding to buy only after observing ongoing improvements. Sincere, dedicated updates from developers bring back lapsed players and serve as the core engine driving long-tail sales. 📈\n\nFrom Dr. K's perspective, the essence of this phenomenon is clear: **In the modern gaming industry, a title's ultimate value is defined not by the day-one product, but by the weight of responsibility a studio demonstrates in the wake of failure.** Even after painful missteps, only studios that see their commitments through to the end can rebuild the most enduring brand fandom in an unforgiving market. 💡\n\nAt a time when continuous maintenance transcends the limitations of one-off packaged releases, where is genuine trust between developers and consumers truly forged? When a game you once abandoned finally keeps its promises, are you ready to give it another chance? 🎯"
+      },
+      "epic": {
+        "title": "Home - A Unique Horror Adventure",
+        "comment": "🎮 **This Week's Epic Games Free Distribution**\n- **Home - A Unique Horror Adventure** (~Until October 29 at 15:00 UTC)\nA pixel-art mystery horror adventure where your choices alter the truth and the ending of the story. Experience creeping psychological tension beneath minimalist visuals.\n\n👀 **Next Week's Preview**\n- The fixed-camera retro survival horror **Sorry We're Closed** will be available for free starting October 30.\n\n🔥 **Steam Weekend Deal**\n- The vast open-world action RPG **Cyberpunk 2077** is available at a 70% discount until October 26 at 18:00 UTC."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "コール オブ デューティ モダン・ウォーフェア4",
+        "releases.0.note": "10月23日に正式リリースされるミリタリーFPSの新作で、全面刷新されたキャンペーンとともに12種類の新規6v6マルチプレイヤーモードをお届けします。",
+        "releases.0.dev": "アクティビジョン",
+        "releases.1.game": "ウォーリアーズ：クランズ・オブ・ザ・フォレスト",
+        "releases.1.note": "10月23日にSteamでリリースされるアドベンチャーRPGで、小説『ウォーリアーズ』の世界観をベースに、野生猫のクラン同士の生存と冒険を描きます。",
+        "releases.1.dev": "ウォーリアー・キャッツ・ゲームズ",
+        "releases.2.game": "ムーン・スイーパーズ",
+        "releases.2.note": "10月23日にリリースされるSFローグライクアクションゲームで、月面探査基地を舞台に汚染された機械軍団を掃討する戦いを描きます。",
+        "releases.2.dev": "ルナ・ソフトウェア",
+        "releases.3.game": "メイプルストーリー",
+        "releases.3.note": "10月23日より最上位ボスコンテンツ「エクストリーム リンボ」と「バルドリック」が解放され、大規模なバランス調整が適用されます。",
+        "releases.3.dev": "ネクソン",
+        "releases.4.game": "タイディ・アップ・ザ・ハロウィン・ショップ",
+        "releases.4.note": "10月23日にSteamでリリースされるカジュアルパズルシミュレーションで、ハロウィンシーズンを迎えて雑貨店を整理・装飾する心温まる癒やしのプレイを提供します。",
+        "releases.4.dev": "スプーキー・コージー・スタジオ",
+        "events.0.name": "2026 LoL World Championship 本戦スイスステージ",
+        "events.0.note": "2026 LoL Worlds本戦第1ラウンド開幕（LCKから4チームが出場）",
+        "events.0.venue": "米国テキサス州アレン クレジット・ユニオン・オブ・テキサス・イベント・センター／オンライン配信",
+        "events.1.name": "エピックセブン ワールドチャンピオンシップ 2026（E7WC）ノックアウトステージ",
+        "events.1.note": "世界から16名が出場するダブルエリミネーション方式トーナメント",
+        "events.1.venue": "オンライン生配信"
+      },
+      "briefing": {
+        "items.0.title": "カプコン、不正アクセスにより会員情報1,177万件が流出",
+        "items.0.source": "Inven",
+        "items.0.time": "10月22日",
+        "items.1.title": "『シールM2』、正式リリース当日に両大マーケットで人気1位",
+        "items.1.source": "Inven",
+        "items.1.time": "10月22日",
+        "items.2.title": "バンダイナムコ、『ドラゴンボール ゼノバース3』のリリース概要を公開",
+        "items.2.source": "IGN India",
+        "items.2.time": "10月22日",
+        "items.3.title": "「SonicFox」、大会側のAI無断利用を受け契約解除",
+        "items.3.source": "IGN India",
+        "items.3.time": "10月22日",
+        "items.4.title": "『サイバーパンク2077』、大型無料アップデート2.5を配信",
+        "items.4.source": "4Gamer",
+        "items.4.time": "10月22日",
+        "items.5.title": "モバイル新作『ディズニー スパークリング スターズ』、11月4日リリース",
+        "items.5.source": "4Gamer",
+        "items.5.time": "10月22日",
+        "items.6.title": "ソニー『Marvel's Wolverine』、9月の米ゲーム販売チャートで1位",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "10月22日"
+      },
+      "drk": {
+        "title": "「エンディング」の後に始まるゲーム、長期サポートが変えた消費の基準 🎮",
+        "intro": "数年前に発売されたパッケージゲームが、再び大型無料アップデートによってゲーマーたちを結集させています。\n私たちは今や、発売当日の完成度ではなく、タイトルが進化していく「可能性」に対して財布を開く時代を生きているのでしょうか？",
+        "points": "CD PROJEKT REDが『サイバーパンク2077』の大型無料アップデート2.5を配信しました。発売当初は致命的な不具合により激しい批判にさらされた作品が、数年間にわたる粘り強い継続サポートを経て、再び世界中のゲーマーから注目を集めています。🛠️\n\nこれは従来のシングルプレイ・パッケージタイトルの**ゲーム消費構造**が完全に再編されたことを如実に示しています。かつてのゲーマーはパッケージを購入した瞬間に完結した体験を期待していましたが、今では継続的な改善の行方を見極めてから購入を決めるという、見極め・保留型の消費者心理を形成しつつあります。開発陣の誠実なアップデートは離脱していたユーザー層を呼び戻し、長期的なセールスを牽引する中核的な原動力として機能しています。📈\n\nDr. Kが着目したこの現象の本質は明確です。**現代のゲーム産業において、タイトルの最終的な価値は発売当日の仕上がりではなく、失敗の後に開発会社が証明してみせた責任感の重さによって定義される**ということです。手痛い過ちを経験したとしても、最後まで責任を全うするスタジオだけが、冷酷な市場の中で最も強固なブランドファンコミュニティを再建することができます。💡\n\n継続的なメンテナンスが一過性のパッケージゲームの限界を打ち破りつつある今、開発会社と消費者の真の信頼はどこで結ばれるのでしょうか？ 一度は背を向けたゲームが約束を果たしたとき、皆さんは喜んで再びチャンスを与える準備ができていますか？ 🎯"
+      },
+      "epic": {
+        "title": "Home - A Unique Horror Adventure",
+        "comment": "🎮 **今週のEpic Gamesストア無料配布**\n- **Home - A Unique Horror Adventure**（〜10月30日0:00まで）\nプレイヤーの選択によって事件の真相と結末が変化する、ピクセルグラフィックのミステリーホラーアドベンチャーです。シンプルで無駄のないビジュアルの中で、徐々に迫りくる心理的緊張感をお楽しみください。\n\n👀 **Next Week（来週の予告）**\n- 固定カメラ視点のレトロサバイバルホラー『**Sorry We're Closed**』が10月30日より無料配布される予定です。\n\n🔥 **Steamウィークエンド特価**\n- 壮大なオープンワールド・アクションRPG『**Cyberpunk 2077**』を、10月27日3:00まで70%オフのお得な価格でお求めいただけます。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "엔딩 크레딧 뒤에 시작되는 진짜 게임 🎮 (feat. 이번 주 에픽 무료 배포 🎁)",
+    "en": "When the credits roll, the real game begins 🎮 (feat. Free Epic Games drop 🎁)",
+    "ja": "エンドロールの後に始まる本当のゲーム 🎮 (Epic無料配布ホラーも必見🎁)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": false,
+          "text": "엔딩 봤다고 게임 지우면 손해인 거 아시나요? 👀\n사펑 2077이 깜짝 2.5 대형 무료 업데이트를 배포했네요! 🎮\n\nhttps://www.gtplayer.net/edition-153/\n#사이버펑크2077 #GTPlayer",
+          "error": "Posting failed or blocked"
+        }
+      },
+      "updated_at": "2026-10-23T07:02:20.908906"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "10월 23일 오늘의 게임 소식 🎮\n📰 [뉴스] 캡콤 대규모 정보 유출 및 사펑 2077 무료 업데이트 등 핵심 이슈\n📅 [출시] 콜 오브 듀티: 모던 워페어 4 등 이번 주 신작 캘린더\n✍️ [인사이트] 엔딩 크레딧 뒤에 시작되는 진짜 게임, 사후 지원이 바꾼 소비의 기준\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임소식 #게임뉴스레터 #GTPLAYER #신작게임 #게임추천 #콘솔게임 #PC게임 #스팀게임 #콜오브듀티 #모던워페어4 #사이버펑크2077 #캡콤 #드래곤볼제노버스3 #씰M2 #게임스타그램 #게임덕후 #게임리뷰 #인디게임 #게이머",
+          "image_paths": [
+            "web\\instagram\\edition_153\\card_cover.png",
+            "web\\instagram\\edition_153\\card_news.png",
+            "web\\instagram\\edition_153\\card_calendar.png",
+            "web\\instagram\\edition_153\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "4013836052058034853_39332818166",
+            "url": "https://www.instagram.com/p/De0Ap-Fk1Kl/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-10-23T07:02:52.394050",
+      "freegames_results": {
+        "success": false,
+        "id": null,
+        "url": null,
+        "error": "Instagram 업로드 실패: 404 Client Error: Not Found for url: https://i.instagram.com/api/v1/qe/expose/"
+      },
+      "freegames_updated_at": "2026-10-23T07:03:27.927489"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "When the credits roll, the real game begins 🎮 (feat. Free Epic Games drop 🎁)\n\nCyberpunk 2077 rolls out another massive update as long-term support transforms how players value modern releases.\nCatch the latest on Modern Warfare 4, major industry shifts, and your free Epic Games claim in this week's roundup.\n\nhttps://www.gtplayer.net/edition-153-en/",
+        "error": null
+      },
+      "updated_at": "2026-10-23T07:04:11.444718"
+    }
+  }
+}

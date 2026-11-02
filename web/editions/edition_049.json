@@ -1,0 +1,448 @@
+{
+  "num": "049",
+  "date": "2026-05-11",
+  "status": "published",
+  "schedule": {
+    "date": "2026-05-11",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "코어브레이커: 핵원돌파!",
+          "dev": "aQuadiun",
+          "date": "5월 9일(토)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "브라질 개발자가 제작한 횡스크롤 액션 게임으로, 5월 9일 스팀을 통해 얼리 액세스 버전이 정식 출시되었습니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/834/G083430/20260509004/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "update",
+          "game": "애비오틱 팩터 (Abiotic Factor)",
+          "dev": "개발사 정보 미확인",
+          "date": "5월 9일(토)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "생존 제작 게임 '애비오틱 팩터'의 대규모 업데이트 'Cosmic Companions'가 5월 9일 적용되어 신규 펫과 화학 시스템이 추가되었습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/survival-crafting/abiotic-factor-just-got-another-massive-update-that-adds-better-pets-a-ludicrously-involved-chemistry-system-and-most-importantly-a-mop-for-cleaning-up-all-your-failed-experiments/",
+          "source_name": "PC Gamer"
+        },
+        {
+          "category": "update",
+          "game": "투 포인트 뮤지엄 (Two Point Museum)",
+          "dev": "개발사 정보 미확인",
+          "date": "5월 9일(토)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#3b82f6",
+          "note": "박물관 경영 시뮬레이션 게임의 신규 DLC 'Arty Facts'가 5월 9일 출시되어 예술 스튜디오 건축 및 고유 예술품 제작 기능을 제공합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/strategy/two-point-museums-latest-dlc-features-a-buildable-studio-where-artists-can-create-millions-of-unique-artworks-and-theres-no-generative-ai-involved-whatsoever/",
+          "source_name": "PC Gamer"
+        },
+        {
+          "category": "event",
+          "game": "듀엣 나이트 어비스",
+          "dev": "판 스튜디오",
+          "date": "5월 9일(토)",
+          "platforms": [
+            "PC",
+            "iOS",
+            "Android"
+          ],
+          "color": "#f59e0b",
+          "note": "서브컬처 액션 RPG '듀엣 나이트 어비스'의 반주년을 기념하여 5월 9일부터 17일까지 홍대 판타지트에서 테마 카페 '듀나 카페'를 운영합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316262",
+          "source_name": "인벤"
+        },
+        {
+          "category": "event",
+          "game": "호프 01 (HOPE 01)",
+          "dev": "벤딩 보이즈 게임즈",
+          "date": "5월 9일(토)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#f59e0b",
+          "note": "서바이벌 RPG '호프 01'의 게임 시스템과 분위기를 미리 체험할 수 있는 공식 데모 버전이 5월 9일 스팀을 통해 공개되었습니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/260499/hope-01-official-demo-launch-trailer",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "release",
+          "game": "팜 투 테이블 (Farm to Table)",
+          "dev": "개발사 정보 미확인",
+          "date": "5월 10일(일)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "농장에서 식탁까지의 요리 과정을 담은 시뮬레이션 게임으로, 5월 10일 스팀 얼리 액세스 서비스를 시작했습니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/farm-to-table/260502/farm-to-table-official-early-access-launch-trailer",
+          "source_name": "IGN India"
+        }
+      ],
+      "events": [
+        {
+          "name": "'듀엣 나이트 어비스' 반주년 기념 카페",
+          "note": "반주년을 기념하여 굿즈 증정 및 테마 음료 등을 제공하는 서브컬처 액션 RPG 오프라인 이벤트",
+          "venue": "홍대 판타지트",
+          "date": "2026-05-09 ~ 2026-05-17",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=316262"
+        },
+        {
+          "name": "서머 게임 페스트 2026",
+          "note": "",
+          "venue": "미국",
+          "date": "2026-06-01~2026-06-30",
+          "tag": "오프라인 행사",
+          "d_day_str": "D-21",
+          "website": "https://www.summergamefest.com"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "LCK 하노이 로드쇼 성료, 현지 팬 1만 2천 명 열광",
+          "source": "인벤",
+          "time": "5월 10일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316263"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "소니 게임 부문 역대급 실적 달성, 번지 부실은 과제",
+          "source": "게임메카",
+          "time": "5월 10일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1774996"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "더블 파인 개발진, MS 산하 세 번째 노조 결성",
+          "source": "IGN India",
+          "time": "5월 10일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/psychonauts/260505/psychonauts-developer-double-fine-is-forming-a-union"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'서브노티카 2' 4인 멀티 지원 및 게임플레이 공개",
+          "source": "IGN India",
+          "time": "5월 9일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/subnautica-3/260504/subnautica-2-official-early-access-gameplay-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "플레이즘 게임 쇼 2026 개최, 신작 및 업데이트 발표",
+          "source": "4Gamer",
+          "time": "5월 10일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/991/G999110/20260509001/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "viviON, 인디 게임 레이블 설립 및 퍼블리싱 진출",
+          "source": "4Gamer",
+          "time": "5월 8일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/923/G092302/20260509002/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'겜블 위드 유어 프렌즈', 출시 일주일 만에 100만 장 돌파",
+          "source": "PC Gamer",
+          "time": "5월 10일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/puzzle/friendslop-approaches-total-cultural-victory-as-co-op-hit-gamble-with-your-friends-sells-1-million-copies-in-one-week/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "인디의 체급 변화: 시스템과 연대로 재편되는 게임 시장의 질서",
+      "intro": "거대 자본의 비대화가 경직성을 초래하는 사이, 소규모 개발사들은 시스템과 연대로 무장하며 시장의 주류로 침투하고 있습니다.\n단순한 창의성을 넘어 '지속 가능한 생존 전략'으로 대형 개발사를 위협하는 인디 생태계의 변화에 주목해야 합니다.",
+      "points": "최근 소니가 역대급 실적 이면의 번지 부실로 고심하는 사이, 시장에서는 중소 규모 개발진의 의미 있는 움직임이 포착되고 있습니다. MS 산하 더블 파인의 노조 결성부터 viviON의 인디 레이블 설립, 그리고 '서브노티카 2'와 같은 검증된 인디 IP의 확장성 강화는 단순한 개별 뉴스를 넘어 인디 게임의 '체급 변화'를 시사합니다. 📉\n\n이러한 현상은 **플랫폼 구조와 게임 소비 구조**에 근본적인 영향을 미치고 있습니다. 과거 인디 게임이 소수의 실험적 시도에 머물렀다면, 이제는 체계적인 퍼블리싱 시스템과 개발자 권익 보호를 바탕으로 대형 AAA 게임이 제공하지 못하는 유연하고 빠른 콘텐츠 공급을 실현하고 있습니다. 소비자들은 이제 브랜드 네임밸류보다 업데이트의 진정성과 유저 친화적인 소통 시스템에 더 민감하게 반응하며 지갑을 열고 있습니다. 🎮\n\n결국 **인디의 시스템화와 연대는 거대 자본이 잃어버린 시장의 유연성을 확보하는 가장 강력한 무기**가 될 것입니다. 자본의 크기가 곧 흥행을 보장하던 시대는 끝났으며, 이제는 효율적인 조직 관리와 날카로운 타겟팅이 결합된 '강소 게임'들이 시장의 새로운 기준점을 제시하고 있습니다. 💡\n\n대형 스튜디오들이 효율성 증명에 급급해 창의적 리스크를 회피하는 지금, 여러분은 거대한 자본이 투여된 관성적인 신작과 작지만 끊임없이 진화하며 소통하는 인디 게임 중 무엇이 더 시장의 미래에 가깝다고 보십니까? 🚀"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": true,
+      "items": [],
+      "title": "reboot",
+      "score": 33088,
+      "url": "https://i.redd.it/dh56w7v0r80h1.png",
+      "preview_img": "https://preview.redd.it/dh56w7v0r80h1.png?auto=webp&s=5077ab085380f14d348ee14d820f3af533ff8317",
+      "permalink": "https://reddit.com/r/pcmasterrace/comments/1t8xa4h/reboot/",
+      "subreddit": "pcmasterrace",
+      "author": "BijlidarKudi",
+      "num_comments": 837,
+      "what_happened": "'재부팅'이라는 제목의 이 밈은 초보자의 단순한 실수보다 컴퓨터 고수가 해결 못 한 심각한 오류를 마주했을 때의 공포를 미스터 인크레더블의 일그러진 표정 대비로 완벽하게 표현했습니다.",
+      "one_liner": "고수가 \"할 수 있는 건 다 해봤다\"고 말하는 순간, 그건 더 이상 단순한 문제가 아닌 재앙의 시작이죠. 💀💻"
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=049&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=049&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Corebreaker",
+        "releases.0.note": "A side-scrolling action game developed by a Brazilian developer, the Early Access version was officially released on Steam on May 8, 15:00 UTC.",
+        "releases.0.dev": "aQuadiun",
+        "releases.1.game": "Abiotic Factor",
+        "releases.1.note": "The major update 'Cosmic Companions' for the survival crafting game 'Abiotic Factor' was applied on May 8, 15:00 UTC, adding new pets and a chemistry system.",
+        "releases.1.dev": "Developer info unconfirmed",
+        "releases.2.game": "Two Point Museum",
+        "releases.2.note": "The new DLC 'Arty Facts' for the museum management simulation game was released on May 8, 15:00 UTC, featuring art studio construction and unique artifact crafting.",
+        "releases.2.dev": "Developer info unconfirmed",
+        "releases.3.game": "Duet Night Abyss",
+        "releases.3.note": "In celebration of the half-anniversary of the subculture action RPG 'Duet Night Abyss,' the themed cafe 'Duna Cafe' will operate at Fantagit Hongdae from May 8, 15:00 UTC to May 16, 15:00 UTC.",
+        "releases.3.dev": "Pan Studio",
+        "releases.4.game": "HOPE 01",
+        "releases.4.note": "An official demo version of the survival RPG 'HOPE 01,' allowing players to experience the game system and atmosphere, was released on Steam on May 8, 15:00 UTC.",
+        "releases.4.dev": "Bending Boys Games",
+        "releases.5.game": "Farm to Table",
+        "releases.5.note": "A simulation game covering the culinary process from farm to table, which started Steam Early Access service on May 9, 15:00 UTC.",
+        "releases.5.dev": "Developer info unconfirmed",
+        "events.0.name": "'Duet Night Abyss' Half-Anniversary Celebration Cafe",
+        "events.0.note": "A subculture action RPG offline event celebrating the half-anniversary with merchandise giveaways and themed drinks.",
+        "events.0.venue": "Fantagit Hongdae",
+        "events.1.name": "Summer Game Fest 2026",
+        "events.1.venue": "USA"
+      },
+      "briefing": {
+        "items.0.title": "LCK Hanoi Roadshow Concludes Successfully, 12,000 Local Fans Enthusiastic",
+        "items.0.source": "Inven",
+        "items.0.time": "May 9, 15:00 UTC",
+        "items.1.title": "Sony Gaming Division Achieves All-Time High Performance, Bungie's Underperformance Remains a Challenge",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "May 9, 15:00 UTC",
+        "items.2.title": "Double Fine Developers Form Third Union Under Microsoft",
+        "items.2.source": "IGN India",
+        "items.2.time": "May 9, 15:00 UTC",
+        "items.3.title": "'Subnautica 2' 4-Player Multiplayer Support and Gameplay Revealed",
+        "items.3.source": "IGN India",
+        "items.3.time": "May 8, 15:00 UTC",
+        "items.4.title": "PLAYISM Game Show 2026 Held, New Titles and Updates Announced",
+        "items.4.source": "4Gamer",
+        "items.4.time": "May 9, 15:00 UTC",
+        "items.5.title": "viviON Establishes Indie Game Label and Enters Publishing",
+        "items.5.source": "4Gamer",
+        "items.5.time": "May 7, 15:00 UTC",
+        "items.6.title": "'Gamble With Your Friends' Surpasses 1 Million Units Sold Within One Week of Launch",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "May 9, 15:00 UTC"
+      },
+      "drk": {
+        "title": "The Scaling of Indies: Reshaping Market Order through Systems and Solidarity",
+        "intro": "While the bloat of mega-capital causes rigidity, small developers are penetrating the market mainstream, armed with systematic approaches and solidarity. We must pay attention to the shift in the indie ecosystem, which is threatening large developers as a 'sustainable survival strategy' that goes beyond simple creativity.",
+        "points": "While Sony struggles with Bungie's poor performance behind record-breaking earnings, significant movements are being captured from small and medium-sized developers. From the formation of a union at Microsoft-owned Double Fine to viviON's establishment of an indie label and the expanded scalability of proven indie IPs like 'Subnautica 2,' these events suggest a 'change in scale' for indie games rather than just individual news items. 📉\n\nThis phenomenon is fundamentally impacting platform and game consumption structures. Whereas indie games previously remained as experimental attempts by a few, they are now realizing a flexible and rapid supply of content that large AAA games cannot provide, based on systematic publishing systems and the protection of developer rights. Consumers are now opening their wallets based on the sincerity of updates and user-friendly communication systems rather than just brand name value. 🎮\n\nUltimately, the systematization and solidarity of indies will become the most powerful weapon for securing the market flexibility that giant capital has lost. The era where the size of capital guaranteed success is over; now, 'strong small games' that combine efficient organizational management with sharp targeting are setting new benchmarks for the market. 💡\n\nAs major studios avoid creative risks in their haste to prove efficiency, which do you believe is closer to the future of the market: inertial new releases backed by massive capital, or indies that are small but constantly evolving and communicating? 🚀"
+      },
+      "meme": {
+        "what_happened": "This meme, titled 'Reboot,' perfectly expresses the horror of encountering a serious error that even a computer expert cannot solve, rather than a beginner's simple mistake, through the distorted facial contrast of Mr. Incredible.",
+        "one_liner": "The moment an expert says 'I've tried everything I can,' it's no longer just a simple problem—it's the beginning of a disaster. 💀💻"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "COREBREAKER：核源突破",
+        "releases.0.note": "ブラジルのデベロッパーが制作した横スクロールアクションゲームで、5月9日にSteamを通じて早期アクセス版が正式にリリースされました。",
+        "releases.0.dev": "aQuadiun",
+        "releases.1.game": "Abiotic Factor",
+        "releases.1.note": "サバイバルクラフトゲーム『Abiotic Factor』の大規模アップデート「Cosmic Companions」が5月9日に適用され、新しいペットや化学システムが追加されました。",
+        "releases.1.dev": "開発元未確認",
+        "releases.2.game": "ツーポイントミュージアム (Two Point Museum)",
+        "releases.2.note": "博物館経営シミュレーションゲームの新規DLC「Arty Facts」が5月9日にリリースされ、アートスタジオの建設や独自の芸術品制作機能が提供されます。",
+        "releases.2.dev": "開発元未確認",
+        "releases.3.game": "デュエットナイトアビス",
+        "releases.3.note": "サブカルチャーアクションRPG『デュエットナイトアビス』のハーフアニバーサリーを記念して、5月9日から17日まで弘大（ホンデ）のファンタジットにてテーマカフェ「デュナカフェ」を運営します。",
+        "releases.3.dev": "Pan Studio（潘神工作室）",
+        "releases.4.game": "HOPE 01",
+        "releases.4.note": "サバイバルRPG『HOPE 01』のゲームシステムと雰囲気を事前に体験できる公式デモ版が、5月9日にSteamを通じて公開されました。",
+        "releases.4.dev": "Bending Boys Games",
+        "releases.5.game": "Farm to Table",
+        "releases.5.note": "農場から食卓までの調理プロセスを盛り込んだシミュレーションゲームで、5月10日にSteam早期アクセスサービスを開始しました。",
+        "releases.5.dev": "開発元未確認",
+        "events.0.name": "『デュエットナイトアビス』ハーフアニバーサリー記念カフェ",
+        "events.0.note": "ハーフアニバーサリーを記念して、グッズ贈呈やテーマ飲料などを提供するサブカルチャーアクションRPGのオフラインイベント",
+        "events.0.venue": "弘大（ホンデ）ファンタジット",
+        "events.1.name": "サマーゲームフェスト 2026",
+        "events.1.venue": "アメリカ"
+      },
+      "briefing": {
+        "items.0.title": "LCKハノイ・ロードショーが成功裏に終了、現地ファン1万2千人が熱狂",
+        "items.0.source": "Inven",
+        "items.0.time": "5月10日",
+        "items.1.title": "ソニーのゲーム部門が過去最高の業績を達成、バンジーの不振は課題",
+        "items.1.source": "GameMeca",
+        "items.1.time": "5月10日",
+        "items.2.title": "Double Fineの開発陣、MS傘下で3番目の労働組合を結成",
+        "items.2.source": "IGN India",
+        "items.2.time": "5月10日",
+        "items.3.title": "『Subnautica 2』4人マルチプレイ対応およびゲームプレイ公開",
+        "items.3.source": "IGN India",
+        "items.3.time": "5月9日",
+        "items.4.title": "PLAYISM Game Show 2026開催、新作およびアップデートを発表",
+        "items.4.source": "4Gamer",
+        "items.4.time": "5月10日",
+        "items.5.title": "viviON、インディーゲームレーベル設立およびパブリッシング事業へ進出",
+        "items.5.source": "4Gamer",
+        "items.5.time": "5月8日",
+        "items.6.title": "『Gamble with Your Friends』、リリース1週間で100万本突破",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "5月10日"
+      },
+      "drk": {
+        "title": "インディーの規模変化：システムと連帯で再編されるゲーム市場の秩序",
+        "intro": "巨大資本の肥大化が硬直性を招いている一方で、小規模デベロッパーはシステムと連帯で武装し、市場の主流へと浸透しています。単なる創造性を超え、「持続可能な生存戦略」で大手デベロッパーを脅かすインディーエコシステムの変容に注目すべきです。",
+        "points": "最近、ソニーが過去最高の業績の裏でバンジーの不振に苦慮している中、市場では中小規模の開発陣による意味のある動きが捉えられています。MS傘下のDouble Fineによる労組結成から、viviONのインディーレーベル設立、そして『Subnautica 2』のような検証済みのインディーIPの拡張性強化は、単なる個別のニュースを超え、インディーゲームの「規模と地位の変化」を示唆しています。📉\n\nこのような現象は、**プラットフォーム構造とゲーム消費構造**に根本的な影響を及ぼしています。かつてインディーゲームが少数の実験的な試みに留まっていたならば、現在は体系的なパブリッシングシステムと開発者の権利保護を基盤に、大作AAAタイトルが提供できない柔軟で迅速なコンテンツ供給を実現しています。消費者は今や、ブランドのネームバリューよりもアップデートの誠実さやユーザーフレンドリーなコミュニケーションシステムに敏感に反応し、財布を開いています。🎮\n\n結局のところ、**インディーのシステム化と連帯は、巨大資本が失った市場の柔軟性を確保するための最も強力な武器**となるでしょう。資本の大きさがそのままヒットを保証した時代は終わり、これからは効率的な組織管理と鋭いターゲティングが結合した「強小ゲーム」が市場の新しい基準を提示しています。💡\n\n大手スタジオが効率性の証明に追われ、創造的なリスクを回避している今、皆さんは巨大な資本が投じられた慣性的な新作と、小さくとも絶えず進化し対話を続けるインディーゲームのどちらが、より市場の未来に近いと感じますか？ 🚀"
+      },
+      "meme": {
+        "what_happened": "「再起動」というタイトルのこのミームは、初心者の単純なミスよりも、コンピュータの達人が解決できない深刻なエラーに直面した時の恐怖を、Mr.インクレディブルの歪んだ表情の対比で見事に表現しています。",
+        "one_liner": "達人が「できることはすべてやった」と言った瞬間、それはもはや単純な問題ではなく災厄の始まりです。💀💻"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "인디가 뒤흔드는 게임 시장의 새 질서 🚀 (feat. 오늘의 밈)",
+    "en": "The Indie Takeover: A New Era of Gaming 🚀 (feat. Today’s Meme)",
+    "ja": "下剋上!? インディが塗り替えるゲーム市場の勢力図 📈 (話題のミーム付)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "요즘 인디 게임 기세가 진짜 무섭네요! 🚀\n'서브노티카 2' 4인 멀티 지원과 게임 영상이 드디어 공개됐어요.\n이번 주 핫한 소식들 놓치지 말고 체크해보세요! 🎮\n\nhttps://www.gtplayer.net/edition-049/\n#서브노티카2 #게임소식 #GTPlayer",
+          "posted": true,
+          "data": {
+            "data": {
+              "edit_history_tweet_ids": [
+                "2053597229328543912"
+              ],
+              "id": "2053597229328543912",
+              "text": "요즘 인디 게임 기세가 진짜 무섭네요! 🚀\n'서브노티카 2' 4인 멀티 지원과 게임 영상이 드디어 공개됐어요.\n이번 주 핫한 소식들 놓치지 말고 체크해보세요! 🎮\n\nhttps://t.co/hC0hAD5aq2\n#서브노티카2 #게임소식 #GTPlayer"
+            }
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-11T07:05:07.798167"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "5월 11일 오늘의 게임 소식 🎮 인디가 뒤흔드는 게임 시장의 새 질서! 🚀\n\n📰 LCK 하노이 열기부터 소니의 실적, 서브노티카 2 공개까지 핫이슈 총정리! 🔥\n📅 '투 포인트 뮤지엄' 포함, 이번 주 지갑 조심해야 할 신작 라인업 6종 💸\n🧠 [Dr.K 인사이트] 거대 자본을 위협하는 인디 생태계의 '지속 가능한 생존 전략' 🧐\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임덕후 #게임추천 #인디게임 #신작게임 #LCK #소니 #서브노티카2 #투포인트뮤지엄 #애비오틱팩터 #듀엣나이트어비스 #게이머 #게임스타그램 #GTPLAYER #지티플레이어 #게임계정 #게임소식 #게임시장 #DrK인사이트 #게임트렌드",
+          "image_paths": [
+            "web\\instagram\\edition_049\\card_news.png",
+            "web\\instagram\\edition_049\\card_calendar.png",
+            "web\\instagram\\edition_049\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3894249436545783589_39332818166",
+            "url": "https://www.instagram.com/p/DYLJzrcE5cl/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-11T07:05:39.306038"
+    }
+  }
+}

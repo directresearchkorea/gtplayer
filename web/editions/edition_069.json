@@ -1,0 +1,454 @@
+{
+  "num": "069",
+  "date": "2026-06-26",
+  "status": "published",
+  "schedule": {
+    "date": "2026-06-26",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "update",
+          "game": "델타룬 챕터 5",
+          "dev": "토비 폭스",
+          "date": "6월 25일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "6월 25일 무료 업데이트로 출시된 인디 모험 게임으로, 전작의 흥행을 이어가는 대규모 챕터 5 콘텐츠가 새롭게 추가되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777005",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "카드캡터 사쿠라: 추억의 열쇠",
+          "dev": "레도 인터랙티브",
+          "date": "6월 25일(목)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "인기 애니메이션 '카드캡터 사쿠라' IP를 활용하여 모바일 플랫폼으로 개발된 수집형 RPG로, 6월 25일 정식 서비스를 시작했습니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202606/79446",
+          "source_name": "電撃オンライン"
+        },
+        {
+          "category": "release",
+          "game": "메다롯 카드 로배틀 RB",
+          "dev": "이매지니어",
+          "date": "6월 25일(목)",
+          "platforms": [
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "기존 메다롯 시리즈의 감성을 카드 배틀 장르로 재구성한 신작 게임으로, 6월 25일 닌텐도 스위치 버전으로 출시되었습니다.",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202606/79494",
+          "source_name": "Famitsu"
+        },
+        {
+          "category": "release",
+          "game": "게임발전국++ Nintendo Switch 2 에디션",
+          "dev": "카이로소프트",
+          "date": "6월 25일(목)",
+          "platforms": [
+            "Switch 2"
+          ],
+          "color": "#10b981",
+          "note": "게임 회사를 경영하는 명작 시뮬레이션 게임의 이식작으로, 4K 해상도 지원과 개선된 조작감을 탑재하여 6월 25일 닌텐도 스위치 2 버전으로 출시되었습니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/020/G102068/20260625050/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "event",
+          "game": "월희 -A piece of blue glass moon-",
+          "dev": "타입문",
+          "date": "6월 26일(금)",
+          "platforms": [
+            "PS4",
+            "Switch"
+          ],
+          "color": "#f59e0b",
+          "note": "8월 13일 정식 출시를 앞둔 명작 비주얼 노벨 리메이크 한국어판의 패키지 예약 판매가 6월 26일부터 공식 시작됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=317821",
+          "source_name": "인벤"
+        },
+        {
+          "category": "event",
+          "game": "소드 아트 온라인: 에코스 오브 아인크라드",
+          "dev": "반다이남코 엔터테인먼트",
+          "date": "6월 26일(금)",
+          "platforms": [
+            "PS5"
+          ],
+          "color": "#f59e0b",
+          "note": "원작의 아인크라드 세계관을 새로 그리는 신작 액션 RPG로, 6월 26일부터 한국어판 패키지 선주문 접수를 개시합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=317826",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "AION2 Navi - 글로벌 서비스 기념 생방송",
+          "note": "NC소프트의 신작 MMORPG '아이온2'의 첫 일본 공식 생방송으로 실기 플레이 및 세계관 특징 소개",
+          "venue": "온라인 (공식 YouTube 채널)",
+          "date": "2026-06-26",
+          "tag": "쇼케이스",
+          "website": "https://www.4gamer.net/games/440/G044032/20260625038/"
+        },
+        {
+          "name": "소드 아트 온라인 '에코스 오브 아인크라드' 공식 생방송",
+          "note": "SAO 신작 '에코스 오브 아인크라드'의 오프닝 영상 세계 최초 공개 및 실기 플레이, 최신 정보 발표",
+          "venue": "온라인",
+          "date": "2026-06-30",
+          "tag": "쇼케이스",
+          "website": "https://dengekionline.com/article/202606/79128"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'오딘', 5주년 업데이트로 앱스토어 매출 1위 탈환",
+          "source": "인벤",
+          "time": "6월 26일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=317838"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "아시안게임 LoL 국대 분석관에 '데프트' 등 6인 확정",
+          "source": "인벤",
+          "time": "6월 26일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=317824"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'포켓몬 챔피언스', 글로벌 누적 1000만 DL 돌파",
+          "source": "4Gamer",
+          "time": "6월 25일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/886/G088682/20260625060/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'퍼즐앤드래곤', '마도카 마기카'와 첫 콜라보",
+          "source": "4Gamer",
+          "time": "6월 25일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/148/G014877/20260625056/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "캡콤, 최신 게임 정보 공개하는 '스포트라이트' 개최",
+          "source": "IGN India",
+          "time": "6월 26일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/264869/capcom-spotlightjune-2026"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "엔씨 '아이온 2', 신규 개발자 업데이트 영상 공개",
+          "source": "IGN India",
+          "time": "6월 26일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/aion-2/264860/aion-2-official-welcome-to-atreia-developer-update"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "번지, '데스티니 2' 서비스 종료 후 정리해고 단행",
+          "source": "PC Gamer",
+          "time": "6월 26일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/gaming-industry/with-destiny-2-over-bungie-lays-off-employees-to-align-the-studios-resources-with-its-current-priorities-and-long-term-goals/"
+        },
+        {
+          "category": "discount",
+          "tag": "할인",
+          "title": "밸브, 수천 개 게임 대상 '스팀 여름 세일' 시작",
+          "source": "PC Gamer",
+          "time": "6월 26일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/steam-summer-sale-2026-live/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "영원한 서비스는 없다: 라이브 서비스의 몰락과 IP 자산의 귀환",
+      "intro": "수천억 원을 투입한 '영원한 게임'이 하루아침에 서비스를 종료하고 개발사가 무너지는 시대입니다. 🎮\n급변하는 시장에서 게이머들의 마음을 붙잡고 살아남는 진짜 게임의 무기는 무엇일까요? 🤔",
+      "points": "최근 번지(Bungie)가 '데스티니 2' 서비스 종료 후 대규모 정리해고를 단행한 반면, '오딘'의 매출 1위 탈환과 '월희', '카드캡터 사쿠라' 등 유서 깊은 IP 기반 신작들의 귀환은 시장에 강렬한 대비를 보여줍니다. 플랫폼을 불문하고 쏟아지는 클래식 IP의 재해석은 단순한 우연이 아닌 시장의 생존 전략입니다.\n\n이는 끊임없는 운영 비용과 유저 피로도를 동반하는 라이브 서비스 모델의 리스크가 임계점에 달했음을 시사합니다. 소비자들은 점차 끝없는 지출과 시간 투자를 요구하는 서비스형 게임에 지쳐가고 있으며, 명확한 끝이 있고 소장 가치가 높은 패키지 게임이나 신뢰할 수 있는 익숙한 IP로 소비 심리를 회귀하고 있습니다.\n\n**결국 미래의 게임 산업은 무한한 유지를 요구하는 라이브 서비스의 무덤 위에서, 확실한 팬덤을 보유한 IP의 다각화와 소장 가치를 극대화하는 방향으로 재편될 것입니다.** 대형 개발사들의 무리한 라이브 서비스 집착은 결국 개발진의 희생과 유저들의 배신감으로 이어질 뿐이며, 이제는 검증된 IP 자산의 가치를 지키는 것이 가장 안전한 투자처가 되었습니다.\n\n여러분이 수년 동안 애정과 비용을 쏟아부은 온라인 서버 속 게임이 내일 당장 사라진다면, 게이머로서 우리에게 남는 것은 무엇일까요? 이제는 지속 가능한 게임 생태계와 진정한 소유의 가치에 대해 깊이 고민해야 할 때입니다. ✉️"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "RollerCoaster Tycoon 3 Complete Edition",
+      "url": "https://store.epicgames.com/ko/p/rollercoaster-tycoon-3-complete-edition/home",
+      "thumbnail": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/offer/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S5-1920x1080-689d96ca4d5a4e8de183b7a928960c87.jpg",
+      "comment": "🎮 **이번 주말, 지갑은 닫고 즐거움은 열어줄 무료 & 할인 혜택을 소개합니다!**\n\n🎁 **에픽게임즈 무료 배포 (기한: ~2026년 7월 3일 00:00)**\n- **RollerCoaster Tycoon 3 Complete Edition**: 전 세계를 사로잡은 테마파크 시뮬레이션의 명작입니다. 두 개의 확장팩이 포함된 패키지로, 나만의 놀이공원을 건설하며 가볍게 즐기기 좋은 최고의 심심풀이 게임입니다.\n- **Voidwrought**: 손으로 그린 코스믹 호러 세계관이 매력적인 2D 액션 플랫포머 수작입니다. 고대 유적을 탐험하고 고대의 신들을 무찌르며 자신만의 성소를 확장해 나가는 몰입감을 선사합니다.\n\n👀 **Next Week 예고**: 7월 3일부터는 인공지능에 맞서 살아남은 인류의 생존기를 다룬 클래식 SF 어드벤처 **'I Have No Mouth, and I Must Scream'**이 찾아옵니다.\n\n🔥 **스팀 주말 특가 추천 (기한: ~2026년 7월 10일 02:00)**\n역사상 최고의 오픈월드 게임 중 하나로 손꼽히는 **'Red Dead Redemption 2'**를 75% 할인된 혜택으로 만나보세요.",
+      "steam_deal": {
+        "type": "deal",
+        "name": "Red Dead Redemption 2",
+        "app_id": 1174180,
+        "url": "https://store.steampowered.com/app/1174180",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+        "discount_percent": 75,
+        "original_price": "73,000원",
+        "final_price": "18,250원",
+        "end_date": "2026-07-10 02:00"
+      }
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=069&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=069&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Deltarune Chapter 5",
+        "releases.0.note": "An indie adventure game released as a free update on June 25, adding massive Chapter 5 content that continues the success of its predecessor.",
+        "releases.0.dev": "Toby Fox",
+        "releases.1.game": "Cardcaptor Sakura: Memory Key",
+        "releases.1.note": "A collectible RPG developed for mobile platforms utilizing the popular 'Cardcaptor Sakura' anime IP, which officially launched its service on June 25.",
+        "releases.1.dev": "Ledo Interactive",
+        "releases.2.game": "Medarot Card Robottle RB",
+        "releases.2.note": "A new game that reimagines the classic Medarot series' vibe as a card battle genre, released for the Nintendo Switch on June 25.",
+        "releases.2.dev": "Imagineer",
+        "releases.3.game": "Game Dev Story++ Nintendo Switch 2 Edition",
+        "releases.3.note": "A port of the classic simulation game where you manage a game company, released for the Nintendo Switch 2 on June 25 with 4K resolution support and improved controls.",
+        "releases.3.dev": "Kairosoft",
+        "releases.4.game": "Tsukihime -A piece of blue glass moon-",
+        "releases.4.note": "Physical pre-orders for the Korean version of the classic visual novel remake, set for official release on August 13, will officially begin on June 26.",
+        "releases.4.dev": "TYPE-MOON",
+        "releases.5.game": "Sword Art Online: Echoes of Aincrad",
+        "releases.5.note": "A new action RPG that reimagines the original Aincrad universe, with physical pre-orders for the Korean version starting on June 26.",
+        "releases.5.dev": "Bandai Namco Entertainment",
+        "events.0.name": "AION2 Navi - Global Launch Celebration Live Stream",
+        "events.0.note": "The first official Japanese livestream for NCSOFT's upcoming MMORPG 'Aion 2', featuring gameplay demonstrations and an introduction to the world's lore.",
+        "events.0.venue": "Online (Official YouTube Channel)",
+        "events.1.name": "Sword Art Online 'Echoes of Aincrad' Official Livestream",
+        "events.1.note": "The world premiere of the opening cinematic, gameplay showcase, and latest information reveal for the new SAO game 'Echoes of Aincrad'.",
+        "events.1.venue": "Online"
+      },
+      "briefing": {
+        "items.0.title": "'Odin' Reclaims No. 1 Spot in App Store Revenue with 5th Anniversary Update",
+        "items.0.source": "Inven",
+        "items.0.time": "June 26",
+        "items.1.title": "Six analysts, including 'Deft', confirmed for the Asian Games League of Legends national team",
+        "items.1.source": "Inven",
+        "items.1.time": "June 26",
+        "items.2.title": "'Pokémon Champions' Surpasses 10 Million Cumulative Downloads Globally",
+        "items.2.source": "4Gamer",
+        "items.2.time": "June 25",
+        "items.3.title": "'Puzzle & Dragons' Collab with 'Madoka Magica' for the First Time",
+        "items.3.source": "4Gamer",
+        "items.3.time": "June 25",
+        "items.4.title": "Capcom to Host 'Spotlight' to Reveal Latest Game Information",
+        "items.4.source": "IGN India",
+        "items.4.time": "June 26",
+        "items.5.title": "NCSOFT Releases New Developer Update Video for 'Aion 2'",
+        "items.5.source": "IGN India",
+        "items.5.time": "June 26",
+        "items.6.title": "Bungie Lays Off Staff After Ending 'Destiny 2' Service",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "June 26",
+        "items.7.title": "Valve Launches 'Steam Summer Sale' Featuring Thousands of Games",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "June 26"
+      },
+      "drk": {
+        "title": "No Service is Eternal: The Fall of Live Service and the Return of IP Assets",
+        "intro": "We live in an era where 'eternal games' that cost hundreds of billions of won shut down overnight, causing development studios to collapse. 🎮\nIn a rapidly changing market, what is the ultimate weapon for a game to capture gamers' hearts and survive? 🤔",
+        "points": "While Bungie recently conducted large-scale layoffs following the shutdown of 'Destiny 2' services, 'Odin' reclaiming the top revenue spot, alongside the return of historic IP-based titles like 'Tsukihime' and 'Cardcaptor Sakura', presents a stark contrast in the market. The flood of classic IP reimaginings across all platforms is not a mere coincidence, but a survival strategy in today's market.\n\nThis suggests that the risks of the live-service model, which demands constant operational costs and causes player fatigue, have reached a boiling point. Consumers are increasingly growing tired of Games-as-a-Service (GaaS) that demand endless spending and time commitment, shifting their consumer sentiment back toward packaged games with a definitive end and high collectible value, or reliable, familiar IPs.\n\n**Ultimately, the future of the gaming industry will be restructured on the grave of live services that require infinite maintenance, shifting toward diversifying IPs with established fandoms and maximizing collectible value.** Large developers' reckless obsession with live services only leads to the sacrifice of development teams and a sense of betrayal among players; protecting the value of proven IP assets has now become the safest investment.\n\nIf a game on an online server that you have poured years of affection and money into disappears tomorrow, what is left for us as gamers? It is time to deeply reflect on a sustainable gaming ecosystem and the true value of ownership. ✉️"
+      },
+      "epic": {
+        "title": "RollerCoaster Tycoon 3 Complete Edition",
+        "comment": "🎮 **This weekend, close your wallet and open up the fun with these free and discounted offers!**\n\n🎁 **Epic Games Free Giveaway (Period: ~July 2, 2026, 15:00 UTC)**\n- **RollerCoaster Tycoon 3 Complete Edition**: A classic theme park simulation masterpiece that captivated the world. Featuring two expansion packs, it is the ultimate casual time-killer to build your own amusement park.\n- **Voidwrought**: A stellar 2D action-platformer featuring an attractive hand-drawn cosmic horror world. It delivers an immersive experience where you explore ancient ruins, defeat ancient gods, and expand your own shrine.\n\n👀 **Next Week Preview**: Starting July 2, 15:00 UTC, the classic sci-fi adventure **'I Have No Mouth, and I Must Scream'**, which tells the survival story of humanity against artificial intelligence, will be available.\n\n🔥 **Steam Weekend Deal Recommendation (Period: ~July 9, 2026, 17:00 UTC)**\nGrab **'Red Dead Redemption 2'**, widely considered one of the greatest open-world games in history, at a 75% discount."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "DELTARUNE チャプター5",
+        "releases.0.note": "6月25日に無料アップデートとして配信されたインディーアドベンチャーゲームで、前作のヒットを引き継ぐ大規模なチャプター5のコンテンツが新たに追加されました。",
+        "releases.0.dev": "トビー・フォックス",
+        "releases.1.game": "カードキャプターさくら ：思い出の鍵",
+        "releases.1.note": "人気アニメ『カードキャプターさくら』のIPを活用し、モバイル向けに開発された収集型RPGで、6月25日に正式サービスを開始しました。",
+        "releases.1.dev": "Ledo Interactive",
+        "releases.2.game": "メダロット カードロボトル RB",
+        "releases.2.note": "従来の『メダロット』シリーズの魅力をカードバトルジャンルとして再構成した新作ゲームで、6月25日にNintendo Switch版としてリリースされました。",
+        "releases.2.dev": "イマジニア",
+        "releases.3.game": "ゲーム発展国++ Nintendo Switch 2 エディション",
+        "releases.3.note": "ゲーム会社を経営する名作シミュレーションゲームの移植作で、4K解像度対応と操作性の向上を引っさげ、6月25日にNintendo Switch 2版としてリリースされました。",
+        "releases.3.dev": "カイロソフト",
+        "releases.4.game": "月姫 -A piece of blue glass moon-",
+        "releases.4.note": "8月13日の正式リリースを控えた名作ビジュアルノベルリメイク「韓国語版」のパッケージ版予約受付が、6月26日より公式に開始されます。",
+        "releases.4.dev": "TYPE-MOON",
+        "releases.5.game": "ソードアート・オンライン エコーズ・オブ・アインクラッド",
+        "releases.5.note": "原作のアインクラッドの世界観を新たに描く新作アクションRPGで、6月26日から韓国語パッケージ版の予約受付を開始します。",
+        "releases.5.dev": "バンダイナムコエンターテインメント",
+        "events.0.name": "AION2 Navi - グローバルサービス記念生放送",
+        "events.0.note": "NCSOFTの新作MMORPG『アイオン2』初の日本公式生放送。実機プレイや世界観の特徴を紹介",
+        "events.0.venue": "オンライン（公式YouTubeチャンネル）",
+        "events.1.name": "ソードアート・オンライン『エコーズ・オブ・アインクラッド』公式生放送",
+        "events.1.note": "SAO新作『エコーズ・オブ・アインクラッド』のオープニング映像世界初公開、実機プレイ、最新情報の発表",
+        "events.1.venue": "オンライン"
+      },
+      "briefing": {
+        "items.0.title": "『オーディン：ヴァルハラ・ライジング』、5周年アップデートでApp Store売上1位を奪還",
+        "items.0.source": "Inven",
+        "items.0.time": "6月26일",
+        "items.1.title": "アジア競技大会 LoL韓国代表アナリストに「Deft」ら6名が決定",
+        "items.1.source": "Inven",
+        "items.1.time": "6月26일",
+        "items.2.title": "『ポケモン チャンピオンズ』、グローバル累計1000万DLを突破",
+        "items.2.source": "4Gamer",
+        "items.2.time": "6月25일",
+        "items.3.title": "『パズル＆ドラゴンズ』、『魔法少女まどか☆マギカ』と初のコラボ",
+        "items.3.source": "4Gamer",
+        "items.3.time": "6月25일",
+        "items.4.title": "カプコン、最新ゲーム情報を公開する「スポットライト」を開催",
+        "items.4.source": "IGN India",
+        "items.4.time": "6月26일",
+        "items.5.title": "NC『アイオン2』、新規開発者アップデート映像を公開",
+        "items.5.source": "IGN India",
+        "items.5.time": "6月26일",
+        "items.6.title": "Bungie、『Destiny 2』サービス終了後に人員削減を断行",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "6月26일",
+        "items.7.title": "Valve、数千タイトルを対象とした「Steamサマーセール」を開始",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "6月26일"
+      },
+      "drk": {
+        "title": "永遠のサービスは存在しない：ライブサービスの没落とIP資産の回帰",
+        "intro": "何千億ウォンもの資金を投じた「永遠のゲーム」が、一夜にしてサービスを終了し、開発会社が崩壊する時代です。 🎮\n急変する市場でゲーマーの心を掴み、生き残る「真のゲームの武器」とは何でしょうか？ 🤔",
+        "points": "最近、Bungieが『Destiny 2』のサービス終了後に大規模な人員削減を断行した一方で、『オーディン』の売上1位奪還や、『月姫』、『カードキャプターさくら』といった歴史あるIPをベースにした新作の回帰は、市場に強烈なコントラストを示しています。プラットフォームを問わず溢れ出るクラシックIPの再解釈は、単なる偶然ではなく、市場における生存戦略なのです。\n\nこれは、絶え間ない運営コストとユーザーの疲弊を伴うライブサービスモデルのリスクが限界点に達したことを示唆しています。消費者は、終わりのない支出と時間投資を要求するサービス型ゲームに次第に疲れ果てており、明確なエンディングがあり、所蔵価値の高いパッケージゲームや、信頼できるお馴染みのIPへと消費心理を回帰させています。\n\n**結局のところ、未来のゲーム産業は、無限の維持管理を要求するライブサービスの墓標の上で、確固たるファン層を持つIPの多角化と、所蔵価値を極大化する方向へと再編されるでしょう。** 大手開発会社による無理なライブサービスへの執着は、結局のところ開発陣の犠牲とユーザーの裏切り感につながるだけであり、今や検証済みのIP資産の価値を守ることこそが最も安全な投資先となっています。\n\n皆さんが数年間にわたり愛情と費用を注ぎ込んできたオンラインサーバーの中のゲームが、明日突然消えてしまうとしたら、ゲーマーである私たちには何が残るでしょうか？ 今こそ、持続可能なゲームのエコシステムと、真の「所有の価値」について深く考えるべき時です。 ✉️"
+      },
+      "epic": {
+        "title": "RollerCoaster Tycoon 3 Complete Edition",
+        "comment": "🎮 **今週末、財布は閉じて楽しみを開く無料＆割引特典をご紹介します！**\n\n🎁 **Epic Gamesストア無料配布（期限：〜2026年7月3日 00:00）**\n- **RollerCoaster Tycoon 3 Complete Edition**：世界中を魅了したテーマパークシミュレーションの名作です。2つの拡張パックが含まれたパッケージで、自分だけの遊園地を建設しながら手軽に楽しめる最高の暇つぶしゲームです。\n- **Voidwrought**：手描きによるコズミックホラーの世界観が魅力的な2Dアクションプラットフォーマーの秀作です。古代の遺跡を探索し、古代の神々を打ち倒しながら、自分だけの聖所を拡張していく没入感を提供します。\n\n👀 **Next Week 予告**：7月3日からは、人工知能に立ち向かい生き残った人類のサバイバルを描いたクラシックSFアドベンチャー**『I Have No Mouth, and I Must Scream』**が登場します。\n\n🔥 **Steam週末特売おすすめ（期限：〜2026年7月10日 02:00）**\n歴史上最高のオープンワールドゲームの一つに数えられる**『Red Dead Redemption 2』**を75%オフの特別価格でお楽しみください。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "맨날 '섭종'하는 라이브 게임의 종말 📉 (feat. 롤러코스터 타이쿤 3 무료 배포 🎢)",
+    "en": "The slow death of live service games? 📉 (Grab RollerCoaster Tycoon 3 for FREE! 🎢)",
+    "ja": "相次ぐ「サビ終」…ライブサービスゲームの限界？📉 (今なら『ローラーコースタータイクーン 3』無料配布！🎢)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "드디어 기다리던 그 명작이 찾아왔네요! 🎮\n오늘 '델타룬 챕터 5'가 PC로 전격 출시되었다는 소식이에요! ✨\n\nhttps://www.gtplayer.net/edition-069/\n\n#델타룬 #게임소식 #GTPlayer",
+          "posted": false,
+          "data": null,
+          "error": "X API 오류 (402): {\"account_id\":2041741108661612544,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2041741108661612544] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/problems/credits\"}"
+        }
+      },
+      "updated_at": "2026-06-26T07:05:12.976554"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "6월 26일 오늘의 게임 소식 🎮\n📰 **뉴스**: '오딘' 매출 1위 탈환 & LoL 아시안게임 분석관 '데프트' 합류 소식!\n🗓️ **출시**: '델타룬 챕터 5'부터 Switch 2 버전 '게임발전국++'까지 이번 주 신작 라인업!\n📉 **인사이트**: 툭하면 '섭종'하는 라이브 게임의 몰락과 진짜 살아남는 IP의 무기 (feat. 롤코타3 무료 배포 🎢)\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#gtplayer #지티플레이어 #게임뉴스 #게임정보 #신작게임 #게임추천 #오딘 #데프트 #델타룬 #게임발전국 #월희 #스위치2 #닌텐도스위치 #롤러코스터타이쿤 #섭종 #게임덕후 #겜스타그램 #인디게임 #모바일게임 #콘솔게임",
+          "image_paths": [
+            "web\\instagram\\edition_069\\card_news.png",
+            "web\\instagram\\edition_069\\card_calendar.png",
+            "web\\instagram\\edition_069\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3927589195955293149_39332818166",
+            "url": "https://www.instagram.com/p/DaBmZCAk8vd/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-06-26T07:05:49.518422"
+    }
+  }
+}

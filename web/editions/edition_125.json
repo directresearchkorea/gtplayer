@@ -1,0 +1,437 @@
+{
+  "num": "125",
+  "date": "2026-09-15",
+  "status": "published",
+  "schedule": {
+    "date": "2026-09-15",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "액티브 매터 (Active Matter)",
+          "dev": "팀 퀀텀",
+          "date": "9월 15일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 15일 PC 플랫폼으로 출시되는 양자 물리학 기반의 전술 익스트랙션 슈터 신작입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2887580/Active_Matter/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "블랙우드 (BLACKWOOD)",
+          "dev": "스튜디오 호라이즌",
+          "date": "9월 16일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 16일 정식 출시되는 3인칭 액션 어드벤처 신작으로, 어두운 숲을 탐험하며 비밀을 파헤치는 스토리를 담고 있습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3639070/BLACKWOOD/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "영웅전설 하늘의 궤적 the 2nd",
+          "dev": "니혼 팔콤",
+          "date": "9월 16일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 16일 출시되는 정통 스토리 RPG 신작으로, 전작의 사건 직후 펼쳐지는 에스텔과 요슈아의 장대한 여정을 그립니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4225980/Trails_in_the_Sky_2nd_Chapter/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "update",
+          "game": "이클립스: 더 어웨이크닝",
+          "dev": "스마일게이트",
+          "date": "9월 16일(수)",
+          "platforms": [
+            "PC",
+            "모바일"
+          ],
+          "color": "#3b82f6",
+          "note": "9월 16일 급증하는 이용자 유입에 발맞춰 쾌적한 플레이 환경을 제공하기 위한 신규 월드가 추가됩니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780453",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "더 길드 1 리메이크: 유로파 1410",
+          "dev": "퍼플 램프",
+          "date": "9월 17일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 17일 정식 출시되는 중세 경영 시뮬레이션 리메이크작으로, 가문을 번영시키기 위한 상업과 정치 활동을 즐길 수 있습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2977260/The_Guild_1_Remake_Europa_1410/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "event",
+          "game": "건즈앤드래곤즈",
+          "dev": "에이버튼",
+          "date": "9월 17일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#f59e0b",
+          "note": "9월 17일부터 23일까지 진행되는 2차 플레이테스트로, 신규 캐릭터 에린과 활 무기군 등을 체험할 수 있습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=320866",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "도쿄게임쇼 2026 (TGS 2026)",
+          "note": "아시아 최대 규모 게임쇼 개막, 주요 게임사 신작 출품 및 시연",
+          "venue": "일본 지바현 마쿠하리 멧세",
+          "date": "2026-09-17 ~ 2026-09-21",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=320856"
+        },
+        {
+          "name": "붕괴: 스타레일 Ver.4.6 특별 방송",
+          "note": "Ver.4.6 '달 뜨기 전에 야수와 춤을' 신규 캐릭터 및 업데이트 정보 공개",
+          "venue": "온라인",
+          "date": "2026-09-20",
+          "tag": "쇼케이스",
+          "website": "https://www.4gamer.net/games/599/G059954/20260914055/"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "게임프리크, 모바일 신작 '비 온 뒤 하레온나' 공개",
+          "source": "인벤",
+          "time": "9월 14일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=320860"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "위메이드, 킹넷 컨소시엄으로 최대주주 변경 결정",
+          "source": "게임메카",
+          "time": "9월 14일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780427"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "번지, '마라톤' 대형 업데이트 연기 및 PvE 개편",
+          "source": "IGN India",
+          "time": "9월 15일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/marathon/271843/marathon-delays-next-major-update-puts-focus-on-pve-and-moves-away-from-seasonal-content-amidst-bung"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "유비소프트, '레이맨 레전드 리톨드' 12월로 발매 연기",
+          "source": "IGN India",
+          "time": "9월 14일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/rayman-legends-retold/271823/ubisoft-has-delayed-rayman-legends-retold-just-a-few-weeks-before-its-planned-release-date"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "포트나이트, '킹덤 하츠' 협업 통해 소라 참전 확정",
+          "source": "4Gamer",
+          "time": "9월 14일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/144/G014484/20260914040/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "키위웍스, 마녀의 샘 세계관 신작 '인형의 그림자' 발표",
+          "source": "4Gamer",
+          "time": "9월 14일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/042/G104262/20260914026/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "네오위즈, 'P의 거짓' 후속작 '원더스 오브 O' 상표 출원",
+          "source": "PC Gamer",
+          "time": "9월 14일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/action/lies-of-p-publisher-files-trademark-for-likely-sequel-wonders-of-o/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "가혹한 전장에서 협동의 안식처로: 익스트랙션 슈터의 방향 전환",
+      "intro": "모든 것을 잃을 수 있는 극한의 전장에서, 왜 게이머들은 다시금 동료의 손을 찾기 시작했을까요? 🎯\n번지의 '마라톤'이 출시를 늦추고 PvE 전면 개편을 선택한 배경에는 산업의 거대한 심리적 변화가 있습니다.",
+      "points": "최근 번지(Bungie)가 신작 '마라톤'의 일정을 연기하고 대대적인 PvE 개편을 선언했습니다. 💡 '액티브 매터'와 같은 신작들이 여전히 정통 익스트랙션 장르의 문을 두드리고 있지만, 시장의 선두 주자들은 일제히 순수 PvP의 살얼음판에서 한 발 물러서는 모양새입니다.\n\n이러한 변화는 극단적인 스트레스와 시간 소모를 강요하는 '하드코어 제로섬' 규칙에 게이머들이 지쳤음을 보여줍니다. 📉 패배 시 모든 보상을 잃는 가혹한 구조는 진입장벽을 높여 신규 유입을 차단했고, 결국 플레이어들은 승패의 박탈감 대신 협동을 통한 안정적 성취감을 제공하는 PvE 콘텐츠로 눈을 돌리고 있습니다.\n\n결국 **라이브 서비스 슈터의 생존 공식은 '가혹한 약탈'에서 '유기적인 협동 경험'으로 이동하고 있습니다.** 🛡️ 유저 풀을 유지해야만 생존하는 서비스형 게임 플랫폼의 특성상, 극소수의 숙련자만 만족시키는 가학적 메커니즘은 장기적인 비즈니스 모델로 지속되기 어렵다는 뼈아픈 교훈입니다.\n\n살아남기 위해 변신을 꾀하는 대작 슈터들이 과연 피로해진 유저들의 신뢰를 다시 회복할 수 있을까요? 🎮 여러분이 게임에서 바라는 진정한 보상은 승리의 우월감입니까, 아니면 함께 나누는 성취의 즐거움입니까?"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "이클립스: 더 어웨이크닝",
+      "title": "미지의 대륙 개척, 신규 월드 벨제라의 첫 여명",
+      "imgUrl": "",
+      "comment": "신규 월드 '벨제라'와 신규 서버 추가로 폭발적인 인파가 몰려들 '이클립스: 더 어웨이크닝'의 개척 초기를 상상하며, 새로운 영토의 관문에 집결한 수많은 모험가들의 인게임 순간을 AI로 재현해 봤습니다.",
+      "ai_prompt": "Actual in-game screenshot, exact original game engine rendering, completely identical to original art style, NO cinematic styling, NO illustration. An authentic Korean MMORPG in-game environment from Eclipse: The Awakening, set in the newly opened realm of Belzera. Crowds of diverse player characters in detailed fantasy armor and enchanted weaponry gathering around a massive ancient stone fortress gate at the frontier. Third-person MMORPG camera perspective, realistic in-game lighting and shadow, subtle skill particle effects and glowing runes, players mounted on mythical beasts, rugged terrain blending into ancient gothic fantasy architecture, high-fidelity real-time game engine graphics."
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Active Matter",
+        "releases.0.note": "A new tactical extraction shooter based on quantum physics, launching on PC on September 15.",
+        "releases.0.dev": "Team Quantum",
+        "releases.1.game": "BLACKWOOD",
+        "releases.1.note": "A new third-person action-adventure releasing officially on September 16, featuring a story of exploring a dark forest to uncover its secrets.",
+        "releases.1.dev": "Studio Horizon",
+        "releases.2.game": "The Legend of Heroes: Trails in the Sky the 2nd",
+        "releases.2.note": "A classic story-driven RPG releasing on September 16, following the epic journey of Estelle and Joshua immediately after the events of the previous game.",
+        "releases.2.dev": "Nihon Falcom",
+        "releases.3.game": "Eclipse: The Awakening",
+        "releases.3.note": "A new world will be added on September 16 to provide a smoother gameplay environment in response to a surging influx of players.",
+        "releases.3.dev": "Smilegate",
+        "releases.4.game": "The Guild 1 Remake: Europa 1410",
+        "releases.4.note": "A medieval management simulation remake launching officially on September 17, offering commercial and political activities to lead a dynasty to prosperity.",
+        "releases.4.dev": "Purple Lamp",
+        "releases.5.game": "Guns & Dragons",
+        "releases.5.note": "The second playtest running from September 17 to 23, allowing players to experience the new character Erin and the bow weapon archetype.",
+        "releases.5.dev": "Aberton",
+        "events.0.name": "Tokyo Game Show 2026 (TGS 2026)",
+        "events.0.note": "Opening of Asia's largest gaming expo, featuring new game reveals and demos from major publishers.",
+        "events.0.venue": "Makuhari Messe, Chiba Prefecture, Japan",
+        "events.1.name": "Honkai: Star Rail Ver. 4.6 Special Program",
+        "events.1.note": "Revealing new characters and update details for Ver. 4.6 'Dance with Beasts Before the Moon Rises'",
+        "events.1.venue": "Online"
+      },
+      "briefing": {
+        "items.0.title": "Game Freak Unveils New Mobile Title 'After the Rain: Hareonna'",
+        "items.0.source": "Inven",
+        "items.0.time": "September 14",
+        "items.1.title": "Wemade Decides Largest Shareholder Change to Kingnet Consortium",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "September 14",
+        "items.2.title": "Bungie Delays Major 'Marathon' Update and Overhauls PvE",
+        "items.2.source": "IGN India",
+        "items.2.time": "September 15",
+        "items.3.title": "Ubisoft Delays 'Rayman Legends Retold' to December",
+        "items.3.source": "IGN India",
+        "items.3.time": "September 14",
+        "items.4.title": "Fortnite Confirms Sora's Arrival via 'Kingdom Hearts' Collaboration",
+        "items.4.source": "4Gamer",
+        "items.4.time": "September 14",
+        "items.5.title": "Kiwiwalks Announces 'Shadow of the Puppet', a New Title Set in the WitchSpring Universe",
+        "items.5.source": "4Gamer",
+        "items.5.time": "September 14",
+        "items.6.title": "Neowiz Files Trademark for 'Wonders of O', Sequel to 'Lies of P'",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "September 14"
+      },
+      "drk": {
+        "title": "From Ruthless Battlefields to Co-op Sanctuaries: The Pivot of Extraction Shooters",
+        "intro": "In an extreme battlefield where everything can be lost in an instant, why are gamers once again reaching out for a comrade's hand? 🎯\nBehind Bungie's decision to delay 'Marathon' and completely revamp its PvE lies a massive psychological shift across the gaming industry.",
+        "points": "Recently, Bungie announced a delay for its upcoming title 'Marathon' alongside a sweeping PvE overhaul. 💡 While new titles like 'Active Matter' continue to knock on the door of the traditional extraction genre, market leaders are unanimously taking a step back from the thin ice of pure PvP.\n\nThis shift demonstrates that players have grown exhausted by the 'hardcore zero-sum' rules that demand extreme stress and time commitment. 📉 A punishing structure where defeat strips away all rewards raises the barrier to entry and cuts off new player influx. As a result, players are turning their attention to PvE content that delivers stable, cooperative fulfillment rather than the deep sense of loss that comes from winning or losing.\n\nUltimately, **the survival formula for live-service shooters is shifting from 'ruthless looting' to 'organic cooperative experiences.'** 🛡️ Because live-service game platforms can only survive by maintaining an active player base, this serves as a painful reminder that sadistic mechanics catering only to a tiny elite cannot sustain a long-term business model.\n\nCan blockbuster shooters transforming to survive win back the trust of fatigued gamers? 🎮 What is the true reward you seek in gaming—the superiority of victory, or the shared joy of achievement?"
+      },
+      "gamescene": {
+        "game": "Eclipse: The Awakening",
+        "title": "Pioneering the Unknown Continent: First Dawn on the New World 'Belzera'",
+        "comment": "Imagining the early pioneering days of 'Eclipse: The Awakening' drawing massive crowds with the addition of the new world 'Belzera' and fresh servers, we used AI to recreate the in-game moment of countless adventurers gathering at the gateway to the new territory."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "アクティブ・マター (Active Matter)",
+        "releases.0.note": "9月15日にPCプラットフォーム向けにリリースされる量子物理学ベースの戦術エクストラクションシューターの新作です。",
+        "releases.0.dev": "Team Quantum",
+        "releases.1.game": "ブラックウッド (BLACKWOOD)",
+        "releases.1.note": "9月16日に正式リリースされる三人称視点アクションアドベンチャーの新作で、暗い森を探索しながら秘密を解き明かすストーリーが描かれます。",
+        "releases.1.dev": "Studio Horizon",
+        "releases.2.game": "英雄伝説 空の軌跡 the 2nd",
+        "releases.2.note": "9月16日に発売される正統派ストーリーRPGの新作で、前作の事件直後から繰り広げられるエステルとヨシュアの壮大な旅路を描きます。",
+        "releases.2.dev": "日本ファルコム",
+        "releases.3.game": "エクリプス：ジ・アウェイクニング",
+        "releases.3.note": "9月16日、急増するプレイヤーの流入に対応し、快適なプレイ環境を提供するための新規ワールドが追加されます。",
+        "releases.3.dev": "スマイルゲート",
+        "releases.4.game": "ザ・ギルド1 リメイク：ヨーロッパ 1410",
+        "releases.4.note": "9月17日に正式リリースされる中世経営シミュレーションのリメイク作品で、一族を繁栄させるための商業や政治活動を楽しむことができます。",
+        "releases.4.dev": "Purple Lamp",
+        "releases.5.game": "ガンズ＆ドラゴンズ",
+        "releases.5.note": "9月17日から23日まで実施される第2回プレイテストで、新キャラクター「エリン」や弓武器などを体験できます。",
+        "releases.5.dev": "Aberton",
+        "events.0.name": "東京ゲームショウ2026 (TGS 2026)",
+        "events.0.note": "アジア最大規模のゲームショウが開幕、主要ゲームメーカーの新作出展および試遊を実施",
+        "events.0.venue": "日本 千葉県 幕張メッセ",
+        "events.1.name": "『崩壊：スターレイル』Ver.4.6 予告番組",
+        "events.1.note": "Ver.4.6「月が出る前に野獣と踊れ」新キャラクターおよびアップデート情報を公開",
+        "events.1.venue": "オンライン"
+      },
+      "briefing": {
+        "items.0.title": "ゲームフリーク、モバイル新作『雨のち晴れ女』を発表",
+        "items.0.source": "INVEN",
+        "items.0.time": "9月14日",
+        "items.1.title": "Wemade、キングネットコンソーシアムへの筆頭株主変更を決定",
+        "items.1.source": "GameMeca",
+        "items.1.time": "9月14日",
+        "items.2.title": "Bungie、『Marathon』大型アップデートを延期しPvEを刷新へ",
+        "items.2.source": "IGN India",
+        "items.2.time": "9月15日",
+        "items.3.title": "ユービーアイソフト、『レイマン レジェンド リトールド』の発売を12月に延期",
+        "items.3.source": "IGN India",
+        "items.3.time": "9月14日",
+        "items.4.title": "『フォートナイト』、『キングダム ハーツ』コラボによりソラの参戦が決定",
+        "items.4.source": "4Gamer",
+        "items.4.time": "9月14日",
+        "items.5.title": "Kiwiwalks、『魔女の泉』世界観の新作『人形の影』を発表",
+        "items.5.source": "4Gamer",
+        "items.5.time": "9月14日",
+        "items.6.title": "NEOWIZ、『Lies of P』続編となる『Wonders of O』の商標を出願",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "9月14日"
+      },
+      "drk": {
+        "title": "過酷な戦場から協力の安息地へ：エクストラクションシューターの舵切り",
+        "intro": "すべてを失うかもしれない極限の戦場で、なぜゲーマーたちは再び仲間の手を求め始めたのでしょうか？ 🎯\nBungieの『Marathon』が発売を延期しPvEの全面刷新を選択した背景には、業界の巨大な心理的変化が存在します。",
+        "points": "最近、Bungieが新作『Marathon』のスケジュールを延期し、大規模なPvE刷新を宣言しました。💡 『Active Matter』のような新作が依然として正統派エクストラクションジャンルの扉を叩いていますが、市場の先駆者たちは一斉に純粋なPvPという薄氷の上から一歩退く姿勢を見せています。\n\nこうした変化は、極端なストレスと時間消費を強いる「ハードコアなゼロサム」ルールにゲーマーが疲弊したことを物語っています。📉 敗北時にすべての報酬を失う過酷な構造は参入障壁を引き上げて新規流入を阻み、結局プレイヤーは勝敗による喪失感ではなく、協力を通じた安定した達成感を提供するPvEコンテンツへと目を向けています。\n\n結局のところ、**ライブサービスシューターの生存方程式は「過酷な略奪」から「有機的な協力体験」へとシフトしています。** 🛡️ ユーザー層を維持してこそ生き残れるサービス型ゲームプラットフォームの特性上、ごく一部の熟練者のみを満足させるサディスティックなメカニクスは、長期的なビジネスモデルとして持続しにくいという痛切な教訓です。\n\n生き残りをかけて変革を図る大作シューターたちは、果たして疲弊したユーザーの信頼を再び取り戻せるのでしょうか？ 🎮 あなたがゲームに求める真の報酬とは、勝利の優越感ですか、それとも分かち合う達成の喜びですか？"
+      },
+      "gamescene": {
+        "game": "エクリプス：ジ・アウェイクニング",
+        "title": "未知の大陸開拓、新ワールド「ベルゼラ」の最初の夜明け",
+        "comment": "新ワールド「ベルゼラ」と新サーバーの追加により爆発的なプレイヤーが押し寄せる『エクリプス：ジ・アウェイクニング』の開拓初期を想像し、新たな領土の関門に集結した無数の冒険者たちのゲーム内モーメントをAIで再現しました。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "배신과 통수는 끝났다? 익스트랙션 슈터가 '협동'을 택한 이유 🤝🎒",
+    "en": "Trust No One? Why Extraction Shooters Are Ditching Cutthroat PvP 🤝🎒",
+    "ja": "もう裏切りはいらない？脱出シューターが「協力プレイ」に舵を切る理由 🤝🎒"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "맨날 뒤통수 맞던 익스트랙션 슈터에 드디어 평화가 올까요? 🤝\n마라톤도 PvE 개편에 나서는 등 장르 판도가 협동으로 바뀌고 있대요!\n\nhttps://www.gtplayer.net/edition-125/\n#마라톤 #포트나이트 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-15T07:01:31.134072"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "9월 15일 오늘의 게임 소식 🎮\n📰 [뉴스] 게임프리크 신작 발표, 위메이드 최대주주 변경, 번지 '마라톤' PvE 전면 개편 등\n📅 [출시] 액티브 매터, 영웅전설 하늘의 궤적 the 2nd, 더 길드 1 리메이크 등 신작 6종\n✍️ [인사이트] 배신과 통수는 끝났다? 익스트랙션 슈터가 다시 '협동'을 택한 이유\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임소식 #신작게임 #게임추천 #스팀게임 #PC게임 #모바일게임 #마라톤 #번지 #게임프리크 #위메이드 #포트나이트 #킹덤하츠 #영웅전설 #더길드 #익스트랙션슈터 #게임트렌드 #게이머 #게임스타그램 #gtplayer",
+          "image_paths": [
+            "web\\instagram\\edition_125\\card_cover.png",
+            "web\\instagram\\edition_125\\card_news.png",
+            "web\\instagram\\edition_125\\card_calendar.png",
+            "web\\instagram\\edition_125\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3986294143240578266_39332818166",
+            "url": "https://www.instagram.com/p/DdSKWcqEyTa/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-15T07:01:58.847425"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Trust No One? Why Extraction Shooters Are Ditching Cutthroat PvP 🤝🎒\n\nFrom Bungie revamping Marathon for PvE to Sora dropping into Fortnite, major shifts are rocking the gaming world.\nDiscover why the most cutthroat extraction shooters are suddenly trading betrayal for teamwork, alongside this week's top stories.\n\nhttps://www.gtplayer.net/edition-125-en/",
+        "error": null
+      },
+      "updated_at": "2026-09-15T07:02:42.352855"
+    }
+  }
+}

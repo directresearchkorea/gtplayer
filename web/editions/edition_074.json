@@ -1,0 +1,460 @@
+{
+  "num": "074",
+  "date": "2026-07-03",
+  "status": "published",
+  "schedule": {
+    "date": "2026-07-03",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "컬러스위퍼",
+          "dev": "아르까",
+          "date": "7월 2일(목)",
+          "platforms": [
+            "iOS",
+            "Android"
+          ],
+          "color": "#10b981",
+          "note": "7월 2일 글로벌 정식 출시된 추론형 모바일 퍼즐 게임으로, 지뢰찾기와 노노그램의 규칙을 결합한 독창적인 플레이가 특징입니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318078",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "삼국지: 천하결전",
+          "dev": "빌리빌리 게임",
+          "date": "7월 2일(목)",
+          "platforms": [
+            "PC",
+            "iOS",
+            "Android"
+          ],
+          "color": "#10b981",
+          "note": "7월 2일 정식 출시된 모바일 및 PC 플랫폼용 전략 시뮬레이션(SLG) 게임으로, 6대 직업 기반의 클래식한 전략 전투와 대규모 영토 전쟁을 다룹니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318077",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "사신 공주와 이서관의 괴물",
+          "dev": "니폰이치 소프트웨어",
+          "date": "7월 2일(목)",
+          "platforms": [
+            "PS5",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "7월 2일 콘솔 패키지로 출시된 잔혹동화 콘셉트의 어드벤처 게임으로, 신비하고 기괴한 이서관을 배경으로 펼쳐지는 미스터리를 다룹니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777322",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "승리의 여신: 니케",
+          "dev": "시프트업",
+          "date": "7월 2일(목)",
+          "platforms": [
+            "PC",
+            "iOS",
+            "Android"
+          ],
+          "color": "#3b82f6",
+          "note": "7월 2일 진행된 여름 업데이트를 통해 강력한 한정 필그림 캐릭터 '신데렐라: 크리스탈 웨이브'와 여름 테마 스토리 및 콘텐츠가 새롭게 추가되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777326",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "나 혼자만 레벨업:어라이즈",
+          "dev": "넷마블",
+          "date": "7월 2일(목)",
+          "platforms": [
+            "PC",
+            "iOS",
+            "Android"
+          ],
+          "color": "#3b82f6",
+          "note": "7월 2일 대규모 업데이트를 통해 신규 SSR 헌터 '아그네스 리베라'가 추가되었으며, 최고 레벨이 130으로 확장되고 새로운 파밍 콘텐츠가 추가되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777362",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "쿠키런: 킹덤",
+          "dev": "데브시스터즈",
+          "date": "7월 2일(목)",
+          "platforms": [
+            "iOS",
+            "Android"
+          ],
+          "color": "#3b82f6",
+          "note": "7월 2일 진행된 '용언의 노래' 업데이트로 신규 에피소드 '검은 날개의 인도자'와 강력한 드래곤 등급 '파인 드래곤 쿠키'가 공개되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318060",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "빌리빌리 월드 2026",
+          "note": "중국 대표 플랫폼 빌리빌리가 주최하는 대형 서브컬처 축제",
+          "venue": "상하이 국립전시컨벤션센터",
+          "date": "2026-07-10 ~ 2026-07-12",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=318064"
+        },
+        {
+          "name": "2026 소니 인존(INZONE) 배틀그라운드 멸망전 시즌1",
+          "note": "SOOP 스트리머들이 대거 참여하는 배틀그라운드 e스포츠 대회",
+          "venue": "SOOP 온라인 생중계",
+          "date": "2026-07-02 ~ 2026-07-05",
+          "tag": "e스포츠",
+          "website": "https://www.gamemeca.com/view.php?gid=1777319"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "게임이용자협회, 구글 수수료 반환 집단분쟁조정 신청",
+          "source": "게임메카",
+          "time": "7월 2일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777349"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "네오위즈, 창사 최초 '지속가능경영 보고서' 발간",
+          "source": "게임메카",
+          "time": "7월 2일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777316"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "컴퍼니 오브 히어로즈 3: 파이널 스탠드 공식 발표",
+          "source": "IGN India",
+          "time": "7월 2일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/company-of-heroes-3/265371/company-of-heroes-3-final-stand-official-announcement-trailer"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "포트나이트, '아메리칸 대드' 콜라보 트레일러 공개",
+          "source": "IGN India",
+          "time": "7월 2일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/fortnite/265361/fortnite-official-american-dad-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "웹젠, 미소녀 RPG '테르비스' 개발 전면 재구축",
+          "source": "4Gamer",
+          "time": "7월 2일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/754/G075499/20260702034/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "페르소나 5X, P3P 콜라보 및 여성 주인공 실장 결정",
+          "source": "電撃オンライン",
+          "time": "7월 2일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202607/80218"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "엑스박스, 디스크 드라이브 제거 및 디지털화 테스트",
+          "source": "GamesIndustry.biz",
+          "time": "7월 2일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/xbox-is-reportedly-considering-dropping-disc-drives-as-it-tests-new-feature-that-lets-players-digitize-physical-games"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "암네시아 제작사, 신작 공포 게임 'Ontos' 연기",
+          "source": "PC Gamer",
+          "time": "7월 2일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/horror/amnesia-studio-delays-its-new-game-into-2027/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "플랫폼 독점 시대, 게이머의 권리와 소유권은 어디로 가는가",
+      "intro": "실물 패키지가 사라지는 콘솔 시장의 변화와 구글 수수료를 향한 게이머들의 집단행동은 단순한 우연이 아닙니다.\n디지털 플랫폼이 지배하는 게임 생태계 속에서 소비자가 마주한 '소유권과 권리'의 위기를 정밀하게 짚어봅니다.",
+      "points": "최근 게임 업계에서는 디지털 플랫폼의 권력 비대화와 이에 따른 소비자 권익 침해 논란이 동시에 분출되고 있습니다. 한국의 게임이용자협회가 구글의 일방적인 앱마켓 수수료 부과에 반발해 집단분쟁조정을 신청한 한편, 마이크로소프트의 엑스박스는 물리 디스크 드라이브를 완전히 제거한 디지털 전용 콘솔을 테스트하기 시작했습니다. 🎮\n\n이러한 변화는 **게임 소비 구조와 플랫폼 생태계**에 파괴적인 영향력을 미칩니다. 패키지 소유의 종말은 게이머에게서 온전한 제품 소유권을 박탈하고 플랫폼 제공자의 독점적 가격 통제력만을 강화하는 결과를 낳습니다. 유통 플랫폼의 수수료 독점은 고스란히 개발사의 수익 악화 및 소비자 가격 인상으로 이어져 생태계 전체의 순환을 저해합니다. 📦\n\n**편리함을 무기로 내세운 디지털 플랫폼의 독점화는 게이머의 주체적 소비 권리를 약화시키고 플랫폼 종속성을 심화시키는 이면을 가지고 있습니다.** 우리는 이제 게임을 소유하는 소비자가 아니라, 플랫폼 기업이 허락한 라이선스를 기간 한정으로 대여하는 단순 이용자로 밀려나고 있는지도 모릅니다. 💡\n\n플랫폼이 모든 규칙을 지배하는 새로운 시대에 진입한 지금, 우리는 과연 우리가 지불한 대가만큼의 권리를 보장받고 있습니까? 플랫폼 독점을 견제하고 게이머의 온전한 권익을 수호하기 위한 전 세계적인 관심과 제도적 안전장치 마련이 시급합니다. ❓"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "I Have No Mouth, and I Must Scream",
+      "url": "https://store.epicgames.com/ko/p/i-have-no-mouth-and-i-must-scream-95c5c2",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-163j8.png",
+      "comment": "🎮 **[에픽게임즈] 이번 주 무료 배포**\n- **I Have No Mouth, and I Must Scream** (~2026년 7월 10일 00:00까지)\n  인류를 멸망시킨 인공지능에 맞서 살아남은 인간들의 심리적 공포를 다룬 고전 디스토피아 어드벤처 게임입니다. 원작 소설을 바탕으로 한 깊이 있는 스토리텔링과 철학적인 메시지가 돋보이는 수작입니다.\n- **[Next Week]** 다음 주(7월 10일 00:00~)에는 자신만의 타투 스튜디오를 최고의 브랜드로 성장시키는 시뮬레이션 게임 'Tattoo Tycoon'이 찾아옵니다.\n\n🚀 **[스팀] 주말 특가 추천**\n- 로그라이크 장르의 교과서이자 독창적인 플레이로 극찬을 받은 'The Binding of Isaac: Rebirth'를 7월 10일 02:00까지 90% 할인 혜택으로 만나보세요!",
+      "steam_deal": {
+        "type": "deal",
+        "name": "The Binding of Isaac: Rebirth",
+        "app_id": 250900,
+        "url": "https://store.steampowered.com/app/250900",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/header.jpg?t=1731977365",
+        "discount_percent": 90,
+        "original_price": "15,500원",
+        "final_price": "1,550원",
+        "end_date": "2026-07-10 02:00"
+      }
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Color Sweeper",
+        "releases.0.note": "A deductive mobile puzzle game globally launched on July 2, featuring unique gameplay that combines the rules of Minesweeper and Nonogram.",
+        "releases.0.dev": "Arca",
+        "releases.1.game": "Three Kingdoms: Decisive Battle",
+        "releases.1.note": "A strategy simulation (SLG) game for mobile and PC platforms officially released on July 2, featuring classic strategic combat based on 6 classes and large-scale territorial warfare.",
+        "releases.1.dev": "Bilibili Games",
+        "releases.2.game": "The Grim Reaper Princess and the Beast of the Library",
+        "releases.2.note": "An adventure game with a dark fairy tale concept released as a console package on July 2, dealing with mysteries set in the mysterious and bizarre Library.",
+        "releases.2.dev": "Nippon Ichi Software",
+        "releases.3.game": "Goddess of Victory: Nikke",
+        "releases.3.note": "Through the summer update on July 2, the powerful limited Pilgrim character 'Cinderella: Crystal Wave' and summer-themed stories and content were newly added.",
+        "releases.3.dev": "Shift Up",
+        "releases.4.game": "Solo Leveling: Arise",
+        "releases.4.note": "Through a major update on July 2, the new SSR Hunter 'Agnes Rivera' was added, the maximum level was expanded to 130, and new farming content was introduced.",
+        "releases.4.dev": "Netmarble",
+        "releases.5.game": "Cookie Run: Kingdom",
+        "releases.5.note": "With the 'Song of the Dragon's Words' update on July 2, the new episode 'The Black-Winged Guide' and the powerful Dragon-grade 'Ananas Dragon Cookie' were revealed.",
+        "releases.5.dev": "Devsisters",
+        "events.0.name": "Bilibili World 2026",
+        "events.0.note": "A major subculture festival hosted by Bilibili, China's leading platform.",
+        "events.0.venue": "National Exhibition and Convention Center (Shanghai)",
+        "events.1.name": "2026 Sony INZONE PUBG Destruction Match Season 1",
+        "events.1.note": "A PUBG esports tournament featuring a large number of SOOP streamers.",
+        "events.1.venue": "SOOP Online Live Stream"
+      },
+      "briefing": {
+        "items.0.title": "Game Users Association Files for Collective Dispute Mediation for Google Fee Refund",
+        "items.0.source": "Gamemeca",
+        "items.0.time": "July 2",
+        "items.1.title": "Neowiz Publishes First 'Sustainability Report' Since Founding",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "July 2",
+        "items.2.title": "Company of Heroes 3: Final Stand Officially Announced",
+        "items.2.source": "IGN India",
+        "items.2.time": "July 2",
+        "items.3.title": "Fortnite Reveals 'American Dad' Collaboration Trailer",
+        "items.3.source": "IGN India",
+        "items.3.time": "July 2",
+        "items.4.title": "Webzen Completely Rebuilds Development of Bishojo RPG 'Terbis'",
+        "items.4.source": "4Gamer",
+        "items.4.time": "July 2",
+        "items.5.title": "Persona 5: The Phantom X Confirms P3P Collaboration and Female Protagonist Implementation",
+        "items.5.source": "Dengeki Online",
+        "items.5.time": "July 2",
+        "items.6.title": "Xbox Tests Disc Drive Removal and Digitalization",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "July 2",
+        "items.7.title": "Amnesia Developer Delays New Horror Game 'Ontos'",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "July 2"
+      },
+      "drk": {
+        "title": "The Era of Platform Monopoly: Where Are Gamers' Rights and Ownership Heading?",
+        "intro": "The changes in the console market, where physical packages are disappearing, and the collective action of gamers against Google's fees are no mere coincidence. We take a close look at the crisis of 'ownership and rights' faced by consumers in a gaming ecosystem dominated by digital platforms.",
+        "points": "Recently, the gaming industry has seen a simultaneous outbreak of controversies regarding the bloated power of digital platforms and the resulting infringement on consumer rights. While Korea's Game Users Association has filed for collective dispute mediation in response to Google's unilateral app market fees, Microsoft's Xbox has begun testing digital-only consoles that completely remove physical disc drives. 🎮\n\nThese changes have a destructive impact on **the game consumption structure and platform ecosystem**. The end of physical package ownership deprives gamers of full product ownership and only strengthens the platform providers' monopolistic price control. The commission monopoly of distribution platforms directly translates to deteriorating revenues for developers and higher prices for consumers, hindering the circulation of the entire ecosystem. 📦\n\n**The monopolization of digital platforms, using convenience as a weapon, has a dark side that weakens gamers' independent consumption rights and deepens platform dependency.** We may now be pushed from being consumers who own games to mere users who rent licenses permitted by platform companies for a limited period. 💡\n\nNow that we have entered a new era where platforms govern all the rules, are we truly guaranteed rights equivalent to the price we paid? Global attention and institutional safeguards to check platform monopolies and protect the full rights and interests of gamers are urgently needed. ❓"
+      },
+      "epic": {
+        "title": "I Have No Mouth, and I Must Scream",
+        "comment": "🎮 **[Epic Games] This Week's Free Giveaway**\n- **I Have No Mouth, and I Must Scream** (~until July 9, 2026, 15:00 UTC)\n  A classic dystopian adventure game that deals with the psychological horror of surviving humans against an artificial intelligence that wiped out humanity. It is a masterpiece that stands out for its deep storytelling and philosophical message based on the original novel.\n- **[Next Week]** Next week (from July 9, 15:00 UTC), 'Tattoo Tycoon', a simulation game where you grow your own tattoo studio into the ultimate brand, will arrive.\n\n🚀 **[Steam] Weekend Deal Recommendation**\n- Grab 'The Binding of Isaac: Rebirth', highly praised as a textbook of the roguelike genre with its unique gameplay, at a 90% discount until July 9, 17:00 UTC!"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "カラースイーパー",
+        "releases.0.note": "7月2日にグローバル正式リリースされた推論型モバイルパズルゲームで、マインスイーパーとノノグラムのルールを組み合わせた独創的なプレイが特徴です。",
+        "releases.0.dev": "Arka",
+        "releases.1.game": "三国志：天下決戦",
+        "releases.1.note": "7月2日に正式リリースされたモバイルおよびPCプラットフォーム向けの戦略シミュレーション（SLG）ゲームで、6大職業に基づいたクラシックな戦略バトルと大規模な領土戦争を扱っています。",
+        "releases.1.dev": "Bilibili Games",
+        "releases.2.game": "死神姫と異書館の怪物",
+        "releases.2.note": "7月2日にコンソールパッケージとして発売された残酷童話コンセプトのアドベンチャーゲームで、神秘的で奇妙な「異書館」を舞台に繰り広げられるミステリーを描いています。",
+        "releases.2.dev": "日本一ソフトウェア",
+        "releases.3.game": "勝利の女神：NIKKE",
+        "releases.3.note": "7月2日に実施された夏のアップデートにより、強力な限定ピルグリムキャラクター「シンデレラ：クリスタルウェーブ」と、夏テーマのストーリーおよびコンテンツが新たに追加されました。",
+        "releases.3.dev": "SHIFT UP",
+        "releases.4.game": "俺だけレベルアップな件：Arise",
+        "releases.4.note": "7月2日の大規模アップデートにより、新規SSRハンター「アグネス・リベラ」が追加され、最大レベルが130に拡張、新たなファーミングコンテンツが追加されました。",
+        "releases.4.dev": "ネットマーブル",
+        "releases.5.game": "クッキーラン：キングダム",
+        "releases.5.note": "7月2日に実施された「竜言의歌」アップデートにより、新規エピソード「黒き翼の導き手」と強力なドラゴングレードの「パインドラゴンクッキー」が公開されました。",
+        "releases.5.dev": "DEVSISTERS",
+        "events.0.name": "Bilibili World 2026",
+        "events.0.note": "中国を代表するプラットフォームBilibiliが主催する大型サブカルチャーフェスティバル",
+        "events.0.venue": "上海国家会展中心",
+        "events.1.name": "2026 ソニー INZONE PUBG 滅亡戦 シーズン1",
+        "events.1.note": "SOOPのストリーマーが多数参加するPUBG eスポーツ大会",
+        "events.1.venue": "SOOP オンライン生中継"
+      },
+      "briefing": {
+        "items.0.title": "ゲーム利用者協会、Googleの手数料返還に関する集団紛争調停を申請",
+        "items.0.source": "ゲームメカ",
+        "items.0.time": "7月2日",
+        "items.1.title": "NEOWIZ、創立以来初の「持続可能経営報告書」を発刊",
+        "items.1.source": "ゲームメカ",
+        "items.1.time": "7月2日",
+        "items.2.title": "『Company of Heroes 3: Final Stand』公式発表",
+        "items.2.source": "IGN India",
+        "items.2.time": "7月2日",
+        "items.3.title": "フォートナイト、『アメリカン・ダッド』コラボトレーラーを公開",
+        "items.3.source": "IGN India",
+        "items.3.time": "7월 2일",
+        "items.4.title": "WEBZEN、美少女RPG『テルビス』の開発を全面再構築",
+        "items.4.source": "4Gamer",
+        "items.4.time": "7월 2일",
+        "items.5.title": "『ペルソナ5X』、『P3P』コラボおよび女性主人公の実装が決定",
+        "items.5.source": "電撃オンライン",
+        "items.5.time": "7월 2일",
+        "items.6.title": "Xbox、ディスクドライブの排除およびデジタル化をテスト",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "7월 2일",
+        "items.7.title": "『アムネシア』開発元、新作ホラーゲーム『Ontos』の発売を延期",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "7월 2일"
+      },
+      "drk": {
+        "title": "プラットフォーム独占の時代、ゲーマーの権利と所有権はどこへ向かうのか",
+        "intro": "パッケージ版が姿を消しつつあるコンソール市場の変化と、Googleの手数料に対するゲーマーたちの集団行動は、単なる偶然ではありません。\nデジタルプラットフォームが支配するゲームエコシステムの中で、消費者が直面している「所有権と権利」の危機を詳細に分析します。",
+        "points": "最近のゲーム業界では、デジタルプラットフォームの権力肥大化と、これに伴う消費者権益の侵害に関する論争が同時に噴出しています。韓国のゲーム利用者協会が、Googleの一方的なアプリストア手数料課金に反発して集団紛争調停を申請した一方で、マイクロソフトのXboxは、物理ディスクドライブを完全に排除したデジタル専用コンソールのテストを開始しました。🎮\n\nこのような変化は、**ゲームの消費構造とプラットフォームのエコシステム**に破壊的な影響を与えます。パッケージ所有の終焉は、ゲーマーから完全な製品所有権を奪い、プラットフォーム提供者の独占的な価格統制力だけを強化する結果をもたらします。流通プラットフォームの手数料独占は、そのまま開発会社の収益悪化および消費者価格の上昇につながり、エコシステム全体の循環を阻害します。📦\n\n**利便性を武器にしたデジタルプラットフォームの独占化は、ゲーマーの主体的な消費権利を弱め、プラットフォームへの従属性を深化させるという側面を持っています。** 私たちは今や、ゲームを所有する消費者ではなく、プラットフォーム企業が許可したライセンスを期間限定でレンタルするだけの単なる利用者に追いやられているのかもしれません。💡\n\nプラットフォームがすべてのルールを支配する新しい時代に突入した今、私たちは果たして支払った対価に見合う権利を保証されているのでしょうか？ プラットフォームの独占を牽制し、ゲーマーの完全な権利と利益を守るための世界的な関心と、制度的な安全装置の構築が急務となっています。❓"
+      },
+      "epic": {
+        "title": "I Have No Mouth, and I Must Scream",
+        "comment": "🎮 **[Epic Games Store] 今週の無料配布**\n- **I Have No Mouth, and I Must Scream**（〜2026年7月10日 00:00まで）\n  人類を滅亡させた人工知能に立ち向かい、生き残った人間たちの心理的恐怖を描いた古典ディストピアアドベンチャーゲームです。原作小説をベースにした深みのあるストーリーテリングと哲学的なメッセージが際立つ名作です。\n- **[Next Week]** 来週（7月10日 00:00〜）は、自分だけのタトゥースタジオを最高のブランドへと成長させるシミュレーションゲーム『Tattoo Tycoon』が登場します。\n\n🚀 **[Steam] 週末特価おすすめ**\n- ローグライ크ジャンルの教科書であり、独創的なプレイで大絶賛された『The Binding of Isaac: Rebirth』を7月10日 02:00まで90%オフでお楽しみいただけます！"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "\"내가 돈 주고 산 게임, 진짜 내 것 맞나요?\" 🤔 (feat. 소름 돋는 SF 명작 무료 배포 🎁)",
+    "en": "Do we actually OWN our digital games anymore? ❌ (Grab this cult-classic sci-fi horror for FREE! 🎁)",
+    "ja": "「お金を払ったゲーム、本当に自分のもの？」揺らぐ所有権 ⚠️（今だけあの伝説のSFホラー名作が無料！🎁）"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "내가 돈 주고 산 게임이 진짜 내 게 아닐 수도 있다고요? 😳\n플랫폼 독점 속 게이머의 권리 논쟁과 소름 돋는 SF 명작 무료 배포 소식을 만나보세요!\n\nhttps://www.gtplayer.net/edition-074/\n\n#니케 #게임소식 #GTPlayer",
+          "posted": false,
+          "data": null,
+          "error": "X API 오류 (402): {\"account_id\":2041741108661612544,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2041741108661612544] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/problems/credits\"}"
+        }
+      },
+      "updated_at": "2026-07-03T07:05:11.327296"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "7월 3일 오늘의 게임 소식 🎮 \"내가 돈 주고 산 게임, 진짜 내 것 맞나요?\" 🤔\n📰 **[뉴스]** 구글 수수료 집단분쟁조정 신청 이슈 & 소름 돋는 SF 명작 무료 배포 소식! 🎁\n📅 **[출시]** <니케>, <나혼렙>, <쿠키런: 킹덤> 등 이번 주 주목해야 할 신작 및 업데이트 캘린더!\n🔍 **[인사이트]** 패키지가 사라지는 시대, 플랫폼 독점 속에서 마주한 게이머의 '소유권' 위기 진단!\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#GTPLAYER #지티플레이어 #게임뉴스 #게임뉴스레터 #신작게임 #게임추천 #모바일게임 #콘솔게임 #스팀게임 #게임소식 #게임덕후 #겜스타 #겜스타그램 #승리의여신니케 #나혼자만레벨업어라이즈 #쿠키런킹덤 #삼국지천하결전 #구글수수료 #게임소유권 #무료게임배포",
+          "image_paths": [
+            "web\\instagram\\edition_074\\card_news.png",
+            "web\\instagram\\edition_074\\card_calendar.png",
+            "web\\instagram\\edition_074\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3932662613675293015_39332818166",
+            "url": "https://www.instagram.com/p/DaTn8-dkzlX/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-07-03T07:05:48.370746"
+    }
+  }
+}

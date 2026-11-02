@@ -1,0 +1,413 @@
+{
+  "num": "117",
+  "date": "2026-09-03",
+  "status": "published",
+  "schedule": {
+    "date": "2026-09-03",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "NBA 2K27",
+          "dev": "비주얼 컨셉",
+          "date": "9월 3일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "9월 3일 정식 출시되는 대표 농구 시뮬레이션 시리즈 신작으로, 엔비디아 차세대 DLSS 기술 적용과 향상된 게임플레이를 제공합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4356430/NBA_2K27/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "스피드러너 2: 킹 오브 스피드",
+          "dev": "더블더치 게임즈",
+          "date": "9월 3일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 3일 스팀을 통해 출시되는 멀티플레이 대전 플랫포머 신작으로, 그래플링 훅과 다양한 아이템을 활용한 초고속 레이싱을 지원합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3183760/SpeedRunners_2_King_of_Speed/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "event",
+          "game": "워독스",
+          "dev": "워독스 스튜디오",
+          "date": "9월 3일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "9월 3일부터 정식 출시 전 대규모 인원이 참가하는 파이널 클로즈드 베타 테스트를 본격적으로 시작합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/fps/30-000-people-line-up-24-hours-early-to-play-the-final-wardogs-closed-beta-developer-responds-you-people-are-crazy/",
+          "source_name": "PC Gamer"
+        },
+        {
+          "category": "release",
+          "game": "귀무자: 검의 길",
+          "dev": "캡콤",
+          "date": "9월 4일(금)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "9월 4일 정식 출시되는 검극 액션 게임으로, 미야모토 무사시를 주인공으로 내세워 일섬과 패링 기반의 액션을 선보입니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1779969",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "나의 히어로 아카데미아: 올즈 저스티스",
+          "dev": "반다이 남코 엔터테인먼트",
+          "date": "9월 4일(금)",
+          "platforms": [
+            "Switch 2"
+          ],
+          "color": "#10b981",
+          "note": "9월 4일 닌텐도 스위치 2로 공식 출시되는 대전 액션 신작으로, 원작의 히어로와 빌런들이 펼치는 박진감 넘치는 배틀을 담았습니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/my-hero-academia-alls-justice/270796/my-hero-academia-alls-justice-official-nintendo-switch-2-launch-trailer",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "release",
+          "game": "던전 세틀러",
+          "dev": "어반 테크",
+          "date": "9월 4일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 4일 스팀으로 정식 출시되는 전략 시뮬레이션 게임으로, 지하 던전을 탐험하며 기지를 개척하고 정착지를 건설하는 내용을 다룹니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2798330/Dungeon_Settlers/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "라이브 어 라이브(LIVE A LIVE) 32주년 기념 팝업 스토어",
+          "note": "캔버스 아트 및 컬래버 의류 전시·판매",
+          "venue": "도쿄 아키하바라",
+          "date": "2026-09-04 ~",
+          "tag": "오프라인 행사",
+          "website": "https://www.4gamer.net/games/617/G061733/20260902034/"
+        },
+        {
+          "name": "블리즈컨 2026 (BlizzCon 2026)",
+          "note": "블리자드 엔터테인먼트 글로벌 게임 축제 한국어 공식 생중계",
+          "venue": "미국 캘리포니아 현지 및 온라인 생중계",
+          "date": "2026-09-12 ~ 2026-09-13",
+          "tag": "쇼케이스",
+          "website": "https://www.gamemeca.com/view.php?gid=1779949"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "CDPR, '팬텀 리버티' 1,500만 장 돌파… 상반기 호실적",
+          "source": "인벤",
+          "time": "9월 2일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=320352"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "슈퍼셀, '머지 맨션' 개발사 메타코어 잔여 지분 전격 인수",
+          "source": "인벤",
+          "time": "9월 2일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=320338"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "소니, 활성 PS 유저당 매출 PS4 대비 59% 급증",
+          "source": "IGN India",
+          "time": "9월 2일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/playstation-5-1/270822/sony-is-making-59-more-revenue-per-playstation-user-since-ps4-generation-says-analyst"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "디즈니, '대난투' 스타일 신작 격투 게임 개발 착수 확인",
+          "source": "IGN India",
+          "time": "9월 2일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/super-smash-bros-for-nintendo-switch/270806/disney-was-working-on-its-own-smash-bros-like-fighting-game-confirms-ex-concept-artist"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "세가·아틀라스, TGS 2026 출전 공개… P4 리바이벌 시연",
+          "source": "4Gamer",
+          "time": "9월 2일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/918/G091829/20260902054/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "서비스 재개 앞둔 '킹스레이드', 신작 공식 타이틀 확정 발표",
+          "source": "4Gamer",
+          "time": "9월 2일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/944/G094489/20260901017/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "넥서스 모드 모회사, PC 게임 데이터 플랫폼 '스팀DB' 인수",
+          "source": "GamesIndustry.biz",
+          "time": "9월 2일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/nexus-mods-acquires-steamdb"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "스팀 주간 700개 게임 출시 신기록… 74%는 리뷰 10개 미만",
+          "source": "GamesIndustry.biz",
+          "time": "9월 2일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/over-700-games-launched-on-steam-in-one-week-for-the-first-time-though-74-had-fewer-than-10-reviews"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "주간 700개 신작의 역설, 공급 과잉이 불러온 거대한 침묵",
+      "intro": "일주일에 700개의 신작이 쏟아지지만, 4개 중 3개는 단 하나의 메아리조차 남기지 못한 채 잊힙니다. 역대 최대로 팽창한 게임 시장에서 유저들의 선택은 왜 오히려 더 좁아지고 있을까요?",
+      "points": "스팀에서 한 주 동안 700개의 신작이 출시되며 역대 최고치를 기록했으나, 전체의 74%는 최소한의 검증 지표인 리뷰 10개조차 채우지 못했습니다. 반면 CDPR의 '팬텀 리버티'는 1,500만 장을 넘어서고 콘솔 플랫폼의 유저당 매출은 급증하는 등, 시장의 성과 양극화는 극단으로 치닫고 있습니다. 📊\n\n이러한 현상은 플랫폼 구조의 포화와 유저의 소비 피로도가 맞물린 결과입니다. 신작의 홍수 속에서 피로감을 느낀 게이머들은 실패 확률이 높은 미검증 신작을 외면하고, 이미 신뢰가 입증된 대작 IP나 지속 가능한 라이브 서비스로 숨어드는 보수적 소비 심리를 보이고 있습니다. 이는 중소 개발사의 시장 진입 장벽을 유례없이 높이는 치명적인 요인으로 작용합니다. 📉\n\n결국 현시점 게임 산업의 본질은 콘텐츠의 생산이 아니라, **파편화된 유저의 한정된 시간과 신뢰를 선점하는 발견성(Discoverability)의 싸움**으로 재편되었습니다. 최근 데이터 분석 플랫폼의 가치가 급등하는 배경 역시, 무한 경쟁의 안갯속에서 소비자의 움직임을 정확히 포착하려는 플랫폼들의 절박한 생존 전략을 대변합니다. 🔍\n\n선택의 과잉이 오히려 무관심을 낳는 시대입니다. 과연 여러분의 프로젝트는 이 거대한 침묵을 뚫고 유저의 시선을 사로잡을 명확한 '신뢰의 이유'를 갖추고 있습니까? 🎯"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": true,
+      "title": "Onimusha: Way of the Sword - Official Swordplay Action Trailer",
+      "channel": "IGN",
+      "videoId": "ifh_bOuaXVI",
+      "url": "https://www.youtube.com/watch?v=ifh_bOuaXVI",
+      "thumbnail": "https://i.ytimg.com/vi/ifh_bOuaXVI/hqdefault.jpg",
+      "comment": "전설적인 액션의 새로운 장을 여는 <귀무자: 검의 길>의 공식 검술 액션 트레일러가 공개되었습니다. 이번 영상에서는 정교한 패링과 일격필살의 긴장감이 넘치는 역동적인 칼부림 액션의 진수를 엿볼 수 있습니다. ⚔️ 화면을 가르는 예리한 검의 궤적을 지금 트레일러를 통해 직접 확인해 보세요! 🎬",
+      "search_query": "Onimusha Way of the Sword Official Gameplay Trailer",
+      "ai_game_name": "귀무자: 검의 길",
+      "ai_reason": "전설적인 검극 액션 프랜차이즈의 귀환작으로, 미야모토 무사시의 묵직한 패링과 호쾌한 일섬 액션을 담아낸 비주얼 쇼케이스가 게이머들의 시선을 사로잡기에 가장 적합합니다."
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "NBA 2K27",
+        "releases.0.note": "The latest entry in the flagship basketball simulation series officially launching on September 3, featuring next-gen NVIDIA DLSS technology and enhanced gameplay.",
+        "releases.0.dev": "Visual Concepts",
+        "releases.1.game": "SpeedRunners 2: King of Speed",
+        "releases.1.note": "A new competitive multiplayer platformer releasing on Steam on September 3, featuring high-speed racing using grappling hooks and various items.",
+        "releases.1.dev": "DoubleDutch Games",
+        "releases.2.game": "War Dogs",
+        "releases.2.note": "Kicking off its large-scale Final Closed Beta Test on September 3 ahead of the official release.",
+        "releases.2.dev": "Wardogs Studio",
+        "releases.3.game": "Onimusha: Way of the Sword",
+        "releases.3.note": "A swordplay action game officially releasing on September 4, starring Miyamoto Musashi as the protagonist and featuring Issen and parry-based combat.",
+        "releases.3.dev": "Capcom",
+        "releases.4.game": "My Hero Academia: All's Justice",
+        "releases.4.note": "A new fighting action game officially launching on Nintendo Switch 2 on September 4, capturing thrilling battles between the original work's heroes and villains.",
+        "releases.4.dev": "Bandai Namco Entertainment",
+        "releases.5.game": "Dungeon Settler",
+        "releases.5.note": "A strategy simulation game officially releasing on Steam on September 4, where players explore underground dungeons, pioneer bases, and build settlements.",
+        "releases.5.dev": "Urban Tech",
+        "events.0.name": "LIVE A LIVE 32nd Anniversary Pop-up Store",
+        "events.0.note": "Exhibition and sale of canvas art and collaboration apparel",
+        "events.0.venue": "Akihabara, Tokyo",
+        "events.1.name": "BlizzCon 2026",
+        "events.1.note": "Official Korean livestream of Blizzard Entertainment's global gaming festival",
+        "events.1.venue": "California, USA & Online Livestream"
+      },
+      "briefing": {
+        "items.0.title": "CDPR Surpasses 15 Million Copies of 'Phantom Liberty'… Strong H1 Performance",
+        "items.0.source": "Inven",
+        "items.0.time": "September 2",
+        "items.1.title": "Supercell Fully Acquires Remaining Stake in 'Merge Mansion' Developer Metacore",
+        "items.1.source": "Inven",
+        "items.1.time": "September 2",
+        "items.2.title": "Sony Reports Revenue per Active PS User Surges 59% Compared to PS4 Era",
+        "items.2.source": "IGN India",
+        "items.2.time": "September 2",
+        "items.3.title": "Disney Confirms Development of New 'Smash Bros.'-Style Fighting Game",
+        "items.3.source": "IGN India",
+        "items.3.time": "September 2",
+        "items.4.title": "Sega and Atlus Announce TGS 2026 Lineup… Playable Demo for P4 Revival",
+        "items.4.source": "4Gamer",
+        "items.4.time": "September 2",
+        "items.5.title": "Ahead of Service Resumption, 'King's Raid' Confirms Official Title for New Entry",
+        "items.5.source": "4Gamer",
+        "items.5.time": "September 2",
+        "items.6.title": "Nexus Mods Parent Company Acquires PC Gaming Data Platform 'SteamDB'",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "September 2",
+        "items.7.title": "Steam Sets Record with 700 Weekly Game Releases… 74% Have Fewer Than 10 Reviews",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "September 2"
+      },
+      "drk": {
+        "title": "The Paradox of 700 Weekly Releases: The Vast Silence Brought by Oversaturation",
+        "intro": "While 700 new titles flood the market each week, three out of four fade away without leaving even a single echo. In a gaming market expanded to unprecedented heights, why are players' choices actually narrowing?",
+        "points": "Steam set an all-time record with 700 new releases in a single week, yet 74% failed to gather even 10 reviews—the bare minimum validation metric. Conversely, CDPR's 'Phantom Liberty' surpassed 15 million copies sold, and console revenue per user surged, pushing market polarization to extremes. 📊\n\nThis phenomenon stems from a confluence of platform saturation and player fatigue. Overwhelmed by the deluge of new releases, exhausted gamers are avoiding unproven, high-risk titles and adopting conservative habits, retreating into established blockbuster IPs or sustainable live-service games. This creates an unprecedented barrier to entry for indie and mid-tier developers. 📉\n\nUltimately, the essence of today's gaming industry is no longer about producing content, but has been reshaped into a **battle for discoverability—capturing the limited time and trust of fragmented users**. The surging value of data analytics platforms also underscores the desperate survival strategies of companies seeking to accurately capture consumer movements amid the fog of hyper-competition. 🔍\n\nWe live in an age where an excess of choices breeds indifference. Does your project possess a clear 'reason for trust' capable of piercing this vast silence and capturing the players' gaze? 🎯"
+      },
+      "trailer": {
+        "title": "Onimusha: Way of the Sword - Official Swordplay Action Trailer",
+        "comment": "The official swordplay action trailer for <Onimusha: Way of the Sword>, opening a new chapter of legendary action, has been unveiled. This video showcases the essence of dynamic sword fighting filled with precise parrying and the tension of one-hit-kill strikes. ⚔️ Check out the sharp trajectory of the blade slicing across the screen in the trailer now! 🎬"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "NBA 2K27",
+        "releases.0.note": "9月3日に正式リリースされる代表的なバスケットボールシミュレーションシリーズ最新作。NVIDIAの次世代DLSS技術の採用と、向上したゲームプレイを提供します。",
+        "releases.0.dev": "Visual Concepts",
+        "releases.1.game": "SpeedRunners 2: King of Speed",
+        "releases.1.note": "9月3日にSteamを通じてリリースされるマルチプレイ対戦プラットフォーマーの新作。グラップリングフックや多彩なアイテムを駆使した超高速レースが楽しめます。",
+        "releases.1.dev": "DoubleDutch Games",
+        "releases.2.game": "Wardogs",
+        "releases.2.note": "9月3日より、正式リリースを前に大規模なプレイヤーが参加するファイナルクローズドβテストを本格的に開始します。",
+        "releases.2.dev": "Wardogs Studio",
+        "releases.3.game": "鬼武者：剣の道",
+        "releases.3.note": "9月4日に正式リリースされる剣戟アクションゲーム。宮本武蔵を主人公に据え、一閃とパリィを基軸としたアクションを繰り広げます。",
+        "releases.3.dev": "カプコン",
+        "releases.4.game": "僕のヒーローアカデミア オールズジャスティス",
+        "releases.4.note": "9月4日にNintendo Switch 2向けに正式リリースされる対戦アクション最新作。原作のヒーローと敵＜ヴィラン＞たちが繰り広げる迫力満点のバトルが楽しめます。",
+        "releases.4.dev": "バンダイナムコエンターテインメント",
+        "releases.5.game": "Dungeon Settler",
+        "releases.5.note": "9月4日にSteamで正式リリースされる戦略シミュレーションゲーム。地下ダンジョンを探索しながら拠点を切り拓き、入植地を建設していく内容となっています。",
+        "releases.5.dev": "Urban Tech",
+        "events.0.name": "『ライブアライブ』（LIVE A LIVE）32周年記念ポップアップストア",
+        "events.0.note": "キャンバスアートおよびコラボアパレルの展示・販売",
+        "events.0.venue": "東京・秋葉原",
+        "events.1.name": "BlizzCon 2026",
+        "events.1.note": "Blizzard Entertainmentによるグローバルゲームフェスティバルの韓国公式生配信",
+        "events.1.venue": "アメリカ・カリフォルニア現地およびオンライン生配信"
+      },
+      "briefing": {
+        "items.0.title": "CDPR、『仮初めの自由』1,500万本突破… 上半期は好業績",
+        "items.0.source": "INVEN",
+        "items.0.time": "9月2日",
+        "items.1.title": "Supercell、『マージマンション』開発元Metacoreの残余株式を電撃買収",
+        "items.1.source": "INVEN",
+        "items.1.time": "9月2日",
+        "items.2.title": "ソニー、アクティブPSユーザーあたりの売上がPS4比で59%急増",
+        "items.2.source": "IGN India",
+        "items.2.time": "9月2日",
+        "items.3.title": "ディズニー、『スマブラ』スタイルの新作対戦アクションゲームの開発着手を確認",
+        "items.3.source": "IGN India",
+        "items.3.time": "9月2日",
+        "items.4.title": "セガ・アトラス、TGS 2026の出展を発表…『P4 リバイバル』試遊出展",
+        "items.4.source": "4Gamer",
+        "items.4.time": "9月2日",
+        "items.5.title": "サービス再開を控える『キングスレイド』、新作の正式タイトルを発表",
+        "items.5.source": "4Gamer",
+        "items.5.time": "9月2日",
+        "items.6.title": "Nexus Modsの親会社、PCゲームデータプラットフォーム「SteamDB」を買収",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "9月2日",
+        "items.7.title": "Steamで週間700本の新作リリース新記録… 74%はレビュー10件未満",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "9月2日"
+      },
+      "drk": {
+        "title": "週間700本の新作という逆説、供給過剰がもたらした巨大な沈黙",
+        "intro": "1週間に700本もの新作がリリースされるものの、4本中3本はひとつの反響すら残せないまま忘れ去られています。過去最大規模に膨張したゲーム市場において、ユーザーの選択肢はなぜ逆に狭まっているのでしょうか。",
+        "points": "Steamにおいて1週間で700本の新作がリリースされ過去最高を記録しましたが、全体の74%は最低限の検証指標とされるレビュー10件すら満たせませんでした。一方でCDPRの『仮初めの自由』は1,500万本を突破し、コンソールプラットフォームにおけるユーザーあたりの売上は急増するなど、市場の二極化は極限に達しています。📊\n\nこのような現象は、プラットフォーム構造の飽和とユーザーの消費疲労が重なり合った結果です。新作の洪水に疲弊したゲーマーたちは、失敗するリスクが高い未検証の新作を避け、すでに信頼が証明された大作IPや持続可能なライブサービスへと逃げ込む保守的な消費傾向を見せています。これは中小開発会社の市場参入障壁をかつてないほど高める致命的な要因となっています。📉\n\n結局のところ、現時点におけるゲーム産業の本質はコンテンツの生産ではなく、**細分化されたユーザーの限られた時間と信頼をいかに先取りするかという「発見可能性（Discoverability）」の争い**へと再編されました。最近データ分析プラットフォームの価値が高騰している背景もまた、無限競争の霧の中で消費者の動向を的確に捉えようとするプラットフォーム各社の切実な生存戦略を物語っています。🔍\n\n選択肢の過剰が、かえって無関心を生む時代です。果たして皆さんのプロジェクトは、この巨大な沈黙を破り、ユーザーの視線を引きつける明確な「信頼の理由」を備えているでしょうか？🎯"
+      },
+      "trailer": {
+        "title": "Onimusha: Way of the Sword - Official Swordplay Action Trailer",
+        "comment": "伝説的アクションの新たな幕開けを告げる『鬼武者：剣の道』の公式剣戟アクショントレーラーが公開されました。今回の映像では、精緻なパリィと一撃必殺の緊張感あふれるダイナミックな剣戟アクションの真髄を垣間見ることができます。⚔️ 画面を切り裂く鋭い剣の軌跡を、今すぐトレーラーでぜひご確認ください！🎬"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "매주 700개 쏟아지는 신작의 역설 📉, 그 속에서 부활한 '귀무자' 트레일러 ⚔️",
+    "en": "700 New Games a Week, Yet Total Silence? 📉 (+ Epic Onimusha Trailer ⚔️)",
+    "ja": "毎週700本もの新作が呼んだ沈黙 📉、そして蘇る『鬼武者』最新トレーラー ⚔️"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ]
+}

@@ -1,0 +1,477 @@
+{
+  "num": "034",
+  "date": "2026-04-20",
+  "status": "published",
+  "schedule": {
+    "date": "2026-04-20",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "프래그마타",
+          "dev": "캡콤",
+          "date": "4월 20일(월)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X|S"
+          ],
+          "color": "#10b981",
+          "note": "캡콤의 신규 IP 액션 기대작 '프래그마타'가 4월 20일 스팀에 정식 출시되었으며, 출시와 동시에 압도적으로 긍정적인 평가를 받고 있습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1774210",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "에어본 엠파이어",
+          "dev": "더 원더링 밴드",
+          "date": "4월 20일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "공중 도시 건설 시뮬레이션 '에어본 킹덤'의 후속작으로, 4월 20일 스팀 얼리 액세스를 종료하고 대규모 업데이트와 함께 1.0 정식 버전을 출시했습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/city-builder/the-sequel-to-flying-city-builder-airborne-kingdom-just-hit-1-0-with-a-huge-update-and-a-50-percent-discount/",
+          "source_name": "PC Gamer"
+        },
+        {
+          "category": "release",
+          "game": "OPUS: 프 Prism Peak",
+          "dev": "시고노",
+          "date": "4월 20일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "인기 내러티브 어드벤처 'OPUS' 시리즈의 최신작으로, 카메라를 통해 영혼을 촬영하며 정토로 나아가는 독특한 여정을 다룬 신작이 4월 20일 정식 출시되었습니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202604/72343",
+          "source_name": "電撃オンライン"
+        },
+        {
+          "category": "update",
+          "game": "몬스터 헌터 나우",
+          "dev": "나이언틱",
+          "date": "4월 20일(월)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "4월 20일부터 시즌 9 '피리오드 2'가 개막하며, 차지액스의 스타일 선택 기능 추가 및 신규 몬스터 변종들이 필드에 새롭게 등장합니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202604/72376",
+          "source_name": "電撃オンライン"
+        },
+        {
+          "category": "update",
+          "game": "우마무스메 프리티 더비",
+          "dev": "사이게임즈",
+          "date": "4월 20일(월)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "4월 20일부터 신규 육성 우마무스메 '어드마이어 그루브'가 게임 내 정식 구현되어 전용 육성 시나리오와 함께 픽업 이벤트가 시작됩니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202604/72383",
+          "source_name": "電撃オンライン"
+        },
+        {
+          "category": "update",
+          "game": "블루 아카이브",
+          "dev": "넥슨게임즈",
+          "date": "4월 21일(화)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "4월 21일 점검 후 메인 스토리 제2부 '연방학생회' 편 프롤로그가 공개되며, 신규 캐릭터 니코와 쿠루미가 한정 학생으로 새롭게 등장합니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/519/G051983/20260419005/",
+          "source_name": "4Gamer"
+        }
+      ],
+      "events": [
+        {
+          "name": "Shadowverse: Worlds Beyond 공식 방송 (しゃどばすチャンネルビヨンド)",
+          "note": "제7탄 카드팩 정보 공개 및 신규 업데이트 소식 발표",
+          "venue": "온라인 (공식 유튜브 채널)",
+          "date": "2026-04-24",
+          "tag": "쇼케이스",
+          "website": "https://www.4gamer.net/games/760/G076035/20260417042/"
+        },
+        {
+          "name": "승리의 여신: 니케 x 타워레코드 콜라보 팝업 스토어",
+          "note": "'레트로 뮤직 x 다이너' 테마의 한정 굿즈 판매 및 오프라인 이벤트",
+          "venue": "오프라인 (타워레코드 신주쿠점 등 일본 전국 9개 지점)",
+          "date": "2026-05-01 ~",
+          "tag": "오프라인 행사",
+          "website": "https://www.4gamer.net/games/456/G045622/20260419004/"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "젠시티, 'FC온라인 팀 배틀' 스프링 최종 우승",
+          "source": "인벤",
+          "time": "4월 19일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315582"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "서브컬처 기대작 '이환', 픽뚫 없는 뽑기 등 정보 공개",
+          "source": "게임메카",
+          "time": "4월 18일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1774219"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "해적 생존 '윈드로즈', 출시 6일 만에 100만 장 판매",
+          "source": "IGN India",
+          "time": "4월 19일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/crosswind/258812/windrose-celebrates-1-million-copies-sold-as-player-counts-climb"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'붉은사막', 난이도 설정 및 인벤토리 개선 패치 예고",
+          "source": "IGN India",
+          "time": "4월 19일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/crimson-desert/258789/crimson-deserts-next-major-patch-adds-difficulty-settings-and-inventory-tabs-next-week"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'메탈 슬러그' 30주년 프로젝트 시동, 신작 개발 포함",
+          "source": "4Gamer",
+          "time": "4월 19일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/811/G081100/20260419001/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'드래곤 퀘스트 10' 버전 8, 신규 국가 및 캐릭터 공개",
+          "source": "4Gamer",
+          "time": "4월 20일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/972/G097227/20260413023/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'33 원정대', BAFTA GOTY 수상 및 5대 시상식 석권",
+          "source": "인벤",
+          "time": "4월 18일",
+          "country": "GLOBAL",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315562"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": [],
+      "items": [
+        {
+          "game": "AION2",
+          "period": "최근 30일",
+          "count": "3,937",
+          "sources": "커뮤니티",
+          "score": "2.6",
+          "pos": 6,
+          "neu": 70,
+          "neg": 23,
+          "keywords": [
+            {
+              "text": "Class Mention",
+              "positive": true
+            },
+            {
+              "text": "Dungeon / Raid Discussion",
+              "positive": true
+            },
+            {
+              "text": "DPS Comparison",
+              "positive": true
+            },
+            {
+              "text": "Buff/Nerf Debate",
+              "positive": true
+            },
+            {
+              "text": "Build Meta",
+              "positive": true
+            }
+          ],
+          "comments": [
+            {
+              "text": "보상을 늘린다더니 획득 확률은 낮춰버리는 패치에 배신감이 드네요.",
+              "positive": false
+            },
+            {
+              "text": "종족 간의 불균형이 너무 심하고 직업 밸런스도 엉망이라 속상해요.",
+              "positive": false
+            },
+            {
+              "text": "그래도 각인 키나 도입이나 자동 추출 기능은 편의성이 좋아졌어요.",
+              "positive": true
+            }
+          ]
+        }
+      ]
+    },
+    "drk": {
+      "enabled": true,
+      "title": "[인사이트] '확률'의 시대가 저물고 '존중'의 시스템이 시작되다",
+      "intro": "게이머들은 이제 화려한 그래픽보다 자신의 시간과 비용을 대하는 개발사의 태도에 반응합니다.\n공급 과잉의 시장에서 생존을 결정짓는 핵심 키워드는 '투명성'과 '경험의 질'로 옮겨갔습니다.",
+      "points": "최근 캡콤의 신규 IP '프래그마타'가 압도적인 호평 속에 출시되었고, 서브컬처 기대작 '이환'은 유저들의 가장 큰 스트레스 요인인 '픽뚫' 없는 뽑기 시스템을 도입하며 파격적인 행보를 보이고 있습니다. 동시에 '33 원정대'가 주요 시상식을 석권하며 독창적인 게임성이 시장의 주류로 급부상하고 있음을 증명했습니다. 🎮\n\n이러한 현상은 **소비자 심리**가 단순한 소유욕에서 '합리적 소비와 공정한 보상'으로 이동했음을 시사합니다. 게이머들은 더 이상 불투명한 확률이나 관성적인 시스템에 지갑을 열지 않습니다. 플랫폼의 경계가 허물어지며 선택지가 넓어진 시장 구조 속에서, 유저의 스트레스를 최소화하고 완성도 높은 서사를 제공하는 타이틀만이 강력한 팬덤을 형성하고 있습니다. 📉\n\n결국 게임 산업은 **'유저의 시간과 감정적 매몰 비용에 대한 존중'이 핵심 경쟁력이 되는 시대**에 진입했습니다. 이제 기술력은 기본 사양일 뿐이며, 수익성 극대화보다는 유저와의 신뢰 관계를 얼마나 견고하게 구축하느냐가 IP의 생존과 장기적 흥행을 결정짓는 유일한 척도가 되었습니다. 💡\n\n산업의 무게추는 이미 공급자 중심에서 소비자 중심으로 기울었습니다. 당신의 게임은 유저에게 단순한 자극을 팔고 있습니까, 아니면 지속 가능한 가치를 제공하고 있습니까? 🧐"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": true,
+      "items": [],
+      "title": "This lady wondered why her gaming laptop overheats while gaming.",
+      "score": 45727,
+      "url": "https://v.redd.it/jq00q09huyvg1",
+      "preview_img": "https://external-preview.redd.it/a3hmcGU4OWh1eXZnMcGTpSoajMlbYWNPe9qM4MCbW0LlCLggK9KR7Vs5kgNz.png?format=pjpg&auto=webp&s=94d28f710489905a319b0d9da26d695d6f6fbbce",
+      "permalink": "https://reddit.com/r/pcmasterrace/comments/1sp0fd4/this_lady_wondered_why_her_gaming_laptop/",
+      "subreddit": "pcmasterrace",
+      "author": "Zestyclose-Salad-290",
+      "num_comments": 1381,
+      "what_happened": "\"제 노트북은 왜 게임만 하면 뜨거워질까요?\"라는 제목으로, 통풍구를 푹신한 이불로 꽉 막아버린 '노트북 학대' 현장의 시각적 충격이 전 세계 게이머들의 안타까움을 자아냈습니다.",
+      "one_liner": "노트북에게 이불은 포근한 안식처가 아니라 숨통을 조이는 고문실입니다... 제발 받침대 하나만 써주세요! 🔥💻"
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=034&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=034&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Pragmata",
+        "releases.0.note": "Capcom's highly anticipated new IP action game 'Pragmata' was officially released on Steam on April 20th and is receiving 'Overwhelmingly Positive' reviews immediately upon launch.",
+        "releases.0.dev": "Capcom",
+        "releases.1.game": "Airborne Empire",
+        "releases.1.note": "The sequel to the airborne city-building simulation 'Airborne Kingdom' has ended its Steam Early Access on April 20th and released the 1.0 official version along with a major update.",
+        "releases.1.dev": "The Wandering Band",
+        "releases.2.game": "OPUS: Prism Peak",
+        "releases.2.note": "The latest installment in the popular narrative adventure 'OPUS' series, a new title where players take photos of spirits through a camera on a unique journey to the Pure Land, was officially released on April 20th.",
+        "releases.2.dev": "SIGONO",
+        "releases.3.game": "Monster Hunter Now",
+        "releases.3.note": "Season 9 'Period 2' kicks off on April 20th, featuring the addition of style selection for the Charge Blade and the appearance of new monster variants in the field.",
+        "releases.3.dev": "Niantic",
+        "releases.4.game": "Uma Musume Pretty Derby",
+        "releases.4.note": "Starting April 20th, the new trainable Uma Musume 'Admire Groove' will be officially implemented in the game, and a pickup event will begin along with a dedicated training scenario.",
+        "releases.4.dev": "Cygames",
+        "releases.5.game": "Blue Archive",
+        "releases.5.note": "Following the maintenance on April 21st, the prologue for Main Story Part 2 'General Student Council' will be revealed, and new characters Niko and Kurumi will appear as limited-time students.",
+        "releases.5.dev": "Nexon Games",
+        "events.0.name": "Shadowverse: Worlds Beyond Official Broadcast (Shadowverse Channel Beyond)",
+        "events.0.note": "Announcement of the 7th card pack details and new update news.",
+        "events.0.venue": "Online (Official YouTube Channel)",
+        "events.1.name": "Goddess of Victory: Nikke x Tower Records Collaboration Pop-up Store",
+        "events.1.note": "Sale of limited-edition goods and offline events themed around 'Retro Music x Diner'.",
+        "events.1.venue": "Offline (9 branches across Japan, including Tower Records Shinjuku)"
+      },
+      "briefing": {
+        "items.0.title": "Gen.G City Wins 'FC Online Team Battle' Spring Finals",
+        "items.0.source": "Inven",
+        "items.0.time": "April 19th",
+        "items.1.title": "Highly Anticipated Subculture Title 'Neverness to Everness' Reveals Info Including Gacha with No Off-rates",
+        "items.1.source": "GameMeca",
+        "items.1.time": "April 18th",
+        "items.2.title": "Pirate Survival Game 'Windrose' Sells 1 Million Copies in 6 Days",
+        "items.2.source": "IGN India",
+        "items.2.time": "April 19th",
+        "items.3.title": "'Crimson Desert' Announces Difficulty Settings and Inventory Improvement Patch",
+        "items.3.source": "IGN India",
+        "items.3.time": "April 19th",
+        "items.4.title": "'Metal Slug' 30th Anniversary Project Launches, Including New Game Development",
+        "items.4.source": "4Gamer",
+        "items.4.time": "April 19th",
+        "items.5.title": "'Dragon Quest X' Version 8 Reveals New Country and Characters",
+        "items.5.source": "4Gamer",
+        "items.5.time": "April 20th",
+        "items.6.title": "'Clair Obscur: Expedition 33' Wins BAFTA GOTY and Sweeps Top 5 Awards",
+        "items.6.source": "Inven",
+        "items.6.time": "April 18th"
+      },
+      "feedback": {
+        "items.0.game": "AION 2",
+        "items.0.period": "Past 30 Days",
+        "items.0.keywords.0.text": "Class Mention",
+        "items.0.keywords.1.text": "Dungeon / Raid Discussion",
+        "items.0.keywords.2.text": "DPS Comparison",
+        "items.0.keywords.3.text": "Buff/Nerf Debate",
+        "items.0.keywords.4.text": "Build Meta",
+        "items.0.comments.0.text": "I feel betrayed by the patch that lowered the drop rates despite promising to increase rewards.",
+        "items.0.comments.1.text": "The imbalance between races is too severe and the class balance is a mess, which is upsetting.",
+        "items.0.comments.2.text": "However, the introduction of Imprint Kinah and the auto-extraction feature have improved convenience."
+      },
+      "drk": {
+        "title": "[Insight] The Era of 'Probability' Fades and the System of 'Respect' Begins",
+        "intro": "Gamers now react more to a developer's attitude toward their time and money than to flashy graphics. In an oversupplied market, the key to survival has shifted to 'transparency' and 'quality of experience'.",
+        "points": "Recently, Capcom's new IP 'Pragmata' was released to overwhelming acclaim, and the highly anticipated subculture game 'Neverness to Everness' is taking a bold step by introducing a gacha system without 'off-rate' pulls—the biggest stress factor for users. At the same time, 'Clair Obscur: Expedition 33' has swept major awards, proving that original gameplay is rapidly emerging as the market mainstream. 🎮\n\nThis phenomenon suggests that **consumer psychology** has shifted from mere possessiveness to 'rational consumption and fair rewards.' Gamers no longer open their wallets for opaque probabilities or inertia-driven systems. In a market structure where platform boundaries are blurring and options are expanding, only titles that minimize user stress and provide high-quality narratives are forming strong fandoms. 📉\n\nUltimately, the game industry has entered an era where **'respect for a user's time and emotional sunk costs' becomes the core competitive edge.** Technology is now just a basic requirement; building a solid relationship of trust with users, rather than maximizing short-term profitability, has become the only metric determining the survival and long-term success of an IP. 💡\n\nThe pendulum of the industry has already swung from provider-centric to consumer-centric. Is your game selling simple stimulation to users, or is it providing sustainable value? 🧐"
+      },
+      "meme": {
+        "what_happened": "Under the title 'Why does my laptop get hot whenever I play games?', a photo of a 'laptop abuse' scene where the vents were completely blocked by a fluffy blanket caused visual shock and pity among gamers worldwide.",
+        "one_liner": "A blanket is not a cozy sanctuary for a laptop, but a torture chamber that chokes it... Please, just use a stand! 🔥💻"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "PRAGMATA（プラグマタ）",
+        "releases.0.note": "カプコンの新規IPアクション期待作『PRAGMATA』が4月20日にSteamで正式リリースされ、リリースと同時に「圧倒的に好評」の評価を得ています。",
+        "releases.0.dev": "カプコン",
+        "releases.1.game": "Airborne Empire",
+        "releases.1.note": "空中都市建設シミュレーション『Airborne Kingdom』の続編で、4月20日にSteamの早期アクセスを終了し、大規模アップデートとともにVer.1.0正式版をリリースしました。",
+        "releases.1.dev": "The Wandering Band",
+        "releases.2.game": "OPUS: Prism Peak",
+        "releases.2.note": "人気のナラティブアドベンチャー『OPUS』シリーズの最新作。カメラを通じて魂を撮影し、浄土へと進む独特な旅を描いた新作が4月20日に正式リリースされました。",
+        "releases.2.dev": "SIGONO",
+        "releases.3.game": "Monster Hunter Now（モンスターハンターNow）",
+        "releases.3.note": "4月20日よりシーズン9「ピリオド2」が開幕し、チャージアックスのスタイル選択機能の追加や、新たなモンスターの変種がフィールドに登場します。",
+        "releases.3.dev": "Niantic",
+        "releases.4.game": "ウマ娘 プリティーダービー",
+        "releases.4.note": "4月20日より、新規育成ウマ娘「アドマイヤグルーヴ」がゲーム内に実装され、専用の育成シナリオと共にピックアップイベントが開始されます。",
+        "releases.4.dev": "Cygames",
+        "releases.5.game": "ブルーアーカイブ -Blue Archive-",
+        "releases.5.note": "4月21日のメンテナンス後、メインストーリー第2部「連邦生徒会」編プロローグが公開され、新キャラクターのニコとクルミが限定生徒として登場します。",
+        "releases.5.dev": "ネクソンゲームズ",
+        "events.0.name": "Shadowverse: Worlds Beyond 公式放送（しゃどばすチャンネルビヨンド）",
+        "events.0.note": "第7弾カードパックの情報公開および新規アップデートニュースの発表",
+        "events.0.venue": "オンライン（公式YouTubeチャンネル）",
+        "events.1.name": "勝利の女神：NIKKE × タワーレコード コラボポップアップストア",
+        "events.1.note": "「レトロミュージック × ダイナー」をテーマにした限定グッズの販売およびオフラインイベント",
+        "events.1.venue": "オフライン（タワーレコード新宿店など日本全国9店舗）"
+      },
+      "briefing": {
+        "items.0.title": "ZenCity、『FC ONLINE チームバトル』スプリング最終優勝",
+        "items.0.source": "Inven",
+        "items.0.time": "4月19日",
+        "items.1.title": "サブカルチャー期待作『異環（Neverness to Everness）』、「すり抜けなし」のガチャなど情報を公開",
+        "items.1.source": "GameMeca",
+        "items.1.time": "4月18日",
+        "items.2.title": "海賊サバイバル『Windrose』、発売6日で100万本販売",
+        "items.2.source": "IGN India",
+        "items.2.time": "4月19日",
+        "items.3.title": "『紅の砂漠』、難易度設定およびインベントリ改善パッチを予告",
+        "items.3.source": "IGN India",
+        "items.3.time": "4月19日",
+        "items.4.title": "『メタルスラッグ』30周年プロジェクト始動、新作開発を含む",
+        "items.4.source": "4Gamer",
+        "items.4.time": "4月19日",
+        "items.5.title": "『ドラゴンクエストX』バージョン8、新たな国とキャラクターを公開",
+        "items.5.source": "4Gamer",
+        "items.5.time": "4月20日",
+        "items.6.title": "『33 Immortals』、BAFTA GOTY受賞および5大アワードを制覇",
+        "items.6.source": "Inven",
+        "items.6.time": "4月18日"
+      },
+      "feedback": {
+        "items.0.game": "AION2",
+        "items.0.period": "直近30日間",
+        "items.0.keywords.0.text": "Class Mention",
+        "items.0.keywords.1.text": "Dungeon / Raid Discussion",
+        "items.0.keywords.2.text": "DPS Comparison",
+        "items.0.keywords.3.text": "Buff/Nerf Debate",
+        "items.0.keywords.4.text": "Build Meta",
+        "items.0.comments.0.text": "報酬を増やすと言いながら、獲得確率を下げてしまうパッチには裏切られた気分です。",
+        "items.0.comments.1.text": "種族間の不均衡がひどすぎて、職業バランスもめちゃくちゃなので悲しいです。",
+        "items.0.comments.2.text": "それでも、刻印キナの導入や自動抽出機能などの利便性は向上しましたね。"
+      },
+      "drk": {
+        "title": "【インサイト】「確率」の時代が終わり、「尊重」のシステムが始まる",
+        "intro": "ゲーマーは今、派手なグラフィックよりも、自身の時間と費用に対する開発会社の姿勢に反応しています。供給過剰な市場において生存を決定づけるキーワードは、「透明性」と「体験の質」へと移り変わりました。",
+        "points": "最近、カプコンの新規IP『PRAGMATA』が圧倒的な好評の中でリリースされ、サブカルチャー期待作『異環』はユーザーにとって最大のストレス要因である「すり抜け」のないガチャシステムを導入するという、型破りな動きを見せています。同時に『33 Immortals』が主要なアワードを席巻し、独創的なゲーム性が市場の主流として急浮上していることを証明しました。🎮\n\nこのような現象は、**消費者心理**が単なる所有欲から「合理的な消費と公正な報酬」へと移動したことを示唆しています。ゲーマーはもはや、不透明な確率や慣性的なシステムに財布を開くことはありません。プラットフォームの境界が崩れ、選択肢が広がった市場構造の中で、ユーザーのストレスを最小限に抑え、完成度の高い物語を提供するタイトルだけが強力なファンダムを形成しています。📉\n\n結局のところ、ゲーム産業は**「ユーザーの時間と感情的な埋没費用に対する尊重」が核心的な競争力となる時代**に突入しました。今や技術力は基本仕様に過ぎず、収益の最大化よりもユーザーとの信頼関係をいかに強固に構築するかが、IPの生存と長期的な興行を決定づける唯一の指標となっています。💡\n\n産業の重石はすでに供給者中心から消費者中心へと傾いています。あなたのゲームはユーザーに単なる刺激を売っていますか、それとも持続可能な価値を提供していますか？🧐"
+      },
+      "meme": {
+        "what_happened": "「私のノートPCはなぜゲームをすると熱くなるのでしょうか？」というタイトルで、通気口をふわふわの布団で完全に塞いでしまった「ノートPC虐待」現場の視覚的衝撃が、世界中のゲーマーの悲しみを誘いました。",
+        "one_liner": "ノートPCにとって布団は心地よい安らぎの場ではなく、息の根を止める拷問部屋です…どうかスタンドを使ってあげてください！🔥💻"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "'가챠'의 몰락과 '존중'의 시작 📉 (feat. 이번 주 레전드 밈 😂)",
+    "en": "RIP Gacha? The era of 'Respect' begins 📉 (feat. This week's viral meme 😂)",
+    "ja": "ガチャの時代は終わった？「尊重」が勝つ理由 📉 (今週のバズりミーム 😂)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "num": "146",
+  "date": "2026-10-14",
+  "status": "published",
+  "schedule": {
+    "date": "2026-10-14",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "야르: 포가튼 쓰론",
+          "dev": "알 수 없음",
+          "date": "10월 14일(수)",
+          "platforms": [
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "10월 14일 PS5 및 Xbox 시리즈 X/S 콘솔 버전으로 정식 출시되는 액션 게임으로, 기존 스팀 버전에 이어 콘솔 플랫폼으로 영역을 확장합니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1781687",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "명일방주: 엔드필드",
+          "dev": "하이퍼그리프",
+          "date": "10월 14일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 14일 스팀을 통해 정식 출시되는 3D 실시간 전략 RPG로, 미개척 행성 탈로스II를 탐험하며 거점을 구축하고 전투를 펼칩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4732690/Arknights_Endfield/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "워해머 40,000: 볼트건 2",
+          "dev": "오로체 디지털",
+          "date": "10월 14일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 14일 PC 플랫폼으로 정식 출시되는 레트로 스타일 FPS로, 강력한 무기와 스페이스 마린의 액션으로 카오스 군세에 맞섭니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3115160/Warhammer_40000_Boltgun_2/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "update",
+          "game": "소닉 레이싱 크로스월드",
+          "dev": "세가",
+          "date": "10월 14일(수)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S",
+            "Switch"
+          ],
+          "color": "#3b82f6",
+          "note": "10월 14일 출시되는 6번째 유료 DLC '아바타 전설 팩'을 통해 아바타 전설 테마의 신규 캐릭터와 레이싱 트랙이 추가됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=322041",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "테일즈 오브 이터니아 리마스터",
+          "dev": "반다이 남코 엔터테인먼트",
+          "date": "10월 15일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 15일 스팀으로 정식 출시되는 명작 클래식 RPG 리마스터작으로, 그래픽 개선과 함께 두 세계를 둘러싼 모험 이야기를 선보입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3470960/Tales_of_Eternia_Remastered/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "하베스트 문: 에코즈 오브 테라데아",
+          "dev": "나츠메",
+          "date": "10월 15일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 15일 스팀에 정식 출시되는 목장 경영 시뮬레이션 신작으로, 농작물 재배와 동물 사육, 마을 주민과의 교류를 즐길 수 있습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3591180/Harvest_Moon_Echoes_of_Teradea/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "ID@Xbox Showcase",
+          "note": "18개 이상의 인디 신작 및 업데이트를 공개하는 온라인 쇼케이스",
+          "venue": "온라인 스트리밍",
+          "date": "2026-10-20",
+          "tag": "쇼케이스",
+          "website": "https://in.ign.com/ign-misc/274325/new-idxbox-showcase-streams-october-20"
+        },
+        {
+          "name": "패스 오브 엑자일 2 부산 쇼케이스",
+          "note": "조나단 로저스 총괄 디렉터와 함께하는 국내 유저 대상 쇼케이스",
+          "venue": "부산 광안리 호메르스 호텔",
+          "date": "2026-11-19",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=322040"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "4A 게임즈, 신작 '메트로 2039' 글로벌 예약 구매 시작",
+          "source": "인벤",
+          "time": "10월 14일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=322052"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "엔씨, AGF 2026 메인 스폰서 참가… 신작 출품 확정",
+          "source": "인벤",
+          "time": "10월 13일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=322029"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "MS, 구작 브라우저 구동 실험하는 '엑스박스 랩스' 발표",
+          "source": "IGN India",
+          "time": "10월 13일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/halo-combat-evolved/274337/xbox-announces-xbox-labs-aimed-in-part-at-getting-improved-old-gen-games-playable-in-web-browsers"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "인디 신작 18종 공개… 'ID@Xbox' 10월 쇼케이스 예고",
+          "source": "IGN India",
+          "time": "10월 13일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/the-wolf-among-us-remastered/274322/idxbox-showcase-returns-in-october-with-20-games"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "스트리트 파이터 6, Year 4 신규 파이터 '알준' 추가",
+          "source": "4Gamer",
+          "time": "10월 13일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/635/G063504/20261013053/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'메타포: 리판타지오', 닌텐도 스위치 2 버전 무료 체험판 배포",
+          "source": "4Gamer",
+          "time": "10월 13일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/015/G101544/20261013037/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "3분기 글로벌 게임 M&A 578억 달러 기록… 대형 딜 견인",
+          "source": "GamesIndustry.biz",
+          "time": "10월 13일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/aream-co-games-industry-ma-generates-578-bn-in-q3-including-eas-55bn-leveraged-buyout"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "칼리스토 프로토콜 디렉터 \"크래프톤 강요로 조기 출시했다\"",
+          "source": "PC Gamer",
+          "time": "10월 13일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/gaming-industry/game-development/dead-space-creator-says-he-was-forced-to-ship-the-callisto-protocol-by-krafton-we-had-f-cking-covid/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "조기 출시의 민낯: 자본의 압박이 파괴한 소비자 신뢰",
+      "intro": "수억 달러의 제작비를 쏟아부은 대작 게임이 왜 미완성으로 세상에 나와야만 했을까요?\n개발자의 입을 통해 수면 위로 드러난 폭로는 오늘날 AAA 게임 시장의 가장 아픈 곳을 정조준합니다.",
+      "points": "'칼리스토 프로토콜'의 총괄 디렉터가 퍼블리셔의 강요로 게임을 온전치 못한 상태에서 조기 출시했다고 밝혔습니다. 🚨 글로벌 게임 M&A 규모가 분기 578억 달러를 기록하며 거대 자본이 시장을 재편하는 가운데, 개발 현장의 완성도와 퍼블리셔의 재무적 일정 간의 균열이 명확한 팩트로 확인된 순간입니다.\n\n이러한 무리한 일정 단축은 단순한 버그 문제를 넘어 **소비자 심리**를 근본적으로 무너뜨립니다. 📉 풀 프라이스를 지불한 게이머가 사실상 '유료 테스터'로 전락하면서, 예약 구매와 신규 IP에 대한 시장의 수용성은 급격히 얼어붙고 있습니다. 결국 불완전한 출시는 단기 매출을 얻는 대신 유저 풀 전체의 이탈을 부르는 위험한 소비 구조를 고착화합니다.\n\n상장사의 분기 실적 마감과 주가 방어 논리가 창작의 호흡을 집어삼킬 때 어떤 대가를 치르는지 이 사례는 명확히 보여줍니다. **단기적인 회계 장부의 성과가 수년에 걸쳐 축적해야 할 IP의 영속성과 브랜드 신뢰를 질식시키고 있는 것**입니다. ⚖️\n\n자본의 속도전과 장인정신의 타협 속에서, 과연 '약속된 출시일'이 게이머의 신뢰보다 앞설 수 있을까요? 🎮 거대 자본이 지배하는 작금의 게임 생태계가 진정으로 지켜야 할 가치가 무엇인지 냉정하게 자문해야 할 때입니다."
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": true,
+      "title": "Wuling City Exploration Theme 1 - Blossoms Bring an Old Friend | Arknights: Endfield 1.0",
+      "channel": "Finding Purposes",
+      "videoId": "EwA5MM46LaA",
+      "url": "https://www.youtube.com/watch?v=EwA5MM46LaA",
+      "thumbnail": "https://i.ytimg.com/vi/EwA5MM46LaA/hqdefault.jpg",
+      "comment": "최근 테스트 소식으로 뜨거운 관심을 받은 <명일방주: 엔드필드>의 탐험 테마곡을 준비했어요! 🌸 동양풍의 서정적인 선율이 매력적인 곡으로, 지친 수요일 퇴근길에 귀를 기울이며 편안하게 힐링해 보세요. 🎧✨",
+      "search_query": "Arknights Endfield Official Soundtrack",
+      "ai_game_name": "명일방주: 엔드필드",
+      "ai_reason": "'음반 회사가 게임을 만든다'는 찬사를 받을 만큼 음악에 진심인 하이퍼그리프의 신작으로, 미개척 행성 탈로스II의 황량함과 SF 특유의 세련된 웅장함을 담아낸 감각적인 사운드트랙입니다."
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Yar: Forgotten Throne",
+        "releases.0.note": "An action game officially launching on PS5 and Xbox Series X/S console versions on October 14, expanding its reach to console platforms following its previous Steam release.",
+        "releases.0.dev": "Unknown",
+        "releases.1.game": "Arknights: Endfield",
+        "releases.1.note": "A 3D real-time strategy RPG officially releasing via Steam on October 14, where players explore the uncharted planet Talos-II, establish bases, and engage in tactical combat.",
+        "releases.1.dev": "Hypergryph",
+        "releases.2.game": "Warhammer 40,000: Boltgun 2",
+        "releases.2.note": "A retro-style FPS officially releasing on PC platforms on October 14, where players face off against the forces of Chaos using devastating weaponry and Space Marine action.",
+        "releases.2.dev": "Auroch Digital",
+        "releases.3.game": "Sonic Racing CrossWorld",
+        "releases.3.note": "The 6th paid DLC, 'Avatar Legends Pack', launches on October 14, introducing new Avatar-themed characters and racing tracks.",
+        "releases.3.dev": "SEGA",
+        "releases.4.game": "Tales of Eternia Remastered",
+        "releases.4.note": "A remaster of the classic RPG masterpiece officially launching on Steam on October 15, featuring enhanced graphics and an adventure spanning two worlds.",
+        "releases.4.dev": "Bandai Namco Entertainment",
+        "releases.5.game": "Harvest Moon: Echoes of Terradea",
+        "releases.5.note": "A new farm life simulation title officially launching on Steam on October 15, offering crop farming, animal care, and interactions with townspeople.",
+        "releases.5.dev": "Natsume",
+        "events.0.name": "ID@Xbox Showcase",
+        "events.0.note": "An online showcase unveiling over 18 new indie games and updates",
+        "events.0.venue": "Online Stream",
+        "events.1.name": "Path of Exile 2 Busan Showcase",
+        "events.1.note": "A community showcase for Korean players featuring Game Director Jonathan Rogers",
+        "events.1.venue": "Homers Hotel, Gwangalli, Busan"
+      },
+      "briefing": {
+        "items.0.title": "4A Games Begins Global Pre-Orders for New Title 'Metro 2039'",
+        "items.0.source": "Inven",
+        "items.0.time": "October 14",
+        "items.1.title": "NCSOFT Joins AGF 2026 as Main Sponsor… New Title Showcase Confirmed",
+        "items.1.source": "Inven",
+        "items.1.time": "October 13",
+        "items.2.title": "Microsoft Announces 'Xbox Labs' to Test Running Legacy Games in Browsers",
+        "items.2.source": "IGN India",
+        "items.2.time": "October 13",
+        "items.3.title": "18 New Indie Titles to Be Revealed… 'ID@Xbox' October Showcase Teased",
+        "items.3.source": "IGN India",
+        "items.3.time": "October 13",
+        "items.4.title": "Street Fighter 6 Adds Year 4 New Fighter 'Arjun'",
+        "items.4.source": "4Gamer",
+        "items.4.time": "October 13",
+        "items.5.title": "'Metaphor: ReFantazio' Releases Free Demo for Nintendo Switch 2",
+        "items.5.source": "4Gamer",
+        "items.5.time": "October 13",
+        "items.6.title": "Q3 Global Gaming M&A Reaches $57.8 Billion… Driven by Mega Deals",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "October 13",
+        "items.7.title": "The Callisto Protocol Director: \"Early Release Was Forced by Krafton\"",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "October 13"
+      },
+      "drk": {
+        "title": "The Harsh Reality of Rushed Releases: How Financial Pressure Destroys Consumer Trust",
+        "intro": "Why did a blockbuster title backed by hundreds of millions of dollars in production costs have to hit the market unfinished?\nThe developer's outspoken revelations strike right at the most vulnerable nerve of today's AAA gaming market.",
+        "points": "The game director of 'The Callisto Protocol' revealed that the game was rushed to market in an incomplete state due to pressure from its publisher. 🚨 As global gaming M&A reached $57.8 billion in a single quarter and mega-capital continues to reshape the landscape, this serves as clear confirmation of the rift between development polish and publisher financial deadlines.\n\nSuch reckless schedule compression goes beyond simple software bugs; it fundamentally shatters **consumer sentiment**. 📉 When players paying full price are effectively relegated to 'paid testers,' market openness toward pre-orders and brand-new IPs cools rapidly. Ultimately, rushed releases cement a hazardous consumer cycle that trades short-term revenue for the long-term departure of the player base.\n\nThis case demonstrates precisely what price is paid when quarterly earnings pressure and stock price defense suffocate creative breathing room. **Short-term balance sheet gains are suffocating the brand equity and IP longevity that take years to cultivate.** ⚖️\n\nCaught in a compromise between capital's relentless pace and true craftsmanship, can a 'promised release date' ever take precedence over player trust? 🎮 It is time for today's gaming ecosystem, dominated by massive capital, to soberly reflect on what values it must genuinely uphold."
+      },
+      "soundtrack": {
+        "title": "Wuling City Exploration Theme 1 - Blossoms Bring an Old Friend | Arknights: Endfield 1.0",
+        "comment": "We've brought you an exploration theme from <Arknights: Endfield>, which recently drew huge attention with its test announcement! 🌸 Featuring a charming, lyrical melody with an Eastern flair, take a moment to unwind and heal during your tired Wednesday evening commute. 🎧✨"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "Yar: Forgotten Throne",
+        "releases.0.note": "10月14日にPS5およびXbox Series X/Sコンソール版として正式リリースされるアクションゲームで、従来のSteam版に続きコンソールプラットフォームへと展開を拡大します。",
+        "releases.0.dev": "不明",
+        "releases.1.game": "アークナイツ：エンドフィールド",
+        "releases.1.note": "10月14日にSteamを通じて正式リリースされる3Dリアルタイム戦略RPGで、未開拓の惑星「タロII」を探索しながら拠点を構築し、戦闘を繰り広げます。",
+        "releases.1.dev": "Hypergryph",
+        "releases.2.game": "ウォーハンマー40,000：ボルトガン2",
+        "releases.2.note": "10月14日にPCプラットフォーム向けに正式リリースされるレトロスタイルのFPSで、強力な武器とスペースマリーンのアクションでケイオスの軍勢に立ち向かいます。",
+        "releases.2.dev": "Auroch Digital",
+        "releases.3.game": "ソニックレーシング クロスワールド",
+        "releases.3.note": "10月14日に配信される第6弾有料DLC「アバター 伝説パック」を通じて、『アバター 伝説の少年アン』をテーマにした新キャラクターとレーシングコースが追加されます。",
+        "releases.3.dev": "セガ",
+        "releases.4.game": "テイルズ オブ エターニア リマスター",
+        "releases.4.note": "10月15日にSteamで正式リリースされる名作クラシックRPGのリマスター版で、向上したグラフィックとともに2つの世界を巡る冒険の物語が描かれます。",
+        "releases.4.dev": "バンダイナムコエンターテインメント",
+        "releases.5.game": "Harvest Moon: Echoes of Terradea",
+        "releases.5.note": "10月15日にSteamで正式リリースされる牧場経営シミュレーションの新作で、作物の栽培や動物の飼育、村人たちとの交流を楽しむことができます。",
+        "releases.5.dev": "ナツメ",
+        "events.0.name": "ID@Xbox Showcase",
+        "events.0.note": "18作品以上のインディー新作およびアップデート情報を公開するオンラインショーケース",
+        "events.0.venue": "オンライン配信",
+        "events.1.name": "Path of Exile 2 釜山ショーケース",
+        "events.1.note": "ジョナサン・ロジャーズ ゲームディレクターが登壇する韓国ユーザー向けショーケース",
+        "events.1.venue": "釜山・広安里 ホメルスホテル"
+      },
+      "briefing": {
+        "items.0.title": "4A Games、新作『メトロ2039』世界予約受付を開始",
+        "items.0.source": "Inven",
+        "items.0.time": "10月14日",
+        "items.1.title": "NCSOFT、AGF 2026のメインスポンサーとして参加…新作の出展が決定",
+        "items.1.source": "Inven",
+        "items.1.time": "10月13日",
+        "items.2.title": "マイクロソフト、旧作ブラウザ起動を検証する「Xbox Labs」を発表",
+        "items.2.source": "IGN India",
+        "items.2.time": "10月13日",
+        "items.3.title": "インディー新作18タイトル公開へ…「ID@Xbox」10月ショーケース予告",
+        "items.3.source": "IGN India",
+        "items.3.time": "10月13日",
+        "items.4.title": "『ストリートファイター6』、Year 4新ファイター「アルジュン」追加",
+        "items.4.source": "4Gamer",
+        "items.4.time": "10月13日",
+        "items.5.title": "『メタファー：リファンタジオ』、Nintendo Switch 2版の無料体験版を配信開始",
+        "items.5.source": "4Gamer",
+        "items.5.time": "10月13日",
+        "items.6.title": "第3四半期の世界ゲームM&A額が578億ドルを記録…大型ディールが牽引",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "10月13日",
+        "items.7.title": "『カリストプロトコル』ディレクター「KRAFTONの強要により早期リリースせざるを得なかった」",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "10月13日"
+      },
+      "drk": {
+        "title": "早期リリースの実態：資本の圧力が破壊した消費者の信頼",
+        "intro": "数億ドルの制作費を投じた大作ゲームが、なぜ未完成のまま世に出なければならなかったのでしょうか？\n開発者の口から明るみに出た告発は、現代のAAAゲーム市場における最も痛ましい急所を直撃しています。",
+        "points": "『カリストプロトコル』の総括ディレクターが、パブリッシャーの強要によりゲームが不完全な状態のまま早期リリースされたことを明らかにしました。🚨 世界のゲームM&A規模が四半期で578億ドルを記録し巨大資本が市場を再編する中、開発現場の完成度とパブリッシャーの財務的スケジュールとの軋轢が、明確な事実として確認された瞬間です。\n\nこうした無理なスケジュール短縮は、単なるバグの問題にとどまらず、**消費者心理**を根底から揺るがします。📉 フルプライスを支払ったゲーマーが事実上の「有償テスター」へと成り下がることで、予約購入や新規IPに対する市場の受容性は急速に冷え込んでいます。結局のところ、不完全なリリースは短期的な売上と引き換えにユーザー層全体の離脱を招くという、危険な消費構造を定着させてしまいます。\n\n上場企業の四半期決算の帳尻合わせや株価防衛の論理が創作の息吹を呑み込む時、いかなる代償を支払うことになるのかを本件は如実に物語っています。**短期的な帳簿上の成果が、数年をかけて築き上げるべきIPの持続可能性とブランドへの信頼を窒息させているのです**。⚖️\n\n資本のスピード戦と職人精神の妥協の狭間で、果たして「約束された発売日」はゲーマーの信頼に優先し得るのでしょうか？🎮 巨大資本が支配する現在のゲームエコシステムが、真に守るべき価値とは何なのか、冷静に問い直すべき時を迎えています。"
+      },
+      "soundtrack": {
+        "title": "Wuling City Exploration Theme 1 - Blossoms Bring an Old Friend | Arknights: Endfield 1.0",
+        "comment": "先日のテスト発表で大きな注目を集めた『アークナイツ：エンドフィールド』の探索テーマ曲をお届けします！🌸 東洋風の抒情的な旋律が魅力的なナンバーです。疲れのたまる水曜日の帰り道、耳を傾けて心地よい癒しのひとときをお過ごしください。🎧✨"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "또 속았나? 미완성 조기 출시의 민낯 🚨 (feat. 명일방주: 엔드필드 신규 OST 🎧)",
+    "en": "Betrayed Again? The Ugly Truth Behind Rushed Releases 🚨 (feat. New Arknights: Endfield OST 🎧)",
+    "ja": "また騙された？未完成な早期リリースの残酷な真実 🚨 (feat.『アークナイツ：エンドフィールド』神OST🎧)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "드디어 '명일방주: 엔드필드' 정식 출시된 거 다들 아시나요? 🎮\n기다렸던 오늘 신작 소식부터 조기 출시의 민낯까지 싹 털어봤어요! 👀\n\nhttps://www.gtplayer.net/edition-146/\n#명일방주엔드필드 #신작게임 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-10-14T07:01:32.531422"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "10월 14일 오늘의 게임 소식 🎮\n📰 [뉴스] '메트로 2039' 예판 돌입, 엔씨 AGF 메인 스폰서 참가, MS '엑스박스 랩스' 발표 등\n📅 [출시] 명일방주: 엔드필드, 소닉 레이싱 크로스월드, 워해머 40K: 볼트건 2 등 신작 라인업\n✍️ [인사이트] 또 속았나? 수억 달러 대작의 미완성 조기 출시와 무너진 소비자 신뢰의 민낯\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임소식 #GT플레이어 #신작게임 #게임추천 #게임정보 #게임스타그램 #겜스타그램 #명일방주엔드필드 #메트로2039 #스트리트파이터6 #소닉 #워해머 #엑스박스 #플레이스테이션 #닌텐도스위치 #스팀게임 #콘솔게임 #PC게임 #인디게임",
+          "image_paths": [
+            "web\\instagram\\edition_146\\card_cover.png",
+            "web\\instagram\\edition_146\\card_news.png",
+            "web\\instagram\\edition_146\\card_calendar.png",
+            "web\\instagram\\edition_146\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "4007312685515657325_39332818166",
+            "url": "https://www.instagram.com/p/Dec1afkE9Bt/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-10-14T07:02:05.104204"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Betrayed Again? The Ugly Truth Behind Rushed Releases 🚨 (feat. New Arknights: Endfield OST 🎧)\n\nBig announcements are shaking up the industry, from Metro 2039 pre-orders to browser-based retro gaming on Xbox.\nFind out why top studios still rush unfinished blockbusters to market and what is coming next for global players.\n\nhttps://www.gtplayer.net/edition-146-en/",
+        "error": null
+      },
+      "updated_at": "2026-10-14T07:02:52.954344"
+    }
+  }
+}

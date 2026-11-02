@@ -1,0 +1,492 @@
+{
+  "num": "018",
+  "date": "2026-03-26",
+  "status": "published",
+  "schedule": {
+    "date": "2026-03-31",
+    "time": "16:10",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "워프레임",
+          "dev": "디지털 익스트림즈",
+          "date": "3월 26일(목)",
+          "platforms": [
+            "Switch 2",
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "닌텐도 스위치 2 정식 출시 및 '그림자 화가' 대규모 업데이트",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=314766",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "OFF (리메이크)",
+          "dev": "Fangamer Japan",
+          "date": "3월 26일(목)",
+          "platforms": [
+            "PC",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "컬트적 인기의 인디 RPG 리메이크판 정식 출시",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/868/G086822/20260325045/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "에트랑쥬 오버로드",
+          "dev": "신카와 소헤이(喜多山浪漫)",
+          "date": "3월 26일(목)",
+          "platforms": [
+            "PS5",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "정식 출시",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/842/G084201/20260317048/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "DAMON and BABY",
+          "dev": "아크 시스템 워크스",
+          "date": "3월 26일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "정식 출시",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/970/G097070/20260324015/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "update",
+          "game": "레이싱 마스터",
+          "dev": "넷이즈 게임즈",
+          "date": "3월 26일(목)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "이니셜D 컬래버레이션 업데이트",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1773251",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "컴프매 라이브 2026",
+          "dev": "컴투스",
+          "date": "3월 26일(목)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "KBO 개막 기념 대규모 업데이트",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1773233",
+          "source_name": "게임메카"
+        }
+      ],
+      "events": [
+        {
+          "name": "iicon 2026 (E3 후속)",
+          "note": "",
+          "venue": "미국 라스베가스",
+          "date": "2026-04-27~2026-04-30",
+          "tag": "행사",
+          "d_day_str": "D-32",
+          "website": "https://www.iicon.com"
+        },
+        {
+          "name": "서머 게임 페스트 2026",
+          "note": "",
+          "venue": "미국",
+          "date": "2026-06-01~2026-06-30",
+          "tag": "행사",
+          "d_day_str": "D-67",
+          "website": "https://www.summergamefest.com"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'붉은사막' 300만 장 판매 돌파, 스팀서도 순항 중",
+          "source": "GamesIndustry.biz",
+          "time": "오늘",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/crimson-desert-studio-pearl-abysss-share-prices-stabilize-as-sales-top-3-million"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "에픽게임즈, 경영난으로 직원 1,000명 이상 감원 단행",
+          "source": "GamesIndustry.biz",
+          "time": "1일 전",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/epic-games-lays-off-over-1000-employees-following-downturn-in-fortnite-engagement"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "닌텐도 '토모다치 컬렉션' 신작 체험판 깜짝 배포",
+          "source": "4Gamer",
+          "time": "1일 전",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/895/G089556/20260325047/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'이환', 글로벌 사전 예약자 수 3,000만 명 돌파",
+          "source": "인벤",
+          "time": "오늘",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=314768"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "'데바데' 개발사 비헤이비어, '7D2D' 제작사 인수",
+          "source": "GamesIndustry.biz",
+          "time": "1일 전",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/dead-by-daylight-maker-behaviour-has-bought-the-studio-behind-7-days-to-die-to-create-a-portfolio-of-horror-ip"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'포르자 호라이즌 6' PC 사양 공개, 최적화 자신감",
+          "source": "IGN India",
+          "time": "오늘",
+          "country": "IN",
+          "article_url": "https://in.ign.com/forza-horizon-6/256700/news/forza-horizon-6-pc-system-requirements-revealed-and-it-looks-like-it-continues-forza-horizon-5s-well"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "캡콤 &quot;게임에 생성형 AI 에셋 도입하지 않겠다&quot;",
+          "source": "GamesIndustry.biz",
+          "time": "오늘",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/capcom-says-it-will-not-implement-any-generative-ai-assets-into-its-games"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": true,
+      "game": "AION2",
+      "period": "최근 30일",
+      "count": "1,608",
+      "sources": "커뮤니티",
+      "score": "2.8",
+      "pos": 4,
+      "neu": 80,
+      "neg": 17,
+      "keywords": [
+        {
+          "text": "Class Mention",
+          "positive": true
+        },
+        {
+          "text": "Dungeon / Raid Discussion",
+          "positive": true
+        },
+        {
+          "text": "Build Meta",
+          "positive": true
+        },
+        {
+          "text": "DPS Comparison",
+          "positive": true
+        },
+        {
+          "text": "Buff/Nerf Debate",
+          "positive": true
+        }
+      ],
+      "comments": [
+        {
+          "text": "상위권 유저가 정리한 직업별 PVE 티어 정보가 도움돼요.",
+          "positive": true
+        },
+        {
+          "text": "신규 던전 디버프가 너무 강력해서 힐러가 정말 힘들어요.",
+          "positive": false
+        },
+        {
+          "text": "직업 밸런스 문제가 심각한데 운영진은 피드백 좀 수용해요.",
+          "positive": false
+        }
+      ]
+    },
+    "drk": {
+      "enabled": true,
+      "title": "거대 자본의 붕괴와 장인 정신의 부활, 게임 산업은 '진짜'를 원한다",
+      "intro": "'붉은사막'의 300만 장 돌파와 '이환'의 3,000만 예약이라는 화려한 숫자가 한국 게임의 위상을 드높이고 있지만, 그 이면에는 에픽게임즈의 1,000명 감원이라는 서늘한 칼바람이 공존하고 있습니다. 플랫폼의 세대교체와 기술적 변곡점 위에서 업계는 지금 유례없는 혼돈과 기회가 뒤섞인 시기를 지나고 있습니다.",
+      "points": "에픽게임즈의 대규모 감원은 무분별한 사업 확장과 플랫폼 경쟁이 남긴 상처이며, 자본의 논리만으로는 더 이상 지속 가능한 성장이 불가능함을 시사합니다. 반면 캡콤의 AI 거부 선언과 '붉은사막'의 성과는 결국 게이머들이 열광하는 것은 효율적으로 찍어낸 에셋이 아니라 개발자의 고집이 담긴 '압도적 퀄리티'라는 사실을 증명합니다. 시장은 이제 단순한 서비스형 게임(GaaS)의 피로도를 넘어, 확실한 경험을 제공하는 프리미엄 콘텐츠로 시선을 돌리고 있습니다.\n\n**앞으로의 게임 산업은 거대 자본에 기댄 양적 팽창이 아닌, '대체 불가능한 창의성'을 가진 자만이 살아남는 철저한 실력 중심의 생태계로 재편될 것이며, 기술은 그 창의성을 보조하는 도구로서만 존재 가치를 가질 것입니다.** 닌텐도의 스위치 2 참전과 함께 하드웨어 스펙 경쟁이 재점화되겠지만, 그 안을 채울 소프트웨어의 핵심은 결국 '인간의 감각'이 설계한 재미의 본질에 달려 있습니다.\n\n자본과 기술이 모든 것을 해결해 줄 것이라는 환상은 깨졌습니다. 이제 우리는 다시 본질적인 질문으로 돌아가야 합니다. 당신이 만드는, 혹은 즐기는 그 게임에는 숫자로 환산할 수 없는 '영혼'이 담겨 있습니까?"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": true,
+      "title": "Escape By Spoon: Official Reveal Trailer",
+      "channel": "IGN",
+      "videoId": "33JGseM5wn8",
+      "url": "https://www.youtube.com/watch?v=33JGseM5wn8",
+      "thumbnail": "https://i.ytimg.com/vi/33JGseM5wn8/hqdefault.jpg",
+      "comment": "드디어 독특한 탈출 액션 'Escape By Spoon'의 공식 트레일러가 공개되었습니다! 숟가락 하나로 삼엄한 경계를 뚫고 자유를 찾는 기발한 아이디어와 위트가 돋보이는 작품입니다. 🥄🏃‍♂️",
+      "search_query": "&quot;reveal trailer&quot; official game"
+    },
+    "epic": {
+      "enabled": true,
+      "title": "월드 오브 워쉽 – Epic Games Store 출시 기념 Tachibana 패키지",
+      "url": "https://store.epicgames.com/ko/p/world-of-warships",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-1ahdf.png",
+      "comment": "이번 주, 에픽게임즈 스토어 5주년 기념 월드 오브 워쉽 특별 패키지를 무료로 만나보세요! 🚢 프리미엄 일본 구축함 '타치바나'와 멋진 영구 위장을 획득하고, 이번 주말 바다 위에서 강력한 존재감을 뽐내볼 시간입니다. 놓치지 마세요!"
+    },
+    "fanmade": {
+      "enabled": false,
+      "items": []
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [
+        {
+          "game": "Counter-Strike 2",
+          "change": "-"
+        },
+        {
+          "game": "Dota 2",
+          "change": "-"
+        },
+        {
+          "game": "Crimson Desert",
+          "change": "-"
+        },
+        {
+          "game": "Slay the Spire 2",
+          "change": "-"
+        },
+        {
+          "game": "FiveM",
+          "change": "-"
+        }
+      ],
+      "console": [],
+      "mobile": [
+        {
+          "game": "무한의 계단 : k리그 콜라보",
+          "change": "-"
+        },
+        {
+          "game": "액션",
+          "change": "-"
+        },
+        {
+          "game": "플랫폼 게임",
+          "change": "-"
+        }
+      ]
+    },
+    "poll": {
+      "enabled": false,
+      "question": "",
+      "options": []
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Warframe",
+        "releases.0.note": "Official release on Nintendo Switch 2 and 'Shadow Painter' major update",
+        "releases.0.dev": "Digital Extremes",
+        "releases.1.game": "OFF (Remake)",
+        "releases.1.note": "Official release of the remake of the cult-classic indie RPG",
+        "releases.1.dev": "Fangamer Japan",
+        "releases.2.game": "Etrange Overlord",
+        "releases.2.note": "Official Launch",
+        "releases.2.dev": "Sohei Shinkawa (Kitayama Roman)",
+        "releases.3.game": "DAMON and BABY",
+        "releases.3.note": "Official Launch",
+        "releases.3.dev": "Arc System Works",
+        "releases.4.game": "Racing Master",
+        "releases.4.note": "Initial D Collaboration Update",
+        "releases.4.dev": "NetEase Games",
+        "releases.5.game": "Com2uS Pro Baseball Manager Live 2026",
+        "releases.5.note": "Major update in celebration of the KBO opening",
+        "releases.5.dev": "Com2uS",
+        "events.0.name": "iicon 2026 (E3 Successor)",
+        "events.0.venue": "Las Vegas, USA",
+        "events.1.name": "Summer Game Fest 2026",
+        "events.1.venue": "USA"
+      },
+      "briefing": {
+        "items.0.title": "'Crimson Desert' Surpasses 3 Million Copies Sold, Sailing Smoothly on Steam",
+        "items.1.title": "Epic Games Conducts Layoffs of Over 1,000 Employees Due to Financial Difficulties",
+        "items.2.title": "Nintendo Surprise Releases Demo for New 'Tomodachi Life' Title",
+        "items.3.title": "'Neverness to Everness (NTE)' Surpasses 30 Million Global Pre-registrations",
+        "items.4.title": "'Dead by Daylight' Developer Behaviour Interactive Acquires '7 Days to Die' Creator",
+        "items.5.title": "'Forza Horizon 6' PC System Requirements Revealed, Showcasing Confidence in Optimization",
+        "items.6.title": "Capcom: &quot;We will not introduce generative AI assets into our games&quot;",
+        "items.0.source": "GamesIndustry.biz",
+        "items.0.time": "Today",
+        "items.1.source": "GamesIndustry.biz",
+        "items.1.time": "1 day ago",
+        "items.2.source": "4Gamer",
+        "items.2.time": "1 day ago",
+        "items.3.source": "Inven",
+        "items.3.time": "Today",
+        "items.4.source": "GamesIndustry.biz",
+        "items.4.time": "1 day ago",
+        "items.5.source": "IGN India",
+        "items.5.time": "Today",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "Today"
+      },
+      "feedback": {
+        "game": "AION 2",
+        "period": "Last 30 Days",
+        "keywords.0.text": "Class Mention",
+        "keywords.1.text": "Dungeon / Raid Discussion",
+        "keywords.2.text": "Build Meta",
+        "keywords.3.text": "DPS Comparison",
+        "keywords.4.text": "Buff/Nerf Debate",
+        "comments.0.text": "The PvE class tier list compiled by top-tier players is very helpful.",
+        "comments.1.text": "The debuffs in the new dungeon are so strong that healers are really struggling.",
+        "comments.2.text": "Class balance issues are serious; the developers need to start listening to player feedback."
+      },
+      "drk": {
+        "title": "The Collapse of Massive Capital and the Revival of Craftsmanship: The Game Industry Wants the 'Real Deal'",
+        "intro": "While the impressive figures of 'Crimson Desert' surpassing 3 million sales and 'Neverness to Everness' hitting 30 million pre-registrations are elevating the status of Korean games, a chilling wind also blows from Epic Games’ layoff of 1,000 employees. Amidst generational shifts in platforms and technological turning points, the industry is navigating a period of unprecedented chaos mixed with opportunity.",
+        "points": "Epic Games' large-scale layoffs are a wound left by reckless business expansion and platform competition, suggesting that sustainable growth is no longer possible through the logic of capital alone. Conversely, Capcom's rejection of AI and the success of 'Crimson Desert' prove that what gamers are truly enthusiastic about is not efficiently produced assets, but 'overwhelming quality' infused with a developer’s persistence. The market is now looking past the fatigue of simple Games as a Service (GaaS) toward premium content that offers a definitive experience.\n\n**The future of the game industry will be reorganized into a strictly merit-based ecosystem where only those with 'irreplaceable creativity' survive—rather than quantitative expansion reliant on massive capital—and technology will exist only as a tool to support that creativity.** With Nintendo entering the fray with the Switch 2, hardware spec competition will reignite, but the core of the software that fills it will ultimately depend on the essence of fun designed by 'human sensibility.'\n\nThe illusion that capital and technology will solve everything has been shattered. Now, we must return to the fundamental question: Does the game you create or enjoy contain a 'soul' that cannot be quantified?"
+      },
+      "trailer": {
+        "title": "Escape By Spoon: Official Reveal Trailer",
+        "comment": "The official trailer for the unique escape action game 'Escape By Spoon' has finally been released! It is a title that stands out for its witty and inventive premise of breaking through heavy security to find freedom with just a single spoon. 🥄🏃‍♂️"
+      },
+      "epic": {
+        "title": "World of Warships – Epic Games Store Launch Celebration Tachibana Pack",
+        "comment": "This week, get the World of Warships special package for free in celebration of the 5th anniversary of the Epic Games Store! 🚢 Claim the premium Japanese destroyer 'Tachibana' and a stunning permanent camouflage, and show off your powerful presence on the high seas this weekend. Don't miss out!"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ウォーフレーム",
+        "releases.0.note": "Nintendo Switch 2正式リリースおよび「影を描く者」大規模アップデート",
+        "releases.0.dev": "Digital Extremes",
+        "releases.1.game": "OFF (リメイク版)",
+        "releases.1.note": "カルト的人気を誇るインディーRPGのリメイク版が正式リリース",
+        "releases.1.dev": "Fangamer Japan",
+        "releases.2.game": "エトランゼ・オーバーロード",
+        "releases.2.note": "正式リリース",
+        "releases.2.dev": "新川宗平（喜多山浪漫）",
+        "releases.3.game": "DAMON and BABY",
+        "releases.3.note": "正式リリース",
+        "releases.3.dev": "アークシステムワークス",
+        "releases.4.game": "レーシングマスター",
+        "releases.4.note": "『頭文字D』コラボレーションアップデート",
+        "releases.4.dev": "NetEase Games",
+        "releases.5.game": "コンツスプロ野球マネージャー LIVE 2026",
+        "releases.5.note": "KBO開幕記念大規模アップデート",
+        "releases.5.dev": "Com2uS",
+        "events.0.name": "iicon 2026 (E3の後継イベント)",
+        "events.0.venue": "アメリカ・ラスベガス",
+        "events.1.name": "Summer Game Fest 2026",
+        "events.1.venue": "アメリカ"
+      },
+      "briefing": {
+        "items.0.title": "『紅の砂漠』販売本数300万本を突破、Steamでも順調な滑り出し",
+        "items.1.title": "Epic Games、経営難により1,000人以上の人員削減を断行",
+        "items.2.title": "任天堂『トモダチコレクション』新作体験版をサプライズ配信",
+        "items.3.title": "『異環（Neverness to Everness）』、グローバル事前登録者数3,000万人を突破",
+        "items.4.title": "『DbD』開発元のBehaviour Interactive、『7 Days to Die』制作会社を買収",
+        "items.5.title": "『Forza Horizon 6』のPC動作要件を公開、最適化に自信",
+        "items.6.title": "カプコン「ゲームに生成AIアセットは導入しない」",
+        "items.0.source": "GamesIndustry.biz",
+        "items.0.time": "今日",
+        "items.1.source": "GamesIndustry.biz",
+        "items.1.time": "1日前",
+        "items.2.source": "4Gamer",
+        "items.2.time": "1日前",
+        "items.3.source": "Inven",
+        "items.3.time": "今日",
+        "items.4.source": "GamesIndustry.biz",
+        "items.4.time": "1日前",
+        "items.5.source": "IGN India",
+        "items.5.time": "今日",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "今日"
+      },
+      "feedback": {
+        "game": "アイオン2",
+        "period": "直近30日間",
+        "keywords.0.text": "クラスへの言及",
+        "keywords.1.text": "ダンジョン／レイドの議論",
+        "keywords.2.text": "ビルドメタ",
+        "keywords.3.text": "DPS比較",
+        "keywords.4.text": "バフ・ナーフ論争",
+        "comments.0.text": "上位層ユーザーがまとめたクラス別PVEティア情報が役に立ちます。",
+        "comments.1.text": "新規ダンジョンのデバフが強力すぎて、ヒーラーが本当に大変です。",
+        "comments.2.text": "クラスバランスの問題が深刻なのに、運営はフィードバックをもっと受け入れてほしい。"
+      },
+      "drk": {
+        "title": "巨大資本の崩壊と職人魂の復活、ゲーム業界は「本物」を求めている",
+        "intro": "『紅の砂漠』の300万本突破や『異環』の3,000万予約という華々しい数字が韓国ゲームの地位を高めていますが、その裏側ではEpic Gamesの1,000人規模の人員削減という冷たい逆風も吹いています。プラットフォームの世代交代と技術的変革期を迎え、業界は今、かつてない混沌とチャンスが入り混じった時期を過ごしています。",
+        "points": "Epic Gamesの大規模な人員削減は、無謀な事業拡大とプラットフォーム競争が残した傷跡であり、資本の論理だけではもはや持続可能な成長が不可能であることを示唆しています。一方で、カプコンのAI拒否宣言や『紅の砂漠』の成果は、結局ゲーマーが熱狂するのは効率的に作り出されたアセットではなく、開発者のこだわりが込められた「圧倒的なクオリティ」であるという事実を証明しています。市場は今、単なるサービス型ゲーム（GaaS）への疲弊を超え、確かな体験を提供するプレミアムコンテンツへと目を向けています。\n\n**今後のゲーム業界は、巨大資本に頼った量的膨張ではなく、「代替不可能な創造性」を持つ者だけが生き残る徹底した実力中心の生態系へと再編されるでしょう。技術はその創造性を補助する道具としてのみ存在価値を持つことになります。** 任天堂Switch 2の参戦とともにハードウェアスペック競争が再燃するでしょうが、その中身を満たすソフトウェアの核心は、結局「人間の感覚」が設計した面白さの本質にかかっています。\n\n資本と技術がすべてを解決してくれるという幻想は打ち砕かれました。今、私たちは再び本質的な問いに戻らなければなりません。あなたが作る、あるいは楽しむそのゲームには、数字では換算できない「魂」が込められていますか？"
+      },
+      "trailer": {
+        "title": "Escape By Spoon: Official Reveal Trailer",
+        "comment": "ついにユニークな脱出アクション『Escape By Spoon』の公式トレーラーが公開されました！スプーン一本で厳重な警戒を突破し自由を求める、独創的なアイデアとウィットに富んだ作品です。🥄🏃‍♂️"
+      },
+      "epic": {
+        "title": "World of Warships — Epic Games ストア登場記念 Tachibanaパック",
+        "comment": "今週、Epic Gamesストア5周年を記念した『World of Warships』特別パックを無料で手に入れましょう！🚢 プレミアム日本駆逐艦「橘（Tachibana）」と豪華な無期限迷彩を獲得して、今週末は海の上で強力な存在感を示すチャンスです。お見逃しなく！"
+      }
+    }
+  },
+  "keepExisting": true,
+  "published_at": "2026-03-31T16:34:54.223785"
+}

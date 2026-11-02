@@ -1,0 +1,399 @@
+{
+  "num": "070",
+  "date": "2026-06-29",
+  "status": "published",
+  "schedule": {
+    "date": "2026-06-29",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "update",
+          "game": "우마무스메 프리티 더비",
+          "dev": "사이게임즈",
+          "date": "6월 29일(월)",
+          "platforms": [
+            "PC",
+            "iOS",
+            "Android"
+          ],
+          "color": "#10b981",
+          "note": "6월 29일 신규 육성 시나리오 '라쌰이! 트레セン軒! ~은혜갚기, 시작했습니다~'가 추가되며, 라면을 테마로 한 독특한 육성 시스템을 선보입니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/414/G041434/20260615028/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "update",
+          "game": "마법소녀 마도카☆마기카 마기아 엑세드라",
+          "dev": "f4samurai",
+          "date": "6월 30일(화)",
+          "platforms": [
+            "PC",
+            "iOS",
+            "Android"
+          ],
+          "color": "#10b981",
+          "note": "6월 30일 업데이트를 통해 상시 획득 가능한 신규 ★5 캐릭터 '히나노'와 '에미리'가 게임 내에 새롭게 등장합니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202606/79711",
+          "source_name": "전격 온라인"
+        },
+        {
+          "category": "update",
+          "game": "SD건담 G제네레이션 에터널",
+          "dev": "반다이 남코 엔터테인먼트",
+          "date": "6월 30일(화)",
+          "platforms": [
+            "iOS",
+            "Android"
+          ],
+          "color": "#10b981",
+          "note": "6월 30일부터 신규 모빌슈트인 '건담 F91 (트윈 베스바 장비)'와 'F90 (A.D.S. 혼합 장착 시)'가 가샤 라인업에 추가됩니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202606/79700",
+          "source_name": "전격 온라인"
+        },
+        {
+          "category": "update",
+          "game": "로우로우의 향",
+          "dev": "미상",
+          "date": "7월 1일(수)",
+          "platforms": [
+            "iOS",
+            "Android"
+          ],
+          "color": "#10b981",
+          "note": "7월 1일부터 산리오의 인기 캐릭터 '폼폼푸린'과의 콜라보레이션 이벤트를 개최하며 귀여운 콜라보 데코와 전용 콘텐츠를 선보입니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202606/76486",
+          "source_name": "전격 온라인"
+        }
+      ],
+      "events": [
+        {
+          "name": "부산모빌리티쇼 현대자동차 x 포켓몬 협업 부스",
+          "note": "현대자동차가 포켓몬과 협업하여 피카츄, 이브이 등 인기 캐릭터 전시 및 몬스터볼 이벤트를 진행하는 오프라인 부스",
+          "venue": "부산 벡스코 (부산모빌리티쇼 현장)",
+          "date": "2026-06-27 ~",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=317881"
+        },
+        {
+          "name": "비트서밋 2026",
+          "note": "",
+          "venue": "일본 교토",
+          "date": "2026-07-01~2026-07-31",
+          "tag": "오프라인 행사",
+          "d_day_str": "D-2",
+          "website": "https://www.bitsummit.org"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "페이커 이상혁, 세계 최초 MSI 100승 대기록 달성",
+          "source": "인벤",
+          "time": "6월 28일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=317892"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "마비노기 이터니티, 올가을 첫 알파 테스트 진행",
+          "source": "게임메카",
+          "time": "6월 27일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777104"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "명작 연애 시뮬레이션 센티멘탈 그래피티 리메이크 확정",
+          "source": "Famitsu",
+          "time": "6월 28일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202606/79709"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "GBVSR, 9월 업데이트 및 스위치 2 버전 동시 출시",
+          "source": "4Gamer",
+          "time": "6월 26일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/680/G068071/20260626049/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "마이크로소프트 엑스박스 가격 인상에 시장 술렁",
+          "source": "IGN India",
+          "time": "6월 28일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/xbox-series-x-1/264978/a-799-xbox-breaking-down-microsofts-price-hike-unlocked-clips"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "GTA 6 디지털 전용 소식에도 이베이 암표 기승",
+          "source": "IGN India",
+          "time": "6월 28일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/grand-theft-auto-vi/264995/gta-6-scalpers-are-finding-buyers-on-ebay-despite-rockstars-commitment-to-a-digital-release"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "인디 흥행작 메카 카멜레온, 누적 판매 1000만 장 돌파",
+          "source": "PC Gamer",
+          "time": "6월 28일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/meccha-chameleon-proves-an-explosive-hit-with-over-10-million-copies-sold/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "아이작의 번제, 출시 12년 만에 스팀 동접 최고치 경신",
+          "source": "PC Gamer",
+          "time": "6월 28일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/roguelike/the-binding-of-isaac-hits-new-all-time-concurrent-player-count-peak-on-steam-12-years-after-release/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "시간을 거스르는 IP의 힘: 지속 가능한 게임의 조건",
+      "intro": "12년 전 출시된 인디 게임이 스팀 동접자 최고치를 경신하고, 20년 된 클래식 게임이 엔진 교체로 새로운 도약을 준비합니다.\n유행의 주기가 극도로 짧아진 지금, 시장의 거장들이 보여주는 '지속 가능한 흥행'의 비결은 무엇일까요?",
+      "points": "최근 게임 업계에는 세월을 무색하게 만드는 역주행과 재탄생 소식이 이어지고 있습니다. 12년 차 인디 게임 '아이작의 번제'가 역대 최고 동시 접속자 수를 경신했으며, 20주년을 맞이한 '마비노기'는 엔진 교체를 선언하며 첫 알파 테스트 일정을 공개했습니다. 여기에 고전 명작 '센티멘탈 그래피티'의 리메이크 확정까지 더해지며 레거시 IP들의 강력한 생명력이 입증되고 있습니다. 📈\n\n이는 게이머들의 **게임 소비 구조**가 신작 탐색에서 '익숙하지만 진화하는 경험'으로 회귀하고 있음을 의미합니다. 소비자는 신작 구매와 학습에 따르는 리스크 대신 검증된 IP의 지속적인 업데이트나 기술적 개선에 심리적 안정감을 느낍니다. 이에 따라 플랫폼과 개발사 역시 모험적인 신작 개발보다는, 기존 핵심 팬덤을 묶어두는 락인(Lock-in) 효과를 극대화하는 방향으로 전략적 무게중심을 옮기고 있습니다. 🎮\n\n결국 게임 산업의 핵심 경쟁력은 혁신적 신작이 아닌, **'소비자와 함께 성장하되 결코 낡지 않는 IP 관리 능력'**에 있습니다. 단순한 추억 마케팅을 넘어 최신 플랫폼 이식과 그래픽 향상 등 현대적 가치를 지속적으로 수혈하는 영리한 장기 지속형 업데이트 모델만이 시장에서 살아남는 유일한 열쇠입니다. 🔑\n\n여러분이 수년째 떠나지 못하고 플레이하는 게임은 무엇입니까? 그 게임이 급변하는 기술적 환경 속에서도 여전히 우리 곁에 살아남을 준비가 되어 있는지, 이제는 개발사와 게이머 모두가 냉정하게 자문해 볼 때입니다. ❓"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=070&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=070&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Umamusume: Pretty Derby",
+        "releases.0.note": "On June 29, a new training scenario 'Welcome to Tre-Sen-Ken! ~Repaying Favors Has Begun~' will be added, showcasing a unique ramen-themed training system.",
+        "releases.0.dev": "Cygames",
+        "releases.1.game": "Puella Magi Madoka Magica Magia Exedra",
+        "releases.1.note": "Through the update on June 30, new permanently obtainable ★5 characters 'Hinano' and 'Emiri' will make their debut in the game.",
+        "releases.1.dev": "f4samurai",
+        "releases.2.game": "SD Gundam G Generation Eternal",
+        "releases.2.note": "Starting June 30, the new Mobile Suits 'Gundam F91 (Twin V.S.B.R. Equipped)' and 'F90 (with A.D.S. Mixed Equipment)' will be added to the gacha lineup.",
+        "releases.2.dev": "Bandai Namco Entertainment",
+        "releases.3.game": "Scent of Loulou",
+        "releases.3.note": "Starting July 1, a collaboration event with Sanrio's popular character 'Pompompurin' will be held, featuring cute collaboration decorations and exclusive content.",
+        "releases.3.dev": "Unknown",
+        "events.0.name": "Busan Mobility Show Hyundai Motor x Pokemon Collaboration Booth",
+        "events.0.note": "An offline booth where Hyundai Motor collaborates with Pokemon to showcase popular characters like Pikachu and Eevee and host Poke Ball events.",
+        "events.0.venue": "BEXCO, Busan (Busan Mobility Show Venue)",
+        "events.1.name": "BitSummit 2026",
+        "events.1.venue": "Kyoto, Japan"
+      },
+      "briefing": {
+        "items.0.title": "Faker (Lee Sang-hyeok) Achieves World's First 100 MSI Wins Record",
+        "items.0.source": "Inven",
+        "items.0.time": "June 28",
+        "items.1.title": "Mabinogi Eternity to Conduct Its First Alpha Test This Fall",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "June 27",
+        "items.2.title": "Classic Dating Simulation 'Sentimental Graffiti' Remake Confirmed",
+        "items.2.source": "Famitsu",
+        "items.2.time": "June 28",
+        "items.3.title": "GBVSR to Release September Update and Switch 2 Version Simultaneously",
+        "items.3.source": "4Gamer",
+        "items.3.time": "June 26",
+        "items.4.title": "Market Stirs as Microsoft Raises Xbox Prices",
+        "items.4.source": "IGN India",
+        "items.4.time": "June 28",
+        "items.5.title": "eBay Ticket Scalping Rampant Despite GTA 6 Digital-Only News",
+        "items.5.source": "IGN India",
+        "items.5.time": "June 28",
+        "items.6.title": "Indie Hit 'Mecha Chameleon' Surpasses 10 Million Cumulative Units Sold",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "June 28",
+        "items.7.title": "The Binding of Isaac Breaks All-Time Steam Concurrent Players Record 12 Years After Launch",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "June 28"
+      },
+      "drk": {
+        "title": "The Power of Time-Defying IPs: Conditions for Sustainable Games",
+        "intro": "An indie game released 12 years ago breaks its all-time peak of concurrent Steam players, and a 20-year-old classic game prepares for a new leap forward with an engine change.\nIn an era where trend cycles are extremely short, what is the secret to 'sustainable success' demonstrated by these market giants?",
+        "points": "Recently, the gaming industry has been filled with news of comebacks and rebirths that defy time. The 12-year-old indie game 'The Binding of Isaac' has broken its all-time record for concurrent players, while 'Mabinogi', celebrating its 20th anniversary, announced an engine overhaul and revealed the schedule for its first alpha test. Coupled with the confirmed remake of the classic masterpiece 'Sentimental Graffiti', the strong vitality of legacy IPs is being proven once again. 📈\n\nThis signifies that gamers' **game consumption behavior** is shifting back from exploring new releases to seeking 'familiar yet evolving experiences.' Instead of taking on the risks of purchasing and learning new games, consumers find psychological comfort in continuous updates or technical enhancements of proven IPs. Consequently, platforms and developers are shifting their strategic focus away from risky new developments and toward maximizing the 'lock-in' effect to retain their core existing fandom. 🎮\n\nUltimately, the core competitiveness of the gaming industry lies not in revolutionary new titles, but in the **'ability to manage IPs that grow alongside consumers while never growing obsolete.'** Moving beyond simple nostalgia marketing, a smart, long-term update model that continuously injects modern value—such as porting to the latest platforms and improving graphics—is the only key to surviving in the market. 🔑\n\nWhat is the game you have been playing without leaving for years? It is now time for both developers and gamers to coolly ask themselves whether that game is truly prepared to survive by our side in this rapidly changing technological environment. ❓"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ウマ娘 プリティーダービー",
+        "releases.0.note": "6月29日に新規育成シナリオ「らっしゃい！トレセン軒！～恩返し、はじめました～」が追加され、ラーメンをテーマにしたユニークな育成システムが登場します。",
+        "releases.0.dev": "Cygames",
+        "releases.1.game": "魔法少女まどか☆マギカ Magia Exedra",
+        "releases.1.note": "6月30日のアップデートにより、常時獲得可能な新規★5キャラクター「ひなの」と「えみり」がゲーム内に新たに登場します。",
+        "releases.1.dev": "f4samurai",
+        "releases.2.game": "SDガンダム ジージェネレーション エターナル",
+        "releases.2.note": "6月30日より、新規モビルスーツ「ガンダムF91（ツイン・ヴェスバー装着型）」と「F90（A.D.S.混合装備仕様）」がガシャラインナップに追加されます。",
+        "releases.2.dev": "バンダイナムコエンターテインメント",
+        "releases.3.game": "ローローの郷",
+        "releases.3.note": "7月1日からサンリオの人気キャラクター「ポムポムプリン」とのコラボレーションイベントを開催し、可愛いコラボデコや専用コンテンツを披露します。",
+        "releases.3.dev": "不明",
+        "events.0.name": "釜山モビリティショー 現代自動車×ポケモン コラボブース",
+        "events.0.note": "現代自動車がポケモンとコラボし、ピカチュウやイーブイなどの人気キャラクターの展示やモンスターボールイベントを実施するオフラインブース",
+        "events.0.venue": "釜山BEXCO（釜山モビリティショー会場）",
+        "events.1.name": "BitSummit 2026",
+        "events.1.venue": "日本 京都"
+      },
+      "briefing": {
+        "items.0.title": "Faker（イ・サンヒョク）、世界初のMSI 100勝の大記録を達成",
+        "items.0.source": "Inven",
+        "items.0.time": "6月28日",
+        "items.1.title": "『マビノギ エターニティ』、今秋初のアルファテストを実施",
+        "items.1.source": "ゲームメカ",
+        "items.1.time": "6月27日",
+        "items.2.title": "名作恋愛シミュレーション『センチメンタルグラフティ』リメイク決定",
+        "items.2.source": "ファミ通",
+        "items.2.time": "6月28日",
+        "items.3.title": "『GBVSR』、9月にアップデートおよびSwitch 2版を同時発売",
+        "items.3.source": "4Gamer",
+        "items.3.time": "6月26日",
+        "items.4.title": "マイクロソフト、Xbox値上げで市場に動揺",
+        "items.4.source": "IGN India",
+        "items.4.time": "6月28日",
+        "items.5.title": "『GTA 6』デジタル専用版の噂にもかかわらず、eBayで転売が横行",
+        "items.5.source": "IGN India",
+        "items.5.time": "6月28日",
+        "items.6.title": "インディーのヒット作『メカ・カメレオン』、累計販売数1000万本を突破",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "6月28日",
+        "items.7.title": "『The Binding of Isaac』、リリース12年目にしてSteamの同時接続者数最高記録を更新",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "6月28日"
+      },
+      "drk": {
+        "title": "時を逆行するIPの力：持続可能なゲームの条件",
+        "intro": "12年前にリリースされたインディーゲームがSteamの同時接続者数最高記録を更新し、20周年を迎えたクラシックゲームがエンジン変更によって新たな飛躍を準備しています。\n流行のサイクルが極端に短くなった今、市場の巨頭たちが見せる「持続可能なヒット」の秘訣とは何でしょうか？",
+        "points": "最近のゲーム業界では、歳月を感じさせない「逆走（リバイバル）」と「再誕生」のニュースが相次いでいます。12年目のインディーゲーム『The Binding of Isaac』が歴代最高の同時接続者数を更新し、20周年を迎えた『マビノギ』はエンジン変更を宣言し、初のアルファテストの日程を公開しました。ここにクラシック名作『センチメンタルグラフティ』のリメイク決定まで加わり、レガシーIPの強力な生命力が立証されています。 📈\n\nこれは、ゲーマーの**ゲーム消費構造**が、新作の探索から「慣れ親しんでいるが進化する体験」へと回帰していることを意味します。消費者は新作の購入や学習に伴うリスクの代わりに、検証済みのIPの持続的なアップデートや技術的な改善に心理的な安定感を得ています。これに伴い、プラットフォームや開発会社も冒険的な新作開発よりは、既存のコアファン層を繋ぎ止めるロックイン（Lock-in）効果を最大化する方向へと戦略的な重きを移しています。 🎮\n\n結局のところ、ゲーム産業の核心的な競争力は革新的な新作ではなく、**「消費者と共に成長しつつも、決して古びないIP管理能力」**にあります。単なる思い出マーケティングを超え、最新プラットフォームへの移植やグラフィックの向上など、現代的な価値を持続的に吹き込む賢明な長期持続型アップデートモデルこそが、市場で生き残る唯一の鍵です。 🔑\n\nあなたが数年間離れられずにプレイしているゲームは何ですか？ そのゲームが急変する技術的環境の中でも、依然として私たちの傍らで生き残る準備ができているのか、今や開発会社とゲーマーの双方が冷静に自問すべき時です。 ❓"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "우리가 사랑한 그 게임이 절대 망하지 않고 살아남는 비결 ⏳✨",
+    "en": "Why your favorite games never die (The secret to infinite respawns) ⏳✨",
+    "ja": "あの「神ゲー」が何年経っても絶対にサ終しない理由 ⏳✨"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "우리가 사랑한 추억의 게임이 절대 망하지 않는 비결은? ⏳\n올가을 '마비노기 이터니티'가 드디어 첫 알파 테스트를 시작한대요! ✨\n\nhttps://www.gtplayer.net/edition-070/\n\n#마비노기 #게임소식 #GTPlayer",
+          "posted": false,
+          "data": null,
+          "error": "X API 오류 (402): {\"account_id\":2041741108661612544,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2041741108661612544] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/problems/credits\"}"
+        }
+      },
+      "updated_at": "2026-06-29T07:05:11.250694"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "6월 29일 오늘의 게임 소식 🎮\n📰 페이커의 대기록 달성과 마비노기 이터니티 소식 등 이번 주 가장 핫한 게임계 뉴스 총정리!\n🗓️ 우마무스메 PC버전부터 마법소녀 마도카 마기카 신작까지, 놓치지 말아야 할 출시 캘린더!\n⏳ Dr. K 인사이트: 급변하는 시장 속에서 수십 년 동안 절대 망하지 않고 살아남는 장수 IP의 흥행 비결!\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#gtplayer #게임뉴스 #게임뉴스레터 #신작게임 #게임추천 #페이커 #마비노기 #우마무스메 #마도카마기카 #엑스박스 #스팀게임 #인디게임 #게임덕후 #겜스타 #겜스타그램 #콘솔게임 #모바일게임 #게임기대작 #이스포츠 #게임인사이트",
+          "image_paths": [
+            "web\\instagram\\edition_070\\card_news.png",
+            "web\\instagram\\edition_070\\card_calendar.png",
+            "web\\instagram\\edition_070\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3929763529608115138_39332818166",
+            "url": "https://www.instagram.com/p/DaJUxwBk7PC/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-06-29T07:05:46.661293"
+    }
+  }
+}

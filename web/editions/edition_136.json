@@ -1,0 +1,451 @@
+{
+  "num": "136",
+  "date": "2026-09-30",
+  "status": "published",
+  "schedule": {
+    "date": "2026-09-30",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "송스 오브 글리머윅",
+          "dev": "이스트쉐이드 스튜디오",
+          "date": "9월 30일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 30일 출시되는 마법 학교 RPG로, 음악으로 마법을 연주하고 약초를 재배하며 학교생활을 즐길 수 있습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/1706510/Songs_of_Glimmerwick/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "진·삼국무쌍 3: 컴플리트 에디션 리마스터",
+          "dev": "코에이 테크모 게임즈",
+          "date": "9월 30일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 30일 스팀에 발매되는 고전 무쌍 액션 리마스터작으로, 그래픽 개선과 함께 맹장전 콘텐츠를 기본 수록했습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3841510/DYNASTY_WARRIORS_3_Complete_Edition_Remastered/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "악마단 돌겨억!",
+          "dev": "라이트컨",
+          "date": "9월 30일(수)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "9월 30일 글로벌 출시된 모바일 로그라이크 게임으로, 위믹스 플레이 기반의 블록체인 요소와 캐주얼 전투를 결합했습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1781115",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "토탈워: 워해머 3",
+          "dev": "크리에이티브 어셈블리",
+          "date": "9월 30일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "9월 30일 출시된 신규 DLC '엔드 타임의 군주들'을 통해 새로운 전설 군주 3종과 캠페인 메커니즘이 대거 추가됩니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1781125",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "에이스 컴뱃 8: 윙스 오브 테베",
+          "dev": "반다이남코 엔터테인먼트",
+          "date": "10월 1일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 1일 정식 출시되는 플라이트 슈팅 시리즈 최신작으로, 실감 나는 공중전과 새로운 캠페인 스토리를 선보입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2288340/ACE_COMBAT_8_WINGS_OF_THEVE/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "update",
+          "game": "월드 오브 탱크",
+          "dev": "워게이밍",
+          "date": "10월 1일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "10월 1일부터 명작 FPS '둠(DOOM)'과 컬래버레이션한 특별 배틀패스 챕터가 시작되어 테마 전차 스타일을 획득할 수 있습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1781113",
+          "source_name": "게임메카"
+        }
+      ],
+      "events": [
+        {
+          "name": "홀로라이브 '아소비★마와리타이!' 데뷔 기념 오프라인 이벤트 '아키바★숨바꼭질!'",
+          "note": "신규 유닛 데뷔를 기념하여 아키하바라에서 진행되는 무료 참가형 오프라인 이벤트 및 기념 굿즈 판매",
+          "venue": "도쿄 아키하바라",
+          "date": "2026-10-03 ~ 2026-10-04",
+          "tag": "오프라인 행사",
+          "website": "https://www.4gamer.net/games/760/G076029/20260929003/"
+        },
+        {
+          "name": "소닉 세계관 재해석 특별 전람회",
+          "note": "소닉 시리즈의 세계관을 현대적 감각으로 재해석하여 선보이는 기획 전시회",
+          "venue": "도쿄 이케부쿠로 PARCO",
+          "date": "2026-10-09 ~",
+          "tag": "오프라인 행사",
+          "website": "https://www.4gamer.net/games/991/G999110/20260929021/"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "넥써쓰, 원스토어 100% 완전 자회사 편입 결의",
+          "source": "게임메카",
+          "time": "9월 29일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1781147"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "지스타 2026 라인업 윤곽, 글로벌 개발사 CDPR 전격 합류",
+          "source": "게임메카",
+          "time": "9월 29일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1781119"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "딥 락 갤럭틱: 서바이버, 콘솔 플랫폼 출시 트레일러 공개",
+          "source": "IGN India",
+          "time": "9월 29일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/deep-rock-galactic-survivor/273172/deep-rock-galactic-survivor-official-console-announcement-trailer-big-break-showcase-2026"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "중세 공룡 전략 액션 '다이노로드', 멀티플레이 데모 공개",
+          "source": "IGN India",
+          "time": "9월 29일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/273187/dinolords-official-multiplayer-demo-trailer-big-break-showcase-2026"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "모바일 신작 '몬스터 헌터 아웃랜더즈', 10월 29일 정식 출시",
+          "source": "4Gamer",
+          "time": "9월 29일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/667/G066758/20260929006/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "코에이, '라이자챗 AI' 캐릭터 보호 목적 입력 제한 도입",
+          "source": "電撃オンライン",
+          "time": "9월 29일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202609/89524"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "소니, 1967년 출범 이후 처음으로 'CES 2027' 불참 결정",
+          "source": "GamesIndustry.biz",
+          "time": "9월 29일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/sony-to-skip-ces-2027-for-first-time-since-expos-inaugural-event-in-1967"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "무협 액션 기대작 '팬텀 블레이드 제로', 10월 28일 스팀 출시",
+          "source": "Steam",
+          "time": "9월 30일",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "AI와 대화하는 캐릭터, 어디까지 허용해야 할까요?",
+      "intro": "내가 사랑하는 게임 속 주인공이 AI가 되어 말을 걸어온다면 어떤 기분일까요? 💬\n하지만 그 대화가 캐릭터의 영혼을 훼손하기 시작한다면 개발사는 무엇을 지켜야 할까요?",
+      "points": "최근 코에이 테크모가 자사의 대표 IP 캐릭터를 활용한 '라이자챗 AI' 서비스에 캐릭터 보호를 위한 프롬프트 입력 제한 조치를 도입했습니다. 생성형 AI 기술을 활용해 유저와 캐릭터 간의 자유로운 인터랙션을 시도했으나, 부적절한 대화나 설정 파괴를 방지하기 위해 선제적인 방화벽을 세운 팩트에 주목할 필요가 있습니다. 🛡️\n\n이러한 조치는 **게임 소비 구조와 소비자 심리**에 직관적인 시사점을 던집니다. 생성형 AI는 유저에게 전에 없던 몰입감을 주지만, 통제되지 않는 상호작용은 수년간 구축된 캐릭터의 고유 서사와 브랜드 가치를 한순간에 무너뜨릴 위험을 동반합니다. 유저들은 살아 숨 쉬는 캐릭터를 원하면서도, 동시에 자신들이 기억하는 '원작의 순수성'이 훼손되는 순간 깊은 배신감을 느끼기 때문입니다. 📉\n\n결국 Dr. K가 바라보는 핵심은, **'AI 기술의 자유도와 게임 IP의 정체성 보존 사이의 정교한 균형'**이 미래 인터랙티브 엔터테인먼트의 성패를 가를 절대적 기준이 된다는 점입니다. 무제한적인 자유가 항상 최선의 경험을 보장하는 것은 아니며, 적절한 통제와 윤리적 가이드라인이 수반될 때 비로소 IP는 생명력을 유지합니다. ⚖️\n\n기술의 진보가 가져올 새로운 게임 경험 속에서, 여러분은 캐릭터와의 완벽한 자유 대화를 원하십니까, 아니면 철저히 보호받는 서사 속 교감을 원하십니까? 🎮"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": true,
+      "title": "ACE COMBAT 8: WINGS OF THEVE | MAIN THEME",
+      "channel": "zero ",
+      "videoId": "Pw7W7GfVgMk",
+      "url": "https://www.youtube.com/watch?v=Pw7W7GfVgMk",
+      "thumbnail": "https://i.ytimg.com/vi/Pw7W7GfVgMk/hqdefault.jpg",
+      "comment": "최근 게이머들 사이에서 뜨거운 화제를 모은 <에이스 컴뱃 8: 윙스 오브 테베>의 메인 테마를 소개해요! ✈️ 웅장한 오케스트라 선율이 푸른 창공을 가르는 듯한 전율을 선사합니다. 지친 수요일 퇴근길, 끝없는 하늘로 날아오르는 기분을 느껴보세요! 🎧✨",
+      "search_query": "Ace Combat 8 Wings of Thebes Official Soundtrack",
+      "ai_game_name": "에이스 컴뱃 8: 윙스 오브 테베",
+      "ai_reason": "지난번 몽환적이고 스산했던 사일런트 힐의 분위기와 180도 대비되는 하늘 위 웅장한 오케스트라와 폭발적인 록 사운드로 극강의 카타르시스를 선사합니다."
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Songs of Glimmerwick",
+        "releases.0.note": "A magic school RPG releasing on September 30, where players can cast magic through music, cultivate herbs, and enjoy school life.",
+        "releases.0.dev": "Eastshade Studios",
+        "releases.1.game": "Dynasty Warriors 3: Complete Edition Remaster",
+        "releases.1.note": "A classic Musou action remaster releasing on Steam on September 30, featuring enhanced graphics and including Xtreme Legends content as standard.",
+        "releases.1.dev": "Koei Tecmo Games",
+        "releases.2.game": "Demon Squad: Chaaarge!",
+        "releases.2.note": "A mobile roguelike game globally released on September 30, combining casual combat with WEMIX PLAY-based blockchain elements.",
+        "releases.2.dev": "Lightcon",
+        "releases.3.game": "Total War: Warhammer III",
+        "releases.3.note": "With the new DLC 'Lords of the End Times' released on September 30, three new Legendary Lords and a host of campaign mechanics are added.",
+        "releases.3.dev": "Creative Assembly",
+        "releases.4.game": "Ace Combat 8: Wings of Theve",
+        "releases.4.note": "The latest installment in the flight shooting series officially releasing on October 1, featuring realistic aerial combat and a new campaign story.",
+        "releases.4.dev": "Bandai Namco Entertainment",
+        "releases.5.game": "World of Tanks",
+        "releases.5.note": "Starting October 1, a special Battle Pass chapter collaborating with the classic FPS 'DOOM' kicks off, allowing players to earn themed tank styles.",
+        "releases.5.dev": "Wargaming",
+        "events.0.name": "Hololive 'Asobi★Mawaritai!' Debut Celebration Offline Event 'Akiba★Hide-and-Seek!'",
+        "events.0.note": "A free-participation offline event and commemorative merchandise sale held in Akihabara to celebrate the new unit's debut.",
+        "events.0.venue": "Akihabara, Tokyo",
+        "events.1.name": "Special Exhibition: Sonic Universe Reinterpretation",
+        "events.1.note": "A special exhibition showcasing the Sonic series' universe reinterpreted with a modern sensibility.",
+        "events.1.venue": "Ikebukuro PARCO, Tokyo"
+      },
+      "briefing": {
+        "items.0.title": "Nexxus Resolves to Incorporate ONE store as Wholly Owned Subsidiary",
+        "items.0.source": "GameMeca",
+        "items.0.time": "September 29",
+        "items.1.title": "G-STAR 2026 Lineup Takes Shape as Global Developer CDPR Joins",
+        "items.1.source": "GameMeca",
+        "items.1.time": "September 29",
+        "items.2.title": "Deep Rock Galactic: Survivor Unveils Console Launch Trailer",
+        "items.2.source": "IGN India",
+        "items.2.time": "September 29",
+        "items.3.title": "Medieval Dinosaur Strategy Action Game 'Dinolords' Unveils Multiplayer Demo",
+        "items.3.source": "IGN India",
+        "items.3.time": "September 29",
+        "items.4.title": "New Mobile Title 'Monster Hunter Outlanders' Officially Launches October 29",
+        "items.4.source": "4Gamer",
+        "items.4.time": "September 29",
+        "items.5.title": "Koei Introduces Input Restrictions to Protect Characters in 'RyzaChat AI'",
+        "items.5.source": "Dengeki Online",
+        "items.5.time": "September 29",
+        "items.6.title": "Sony Decides to Skip 'CES 2027' for First Time Since 1967 Debut",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "September 29",
+        "items.7.title": "Anticipated Wuxia Action Game 'Phantom Blade Zero' Launches on Steam October 28",
+        "items.7.source": "Steam",
+        "items.7.time": "September 30"
+      },
+      "drk": {
+        "title": "Characters Conversing via AI: How Far Should It Be Allowed?",
+        "intro": "How would you feel if the beloved protagonist of your favorite game became an AI and started talking to you? 💬\nHowever, if that conversation begins to compromise the character's soul, what must developers protect?",
+        "points": "Recently, Koei Tecmo introduced prompt input restrictions to protect its characters in its 'RyzaChat AI' service, which features characters from its signature IP. While they attempted free-form interaction between users and characters using generative AI technology, it is worth noting the fact that they set up a preemptive firewall to prevent inappropriate conversations or the destruction of lore. 🛡️\n\nThis measure offers intuitive implications for **game consumption structures and consumer psychology**. Generative AI provides players with unprecedented immersion, but uncontrolled interactions carry the risk of instantly collapsing unique character narratives and brand value built over years. While players desire living, breathing characters, they simultaneously feel deeply betrayed the moment the 'original purity' they remember is tarnished. 📉\n\nUltimately, as Dr. K sees it, the core issue is that **'a delicate balance between the freedom of AI technology and the preservation of game IP identity'** becomes the absolute criterion determining the success or failure of future interactive entertainment. Unrestricted freedom does not always guarantee the best experience; only when accompanied by appropriate controls and ethical guidelines can an IP retain its vitality. ⚖️\n\nAmid the new gaming experiences brought by technological progress, do you want completely free conversations with characters, or communion within a thoroughly protected narrative? 🎮"
+      },
+      "soundtrack": {
+        "title": "ACE COMBAT 8: WINGS OF THEVE | MAIN THEME",
+        "comment": "Introducing the main theme of <Ace Combat 8: Wings of Theve>, which has recently generated hot buzz among gamers! ✈️ The grand orchestral melody delivers a thrill that feels like cutting through the azure sky. On your exhausting Wednesday evening commute home, feel the sensation of soaring into the endless skies! 🎧✨"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "Songs of Glimmerwick",
+        "releases.0.note": "9月30日にリリースされる魔法学校RPG。音楽で魔法を奏で、薬草を育てながら学校生活を楽しめます。",
+        "releases.0.dev": "Eastshade Studios",
+        "releases.1.game": "真・三國無双3 コンプリートエディション リマスター",
+        "releases.1.note": "9月30日にSteamで発売される名作無双アクションのリマスター版。グラフィックの向上に加え、猛将伝のコンテンツも標準収録されています。",
+        "releases.1.dev": "コーエーテクモゲームス",
+        "releases.2.game": "悪魔団突撃ー！",
+        "releases.2.note": "9月30日にグローバルリリースされたモバイルローグライクゲーム。WEMIX PLAY基盤のブロックチェーン要素とカジュアルなバトルが融合しています。",
+        "releases.2.dev": "LightCON",
+        "releases.3.game": "Total War: WARHAMMER III",
+        "releases.3.note": "9月30日にリリースされた新DLC「エンド・タイムの君主たち」により、新たなレジェンダリーロード3種と多彩なキャンペーンメカニクスが追加されます。",
+        "releases.3.dev": "Creative Assembly",
+        "releases.4.game": "ACE COMBAT 8: WINGS OF THEVE",
+        "releases.4.note": "10月1日に正式リリースされるフライトシューティングシリーズ最新作。臨場感あふれる空中戦と新たなキャンペーンストーリーが描かれます。",
+        "releases.4.dev": "バンダイナムコエンターテインメント",
+        "releases.5.game": "World of Tanks",
+        "releases.5.note": "10月1日より名作FPS『DOOM』とのコラボ特別バトルパスチャプターが開始され、テーマ仕様の戦車スタイルを獲得できます。",
+        "releases.5.dev": "Wargaming",
+        "events.0.name": "ホロライブ「あそび★まわりたい！」デビュー記念オフラインイベント「アキバ★かくれんぼ！」",
+        "events.0.note": "新規ユニットのデビューを記念し、秋葉原で開催される無料参加型のオフラインイベントおよび記念グッズの販売。",
+        "events.0.venue": "東京・秋葉原",
+        "events.1.name": "ソニック世界観再解釈特別展覧会",
+        "events.1.note": "ソニックシリーズの世界観を現代的な感覚で再解釈して披露する企画展示会。",
+        "events.1.venue": "東京・池袋PARCO"
+      },
+      "briefing": {
+        "items.0.title": "Nexus、ONE storeを100%完全子会社化することを決議",
+        "items.0.source": "ゲームメッカ",
+        "items.0.time": "9月29日",
+        "items.1.title": "G-STAR 2026のラインナップが浮き彫りに、グローバル開発会社CDPRが電撃合流",
+        "items.1.source": "ゲームメッカ",
+        "items.1.time": "9月29日",
+        "items.2.title": "『ディープ・ロック・ギャラクティック：サバイバー』コンソール版リリーストレーラーを公開",
+        "items.2.source": "IGN India",
+        "items.2.time": "9月29日",
+        "items.3.title": "中世恐竜戦略アクション『Dinolords』マルチプレイデモを公開",
+        "items.3.source": "IGN India",
+        "items.3.time": "9月29日",
+        "items.4.title": "モバイル新作『モンスターハンター アウトランダーズ』、10月29日に正式リリース",
+        "items.4.source": "4Gamer",
+        "items.4.time": "9月29日",
+        "items.5.title": "コーエー、「ライザチャットAI」にキャラクター保護を目的とした入力制限を導入",
+        "items.5.source": "電撃オンライン",
+        "items.5.time": "9月29日",
+        "items.6.title": "ソニー、1967年の発足以来初めて「CES 2027」への不参加を決定",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "9月29日",
+        "items.7.title": "期待の武侠アクション『Phantom Blade Zero』、10月28日にSteamでリリース",
+        "items.7.source": "Steam",
+        "items.7.time": "9月30日"
+      },
+      "drk": {
+        "title": "AIと対話するキャラクター、どこまで許容されるべきか？",
+        "intro": "愛するゲームの主人公がAIとなって語りかけてきたら、どんな気持ちになるでしょうか？ 💬\nしかし、その対話がキャラクターの魂を損ない始めたとしたら、開発会社は何を守るべきなのでしょうか？",
+        "points": "先日、コーエーテクモが自社の代表的IPキャラクターを活用した「ライザチャットAI」サービスにおいて、キャラクター保護のためのプロンプト入力制限措置を導入しました。生成AI技術を活用してユーザーとキャラクター間の自由なインタラクションを試みたものの、不適切な対話や設定破壊を防ぐために先回りしてファイアウォールを設けた事実に注目すべきです。 🛡️\n\nこのような措置は、**ゲームの消費構造とユーザー心理**に直感的な示唆を与えています。生成AIはユーザーにこれまでにない没入感をもたらしますが、制御されない相互作用は、長年かけて構築されたキャラクター固有の物語やブランド価値を一瞬で崩壊させる危険性を孕んでいます。ユーザーは生き生きとしたキャラクターを求めながらも、同時に自分たちが記憶している「原作の純粋性」が損なわれた瞬間に深い裏切りを感じるからです。 📉\n\n結局のところ、Dr. Kが考える核心は、**「AI技術の自由度とゲームIPのアイデンティティ保持との精巧なバランス」**が、今後のインタラクティブ・エンターテインメントの成否を分ける決定的な基準になるという点です。無制限の自由が常に最高の体験を保証するわけではなく、適切な統制と倫理的ガイドラインが伴ってこそ、IPはその生命力を維持できるのです。 ⚖️\n\n技術の進歩がもたらす新たなゲーム体験の中で、皆さんはキャラクターとの完全な自由対話を望みますか？ それとも、徹底的に保護された物語の中での交感を望みますか？ 🎮"
+      },
+      "soundtrack": {
+        "title": "ACE COMBAT 8: WINGS OF THEVE | MAIN THEME",
+        "comment": "ゲーマーの間で大きな話題を呼んでいる『ACE COMBAT 8: WINGS OF THEVE』のメインテーマをご紹介します！ ✈️ 壮大なオーケストラの旋律が青空を切り裂くようなスリルを届けてくれます。疲れた水曜日の帰り道、どこまでも広がる空へ飛び立つような気分を味わってみてください！ 🎧✨"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "선 넘는 AI 캐릭터의 등장? 🤖 (feat. 전율 돋는 에이스 컴뱃 8 메인 테마 🎧)",
+    "en": "Are AI NPCs crossing the line? 🤖 (feat. Epic new Ace Combat 8 theme 🎧)",
+    "ja": "AIキャラとの対話、どこまで許される？🤖 (feat. 鳥肌必至の『エースコンバット8』メインテーマ 🎧)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "게임 속 AI 캐릭터가 선을 넘기 시작했다고요? 🤖\n오늘 드디어 출시된 에이스 컴뱃 8과 핫한 게임 소식들을 모아봤어요! 🎧\n\nhttps://www.gtplayer.net/edition-136/\n#에이스컴뱃8 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-30T07:01:30.556926"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "9월 30일 오늘의 게임 소식 🎮 선 넘는 AI 캐릭터의 등장과 전율의 에이스 컴뱃 8!\n📰 [뉴스] 지스타 2026 CDPR 전격 합류 & 몬스터 헌터 아웃랜더즈 10월 29일 출시 확정!\n📅 [출시] 에이스 컴뱃 8: 윙스 오브 테베, 진·삼국무쌍 3 리마스터 등 기대작 출격!\n✍️ [인사이트] AI와 대화하는 게임 캐릭터, 어디까지 허용하고 무엇을 지켜야 할까?\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #gtplayer #게임추천 #신작게임 #게임덕후 #에이스컴뱃8 #진삼국무쌍 #지스타2026 #몬스터헌터 #몬헌아웃랜더즈 #스팀게임 #PC게임 #모바일게임 #콘솔게임 #인디게임 #게임스타그램 #게임소식 #CDPR #토탈워 #게이머",
+          "image_paths": [
+            "web\\instagram\\edition_136\\card_cover.png",
+            "web\\instagram\\edition_136\\card_news.png",
+            "web\\instagram\\edition_136\\card_calendar.png",
+            "web\\instagram\\edition_136\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3997165795130193201_39332818166",
+            "url": "https://www.instagram.com/p/Dd4yRzfE7Ux/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-30T07:02:03.976655"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Are AI NPCs crossing the line? 🤖 (feat. Epic new Ace Combat 8 theme 🎧)\n\nImagine having real-time conversations with your favorite game characters, right as AI pushes the boundaries of interactive storytelling.\nPlus, legendary franchises return with major updates from CD Projekt Red, Ace Combat 8, and the Monster Hunter universe.\n\nhttps://www.gtplayer.net/edition-136-en/",
+        "error": null
+      },
+      "updated_at": "2026-09-30T07:02:48.057959"
+    }
+  }
+}

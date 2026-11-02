@@ -1,0 +1,472 @@
+{
+  "num": "113",
+  "date": "2026-08-28",
+  "status": "published",
+  "schedule": {
+    "date": "2026-08-28",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "메탈 기어 솔리드: 마스터 컬렉션 Vol.2",
+          "dev": "코나미",
+          "date": "8월 27일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "XSX",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "8월 27일 정식 출시된 합본 타이틀로, MGS4의 최초 타 플랫폼 이식작과 피스 워커 등 시리즈 명작들이 수록되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=320073",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "캡틴 츠바사 2 월드 파이터즈",
+          "dev": "반다이남코 엔터테인먼트",
+          "date": "8월 27일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "8월 27일 한국어판으로 정식 출시된 축구 액션 게임으로, 애니메이션 풍의 화려한 슈퍼 플레이 연출을 선보입니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1779731",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "아우터플레인",
+          "dev": "브이에이게임즈",
+          "date": "8월 27일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 27일 스팀 PC 버전을 정식 출시한 턴제 수집형 RPG로, 플랫폼 확장을 기념해 신규 이용자 대상 소환 혜택을 제공합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=320072",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "페이탈 클로",
+          "dev": "엔데브게임즈",
+          "date": "8월 27일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 27일 스팀에 정식 출시된 2D 액션 플랫포머 게임으로, 고양이 '키샤'의 지하세계 탈출 모험을 담았습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1779720",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "베어브릭 히어로즈",
+          "dev": "메디콤토이",
+          "date": "8월 27일(목)",
+          "platforms": [
+            "Mobile",
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 27일 정식 서비스를 시작한 RPG로, 인기 아트토이 베어브릭 IP를 기반으로 한 논타겟팅 액션 전투를 즐길 수 있습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=320067",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "엘든 링",
+          "dev": "프롬 소프트웨어",
+          "date": "8월 28일(금)",
+          "platforms": [
+            "PC",
+            "PS4",
+            "PS5",
+            "XBO",
+            "XSX"
+          ],
+          "color": "#3b82f6",
+          "note": "8월 28일 신규 DLC '빛바랜 자 팩' 출시에 맞춰 Ver.1.17 업데이트가 배포되어 게임 밸런스 조정이 진행되었습니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/463/G046388/20260827066/",
+          "source_name": "4Gamer"
+        }
+      ],
+      "events": [
+        {
+          "name": "2026 VCT 퍼시픽 파이널 부산",
+          "note": "발로란트 e스포츠 대회 파이널 현장 프로그램 및 경기 진행",
+          "venue": "부산 사직실내체육관",
+          "date": "2026-09-04",
+          "tag": "e스포츠",
+          "website": "https://www.gamemeca.com/view.php?gid=1779700"
+        },
+        {
+          "name": "도쿄 게임쇼 2026 (TGS 2026)",
+          "note": "스텔라 블레이드 컴플리트 에디션 닌텐도 스위치 2 버전 최초 시연 및 개발자 스테이지",
+          "venue": "일본 치바 마쿠하리 멧세",
+          "date": "2026-09-17 ~ 2026-09-21",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=320083"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "구글, 27년부터 모바일 게임 메모리 최적화 의무화",
+          "source": "인벤",
+          "time": "8월 27일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=320091"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'쿠키런: 크럼블', 출시 한 달 만에 매출 200억 돌파",
+          "source": "인벤",
+          "time": "8월 27일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=320093"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'아이온 2', DLSS 4.5 지원 게임플레이 영상 공개",
+          "source": "IGN India",
+          "time": "8월 27일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/aion-2/270355/aion-2-official-dlss-45-rtx-gameplay-trailer"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "스퀘어에닉스, '킹덤 하츠' 세계관 전담 총괄 영입",
+          "source": "IGN India",
+          "time": "8월 27일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/kingdom-hearts-iv/270351/kingdom-hearts-story-has-gotten-so-complex-that-tetsuya-nomura-says-square-enix-hired-a-loremaster-t"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "DMM GAMES, iOS 전용 스토어 앱 8월 31일 출시",
+          "source": "Famitsu",
+          "time": "8월 27일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202608/85798"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'트로피코 7', 2027년 1월 28일 정식 출시 확정",
+          "source": "4Gamer",
+          "time": "8월 27일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/939/G093900/20260827036/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "로블록스, MENA 생태계 확장 위해 사우디 본부 설립",
+          "source": "GamesIndustry.biz",
+          "time": "8월 27일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/roblox-to-establish-saudi-arabia-headquarters-to-support-mena-creators"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "구글의 메모리 최적화 의무화가 예고하는 모바일 생태계의 변화",
+      "intro": "화려한 그래픽을 뽐내던 모바일 대작들이 왜 갑자기 '다이어트'를 준비해야 할까요? 📱\n구글의 2027년 메모리 최적화 의무화 선언은 플랫폼 생태계의 기준을 뒤흔들 분기점입니다.",
+      "points": "구글이 2027년부터 구글 플레이에 입점하는 모바일 게임을 대상으로 메모리 최적화 의무화 정책을 예고했습니다. 🛠️ 모바일 기기의 하드웨어 스펙이 매년 비약적으로 상승하고 있음에도 불구하고, 플랫폼 홀더 차원에서 리소스 효율을 규제하는 것은 이례적인 결정입니다.\n\n이 조치는 개발사들에게 무조건적인 고사양 그래픽 추구보다 엔진 경량화와 에셋 효율성에 집중하도록 만드는 **실제 게임 개발 형태의 변화**를 강제합니다. 📉 결과적으로 진입 장벽이 낮아져 신흥 시장의 저사양 기기 유저를 대거 흡수하고, 플랫폼 전반의 게임 소비 구조를 확장하는 긍정적인 파급 효과를 낳을 것입니다.\n\n단순히 하드웨어의 무차별적인 성능에 기대던 안일한 개발 방식은 이제 끝났습니다. 앞으로 모바일 시장의 진짜 경쟁력은 **시각적 품질을 타협하지 않으면서도 기기 부담을 최소화하는 정교한 최적화 기술력**에서 결정될 것입니다. ✨\n\n기술적 제약을 넘어 전 세계 모든 게이머의 손끝에 닿을 차세대 최적화 타이틀은 과연 어떤 형태일지 기대됩니다. 🎮"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "Breathedge",
+      "url": "https://store.epicgames.com/ko/p/breathedge",
+      "thumbnail": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s1-2560x1440-76fd08cd9c2d-2560x1440-783424f6d4a7f32a0e75fc074f2f928e.jpg",
+      "comment": "🎮 **이번 주 에픽게임즈 무료 배포**\n• **Breathedge** (~2026년 9월 4일 00:00까지)\n우주 공간을 배경으로 펼쳐지는 유쾌한 SF 서바이벌 어드벤처 게임입니다. 엉뚱한 블랙 유머 속에서 불멸의 닭과 함께 도구를 제작하고 우주선 잔해를 탐색하며 생존해 보세요.\n\n👀 **Next Week**\n다음 주 무료 배포 타이틀은 추후 공개될 예정입니다.\n\n🔥 **스팀 주말 혜택**\n오픈월드 액션의 명작 **Red Dead Redemption 2**를 2026년 9월 9일 02:00까지 75% 할인된 혜택으로 만나보세요!",
+      "steam_deal": {
+        "type": "deal",
+        "name": "Red Dead Redemption 2",
+        "app_id": 1174180,
+        "url": "https://store.steampowered.com/app/1174180",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+        "discount_percent": 75,
+        "original_price": 7300000,
+        "final_price": 1825000,
+        "end_date": "2026-09-09 02:00"
+      },
+      "epic_current": [
+        {
+          "title": "Breathedge",
+          "description": "우주 공간에서 살아남으세요! 당신의 불멸의 닭과 함께 당신의 우주선이 왜 갑작스럽게 충돌했는지 알아보세요. 도구를 만들고, 자동차를 운전하고, 우주 정거장을 통제하여 생존하고 파괴 잔해를 뒤져보세요.",
+          "url": "https://store.epicgames.com/ko/p/breathedge",
+          "thumbnail": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s1-2560x1440-76fd08cd9c2d-2560x1440-783424f6d4a7f32a0e75fc074f2f928e.jpg",
+          "end_date": "2026-09-04 00:00"
+        }
+      ],
+      "epic_upcoming": [],
+      "epic_discounted": []
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Metal Gear Solid: Master Collection Vol. 2",
+        "releases.0.note": "A compilation title officially released on August 27, featuring the first-ever port of MGS4 to other platforms alongside series masterpieces such as Peace Walker.",
+        "releases.0.dev": "Konami",
+        "releases.1.game": "Captain Tsubasa 2: World Fighters",
+        "releases.1.note": "A soccer action game officially released in Korean on August 27, featuring dazzling, anime-style super play sequences.",
+        "releases.1.dev": "Bandai Namco Entertainment",
+        "releases.2.game": "OUTERPLANE",
+        "releases.2.note": "A turn-based collectible RPG officially launched on Steam PC on August 27, offering summoning perks for new players to celebrate the platform expansion.",
+        "releases.2.dev": "VA Games",
+        "releases.3.game": "Fatal Claw",
+        "releases.3.note": "A 2D action platformer officially released on Steam on August 27, following the underworld escape adventure of the cat 'Kisha'.",
+        "releases.3.dev": "Endev Games",
+        "releases.4.game": "BE@RBRICK Heroes",
+        "releases.4.note": "An RPG that officially launched service on August 27, featuring non-targeting action combat based on the popular art toy BE@RBRICK IP.",
+        "releases.4.dev": "Medicom Toy",
+        "releases.5.game": "Elden Ring",
+        "releases.5.note": "Ver. 1.17 update was released on August 28 alongside the launch of the new DLC 'Tarnished Pack' to adjust game balance.",
+        "releases.5.dev": "FromSoftware",
+        "events.0.name": "2026 VCT Pacific Finals Busan",
+        "events.0.note": "Valorant esports tournament finals on-site programs and match operations",
+        "events.0.venue": "Sajik Indoor Gymnasium, Busan",
+        "events.1.name": "Tokyo Game Show 2026 (TGS 2026)",
+        "events.1.note": "First public demo of Stellar Blade Complete Edition for Nintendo Switch 2 and developer stage",
+        "events.1.venue": "Makuhari Messe, Chiba, Japan"
+      },
+      "briefing": {
+        "items.0.title": "Google to Mandate Mobile Game Memory Optimization Starting in 2027",
+        "items.0.source": "Inven",
+        "items.0.time": "August 27",
+        "items.1.title": "'Cookie Run: Crumble' Surpasses 20 Billion KRW in Revenue within One Month of Launch",
+        "items.1.source": "Inven",
+        "items.1.time": "August 27",
+        "items.2.title": "'Aion 2' Reveals Gameplay Footage with DLSS 4.5 Support",
+        "items.2.source": "IGN India",
+        "items.2.time": "August 27",
+        "items.3.title": "Square Enix Appoints Dedicated Head for 'Kingdom Hearts' Universe",
+        "items.3.source": "IGN India",
+        "items.3.time": "August 27",
+        "items.4.title": "DMM GAMES to Launch Dedicated iOS Store App on August 31",
+        "items.4.source": "Famitsu",
+        "items.4.time": "August 27",
+        "items.5.title": "'Tropico 7' Officially Confirmed for Release on January 28, 2027",
+        "items.5.source": "4Gamer",
+        "items.5.time": "August 27",
+        "items.6.title": "Roblox Establishes Saudi Headquarters to Expand MENA Ecosystem",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "August 27"
+      },
+      "drk": {
+        "title": "Mobile Ecosystem Shift Heralded by Google's Mandatory Memory Optimization",
+        "intro": "Why must major mobile titles boasting flashy graphics suddenly prepare to go on a 'diet'? 📱\nGoogle's declaration mandating memory optimization by 2027 marks a turning point that will shake up platform ecosystem standards.",
+        "points": "Google has announced a policy mandating memory optimization for mobile games entering Google Play starting in 2027. 🛠️ Even as mobile device hardware specifications rise dramatically each year, a platform holder regulating resource efficiency is an unprecedented decision.\n\nThis measure compels **practical shifts in game development practices**, pushing developers to prioritize engine lightweighting and asset efficiency over blindly chasing high-end graphics. 📉 As a result, lowering the barrier to entry will absorb a large influx of low-spec device users from emerging markets, generating a positive ripple effect that broadens the game consumption structure across the entire platform.\n\nThe complacent development approach that merely relied on brute-force hardware performance has now come to an end. Going forward, true competitiveness in the mobile market will be determined by **sophisticated optimization technology that minimizes device strain without compromising visual quality**. ✨\n\nIt is exciting to anticipate what form the next-generation optimized titles will take as they transcend technical constraints to reach the fingertips of gamers worldwide. 🎮"
+      },
+      "epic": {
+        "title": "Breathedge",
+        "comment": "🎮 **Epic Games Free Giveaway This Week**\n• **Breathedge** (~September 3, 2026, 15:00 UTC)\nA humorous sci-fi survival adventure game set in deep space. Survive amidst quirky dark humor by crafting tools and exploring spaceship wreckage alongside an immortal chicken.\n\n👀 **Next Week**\nNext week's free giveaway title will be revealed later.\n\n🔥 **Steam Weekend Deal**\nGet the open-world action masterpiece **Red Dead Redemption 2** at a 75% discount until September 8, 2026, 17:00 UTC!"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "METAL GEAR SOLID: MASTER COLLECTION Vol.2",
+        "releases.0.note": "8月27日に正式リリースされたバンドルタイトルで、MGS4初の他プラットフォーム移植作やピースウォーカーなど、シリーズの名作が収録されています。",
+        "releases.0.dev": "コナミ",
+        "releases.1.game": "キャプテン翼2 ワールドファイターズ",
+        "releases.1.note": "8月27日に韓国語版として正式リリースされたサッカーアクションゲームで、アニメ調の華麗なスーパープレイ演出が特徴です。",
+        "releases.1.dev": "バンダイナムコエンターテインメント",
+        "releases.2.game": "アウタープレーン",
+        "releases.2.note": "8月27日にSteam PC版を正式リリースしたターン制収集型RPGで、プラットフォーム拡大を記念して新規ユーザー向けの召喚特典を提供しています。",
+        "releases.2.dev": "VA Games",
+        "releases.3.game": "フェイタル・クロー (Fatal Claw)",
+        "releases.3.note": "8月27日にSteamで正式リリースされた2Dアクションプラットフォーマーゲームで、猫の「キシャ」が地下世界からの脱出を目指す冒険を描いています。",
+        "releases.3.dev": "N-Dev Games",
+        "releases.4.game": "ベアブリック ヒーローズ",
+        "releases.4.note": "8月27日に正式サービスを開始したRPGで、人気アートトイ「BE@RBRICK」のIPをベースにしたノンターゲティングアクションバトルが楽しめます。",
+        "releases.4.dev": "メディコム・トイ",
+        "releases.5.game": "ELDEN RING",
+        "releases.5.note": "8月28日の新規DLC「褪せ人パック」のリリースに合わせてVer.1.17アップデートが配信され、ゲームバランスの調整が行われました。",
+        "releases.5.dev": "フロム・ソフトウェア",
+        "events.0.name": "2026 VCT Pacific Finals Busan",
+        "events.0.note": "VALORANT eスポーツ大会ファイナルの現地プログラムおよび試合進行",
+        "events.0.venue": "釜山 社稷室内体育館",
+        "events.1.name": "東京ゲームショウ2026 (TGS 2026)",
+        "events.1.note": "『Stellar Blade Complete Edition』Nintendo Switch 2版の初試遊および開発者ステージ",
+        "events.1.venue": "日本・千葉 幕張メッセ"
+      },
+      "briefing": {
+        "items.0.title": "Google、2027年よりモバイルゲームのメモリ最適化を義務化",
+        "items.0.source": "Inven",
+        "items.0.time": "8月27日",
+        "items.1.title": "『クッキーラン：クランブル』、リリース1ヶ月で売上200億ウォン突破",
+        "items.1.source": "Inven",
+        "items.1.time": "8月27日",
+        "items.2.title": "『アイオン2』、DLSS 4.5対応ゲームプレイ映像を公開",
+        "items.2.source": "IGN India",
+        "items.2.time": "8月27日",
+        "items.3.title": "スクウェア・エニックス、『キングダム ハーツ』世界観専任の総括者を起用",
+        "items.3.source": "IGN India",
+        "items.3.time": "8月27日",
+        "items.4.title": "DMM GAMES、iOS専用ストアアプリを8月31日にリリース",
+        "items.4.source": "Famitsu",
+        "items.4.time": "8月27日",
+        "items.5.title": "『トロピコ7』、2027年1月28日に正式発売決定",
+        "items.5.source": "4Gamer",
+        "items.5.time": "8月27日",
+        "items.6.title": "Roblox、MENAエコシステム拡大に向けサウジアラビア本部を設立",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "8月27日"
+      },
+      "drk": {
+        "title": "Googleのメモリ最適化義務化が予告するモバイルエコシステムの変革",
+        "intro": "華麗なグラフィックを誇っていたモバイルの大作タイトルが、なぜ急に「ダイエット」を迫られることになったのでしょうか？ 📱\nGoogleが発表した2027年のメモリ最適化義務化は、プラットフォームエコシステムの基準を大きく揺るがす転換点となります。",
+        "points": "Googleは2027年より、Google Playで配信されるモバイルゲームを対象としたメモリ最適化の義務化方針を予告しました。🛠️ モバイル端末のハードウェアスペックが年々飛躍的に向上しているにもかかわらず、プラットフォームホルダー側からリソース効率を規制するのは異例の決定です。\n\nこの措置は開発会社に対し、無制限な高グラフィックスの追求よりもエンジンの軽量化やアセットの効率化に注力させるという、**実際のゲーム開発スタイルの変革**を迫ることになります。📉 結果として参入障壁が下がり、新興市場の低スペック端末ユーザーを大幅に取り込むことで、プラットフォーム全体のゲーム消費構造を拡大させるポジティブな波及効果をもたらすでしょう。\n\n単にハードウェアの圧倒的な性能に頼っていた安易な開発手法は、もはや終わりを告げました。今後のモバイル市場における真の競争力は、**ビジュアル品質を損なうことなく端末への負荷を最小限に抑える、精緻な最適化技術力**によって左右されるはずです。✨\n\n技術的な制約を乗り越え、世界中のあらゆるゲーマーの手元に届けられる次世代の最適化タイトルがどのような姿を見せてくれるのか、期待が高まります。🎮"
+      },
+      "epic": {
+        "title": "Breathedge",
+        "comment": "🎮 **今週のEpic Games無料配布**\n• **Breathedge** (〜2026年9月4日 00:00まで)\n宇宙空間を舞台に繰り広げられる、愉快なSFサバイバルアドベンチャーゲームです。独特のブラックユーモアの中、不死身のニワトリとともにツールをクラフトし、宇宙船の残骸を探索しながら生き残りを目指しましょう。\n\n👀 **Next Week**\n来週の無料配布タイトルは後日公開予定です。\n\n🔥 **Steamウィークエンドセール**\nオープンワールドアクションの名作**『Red Dead Redemption 2』**が、2026年9月9日 02:00まで75%オフの特別価格でお求めいただけます！"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "구글 발 모바일 게임 대격변의 서막 📱 (feat. 이번 주 에픽 무료 배포 🚀)",
+    "en": "Google is shaking up mobile gaming forever 📱 (Plus, free Epic game inside! 🚀)",
+    "ja": "Googleが仕掛けるスマホゲーム激変の波 📱 (Epic無料配布ゲームも要チェック！🚀)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "앞으로 모바일 게임 렉 싹 사라질지도 몰라요! 📱\n구글이 27년부터 메모리 최적화를 강제한다네요 👀\n\nhttps://www.gtplayer.net/edition-113/\n#메탈기어솔리드 #아이온2 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-08-28T07:01:39.688383"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "8월 28일 오늘의 게임 소식 🎮 구글발 모바일 게임 대격변의 서막!\n\n📰 [뉴스] 구글 2027년 메모리 최적화 의무화 & 쿠키런 신작 매출 200억 돌파\n📅 [출시] 메탈 기어 솔리드 컬렉션 Vol.2, 캡틴 츠바사 2 등 이번 주 신작\n✍️ [인사이트] 화려한 모바일 그래픽 대작들이 다이어트를 준비해야 하는 이유\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#GTPlayer #게임뉴스 #게임뉴스레터 #신작게임 #게임추천 #게임소식 #모바일게임 #PC게임 #콘솔게임 #쿠키런 #아이온2 #메탈기어솔리드 #엘든링 #스팀게임 #플레이스테이션 #닌텐도스위치 #구글플레이 #게임스타그램 #겜스타그램 #게임덕후",
+          "image_paths": [
+            "web\\instagram\\edition_113\\card_cover.png",
+            "web\\instagram\\edition_113\\card_news.png",
+            "web\\instagram\\edition_113\\card_calendar.png",
+            "web\\instagram\\edition_113\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3973248251180851618_39332818166",
+            "url": "https://www.instagram.com/p/Dcj0Du4E6Gi/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-08-28T07:02:10.637056",
+      "freegames_results": {
+        "success": true,
+        "id": "3973248497034160334_39332818166",
+        "url": "https://www.instagram.com/p/Dcj0HT2E2jO/",
+        "error": null
+      },
+      "freegames_updated_at": "2026-08-28T07:02:39.018237"
+    },
+    "linkedin": {
+      "results": {
+        "posted": false,
+        "text": "Google is shaking up mobile gaming forever 📱 (Plus, free Epic game inside! 🚀)\n\nGoogle is introducing strict memory standards that will reshape mobile development, while blockbuster reveals signal an exciting wave of next-gen experiences.\nCatch up on the biggest industry shifts, fresh game launches, and your next free claim today.\n\nhttps://www.gtplayer.net/edition-113-en/",
+        "error": "LinkedIn posting failed"
+      },
+      "updated_at": "2026-08-28T07:03:18.909695"
+    }
+  }
+}

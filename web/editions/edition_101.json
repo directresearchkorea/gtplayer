@@ -1,0 +1,424 @@
+{
+  "num": "101",
+  "date": "2026-08-12",
+  "status": "published",
+  "schedule": {
+    "date": "2026-08-12",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "에오스 레드 리버스",
+          "dev": "블로믹스",
+          "date": "8월 11일(화)",
+          "platforms": [
+            "Web",
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "8월 11일 대만, 태국, 필리핀에 정식 출시된 웹 MMORPG로 별도의 설치 없이 웹 브라우저에서 바로 즐길 수 있습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319376",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "반지의 제왕: 북부 전쟁 레거시 에디션",
+          "dev": "스노우블라인드 스튜디오",
+          "date": "8월 11일(화)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "8월 11일 현대 콘솔 플랫폼과 PC 스팀으로 깜짝 리마스터 재출시된 '반지의 제왕' 배경의 3인 협동 액션 RPG입니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/the-lord-of-the-rings-war-in-the-north/268519/the-lord-of-the-rings-war-in-the-north-legacy-edition-gets-shadow-drop-on-modern-consoles-and-pc",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "update",
+          "game": "아이온2",
+          "dev": "엔씨소프트",
+          "date": "8월 12일(수)",
+          "platforms": [
+            "PC",
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "8월 12일 신규 원정 및 초월 던전 추가와 함께 권성, 검성, 치유성, 호법성을 대상으로 한 클래스 케어 업데이트가 진행됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319398",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "오버워치",
+          "dev": "블리자드 엔터테인먼트",
+          "date": "8월 12일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 12일 오전 3시부터 넥슨을 통한 한국 PC 서비스가 정식 개시되며 계정 연동을 통해 전용 매칭 및 혜택을 제공합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319378",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "헬 렛 루즈: 베트남",
+          "dev": "Covert Games",
+          "date": "8월 13일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 13일 스팀을 통해 출시되는 대규모 FPS로, 베트남 전쟁을 배경으로 미군과 북베트남군 간의 최대 50대50 대전투를 그립니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3079210/Hell_Let_Loose_Vietnam/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "로우 버짓 리페어스",
+          "dev": "Small Treason Studio",
+          "date": "8월 13일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 13일 스팀으로 출시되는 수리 시뮬레이션 게임으로, 저예산 환경에서 다양한 건축 및 수리 작업을 수행합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3167920/LowBudget_Repairs/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "부산 인디 커넥트 페스티벌 2026 (BIC 2026)",
+          "note": "글로벌 인디게임 전시 및 개발자 교류 행사",
+          "venue": "부산 벡스코",
+          "date": "2026-08-14 ~ 2026-08-16",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=319377"
+        },
+        {
+          "name": "코리아보드게임즈 컬렉션 팝업 스토어",
+          "note": "신작 보드게임 체험 및 최대 70% 할인 행사",
+          "venue": "롯데백화점 부산본점 지하 1층",
+          "date": "2026-08-11 ~ 2026-08-23",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=319380"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "엔씨, 2분기 영업익 1,739억 원… 2027년까지 신작 10여 종 출시",
+          "source": "인벤",
+          "time": "8월 11일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319392"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "BIC 조직위, 유튜브 플레이어블 협력… 인디게임 7종 입점",
+          "source": "게임메카",
+          "time": "8월 11일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1778977"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "GTA 6, 100달러 얼티밋 에디션 예약 구매가 일반판 압도",
+          "source": "IGN India",
+          "time": "8월 11일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/grand-theft-auto-vi/268531/gta-6-100-ultimate-edition-outselling-80-standard-edition-ign-daily-fix"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "Xbox CEO, '엘더스크롤 6' 시연 참관 및 부제 힌트 공개",
+          "source": "IGN India",
+          "time": "8월 11일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/the-elder-scrolls-6/268534/xbox-ceo-gets-elder-scrolls-6-demo-teases-the-subtitle"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "반다이 남코, 1분기 최고 매출 달성… 디지털 이익은 감소",
+          "source": "GamesIndustry.biz",
+          "time": "8월 11일",
+          "country": "JP",
+          "article_url": "https://www.gamesindustry.biz/bandai-namco-achieves-record-q1-sales-but-digital-segment-operating-profit-drops-309"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'붕괴: 스타레일', Ver 4.5 특별 방송 8월 14일 진행",
+          "source": "4Gamer",
+          "time": "8월 10일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/599/G059954/20260810041/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "슈퍼매시브 게임즈, 최대 75명 규모 구조조정 발표",
+          "source": "GamesIndustry.biz",
+          "time": "8월 11일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/supermassive-games-announces-layoffs-up-to-75-workers-may-be-affected"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "양극화되는 게임 시장: 게이머의 주머니는 누구에게 열리는가 🎯",
+      "intro": "100달러가 넘는 고가 에디션에 열광하는 게이머가 있는 반면, 다른 한쪽에서는 연이은 구조조정 소식이 들려옵니다. 📉\n게임 산업의 극심한 양극화 속에서 게이머의 지갑을 열게 만드는 진짜 기준은 무엇일까요? 🤔",
+      "points": "오늘 주요 뉴스 중 가장 눈에 띄는 현상은 GTA 6의 100달러 얼티밋 에디션 예약 구매가 일반판을 압도했다는 사실입니다. 💰 반면 반다이남코의 디지털 영업이익 감소나 슈퍼매시브 게임즈의 구조조정 소식은 게임 시장이 직면한 냉혹한 수익성 위기를 대변합니다.\n\n이러한 현상은 **소비자 심리**와 **게임 소비 구조**가 극단적으로 양극화되고 있음을 보여줍니다. 게이머들은 불확실한 신작에 대한 지출을 대폭 줄이는 대신, 확실한 경험과 가치를 제공하는 검증된 대작에는 기꺼이 고액을 지불합니다. ⚖️ 이로 인해 어중간한 입지의 중견 게임사들은 유저의 선택을 받지 못해 생존을 위협받고 있습니다.\n\n결국 지속 가능한 성장을 결정짓는 핵심은 분명합니다. **시장이 양극화될수록 단순한 화제성을 넘어 유저가 선뜻 비용을 지불할 만한 확실한 대체 불가능성을 증명해야만 살아남을 수 있습니다.** 🚀\n\n소비자의 눈높이가 그 어느 때보다 높아진 지금, 여러분이 최근 기꺼이 지갑을 열었던 게임은 과연 어떤 가치를 증명했습니까? ❓"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": true,
+      "title": "The Lord of the Rings™ War in the North™ Legacy Edition LAUNCH TRAILER",
+      "channel": "XBOX",
+      "videoId": "m7BTKU4oDcE",
+      "url": "https://www.youtube.com/watch?v=m7BTKU4oDcE",
+      "thumbnail": "https://i.ytimg.com/vi/m7BTKU4oDcE/hqdefault.jpg",
+      "comment": "최근 '반지의 제왕: 북부 전쟁 레거시 에디션' 소식이 화제를 모아 이번 주 추천곡으로 선정했어요! ⚔️ 오늘 퇴근길, 웅장한 오케스트라 선율을 들으며 중간계 전장의 영웅이 되어보세요! 💍🎶",
+      "search_query": "The Lord of the Rings War in the North Legacy Edition Official Soundtrack",
+      "ai_game_name": "반지의 제왕: 북부 전쟁 레거시 에디션",
+      "ai_reason": "8월 11일 깜짝 리마스터 출시된 작품으로, 거장 이논 주어(Inon Zur)가 작곡한 웅장하고 서사적인 정통 판타지 오케스트라 선율이 모험심을 자극합니다."
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=101&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=101&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "EOS RED REBIRTH",
+        "releases.0.note": "A web MMORPG officially released in Taiwan, Thailand, and the Philippines on August 11, which can be enjoyed directly in a web browser without any installation.",
+        "releases.0.dev": "BLOMIX",
+        "releases.1.game": "The Lord of the Rings: War in the North Legacy Edition",
+        "releases.1.note": "A 3-player co-op action RPG set in 'The Lord of the Rings' universe, surprise-released as a remastered re-release on modern console platforms and PC Steam on August 11.",
+        "releases.1.dev": "Snowblind Studios",
+        "releases.2.game": "AION 2",
+        "releases.2.note": "On August 12, a class care update targeting Martial Artist, Gladiator, Cleric, and Chanter will be conducted along with the addition of new expeditions and transcendence dungeons.",
+        "releases.2.dev": "NCSOFT",
+        "releases.3.game": "Overwatch",
+        "releases.3.note": "Korean PC service via Nexon officially begins on August 11 at 6:00 PM UTC, offering dedicated matching and perks through account linking.",
+        "releases.3.dev": "Blizzard Entertainment",
+        "releases.4.game": "Hell Let Loose: Vietnam",
+        "releases.4.note": "A large-scale FPS releasing on Steam on August 13, depicting battles up to 50v50 between US forces and North Vietnamese forces set during the Vietnam War.",
+        "releases.4.dev": "Covert Games",
+        "releases.5.game": "Low Budget Repairs",
+        "releases.5.note": "A repair simulation game releasing on Steam on August 13, where players perform various construction and repair tasks in a low-budget environment.",
+        "releases.5.dev": "Small Treason Studio",
+        "events.0.name": "Busan Indie Connect Festival 2026 (BIC 2026)",
+        "events.0.note": "Global indie game exhibition and developer networking event",
+        "events.0.venue": "Busan BEXCO",
+        "events.1.name": "Korea Boardgames Collection Pop-up Store",
+        "events.1.note": "New board game demos and up to 70% discount event",
+        "events.1.venue": "Lotte Department Store Busan Main Branch B1 Floor"
+      },
+      "briefing": {
+        "items.0.title": "NCSOFT Reports Q2 Operating Profit of 173.9 Billion KRW… To Launch Around 10 New Games by 2027",
+        "items.0.source": "Inven",
+        "items.0.time": "August 11",
+        "items.1.title": "BIC Organizing Committee Partners with YouTube Playables… 7 Indie Games Added",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "August 11",
+        "items.2.title": "GTA 6's $100 Ultimate Edition Pre-orders Overwhelm Standard Edition",
+        "items.2.source": "IGN India",
+        "items.2.time": "August 11",
+        "items.3.title": "Xbox CEO Attends 'The Elder Scrolls VI' Hands-on Demo and Teases Subtitle Hint",
+        "items.3.source": "IGN India",
+        "items.3.time": "August 11",
+        "items.4.title": "Bandai Namco Achieves Record Q1 Revenue… Digital Profit Declines",
+        "items.4.source": "GamesIndustry.biz",
+        "items.4.time": "August 11",
+        "items.5.title": "'Honkai: Star Rail' Ver 4.5 Special Program Scheduled for August 14",
+        "items.5.source": "4Gamer",
+        "items.5.time": "August 10",
+        "items.6.title": "Supermassive Games Announces Restructuring of Up to 75 Employees",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "August 11"
+      },
+      "drk": {
+        "title": "A Polarizing Game Market: Who Are Gamers Opening Their Wallets For? 🎯",
+        "intro": "While some gamers are thrilled by high-priced editions costing over $100, news of consecutive layoffs continues on the other side. 📉\nAmidst the extreme polarization of the gaming industry, what is the real standard that makes gamers open their wallets? 🤔",
+        "points": "The most notable phenomenon in today's main news is that GTA 6's $100 Ultimate Edition pre-orders overwhelmed the standard edition. 💰 On the other hand, news of Bandai Namco's declining digital operating profit and Supermassive Games' restructuring represents the harsh profitability crisis facing the gaming market.\n\nThis phenomenon shows that **consumer sentiment** and **gaming consumption structure** are becoming extremely polarized. Instead of significantly cutting spending on uncertain new titles, gamers are willing to pay high prices for proven blockbusters that offer definite experiences and value. ⚖️ As a result, mid-sized game developers in ambiguous positions fail to get chosen by users, threatening their survival.\n\nUltimately, the key that determines sustainable growth is clear. **As the market becomes more polarized, survival requires proving irrefutable indispensability that goes beyond mere hype to make users willing to pay.** 🚀\n\nWith consumer standards higher than ever, what value was proven by the game you recently paid for? ❓"
+      },
+      "soundtrack": {
+        "title": "The Lord of the Rings™ War in the North™ Legacy Edition LAUNCH TRAILER",
+        "comment": "We selected this as this week's recommended track as news about 'The Lord of the Rings: War in the North Legacy Edition' recently made headlines! ⚔️ Become a hero on the battlefields of Middle-earth on your way home today while listening to the grand orchestral melodies! 💍🎶"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "エオスレッド リバース",
+        "releases.0.note": "8月11日に台湾、タイ、フィリピンで正式リリースされたWeb MMORPGで、別途のインストールなしでWebブラウザで手軽に楽しめます。",
+        "releases.0.dev": "ブロミックス",
+        "releases.1.game": "ロード・オブ・ザ・リング：ウォー・イン・ザ・ノース レガシー・エディション",
+        "releases.1.note": "8월 11日、現行のコンソールプラットフォームとPC Steamでサプライズ・リマスター再発売された『ロード・オブ・ザ・リング』を舞台とした3人協力アクションRPGです。",
+        "releases.1.dev": "スノーブラインド・スタジオ",
+        "releases.2.game": "アイオン2",
+        "releases.2.note": "8月12日、新規遠征および超越ダンジョンの追加とともに、拳星、剣星、治癒星、護法星を対象としたクラスケアアップデートが実施されます。",
+        "releases.2.dev": "NCソフト",
+        "releases.3.game": "オーバーウォッチ",
+        "releases.3.note": "8월 12日午前3時からNexonを通じた韓国PCサービスが正式開始され、アカウント連携を通じて専用マッチングおよび特典が提供されます。",
+        "releases.3.dev": "ブリザード・エンターテイメント",
+        "releases.4.game": "ヘル・レット・ルーズ：ベトナム",
+        "releases.4.note": "8월 13日にSteamを通じてリリースされる大規模FPSで、ベトナム戦争を舞台に米軍と北ベトナム軍による最大50対50の大規模戦闘を描きます。",
+        "releases.4.dev": "Covert Games",
+        "releases.5.game": "ロー・バジェット・リペアーズ",
+        "releases.5.note": "8월 13日にSteamでリリースされる修理シミュレーションゲームで、低予算の環境で多様な建築および修理作業を行います。",
+        "releases.5.dev": "Small Treason Studio",
+        "events.0.name": "釜山インディーコネクトフェスティバル2026 (BIC 2026)",
+        "events.0.note": "グローバルインディーゲーム展示および開発者交流イベント",
+        "events.0.venue": "釜山BEXCO",
+        "events.1.name": "コリアボードゲームズコレクション ポップアップストア",
+        "events.1.note": "新作ボードゲーム体験および最大70%割引セール",
+        "events.1.venue": "ロッテ百貨店 釜山本店 地下1階"
+      },
+      "briefing": {
+        "items.0.title": "NC、第2四半期の営業利益1,739億ウォン…2027年までに新作約10タイトルをリリース",
+        "items.0.source": "INVEN",
+        "items.0.time": "8月11日",
+        "items.1.title": "BIC組織委、YouTube Playablesと協力…インディーゲーム7タイトルが参入",
+        "items.1.source": "GameMeca",
+        "items.1.time": "8월 11日",
+        "items.2.title": "『GTA6』、100ドルのアルティメットエディションの予約数が通常版を圧倒",
+        "items.2.source": "IGN India",
+        "items.2.time": "8월 11日",
+        "items.3.title": "Xbox CEO、『The Elder Scrolls VI』の試遊に立ち会いサブタイトルのヒントを公開",
+        "items.3.source": "IGN India",
+        "items.3.time": "8월 11日",
+        "items.4.title": "バンダイナムコ、第1四半期に過去最高売上高を達成…デジタル事業の利益は減少",
+        "items.4.source": "GamesIndustry.biz",
+        "items.4.time": "8월 11日",
+        "items.5.title": "『崩壊：スターレイル』、Ver.4.5予告番組を8月14日に放送",
+        "items.5.source": "4Gamer",
+        "items.5.time": "8월 10일",
+        "items.6.title": "Supermassive Games、最大75人規模の人員削減を発表",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "8월 11日"
+      },
+      "drk": {
+        "title": "二極化するゲーム市場：ゲーマーの財布は誰に向かって開かれるのか 🎯",
+        "intro": "100ドルを超える高額エディションに熱狂するゲーマーがいる一方で、もう一方では相次ぐ人員削減のニュースが聞こえてきます。 📉\nゲーム産業の極端な二極化の中で、ゲーマーの財布を開かせる本当の基準とは何でしょうか？ 🤔",
+        "points": "本日の主要ニュースの中で最も目を引く現象は、『GTA6』の100ドル版アルティメットエディションの予約購入数が通常版を圧倒したという事実です。 💰 一方、バンダイナムコのデジタル営業利益の減少やSupermassive Gamesの人員削減のニュースは、ゲーム市場が直面している冷酷な収益性の危機を象徴しています。\n\nこうした現象は、**消費者心理**と**ゲーム消費構造**が極端に二極化していることを示しています。ゲーマーたちは不確実な新作への支出を大幅に減らす一方で、確実な体験と価値を提供する検証済みの超大作には喜んで高額を支払います。 ⚖️ これにより、中途半端な立ち位置の中堅ゲーム会社はユーザーから選ばれず、生存を脅かされています。\n\n結局のところ、持続可能な成長を決定づける核心は明白です。**市場が二極化するほど、単なる話題性を超えて、ユーザーが快く費用を支払うに足る確実な『代替不可能性』を証明してこそ生き残ることができます。** 🚀\n\n消費者の目線がかつてないほど高くなった今、あなたが最近喜んで財布を開いたゲームは、果たしてどのような価値を証明したでしょうか？ ❓"
+      },
+      "soundtrack": {
+        "title": "The Lord of the Rings™ War in the North™ Legacy Edition LAUNCH TRAILER",
+        "comment": "最近『ロード・オブ・ザ・リング：ウォー・イン・ザ・ノース レガシー・エディション』のニュースが話題を集めたため、今週のオススメ曲に選定しました！ ⚔️ 今日の帰り道、壮大なオーケストラの旋律を聴きながら中つ国の戦場の英雄になってみませんか？ 💍🎶"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "양극화되는 게임 시장! 🎯 게이머의 지갑을 연 최종 승자는? (feat. 반지의 제왕 웅장한 OST ⚔️)",
+    "en": "Where is gamer money REALLY going? 🎯 (feat. Legendary LOTR Trailer ⚔️)",
+    "ja": "二極化するゲーム市場！🎯 ゲーマーが思わず財布を開くゲームとは？（feat.『指輪物語』名曲トレーラー⚔️）"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "8월 12일 오늘의 게임 소식 🎮\n📰 [뉴스] GTA 6 100달러 패키지 대박, 엔씨 실적 발표 및 엘더스크롤 6 힌트 공개!\n📅 [출시] 반지의 제왕, 아이온2, 헬 렛 루즈: 베트남 등 따끈따끈한 신작 라인업!\n✍️ [인사이트] 100달러 패키지와 구조조정 사이, 양극화된 게임 시장에서 게이머의 지갑을 열 최종 승자는?\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#GTPLAYER #게임뉴스 #게임정보 #신작게임 #게임추천 #게임덕후 #GTA6 #아이온2 #반지의제왕 #엘더스크롤6 #엔씨소프트 #인디게임 #게이머 #콘솔게임 #PC게임 #모바일게임 #게임이슈 #게임소식 #뉴스레터 #게임스타그램",
+          "image_paths": [
+            "web\\instagram\\edition_101\\card_cover.png",
+            "web\\instagram\\edition_101\\card_news.png",
+            "web\\instagram\\edition_101\\card_calendar.png",
+            "web\\instagram\\edition_101\\card_drk.png"
+          ],
+          "posted": true,
+          "error": null,
+          "data": {
+            "success": true,
+            "id": "3367123990666014215_39332818166",
+            "url": "https://www.instagram.com/p/C-j56xSSf4H/",
+            "error": null
+          }
+        }
+      },
+      "updated_at": "2026-08-12T07:02:15.736574"
+    }
+  }
+}

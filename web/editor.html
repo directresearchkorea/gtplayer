@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GTPlayer Editor — 뉴스레터 편집</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="editor.css">
+</head>
+<body>
+
+<!-- SIDEBAR -->
+<aside class="sidebar" id="sidebar">
+  <div class="sidebar-header">
+    <h2>에디션 목록</h2>
+    <button class="sidebar-close" onclick="toggleSidebar()">✕</button>
+  </div>
+  <ul class="edition-list" id="editionList"></ul>
+
+  <button class="btn-new-edition" onclick="document.getElementById('jsonImport').click()" style="border-color:#58a6ff;color:#58a6ff">📂 JSON 불러오기</button>
+  <input type="file" id="jsonImport" accept=".json" style="display:none" onchange="importJSON(this)">
+</aside>
+<div class="sidebar-overlay" id="sidebarOverlay" onclick="toggleSidebar()"></div>
+
+<!-- TOP BAR -->
+<header class="topbar">
+  <div class="topbar-left">
+    <button class="topbar-menu" onclick="toggleSidebar()">☰</button>
+    <a class="topbar-logo" href="index.html">GT<span>Player</span></a>
+    <span class="topbar-badge">EDITOR</span>
+    <span class="topbar-edition" id="editionLabel">에디션 #001</span>
+  </div>
+  <div class="topbar-right">
+    <button class="tbtn" onclick="undo()" title="되돌리기 (Ctrl+Z)">↩️</button>
+    <button class="tbtn" onclick="redo()" title="다시 실행 (Ctrl+Y)">↪️</button>
+    <button class="tbtn" onclick="openPreview()" title="최종 뉴스레터 미리보기">👁 미리보기</button>
+    <button class="tbtn" onclick="openModal('schedule')">📤 로컬 스케줄러 예약</button>
+    <button class="tbtn tbtn-primary" onclick="saveEdition()">💾 저장</button>
+  </div>
+</header>
+
+<!-- SCHEDULE BANNER -->
+<div class="sched-banner" id="schedBanner" style="display:none">
+  <span id="schedBannerText"></span>
+  <button onclick="openModal('schedule')">변경</button>
+</div>
+
+<!-- LANGUAGE SWITCHER + PREVIEW -->
+<main class="preview-area">
+  <div class="lang-switcher">
+    <button class="lang-btn active" onclick="switchLang('ko',this)">KR</button>
+    <button class="lang-btn" onclick="switchLang('en',this)">EN</button>
+    <button class="lang-btn" onclick="switchLang('ja',this)">JP</button>
+    <label style="font-size:12px;color:#6b7280;display:flex;align-items:center;gap:4px;cursor:pointer;margin-left:auto;margin-right:8px">
+      <input type="checkbox" id="keepExistingTranslations" checked> 기존 번역 유지
+    </label>
+    <button class="lang-auto-btn" onclick="autoTranslate()">🤖 자동 번역</button>
+  </div>
+  <div class="newsletter-wrap" id="newsletterWrap"></div>
+</main>
+
+<!-- SCHEDULE MODAL -->
+<div class="modal-backdrop" id="scheduleBackdrop" onclick="closeModal('schedule')"></div>
+<div class="modal modal-sm" id="scheduleModal">
+  <div class="modal-header">
+    <h2>📤 발송 예약</h2>
+    <button class="modal-close" onclick="closeModal('schedule')">✕</button>
+  </div>
+  <div class="modal-body">
+    <div class="sf">
+      <div class="sf-row">
+        <div class="sf-field"><label>발송 날짜</label><input type="date" id="schedDate" class="sf-input"></div>
+        <div class="sf-field"><label>발송 시간</label><input type="time" id="schedTime" value="07:00" class="sf-input"></div>
+      </div>
+      <div class="sf-field"><label>발송 대상</label>
+        <div class="sf-options">
+          <label class="sf-opt"><input type="radio" name="target" value="all" checked> 전체 구독자</label>
+          <label class="sf-opt"><input type="radio" name="target" value="test"> 테스트 (본인만)</label>
+        </div>
+      </div>
+      <div class="sf-field"><label>발송 언어</label>
+        <div style="font-size:13px;color:#6b7280;padding:6px 0">KR · EN · JP — 3개 언어 자동 발행</div>
+      </div>
+    </div>
+  </div>
+  <div class="modal-footer">
+    <button class="tbtn" style="color:var(--dark);display:none" id="btnCancelSched" onclick="cancelSchedule()">예약 취소</button>
+    <button class="tbtn" id="btnTestSend" onclick="testSend()" style="color:#58a6ff;border-color:#58a6ff">📧 테스트 발송</button>
+    <button class="tbtn tbtn-primary" onclick="confirmSchedule()">📅 로컬 예약 확정</button>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+<script src="editor.js?v=202604201133"></script>
+</body>
+</html>

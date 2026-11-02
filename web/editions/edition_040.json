@@ -1,0 +1,475 @@
+{
+  "num": "040",
+  "date": "2026-04-28",
+  "status": "published",
+  "schedule": {
+    "date": "2026-04-28",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "update",
+          "game": "디아블로 4: 증오의 군주",
+          "dev": "블리자드 엔터테인먼트",
+          "date": "4월 28일(화)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "4월 28일 출시되는 신규 확장팩으로, 신규 직업 '혼령사'와 메피스토를 추적하는 정글 지역 '나한투'가 추가됩니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1774538",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "아크 레이더스",
+          "dev": "엠바크 스튜디오",
+          "date": "4월 28일(화)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "4월 28일 대규모 업데이트 '리븐 타이드'가 적용되어 신규 맵과 강력한 적 개체인 '플로팅 콘' 등 역대급 콘텐츠가 추가됩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-riven-tides-update/",
+          "source_name": "PC Gamer"
+        },
+        {
+          "category": "release",
+          "game": "무민트롤: 겨울의 온기",
+          "dev": "개발사 확인 필요",
+          "date": "4월 28일(화)",
+          "platforms": [
+            "PC",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "4월 28일 PC와 닌텐도 스위치로 정식 출시된 힐링 어드벤처 게임으로, 겨울잠에서 깬 무민의 따뜻한 겨울 모험을 다룹니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/moomintroll-winters-warmth/259523/moomintroll-winters-warmth-official-launch-trailer",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "update",
+          "game": "섀도우버스: 월즈 비욘드",
+          "dev": "사이게임즈",
+          "date": "4월 28일(화)",
+          "platforms": [
+            "PC",
+            "iOS",
+            "Android"
+          ],
+          "color": "#10b981",
+          "note": "4월 28일 신규 카드팩 '신살의 아나테마'가 출시되어 새로운 카드 능력과 전략적 변화를 선보입니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/760/G076035/20260427052/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "채원무쌍 (Saien Musou)",
+          "dev": "개발사 확인 필요",
+          "date": "4월 28일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "4월 28일 정식 출시된 액션 게임으로, 다양한 무기를 사용해 대량의 야채를 한꺼번에 수확하는 독특한 재미를 선사합니다.",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202604/73281",
+          "source_name": "Famitsu"
+        },
+        {
+          "category": "release",
+          "game": "럭롯 (Luckrot)",
+          "dev": "개발사 확인 필요",
+          "date": "4월 28일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "4월 28일 정식 출시된 로그라이크 슈팅 게임으로, 독특한 픽셀 그래픽 세계관에서 펼쳐지는 박진감 넘치는 전투가 특징입니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/259507/luckrot-official-launch-trailer",
+          "source_name": "IGN India"
+        }
+      ],
+      "events": [
+        {
+          "name": "시부야 스크란블 스토리즈(SHIBUYA SCRAMBLE STORIES) 신정보 발표 이벤트",
+          "note": "이시이 지로우 총감독의 실사 어드벤처 신작 정보 및 메인 캐스트 공개",
+          "venue": "일본 시부야 현장 및 공식 YouTube 생중계",
+          "date": "2026-04-28",
+          "tag": "쇼케이스",
+          "website": "https://www.4gamer.net/games/905/G090534/20260427027/"
+        },
+        {
+          "name": "가산 마리오아울렛 '세가 스토어' 팝업 및 미니 뮤지엄",
+          "note": "국내 최초 세가 공식 팝업 스토어 및 역대 하드웨어 전시 뮤지엄 오픈",
+          "venue": "서울 가산동 마리오아울렛 1관 5층",
+          "date": "2026-05-01 ~",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=315881"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "시프트업 '니케', 3.5주년 업데이트로 한·일 매출 1위 등극",
+          "source": "게임메카",
+          "time": "4월 27일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1774520"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "대한민국, 2026 아시아 e스포츠 대회서 첫 종합 우승 달성",
+          "source": "게임메카",
+          "time": "4월 26일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1774522"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "캡콤, '바이오하자드 레퀴엠' 흥행에 연간 실적 전망 상향",
+          "source": "IGN India",
+          "time": "4월 27일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/resident-evil-requiem/259504/resident-evil-requiem-sales-prompt-capcom-to-raise-profit-forecast"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "4인 협동 생존 신작 '좀비 햄스터', 공식 트레일러 공개",
+          "source": "IGN India",
+          "time": "4월 27일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/259505/zombie-hamsters-official-announcement-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "세가, 태국 C.P. 그룹과 ASEAN 지역 게임 사업 협력 추진",
+          "source": "4Gamer",
+          "time": "4월 27일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/171/G017151/20260427048/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'#컴파스' 2000만 DL 돌파 및 체인소맨 콜라보레이션 실시",
+          "source": "4Gamer",
+          "time": "4월 27일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/362/G036203/20260427012/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'불렛스톰' 개발사 피플 캔 플라이, 쿨다운 게임즈 인수",
+          "source": "GamesIndustry.biz",
+          "time": "4월 27일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/bulletstorm-dev-people-can-fly-acquires-cooldown-games"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": [],
+      "items": [
+        {
+          "game": "AION2",
+          "period": "최근 30일",
+          "count": "838",
+          "sources": "커뮤니티",
+          "score": "2.7",
+          "pos": 6,
+          "neu": 71,
+          "neg": 23,
+          "keywords": [
+            {
+              "text": "Class Mention",
+              "positive": true
+            },
+            {
+              "text": "Dungeon / Raid Discussion",
+              "positive": true
+            },
+            {
+              "text": "DPS Comparison",
+              "positive": true
+            },
+            {
+              "text": "Buff/Nerf Debate",
+              "positive": true
+            },
+            {
+              "text": "Currency",
+              "positive": true
+            }
+          ],
+          "comments": [
+            {
+              "text": "검성이나 궁성은 조작도 쉬운데 딜까지 강력해서 형평성에 어긋나요.",
+              "positive": false
+            },
+            {
+              "text": "게임 경제가 순식간에 무너져서 장비 가치가 떨어지니 너무 허탈해요.",
+              "positive": false
+            },
+            {
+              "text": "치유성은 인던을 편하게 돌 수 있고 보상도 챙기기 좋아 만족스러워요.",
+              "positive": true
+            }
+          ]
+        }
+      ]
+    },
+    "drk": {
+      "enabled": true,
+      "title": "IP의 생애주기 확장: 플랫폼이 된 게임들의 지배력",
+      "intro": "신규 IP의 탄생보다 기존 IP의 확장이 더 큰 파괴력을 발휘하는 시대가 도래했습니다.\n성공한 게임은 어떻게 '끝이 없는 플랫폼'으로 진화하며 시장의 부를 독점하고 있을까요?",
+      "points": "오늘날 게임 시장은 '디아블로 4'의 대규모 확장팩과 '니케'의 3.5주년 성과, 그리고 캡콤의 실적 상향 조정에서 알 수 있듯 기존 흥행작의 수명 연장에 집중하고 있습니다. 단순한 업데이트를 넘어 신규 직업, 지역, 그리고 대규모 콘텐츠를 지속적으로 공급하며 유저를 묶어두는 전략이 주류로 자리 잡았습니다. 📈\n\n이러한 흐름은 소비자의 **게임 소비 구조**를 단발성 구매에서 장기 체류형으로 변화시키고 있습니다. 유저들은 검증된 IP의 안정적인 서비스 운영에 신뢰를 느끼며 지갑을 열고, 이는 신규 IP가 진입하기 힘든 견고한 플랫폼 구조를 형성합니다. 시프트업의 매출 1위 탈환은 잘 관리된 라이브 서비스가 가진 폭발적인 수익성을 여실히 증명하는 사례입니다. 💰\n\n결국 현대 게임 산업의 승패는 **\"게임을 완성하는 것이 아니라, 유저의 일상 속에 얼마나 깊숙이 침투하여 영구적인 생태계를 구축하느냐\"**에 달려 있습니다. 강력한 IP 파워를 기반으로 한 끊임없는 콘텐츠 순환은 단순한 흥행을 넘어 기업의 장기적 생존과 브랜드 가치를 결정짓는 핵심 지표가 되었습니다. 🎯\n\n기업들이 기존 IP의 내실을 다지며 동남아시아 등 신시장 개척에 박차를 가하는 가운데, 과연 창의적인 중소 규모 신작들이 이 거대한 성벽을 뚫고 새로운 균열을 낼 수 있을까요? 여러분은 익숙한 세계의 확장과 낯선 세계의 도전 중 무엇에 더 큰 가치를 느끼십니까? 🌏"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "코난 엑자일 (Conan Exiles)",
+      "title": "언리얼 엔진 5로 재탄생한 하이보리아의 압도적 질감과 광원",
+      "imgUrl": "",
+      "comment": "언리얼 엔진 5 전환을 통해 극대화될 하이보리아 대륙의 정교한 암석 질감과 실시간 광원 효과를 실제 인게임 렌더링 스타일로 시뮬레이션했습니다. 최적화와 비주얼 혁신이 동시에 이루어진 코난 엑자일의 진화된 인게임 환경을 확인해 보시기 바랍니다.",
+      "ai_prompt": "Actual in-game screenshot, exact original game engine rendering, completely identical to original art style, NO cinematic styling, NO illustration. A panoramic view of a massive stone fortress in the Exiled Lands under the harsh desert sun. Unreal Engine 5 enhanced features: Nanite-level micro-detail on sandstone cliffs, Lumen global illumination reflecting off ancient ruins, and realistic water ripples in a nearby oasis. A barbarian player character in fur and iron armor stands in the foreground, observing the vast landscape. 4k resolution, high-fidelity textures, sharp shadows, raw gameplay capture appearance."
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=040&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=040&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Diablo IV: Vessel of Hatred",
+        "releases.0.note": "A new expansion releasing on April 28, adding the new 'Spiritborn' class and the 'Nahantu' jungle region where players track Mephisto.",
+        "releases.0.dev": "Blizzard Entertainment",
+        "releases.1.game": "ARC Raiders",
+        "releases.1.note": "The massive 'Riven Tide' update arrives on April 28, adding a new map and powerful enemy entities like the 'Floating Cone' along with record-breaking content.",
+        "releases.1.dev": "Embark Studios",
+        "releases.2.game": "Moomintroll: Warmth of Winter",
+        "releases.2.note": "A healing adventure game released on PC and Nintendo Switch on April 28, following Moomin's warm winter adventure after waking up from hibernation.",
+        "releases.2.dev": "Developer confirmation required",
+        "releases.3.game": "Shadowverse: Worlds Beyond",
+        "releases.3.note": "The new card pack 'God-Slaying Anathema' launches on April 28, introducing new card abilities and strategic shifts.",
+        "releases.3.dev": "Cygames",
+        "releases.4.game": "Saien Musou",
+        "releases.4.note": "An action game officially released on April 28, offering the unique fun of harvesting large quantities of vegetables at once using various weapons.",
+        "releases.4.dev": "Developer confirmation required",
+        "releases.5.game": "Luckrot",
+        "releases.5.note": "A roguelike shooting game officially released on April 28, featuring thrilling combat set in a unique pixel graphic world.",
+        "releases.5.dev": "Developer confirmation required",
+        "events.0.name": "SHIBUYA SCRAMBLE STORIES New Information Announcement Event",
+        "events.0.note": "Reveal of new information and the main cast for General Director Jiro Ishii's new live-action adventure title.",
+        "events.0.venue": "On-site in Shibuya, Japan and official YouTube live stream",
+        "events.1.name": "Gasan Mario Outlet 'Sega Store' Pop-up and Mini Museum",
+        "events.1.note": "Opening of Korea's first official Sega pop-up store and a museum showcasing historical hardware.",
+        "events.1.venue": "5th Floor, Building 1, Mario Outlet, Gasan-dong, Seoul"
+      },
+      "briefing": {
+        "items.0.title": "Shift Up's 'NIKKE' reaches #1 in sales in Korea and Japan with 3.5th-anniversary update",
+        "items.0.source": "GameMeca",
+        "items.0.time": "April 27",
+        "items.1.title": "South Korea achieves first overall victory at the 2026 Asia Esports Tournament",
+        "items.1.source": "GameMeca",
+        "items.1.time": "April 26",
+        "items.2.title": "Capcom raises annual earnings forecast following the success of 'Resident Evil Requiem'",
+        "items.2.source": "IGN India",
+        "items.2.time": "April 27",
+        "items.3.title": "Official trailer revealed for new 4-player co-op survival game 'Zombie Hamster'",
+        "items.3.source": "IGN India",
+        "items.3.time": "April 27",
+        "items.4.title": "Sega promotes game business cooperation in the ASEAN region with Thailand's C.P. Group",
+        "items.4.source": "4Gamer",
+        "items.4.time": "April 27",
+        "items.5.title": "'#COMPASS' surpasses 20 million downloads and launches Chainsaw Man collaboration",
+        "items.5.source": "4Gamer",
+        "items.5.time": "April 27",
+        "items.6.title": "'Bulletstorm' developer People Can Fly acquires Cooldown Games",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "April 27"
+      },
+      "feedback": {
+        "items.0.game": "AION2",
+        "items.0.period": "Last 30 days",
+        "items.0.keywords.0.text": "Class Mention",
+        "items.0.keywords.1.text": "Dungeon / Raid Discussion",
+        "items.0.keywords.2.text": "DPS Comparison",
+        "items.0.keywords.3.text": "Buff/Nerf Debate",
+        "items.0.keywords.4.text": "Currency",
+        "items.0.comments.0.text": "Gladiators and Rangers are easy to control yet deal powerful damage, which feels unfair.",
+        "items.0.comments.1.text": "The game economy collapsed so quickly and equipment value dropped, making it feel very disheartening.",
+        "items.0.comments.2.text": "Clerics can clear dungeons comfortably and rewards are easy to obtain, which is satisfying."
+      },
+      "drk": {
+        "title": "Expanding IP Life Cycle: The Dominance of Games as Platforms",
+        "intro": "An era has arrived where the expansion of existing IPs wields greater power than the birth of new ones. How do successful games evolve into 'endless platforms' and monopolize market wealth?",
+        "points": "Today's gaming market is focusing on extending the lifespan of existing hits, as seen in the large-scale expansion of 'Diablo IV', the 3.5th-anniversary performance of 'NIKKE', and Capcom's upward revision of earnings. The strategy of moving beyond simple updates to continuously supply new classes, regions, and massive content to retain users has become mainstream. 📈\n\nThis trend is shifting consumers' **game consumption patterns** from one-time purchases to long-term stays. Users feel trust in the stable service operation of proven IPs and open their wallets, forming a solid platform structure that is difficult for new IPs to enter. Shift Up reclaiming the #1 sales spot is a clear demonstration of the explosive profitability of a well-managed live service. 💰\n\nUltimately, success in the modern game industry depends on **'not just finishing a game, but how deeply it penetrates users' daily lives to build a permanent ecosystem.'** Constant content cycles based on strong IP power have become key indicators that determine a company's long-term survival and brand value beyond mere success. 🎯\n\nWhile companies strengthen their existing IPs and accelerate expansion into new markets like Southeast Asia, can creative small-to-medium-scale new titles break through these giant walls and create new cracks? Which do you value more: the expansion of a familiar world or the challenge of an unfamiliar one? 🌏"
+      },
+      "gamescene": {
+        "game": "Conan Exiles",
+        "title": "The overwhelming texture and lighting of Hyboria reborn with Unreal Engine 5",
+        "comment": "We simulated the exquisite rock textures and real-time lighting effects of the Hyborian continent, which will be maximized through the transition to Unreal Engine 5, in an actual in-game rendering style. Please check out the evolved in-game environment of Conan Exiles, where optimization and visual innovation take place simultaneously."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ディアブロ IV: 憎悪の器",
+        "releases.0.note": "4月28日に発売される新規拡張コンテンツで、新クラス「スピリットボーン」やメフィストを追うジャングル地帯「ナハントゥ」が追加されます。",
+        "releases.0.dev": "ブリザード・エンターテイメント",
+        "releases.1.game": "ARC Raiders (アーク・レイダース)",
+        "releases.1.note": "4月28日に大規模アップデート「リヴン・タイド」が適用され、新マップや強力な敵個体「フローティング・コーン」など、過去最大級のコンテンツが追加されます。",
+        "releases.1.dev": "Embark Studios (エンバーク・スタジオ)",
+        "releases.2.game": "ムーミントロール：冬の温もり",
+        "releases.2.note": "4月28日にPCおよびNintendo Switchで正式リリースされたヒーリングアドベンチャーゲームで、冬眠から目覚めたムーミンの温かい冬の冒険を描いています。",
+        "releases.2.dev": "開発元確認中",
+        "releases.3.game": "Shadowverse: Worlds Beyond (シャドウバース・ワールズビヨンド)",
+        "releases.3.note": "4月28日に新カードパック「神殺しのアナテマ」がリリースされ、新しいカード能力と戦略的な変化を披露します。",
+        "releases.3.dev": "Cygames (サイゲームズ)",
+        "releases.4.game": "菜園無双 (Saien Musou)",
+        "releases.4.note": "4月28日に正式リリースされたアクションゲームで、多様な武器を使用して大量の野菜を一斉に収穫する独特な楽しさを提供します。",
+        "releases.4.dev": "開発元確認中",
+        "releases.5.game": "Luckrot (ラックロット)",
+        "releases.5.note": "4月28日に正式リリースされたローグライク・シューティングゲームで、独特なピクセルグラフィックの世界観で繰り広げられる迫力満点の戦闘が特徴です。",
+        "releases.5.dev": "開発元確認中",
+        "events.0.name": "SHIBUYA SCRAMBLE STORIES（シブヤ・スクランブル・ストーリーズ）新情報発表イベント",
+        "events.0.note": "イシイジロウ総監督の実写アドベンチャー新作情報およびメインキャストを公開",
+        "events.0.venue": "日本・渋谷の会場および公式YouTube生配信",
+        "events.1.name": "加山（カサン）マリオアウトレット「セガストア」ポップアップ＆ミニミュージアム",
+        "events.1.note": "韓国初のセガ公式ポップアップストアおよび歴代ハードウェア展示ミュージアムがオープン",
+        "events.1.venue": "ソウル加山洞（カサンドン）マリオアウトレット1館5階"
+      },
+      "briefing": {
+        "items.0.title": "SHIFT UP『勝利の女神：NIKKE』、3.5周年アップデートで韓日売上1位に浮上",
+        "items.0.source": "GameMeca (ゲームメカ)",
+        "items.0.time": "4月27日",
+        "items.1.title": "韓国、2026年アジアeスポーツ大会で初の総合優勝を達成",
+        "items.1.source": "GameMeca (ゲームメカ)",
+        "items.1.time": "4月26日",
+        "items.2.title": "カプコン、『バイオハザード レクイエム』のヒットにより年間業績予想を上方修正",
+        "items.2.source": "IGN India",
+        "items.2.time": "4月27日",
+        "items.3.title": "4人協力生存新作『ゾンビハムスター』、公式トレーラーを公開",
+        "items.3.source": "IGN India",
+        "items.3.time": "4月27日",
+        "items.4.title": "セガ、タイのC.P.グループとASEAN地域のゲーム事業協力推進",
+        "items.4.source": "4Gamer",
+        "items.4.time": "4月27日",
+        "items.5.title": "『#コンパス』2000万DL突破および「チェンソーマン」コラボレーション実施",
+        "items.5.source": "4Gamer",
+        "items.5.time": "4月27日",
+        "items.6.title": "『ビュレットストーム』開発元のPeople Can Fly、Cooldown Gamesを買収",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "4月27日"
+      },
+      "feedback": {
+        "items.0.game": "AION2 (アイオン2)",
+        "items.0.period": "直近30日間",
+        "items.0.keywords.0.text": "クラスへの言及",
+        "items.0.keywords.1.text": "ダンジョン / レイドの議論",
+        "items.0.keywords.2.text": "DPS比較",
+        "items.0.keywords.3.text": "バフ・ナーフ論争",
+        "items.0.keywords.4.text": "ゲーム内通貨",
+        "items.0.comments.0.text": "剣星や弓星は操作も簡単な上、火力まで強力なので公平性に欠けます。",
+        "items.0.comments.1.text": "ゲーム内経済が一瞬で崩壊し、装備の価値が下がってしまったので、とても虚しいです。",
+        "items.0.comments.2.text": "治癒星はインスタンスダンジョンを快適に回ることができ、報酬も良いため満足しています。"
+      },
+      "drk": {
+        "title": "IPのライフサイクル拡張：プラットフォーム化したゲームの支配力",
+        "intro": "新規IPの誕生よりも既存IPの拡張が大きな破壊力を発揮する時代が到来しました。成功したゲームはどのように「終わりのないプラットフォーム」へと進化し、市場の富を独占しているのでしょうか。",
+        "points": "今日のゲーム市場は、『ディアブロ IV』の大規模拡張コンテンツや『NIKKE』の3.5周年記念の実績、そしてカプコンの業績予想の上方修正に見られるように、既存のヒット作の寿命延長に集中しています。単なるアップデートを超え、新クラス、地域、そして大規模コンテンツを継続的に提供することでユーザーを維持する戦略が主流となっています。📈\n\nこのような流れは、消費者の**ゲーム消費構造**を単発の購入から長期滞在型へと変化させています。ユーザーは検証済みのIPによる安定したサービス運営に信頼を感じて財布を開き、これが新規IPの参入を阻む強固なプラットフォーム構造を形成します。SHIFT UPの売上1位奪還は、適切に管理されたライブサービスが持つ爆発的な収益性を如実に証明する事例です。💰\n\n結局、現代のゲーム産業の勝敗は、**「ゲームを完成させることではなく、ユーザーの日常にいかに深く浸透し、永続的なエコシステムを構築するか」**にかかっています。強力なIPパワーを基盤とした絶え間ないコンテンツの循環は、単なるヒットを超えて企業の長期的生存とブランド価値を決定づける核心的な指標となりました。🎯\n\n企業が既存IPの基盤を固めつつ、東南アジアなどの新市場開拓に拍車をかける中、果たして独創的な中小規模の新作がこの巨大な城壁を突き破り、新たな亀裂を生むことができるのでしょうか。皆さんは、馴染みのある世界の拡張と、見知らぬ世界への挑戦、どちらに大きな価値を感じますか？🌏"
+      },
+      "gamescene": {
+        "game": "Conan Exiles (コナン エグザイル)",
+        "title": "Unreal Engine 5で生まれ変わったハイボリアの圧倒的な質感と光源",
+        "comment": "Unreal Engine 5への移行を通じて最大化される、ハイボリア大陸の精巧な岩石の質感やリアルタイム光源効果を、実際のインゲームレンダリングスタイルでシミュレーションしました。最適化とビジュアル革新が同時に実現された「Conan Exiles」の進化したゲーム内環境をぜひご確認ください。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "게임은 이제 시작일 뿐! 플랫폼으로 진화한 IP의 무서운 지배력 🎮",
+    "en": "Beyond the Screen: The Unstoppable Rise of the Game-Platform 🎮",
+    "ja": "ただのゲームで終わらない！？プラットフォームへと進化したIPの衝撃 🎮"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ]
+}

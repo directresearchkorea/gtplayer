@@ -1,0 +1,184 @@
+{
+  "num": "017",
+  "date": "2026-03-26",
+  "status": "published",
+  "schedule": {
+    "date": "",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "game": "새 게임",
+          "dev": "개발사",
+          "date": "날짜",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#8b5cf6",
+          "note": ""
+        }
+      ],
+      "events": []
+    },
+    "briefing": {
+      "enabled": true,
+      "items": []
+    },
+    "feedback": {
+      "enabled": true,
+      "game": "AION2",
+      "period": "최근 30일",
+      "count": "1,608",
+      "sources": "커뮤니티",
+      "score": "2.8",
+      "pos": 4,
+      "neu": 80,
+      "neg": 17,
+      "keywords": [
+        {
+          "text": "Class Mention",
+          "positive": true
+        },
+        {
+          "text": "Dungeon / Raid Discussion",
+          "positive": true
+        },
+        {
+          "text": "Build Meta",
+          "positive": true
+        },
+        {
+          "text": "DPS Comparison",
+          "positive": true
+        },
+        {
+          "text": "Buff/Nerf Debate",
+          "positive": true
+        }
+      ],
+      "comments": [
+        {
+          "text": "선발대가 공유한 직업별 PVE 순위 정보가 정말 유용해요.",
+          "positive": true
+        },
+        {
+          "text": "신규 던전의 디버프가 너무 심하고 힐러 세팅도 제각각이에요.",
+          "positive": false
+        },
+        {
+          "text": "운영진의 밸런스 패치 능력이 낮아서 게임 생태계가 걱정돼요.",
+          "positive": false
+        }
+      ]
+    },
+    "drk": {
+      "enabled": true,
+      "title": "성장은 끝났다: 'K-게임'의 영광을 지탱하던 낡은 골조의 붕괴",
+      "intro": "최근 엔씨소프트를 필두로 한 국내 대형 게임사들의 전례 없는 강도 높은 구조조정과 분사 소식은 업계에 큰 충격을 주고 있습니다. 이는 단순한 경영 효율화를 넘어, 수년간 국내 게임 산업을 지탱해온 '성공 방정식'이 더 이상 유효하지 않음을 방증하는 뼈아픈 자백과도 같습니다.",
+      "points": "그 이면에는 모바일 MMORPG에 편중된 기형적인 수익 구조와 비대해진 조직이 초래한 '혁신의 실종'이 자리 잡고 있습니다. 과거의 영광에 안주하며 고착화된 비즈니스 모델은 급변하는 글로벌 유저들의 눈높이를 따라잡지 못했고, 그 결과는 시장의 냉혹한 외면과 기업 가치의 하락이라는 성적표로 돌아왔습니다.\n\n결국 이번 사태의 본질은 단순한 인력 감축이 아니라 **'체질 개선'을 통한 근본적인 생존 전략의 재수립**에 있습니다. 이제는 막대한 자본 투입으로 찍어내는 공장식 개발이 아닌, **글로벌 스탠다드에 부합하는 독창적인 IP와 멀티 플랫폼으로의 과감한 전환만이 유일한 탈출구**가 될 것입니다. 과거의 성공 경험이 오히려 독이 된 지금, 한국 게임 업계는 가장 고통스러운 방식으로 새로운 시대를 준비하고 있습니다.\n\n비대해진 몸집을 깎아낸 자리에 무엇을 채울 것인가가 앞으로의 10년을 결정할 것입니다. 낡은 껍데기를 벗어던진 한국 게임 산업이 과연 '글로벌 경쟁력'이라는 새로운 살을 채워 넣을 수 있을지, 아니면 이대로 성장의 한계에 부딪혀 쇠락할 것인지 우리는 냉정하게 지켜보아야 합니다. 여러분은 이 처절한 변화가 진정한 혁신의 시작이라고 보십니까?"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": true,
+      "title": "Escape By Spoon: Official Reveal Trailer",
+      "channel": "IGN",
+      "videoId": "33JGseM5wn8",
+      "url": "https://www.youtube.com/watch?v=33JGseM5wn8",
+      "thumbnail": "https://i.ytimg.com/vi/33JGseM5wn8/hqdefault.jpg",
+      "comment": "드디어 신작 'Escape By Spoon'의 공식 트레일러가 공개되었습니다! 숟가락 하나로 탈옥을 시도하는 기발하고 유머러스한 감각의 퍼즐 어드벤처입니다. 기상천외한 탈출 과정이 벌써부터 기대되네요! 🥄🏃",
+      "search_query": "&quot;reveal trailer&quot; official game"
+    },
+    "epic": {
+      "enabled": true,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "fanmade": {
+      "enabled": false,
+      "items": []
+    },
+    "chart": {
+      "enabled": true,
+      "pc": [
+        {
+          "game": "Counter-Strike 2",
+          "change": "-"
+        },
+        {
+          "game": "Dota 2",
+          "change": "-"
+        },
+        {
+          "game": "Crimson Desert",
+          "change": "-"
+        },
+        {
+          "game": "Slay the Spire 2",
+          "change": "-"
+        },
+        {
+          "game": "FiveM",
+          "change": "-"
+        }
+      ],
+      "console": [],
+      "mobile": [
+        {
+          "game": "무한의 계단 : k리그 콜라보",
+          "change": "-"
+        },
+        {
+          "game": "액션",
+          "change": "-"
+        },
+        {
+          "game": "플랫폼 게임",
+          "change": "-"
+        }
+      ]
+    },
+    "poll": {
+      "enabled": false,
+      "question": "",
+      "options": []
+    }
+  },
+  "translations": {
+    "en": {},
+    "ja": {
+      "epic": {
+        "title": ""
+      }
+    }
+  }
+}

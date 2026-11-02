@@ -1,0 +1,441 @@
+{
+  "num": "111",
+  "date": "2026-08-26",
+  "status": "published",
+  "schedule": {
+    "date": "2026-08-26",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "제우스: 오만의 신",
+          "dev": "컴투스",
+          "date": "8월 26일(수)",
+          "platforms": [
+            "iOS",
+            "Android"
+          ],
+          "color": "#10b981",
+          "note": "8월 26일 정식 출시되는 모바일 신작으로, 그리스 신화를 배경으로 한 신화 판타지 RPG입니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1779566",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "브리가딘 어비스",
+          "dev": "해피넷",
+          "date": "8월 26일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 26일 출시되는 정통 판타지 전략 시뮬레이션 게임으로, 부대 육성과 영토 쟁탈전의 재미를 선사합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3211430/BRIGANDINE_ABYSS/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "update",
+          "game": "나 혼자만 레벨업:어라이즈",
+          "dev": "넷마블네오",
+          "date": "8월 27일(목)",
+          "platforms": [
+            "PC",
+            "iOS",
+            "Android"
+          ],
+          "color": "#3b82f6",
+          "note": "8월 27일 신규 이격 헌터 '이주희'와 신규 수속성 무기 '영도 설풍'이 추가되는 대규모 콘텐츠 업데이트가 진행됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319905",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "메탈기어 솔리드: 마스터 컬렉션 Vol.2",
+          "dev": "코나미",
+          "date": "8월 27일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 27일 정식 출시되는 명작 잠입 액션 시리즈의 두 번째 합본 컬렉션입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3859630/METAL_GEAR_SOLID_MASTER_COLLECTION_Vol2/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "레조넌스: 어 플래그 테일 레거시",
+          "dev": "아소보 스튜디오",
+          "date": "8월 27일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 27일 출시되는 플래그 테일 세계관 기반의 신작 내러티브 어드벤처 게임입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2713000/Resonance_A_Plague_Tale_Legacy/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "스타워즈 제로 컴퍼니",
+          "dev": "비트 리액터 / 리스폰 엔터테인먼트",
+          "date": "8월 28일(금)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "XSX|S"
+          ],
+          "color": "#10b981",
+          "note": "8월 28일 출시되는 신작 턴제 전술 게임으로, 엑스컴 제작진이 참여해 클론 전쟁 시기의 전술 분대 전투를 그립니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1779525",
+          "source_name": "게임메카"
+        }
+      ],
+      "events": [
+        {
+          "name": "2026 LCK 플레이-인",
+          "note": "2026 LCK 정규 시즌 종료 후 플레이오프 진출 팀을 가리는 플레이-인 일정 시작",
+          "venue": "온라인 / 롤파크 LCK 아레나",
+          "date": "2026-08-26 ~",
+          "tag": "e스포츠",
+          "website": "https://www.gamemeca.com/view.php?gid=1779552"
+        },
+        {
+          "name": "게임문화축제 GXG 2026",
+          "note": "판교역 광장 일대에서 개최되는 게임문화축제, 다이나믹 듀오 축하 무대 등 진행",
+          "venue": "판교역 광장 일대",
+          "date": "2026-09-11 ~ 09-12",
+          "tag": "오프라인 행사",
+          "website": "https://www.gamemeca.com/view.php?gid=1779586"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "크래프톤, 게임스컴 2026서 글로벌 겨냥 신작 5종 공개",
+          "source": "인벤",
+          "time": "8월 26일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319922"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "엔씨, 서바이벌 FPS 신작 '라이크 오어 다이' 최초 공개",
+          "source": "인벤",
+          "time": "8월 26일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319921"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'파이널 판타지7 리벨레이션', 신규 전투 트레일러 공개",
+          "source": "IGN India",
+          "time": "8월 26일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/final-fantasy-vii-remake-part-3/270041/final-fantasy-7-revelation-gets-new-trailer-at-gamescom-2026-showing-off-submarine-combat-weapons-an"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'히어로즈 오브 마이트 앤 매직 3' 정식 리메이크 전격 발표",
+          "source": "IGN India",
+          "time": "8월 26일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/270017/heroes-of-might-and-magic-iii-remake-official-reveal-trailer-gamescom-2026"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "세가, '크레이지 택시: 월드 투어' 멀티플레이 영상 공개",
+          "source": "4Gamer",
+          "time": "8월 26일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/014/G101452/20260826026/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "오픈월드 RPG '무한대', 2027년 1월 15일 글로벌 출시",
+          "source": "電撃オンライン",
+          "time": "8월 26일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202608/85599"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "뉴주 \"2026년 글로벌 게임 시장, 2,139억 달러 전망\"",
+          "source": "GamesIndustry.biz",
+          "time": "8월 26일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/newzoo-global-games-market-to-generate-2139bn-in-2026-up-61-yoy"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "레거시 IP의 부활과 안전자산 중심의 게임 소비 구조",
+      "intro": "전설적인 고전 명작들의 연이은 귀환과 대형 신작의 발표는 우연의 일치일까요? \n불확실성의 시대, 글로벌 게임 산업이 왜 다시 '검증된 유산'에 베팅하는지 살펴봅니다.",
+      "points": "오늘 전해진 '히어로즈 오브 마이트 앤 매직 3'의 공식 리메이크와 '메탈기어 솔리드', '크레이지 택시'의 복귀 소식은 글로벌 게임사들의 신작 공개 흐름과 궤를 같이합니다. 🎮\n\n대규모 개발비와 흥행 리스크가 치솟은 환경에서 게이머들의 **소비자 심리**는 불확실한 신작보다 완성도가 검증된 친숙한 브랜드로 이동하고 있습니다. 플랫폼 구조가 PC·콘솔 중심으로 다변화되면서 두터운 팬덤을 보유한 클래식 IP는 가장 확실한 안전자산 역할을 수행합니다. 💡\n\n결국 승부처는 단순한 그래픽 개선을 넘어선 플레이 감각의 현대화입니다. **과거의 강력한 내러티브 유산 위에 오늘날의 유저 경험과 인터페이스를 완벽히 결합하는 프로젝트만이 세대를 초월한 성공을 거둘 수 있습니다.** 🔍\n\n추억을 현대적으로 재해석한 레거시 타이틀과 과감한 글로벌 신규 IP 중, 향후 2,100억 달러 시장의 성장을 견인할 주역은 어느 쪽이 될까요? 🕹️"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": true,
+      "title": "Resonance: A Plague Tale Legacy - Launch Trailer",
+      "channel": "Focus Entertainment",
+      "videoId": "ULLFxFm6vvk",
+      "url": "https://www.youtube.com/watch?v=ULLFxFm6vvk",
+      "thumbnail": "https://i.ytimg.com/vi/ULLFxFm6vvk/hqdefault.jpg",
+      "comment": "론칭 트레일러가 공개되며 화제를 모은 <레조넌스: 어 플래그 테일 레거시>의 강렬한 트랙을 소개해요! 🎻✨ 묵직한 선율이 빚어내는 특유의 비장미가 압도적이죠. 지친 수요일 밤, 웅장하고 짙은 여운을 담은 이 음악으로 하루를 마무리해 보세요! 🎧🌌",
+      "search_query": "Resonance A Plague Tale Legacy Official Soundtrack",
+      "ai_game_name": "레조넌스: 어 플래그 테일 레거시",
+      "ai_reason": "중세의 비극과 애절함을 담아낸 독보적인 첼로 선율과 다크 오케스트라 사운드로, 이전 추천작의 활기찬 분위기와는 상반된 묵직하고 웅장한 감동을 선사합니다."
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Zeus: God of Pride",
+        "releases.0.note": "A new mobile myth fantasy RPG set in Greek mythology, officially launching on August 26.",
+        "releases.0.dev": "Com2uS",
+        "releases.1.game": "Brigandine Abyss",
+        "releases.1.note": "An authentic fantasy strategy simulation game releasing on August 26, delivering the thrills of troop progression and territorial conquest.",
+        "releases.1.dev": "Happinet",
+        "releases.2.game": "Solo Leveling:ARISE",
+        "releases.2.note": "A major content update on August 27 introduces the new variant Hunter 'Lee Joohee' and the new Water-attribute weapon 'Frost Gale Blade'.",
+        "releases.2.dev": "Netmarble Neo",
+        "releases.3.game": "Metal Gear Solid: Master Collection Vol.2",
+        "releases.3.note": "The second bundled collection of the legendary stealth-action series, officially releasing on August 27.",
+        "releases.3.dev": "Konami",
+        "releases.4.game": "Resonance: A Plague Tale Legacy",
+        "releases.4.note": "A new narrative adventure game based on the A Plague Tale universe, releasing on August 27.",
+        "releases.4.dev": "Asobo Studio",
+        "releases.5.game": "Star Wars Zero Company",
+        "releases.5.note": "A new turn-based tactical game releasing on August 28, featuring XCOM veterans and depicting tactical squad combat during the Clone Wars.",
+        "releases.5.dev": "Bit Reactor / Respawn Entertainment",
+        "events.0.name": "2026 LCK Play-In",
+        "events.0.note": "The Play-In stage kicks off to decide playoff qualifying teams following the conclusion of the 2026 LCK Regular Season.",
+        "events.0.venue": "Online / LoL PARK LCK Arena",
+        "events.1.name": "Game Cultural Festival GXG 2026",
+        "events.1.note": "A game culture festival held around Pangyo Station Plaza, featuring celebratory performances by Dynamic Duo and more.",
+        "events.1.venue": "Pangyo Station Plaza Area"
+      },
+      "briefing": {
+        "items.0.title": "Krafton Unveils 5 New Globally Targeted Titles at Gamescom 2026",
+        "items.0.source": "Inven",
+        "items.0.time": "August 26",
+        "items.1.title": "NCSOFT Unveils New Survival FPS 'Like or Die' for the First Time",
+        "items.1.source": "Inven",
+        "items.1.time": "August 26",
+        "items.2.title": "'Final Fantasy VII Revelation' Reveals New Combat Trailer",
+        "items.2.source": "IGN India",
+        "items.2.time": "August 26",
+        "items.3.title": "Official Remake of 'Heroes of Might and Magic III' Announced",
+        "items.3.source": "IGN India",
+        "items.3.time": "August 26",
+        "items.4.title": "Sega Releases Multiplayer Gameplay Video for 'Crazy Taxi: World Tour'",
+        "items.4.source": "4Gamer",
+        "items.4.time": "August 26",
+        "items.5.title": "Open-World RPG 'Infinity' Set for Global Release on January 15, 2027",
+        "items.5.source": "Dengeki Online",
+        "items.5.time": "August 26",
+        "items.6.title": "Newzoo Forecasts \"Global Games Market to Reach $213.9 Billion in 2026\"",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "August 26"
+      },
+      "drk": {
+        "title": "The Revival of Legacy IPs and Safe-Haven Centric Gaming Consumption Patterns",
+        "intro": "Is the continuous return of legendary classics and major new announcements a mere coincidence?\nIn an era of uncertainty, we examine why the global gaming industry is once again betting on 'proven legacies.'",
+        "points": "Today's news of the official remake of 'Heroes of Might and Magic III' alongside the return of 'Metal Gear Solid' and 'Crazy Taxi' aligns directly with the current reveal trends across global game publishers. 🎮\n\nIn an environment of soaring development budgets and commercial risks, gamers' **consumer sentiment** is shifting away from uncertain new releases toward familiar brands with proven quality. As platform ecosystems diversify primarily around PC and console, classic IPs backed by dedicated fanbases serve as the most reliable safe-haven assets. 💡\n\nUltimately, the key battleground lies in modernizing the gameplay feel beyond mere graphical upgrades. **Only projects that seamlessly blend today's user experience and interfaces on top of a powerful legacy narrative can achieve cross-generational success.** 🔍\n\nBetween modernized legacy titles tapping into nostalgia and bold new global IPs, which will lead the growth of the upcoming $210 billion market? 🕹️"
+      },
+      "soundtrack": {
+        "title": "Resonance: A Plague Tale Legacy - Launch Trailer",
+        "comment": "Introducing the powerful track from <Resonance: A Plague Tale Legacy>, which garnered significant attention with the release of its launch trailer! 🎻✨ The distinct solemnity woven by its weighty melody is truly overwhelming. On a weary Wednesday night, close out your day with this majestic, deeply resonant soundtrack! 🎧🌌"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ゼウス：傲慢の神",
+        "releases.0.note": "8月26日に正式リリースされるモバイル新作で、ギリシャ神話を舞台にした神話ファンタジーRPGです。",
+        "releases.0.dev": "Com2uS",
+        "releases.1.game": "ブリガンダイン アビス",
+        "releases.1.note": "8月26日に発売される正統派ファンタジー戦略シミュレーションゲームで、部隊育成や領土争奪戦の醍醐味をお届けします。",
+        "releases.1.dev": "ハピネット",
+        "releases.2.game": "俺だけレベルアップな件：ARISE",
+        "releases.2.note": "8月27日に新規異格ハンター「イ・ジュヒ」と新規水属性武器「影刀・雪風」が追加される大規模コンテンツアップデートが実施されます。",
+        "releases.2.dev": "Netmarble Neo",
+        "releases.3.game": "METAL GEAR SOLID: MASTER COLLECTION Vol.2",
+        "releases.3.note": "8月27日に正式発売される名作ステルスアクションシリーズのコレクション第2弾です。",
+        "releases.3.dev": "KONAMI",
+        "releases.4.game": "レゾナンス：プレイグ テイル レガシー",
+        "releases.4.note": "8月27日に発売される『プレイグ テイル』の世界観をベースにした新作ナラティブアドベンチャーゲームです。",
+        "releases.4.dev": "Asobo Studio",
+        "releases.5.game": "スター・ウォーズ ゼロ・カンパニー",
+        "releases.5.note": "8月28日に発売される新作ターン制タクティクスゲームで、『XCOM』の開発陣が参加し、クローン戦争期の戦術分隊戦闘を描きます。",
+        "releases.5.dev": "Bit Reactor / Respawn Entertainment",
+        "events.0.name": "2026 LCK プレイイン",
+        "events.0.note": "2026 LCKレギュラーシーズン終了後、プレイオフ進出チームを決めるプレイイン日程が開幕",
+        "events.0.venue": "オンライン / LoL PARK LCKアリーナ",
+        "events.1.name": "ゲーム文化フェスティバル GXG 2026",
+        "events.1.note": "板橋駅前広場一帯で開催されるゲーム文化フェスティバル。Dynamic Duoの祝賀ステージなどを実施",
+        "events.1.venue": "板橋駅前広場一帯"
+      },
+      "briefing": {
+        "items.0.title": "KRAFTON、gamescom 2026でグローバル向け新作5タイトルを公開",
+        "items.0.source": "Inven",
+        "items.0.time": "8月26日",
+        "items.1.title": "NC、サバイバルFPS新作『Like or Die』を初公開",
+        "items.1.source": "Inven",
+        "items.1.time": "8月26日",
+        "items.2.title": "『ファイナルファンタジーVII リベレーション』、新規バトルトレーラーを公開",
+        "items.2.source": "IGN India",
+        "items.2.time": "8月26日",
+        "items.3.title": "『Heroes of Might and Magic III』の正式リメイクを電撃発表",
+        "items.3.source": "IGN India",
+        "items.3.time": "8月26日",
+        "items.4.title": "セガ、『クレイジータクシー：ワールドツアー』のマルチプレイ映像を公開",
+        "items.4.source": "4Gamer",
+        "items.4.time": "8月26日",
+        "items.5.title": "オープンワールドRPG『無限大』、2027年1月15日に全世界リリース決定",
+        "items.5.source": "電撃オンライン",
+        "items.5.time": "8月26日",
+        "items.6.title": "Newzoo「2026年の世界ゲーム市場規模は2,139億ドルに達する見込み」",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "8月26日"
+      },
+      "drk": {
+        "title": "レガシーIPの復活と安全資産を中心としたゲーム消費構造",
+        "intro": "伝説的なクラシック名作の相次ぐ帰還と大型新作の発表は、単なる偶然の一致でしょうか？\n不確実性の時代において、グローバルゲーム産業がなぜ再び「検証済みの遺産」に賭けるのかを探ります。",
+        "points": "本日報じられた『Heroes of Might and Magic III』の公式リメイクや『メタルギア ソリッド』、『クレイジータクシー』の復帰情報は、世界的なゲーム企業による新作発表の流れと軌を一にしています。 🎮\n\n大規模な開発費とヒットに伴うリスクが高騰する環境の中で、ゲーマーの**消費者心理**は不確実な新作よりも完成度が実証された馴染みのあるブランドへとシフトしています。プラットフォーム構造がPC・コンソールを中心に多様化する中、厚いファン層を持つクラシックIPは最も確実な安全資産としての役割を果たしています。 💡\n\n結局のところ勝負の分かれ目は、単なるグラフィック向上にとどまらないプレイフィールの現代化です。**過去の強力な物語遺産の上に、現代のユーザー体験とインターフェースを完璧に融合させたプロジェクトだけが、世代を超えた成功を収めることができます。** 🔍\n\n思い出を現代的に再解釈したレガシータイトルと、果敢なグローバル新規IPのうち、今後の2,100億ドル市場の成長を牽引する主役はどちらになるでしょうか？ 🕹️"
+      },
+      "soundtrack": {
+        "title": "Resonance: A Plague Tale Legacy - Launch Trailer",
+        "comment": "ローンチトレーラーが公開され話題を集めている『レゾナンス：プレイグ テイル レガシー』の力強いトラックをご紹介します！ 🎻✨ 重厚な旋律が織りなす特有の悲壮感に圧倒されます。疲れた水曜日の夜、壮大で深い余韻に浸れるこの音楽で一日を締めくくってみてはいかがでしょうか！ 🎧🌌"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "요즘 게이머들이 고전 IP에만 지갑을 여는 이유 💸 (feat. 소름 돋는 '플래그 테일' 추천 OST 🎻)",
+    "en": "Why Gamers Are Only Betting on Legacy IPs 🎮 (feat. Chills-Inducing 'A Plague Tale' OST 🎻)",
+    "ja": "ゲーマーが「過去の名作」にしか課金しなくなったワケ 💸（feat. 鳥肌モノの『プレイグ テイル』新OST 🎻）"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "요즘 신작보다 고전 명작에 지갑이 먼저 열리지 않나요? 💸\n전설의 '히마매 3' 리메이크 소식부터 알짜 뉴스 싹 정리했어요! 🎮\n\nhttps://www.gtplayer.net/edition-111/\n#히마매3 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-08-26T07:01:31.882352"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "8월 26일 오늘의 게임 소식 🎮\n\n📰 [뉴스] 크래프톤 신작 5종 발표부터 HOMM3 리메이크까지 뜨거운 게임스컴 이슈\n📅 [출시] 스타워즈 제로 컴퍼니, 메탈기어 솔리드 컬렉션 등 이번 주 주목할 신작\n✍️ [인사이트] 게이머들이 검증된 고전 IP에만 지갑을 여는 이유와 게임계 트렌드\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#gtplayer #게임뉴스 #신작게임 #게임추천 #게임정보 #게임스타그램 #겜스타그램 #게임스컴 #크래프톤 #엔씨소프트 #파이널판타지 #히어로즈오브마이트앤매직 #메탈기어솔리드 #플래그테일 #스타워즈 #스팀게임 #콘솔게임 #PC게임 #모바일게임 #게임덕후",
+          "image_paths": [
+            "web\\instagram\\edition_111\\card_cover.png",
+            "web\\instagram\\edition_111\\card_news.png",
+            "web\\instagram\\edition_111\\card_calendar.png",
+            "web\\instagram\\edition_111\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3971798631401604572_39332818166",
+            "url": "https://www.instagram.com/p/Dceqc_QE0Xc/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-08-26T07:02:04.074784"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Why Gamers Are Only Betting on Legacy IPs 🎮 (feat. Chills-Inducing 'A Plague Tale' OST 🎻)\n\nFrom surprise remakes of timeless classics to massive global reveals, legendary franchises are dominating the spotlight once again.\nHere is your look at this week's biggest game drops and why trusted worlds are capturing everyone's attention.\n\nhttps://www.gtplayer.net/edition-111-en/",
+        "error": null
+      },
+      "updated_at": "2026-08-26T07:02:41.501558"
+    }
+  }
+}

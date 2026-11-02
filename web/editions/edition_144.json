@@ -1,0 +1,442 @@
+{
+  "num": "144",
+  "date": "2026-10-12",
+  "status": "published",
+  "schedule": {
+    "date": "2026-10-12",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "위치 캐빈 클린업",
+          "dev": "인디 개발사",
+          "date": "10월 12일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 12일 정식 출시되는 힐링 청소 시뮬레이션 게임으로, 마녀의 신비로운 오두막을 정리하고 마법 도구를 복원하는 콘텐츠를 선보입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4991240/Witch_Cabin_Cleanup/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "플래닛 주 2",
+          "dev": "프론티어 디벨롭먼츠",
+          "date": "10월 13일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 13일 정식 출시되는 동물원 경영 시뮬레이션 후속작으로, 한층 진화한 그래픽과 심도 있는 생태계 관리 시스템을 제공합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3219030/Planet_Zoo_2/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "토탈 워: 쇼군 2 - 컴플리트 에디션",
+          "dev": "크리에이티브 어셈블리",
+          "date": "10월 13일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 13일 출시되는 대전략 시뮬레이션 완결판으로, 본편과 모든 확장팩 및 추가 DLC 콘텐츠를 하나로 구성했습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3846830/Total_War_SHOGUN_2__Complete_Edition/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "명일방주: 엔드필드",
+          "dev": "하이퍼그리프",
+          "date": "10월 14일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 14일 정식 출시되는 3D 실시간 전략 RPG로, 미개척 행성 탈로스II를 탐색하며 기지를 개척하는 대규모 모험을 다룹니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4732690/Arknights_Endfield/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "캐슬바니아: 벨몬트의 저주",
+          "dev": "코나미",
+          "date": "10월 14일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 14일 정식 출시되는 횡스크롤 액션 어드벤처 신작으로, 벨몬트 가문의 숙명을 그린 서사와 클래식 고딕 액션을 선보입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4231820/Castlevania_Belmonts_Curse/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "워해머 40,000: 볼트건 2",
+          "dev": "오로체 디지털",
+          "date": "10월 14일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 14일 정식 출시되는 레트로 스타일 부머슈터 후속작으로, 혼돈의 카오스 무리에 맞서 펼치는 스페이스 마린의 호쾌한 전투를 그립니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3115160/Warhammer_40000_Boltgun_2/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "소녀전선2 글로벌 2주년 기념 음악회 '설하 인형 야상곡'",
+          "note": "소녀전선2 글로벌 서비스 2주년을 기념하여 열리는 오케스트라 콘서트",
+          "venue": "경희대학교 평화의 전당",
+          "date": "2026-12-20",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=321937"
+        },
+        {
+          "name": "인도 게임 개발자 컨퍼런스 2026",
+          "note": "",
+          "venue": "인도 (장소 미정)",
+          "date": "2026-11-01~2026-11-30",
+          "tag": "오프라인 행사",
+          "d_day_str": "D-20",
+          "website": "https://www.igdc.in"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "에이스 컴뱃 8, 최단 기간 100만 장 판매 돌파",
+          "source": "인벤",
+          "time": "10월 12일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=321939"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "밸브 '데드록', 테스트 단계서 동접 26만 돌파",
+          "source": "인벤",
+          "time": "10월 11일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=321941"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'드퀘' 호리이 유지, AI 활용 단편 추리작 무료 공개",
+          "source": "Famitsu",
+          "time": "10월 11일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202610/90698"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'블레이블루 CF', 롤백 탑재한 PS5판 제작 결정",
+          "source": "Famitsu",
+          "time": "10월 11일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202610/90672"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "넷이즈, 신작 FPS 'ECC: 레드라인' 전격 공개",
+          "source": "IGN India",
+          "time": "10월 11일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/call-of-duty-warzone/274141/new-netease-fps-sparks-warzone-rip-off-claims-but-some-call-of-duty-fans-are-happy-to-see-it"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'아크 레이더스', 2.0 패치로 7개월 만에 동접 반등",
+          "source": "IGN India",
+          "time": "10월 11일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/arc-raiders/274123/arc-raiders-20-update-and-spider-man-grappling-hook-drive-player-count-to-reach-7-month-high"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'스쿼드론 42', 신규 영상 공개 및 스팀 페이지 오픈",
+          "source": "IGN",
+          "time": "10월 11일",
+          "country": "GLOBAL",
+          "article_url": "https://www.ign.com/articles/star-citizen-single-player-spinoff-squadron-42-reemerges-with-flashy-new-trailer-steam-wishlists-and-cast-confirmation"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "비밀주의와 FOMO가 설계한 거대한 열풍, 밸브 '데드록'의 실험",
+      "intro": "정식 발표도 없는 비공개 테스트 게임이 어떻게 26만 명을 끌어모았을까요? 🕹️\n마케팅의 교과서를 완전히 뒤흔드는 기현상이 지금 스팀에서 벌어지고 있습니다.",
+      "points": "밸브의 신작 '데드록'이 비공개 테스트 단계임에도 동시 접속자 수 26만 명을 돌파했습니다. 📈 대규모 쇼케이스나 티저 영상 대신, 유저 간 초대로만 접근 가능한 폐쇄형 테스트 방식을 취했음에도 차트를 단숨에 장악한 것입니다.\n\n이 현상은 현대 게이머의 **소비자 심리**를 정확히 자극했습니다. 화려한 예고편에 피로감을 느낀 소비자들은 검증되지 않은 정보보다 '소수만 먼저 경험한다'는 희소성에 강하게 반응했습니다. 거대 자본이 투입된 전통적인 마케팅보다, 유저 주도형 바이럴과 스팀이라는 강력한 **플랫폼 구조**가 결합할 때 폭발적인 전환율이 발생함을 증명합니다. 💡\n\n결국 게이머들이 진정으로 갈망하는 것은 겉치레가 아닌 **플레이 본연의 재미와 날것 그대로의 경험**입니다. 개발 단계부터 유저와 함께 호흡하며 완성도를 증명하는 게임만이 쏟아지는 신작 공세 속에서 살아남을 수 있습니다. 🔍\n\n완성된 제품을 일방적으로 판매하던 시대는 끝났습니다. 여러분은 완벽하게 포장된 트레일러와 미완성이지만 생생한 빌드 중, 어느 쪽에 먼저 손을 뻗으시겠습니까? 🎮"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": true,
+      "items": [],
+      "title": "Another PR submitted to the meme repository.",
+      "score": 16965,
+      "url": "https://i.redd.it/nyrzt3yr4puh1.png",
+      "preview_img": "https://i.redd.it/nyrzt3yr4puh1.png",
+      "permalink": "https://redd.it/1x2on3f",
+      "subreddit": "pcmasterrace",
+      "author": "DurgeDidNothingWrong",
+      "num_comments": 0,
+      "what_happened": "'밈 저장소에 새 풀 리퀘스트(PR) 올라왔습니다'라는 제목처럼, 스타워즈 드로이드가 쓰러진 플레이스테이션을 내려다보며 '축하합니다, 당신은 오픈소스화되고 있습니다. 저항하지 마세요'라고 말하는 장면으로 최근 PC 진영의 PS 에뮬레이터(shadPS4 등) 급발진 상황을 유쾌하게 풍자했습니다.",
+      "one_liner": "소니가 블러드본 PC판을 안 내주니까 유저들이 아예 직접 코드로 강제 해방해 버리는 기적의 오픈소스 정신! 💻🤖"
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Witch Cabin Cleanup",
+        "releases.0.note": "A cozy cleaning simulation game officially releasing on October 12, featuring gameplay focused on tidying up a witch's mystical cabin and restoring magical tools.",
+        "releases.0.dev": "Indie Developer",
+        "releases.1.game": "Planet Zoo 2",
+        "releases.1.note": "The zoo management simulation sequel officially releasing on October 13, offering enhanced graphics and a deeper ecosystem management system.",
+        "releases.1.dev": "Frontier Developments",
+        "releases.2.game": "Total War: SHOGUN 2 - Complete Edition",
+        "releases.2.note": "The definitive edition of the grand strategy simulation releasing on October 13, bundling the base game along with all expansions and DLC content.",
+        "releases.2.dev": "Creative Assembly",
+        "releases.3.game": "Arknights: Endfield",
+        "releases.3.note": "A 3D real-time strategic RPG officially releasing on October 14, depicting a massive adventure exploring the uncharted planet Talos-II and developing bases.",
+        "releases.3.dev": "Hypergryph",
+        "releases.4.game": "Castlevania: Curse of the Belmont",
+        "releases.4.note": "A new side-scrolling action-adventure game officially releasing on October 14, featuring classic gothic action and a narrative depicting the destiny of the Belmont clan.",
+        "releases.4.dev": "Konami",
+        "releases.5.game": "Warhammer 40,000: Boltgun 2",
+        "releases.5.note": "A retro-style boomer shooter sequel officially releasing on October 14, depicting exhilarating Space Marine combat against the hordes of Chaos.",
+        "releases.5.dev": "Auroch Digital",
+        "events.0.name": "Girls' Frontline 2 Global 2nd Anniversary Concert 'Nocturne of Dolls Under the Snow'",
+        "events.0.note": "An orchestral concert commemorating the 2nd anniversary of the global service of Girls' Frontline 2.",
+        "events.0.venue": "Grand Peace Palace, Kyung Hee University",
+        "events.1.name": "India Game Developer Conference 2026",
+        "events.1.venue": "India (Venue TBD)"
+      },
+      "briefing": {
+        "items.0.title": "Ace Combat 8 Surpasses 1 Million Copies Sold in Record Time",
+        "items.0.source": "Inven",
+        "items.0.time": "October 12",
+        "items.1.title": "Valve's 'Deadlock' Surpasses 260,000 Concurrent Players During Playtest",
+        "items.1.source": "Inven",
+        "items.1.time": "October 11",
+        "items.2.title": "'Dragon Quest' Creator Yuji Horii Releases Free AI-Powered Short Mystery Game",
+        "items.2.source": "Famitsu",
+        "items.2.time": "October 11",
+        "items.3.title": "'BlazBlue: Central Fiction' PS5 Version with Rollback Netcode Confirmed",
+        "items.3.source": "Famitsu",
+        "items.3.time": "October 11",
+        "items.4.title": "NetEase Reveals New FPS 'ECC: Redline'",
+        "items.4.source": "IGN India",
+        "items.4.time": "October 11",
+        "items.5.title": "'ARC Raiders' Sees Concurrent Players Rebound for the First Time in 7 Months with Patch 2.0",
+        "items.5.source": "IGN India",
+        "items.5.time": "October 11",
+        "items.6.title": "'Squadron 42' Reveals New Video and Launches Steam Page",
+        "items.6.source": "IGN",
+        "items.6.time": "October 11"
+      },
+      "drk": {
+        "title": "A Massive Craze Engineered by Secrecy and FOMO: Valve's 'Deadlock' Experiment",
+        "intro": "How did a closed-test game without an official announcement attract 260,000 players? 🕹️\nA bizarre phenomenon completely upending marketing textbooks is taking place on Steam right now.",
+        "points": "Valve's new title 'Deadlock' has surpassed 260,000 concurrent players even while in a closed test phase. 📈 Without massive showcases or teaser trailers, it swept the charts relying purely on an invite-only playtest.\n\nThis phenomenon tapped directly into modern gamers' **consumer psychology**. Weary of flashy trailers, consumers responded far more strongly to the scarcity of 'being among the few to experience it first' rather than unverified marketing hype. It proves that when user-driven virality combines with Steam's powerful **platform architecture**, it generates explosive conversion rates far beyond capital-heavy traditional marketing. 💡\n\nUltimately, what gamers truly crave isn't superficial polish, but **the core fun of gameplay and raw, unfiltered experiences**. Only games that engage with players from the development phase and prove their quality will survive the deluge of new releases. 🔍\n\nThe era of unilaterally selling finished products is over. Between a perfectly packaged trailer and an unfinished yet vibrant playable build, which one would you reach for first? 🎮"
+      },
+      "meme": {
+        "what_happened": "Referencing the caption 'A new pull request (PR) has been submitted to the meme repo,' the scene depicts a Star Wars droid looking down at a fallen PlayStation and saying, 'Congratulations, you are being open-sourced. Please do not resist,' humorously satirizing the recent rapid surge in PC-side PS emulators (such as shadPS4).",
+        "one_liner": "Since Sony won't release Bloodborne on PC, players are taking matters into their own hands and liberating it with raw code—the miraculous spirit of open source! 💻🤖"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ウィッチ・キャビン・クリーンアップ",
+        "releases.0.note": "10月12日に正式リリースされる癒やし系お掃除シミュレーションゲーム。魔女の神秘的な小屋を片付け、魔法の道具を修復するコンテンツをお届けします。",
+        "releases.0.dev": "インディー開発元",
+        "releases.1.game": "プラネット ズー 2",
+        "releases.1.note": "10月13日に正式リリースされる動物園経営シミュレーションの続編。一段と進化したグラフィックと、奥深い生態系管理システムを提供します。",
+        "releases.1.dev": "フロンティア・デベロップメンツ",
+        "releases.2.game": "トータルウォー: ショーグン2 - コンプリート・エディション",
+        "releases.2.note": "10月13日に発売される大戦略シミュレーションの完全版。ゲーム本編に加え、すべての拡張パックと追加DLCコンテンツを1つに収録しています。",
+        "releases.2.dev": "クリエイティブ・アセンブリ",
+        "releases.3.game": "アークナイツ：エンドフィールド",
+        "releases.3.note": "10月14日に正式リリースされる3Dリアルタイム戦略RPG。未開拓の惑星「タロII」を探索し、拠点を切り開く大規模な冒険を描きます。",
+        "releases.3.dev": "Hypergryph",
+        "releases.4.game": "キャッスルヴァニア：ベルモンドの呪い",
+        "releases.4.note": "10月14日に正式リリースされる横スクロールアクションアドベンチャーの新作。ベルモンド一族の宿命を描いた重厚な物語と、クラシックなゴシックアクションをお届けします。",
+        "releases.4.dev": "コナミ",
+        "releases.5.game": "ウォーハンマー40,000: ボルトガン 2",
+        "releases.5.note": "10月14日に正式リリースされるレトロスタイルのブーマーシューター続編。混沌のケイオス勢力に立ち向かい、スペースマリーンの爽快な戦いを描きます。",
+        "releases.5.dev": "オーロック・デジタル",
+        "events.0.name": "ドールズフロントライン2 グローバル2周年記念音楽会「雪下の人形夜想曲」",
+        "events.0.note": "『ドールズフロントライン2』のグローバルサービス2周年を記念して開催されるオーケストラコンサート",
+        "events.0.venue": "慶煕大学 平和の殿堂",
+        "events.1.name": "インド・ゲーム開発者会議 2026",
+        "events.1.venue": "インド（会場未定）"
+      },
+      "briefing": {
+        "items.0.title": "『エースコンバット8』、最速で販売本数100万本を突破",
+        "items.0.source": "Inven",
+        "items.0.time": "10月12日",
+        "items.1.title": "Valve『Deadlock』、テスト段階で同時接続者数26万人を突破",
+        "items.1.source": "Inven",
+        "items.1.time": "10月11日",
+        "items.2.title": "『ドラクエ』堀井雄二氏、AIを活用した短編推理ゲームを無料公開",
+        "items.2.source": "Famitsu",
+        "items.2.time": "10月11日",
+        "items.3.title": "『ブレイブルー CF』、ロールバック対応のPS5版制作が決定",
+        "items.3.source": "Famitsu",
+        "items.3.time": "10月11日",
+        "items.4.title": "NetEase、新作FPS『ECC: レッドライン』を電撃発表",
+        "items.4.source": "IGN India",
+        "items.4.time": "10月11日",
+        "items.5.title": "『ARC Raiders』、パッチ2.0により7か月ぶりに同接数が反発",
+        "items.5.source": "IGN India",
+        "items.5.time": "10月11日",
+        "items.6.title": "『Squadron 42』、新規映像を公開しSteamページをオープン",
+        "items.6.source": "IGN",
+        "items.6.time": "10月11日"
+      },
+      "drk": {
+        "title": "秘密主義とFOMOが仕掛けた巨大な熱狂、Valve『Deadlock』の実験",
+        "intro": "正式発表すらない非公開テストのゲームが、いかにして26万人ものプレイヤーを惹きつけたのでしょうか？ 🕹️\nマーケティングの常識を根底から覆す奇現象が、今Steamで巻き起こっています。",
+        "points": "Valveの新作『Deadlock』が、非公開テスト段階であるにもかかわらず同時接続者数26万人を突破しました。 📈 大規模なショーケースやティザー映像を公開する代わりに、ユーザー間の招待のみでアクセス可能なクローズドテスト方式を採用したにもかかわらず、瞬く間にチャートを席巻したのです。\n\nこの現象は、現代のゲーマーの**消費者心理**を的確に刺激しました。華美な予告編に食傷気味だった消費者たちは、不確かな情報よりも「限られた一部の者だけが先行体験できる」という希少性に強く反応したのです。これは、莫大な資本を投じた従来のマーケティングよりも、ユーザー主導のバイラルとSteamという強力な**プラットフォーム構造**が結びついたときに、爆発的なコンバージョンが生み出されることを証明しています。 💡\n\n結局のところ、ゲーマーが真に渇望しているのは見せかけではなく、**プレイ本来の面白さと生々しい体験そのもの**です。開発段階からユーザーとともに呼吸し、完成度を証明するゲームだけが、次々と押し寄せる新作攻勢の中で生き残ることができます。 🔍\n\n完成品を一方的に売り込む時代は終わりました。完璧にパッケージングされたトレーラーと、未完成ながらもリアルな手触りのビルド――あなたなら、どちらに真っ先に手を伸ばしますか？ 🎮"
+      },
+      "meme": {
+        "what_happened": "「ミームリポジトリに新しいプルリクエスト（PR）が届きました」というタイトルのように、『スター・ウォーズ』のドロイドが倒れたPlayStationを見下ろしながら「おめでとうございます、あなたはオープンソース化されています。抵抗しないでください」と言い放つシーンを通じて、昨今のPC陣営におけるPSエミュレータ（shadPS4など）の猛烈な進展ぶりをユーモラスに風刺しました。",
+        "one_liner": "ソニーが『ブラッドボーン』のPC版を出してくれないなら、ユーザーが自らコードで強制解放してしまうという奇跡のオープンソース精神！ 💻🤖"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "비밀주의와 FOMO가 만든 괴물 신작, 밸브 '데드록'의 실험 🤫 (feat. 오늘의 밈 🎮)",
+    "en": "How Valve’s secret game 'Deadlock' broke the internet 🤫 (+ Meme of the Day 🎮)",
+    "ja": "Valveの極秘新作『Deadlock』が巻き起こした熱狂の正体 🤫 (注目のゲームミーム付き🎮)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "아직 출시도 안 됐는데 동접 26만 찍은 괴물 신작 보셨나요? 👀\n밸브의 신작 '데드록'이 비밀주의로 제대로 터졌네요! 🔥\n\nhttps://www.gtplayer.net/edition-144/\n#데드록 #밸브 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-10-12T07:01:37.205054"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "10월 12일 오늘의 게임 소식 🎮\n📰 [뉴스] 에이스 컴뱃 8 최단기 100만 장 돌파와 테스트 단계서 동접 26만을 찍은 밸브 '데드록'\n📅 [출시] 명일방주: 엔드필드부터 플래닛 주 2, 워해머 신작까지 주목할 이번 주 PC 신작 라인업\n✍️ [인사이트] 정식 발표도 없는 비공개 게임이 어떻게 26만 명을 모았을까? 비밀주의와 FOMO가 설계한 '데드록'의 실험\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#gtplayer #게임뉴스 #게임추천 #신작게임 #스팀게임 #스팀게임추천 #데드록 #밸브 #에이스컴뱃8 #명일방주엔드필드 #플래닛주2 #게임정보 #PC게임 #게임스타그램 #게이머 #게임덕후 #비디오게임 #인디게임 #콘솔게임 #게임소식",
+          "image_paths": [
+            "web\\instagram\\edition_144\\card_cover.png",
+            "web\\instagram\\edition_144\\card_news.png",
+            "web\\instagram\\edition_144\\card_calendar.png",
+            "web\\instagram\\edition_144\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "4005863192731545108_39332818166",
+            "url": "https://www.instagram.com/p/DeXr1mNk24U/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-10-12T07:02:12.692650"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "How Valve’s secret game 'Deadlock' broke the internet 🤫 (+ Meme of the Day 🎮)\n\nValve secretly drove over 260,000 concurrent players into a closed playtest with zero traditional marketing, proving the sheer power of organic hype.\nFrom record-breaking sales for Ace Combat 8 to exciting new title reveals, here are the biggest industry stories making waves this week.\n\nhttps://www.gtplayer.net/edition-144-en/",
+        "error": null
+      },
+      "updated_at": "2026-10-12T07:02:57.701584"
+    }
+  }
+}

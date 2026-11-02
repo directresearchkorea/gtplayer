@@ -1,0 +1,321 @@
+{
+  "num": "023",
+  "date": "2026-04-06",
+  "status": "published",
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "event",
+          "game": "배틀그라운드 모바일",
+          "dev": "크래프톤",
+          "date": "4월 6일(월)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#f59e0b",
+          "note": "4월 6일부터 인기 애니메이션 '캐치! 티니핑'과 협업하여 전용 캐릭터 스킨과 세계관 요소를 담은 컬래버레이션 콘텐츠를 선보입니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315109",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "포켓몬 챔피언스 (Pokémon Champions)",
+          "dev": "포켓몬 컴퍼니",
+          "date": "4월 6일(월)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "4월 6일 주간에 출시되는 포켓몬 배틀 특화형 대전 게임으로, 누구나 무료로 박진감 넘치는 포켓몬 대결을 즐길 수 있습니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/954/G095479/20260404003/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "레전드 오브 이미르",
+          "dev": "위메이드",
+          "date": "4월 7일(화)",
+          "platforms": [
+            "PC",
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "4월 7일 정식 출시되는 대작 MMORPG로, 북유럽 신화를 재해석한 독보적인 그래픽과 거대한 세계관을 선보입니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315070",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "피플 오브 노트",
+          "dev": "NHN",
+          "date": "4월 7일(화)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "4월 7일 출시되는 신작 모바일 게임으로, '음표 인간'이라는 독특한 소재를 활용한 감각적인 게임 플레이를 특징으로 합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315070",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "실크로드 어게인",
+          "dev": "조이맥스",
+          "date": "4월 7일(화)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "4월 7일 정식 서비스를 시작하며, 과거 인기 PC 게임인 실크로드 온라인의 핵심 재미를 모바일 환경에 맞춰 복원했습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315070",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "이세계는 스마트폰과 함께",
+          "dev": "CTW",
+          "date": "4월 7일(화)",
+          "platforms": [
+            "Web"
+          ],
+          "color": "#10b981",
+          "note": "4월 7일 정식 출시되는 인기 라이트 노벨 기반의 웹 게임으로, 주인공이 이세계에서 펼치는 모험을 가볍게 즐길 수 있습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1773695",
+          "source_name": "게임메카"
+        }
+      ],
+      "events": [
+        {
+          "name": "2026 아시아 이스포츠 대회 (ECA 2026)",
+          "note": "진주에서 개최되는 아시아 지역 e스포츠 챔피언십, 디즈니+ 공식 중계",
+          "venue": "진주실내체육관",
+          "date": "2026-04-24 ~ 04-26",
+          "tag": "e스포츠",
+          "website": "https://www.inven.co.kr/webzine/news/?news=315112"
+        },
+        {
+          "name": "호요버스 '쁘띠 플래닛' 별여행 테스트",
+          "note": "HoYoverse 신작 스로 라이프 게임 제2탄 베타 테스트",
+          "venue": "온라인",
+          "date": "2026-04-21",
+          "tag": "베타 테스트",
+          "website": "https://dengekionline.com/article/202604/70994"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "라이엇 '리프트바운드' 시니어 디자이너 인터뷰",
+          "source": "IGN India",
+          "time": "4월 6일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/project-k-the-league-of-legends-trading-card-game/257553/interview/we-sat-down-with-riot-senior-designer-jon-moormann-at-pax-east-and-talked-all-things-riftbound"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "스타필드, 사이버펑크식 재도약 가능할까?",
+          "source": "IGN India",
+          "time": "4월 6일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/no-mans-sky/257547/feature/will-starfield-ever-get-a-cyberpunk-style-renaissance"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'나의 히어로 아카데미아' 신작 모바일 게임 발표",
+          "source": "4Gamer",
+          "time": "4월 6일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/996/G099641/20260406001/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "호요버스 신작 '쁘띠 플래닛' 베타 테스트 모집",
+          "source": "電撃オンライン",
+          "time": "4월 6일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202604/70994"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "e스포츠 전설 '페이커' 공식 기념우표 발행",
+          "source": "인벤",
+          "time": "4월 6일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315114"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "펄어비스 '붉은사막' 출시 2주 매출 3천억 추산",
+          "source": "게임메카",
+          "time": "4월 6일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1773703"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "워프레임 제작진 \"생성형 AI 사용 안 할 것\"",
+          "source": "PC Gamer",
+          "time": "4월 6일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/third-person-shooter/warframe-community-director-says-nothing-in-our-games-will-be-ai-generated-ever/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "블록체인 게임 스토어 폐쇄 및 자산 증발 우려",
+          "source": "PC Gamer",
+          "time": "4월 6일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/gaming-industry/blockchain-powered-game-storefront-reportedly-shutting-down-and-taking-customers-games-with-it/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": true,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": [],
+      "items": [
+        {
+          "game": "AION2",
+          "period": "최근 30일",
+          "count": "8,102",
+          "sources": "커뮤니티",
+          "score": "2.7",
+          "pos": 5,
+          "neu": 73,
+          "neg": 22,
+          "keywords": [
+            {
+              "text": "Class Mention",
+              "positive": true
+            },
+            {
+              "text": "Dungeon / Raid Discussion",
+              "positive": true
+            },
+            {
+              "text": "DPS Comparison",
+              "positive": true
+            },
+            {
+              "text": "Buff/Nerf Debate",
+              "positive": true
+            },
+            {
+              "text": "Build Meta",
+              "positive": true
+            }
+          ],
+          "comments": [
+            {
+              "text": "자동 추출 기능이랑 전투력 개선은 편의성이 좋아 보여요.",
+              "positive": true
+            },
+            {
+              "text": "특정 장비 밸런스 붕괴랑 보상 잠수함 너프는 너무해요.",
+              "positive": false
+            },
+            {
+              "text": "종족 불균형과 방치된 버그들 때문에 게임하기가 힘들어요.",
+              "positive": false
+            }
+          ]
+        }
+      ]
+    },
+    "drk": {
+      "enabled": true,
+      "title": "기술의 거품이 걷힌 자리, '확실한 가치'만 남는 게임 시장",
+      "intro": "자산 증발의 공포와 3천억 원의 매출 신화가 공존하는 오늘, 게임의 본질은 어디에 있습니까?\n기술의 화려함보다 중요한 것은 게이머의 시간이 헛되지 않음을 증명하는 '신뢰'입니다.",
+      "points": "최근 펄어비스의 '붉은사막'이 출시 2주 만에 3천억 원 규모의 매출을 올리며 압도적 성과를 거둔 반면, 블록체인 기반 플랫폼은 폐쇄와 자산 증발 우려라는 극도의 불안정성을 노출했습니다. 동시에 포켓몬, 배틀그라운드 등 강력한 IP 기반의 신작과 협업 소식이 이어지며 시장의 시선은 다시 '신뢰할 수 있는 이름'으로 급격히 이동하고 있습니다.\n\n이러한 현상은 **소비자 심리**가 투기성 가치보다는 게임 플레이 자체의 안정성과 IP의 지속 가능성을 우선시하고 있음을 보여줍니다. 자산 증발의 위험이 있는 플랫폼 구조는 철저히 외면받는 반면, 확실한 재미를 보장하는 프리미엄 게임과 강력한 팬덤 기반의 협업 모델은 더욱 견고한 게임 소비 구조를 형성하며 시장의 양극화를 심화시키고 있습니다. 🛡️\n\n**결국 게임 산업의 진정한 권력은 기술적 수식어가 아닌, '무너지지 않는 가상 세계'를 구축해낸 브랜드에게 주어집니다.** 아무리 혁신적인 기술이라도 게이머가 쌓아 올린 경험과 자산의 가치를 온전히 보존하지 못한다면, 그것은 지속 가능한 콘텐츠가 아닌 신기루에 불과하기 때문입니다. 💎\n\n시장은 이제 막연한 기대감을 넘어 실질적인 '결과물'과 '책임감'을 요구하는 냉정한 국면에 진입했습니다. 기술이 재미를 집어삼키는 것이 아니라, 재미를 위해 기술이 헌신하는 시대에서 여러분은 어떤 가치에 배팅하시겠습니까? 🧐"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "붉은사막 (Crimson Desert)",
+      "title": "신뢰의 요새: 무너지지 않는 세계의 온기",
+      "imgUrl": "",
+      "comment": "기술이라는 화려한 신기루가 휩쓸고 간 자리에 남은 것은, 결국 게이머가 안심하고 발 딛을 수 있는 '진짜 세계'의 온기더군요. 우리가 열광하는 프리미엄 IP가 단순한 데이터 쪼가리가 아닌, 얼마나 견고한 안식처가 되어주는지를 서정적으로 담아보았습니다.",
+      "ai_prompt": "A cinematic masterpiece reimagining Crimson Desert based on Dr. K's insight. The visual must reflect a Studio Ghibli style (soft, watercolor, whimsical, warm lighting) mood. A vast, emerald highland featuring a towering, ancient stone fortress that symbolizes a 'brand world that never collapses,' standing firm under a soft, golden sunset with gentle winds blowing through the grass. Artistic composition, 8k, trending on ArtStation."
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "fanmade": {
+      "enabled": false,
+      "items": []
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {},
+    "ja": {}
+  },
+  "email_subject": {
+    "ko": "거품 빠진 게임 시장, 이제 '진짜'만 남았습니다 📉 (feat. 이번 주 필수 체크 뉴스 ✨)",
+    "en": "The Hype is Over: Only 'Real' Games Survive Now 📉 (plus Weekly Hot List! 🎮)",
+    "ja": "バブルが弾けたゲーム市場、生き残るのは「本物」だけ 📉 (今週の注目ニュースまとめ ✨)"
+  }
+}

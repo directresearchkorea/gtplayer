@@ -1,0 +1,474 @@
+{
+  "num": "148",
+  "date": "2026-10-16",
+  "status": "published",
+  "schedule": {
+    "date": "2026-10-16",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "테일즈 오브 이터니아 리마스터",
+          "dev": "반다이남코 엔터테인먼트",
+          "date": "10월 15일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "XSX",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "10월 15일 한국어판으로 정식 발매된 고전 명작 액션 RPG로, 그래픽 고해상도화와 편의성 개선을 거쳐 다시 선보입니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1781817",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "어몽 더 트롤스",
+          "dev": "아방가든(Avantgarden)",
+          "date": "10월 15일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 15일 정식 출시된 1인칭 서바이벌 액션 어드벤처 게임으로, 핀란드 신화와 민속을 배경으로 대자연을 탐험하며 실종된 조부모를 찾는 여정을 그립니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1781852",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "스플릿 픽션",
+          "dev": "헤이즈라이트 스튜디오",
+          "date": "10월 15일(목)",
+          "platforms": [
+            "Switch 2"
+          ],
+          "color": "#10b981",
+          "note": "10월 15일 닌텐도 스위치 2 전용 패키지 버전으로 출시된 2인 협동 액션 어드벤처 게임으로, 나눔 통신과 게임챗 기능을 지원합니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1781816",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "비욘드 디즈 스타즈",
+          "dev": "팔링고(Farom Studio / Balancing Monkey Games)",
+          "date": "10월 16일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 16일 스팀을 통해 출시되는 공상과학 SF 도시 건설 시뮬레이션 게임으로, 거대한 우주 고래의 등 위에서 문명을 발전시키고 생존해 나가는 여정을 담고 있습니다.",
+          "country": "KR",
+          "article_url": "https://store.steampowered.com/app/2295060/Beyond_These_Stars/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "테네브리스 솜니아",
+          "dev": "세이보르 스튜디오(The Saibot Studios)",
+          "date": "10월 16일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 16일 스팀으로 정식 출시되는 2D 레트로 픽셀 생존 호러 어드벤처 게임으로, 8비트 그래픽과 실사 라이브 액션 컷신이 결합된 독특한 연출을 선보입니다.",
+          "country": "KR",
+          "article_url": "https://store.steampowered.com/app/2121510/Tenebris_Somnia/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "event",
+          "game": "도깨비의세계",
+          "dev": "카카오게임즈",
+          "date": "10월 16일(금)",
+          "platforms": [
+            "Mobile",
+            "PC"
+          ],
+          "color": "#f59e0b",
+          "note": "10월 16일부터 17일까지 대구 EXCO에서 열리는 대구콘텐츠페어에서 부스를 운영하며 현장 유저 시연 및 굿즈 이벤트를 진행합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=322159",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "대구콘텐츠페어 도깨비의세계 시연 부스",
+          "note": "카카오게임즈 신작 현장 시연 및 굿즈 증정 이벤트",
+          "venue": "대구 EXCO",
+          "date": "2026-10-16 ~ 10-17",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=322159"
+        },
+        {
+          "name": "FC 프로 모바일 월드 챔피언십 2026",
+          "note": "FC 모바일 글로벌 e스포츠 대회 본선 개최",
+          "venue": "서울 DDP 쇼룸",
+          "date": "2026-10-21 ~ 10-25",
+          "tag": "e스포츠",
+          "website": "https://www.inven.co.kr/webzine/news/?news=322158"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "세가, 버그 논란 '토탈 워: 쇼군2' 신작 에디션 판매 중단",
+          "source": "인벤",
+          "time": "10월 15일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=322180"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "크래프톤, 인도 신작 'BGMI Air' 사전예약 1천만 명 돌파",
+          "source": "인벤",
+          "time": "10월 15일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=322173"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "PC 슈터 '스쿼드', 콘솔 진출 발표… 이달 PS5 알파 개시",
+          "source": "IGN India",
+          "time": "10월 15일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/squad/274584/tactical-pc-fps-game-squad-is-coming-to-consoles-playable-ps5-alpha-releases-later-this-month"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "CDPR, 신규 IP '프로젝트 하다르' 공식 개발 착수",
+          "source": "IGN India",
+          "time": "10월 15일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/codename-hadar/274562/cd-projekt-has-officially-begun-work-on-project-hadar-but-its-not-in-pre-production-yet"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "아크시스템웍스, 격투 게임 강화 위한 신규 스튜디오 설립",
+          "source": "4Gamer",
+          "time": "10월 15일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/999/G999903/20261015037/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "코나미, 명작 '유비트' 시리즈 리부트 선언 및 신규 기체 공개",
+          "source": "電撃オンライン",
+          "time": "10월 15일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202610/91110"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "레메디 '컨트롤 레조넌트', 3주 만에 100만 장 판매 돌파",
+          "source": "PC Gamer",
+          "time": "10월 15일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/action/control-resonant-sells-1-million-copies-in-3-weeks-to-become-remedys-fastest-selling-game-ever/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "PC와 콘솔의 경계를 허무는 마니아 장르의 확장",
+      "intro": "전형적인 PC 하드코어 장르가 왜 거실의 콘솔 플랫폼으로 향하고 있을까요?\n장르와 하드웨어의 오랜 공식이 깨지는 순간, 시장의 판도가 다시 움직입니다.",
+      "points": "PC 전유물로 여겨지던 하드코어 밀리터리 슈터 '스쿼드'의 콘솔(PS5) 진출 발표와 차세대 콘솔 전용 협동 타이틀의 등장은 주목할 만한 신호입니다. 복잡한 조작과 높은 진입장벽을 지닌 마니아 장르조차 콘솔 생태계로 적극 유입되고 있습니다. 🎮\n\n이는 **플랫폼 구조**와 유저의 **게임 소비 구조**에 근본적인 변화를 불러옵니다. 패드 조작의 한계와 캐주얼 성향이라는 콘솔 시장의 고정관념이 옅어지면서, 깊이 있는 시뮬레이션 경험을 원하는 콘솔 게이머의 수요가 수면 위로 드러나고 있습니다. 🕹️\n\n제가 주목하는 본질은 **\"하드웨어 기반의 장르 독점이 완전히 종식되고 있다\"**는 사실입니다. 이제 성공의 열쇠는 플랫폼의 형태가 아니라, 복잡한 시스템을 콘솔 UX 환경에 얼마나 직관적으로 이식하여 폭넓은 **소비자 반응**을 이끌어내느냐에 달려 있습니다. 💡\n\n플랫폼의 물리적 장벽이 무너진 지금, 여러분은 다변화된 유저들의 까다로운 플레이 경험을 어떤 플랫폼에서 어떻게 증명하시겠습니까? 🔍"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "Agent A - 숨겨진 퍼즐",
+      "url": "https://store.epicgames.com/ko/p/agent-a-a-puzzle-in-disguise-42fe5f",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-3cppl.png",
+      "comment": "🎁 **에픽게임즈 이번 주 무료 배포 (~10월 23일 00:00)**\n- **Agent A - 숨겨진 퍼즐**: 60년대 스파이 영화 감성이 물씬 풍기는 포인트 앤 클릭 퍼즐 어드벤처입니다. 기밀 본부에 잠입해 정교한 비밀 장치들을 하나씩 풀어가는 두뇌 플레이의 재미가 뛰어납니다.\n- **Next Week**: 다음 주에는 플레이어의 선택에 따라 이야기가 바뀌는 픽셀 미스터리 호러 'Home - A Unique Horror Adventure'가 배포될 예정입니다.\n\n🎮 **스팀 주말 특가 (~10월 23일 02:00)**\n- 압도적인 서사와 디테일을 자랑하는 오픈월드 명작 'Red Dead Redemption 2'를 75% 할인된 혜택으로 만나보세요.",
+      "steam_deal": {
+        "type": "deal",
+        "name": "Red Dead Redemption 2",
+        "app_id": 1174180,
+        "url": "https://store.steampowered.com/app/1174180",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+        "discount_percent": 75,
+        "original_price": 7300000,
+        "final_price": 1825000,
+        "end_date": "2026-10-23 02:00"
+      },
+      "epic_current": [
+        {
+          "title": "Agent A - 숨겨진 퍼즐",
+          "description": "탈출 게임 방 살인 게임,선택해 클릭 방 탈출 게임 선택해 클릭하는 어드벤처 스파이 모험 퍼즐 채권 비밀 에이전트 루비 신비 탈출",
+          "url": "https://store.epicgames.com/ko/p/agent-a-a-puzzle-in-disguise-42fe5f",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-3cppl.png",
+          "end_date": "2026-10-23 00:00"
+        }
+      ],
+      "epic_upcoming": [
+        {
+          "title": "Home - A Unique Horror Adventure",
+          "description": "Home is a unique horror adventure set in a beautifully-realized pixel world. It’s a murder mystery with a twist – because you decide what ultimately happens.",
+          "url": "https://store.epicgames.com/ko/p/home-19212a",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1f6qi.png",
+          "start_date": "2026-10-23 00:00"
+        }
+      ],
+      "epic_discounted": []
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Tales of Eternia Remaster",
+        "releases.0.note": "A classic masterpiece action RPG officially released in Korean on October 15, returning with high-resolution graphics and quality-of-life improvements.",
+        "releases.0.dev": "Bandai Namco Entertainment",
+        "releases.1.game": "Among the Trolls",
+        "releases.1.note": "A first-person survival action-adventure game officially released on October 15, depicting a journey through the wilderness to find missing grandparents set against Finnish mythology and folklore.",
+        "releases.1.dev": "Avantgarden",
+        "releases.2.game": "Split Fiction",
+        "releases.2.note": "A two-player co-op action-adventure game released as a physical packaged version exclusively for Nintendo Switch 2 on October 15, supporting local wireless sharing and GameChat features.",
+        "releases.2.dev": "Hazelight Studios",
+        "releases.3.game": "Beyond These Stars",
+        "releases.3.note": "A sci-fi city-building simulation game releasing on Steam on October 16, capturing the journey of building a civilization and surviving on the back of a giant space whale.",
+        "releases.3.dev": "Farom Studio / Balancing Monkey Games",
+        "releases.4.game": "Tenebris Somnia",
+        "releases.4.note": "A 2D retro pixel survival horror adventure game officially launching on Steam on October 16, featuring a unique presentation that combines 8-bit visuals with live-action cinematic cutscenes.",
+        "releases.4.dev": "The Saibot Studios",
+        "releases.5.game": "World of Dokebi",
+        "releases.5.note": "Operating a booth at Daegu Content Fair held at Daegu EXCO from October 16 to 17, offering hands-on playable demos and merchandise giveaway events.",
+        "releases.5.dev": "Kakao Games",
+        "events.0.name": "Daegu Content Fair World of Dokebi Demo Booth",
+        "events.0.note": "Hands-on demo of Kakao Games' new title and merchandise giveaway event",
+        "events.0.venue": "Daegu EXCO",
+        "events.1.name": "FC Pro Mobile World Championship 2026",
+        "events.1.note": "Hosting the main tournament of the global FC Mobile esports championship",
+        "events.1.venue": "Seoul DDP Showroom"
+      },
+      "briefing": {
+        "items.0.title": "Sega Halts Sales of New 'Total War: Shogun 2' Edition Amid Bug Controversy",
+        "items.0.source": "Inven",
+        "items.0.time": "October 15",
+        "items.1.title": "Krafton's New India Title 'BGMI Air' Surpasses 10 Million Pre-registrations",
+        "items.1.source": "Inven",
+        "items.1.time": "October 15",
+        "items.2.title": "PC Shooter 'Squad' Announces Console Debut… PS5 Alpha Begins This Month",
+        "items.2.source": "IGN India",
+        "items.2.time": "October 15",
+        "items.3.title": "CDPR Officially Begins Development on New IP 'Project Hadar'",
+        "items.3.source": "IGN India",
+        "items.3.time": "October 15",
+        "items.4.title": "Arc System Works Establishes New Studio to Bolster Fighting Game Lineup",
+        "items.4.source": "4Gamer",
+        "items.4.time": "October 15",
+        "items.5.title": "Konami Announces Reboot of Classic 'jubeat' Series and Unveils New Arcade Cabinet",
+        "items.5.source": "Dengeki Online",
+        "items.5.time": "October 15",
+        "items.6.title": "Remedy's 'Control Resonant' Surpasses 1 Million Units Sold in Just 3 Weeks",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "October 15"
+      },
+      "drk": {
+        "title": "The Expansion of Niche Genres Breaking the Boundaries Between PC and Console",
+        "intro": "Why are traditionally hardcore PC genres migrating to living-room console platforms?\nThe moment the longstanding formula between genres and hardware breaks, the market landscape shifts once again.",
+        "points": "The announcement of console (PS5) expansion for 'Squad'—a hardcore military shooter long considered the exclusive domain of PC—alongside the arrival of next-gen console-exclusive co-op titles, is a notable signal. Even niche genres characterized by intricate controls and high barriers to entry are actively making their way into the console ecosystem. 🎮\n\nThis triggers fundamental shifts in **platform structures** and players' **game consumption patterns**. As stereotypes associating consoles strictly with controller limitations and casual play fade, latent demand from console gamers seeking deep, authentic simulation experiences is rising to the surface. 🕹️\n\nThe core takeaway I observe is that **\"hardware-based genre exclusivity is coming to a definitive end.\"** The key to success no longer lies in the platform's form factor, but in how intuitively complex systems can be translated into a console UX environment to drive broad **consumer reception**. 💡\n\nNow that the physical barriers of platforms have collapsed, on which platform and in what manner will you validate the sophisticated play experiences of today's increasingly diversified players? 🔍"
+      },
+      "epic": {
+        "title": "Agent A: A puzzle in disguise",
+        "comment": "🎁 **Epic Games Free Weekly Giveaway (~Oct 22, 15:00 UTC)**\n- **Agent A: A puzzle in disguise**: A point-and-click puzzle adventure dripping with 1960s spy flick aesthetics. It offers an engaging cerebral experience as you infiltrate a secret headquarters and unravel intricate covert contraptions one by one.\n- **Next Week**: Scheduled for giveaway next week is 'Home - A Unique Horror Adventure', a pixel-art mystery horror title where the narrative shifts depending on the player's choices.\n\n🎮 **Steam Weekend Deal (~Oct 22, 17:00 UTC)**\n- Grab 'Red Dead Redemption 2', an open-world masterpiece renowned for its overwhelming narrative and detail, at a 75% discount."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "テイルズ オブ エターニア リマスター",
+        "releases.0.note": "10月15日に韓国語版が正式発売された名作アクションRPGで、グラフィックの高解像度化や利便性の向上を経て再び登場します。",
+        "releases.0.dev": "バンダイナムコエンターテインメント",
+        "releases.1.game": "Among the Trolls",
+        "releases.1.note": "10月15日に正式リリースされた一人称視点サバイバルアクションアドベンチャーゲームで、フィンランド神話や民俗を背景に大自然を探索しながら行方不明になった祖父母を探す旅を描きます。",
+        "releases.1.dev": "Avantgarden",
+        "releases.2.game": "Split Fiction",
+        "releases.2.note": "10月15日にNintendo Switch 2専用パッケージ版として発売された2人協力型アクションアドベンチャーゲームで、おすそわけ通信やゲームチャット機能に対応しています。",
+        "releases.2.dev": "Hazelight Studios",
+        "releases.3.game": "Beyond These Stars",
+        "releases.3.note": "10月16日にSteamで配信されるSF都市建設シミュレーションゲームで、巨大な宇宙クジラの背中で文明を発展させ、生き残っていく旅を描いています。",
+        "releases.3.dev": "Farom Studio / Balancing Monkey Games",
+        "releases.4.game": "Tenebris Somnia",
+        "releases.4.note": "10月16日にSteamで正式リリースされる2Dレトロピクセルサバイバルホラーアドベンチャーゲームで、8ビットグラフィックと実写ライブアクションカットシーンが融合した独特な演出が特徴です。",
+        "releases.4.dev": "The Saibot Studios",
+        "releases.5.game": "トッケビの世界",
+        "releases.5.note": "10月16日から17日まで大邱EXCOで開催される「大邱コンテンツフェア」にてブースを出展し、会場での試遊体験やグッズイベントを実施します。",
+        "releases.5.dev": "カカオゲームズ",
+        "events.0.name": "大邱コンテンツフェア『トッケビの世界』試遊ブース",
+        "events.0.note": "カカオゲームズ新作の会場試遊およびグッズプレゼントイベント",
+        "events.0.venue": "大邱 EXCO",
+        "events.1.name": "FC Pro モバイル ワールドチャンピオンシップ 2026",
+        "events.1.note": "FCモバイルのグローバルeスポーツ大会本選を開催",
+        "events.1.venue": "ソウル DDPショールーム"
+      },
+      "briefing": {
+        "items.0.title": "セガ、バグ問題で物議の『トータルウォー：ショーグン2』新作エディションの販売を中止",
+        "items.0.source": "Inven",
+        "items.0.time": "10月15日",
+        "items.1.title": "KRAFTON、インド向け新作『BGMI Air』の事前登録者数が1,000万人を突破",
+        "items.1.source": "Inven",
+        "items.1.time": "10月15日",
+        "items.2.title": "PC向けシューター『Squad』、コンソール展開を発表…今月PS5版アルファテスト開始",
+        "items.2.source": "IGN India",
+        "items.2.time": "10月15日",
+        "items.3.title": "CDPR、新規IP『Project Hadar』の本格開発に着手",
+        "items.3.source": "IGN India",
+        "items.3.time": "10月15日",
+        "items.4.title": "アークシステムワークス、格闘ゲーム強化に向けた新スタジオを設立",
+        "items.4.source": "4Gamer",
+        "items.4.time": "10月15日",
+        "items.5.title": "コナミ、名作『jubeat』シリーズのリブートを発表＆新型筐体を公開",
+        "items.5.source": "電撃オンライン",
+        "items.5.time": "10月15日",
+        "items.6.title": "Remedy『Control Resonant』、3週間で販売本数100万本を突破",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "10月15日"
+      },
+      "drk": {
+        "title": "PCとコンソールの境界を崩すマニア向けジャンルの拡張",
+        "intro": "典型的なPC向けハードコアジャンルが、なぜリビングのコンソールプラットフォームへ向かっているのでしょうか？\nジャンルとハードウェアの長年のセオリーが崩れる瞬間、市場の勢力図が再び動き出します。",
+        "points": "PCの専売特許と見なされていたハードコアミリタリーシューター『Squad』のコンソール（PS5）展開の発表や、次世代コンソール専用の協力プレイタイトルの登場は注目すべきシグナルです。複雑な操作と高い参入障壁を持つマニア向けジャンルでさえ、コンソールエコシステムへと積極的に流入しています。🎮\n\nこれは**プラットフォーム構造**とユーザーの**ゲーム消費構造**に根本的な変化をもたらします。パッド操作の限界やカジュアル志向というコンソール市場の固定観念が薄れるにつれ、奥深いシミュレーション体験を求めるコンソールゲーマーの需要が表面化しつつあります。🕹️\n\n私が注目する本質は、**「ハードウェアに基づくジャンルの独占が完全に終わりを告げている」**という点です。今や成功の鍵はプラットフォームの形態ではなく、複雑なシステムをコンソールのUI/UX環境へいかに直感的に移植し、幅広い**消費者の反応**を引き出せるかにかかっています。💡\n\nプラットフォームの物理的障壁が崩れ去った今、皆様は多様化したユーザーのシビアなプレイ体験を、どのプラットフォームでどのように証明されますか？🔍"
+      },
+      "epic": {
+        "title": "Agent A - 偽装のパズル",
+        "comment": "🎁 **Epic Games 今週の無料配布（〜10月23日 00:00）**\n- **Agent A - 偽装のパズル**：60年代のスパイ映画テイスト漂うポイント＆クリック・パズルアドベンチャーです。秘密基地に潜入し、精巧な仕掛けを一つずつ解き明かしていく知的プレイの楽しさが際立ちます。\n- **Next Week**：来週は、プレイヤーの選択によって物語が変化するピクセルミステリーホラー『Home - A Unique Horror Adventure』が配布される予定です。\n\n🎮 **Steam 週末特売（〜10月23日 02:00）**\n- 圧倒的なストーリーテリングとディテールを誇るオープンワールドの傑作『Red Dead Redemption 2』を75%オフの特別価格でお楽しみください。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "PC와 콘솔의 경계가 무너진다?!💥 마니아 장르의 반란 (feat. 이번 주 무료 게임🎁)",
+    "en": "The PC-Console barrier is officially breaking 💥 (+ Grab this week's free game 🎁)",
+    "ja": "PCとCSの境界線が崩壊中?!💥 マニア向けゲームの逆襲（今週の無料配布も🎁）"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "PC에서만 즐기던 갓겜들이 콘솔로 쏟아지고 있네요! 🎮\n하드코어 슈터 '스쿼드'의 PS5 진출 소식부터 싹 모아봤어요✨\n\nhttps://www.gtplayer.net/edition-148/\n#스쿼드 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-10-16T07:01:36.778901"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "10월 16일 오늘의 게임 소식 🎮\n📰 [뉴스] 세가 '토탈 워' 에디션 판매 중단 이슈부터 크래프톤 1천만 예약 돌파, '스쿼드' 콘솔 진출과 CDPR 신규 IP 개발 착수까지!\n📅 [출시] '테일즈 오브 이터니아 리마스터', '어몽 더 트롤스', '스플릿 픽션' 등 이번 주 신작 캘린더 총정리\n✍️ [인사이트] PC 하드코어 장르는 왜 콘솔로 향할까? 플랫폼 경계를 허무는 마니아 장르의 반란과 시장의 판도 변화\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임추천 #신작게임 #게임소식 #게임스타그램 #게이머 #콘솔게임 #PC게임 #스팀게임 #플레이스테이션 #닌텐도스위치 #게임덕후 #게임리뷰 #인디게임 #크래프톤 #세가 #CDPR #토탈워 #테일즈오브이터니아 #GTPlayer",
+          "image_paths": [
+            "web\\instagram\\edition_148\\card_cover.png",
+            "web\\instagram\\edition_148\\card_news.png",
+            "web\\instagram\\edition_148\\card_calendar.png",
+            "web\\instagram\\edition_148\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "4008762294741956581_39332818166",
+            "url": "https://www.instagram.com/p/Deh_BFXEvfl/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-10-16T07:02:07.560417",
+      "freegames_results": {
+        "success": false,
+        "id": null,
+        "url": null,
+        "error": "Instagram 업로드 실패: 404 Client Error: Not Found for url: https://i.instagram.com/api/v1/qe/expose/"
+      },
+      "freegames_updated_at": "2026-10-16T07:02:45.085200"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "The PC-Console barrier is officially breaking 💥 (+ Grab this week's free game 🎁)\n\nHardcore PC shooter Squad is bringing its tactical combat to PlayStation as longstanding hardware borders fade faster than ever.\nBetween CD Projekt Red kicking off work on Project Hadar and major platform shifts, the entire gaming landscape is evolving rapidly.\n\nhttps://www.gtplayer.net/edition-148-en/",
+        "error": null
+      },
+      "updated_at": "2026-10-16T07:03:30.626857"
+    }
+  }
+}

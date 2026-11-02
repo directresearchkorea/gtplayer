@@ -1,0 +1,282 @@
+<header class="site-header">
+  <a href="{{@site.url}}" class="logo">
+    {{#if @site.logo}}<img src="{{@site.logo}}" alt="GTPlayer" class="logo-img">{{/if}}
+    <span class="logo-text">GT<span>Player</span></span>
+  </a>
+  <div class="header-right">
+    <button class="header-search-btn" id="headerSearchBtn" aria-label="Search">
+      <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+        <circle cx="11" cy="11" r="8" />
+        <path d="m21 21-4.35-4.35" />
+      </svg>
+      <span class="search-text" id="headerSearchText">검색...</span>
+    </button>
+
+    <a href="#/portal/account" class="btn-sub" id="headerUnsubBtn" data-portal="account">구독취소</a>
+
+    <div class="lang-selector">
+      <button class="lang-btn" id="langToggle">🌐 <span id="currentLang">KO</span> ▾</button>
+      <div class="lang-dropdown" id="langDropdown">
+        <a href="/" class="lang-option" data-lang="ko">🇰🇷 한국어</a>
+        <a href="/en/" class="lang-option" data-lang="en">🇺🇸 English</a>
+        <a href="/ja/" class="lang-option" data-lang="ja">🇯🇵 日本語</a>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- Search Overlay -->
+<div class="search-overlay" id="searchOverlay">
+  <div class="search-modal">
+    <div class="search-modal-header">
+      <input type="text" class="search-input-lg" id="searchInputLg" placeholder="포스트 검색..." autofocus>
+      <button class="search-close" id="searchClose">
+        <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <path d="M18 6L6 18M6 6l12 12" />
+        </svg>
+      </button>
+    </div>
+    <div class="search-body">
+      <div class="search-label" id="searchHeaderLabel">POSTS</div>
+      <div class="search-results" id="searchResults"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+  (function () {
+    // ── Search Query Logging to Google Sheets ──
+    var SEARCH_LOG_URL = 'https://script.google.com/macros/s/AKfycbztDYnHRRoHNpUt07_SOl-COmJ-7A1MAvVMTAD51dL4nvjAF9BEDxgM-SMUxQ5h18mBaQ/exec';
+    var loggedQueries = {};
+    var currentLocation = null; // Store fetched location
+
+    async function logSearchQuery(query, resultsCount) {
+      if (!SEARCH_LOG_URL || loggedQueries[query]) return;
+      loggedQueries[query] = true;
+
+      try {
+        // Fetch location if not already available
+        if (!currentLocation) {
+          const response = await fetch('https://ipapi.co/json/');
+          currentLocation = await response.json();
+        }
+
+        fetch(SEARCH_LOG_URL, {
+          method: 'POST',
+          mode: 'no-cors',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            query: query,
+            resultsCount: resultsCount,
+            language: currentLangCode || 'ko',
+            country: currentLocation.country_name || currentLocation.country_code,
+            city: currentLocation.city,
+            userAgent: navigator.userAgent
+          })
+        });
+      } catch (e) { /* silent fail */ }
+    }
+
+    // ── Search ── (DOMContentLoaded 필요: trigger가 body에 있음)
+    var overlay = document.getElementById('searchOverlay');
+    var closeBtn = document.getElementById('searchClose');
+    var input = document.getElementById('searchInputLg');
+    var results = document.getElementById('searchResults');
+    var searchTimer = null;
+    var allPosts = null;
+
+    function openSearch() {
+      overlay.classList.add('active');
+      input.value = '';
+      results.innerHTML = '';
+      setTimeout(function () { input.focus(); }, 100);
+      document.body.style.overflow = 'hidden';
+      if (!allPosts) loadAllPosts();
+    }
+
+    function closeSearch() {
+      overlay.classList.remove('active');
+      document.body.style.overflow = '';
+    }
+
+    // trigger는 index.hbs에 있으므로 DOM 로드 후 바인딩
+    document.addEventListener('DOMContentLoaded', function () {
+      var trigger = document.getElementById('searchTrigger');
+      if (trigger) trigger.addEventListener('click', openSearch);
+      var headerSearch = document.getElementById('headerSearchBtn');
+      if (headerSearch) headerSearch.addEventListener('click', openSearch);
+    });
+    closeBtn.addEventListener('click', closeSearch);
+    overlay.addEventListener('click', function (e) {
+      if (e.target === overlay) closeSearch();
+    });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') closeSearch();
+      if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+        e.preventDefault();
+        openSearch();
+      }
+    });
+
+    input.addEventListener('input', function () {
+      clearTimeout(searchTimer);
+      var q = input.value.trim();
+      if (q.length < 2) { results.innerHTML = ''; return; }
+      searchTimer = setTimeout(function () { filterPosts(q); }, 200);
+    });
+
+    function loadAllPosts() {
+      var key = window.__GHOST_CONTENT_KEY;
+      if (!key) {
+        results.innerHTML = '<div class="search-no-results">검색을 사용하려면 Ghost Admin → Settings → Code Injection → Site Header에<br><code>&lt;script&gt;window.__GHOST_CONTENT_KEY="YOUR_CONTENT_API_KEY";&lt;/script&gt;</code><br>를 추가하세요.</div>';
+        return;
+      }
+      var url = window.location.origin + '/ghost/api/content/posts/?key=' + key +
+        '&formats=plaintext&fields=title,url,excerpt,published_at,plaintext&limit=all&order=published_at%20desc';
+      fetch(url)
+        .then(function (r) {
+          if (!r.ok) throw new Error('HTTP ' + r.status);
+          return r.json();
+        })
+        .then(function (data) {
+          allPosts = data.posts || [];
+        })
+        .catch(function (e) {
+          allPosts = [];
+          if (e.message.indexOf('401') !== -1) {
+            results.innerHTML = '<div class="search-no-results">Content API 키가 유효하지 않습니다. Ghost Admin의 Code Injection 설정을 확인하세요.</div>';
+          } else {
+            results.innerHTML = '<div class="search-no-results">검색 데이터를 불러올 수 없습니다.</div>';
+          }
+        });
+    }
+
+    function filterPosts(query) {
+      if (!allPosts) { loadAllPosts(); return; }
+      var q = query.toLowerCase();
+      var filtered = allPosts.filter(function (p) {
+        return (p.title && p.title.toLowerCase().indexOf(q) !== -1) ||
+          (p.excerpt && p.excerpt.toLowerCase().indexOf(q) !== -1) ||
+          (p.plaintext && p.plaintext.toLowerCase().indexOf(q) !== -1);
+      });
+      renderResults(filtered, query);
+      logSearchQuery(query, filtered.length);
+    }
+
+    function renderResults(posts, query) {
+      if (posts.length === 0) {
+        results.innerHTML = '<div class="search-no-results">"' + escHtml(query) + '"에 대한 결과가 없습니다.</div>';
+        return;
+      }
+      var html = '';
+      posts.forEach(function (p) {
+        var excerpt = (p.excerpt || '').substring(0, 100) + '...';
+        html += '<a class="search-result-item" href="' + p.url + '">' +
+          '<div class="search-result-title">🔎 ' + highlightMatch(p.title || '', query) + '</div>' +
+          '<div class="search-result-excerpt">' + highlightMatch(excerpt, query) + '</div></a>';
+      });
+      results.innerHTML = html;
+    }
+
+    function highlightMatch(text, query) {
+      if (!text) return '';
+      var regex = new RegExp('(' + query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'gi');
+      return text.replace(regex, '<strong style="color:#000;">$1</strong>');
+    }
+
+    function escHtml(s) {
+      return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    }
+
+    // ── Language Dropdown & Global i18n ──
+    var currentLangCode = 'ko'; // default
+    var path = window.location.pathname;
+    var bodyClass = document.body.className;
+    var langs = { ko: 'KO', en: 'EN', ja: 'JP' };
+
+    // Detect language: first check URL path
+    for (var k in langs) {
+      if (path.indexOf('/' + k + '/') === 0) currentLangCode = k;
+    }
+    // Then check body class (in case of post pages without localized routes)
+    if (bodyClass.indexOf('tag-hash-lang-en') !== -1) currentLangCode = 'en';
+    else if (bodyClass.indexOf('tag-hash-lang-ja') !== -1) currentLangCode = 'ja';
+
+    var btn = document.getElementById('langToggle');
+    var dd = document.getElementById('langDropdown');
+    var cl = document.getElementById('currentLang');
+    if (langs[currentLangCode]) cl.textContent = langs[currentLangCode];
+
+    btn.addEventListener('click', function (e) {
+      e.stopPropagation();
+      dd.classList.toggle('show');
+    });
+    document.addEventListener('click', function () { dd.classList.remove('show'); });
+
+    // i18n dictionary for dynamic UI elements
+    var i18n = {
+      en: {
+        headerSubBtn: "Subscribe",
+        headerUnsubBtn: "Unsubscribe",
+        headerSearchText: "Search...",
+        searchInputLg: "Search posts...",
+        footerDesc: "Game Industry Insights, Every Morning at 7 AM",
+        footerSubBtn: "Subscribe",
+        footerArchiveBtn: "Edition Archive",
+        footerAccountBtn: "Account Settings",
+        postPrevLabel: "← Prev",
+        postNextLabel: "Next →",
+        postSubTitle: "Subscribe to GTPlayer Newsletter",
+        postSubDesc: "Get game industry insights every morning at 7 AM.",
+        postSubBtn: "Subscribe for free →"
+      },
+      ja: {
+        headerSubBtn: "購読する",
+        headerUnsubBtn: "配信停止",
+        headerSearchText: "検索...",
+        searchInputLg: "ポストを検索...",
+        footerDesc: "ゲーム業界のインサイト、毎朝7時",
+        footerSubBtn: "購読する",
+        footerArchiveBtn: "エディションアーカイブ",
+        footerAccountBtn: "アカウント設定",
+        postPrevLabel: "← 前へ",
+        postNextLabel: "次へ →",
+        postSubTitle: "GTPlayer ニュースレターを購読する",
+        postSubDesc: "ゲーム業界のインサイトを毎朝7時にお届けします。",
+        postSubBtn: "無料購読 →"
+      }
+    };
+
+    document.addEventListener('DOMContentLoaded', function () {
+      if (currentLangCode !== 'ko' && i18n[currentLangCode]) {
+        var strings = i18n[currentLangCode];
+        var els = [
+          'headerSubBtn', 'headerUnsubBtn', 'headerSearchText', 'footerDesc', 'footerSubBtn', 'footerArchiveBtn', 'footerAccountBtn',
+          'postPrevLabel', 'postNextLabel', 'postSubTitle', 'postSubDesc', 'postSubBtn'
+        ];
+        els.forEach(function (i) {
+          var el = document.getElementById(i);
+          if (el) el.textContent = strings[i];
+        });
+        var searchInp = document.getElementById('searchInputLg');
+        if (searchInp) searchInp.placeholder = strings.searchInputLg;
+
+        var rt = document.getElementById('postReadingTime');
+        if (rt) {
+          var mins = rt.getAttribute('data-mins');
+          if (currentLangCode === 'en') rt.textContent = mins + ' min read';
+          else if (currentLangCode === 'ja') rt.textContent = mins + ' 分 読む';
+        }
+
+        var pdKo = document.getElementById('postDateKo');
+        var pdEn = document.getElementById('postDateEn');
+        var pdJa = document.getElementById('postDateJa');
+        if (pdKo && pdEn && pdJa) {
+          if (currentLangCode === 'en') { pdKo.style.display = 'none'; pdEn.style.display = 'inline'; }
+          else if (currentLangCode === 'ja') { pdKo.style.display = 'none'; pdJa.style.display = 'inline'; }
+        }
+      }
+    });
+
+  })();
+</script>

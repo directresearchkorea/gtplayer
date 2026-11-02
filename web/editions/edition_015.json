@@ -1,0 +1,155 @@
+{
+  "num": "015",
+  "date": "2026-03-25",
+  "status": "published",
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [],
+      "events": []
+    },
+    "briefing": {
+      "enabled": true,
+      "items": []
+    },
+    "feedback": {
+      "enabled": true,
+      "game": "AION2",
+      "period": "최근 30일",
+      "count": "2,076",
+      "sources": "커뮤니티",
+      "score": "2.7",
+      "pos": 4,
+      "neu": 79,
+      "neg": 17,
+      "keywords": [
+        {
+          "text": "Class Mention",
+          "positive": true
+        },
+        {
+          "text": "Dungeon / Raid Discussion",
+          "positive": true
+        },
+        {
+          "text": "Build Meta",
+          "positive": true
+        },
+        {
+          "text": "DPS Comparison",
+          "positive": true
+        },
+        {
+          "text": "Buff/Nerf Debate",
+          "positive": true
+        }
+      ],
+      "comments": [
+        {
+          "text": "선발대가 정리한 직업별 PVE 순위가 정말 유익해요.",
+          "positive": true
+        },
+        {
+          "text": "특정 던전의 도트뎀이 심해서 힐러 부담이 너무 커요.",
+          "positive": false
+        },
+        {
+          "text": "개발진의 부족한 밸런스 이해도가 게임 재미를 해쳐요.",
+          "positive": false
+        }
+      ]
+    },
+    "drk": {
+      "enabled": true,
+      "title": "수치에 매몰된 K-게임, 이제 '재미'라는 본질적 부채를 갚을 시간",
+      "intro": "최근 국내 대형 게임사들의 잇따른 콘솔 도전과 장르 다변화 소식은 단순한 사업 확장이 아닙니다. 수십 년간 매출 지표와 확률형 아이템이라는 안락한 함정에 빠져있던 K-게임이 드디어 글로벌 시장이라는 냉혹한 현실 앞에 직면했음을 보여주는 방증입니다. 내수 시장의 포화와 유저들의 깊은 불신은 더 이상 기존의 공식을 허용하지 않고 있습니다.",
+      "points": "이러한 흐름은 모바일 MMORPG 시장의 성장세가 꺾이고 유저들의 피로도가 임계점에 도달했음을 의미합니다. 이제 기업들은 단순한 BM(비즈니스 모델)의 변주가 아닌, 'IP의 가치'와 '글로벌 유저의 기준'에 맞춘 게임성 자체를 고민해야 하는 처지에 놓였습니다. 이는 선택이 아닌 생존을 위한 강제적인 체질 개선의 시작인 셈입니다.\n\n**이제 게임 업계의 핵심 키워드는 '비즈니스 모델의 혁신'이 아니라 '경험의 완성도'로 옮겨가야 합니다.** 단순히 그래픽만 화려한 껍데기가 아닌, 유저가 지불한 비용과 시간만큼의 본질적인 가치를 느끼게 하는 **'Play to Value'로의 패러다임 전환만이 글로벌 경쟁에서 살아남을 유일한 열쇠가 될 것입니다.**\n\n결국 우리가 물어야 할 질문은 하나입니다. 우리 게임사들은 확률을 설계하는 도박사가 아닌, 진정한 재미를 선사하는 창작자로 돌아갈 준비가 되었습니까? 여러분이 생각하는 '돈이 아깝지 않은 게임'의 진정한 기준은 무엇입니까?"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "검은 신화: 오공 (Black Myth: Wukong)",
+      "title": "운해 끝에 걸린 금빛 여명",
+      "imgUrl": "",
+      "comment": "동양적 미학의 정수를 언리얼 엔진 5로 완벽하게 구현해냈으며, 고요한 자연경관과 압도적인 신화적 분위기가 공존하는 시각적 경이로움을 선사합니다.",
+      "ai_prompt": "A cinematic, hyper-realistic shot of a monkey king warrior inspired by Black Myth Wukong, standing on a jagged snowy mountain peak. He is wearing intricate golden armor with a long, flowing crimson cape fluttering in the wind. He holds a massive black iron staff with gold filigree. Below him is a vast, ethereal sea of clouds and mist, with silhouettes of ancient Chinese temples and floating islands in the distance. The scene is illuminated by a breathtaking golden sunrise, with god rays piercing through the clouds. 8k resolution, Unreal Engine 5 render style, dramatic lighting, epic mythological atmosphere, highly detailed fur and textures."
+    },
+    "meme": {
+      "enabled": true,
+      "items": [
+        {
+          "title": "Star Wars Jedi Knight II: Jedi Outcast",
+          "score": 1239,
+          "url": "https://i.redd.it/r4srxwtyz1rg1.jpeg",
+          "permalink": "https://reddit.com/r/gaming/comments/1s2pl9b/star_wars_jedi_knight_ii_jedi_outcast/",
+          "subreddit": "gaming",
+          "author": "TimelyDrummer4975",
+          "num_comments": 212,
+          "comment": "제다이 아웃캐스트라니! 이 시절 찰진 광선검 손맛은 아직도 못 잊죠. ⚔️"
+        },
+        {
+          "title": "almost got lost on my hike today",
+          "score": 243,
+          "url": "https://i.redd.it/gpelaxbti1rg1.jpeg",
+          "permalink": "https://reddit.com/r/gaming/comments/1s2mwxu/almost_got_lost_on_my_hike_today/",
+          "subreddit": "gaming",
+          "author": "Arkillese",
+          "num_comments": 39,
+          "comment": "등산 중 길 잃을 뻔했다고요? 현실인지 게임인지 헷갈릴 정도로 완벽하네요! 🌳"
+        }
+      ]
+    },
+    "soundtrack": {
+      "enabled": true,
+      "title": "10 Hours of Lofi Video Game Beats",
+      "channel": "Helynt",
+      "videoId": "5jaT_8hy3Vg",
+      "url": "https://www.youtube.com/watch?v=5jaT_8hy3Vg",
+      "thumbnail": "https://i.ytimg.com/vi/5jaT_8hy3Vg/hqdefault.jpg",
+      "comment": "익숙한 게임 멜로디가 포근한 로파이 비트로 재탄생했어요. 집중이 필요한 업무 시간이나 나른한 휴식 시간에 들으면 딱이랍니다. 10시간의 편안한 여정에 함께해 보세요! 🎧✨",
+      "search_query": "게임 브금 로파이"
+    },
+    "trailer": {
+      "enabled": true,
+      "title": "Spider-Man: Brand New Day - Official Trailer",
+      "channel": "PlayStation",
+      "videoId": "aBlsrtxuwss",
+      "url": "https://www.youtube.com/watch?v=aBlsrtxuwss",
+      "thumbnail": "https://i.ytimg.com/vi/aBlsrtxuwss/hqdefault.jpg",
+      "comment": "드디어 스파이더맨의 새로운 시대가 열립니다! 압도적인 그래픽과 더 화려해진 액션을 보니 벌써 가슴이 뛰네요. 지금 트레일러로 역대급 진화를 확인해 보세요! 🕸️🔥",
+      "search_query": "new game announcement trailer"
+    },
+    "fanmade": {
+      "enabled": true,
+      "items": [
+        {
+          "title": "Gemma by Bootybear",
+          "score": 390,
+          "url": "https://i.imgur.com/EBUwupd.jpeg",
+          "permalink": "https://reddit.com/r/ImaginaryGaming/comments/1rzkgsz/gemma_by_bootybear/",
+          "subreddit": "ImaginaryGaming",
+          "author": "fappertwhack",
+          "comment": "젬마의 신비로운 분위기에 압도당했어요. 작가님의 섬세한 표현력에 감탄이 절로 나오네요! ✨"
+        },
+        {
+          "title": "Valeria from SoulCalibur by yagi2105",
+          "score": 224,
+          "url": "https://i.redd.it/jf2of86gnkqg1.jpeg",
+          "permalink": "https://reddit.com/r/ImaginaryGaming/comments/1s0hzkp/valeria_from_soulcalibur_by_yagi2105/",
+          "subreddit": "ImaginaryGaming",
+          "author": "Incubusphantom",
+          "comment": "소울칼리버 발레리아의 카리스마가 생생하네요! 팬덤의 열정이 느껴지는 정교한 묘사입니다. 🔥"
+        }
+      ]
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    }
+  },
+  "translations": {
+    "en": {},
+    "ja": {}
+  }
+}

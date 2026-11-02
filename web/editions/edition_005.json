@@ -1,0 +1,241 @@
+{
+  "num": "005",
+  "date": "2026-03-20",
+  "status": "published",
+  "schedule": {
+    "date": "",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "붉은사막",
+          "dev": "펄어비스",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "글로벌 동시 출시",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1772977",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "event",
+          "game": "CD 프로젝트 레드 실적 보고",
+          "dev": "CD 프로젝트 레드",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#f59e0b",
+          "note": "위쳐 4 개발 인력 집중",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=314609",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "마라톤",
+          "dev": "번지",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#3b82f6",
+          "note": "첫 레이드 '크라이오 아카이브' 시작",
+          "country": "IN",
+          "article_url": "https://in.ign.com/marathon/256211/news/bungie-reveals-all-details-of-marathons-first-raid-cryo-archive-goes-live-on-march-20-and-weekends-o",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "release",
+          "game": "초신시공 게임 넵튠 ∞(언리미티드)",
+          "dev": "컴파일 하트",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Switch",
+            "Switch 2"
+          ],
+          "color": "#10b981",
+          "note": "8월 27일 발매 확정",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/992/G099212/20260319025/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "데스 스트랜딩 2",
+          "dev": "코지마 프로덕션",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "PC 버전 출시",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202603/69206",
+          "source_name": "Famitsu"
+        },
+        {
+          "category": "update",
+          "game": "워해머 40,000: 스페이스 마린 2",
+          "dev": "세이버 인터랙티브",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#3b82f6",
+          "note": "논란의 유료 DLC 무료화 및 환불 결정",
+          "country": "IN",
+          "article_url": "https://in.ign.com/warhammer-40000-space-marine-ii/256213/news/its-obvious-this-dlc-has-failed-to-meet-your-expectations-warhammer-40000-space-marine-2-dev-issues",
+          "source_name": "IGN India"
+        }
+      ],
+      "events": [
+        {
+          "name": "iicon 2026 (E3 후속)",
+          "note": "",
+          "venue": "미국 라스베가스",
+          "date": "2026-04-27~2026-04-30",
+          "tag": "행사",
+          "d_day_str": "D-38",
+          "website": "https://www.iicon.com"
+        },
+        {
+          "name": "서머 게임 페스트 2026",
+          "note": "",
+          "venue": "미국",
+          "date": "2026-06-01~2026-06-30",
+          "tag": "행사",
+          "d_day_str": "D-73",
+          "website": "https://www.summergamefest.com"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "유비소프트 레드 스톰 개발 중단 및 감원 발표",
+          "source": "GamesIndustry.biz",
+          "time": "오늘",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/ubisoft-announces-layoffs-and-the-cease-of-game-development-at-red-storm-entertainment"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "스파이더맨 새 예고편, 7억 뷰로 역대 기록 경신",
+          "source": "IGN India",
+          "time": "오늘",
+          "country": "IN",
+          "article_url": "https://in.ign.com/spider-man-brand-new-day/256215/news/spider-man-brand-new-day-beats-gta-6-record-after-trailer-pulls-718-million-views-in-24-hours"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "엔비디아 DLSS 5 기술 논란, 업계 반발 확산",
+          "source": "IGN India",
+          "time": "오늘",
+          "country": "IN",
+          "article_url": "https://in.ign.com/assassins-creed-shadows/256208/news/its-re-rendering-the-game-it-turns-out-game-artists-dont-love-dlss-5-despite-nvidias-claims"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "아랑전설 CotW, 블루 마리 DLC 26일 출시",
+          "source": "4Gamer",
+          "time": "오늘",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/649/G064915/20260319089/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "포켓몬 카드 게임 포켓, 신규 확장팩 26일 출시",
+          "source": "4Gamer",
+          "time": "오늘",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/779/G077901/20260319088/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "2026 VCT 퍼시픽 스테이지 1, 4월 3일 개막",
+          "source": "인벤",
+          "time": "오늘",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=314607"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "디아블로 이모탈, 2026년 로드맵 및 업데이트",
+          "source": "인벤",
+          "time": "오늘",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=314608"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": true,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "환상은 끝나고 증명만 남았다: AAA 게임의 ‘사생결단’ 시대",
+      "intro": "오늘 전해진 소식들은 글로벌 게임 산업이 겪고 있는 처절한 ‘선택과 집중’의 단면을 보여줍니다. CD 프로젝트 레드가 차기작 위쳐 4에 가용 인력을 총동원하고, 붉은사막이 글로벌 시장을 향해 전면적인 승부수를 띄우는 이면에는 유비소프트 레드 스톰의 개발 중단과 감원이라는 뼈아픈 구조조정이 공존하고 있습니다. 이는 단순한 경기 침체의 여파를 넘어, 산업의 질서 자체가 근본적으로 재편되고 있다는 명백한 신호입니다.",
+      "points": "이제는 어설픈 다작(多作)으로는 결코 생존할 수 없는 고비용·고위험 구조가 완전히 정착되었습니다. 스파이더맨 예고편의 7억 뷰라는 기록적인 수치는 IP가 가진 파괴력을 증명하지만, 거꾸로 말하면 그 정도의 파급력을 갖지 못한 프로젝트는 시장에서 소리 없이 증발할 것임을 예고합니다. 워해머 40,000의 DLC 유료화 철회와 엔비디아 DLSS 5를 둘러싼 논란은, 기술적 편의나 수익 모델보다 게임의 본질적 완성도와 유저 신뢰를 우선시하려는 시장의 압박이 극에 달했음을 보여줍니다.\n\n결국 현재의 게임 산업은 **‘극단적 효율성과 독보적 IP로의 회귀’**라는 거대한 소용돌이 속에 있습니다. 더 이상 기술이 최적화의 부재를 가려주는 방패가 될 수 없으며, 유저들은 단 한 번의 정책적 실수도 용납하지 않습니다. 이제 게임사들에 요구되는 것은 화려한 비전이 아니라, **유저를 납득시킬 수 있는 ‘압도적 경험의 밀도’와 기술적 본질에 충실한 개발력**입니다. 본질에 집중하지 못하는 스튜디오는 도태될 수밖에 없는 가혹한 증명의 시대가 도래한 것입니다.\n\n소수의 거대 타이틀이 시장의 관심을 독식하는 이 구조가 과연 지속 가능한 생태계일까요? 창의적인 실험보다는 안전한 성공만을 쫓는 이 질주 끝에, 우리는 과연 10년 뒤에도 가슴 설레게 할 새로운 '전설'을 만날 수 있을지 자문해 보아야 할 시점입니다."
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    }
+  },
+  "translations": {
+    "en": {},
+    "ja": {}
+  }
+}

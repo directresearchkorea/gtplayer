@@ -1,0 +1,115 @@
+{
+  "num": "064",
+  "date": "2026-06-04",
+  "status": "published",
+  "schedule": {
+    "date": "",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [],
+      "events": [
+        {
+          "name": "비트서밋 2026",
+          "note": "",
+          "venue": "일본 교토",
+          "date": "2026-07-01~2026-07-31",
+          "tag": "오프라인 행사",
+          "d_day_str": "D-27",
+          "website": "https://www.bitsummit.org"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": []
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "오늘의 인사이트를 준비 중입니다",
+      "intro": "기술적인 문제로 인해 인사이트 생성이 지연되고 있습니다.",
+      "points": "잠시 후 다시 확인해 주시기 바랍니다."
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": true,
+      "title": "Everything Announced at the Sony State of Play - June 2026",
+      "channel": "IGN",
+      "videoId": "tnf64o91V7E",
+      "url": "https://www.youtube.com/watch?v=tnf64o91V7E",
+      "thumbnail": "https://i.ytimg.com/vi/tnf64o91V7E/hqdefault.jpg",
+      "comment": "🎬 놓치지 말아야 할 공식 트레일러: Everything Announced at the Sony State of Play - June 2026",
+      "search_query": "upcoming games 2026 trailer",
+      "ai_game_name": "기대작 트리플A 신작",
+      "ai_reason": "가장 기대받는 출시 예정작 공식 트레일러"
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {},
+    "ja": {}
+  },
+  "email_subject": {
+    "ko": "오늘의 인사이트를 준비 중입니다",
+    "en": "Global Gaming Insights & More",
+    "ja": "今週のゲームインサイト"
+  }
+}

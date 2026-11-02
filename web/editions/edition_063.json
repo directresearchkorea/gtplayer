@@ -1,0 +1,424 @@
+{
+  "num": "063",
+  "date": "2026-06-03",
+  "status": "published",
+  "schedule": {
+    "date": "2026-06-03",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "타투 제거 시뮬레이터",
+          "dev": "우라가",
+          "date": "6월 2일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "손님들의 타투를 제거해주며 그들의 일상과 숨겨진 사연을 전해 듣는 이색 힐링 시뮬레이션 게임 '타투 제거 시뮬레이터'가 6월 2일 스팀을 통해 정식 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1775952",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "트리 오브 세이비어",
+          "dev": "IMC게임즈",
+          "date": "6월 2일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "PC MMORPG '트리 오브 세이비어'가 장비 제한 없이 강력한 수정 마법을 사용하는 신규 클래스 '샤드브링어'와 전용 무기를 추가하는 업데이트를 6월 2일 적용했습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=317047",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "패스 오브 엑자일 2",
+          "dev": "그라인딩 기어 게임즈",
+          "date": "6월 2일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "핵앤슬래시 RPG '패스 오브 엑자일 2'가 신규 확장팩 '고대의 귀환'을 업데이트하며 새로운 시즌의 시작을 알렸습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1775968",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "event",
+          "game": "아키텍트: 랜드 오브 엑자일",
+          "dev": "드림에이지",
+          "date": "6월 2일(화)",
+          "platforms": [
+            "PC",
+            "iOS",
+            "Android"
+          ],
+          "color": "#f59e0b",
+          "note": "모바일 및 PC 멀티플랫폼 MMORPG '아키텍트: 랜드 오브 엑자일'이 6월 2일부터 인기 애니메이션 '진격의 거인'과의 대규모 컬래버레이션 이벤트를 시작합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=317043",
+          "source_name": "인벤"
+        },
+        {
+          "category": "event",
+          "game": "프라시아 전기",
+          "dev": "넥슨",
+          "date": "6월 2일(화)",
+          "platforms": [
+            "PC",
+            "iOS",
+            "Android"
+          ],
+          "color": "#f59e0b",
+          "note": "넥슨의 MMORPG '프라시아 전기'가 여름 감사제에 앞서 풍성한 성장 혜택과 보상을 제공하는 '2026 프라시아 여름 전야제' 이벤트를 6월 2일부터 개최합니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1775947",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "이환",
+          "dev": "핫타 스튜디오",
+          "date": "6월 3일(수)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "iOS",
+            "Android"
+          ],
+          "color": "#3b82f6",
+          "note": "초자연 어반 오픈월드 RPG '이환'이 출시 이후 첫 번째 대형 업데이트인 Ver.1.1 '꿈의 회랑'을 6월 3일에 실시합니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1775935",
+          "source_name": "게임메카"
+        }
+      ],
+      "events": [
+        {
+          "name": "몬길: 스타 다이브 첫 번째 팝업스토어",
+          "note": "넷마블 신작 '몬길: 스타 다이브'의 첫 오프라인 팝업스토어로 야옹이 쿠션 등 굿즈 판매 및 체험형 이벤트가 진행됩니다.",
+          "venue": "스타필드 하남",
+          "date": "2026-06-03 ~ 2026-06-07",
+          "tag": "오프라인 행사",
+          "website": "https://www.gamemeca.com/view.php?gid=1775930"
+        },
+        {
+          "name": "소니 스테이트 오브 플레이 (State of Play)",
+          "note": "소니의 온라인 쇼케이스로, 다수의 PS5 독점작 및 퍼스트 파티 게임의 PC 이식 정보 등이 공개됩니다.",
+          "venue": "온라인",
+          "date": "2026-06-03",
+          "tag": "쇼케이스",
+          "website": "https://www.inven.co.kr/webzine/news/?news=317051"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "전 와우 디자이너 홀린카, 라이엇 롤 MMO 합류",
+          "source": "인벤",
+          "time": "6월 3일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=317061"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "엔비디아 젠슨 황, 엔씨 김택진 대표와 독대 예정",
+          "source": "게임메카",
+          "time": "6월 2일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1775939"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "밸브, 외부 결제 도입한 유비소프트 퇴출 협박 논란",
+          "source": "IGN India",
+          "time": "6월 3일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/tom-clancys-rainbow-six/262297/valve-reportedly-threatened-to-delist-rainbow-six-siege-on-steam-after-ubisoft-offered-cheaper-alter"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "툼 레이더 신작, 2027년으로 출시 연기 관측 제기",
+          "source": "IGN India",
+          "time": "6월 3일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/tomb-raider-legacy-of-atlantis/262301/it-looks-like-tomb-raider-legacy-of-atlantis-is-delayed-to-2027"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "스칼렛 넥서스 누적 200만 돌파, 디렉터 속편 의지",
+          "source": "電撃オンライン",
+          "time": "6월 3일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202606/76685"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "Scriptorium, 인기 작 발라트로와 콜라보 실시",
+          "source": "4Gamer",
+          "time": "6월 2일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/833/G083395/20260602048/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "아타리, 길건너 친구들 개발사 2,900만 달러에 인수",
+          "source": "GamesIndustry.biz",
+          "time": "6월 3일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/atari-acquires-crossy-road-developer-hipster-whale"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "미나 더 홀로워 3일새 30만 장 판매, 개발사 회생",
+          "source": "PC Gamer",
+          "time": "6월 3일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/action/mina-the-hollower-sells-300-000-in-3-days-yacht-club-games-is-saved/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "플랫폼 제국의 독점권과 개발사의 독립 전쟁",
+      "intro": "세계 최대 PC 플랫폼 밸브가 우월적 지위를 이용해 대형 개발사 유비소프트를 압박하고 나섰습니다.\n수수료를 둘러싼 플랫폼과 거대 개발사 간의 이 오랜 전쟁은 결국 누구의 승리로 끝나게 될까요?",
+      "points": "밸브가 외부 결제 시스템 도입을 시도한 유비소프트에 대해 스팀 퇴출 카드를 꺼내 들며 플랫폼 지배력 남용 논란이 다시 점화되었습니다. 이는 모바일 마켓에서 촉발되었던 결제 수수료 갈등이 PC 게임 시장으로 본격 확산되는 양상을 보여줍니다. 🎮\n\n이러한 플랫폼 통제 강화는 **소비자의 게임 구매 경험과 지출 구조**에 직접적인 영향을 미칩니다. 독점 플랫폼의 과도한 수수료는 장기적으로 게임 가격 인상 요인이 되며, 이에 반발한 개발사들이 독자 플랫폼으로 이탈할 경우 소비자는 여러 런처를 번거롭게 오가야 하는 파편화의 불편을 겪게 됩니다. 💸\n\n결국 이번 사태는 **'독점 플랫폼의 권력 비대화가 창작 생태계를 어떻게 위협하는지'**를 여실히 보여주는 사례입니다. 콘텐츠 권력을 쥔 거대 기업조차 유통망을 쥔 플랫폼의 눈치를 봐야 하는 왜곡된 구조는 궁극적으로 게임 산업의 다양성을 저해하는 결과로 이어질 수 있습니다. ⚖️\n\n플랫폼이 제공하는 편의성과 개발사의 정당한 권리 보장 사이에서 상생을 위한 타협점을 찾을 수는 없는 것일까요? 글로벌 게임 유통 구조의 패러다임 변화를 이끌 이번 갈등의 결말을 주목해야 합니다. 🔍"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": true,
+      "title": "Neverness to Everness (NTE) | Relaxing Background OST",
+      "channel": "Komiko",
+      "videoId": "X9gNP35BMDs",
+      "url": "https://www.youtube.com/watch?v=X9gNP35BMDs",
+      "thumbnail": "https://i.ytimg.com/vi/X9gNP35BMDs/hqdefault.jpg",
+      "comment": "최근 트레일러 공개로 전 세계 게이머들의 기대를 한 몸에 받고 있는 '이환(NTE)'의 매력에 미리 빠져볼까요? 🌆 오늘 퇴근길에는 이 차분한 배경 음악을 들으며 하루의 피로를 풀어보세요. 신비로운 도시의 밤을 걷는 듯한 감각적인 선율이 마음을 편안하게 해줄 거예요. 🎧",
+      "search_query": "Neverness to Everness Official OST",
+      "ai_game_name": "이환 (Neverness to Everness)",
+      "ai_reason": "첫 대형 업데이트 '꿈의 회랑'을 맞이한 초자연 어반 오픈월드 RPG '이환'의 음악입니다. 지난주 추천한 무겁고 어두운 헬블레이드 2의 사운드와 대비되는, 도시적인 세련됨과 신비로운 일렉트로닉 비트가 어우러진 트렌디한 사운드를 만끽할 수 있습니다."
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=063&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=063&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Tattoo Remover Simulator",
+        "releases.0.note": "The unique healing simulation game 'Tattoo Remover Simulator,' where players remove customers' tattoos and listen to their daily lives and hidden stories, was officially released on Steam on June 2.",
+        "releases.0.dev": "Uraga",
+        "releases.1.game": "Tree of Savior",
+        "releases.1.note": "On June 2, the PC MMORPG 'Tree of Savior' applied an update adding 'Shardbringer,' a new class that uses powerful crystal magic without equipment restrictions, along with its exclusive weapon.",
+        "releases.1.dev": "IMC Games",
+        "releases.2.game": "Path of Exile 2",
+        "releases.2.note": "The hack-and-slash RPG 'Path of Exile 2' has updated with its new expansion 'Return of the Ancients,' marking the start of a new season.",
+        "releases.2.dev": "Grinding Gear Games",
+        "releases.3.game": "Architect: Land of Exiles",
+        "releases.3.note": "The mobile and PC multi-platform MMORPG 'Architect: Land of Exiles' starts a large-scale collaboration event with the popular anime 'Attack on Titan' on June 2.",
+        "releases.3.dev": "DreamAge",
+        "releases.4.game": "Wars of Prasia",
+        "releases.4.note": "Nexon's MMORPG 'Wars of Prasia' will host the '2026 Prasia Summer Eve' event starting June 2, offering rich growth benefits and rewards ahead of the Summer Appreciation Festival.",
+        "releases.4.dev": "Nexon",
+        "releases.5.game": "Neverness to Everness",
+        "releases.5.note": "The supernatural urban open-world RPG 'Neverness to Everness' will launch its first major post-release update, Ver. 1.1 'Corridor of Dreams,' on June 3.",
+        "releases.5.dev": "Hotta Studio",
+        "events.0.name": "Mongil: Star Dive First Pop-up Store",
+        "events.0.note": "This is the first offline pop-up store for Netmarble's new game 'Mongil: Star Dive,' featuring merchandise sales like kitty cushions and interactive experience events.",
+        "events.0.venue": "Starfield Hanam",
+        "events.1.name": "Sony State of Play",
+        "events.1.note": "Sony's online showcase, where details on multiple PS5 exclusives and PC ports of first-party games will be revealed.",
+        "events.1.venue": "Online"
+      },
+      "briefing": {
+        "items.0.title": "Former WoW Designer Holinka Joins Riot's LoL MMO",
+        "items.0.source": "Inven",
+        "items.0.time": "June 3",
+        "items.1.title": "NVIDIA's Jensen Huang Scheduled to Meet One-on-One with NCSoft CEO Taek-Jin Kim",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "June 2",
+        "items.2.title": "Valve Spark Controversy by Threatening to Remove Ubisoft Over Third-Party Payment System Integration",
+        "items.2.source": "IGN India",
+        "items.2.time": "June 3",
+        "items.3.title": "Speculation Arises Over Next Tomb Raider Game Delayed to 2027",
+        "items.3.source": "IGN India",
+        "items.3.time": "June 3",
+        "items.4.title": "Scarlet Nexus Surpasses 2 Million Cumulative Units, Director Expresses Strong Desire for Sequel",
+        "items.4.source": "Dengeki Online",
+        "items.4.time": "June 3",
+        "items.5.title": "Scriptorium Collaborates with Popular Game Balatro",
+        "items.5.source": "4Gamer",
+        "items.5.time": "June 2",
+        "items.6.title": "Atari Acquires Crossy Road Developer for $29 Million",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "June 3",
+        "items.7.title": "Mina the Hollower Sells 300,000 Copies in 3 Days, Reviving the Developer",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "June 3"
+      },
+      "drk": {
+        "title": "The Monopoly of Platform Empires vs. Developers' War for Independence",
+        "intro": "Valve, the world's largest PC platform, has begun leveraging its dominant position to pressure major developer Ubisoft. Who will ultimately emerge victorious in this long-running war between platforms and giant developers over commission fees?",
+        "points": "The controversy over the abuse of platform dominance has reignited as Valve threatened to pull Ubisoft from Steam after the publisher attempted to introduce a third-party payment system. This signals that the payment fee conflicts initially sparked in the mobile market are now fully spreading into the PC gaming market. 🎮\n\nThis tightening of platform control directly impacts **consumers' game-purchasing experiences and spending patterns**. Excessive commission fees charged by monopoly platforms can drive up game prices in the long run. Conversely, if developers leave for their own proprietary platforms in protest, consumers face the inconvenience of fragmentation, having to hassle with navigating multiple game launchers. 💸\n\nUltimately, this situation is a clear case showing **'how the bloating power of monopoly platforms threatens the creative ecosystem.'** A distorted structure where even giant corporations with content power must walk on eggshells around distribution platforms can ultimately undermine the diversity of the gaming industry. ⚖\n\nCan a compromise for mutual survival not be found between the convenience platforms provide and the protection of developers' rightful rights? We must keep a close eye on the resolution of this conflict, which could drive a paradigm shift in the global game distribution structure. 🔍"
+      },
+      "soundtrack": {
+        "title": "Neverness to Everness (NTE) | Relaxing Background OST",
+        "comment": "Shall we dive ahead into the charms of 'Neverness to Everness (NTE),' which is garnering massive expectations from gamers worldwide following its recent trailer reveal? 🌆 Why not ease the fatigue of your day by listening to this calming background music on your commute home tonight? The sensory melody, reminiscent of walking through a mysterious city night, will put your mind at ease. 🎧"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "タトゥー除去シミュレーター",
+        "releases.0.note": "客のタトゥーを除去しながら、彼らの日常や隠されたストーリーに耳を傾けるユニークなヒーリングシミュレーションゲーム『タトゥー除去シミュレーター』が、6月2日にSteamを通じて正式にリリースされました。",
+        "releases.0.dev": "Uraga",
+        "releases.1.game": "ツリーオブセイヴァー",
+        "releases.1.note": "PC向けMMORPG『ツリーオブセイヴァー』が、装備制限なしで強力な水晶魔法を使用する新規クラス「シャードブリンガー」と専用武器を追加するアップデートを6月2日に適用しました。",
+        "releases.1.dev": "IMC Games",
+        "releases.2.game": "Path of Exile 2",
+        "releases.2.note": "ハックアンドスラッシュRPG『Path of Exile 2』が、新規拡張パック「古代の帰還」をアップデートし、新しいシーズンの開幕を知らせました。",
+        "releases.2.dev": "Grinding Gear Games",
+        "releases.3.game": "ARCHITECT: LAND OF EXILES",
+        "releases.3.note": "モバイル・PCマルチプラットフォームMMORPG『ARCHITECT: LAND OF EXILES』が、6月2日から人気アニメ『進撃の巨人』との大規模コラボレーションイベントを開始します。",
+        "releases.3.dev": "DreamAge",
+        "releases.4.game": "プラシア戦記",
+        "releases.4.note": "ネクソンのMMORPG『プラシア戦記』が、夏の感謝祭に先立ち、豊富な成長特典と報酬を提供する「2026プラシア夏の前夜祭」イベントを6月2日から開催します。",
+        "releases.4.dev": "ネクソン",
+        "releases.5.game": "異環 - Neverness to Everness",
+        "releases.5.note": "超自然都市オープンワールドRPG『異環 - Neverness to Everness』が、リリース後初の大規模アップデートであるVer.1.1「夢の回廊」を6月3日に実施します。",
+        "releases.5.dev": "Hotta Studio",
+        "events.0.name": "『モンギル：スターダイブ』初のポップアップストア",
+        "events.0.note": "ネットマーブルの新作『モンギル：スターダイブ』初のオフラインポップアップストアで、猫クッションなどのグッズ販売や体験型イベントが開催されます。",
+        "events.0.venue": "スターフィールドハナム",
+        "events.1.name": "State of Play",
+        "events.1.note": "ソニーのオンラインショウケースで、多数のPS5独占タイトルおよびファーストパーティゲームのPC移植情報などが公開されます。",
+        "events.1.venue": "オンライン"
+      },
+      "briefing": {
+        "items.0.title": "元『WoW』デザイナーのホリンカ氏、ライアットの『LoL』MMOに合流",
+        "items.0.source": "Inven",
+        "items.0.time": "6月3日",
+        "items.1.title": "NVIDIAのジェンスン・フアン氏、NCソフトのキム・テクジン代表と個別会談の予定",
+        "items.1.source": "GameMeca",
+        "items.1.time": "6月2日",
+        "items.2.title": "Valve、外部決済を導入したUbisoftをSteamから追放すると脅迫し論争に",
+        "items.2.source": "IGN India",
+        "items.2.time": "6月3日",
+        "items.3.title": "『トゥームレイダー』新作、発売が2027年に延期との観測が浮上",
+        "items.3.source": "IGN India",
+        "items.3.time": "6月3日",
+        "items.4.title": "『SCARLET NEXUS』累計200万本突破、ディレクターが続編に意欲",
+        "items.4.source": "電撃オンライン",
+        "items.4.time": "6月3日",
+        "items.5.title": "『Scriptorium』、人気作『Balatro』とのコラボを実施",
+        "items.5.source": "4Gamer",
+        "items.5.time": "6月2日",
+        "items.6.title": "Atari、『クロッシーロード』の開発元を2,900万ドルで買収",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "6月3日",
+        "items.7.title": "『Mina the Hollower』発売3日で30万本を販売、開発元が窮地を脱する",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "6月3日"
+      },
+      "drk": {
+        "title": "プラットフォーム帝国の独占権と開発元の独立戦争",
+        "intro": "世界最大のPCプラットフォームであるValveが、優越的な地位を利用して大手開発元のUbisoftに圧力をかけ始めました。\n手数料を巡るプラットフォームと巨大開発元との間のこの長きにわたる戦争は、果たしてどちらの勝利で終わるのでしょうか？",
+        "points": "Valveが外部決済システムの導入を試みたUbisoftに対し、Steamからの追放カードをちらつかせたことで、プラットフォーム支配力濫用の議論が再燃しました。これは、モバイルマーケットで勃発した決済手数料を巡る葛藤が、PCゲーム市場へと本格的に拡大する様相を呈しています。🎮\n\nこのようなプラットフォームによる統制の強化は、**消費者のゲーム購入体験や支出構造**に直接的な影響を及ぼします。独占プラットフォームの過度な手数料は、長期的にはゲーム価格の上昇要因となり、これに反発した開発元が独自のプラットフォームへと離脱した場合、消費者は複数のランチャーを痕跡なく行き来しなければならない「断片化」による不便を強いられることになります。💸\n\n結局のところ、今回の事態は**「独占プラットフォームの権力肥大化が、創作エコシステムをどのように脅かすか」**を如実に示す事例と言えます。コンテンツの権力を握る巨大企業でさえ、流通網を握るプラットフォームの顔色を伺わなければならない歪んだ構造は、最終的にはゲーム産業の多様性を阻害する結果につながりかねません。⚖️\n\nプラットフォームが提供する利便性と、開発元の正当な権利保障との間で、相生（共存）のための妥協点を見出すことはできないのでしょうか。グローバルゲーム流通構造のパラダイムシフトを導くであろう、今回の葛藤の結末に注目が集まります。🔍"
+      },
+      "soundtrack": {
+        "title": "Neverness to Everness (NTE) | Relaxing Background OST",
+        "comment": "最近のトレーラー公開で世界中のゲーマーから大きな期待を集めている『異環（NTE）』の魅力に一足先に浸ってみませんか？🌆 今日の仕事帰りには、この落ち着いたバックグラウンドミュージックを聴きながら、一日の疲れを癒してください。神秘的な都市の夜を歩いているかのような感覚的な旋律が、心を安らげてくれるはずです。🎧"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "거대 플랫폼에 칼 뽑아든 개발사들 ⚔️ (feat. 귀가 녹는 NTE 힐링 OST 🎧)",
+    "en": "Game devs are rebelling against platform giants! ⚔️ (feat. relaxing NTE OST 🎧)",
+    "ja": "巨大プラットフォームに反旗を翻す開発元たち ⚔️ (feat. 耳が幸せになるNTE癒やしBGM 🎧)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {},
+      "updated_at": "2026-06-03T07:05:01.960846"
+    }
+  }
+}

@@ -1,0 +1,467 @@
+{
+  "num": "056",
+  "date": "2026-05-25",
+  "status": "published",
+  "schedule": {
+    "date": "2026-05-25",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "update",
+          "game": "붉은사막",
+          "dev": "펄어비스",
+          "date": "5월 23일(토)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X|S"
+          ],
+          "color": "#10b981",
+          "note": "5월 23일 진행된 1.08.00 업데이트를 통해 새끼 와이번 육성 기능과 함께 직접 낚시한 물고기를 키울 수 있는 연못 시스템이 새롭게 추가되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1775590",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "event",
+          "game": "스타 시티즌",
+          "dev": "클라우드 임페리얼 게임즈",
+          "date": "5월 25일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "누적 플레이어 후원금 10억 달러 돌파를 앞두고, 오는 5월 27일까지 누구나 게임을 무료로 체험할 수 있는 프리 플레이 이벤트를 진행합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/sim/as-it-rapidly-approaches-usd1-billion-in-player-funding-star-citizen-goes-free-to-play-until-may-27/",
+          "source_name": "PC Gamer"
+        },
+        {
+          "category": "event",
+          "game": "몬스터헌터 나우",
+          "dev": "나이언틱",
+          "date": "5월 25일(월)",
+          "platforms": [
+            "iOS",
+            "Android"
+          ],
+          "color": "#3b82f6",
+          "note": "5월 25일부터 토비카가치 아종 및 디노발드 소재 등을 풍성한 보상으로 획득할 수 있는 '초여름의 특별 교환소 위크' 이벤트가 개최됩니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202605/75788",
+          "source_name": "電撃オンライン"
+        },
+        {
+          "category": "event",
+          "game": "코토다만",
+          "dev": "믹시",
+          "date": "5월 25일(월)",
+          "platforms": [
+            "iOS",
+            "Android"
+          ],
+          "color": "#3b82f6",
+          "note": "5월 25일부터 인기 애니메이션 '전생했더니 슬라임이었던 건에 대하여'와의 콜라보 2탄이 개최되며, 림루(팔성마왕) 등 신규 캐릭터가 소환에 등장합니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202605/75766",
+          "source_name": "電撃オンライン"
+        },
+        {
+          "category": "event",
+          "game": "복구하자! 온천마을",
+          "dev": "인디 개발사",
+          "date": "5월 25일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "농사, 낚시, 곤충 채집 등을 즐기며 한적한 시골 마을을 재건하는 슬로우 라이프 어드벤처 '복구하자! 온천마을'의 스팀 플레이테스트가 진행 중입니다.",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202605/75811",
+          "source_name": "Famitsu"
+        },
+        {
+          "category": "update",
+          "game": "아랑전설 시티 오브 더 울브스",
+          "dev": "SNK",
+          "date": "5월 27일(수)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "PS4",
+            "Xbox Series X|S"
+          ],
+          "color": "#10b981",
+          "note": "오는 5월 27일부터 극한류 가라테의 진수를 보여주는 신규 플레이어블 DLC 캐릭터 '미스터 가라데(Mr.KARATE)'가 정식 합류합니다.",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202605/75798",
+          "source_name": "Famitsu"
+        }
+      ],
+      "events": [
+        {
+          "name": "드래곤 퀘스트 워크 '스마트 워크' 정보 방송",
+          "note": "신규 이벤트(DQ11 등 예상) 정보를 공개하는 공식 소개 방송",
+          "venue": "온라인 (공식 유튜브 채널)",
+          "date": "2026-05-26",
+          "tag": "쇼케이스",
+          "website": "https://dengekionline.com/article/202605/75826"
+        },
+        {
+          "name": "스타 시티즌 기간 한정 무료 플레이 이벤트 (Free Fly)",
+          "note": "누적 후원금 10억 달러 돌파를 앞두고 진행되는 기간 한정 전면 무료 플레이 주간",
+          "venue": "온라인 (PC)",
+          "date": "2026-05-25 ~ 2026-05-27",
+          "tag": "베타 테스트",
+          "website": "https://www.pcgamer.com/games/sim/as-it-rapidly-approaches-usd1-billion-in-player-funding-star-citizen-goes-free-to-play-until-may-27/"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "에픽게임즈, 차세대 '언리얼 엔진6' 전격 공개",
+          "source": "인벤",
+          "time": "2026년 5월 24일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316771"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "MS, 액티비전 블리자드 소송 합의금 종결",
+          "source": "인벤",
+          "time": "2026년 5월 24일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316770"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "킹덤 컴 개발사, 차기 오픈월드 RPG 내년 출시",
+          "source": "IGN India",
+          "time": "2026년 5월 24일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/kingdom-come-deliverance-2/261502/kingdom-come-dev-confirms-next-installment-is-an-open-world-rpg-set-to-launch-next-fiscal-year"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "신작 호러 파티 게임 '핸즈 오버' PC판 발표",
+          "source": "IGN India",
+          "time": "2026년 5월 24일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/news/261512/hands-over-a-horror-party-game-announced-for-pc"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "STG '우브스나' 개발 중단... 프로젝트 무산",
+          "source": "電撃オンライン",
+          "time": "2026년 5월 24일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202605/75789"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "건액션 '쿠산: 오오카미의 도시' 7월 30일 출시",
+          "source": "Famitsu",
+          "time": "2026년 5월 24일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202605/75813"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'포르자 호라이즌 6' 스팀 동접자 30만 돌파",
+          "source": "PC Gamer",
+          "time": "2026년 5월 24일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/racing/forza-horizon-6-speeds-into-steams-top-5-most-played-games-with-over-300k-concurrent-players/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "킥스타터, 반발 여론에 성인물 가이드라인 철회",
+          "source": "PC Gamer",
+          "time": "2026년 5월 24일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/gaming-industry/kickstarter-rolls-back-new-mature-content-guidelines-after-week-of-backlash/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "언리얼 엔진 6가 던진 화두: 개발 도구를 넘어 플랫폼 생태계의 지배자로",
+      "intro": "수억 달러의 개발비와 수년의 개발 기간이 더 이상 게임의 성공을 보장하지 않는 시대입니다.\n게임 생태계의 지반을 흔들 새로운 엔진의 등장은 시장을 어떻게 바꾸어 놓을까요?",
+      "points": "에픽게임즈가 차세대 '언리얼 엔진 6'를 전격 공개하며 전 세계 개발 업계의 이목을 집중시켰습니다. 이번 발표는 단순한 그래픽 성능의 향상을 넘어, 멀티플랫폼 간의 유기적인 연동과 메타버스 환경 내에서의 자유로운 상호작용을 핵심 가치로 내세우고 있습니다. 🎮\n\n이러한 기술적 진보는 **실제 게임 형태의 변화**와 **플랫폼 구조**의 대전환을 예고합니다. 개발 프로세스의 극적인 효율화로 중소형 개발사도 대형 개발사 못지않은 고품질의 크로스플랫폼 콘텐츠를 신속하게 제작할 수 있게 되며, 이는 특정 하드웨어에 종속되지 않는 멀티플랫폼 중심의 생태계를 더욱 공고히 할 것입니다. 🌐\n\n결국 에픽게임즈의 야망은 개발 도구 공급자를 넘어, 미래 가상 세계의 인프라 자체를 지배하는 것입니다. **게임 개발의 기술적 진입 장벽이 완전히 무너질수록, 시장의 최종 승패는 기술의 화려함이 아닌 독창적인 기획력과 소비자 심리를 관통하는 재미에 의해 결정될 것입니다.** 💡\n\n기술이 상상을 현실로 구현하는 속도는 날이 갈수록 빨라지고 있습니다. 새로운 엔진이 열어젖힐 플랫폼 대통합의 시대에, 여러분은 과연 어떤 혁신적인 가상 세계를 마주하고 싶으십니까? 🚀"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": true,
+      "items": [],
+      "title": "We replaced desktop pets with subscription plans.",
+      "score": 25585,
+      "url": "https://i.redd.it/ltxeats0yn2h1.png",
+      "preview_img": "https://preview.redd.it/ltxeats0yn2h1.png?auto=webp&s=5120dec558115a0ae30ff0824a1b026ad0400196",
+      "permalink": "https://reddit.com/r/pcmasterrace/comments/1tkejrs/we_replaced_desktop_pets_with_subscription_plans/",
+      "subreddit": "pcmasterrace",
+      "author": "rishu1221",
+      "num_comments": 386,
+      "what_happened": "‘바탕화면 요정을 구독 요금제와 맞바꿨다’라는 제목으로, 매달 돈을 뜯어가는 최신 AI 구독 서비스(Copilot, ChatGPT 등)보다 아무 기능 없어도 화면 한구석을 지켜주던 옛날 윈도우의 클리피와 귀여운 동물 길잡이들이 훨씬 그립다는 PC 유저들의 향수와 유머를 담았습니다.",
+      "one_liner": "매달 구독료만 갉아먹는 차가운 AI 비서보다, 아무짝에 쓸모없어도 꼬리 흔들어주던 그때 그 시절 댕댕이가 훨씬 힐링이었는데 말이죠... 🥲💸"
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=056&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=056&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Crimson Desert",
+        "releases.0.note": "The 1.08.00 update on May 23 has introduced a new pond system to raise fish you caught yourself, along with a baby wyvern nurturing feature.",
+        "releases.0.dev": "Pearl Abyss",
+        "releases.1.game": "Star Citizen",
+        "releases.1.note": "Approaching $1 billion in cumulative player funding, a Free Fly event is underway until May 27, allowing anyone to experience the game for free.",
+        "releases.1.dev": "Cloud Imperium Games",
+        "releases.2.game": "Monster Hunter Now",
+        "releases.2.note": "Starting May 25, the 'Early Summer Special Exchange Week' event will be held, offering abundant rewards such as materials for Viper Tobi-Kadachi and Glavenus.",
+        "releases.2.dev": "Niantic",
+        "releases.3.game": "Kotodaman",
+        "releases.3.note": "Starting May 25, the second collaboration with the popular anime 'That Time I Got Reincarnated as a Slime' will begin, featuring new characters like Rimuru (Octagram Demon Lord) in the summon pool.",
+        "releases.3.dev": "Mixi",
+        "releases.4.game": "Rebuild! Hot Spring Village",
+        "releases.4.note": "A Steam playtest is currently underway for 'Rebuild! Hot Spring Village', a slow-life adventure game where players rebuild a quiet rural village while enjoying farming, fishing, and bug catching.",
+        "releases.4.dev": "Indie Developer",
+        "releases.5.game": "Fatal Fury: City of the Wolves",
+        "releases.5.note": "Starting May 27, the new playable DLC character 'Mr. Karate', showcasing the essence of Kyokugenryu Karate, will officially join the roster.",
+        "releases.5.dev": "SNK",
+        "events.0.name": "Dragon Quest Walk 'Smart Walk' Information Broadcast",
+        "events.0.note": "An official broadcast revealing details about the new event (expected to be DQ11, etc.)",
+        "events.0.venue": "Online (Official YouTube Channel)",
+        "events.1.name": "Star Citizen Limited-Time Free Play Event (Free Fly)",
+        "events.1.note": "A limited-time, completely free-to-play week held as cumulative funding approaches $1 billion.",
+        "events.1.venue": "Online (PC)"
+      },
+      "briefing": {
+        "items.0.title": "Epic Games Officially Reveals Next-Gen 'Unreal Engine 6'",
+        "items.0.source": "Inven",
+        "items.0.time": "May 24, 2026",
+        "items.1.title": "MS Settles Activision Blizzard Lawsuit Payout",
+        "items.1.source": "Inven",
+        "items.1.time": "May 24, 2026",
+        "items.2.title": "Kingdom Come Developer to Release Next Open-World RPG Next Year",
+        "items.2.source": "IGN India",
+        "items.2.time": "May 24, 2026",
+        "items.3.title": "New Horror Party Game 'Hands Over' Announced for PC",
+        "items.3.source": "IGN India",
+        "items.3.time": "May 24, 2026",
+        "items.4.title": "STG 'Ubusuna' Development Halted... Project Canceled",
+        "items.4.source": "Dengeki Online",
+        "items.4.time": "May 24, 2026",
+        "items.5.title": "Gun-Action Game 'Kusan: City of Wolves' to Launch on July 30",
+        "items.5.source": "Famitsu",
+        "items.5.time": "May 24, 2026",
+        "items.6.title": "'Forza Horizon 6' Surpasses 300,000 Concurrent Players on Steam",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "May 24, 2026",
+        "items.7.title": "Kickstarter Withdraws Adult Content Guidelines Following Backlash",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "May 24, 2026"
+      },
+      "drk": {
+        "title": "The Topic Raised by Unreal Engine 6: Beyond a Development Tool, to the Ruler of the Platform Ecosystem",
+        "intro": "We are in an era where hundreds of millions of dollars in budget and years of development no longer guarantee a game's success.\nHow will the emergence of a new engine that shakes the foundation of the gaming ecosystem change the market?",
+        "points": "Epic Games has officially unveiled the next-generation 'Unreal Engine 6,' capturing the attention of the global development industry. This announcement goes beyond simple improvements in graphic performance, showcasing seamless cross-platform integration and free interaction within the metaverse environment as its core values. 🎮\n\nThese technological advances herald a major shift in both **actual game design** and **platform structures**. By dramatically streamlining the development process, small and medium-sized studios will be able to quickly produce high-quality cross-platform content on par with major developers. This will further solidify a multi-platform-centric ecosystem that is not dependent on specific hardware. 🌐\n\nUltimately, Epic Games' ambition is to go beyond being a mere development tool provider and dominate the very infrastructure of the future virtual world. **As the technical barriers to game development completely break down, the final victory in the market will not be decided by technical flashiness, but by creative planning and genuine fun that connects with consumer psychology.** 💡\n\nThe speed at which technology turns imagination into reality is accelerating every day. In this era of grand platform unification opened by the new engine, what kind of innovative virtual world are you looking forward to experiencing? 🚀"
+      },
+      "meme": {
+        "what_happened": "Titled 'Traded Desktop Assistants for Subscription Plans,' this captures PC users' nostalgia and humor. It expresses how they sorely miss the old Windows Clippy and cute animal assistants—which watched over a corner of the screen without any real features—much more than the latest AI subscription services (Copilot, ChatGPT, etc.) that drain their wallets every month.",
+        "one_liner": "Rather than a cold AI assistant that just eats up subscription fees every month, that useless but tail-wagging puppy helper from back in the day was so much more healing... 🥲💸"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "紅の砂漠",
+        "releases.0.note": "5月23日に行われた1.08.00アップデートを通じて、赤ちゃんワイバーンの育成機能とともに、自分で釣った魚を育てることができる池システムが新たに追加されました。",
+        "releases.0.dev": "パールアビス",
+        "releases.1.game": "スター・シチズン",
+        "releases.1.note": "累計プレイヤー支援金10億ドル突破を控え、来る5月27日まで、誰もがゲームを無料で体験できるフリープレイイベントを開催します。",
+        "releases.1.dev": "クラウド・インペリウム・ゲームズ",
+        "releases.2.game": "モンスターハンターNow",
+        "releases.2.note": "5月25日から、トビカガチ亜種やディノバルドの素材などを豊富な報酬として獲得できる「初夏の特別交換所ウィーク」イベントが開催されます。",
+        "releases.2.dev": "ナイアンティック",
+        "releases.3.game": "コトダマン",
+        "releases.3.note": "5月25日から人気アニメ『転生したらスライムだった件』とのコラボ第2弾が開催され、リムル（八星魔王）などの新キャラクターが召喚に登場します。",
+        "releases.3.dev": "ミクシィ",
+        "releases.4.game": "復旧しよう！温泉街",
+        "releases.4.note": "農業、釣り、虫捕りなどを楽しみながら静かな田舎町を再建するスローライフ・アドベンチャー『復旧しよう！温泉街』のSteamプレイテストが進行中です。",
+        "releases.4.dev": "インディー開発元",
+        "releases.5.game": "餓狼伝説 City of the Wolves",
+        "releases.5.note": "来る5月27日から、極限流空手の真髄を見せる新規プレイアブルDLCキャラクター「Mr.カラテ」が正式に参戦します。",
+        "releases.5.dev": "SNK",
+        "events.0.name": "『ドラゴンクエストウォーク』「スマートウォーク」情報番組",
+        "events.0.note": "新イベント（DQ11などと予想）の情報を公開する公式紹介番組",
+        "events.0.venue": "オンライン（公式YouTubeチャンネル）",
+        "events.1.name": "『スター・シチズン』期間限定無料プレイイベント（Free Fly）",
+        "events.1.note": "累計支援金10億ドル突破を控えて開催される、期間限定の全面無料プレイ週間",
+        "events.1.venue": "オンライン（PC）"
+      },
+      "briefing": {
+        "items.0.title": "Epic Games、次世代「Unreal Engine 6」を電撃発表",
+        "items.0.source": "Inven",
+        "items.0.time": "2026年5月24日",
+        "items.1.title": "MS、アクティビジョン・ブリザード訴訟の和解合意で終結",
+        "items.1.source": "Inven",
+        "items.1.time": "2026年5月24日",
+        "items.2.title": "『キングダムカム』開発元、次期オープンワールドRPGを来年発売へ",
+        "items.2.source": "IGN India",
+        "items.2.time": "2026年5月24日",
+        "items.3.title": "新作ホラーパーティーゲーム『Hands Over』PC版発表",
+        "items.3.source": "IGN India",
+        "items.3.time": "2026年5月24日",
+        "items.4.title": "STG『うぶすな』開発中止…プロジェクト頓挫",
+        "items.4.source": "電撃オンライン",
+        "items.4.time": "2026年5月24日",
+        "items.5.title": "ガンアクション『Kusan: City of Wolves』7月 30日発売",
+        "items.5.source": "Famitsu",
+        "items.5.time": "2026年5月24日",
+        "items.6.title": "『Forza Horizon 6』Steam同時接続者数30万人突破",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "2026年5月24日",
+        "items.7.title": "Kickstarter、反発世論を受け成人向けコンテンツガイドラインを撤回",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "2026年5月24日"
+      },
+      "drk": {
+        "title": "Unreal Engine 6が投げかけた一石：開発ツールを超え、プラットフォーム生態系の支配者へ",
+        "intro": "数億ドルの開発費と数年の開発期間が、もはやゲームの成功を保証しない時代です。ゲームの生態系の基盤を揺るがす新しいエンジンの登場は、市場をどのように変えるでしょうか？",
+        "points": "Epic Gamesが次世代の「Unreal Engine 6」を電撃発表し、世界中の開発業界の注目を集めました。今回の発表は、単なるグラフィック性能の向上にとどまらず、マルチプラットフォーム間の有機的な連携と、メタバース環境内での自由な相互作用を核心的な価値として掲げています。🎮\n\nこのような技術的進歩は、**実際のゲーム形態の変化**と**プラットフォーム構造**の大転換を予感させます。開発プロセスの劇的な効率化により、中小規模の開発会社であっても大手開発会社に劣らない高品質なクロスプラットフォームコンテンツを迅速に制作できるようになり、これは特定のハードウェアに依存しないマルチプラットフォーム中心の生態系をさらに強固なものにするでしょう。🌐\n\n結局のところ、Epic Games의 野望は開発ツール提供者を超え、未来の仮想世界のインフラそのものを支配することにあります。**ゲーム開発の技術的な参入障壁が完全に崩壊するほど、市場의 最終的な勝敗は技術の華やかさではなく、独創的な企画力と消費者の心理を捉える「面白さ」によって決定されることになるでしょう。** 💡\n\n技術が想像を現実へと具現化するスピードは、日に日に加速しています。新しいエンジンが切り開くプラットフォーム大統合の時代に、皆さんは果たしてどのような革新的な仮想世界に出会いたいですか？ 🚀"
+      },
+      "meme": {
+        "what_happened": "「デスクトップの妖精をサブスクリプションと引き換えにした」というタイトルで、毎月お金を徴収していく最新のAIサブスクサービス（Copilot、ChatGPTなど）よりも、何の機能がなくても画面の片隅で見守ってくれていた、かつてのWindowsの「クリッピー」や可愛い動物のアシスタントたちのほうがよほど恋しいという、PCユーザーの郷愁とユーモアを表現しています。",
+        "one_liner": "毎月サブスク代ばかり食いつぶす冷たいAIアシスタントより、何の役にも立たなくても尻尾を振ってくれた、あの頃のワンちゃんのほうがよっぽど癒やされたものですが… 🥲💸"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "게임계를 삼키러 온 언리얼 엔진 6 👾 (feat. 오늘의 게이머 밈)",
+    "en": "Is Unreal Engine 6 taking over the gaming world? 👾 (feat. Meme of the Day)",
+    "ja": "ゲーム界を支配しにきたアンリアルエンジン6 👾 (feat. 今日のゲーマーミーム)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "와, 이제 게임 그래픽이 어디까지 발전할까요? 👾\n에픽게임즈가 차세대 '언리얼 엔진 6'를 깜짝 공개하며 엄청난 변화를 예고했네요!\n\nhttps://www.gtplayer.net/edition-056/\n\n#언리얼엔진6 #게임소식 #GTPlayer",
+          "posted": true,
+          "data": {
+            "data": {
+              "id": "2058670677272699205",
+              "edit_history_tweet_ids": [
+                "2058670677272699205"
+              ],
+              "text": "와, 이제 게임 그래픽이 어디까지 발전할까요? 👾\n에픽게임즈가 차세대 '언리얼 엔진 6'를 깜짝 공개하며 엄청난 변화를 예고했네요!\n\nhttps://t.co/BDPs8TTFAR\n\n#언리얼엔진6 #게임소식 #GTPlayer"
+            }
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-25T07:05:10.542530"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "5월 25일 오늘의 게임 소식 🎮 에픽게임즈의 야심작, 언리얼 엔진 6 전격 공개!\n📰 [뉴스] 차세대 '언리얼 엔진 6' 공개 소식과 MS-액블 소송 종결 등 핫이슈 모음!\n🗓️ [출시] 드디어 베일 벗는 '붉은사막'부터 '스타 시티즌'까지 역대급 출시 라인업!\n🧠 [인사이트] Dr.K가 분석한 언리얼 엔진 6의 등장과 게임 플랫폼 생태계의 미래!\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임소식 #겜덕 #게임덕후 #신작게임 #출시예정작 #언리얼엔진6 #에픽게임즈 #붉은사막 #스타시티즌 #아랑전설 #게임추천 #인디게임 #게임스타그램 #겜스타그램 #스팀게임 #콘솔게임 #모바일게임 #gtplayer #지티플레이어",
+          "image_paths": [
+            "web\\instagram\\edition_056\\card_news.png",
+            "web\\instagram\\edition_056\\card_calendar.png",
+            "web\\instagram\\edition_056\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3904396348263483369_39332818166",
+            "url": "https://www.instagram.com/p/DYvM8rYk8fp/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-25T07:05:43.029312"
+    }
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "num": "050",
+  "date": "2026-05-12",
+  "status": "published",
+  "schedule": {
+    "date": "2026-05-12",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "배틀스타 갤럭티카: 스캐터드 홉스",
+          "dev": "얼로프트 스튜디오",
+          "date": "5월 12일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "5월 12일 정식 출시된 로그라이트 RTS 게임으로, 배틀스타 함대를 지휘하며 자원을 관리하고 사일론의 추격으로부터 인류를 생존시켜야 합니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/battlestar-galactica-scattered-hopes/260549/battlestar-galactica-scattered-hopes-official-launch-trailer",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "release",
+          "game": "아웃바운드 (Outbound)",
+          "dev": "스퀘어 글레이드 게임즈",
+          "date": "5월 12일(화)",
+          "platforms": [
+            "PC",
+            "Xbox Series X|S"
+          ],
+          "color": "#10b981",
+          "note": "5월 12일 출시된 캠핑카 생활 시뮬레이션 게임으로, 자급자족하며 이동식 거점을 개조하고 자연 속을 자유롭게 탐험하는 힐링 경험을 제공합니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/775/G077553/20260511044/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "update",
+          "game": "배틀필드 6",
+          "dev": "일렉트로닉 아츠 (EA)",
+          "date": "5월 12일(화)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X|S"
+          ],
+          "color": "#3b82f6",
+          "note": "5월 12일 적용된 시즌 3 업데이트를 통해 리메이크된 인기 맵 '골무드'와 신규 무기들이 추가되어 대규모 전장의 몰입감을 높였습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/fps/battlefield-6s-first-truly-big-map-feels-like-playing-a-different-much-better-battlefield/",
+          "source_name": "PC Gamer"
+        },
+        {
+          "category": "update",
+          "game": "드래곤 퀘스트 스매시 그로우",
+          "dev": "스퀘어 에닉스",
+          "date": "5월 12일(화)",
+          "platforms": [
+            "모바일"
+          ],
+          "color": "#3b82f6",
+          "note": "5월 12일 업데이트를 통해 '드래곤 퀘스트 1' 콜라보 이벤트 후반부가 시작되었으며, 신규 강력 무기인 '리우왕의 지팡이'가 새롭게 등장했습니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202605/74394",
+          "source_name": "전격 온라인"
+        },
+        {
+          "category": "update",
+          "game": "SD건담 G제네레이션 이터널",
+          "dev": "반다이 남코",
+          "date": "5월 13일(수)",
+          "platforms": [
+            "모바일"
+          ],
+          "color": "#3b82f6",
+          "note": "5월 13일 업데이트로 UR 등급의 '아틀라스 건담'과 '그레이트 지옹' 등 강력한 신규 유닛과 전용 파일럿들이 가샤 라인업에 추가됩니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202605/74416",
+          "source_name": "전격 온라인"
+        },
+        {
+          "category": "release",
+          "game": "왕좌의 게임: 킹스로드",
+          "dev": "넷마블",
+          "date": "5월 14일(목)",
+          "platforms": [
+            "PC",
+            "모바일"
+          ],
+          "color": "#10b981",
+          "note": "5월 14일 정식 출시되는 오픈월드 액션 RPG로, 원작의 세계관을 고퀄리티로 구현하며 뽑기 없는 BM과 수동 전투의 재미를 강조했습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316207",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "BitSummit PUNCH",
+          "note": "일본 최대 규모 인디 게임 축제로, Soft Source 등 주요 배급사가 참여하여 미발표 신작 2종을 포함한 다양한 인디 게임을 시연",
+          "venue": "일본 교토 미야코메세",
+          "date": "2026-05-22",
+          "tag": "오프라인 행사",
+          "website": "https://www.4gamer.net/games/005/G100547/20260511023/"
+        },
+        {
+          "name": "5월 일러스타 페스",
+          "note": "대형 서브컬처 이벤트로, 위메이드커넥트가 신작 RPG ‘메이크 드라마 : MAD’의 부스를 운영하고 관련 이벤트를 진행",
+          "venue": "오프라인 행사장",
+          "date": "2026-05-23",
+          "tag": "오프라인 행사",
+          "website": "https://www.gamemeca.com/view.php?gid=1775004"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "데브시스터즈 1분기 적자 기록 및 희망퇴직 실시",
+          "source": "인벤",
+          "time": "5월 11일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316304"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "5민랩 '템빨용사' 사전예약 50만 돌파, 26일 출시",
+          "source": "인벤",
+          "time": "5월 11일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316298"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "기어스 오브 워: E-데이, 9월 출시 가능성 제기",
+          "source": "IGN India",
+          "time": "5월 11일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/gears-of-war-e-day/260551/wwe-teaser-might-have-revealed-the-gears-of-war-e-day-release-date"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "반다이남코, 인도 내 애니메이션 굿즈 사업 확대",
+          "source": "IGN India",
+          "time": "5월 11일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/anime/260537/bandai-namco-wants-to-expand-anime-merch-in-india-with-local-manufacturing-and-exclusive-designs"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "세가-애니메이트, 8개 IP 활용 글로벌 협업 개시",
+          "source": "4Gamer",
+          "time": "5월 11일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/367/G036702/20260511045/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "‘성검전설’ 35주년 기념 라이브 콘서트 7월 개최",
+          "source": "Famitsu",
+          "time": "5월 11일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202605/74482"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "아타리, 클래식 RPG '위저드리' 초기 5종 IP 인수",
+          "source": "GamesIndustry.biz",
+          "time": "5월 11일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/atari-acquires-rights-to-first-five-wizardry-rpgs"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "IP의 진화: 약탈적 BM을 넘어 경험의 가치로",
+      "intro": "왕좌의 게임이 뽑기를 버리고, 아타리가 전설적인 고전 RPG를 사들였습니다.\n익숙한 IP들이 생존을 위해 과거의 성공 문법을 스스로 파괴하기 시작했습니다.",
+      "points": "최근 게임 시장은 기존 IP의 단순 재활용을 넘어, 비즈니스 모델(BM)의 근본적인 체질 개선과 정통성 확보에 집중하고 있습니다. '왕좌의 게임: 킹스로드'가 고퀄리티 액션과 'No 가샤'를 선언하고, 아타리가 RPG의 원조격인 '위저드리' IP를 인수한 것은 시장의 흐름이 변하고 있다는 명확한 신호입니다. 🕹️\n\n이러한 변화는 확률형 아이템에 지친 소비자 심리를 반영합니다. 데브시스터즈의 실적 악화와 희망퇴직 사례에서 알 수 있듯, 과거의 수익 구조에 안주하는 것은 더 이상 지속 가능한 성장을 보장하지 않습니다. 이제 소비자들은 플랫폼을 불문하고 수동 전투의 재미나 자급자족 시뮬레이션 같은 '직접적인 경험'에 가치를 부여하고 있으며, 이는 게임 소비 구조가 '결과를 위한 결제'에서 '과정의 즐거움'으로 이동하고 있음을 시사합니다. 📉\n\n결국 **IP의 진정한 가치는 브랜드의 명성이 아니라, 그 세계관 속에서 유저에게 얼마나 차별화된 경험을 제공하느냐에 달려 있습니다.** 화려한 껍데기에 독소적인 과금 구조를 채우던 시대는 저물고 있으며, 게임 본연의 재미를 어떻게 현대적으로 재해석하느냐가 기업의 존폐를 결정할 것입니다. 💡\n\n거대 자본이 투입된 대작들이 가샤 없는 비즈니스 모델로도 글로벌 시장에서 충분한 수익성을 증명할 수 있을까요? '경험의 질'이 곧 매출이 되는 건강한 생태계로의 전환이 성공할지 지켜봐야 할 시점입니다. 🤝"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "스텔라 블레이드",
+      "title": "인류 재건의 서막, 독자적인 진화를 이룬 차세대 전장",
+      "imgUrl": "",
+      "comment": "시프트업의 직접 서비스로 더욱 과감한 연출이 가능해진 '스텔라 블레이드' 차기작에서 이브가 마주할 새로운 인류 거점의 실제 구동 화면을 상상하며 구성했습니다.",
+      "ai_prompt": "Actual in-game screenshot, exact original game engine rendering, completely identical to original art style, NO cinematic styling, NO illustration. A high-definition third-person perspective of Eve standing in a futuristic post-apocalyptic city reclaimed by nature. She wears a highly detailed and sleek new design Nano Suit with metallic textures and glowing accents. A glowing energy blade is held in her hand. Sharp Unreal Engine 5 lighting, realistic skin shaders, dense environment textures. The background features ruined skyscrapers overgrown with lush greenery and bioluminescent flowers under a clear sunlight."
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=050&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=050&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Battlestar Galactica: Scattered Hopes",
+        "releases.0.note": "A roguelite RTS game officially released on May 12, where you command the Battlestar fleet, manage resources, and ensure humanity's survival against Cylon pursuit.",
+        "releases.0.dev": "Aloft Studio",
+        "releases.1.game": "Outbound",
+        "releases.1.note": "A camper van life simulation game released on May 12, providing a healing experience of living self-sufficiently, customizing a mobile base, and freely exploring nature.",
+        "releases.1.dev": "Square Glade Games",
+        "releases.2.game": "Battlefield 6",
+        "releases.2.note": "The Season 3 update applied on May 12 added the remade popular map 'Golmud Railway' and new weapons, enhancing the immersion of the large-scale battlefield.",
+        "releases.2.dev": "Electronic Arts (EA)",
+        "releases.3.game": "Dragon Quest Smash Grow",
+        "releases.3.note": "The second half of the 'Dragon Quest 1' collaboration event began with the May 12 update, introducing the powerful new weapon 'Staff of the Dragonlord'.",
+        "releases.3.dev": "Square Enix",
+        "releases.4.game": "SD Gundam G Generation Eternal",
+        "releases.4.note": "With the May 13 update, powerful new units like the UR-grade 'Atlas Gundam' and 'Great Zeong' along with their dedicated pilots will be added to the gacha lineup.",
+        "releases.4.dev": "Bandai Namco",
+        "releases.5.game": "Game of Thrones: Kingsroad",
+        "releases.5.note": "An open-world action RPG officially launching on May 14, it realizes the original world with high quality and emphasizes manual combat and a gacha-free business model.",
+        "releases.5.dev": "Netmarble",
+        "events.0.name": "BitSummit PUNCH",
+        "events.0.note": "Japan's largest indie game festival, featuring major publishers like Soft Source demonstrating various indie games, including two unannounced new titles.",
+        "events.0.venue": "Miyako Messe, Kyoto, Japan",
+        "events.1.name": "May Illustar Fest",
+        "events.1.note": "A large-scale subculture event where Wemade Connect will operate a booth for its new RPG 'Make Drama: MAD' and hold related events.",
+        "events.1.venue": "Offline Venue"
+      },
+      "briefing": {
+        "items.0.title": "Devsisters records Q1 loss and implements voluntary resignation program",
+        "items.0.source": "Inven",
+        "items.0.time": "May 11",
+        "items.1.title": "5minlab's 'Overgeared Warrior' surpasses 500,000 pre-registrations, set to launch on the 26th",
+        "items.1.source": "Inven",
+        "items.1.time": "May 11",
+        "items.2.title": "Gears of War: E-Day rumored for September release",
+        "items.2.source": "IGN India",
+        "items.2.time": "May 11",
+        "items.3.title": "Bandai Namco expands animation merchandise business in India",
+        "items.3.source": "IGN India",
+        "items.3.time": "May 11",
+        "items.4.title": "Sega-Animate launch global collaboration utilizing 8 IPs",
+        "items.4.source": "4Gamer",
+        "items.4.time": "May 11",
+        "items.5.title": "'Mana' series 35th-anniversary live concert to be held in July",
+        "items.5.source": "Famitsu",
+        "items.5.time": "May 11",
+        "items.6.title": "Atari acquires IP for the first 5 titles of the classic RPG 'Wizardry'",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "May 11"
+      },
+      "drk": {
+        "title": "Evolution of IP: Beyond Predatory Business Models to the Value of Experience",
+        "intro": "Game of Thrones abandoned gacha, and Atari bought legendary classic RPGs. Familiar IPs have begun to dismantle their past success formulas for the sake of survival.",
+        "points": "The recent game market is focusing on fundamental improvements to business models (BM) and securing legitimacy, moving beyond simple recycling of existing IPs. 'Game of Thrones: Kingsroad' declaring high-quality action and 'No Gacha,' along with Atari acquiring the 'Wizardry' IP—the progenitor of RPGs—are clear signals that market trends are shifting. 🕹️\n\nThis shift reflects consumer sentiment tired of loot boxes. As seen in Devsisters' worsening performance and voluntary resignation cases, relying on past profit structures no longer guarantees sustainable growth. Now, consumers value 'direct experiences' such as manual combat fun or self-sufficiency simulations regardless of platform, suggesting that game consumption structures are moving from 'payment for results' to 'enjoyment of the process.' 📉\n\nUltimately, **the true value of an IP lies not in brand fame but in how much of a differentiated experience it provides to users within its world.** The era of filling flashy shells with toxic monetization structures is ending, and how the core fun of games is reinterpreted for the modern age will determine a company's survival. 💡\n\nWill blockbusters with massive capital investment be able to prove sufficient profitability in the global market even with gacha-free business models? It is time to watch whether the transition to a healthy ecosystem, where 'quality of experience' equals revenue, will succeed. 🤝"
+      },
+      "gamescene": {
+        "game": "Stellar Blade",
+        "title": "The Prelude to Humanity's Reconstruction, a Next-Generation Battlefield with Independent Evolution",
+        "comment": "Composed by imagining the actual gameplay screen of the new human base that Eve will face in the sequel to 'Stellar Blade,' where Shift Up's direct service allows for bolder direction."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "バトルスター・ギャラクティカ：スキャッタード・ホープス",
+        "releases.0.note": "5月12日に正式リリースされたローグライトRTSゲームで、バトルスター艦隊を指揮し、リソースを管理しながらサイロンの追撃から人類を生存させなければなりません。",
+        "releases.0.dev": "アロフト・スタジオ",
+        "releases.1.game": "アウトバウンド (Outbound)",
+        "releases.1.note": "5月12日にリリースされたキャンピングカー生活シミュレーションゲームで、自給自足しながら移動拠点を改造し、自然の中を自由に探索するヒーリング体験を提供します。",
+        "releases.1.dev": "スクエア・グレイド・ゲームズ",
+        "releases.2.game": "バトルフィールド 6",
+        "releases.2.note": "5月12日に適用されたシーズン3アップデートを通じて、リメイクされた人気マップ「ゴルムド」と新規武器が追加され、大規模戦場の没入感を高めました。",
+        "releases.2.dev": "エレクトロニック・アーツ (EA)",
+        "releases.3.game": "ドラゴンクエスト スマッシュグロウ",
+        "releases.3.note": "5月12日のアップデートを通じて「ドラゴンクエストI」コラボイベント後半が開始され、新たな強力武器「竜王の杖」が登場しました。",
+        "releases.3.dev": "スクウェア・エニックス",
+        "releases.4.game": "SDガンダム ジージェネレーション エターナル",
+        "releases.4.note": "5月13日のアップデートで、UR級の「アトラスガンダム」や「グレート・ジオング」など、強力な新規ユニットと専用パイロットがガシャラインナップに追加されます。",
+        "releases.4.dev": "バンダイナムコ",
+        "releases.5.game": "ゲーム・オブ・スローンズ：キングスロード",
+        "releases.5.note": "5月14日に正式リリースされるオープンワールドアクションRPGで、原作の世界観を高クオリティで具現化し、ガチャのないBMと手動戦闘の楽しさを強調しています。",
+        "releases.5.dev": "ネットマーブル",
+        "events.0.name": "BitSummit PUNCH",
+        "events.0.note": "日本最大規模のインディーゲームの祭典で、Soft Sourceなどの主要パブリッシャーが参加し、未発表の新作2種を含む多様なインディーゲームを試遊展示。",
+        "events.0.venue": "日本・京都 みやこめっせ",
+        "events.1.name": "5月イラストフェス",
+        "events.1.note": "大規模サブカルチャーイベントで、Wemade Connectが新作RPG「メイクドラマ：MAD」のブースを運営し、関連イベントを進行。",
+        "events.1.venue": "オフライン会場"
+      },
+      "briefing": {
+        "items.0.title": "デヴシスターズ、第1四半期に赤字を記録し希望退職を実施",
+        "items.0.source": "インベン",
+        "items.0.time": "5月11日",
+        "items.1.title": "5minlab「テムパル勇者」事前予約50万突破、26日リリース",
+        "items.1.source": "インベン",
+        "items.1.time": "5月11日",
+        "items.2.title": "『ギアーズ・オブ・ウォー：E-Day』、9月リリースの可能性が浮上",
+        "items.2.source": "IGN India",
+        "items.2.time": "5月11日",
+        "items.3.title": "バンダイナムコ、インド国内でのアニメグッズ事業を拡大",
+        "items.3.source": "IGN India",
+        "items.3.time": "5月11日",
+        "items.4.title": "セガ×アニメイト、8つのIPを活用したグローバルコラボレーションを開始",
+        "items.4.source": "4Gamer",
+        "items.4.time": "5月11日",
+        "items.5.title": "『聖剣伝説』35周年記念ライブコンサート、7月に開催",
+        "items.5.source": "ファミ通",
+        "items.5.time": "5月11日",
+        "items.6.title": "アタリ、クラシックRPG『ウィザードリィ』初期5作品のIPを買収",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "5月11日"
+      },
+      "drk": {
+        "title": "IPの進化：略奪的なBMを超え、体験の価値へ",
+        "intro": "「ゲーム・オブ・スローンズ」がガチャを捨て、アタリが伝説的な古典RPGを買い取りました。馴染みのあるIPたちが生き残るため、過去の成功法則を自ら破壊し始めています。",
+        "points": "最近のゲーム市場は、既存IPの単純な再利用を超え、ビジネスモデル（BM）の根本的な体質改善と正統性の確保に集中しています。「ゲーム・オブ・スローンズ：キングスロード」が高クオリティなアクションと「ガチャなし」を宣言し、アタリがRPGの元祖である「ウィザードリィ」のIPを買収したことは、市場の流れが変わりつつあるという明確なシグナルです。🕹️\n\nこのような変化は、確率型アイテム（ガチャ）に疲弊した消費者の心理を反映しています。デヴシスターズの業績悪化と希望退職の事例からもわかるように、過去の収益構造に安住することは、もはや持続可能な成長を保証しません。今や消費者はプラットフォームを問わず、手動戦闘の楽しさや自給自足シミュレーションのような「直接的な体験」に価値を見出しており、これはゲームの消費構造が「結果のための課金」から「過程の楽しさ」へと移動していることを示唆しています。📉\n\n結局、**IPの真の価値はブランドの知名度ではなく、その世界観の中でユーザーにどれだけ差別化された体験を提供できるかにかかっています。** 華やかな外見に毒性のある課金構造を詰め込んでいた時代は終わりを告げようとしており、ゲーム本来の楽しさをいかに現代的に再解釈するかが、企業の存亡を決定づけるでしょう。💡\n\n巨額の資本が投入された大作が、ガチャのないビジネスモデルでもグローバル市場で十分な収益性を証明できるでしょうか。「体験の質」がそのまま売上につながる健全なエコシステムへの転換が成功するかどうか、注目すべき時が来ています。🤝"
+      },
+      "gamescene": {
+        "game": "ステラーブレイド",
+        "title": "人類再建の序幕、独自の進化を遂げた次世代の戦場",
+        "comment": "シフトアップの直接サービスにより、さらに大胆な演出が可能になった『ステラーブレイド』次作において、イヴが直面する新たな人類拠点の実際の動作画面を想定して構成しました。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "지갑 털던 IP의 반란? 🎮 '경험'을 파는 시대의 시작 (+주말 무료 배포)",
+    "en": "The end of Pay-to-Win? 🎮 How your favorite IPs are changing (plus Freebies!)",
+    "ja": "集金ゲーの時代は終了？🎮 進化するIP体験と今週の無料配布アイテム"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "지갑만 털던 게임들의 대변신? 🎮 이제는 단순 과금을 넘어 ‘경험’을 파는 시대가 온대요! 배틀필드 6 출시 소식과 주말 무료 배포까지 몽땅 챙겨왔으니 지금 확인해보세요! ✨\n\nhttps://www.gtplayer.net/edition-050/\n\n#배틀필드6 #게임소식 #GTPlayer",
+          "posted": true,
+          "data": {
+            "data": {
+              "id": "2053959624525795784",
+              "edit_history_tweet_ids": [
+                "2053959624525795784"
+              ],
+              "text": "지갑만 털던 게임들의 대변신? 🎮 이제는 단순 과금을 넘어 ‘경험’을 파는 시대가 온대요! 배틀필드 6 출시 소식과 주말 무료 배포까지 몽땅 챙겨왔으니 지금 확인해보세요! ✨\n\nhttps://t.co/tFaqIh2cIa\n\n#배틀필드6 #게임소식 #GTPlayer"
+            }
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-12T07:05:09.545980"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "5월 12일 오늘의 게임 소식 🎮 지갑 털던 IP들의 화려한 반란이 시작됩니다!\n\n📰 데브시스터즈 희망퇴직 소식부터 기어스 오브 워 출시 루머까지 핵심 뉴스 요약!\n🗓️ 배틀필드 6, 왕좌의 게임 등 게이머들을 설레게 할 이번 주 역대급 출시 라인업\n💡 \"뽑기 대신 경험을\" 독한 BM을 버리고 생존을 위해 변화하는 IP들의 깊이 있는 인사이트\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임덕후 #게임추천 #신작게임 #스팀게임 #모바일게임 #콘솔게임 #배틀필드6 #왕좌의게임 #데브시스터즈 #반다이남코 #게이머 #게임스타그램 #GTPLAYER #뉴스레터 #게임정보 #게임트렌드 #기어스오브워 #SD건담 #인디게임",
+          "image_paths": [
+            "web\\instagram\\edition_050\\card_news.png",
+            "web\\instagram\\edition_050\\card_calendar.png",
+            "web\\instagram\\edition_050\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3894974209819105012_39332818166",
+            "url": "https://www.instagram.com/p/DYNumhJk1b0/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-12T07:05:39.292444"
+    }
+  }
+}

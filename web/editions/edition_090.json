@@ -1,0 +1,427 @@
+{
+  "num": "090",
+  "date": "2026-07-28",
+  "status": "published",
+  "schedule": {
+    "date": "2026-07-28",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "스탈존",
+          "dev": "스마일게이트 스토브",
+          "date": "7월 27일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "7월 27일 정식 출시된 익스트랙션 슈터 MMO 게임으로, 뒤틀린 체르노빌 출입금지 구역을 배경으로 생존과 탈출을 펼칩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318893",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "헤일로: 캠페인 이볼브드",
+          "dev": "343 Industries",
+          "date": "7월 28일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "7월 28일 정식 출시되는 SF 1인칭 슈팅 게임으로, 명작 헤일로의 캠페인을 현대적인 연출과 그래픽으로 재구성했습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2806050/Halo_Campaign_Evolved/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "서, 위 해브 언 오크 프로블럼",
+          "dev": "Firefly Studios",
+          "date": "7월 28일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "7월 28일 정식 출시되는 타워 디펜스 전략 게임으로, 밀려드는 오크 군단을 막아내기 위해 방어선을 구축해야 합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4594150/Sir_We_Have_an_Orc_Problem/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "아일랜드 비키퍼",
+          "dev": "Cozy Games Studio",
+          "date": "7월 28일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "7월 28일 정식 출시되는 힐링 양봉 시뮬레이션 게임으로, 아름다운 섬에서 벌들을 기르며 자신만의 농장을 만들어갑니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3968160/Island_Beekeeper/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "이샵 타이쿤",
+          "dev": "CyberStudio",
+          "date": "7월 28일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "7월 28일 정식 출시되는 경영 시뮬레이션 게임으로, 자신만의 온라인 쇼핑몰을 설립하고 글로벌 이커머스 기업으로 성장시키는 과정을 담았습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4249850/EShop_Tycoon/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "미스트폴 헌터",
+          "dev": "Bellring Games",
+          "date": "7월 29일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "7월 29일 정식 출시되는 다크 판타지 3인칭 익스트랙션 액션 RPG로, 몰락한 신들의 세계에서 파밍과 탈출을 수행합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3282300/Mistfall_Hunter/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "2026 부산 인디 웨이브 컨퍼런스",
+          "note": "김용하 본부장 강연 등 BIC 연계 인디 게임 컨퍼런스",
+          "venue": "벡스코 제1전시장 2홀",
+          "date": "2026-08-14",
+          "tag": "오프라인 행사",
+          "website": "https://www.gamemeca.com/view.php?gid=1778330"
+        },
+        {
+          "name": "프롬 소프트웨어 '더스크 블러드' 네트워크 테스트",
+          "note": "신작 '더스크 블러드' 네트워크 테스트 참가 신청 마감",
+          "venue": "온라인",
+          "date": "2026-07-28",
+          "tag": "베타 테스트",
+          "website": "https://www.famitsu.com/article/202607/82613"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "신작 '갓 오브 워 라우페이', 내년 2월 16일 출시 확정",
+          "source": "게임메카",
+          "time": "7월 27일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1778291"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "그라비티 '라그나로크 M 2', 중국 외자판호 획득",
+          "source": "게임메카",
+          "time": "7월 27일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1778332"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "GTA 6 일본 실물 패키지, 출시 170일 후 만료 정책 논란",
+          "source": "IGN India",
+          "time": "7월 27일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/grand-theft-auto-vi/267371/physical-copies-of-gta-6-will-expire-170-days-after-launch-date-in-japan"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "FF14 스위치 2 버전, 용량만 기기 메모리 절반 육박",
+          "source": "IGN India",
+          "time": "7월 27일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/final-fantasy-xiv-online-a-realm-reborn/267360/final-fantasy-14-will-be-the-biggest-game-on-nintendo-switch-2-by-install-size-and-take-up-almost-ha"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "FF14, 신규 직업 '바스티온' 및 FF7R 콜라보 레이드 공개",
+          "source": "4Gamer",
+          "time": "7월 27일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/199/G019924/20260727030/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "소울라이크 '명말: 우츠로노하네', 글로벌 500만 장 판매 돌파",
+          "source": "4Gamer",
+          "time": "7월 27일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/807/G080776/20260727014/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'스탈커 2', 언리얼 엔진 업그레이드 및 첫 DLC 8월 출시",
+          "source": "PC Gamer",
+          "time": "7월 27일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/fps/stalker-2s-engine-upgrade-and-first-story-expansion-are-due-out-in-august/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "'소유'에서 '대여'로: 물리적 패키지 종말이 가져온 게임 소비의 균열",
+      "intro": "실물 패키지를 구매하고 소장하던 게이머의 온전한 권리는 어디로 사라진 걸까요? 🎮\n최근 잇따른 유효기간 논란과 용량 폭증은 게임 소비 방식의 거대한 변화를 시사합니다.",
+      "points": "최근 공개된 'GTA 6' 일본 실물 패키지의 170일 유효기간 제한과 '파이널 판타지 14' 스위치 2 버전의 거대한 설치 용량 소식은 시장에 큰 충격을 던졌습니다. 실물 타이틀이 단순 다운로드 교환권으로 전락하고, 차세대 콘솔마저 저장 공간 한계에 직면한 현주소를 잘 보여줍니다. 📦\n\n이러한 현상은 **게임 소비 구조**와 **소비자 심리**에 커다란 균열을 일으키고 있습니다. 게이머들은 '영구적 소장'이라는 패키지 구매의 본질적 가치를 박탈당하고 있으며, 플랫폼 종속성이 심화됨에 따라 단순 가품이 아닌 권리 축소에 대한 소비자들의 반발이 거세지고 있습니다. 💾\n\n결국 게임 산업은 **실물 제품을 '소유'하는 시대에서 한시적 '접근 권한'을 대여받는 시대로 완전히 이행**하고 있습니다. 퍼블리셔들은 중고 거래 차단과 서버 중심의 라이브 서비스 통제를 위해 실물 패키지의 유효기간 설정과 완전 디지털화를 더욱 가속화할 것입니다. 🔍\n\n소유의 개념이 해체되는 디지털 전면화의 시대 속에서, 게이머의 권리를 보호할 새로운 산업 표준은 과연 마련될 수 있을까요? ❓"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "승리의 여신: 니케",
+      "title": "애장품으로 재탄생한 메타, 솔로 레이드 보스를 압도하는 4인의 화력",
+      "imgUrl": "",
+      "comment": "이번 애장품 업데이트로 새롭게 개편될 솔로 레이드의 치열한 전투 현장을 AI에게 인게임 스타일 그대로 구현하도록 지시한 결과물입니다. 강화된 슈가와 플로라가 이끄는 시너지 조합이 거대 보스를 압도하는 미래의 한 장면을 감상해 보세요.",
+      "ai_prompt": "Actual in-game screenshot, exact original game engine rendering, completely identical to original art style, NO cinematic styling, NO illustration. Goddess of Victory Nikke gameplay UI screen, third-person rear view cover shooter combat against a colossal sci-fi Rapture boss in a ruined city environment. The squad features anime characters Sugar, Flora, Rosanna, and Phantom, displaying upgraded favorite item visual particle effects, glowing skill aura, heavy dynamic gunfire flashes, combat damage numbers floating over the boss, full burst meter active, authentic anime game visual style by Shift Up, 2D Live style characters in combat stance, crisp game HUD overlays, health bars, skill cooldown icons precisely visible."
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "STALZONE",
+        "releases.0.note": "An extraction shooter MMO game officially released on July 27, where players survive and escape in a twisted Chernobyl Exclusion Zone.",
+        "releases.0.dev": "Smilegate Stove",
+        "releases.1.game": "Halo: Campaign Evolved",
+        "releases.1.note": "A sci-fi first-person shooter game releasing officially on July 28, reimagining the classic Halo campaign with modern presentation and graphics.",
+        "releases.1.dev": "343 Industries",
+        "releases.2.game": "Sir, We Have an Orc Problem",
+        "releases.2.note": "A tower defense strategy game releasing officially on July 28, where you must build defense lines to withstand incoming orc hordes.",
+        "releases.2.dev": "Firefly Studios",
+        "releases.3.game": "Island Beekeeper",
+        "releases.3.note": "A relaxing beekeeping simulation game releasing officially on July 28, where players raise bees on a beautiful island and build their own farm.",
+        "releases.3.dev": "Cozy Games Studio",
+        "releases.4.game": "E-Shop Tycoon",
+        "releases.4.note": "A management simulation game releasing officially on July 28, depicting the process of establishing your own online shop and growing it into a global e-commerce company.",
+        "releases.4.dev": "CyberStudio",
+        "releases.5.game": "Mistfall Hunter",
+        "releases.5.note": "A dark fantasy 3rd-person extraction action RPG releasing officially on July 29, where players loot and escape in a world of fallen gods.",
+        "releases.5.dev": "Bellring Games",
+        "events.0.name": "2026 Busan Indie Wave Conference",
+        "events.0.note": "An indie game conference associated with BIC, featuring lectures such as Executive Producer Kim Yong-ha's presentation.",
+        "events.0.venue": "BEXCO Exhibition Center 1, Hall 2",
+        "events.1.name": "FromSoftware 'Dusk Blood' Network Test",
+        "events.1.note": "Application deadline for the network test of the new title 'Dusk Blood'",
+        "events.1.venue": "Online"
+      },
+      "briefing": {
+        "items.0.title": "New Title 'God of War Laufey' Confirmed for Release on Feb 16 Next Year",
+        "items.0.source": "Gamemeca",
+        "items.0.time": "July 27",
+        "items.1.title": "Gravity's 'Ragnarok M 2' Obtains Chinese Import Game License",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "July 27",
+        "items.2.title": "Controversy Surrounds GTA 6 Japan Physical Edition Expiration Policy 170 Days After Launch",
+        "items.2.source": "IGN India",
+        "items.2.time": "July 27",
+        "items.3.title": "FF14 Switch 2 Version Takes Up Nearly Half of System Memory Alone",
+        "items.3.source": "IGN India",
+        "items.3.time": "July 27",
+        "items.4.title": "FF14 Reveals New Job 'Bastion' and FF7R Collaboration Raid",
+        "items.4.source": "4Gamer",
+        "items.4.time": "July 27",
+        "items.5.title": "Soulslike 'Wuchang: Fallen Feathers' Surpasses 5 Million Units Sold Globally",
+        "items.5.source": "4Gamer",
+        "items.5.time": "July 27",
+        "items.6.title": "'S.T.A.L.K.E.R. 2' Engine Upgrade to Unreal Engine and First DLC Release in August",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "July 27"
+      },
+      "drk": {
+        "title": "From 'Ownership' to 'Leasing': Fractures in Game Consumption Brought by the End of Physical Editions",
+        "intro": "Where have the complete rights of gamers who purchased and collected physical editions vanished? 🎮\nRecent series of controversies over expiration dates and ballooning install sizes signify a massive shift in how games are consumed.",
+        "points": "The recent revelation of a 170-day expiration limit on GTA 6's Japanese physical package and the massive install size of Final Fantasy XIV's Switch 2 version sent shockwaves through the market. This clearly illustrates the current reality where physical titles are reduced to mere download vouchers, and even next-gen consoles face storage limits. 📦\n\nThis phenomenon is causing deep fractures in **game consumption structures** and **consumer psychology**. Gamers are being stripped of the core value of purchasing physical media—'permanent ownership'—and as platform dependency deepens, consumer backlash against the reduction of rights, rather than mere counterfeit goods, is growing fierce. 💾\n\nUltimately, the gaming industry is **shifting entirely from an era of 'owning' physical products to an era of leasing temporary 'access rights'**. Publishers will further accelerate the expiration setting and full digitization of physical copies to block second-hand trades and maintain server-centric live-service control. 🔍\n\nIn an age of full digitization where the concept of ownership is dissolving, can new industry standards be established to protect gamers' rights? ❓"
+      },
+      "gamescene": {
+        "game": "Goddess of Victory: Nikke",
+        "title": "Meta Reborn Through Favorite Items: 4-Member Firepower Overwhelming the Solo Raid Boss",
+        "comment": "This is the result of instructing AI to recreate the intense battle scene of the newly revamped Solo Raid in an in-game style following the Favorite Item update. Enjoy a scene from the future where a synergistic composition led by the empowered Sugar and Flora overwhelms a massive boss."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "STALZONE",
+        "releases.0.note": "7月27日に正式リリースされたエクストラクションシューターMMOゲームで、歪んだチェルノブイリ立ち入り禁止区域を舞台に生存と脱出を繰り広げます。",
+        "releases.0.dev": "Smilegate STOVE",
+        "releases.1.game": "ヘ일ロー：キャンペーン・イボルブド",
+        "releases.1.note": "7月28日に正式リリースされるSF第一人称シューティングゲームで、名作『Halo』のキャンペーンを現代的な演出とグラフィックで再構築しました。",
+        "releases.1.dev": "343 Industries",
+        "releases.2.game": "サー、ウィー・ハブ・アン・オーク・プロブレム",
+        "releases.2.note": "7月28日に正式リリースされるタワーディフェンス戦略ゲームで、押し寄せるオーク軍団を防ぐために防衛線を構築しなければなりません。",
+        "releases.2.dev": "Firefly Studios",
+        "releases.3.game": "アイランド・ビーキーパー",
+        "releases.3.note": "7月28일에 正式リリースされるヒーリング養蜂シミュレーションゲームで、美しい島でミツバチを育てながら自分だけの農場を作り上げていきます。",
+        "releases.3.dev": "Cozy Games Studio",
+        "releases.4.game": "eショップ・タイクーン",
+        "releases.4.note": "7月28日に正式リリースされる経営シミュレーションゲームで、自分だけのオンラインショップを設立し、グローバルEC企業へと成長させる過程を描いています。",
+        "releases.4.dev": "CyberStudio",
+        "releases.5.game": "ミストフォール・ハンター",
+        "releases.5.note": "7월 29日に正式リリースされるダークファンタジー3人称エクストラクションアクションRPGで、没落した神々の世界でファーミングと脱出を行います。",
+        "releases.5.dev": "Bellring Games",
+        "events.0.name": "2026 釜山インディーウェーブカンファレンス",
+        "events.0.note": "キム・ヨンハ統括プロデューサーの講演など、BIC連携インディーゲームカンファレンス",
+        "events.0.venue": "BEXCO 第1展示場 2ホール",
+        "events.1.name": "フロム・ソフトウェア『ダスクブラッド』ネットワークテスト",
+        "events.1.note": "新作『ダスクブラッド』ネットワークテスト参加申込締切",
+        "events.1.venue": "オンライン"
+      },
+      "briefing": {
+        "items.0.title": "新作『ゴッド・オブ・ウォー ラ우フェイ』、来年2月16日発売決定",
+        "items.0.source": "GameMeca",
+        "items.0.time": "7月27日",
+        "items.1.title": "グラビティ『ラグナロ크 M 2』、中国の外資版号を取得",
+        "items.1.source": "GameMeca",
+        "items.1.time": "7月27日",
+        "items.2.title": "『GTA 6』日本向けパッケージ版、発売から170日で有効期限切れポリシーが物議",
+        "items.2.source": "IGN India",
+        "items.2.time": "7월 27日",
+        "items.3.title": "『FF14』Switch 2版、容量だけで本体メモリの半分近くに",
+        "items.3.source": "IGN India",
+        "items.3.time": "7月27日",
+        "items.4.title": "『FF14』、新ジョブ「バスティオン」および『FF7R』コラボレイドを公開",
+        "items.4.source": "4Gamer",
+        "items.4.time": "7月27日",
+        "items.5.title": "ソウルライク『明末：ウツロノハネ』、世界累計販売本数500万本を突破",
+        "items.5.source": "4Gamer",
+        "items.5.time": "7月27日",
+        "items.6.title": "『S.T.A.L.K.E.R. 2』、Unreal Engineアップグレードおよび初のDLCが8月にリリース",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "7月27日"
+      },
+      "drk": {
+        "title": "「所有」から「レンタル」へ：パッケージ版の終焉がもたらすゲーム消費の亀裂",
+        "intro": "パッケージ版を購入して所有していたゲーマーの完全な権利は、どこへ消えてしまったのでしょうか？ 🎮\n最近相次ぐ有効期限を巡る議論と容量の急増は、ゲーム消費スタイルの巨大な変化を示唆しています。",
+        "points": "最近公開された『GTA 6』日本向けパッケージ版の170日間有効期限制限や、『ファイナルファンタジーXIV』Switch 2版の巨大なインストール容量のニュースは、市場に大きな衝撃を与えました。パッケージタイトルが単なるダウンロード引換券に転落し、次世代コンソールでさえストレージ容量の限界に直面している現状を物語っています。 📦\n\nこのような現象は、**ゲーム消費構造**と**消費者心理**に大きな亀裂を生じさせています。ゲーマーたちは「永久所有」というパッケージ購入の本質的な価値を剥奪されており、プラットフォームへの依存度が高まるにつれ、単なる模造品ではなく権利の縮小に対する消費者の反発が強まっています。 💾\n\n結局のところ、ゲーム産業は**物理的な製品を「所有」する時代から、一時的な「アクセス権」の貸与を受ける時代へと完全に移行**しつつあります。パブリッシャーは中古取引の遮断やサーバー中心のライブサービス統制のため、パッケージ版の有効期限設定や完全デジタル化をさらに加速させるでしょう。 🔍\n\n所有の概念が解体されるデジタル化の時代において、ゲーマーの権利を守る新たな業界標準は果たして用意されるのでしょうか？ ❓"
+      },
+      "gamescene": {
+        "game": "勝利の女神：NIKKE",
+        "title": "愛蔵品で生まれ変わったメタ、ソロレイドボスを圧倒する4人の火力",
+        "comment": "今回の愛蔵品アップデートで新しく改編されるソロレイドの激しい戦闘風景を、AIにインゲームスタイルそのままで再現するよう指示した結果物です。強化されたシュガーとフローラが率いるシナジー構成が、巨大ボスを圧倒する未来の一場面をお楽しみください。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "\"내가 산 게임, 사실은 내 게 아니다?\" 💿 패키지 종말이 가져온 충격 ⚠️",
+    "en": "\"Wait, we don't actually 'own' our games anymore?\" 💿 The death of physical media ⚠️",
+    "ja": "「買ったゲーム、実は自分のものじゃない！？」💿 パッケージ消滅がもたらす衝撃 ⚠️"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "7월 28일 오늘의 게임 소식 🎮\n📰 [뉴스] GTA6 실물 패키지 만료 논란부터 갓 오브 워 신작 및 FF14 소식까지!\n📅 [출시] 스탈존, 헤일로, 미스트폴 헌터 등 PC 기대 신작 6종\n✍️ [인사이트] '소유'에서 '대여'로: 패키지 종말이 가져온 게임 소비의 변화\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#gtplayer #지티플레이어 #게임뉴스 #게임뉴스레터 #신작게임 #게임추천 #GTA6 #갓오브워 #파이널판타지14 #헤일로 #게임이슈 #콘솔게임 #PC게임 #스팀게임 #게임소식 #게임덕후 #게임정보 #게임스타그램 #게이머 #인디게임",
+          "image_paths": [
+            "web\\instagram\\edition_090\\card_news.png",
+            "web\\instagram\\edition_090\\card_calendar.png",
+            "web\\instagram\\edition_090\\card_drk.png"
+          ],
+          "posted": false,
+          "data": {
+            "success": false,
+            "id": null,
+            "url": null,
+            "error": "Instagram (instagrapi) 업로드 실패: {\"message\":\"login_required\",\"status\":\"fail\"}"
+          },
+          "error": "Instagram (instagrapi) 업로드 실패: {\"message\":\"login_required\",\"status\":\"fail\"}"
+        }
+      },
+      "updated_at": "2026-07-28T14:13:06.398988"
+    },
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "갓오브워 팬분들 소리 질러~! 🙌\n신작 '갓 오브 워 라우페이'가 내년 2월 16일 출시를 드디어 확정했네요! 🔥\n\nhttps://www.gtplayer.net/edition-090/\n\n#갓오브워 #게임소식 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-07-28T17:16:59.463997"
+    }
+  }
+}

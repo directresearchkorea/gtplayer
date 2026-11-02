@@ -1,0 +1,427 @@
+{
+  "num": "072",
+  "date": "2026-07-01",
+  "status": "published",
+  "schedule": {
+    "date": "2026-07-01",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "레퀴엠M",
+          "dev": "그라비티",
+          "date": "6월 30일(화)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "그라비티가 자체 개발한 다크 판타지 MMORPG 신작 '레퀴엠M'이 6월 30일 국내 구글 플레이 및 앱스토어 등을 통해 정식 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777173",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "스타 세일러",
+          "dev": "컴투스홀딩스",
+          "date": "6월 30일(화)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "인기 아트 디렉터 '콕스'가 참여하여 독창적인 비주얼을 자랑하는 모바일 수집형 RPG 신작 '스타 세일러'가 6월 30일 글로벌 정식 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777177",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "그레이 사가",
+          "dev": "레니우 게임즈",
+          "date": "6월 30일(화)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "무기 교체로 역할이 실시간으로 변하는 멀티 클래스 시스템을 갖춘 이세계 하드코어 모바일 MMORPG '그레이 사가'가 6월 30일 정식 서비스를 개시했습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777194",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "서머너즈 워: 천공의 아레나",
+          "dev": "컴투스",
+          "date": "6월 30일(화)",
+          "platforms": [
+            "PC",
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "인기 TV 애니메이션 '장송의 프리렌'과의 컬래버레이션 업데이트가 6월 30일 적용되어 프리렌, 힘멜 등 주요 캐릭터들과 콜라보 던전이 새롭게 추가됩니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777166",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "오버워치 2",
+          "dev": "블리자드 엔터테인먼트",
+          "date": "7월 1일(수)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "인기 J-팝 듀오 '요아소비(YOASOBI)'와의 컬래버레이션이 7월 1일 시작되어 키리코를 포함한 6종의 한정 스킨이 새롭게 출시됩니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777171",
+          "source_name": "게임메카"
+        }
+      ],
+      "events": [
+        {
+          "name": "2026 LoL KeSPA CUP",
+          "note": "LCK 10개 팀이 참가하여 한 달간 진행되는 리그 오브 레전드 단기 컵대회",
+          "venue": "온라인 (디즈니+ 독점 중계)",
+          "date": "2026-07-20 ~ 2026-08-18",
+          "tag": "e스포츠",
+          "website": "https://www.inven.co.kr/webzine/news/?news=317977"
+        },
+        {
+          "name": "이클립스: 더 어웨이크닝 라이브 쇼케이스",
+          "note": "스마일게이트 신작 MMORPG의 세계관 및 핵심 성장 콘텐츠 '성소' 등 세부 정보 공개",
+          "venue": "온라인 (공식 홈페이지 및 방송 채널)",
+          "date": "2026-07-23",
+          "tag": "쇼케이스",
+          "website": "https://www.inven.co.kr/webzine/news/?news=317970"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "위메이드 박관호 의장, 지분 9200억 원 전량 매각",
+          "source": "인벤",
+          "time": "6월 30일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=317983"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "넥슨 수집형 신작 '히간: 이루실' 국내 사전 등록 돌입",
+          "source": "게임메카",
+          "time": "6월 30일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777209"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "스핀오프 신작 '스플래툰 레이더스' 상세 정보 첫 공개",
+          "source": "4Gamer",
+          "time": "6월 30일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/919/G091973/20260630041/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'恋と深空' 신규 남주 실장 취소 및 추가 계획 철회",
+          "source": "4Gamer",
+          "time": "6월 30일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/535/G053594/20260630040/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "MS, '마블 블레이드' 취소 및 아케인 폐쇄 검토설 제기",
+          "source": "IGN India",
+          "time": "6월 30일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/blade-arkane/265169/microsoft-reportedly-considering-canceling-marvels-blade-and-shutting-arkane-down"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "GTA 6 개발진, 락스타에 노조 공식 승인 요구",
+          "source": "IGN India",
+          "time": "6월 30일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/grand-theft-auto-vi/265177/gta-6-developers-ask-rockstar-for-union-recognition-and-theyre-prepared-to-go-to-the-uk-government-i"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "오픈소스 고도 엔진, AI 작성 코드 기여 금지 선언",
+          "source": "PC Gamer",
+          "time": "6월 30일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'오블리비언 리마스터' 스위치 2 버전 8월 11일 발매",
+          "source": "IGN",
+          "time": "6월 30일",
+          "country": "GLOBAL",
+          "article_url": "https://www.ign.com/articles/the-elder-scrolls-iv-oblivion-remastered-nintendo-switch-2-physical-edition-includes-a-proper-cartridge-bethesda-confirms-alongside-release-date-and-technical-specs"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "IP 경계를 허무는 '문화 콜라보', 게임의 새로운 생존 방정식",
+      "intro": "게임이 단순한 놀이를 넘어 이종 문화가 융합되는 플랫폼으로 진화하고 있습니다.\n오버워치와 요아소비, 서머너즈 워와 프리렌의 만남이 시사하는 업계의 거대한 변화는 무엇일까요?",
+      "points": "최근 게임 업계에서는 대중문화 및 타 서브컬처 IP와의 경계를 허무는 초국경적 협업이 대세로 자리 잡았습니다. '오버워치 2'가 인기 J-팝 듀오 요아소비와 손을 잡고, '서머너즈 워'가 글로벌 화제작 애니메이션 '장송의 프리렌'과 콜라보레이션을 진행하는 현상이 이를 증명합니다. 🎮✨\n\n이러한 트렌드는 단순한 일회성 마케팅을 넘어 소비자의 게임 소비 구조와 플랫폼의 성격을 근본적으로 바꿉니다. 유저들은 이제 게임을 단순한 플레이 공간이 아닌 하나의 '문화적 놀이터'로 인식하며, 좋아하는 외부 IP를 소비하기 위해 게임에 복귀하거나 지갑을 여는 적극적인 소비 양상을 보입니다. 📈🎨\n\nDr. K의 분석에 따르면, 이제 **게임의 수명 연장(LTV)과 유저 락인은 자체 콘텐츠 개발만큼이나 파괴력 있는 외부 IP와의 유기적 결합에 달려 있습니다.** 콘텐츠 고갈과 유저 이탈에 직면한 현대 게임 산업에서 검증된 문화적 자산을 수혈하는 것은 리스크를 줄이는 가장 확실한 열쇠입니다. 💡\n\n앞으로 산업 전반에서 이종 문화 간의 경계는 더욱 희미해질 것이며, 게임은 모든 콘텐츠가 모이는 궁극의 허브가 될 것입니다. 여러분이 매일 접속하는 그 게임은 단순한 가상 공간입니까, 아니면 새로운 문화가 시작되는 플랫폼입니까? 🌐❓"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": true,
+      "title": "Overwatch x YOASOBI | Official Gameplay Trailer",
+      "channel": "PlayOverwatch",
+      "videoId": "l-XvOfDlUMs",
+      "url": "https://www.youtube.com/watch?v=l-XvOfDlUMs",
+      "thumbnail": "https://i.ytimg.com/vi/l-XvOfDlUMs/hqdefault.jpg",
+      "comment": "오버워치 2와 대세 밴드 요아소비의 특별한 컬래버레이션을 기념하며 오늘의 곡으로 선정했습니다! 🎧 오늘 하루를 마무리하며 요아소비 특유의 청량하고 에너지 넘치는 사운드를 감상해 보세요. 🎮⚡",
+      "search_query": "Overwatch 2 YOASOBI Collab Official Trailer Music",
+      "ai_game_name": "오버워치 2 (요아소비 컬래버레이션)",
+      "ai_reason": "글로벌 대세 J-팝 듀오 '요아소비(YOASOBI)'와의 역대급 컬래버레이션으로, 기존의 웅장한 SF 오케스트라 톤에서 벗어나 트렌디하고 청량감 넘치는 독보적인 J-Pop 사운드 에너지를 느낄 수 있습니다."
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Requiem M",
+        "releases.0.note": "Gravity's self-developed new dark fantasy MMORPG 'Requiem M' was officially released in Korea on June 30 via Google Play and the App Store.",
+        "releases.0.dev": "Gravity",
+        "releases.1.game": "Star Sailor",
+        "releases.1.note": "The new mobile collectible RPG 'Star Sailor', boasting unique visuals with the participation of popular art director 'Cox', was officially released globally on June 30.",
+        "releases.1.dev": "Com2uS Holdings",
+        "releases.2.game": "Grey Saga",
+        "releases.2.note": "'Grey Saga', an isekai hardcore mobile MMORPG featuring a multi-class system where roles change in real-time through weapon swapping, officially launched its service on June 30.",
+        "releases.2.dev": "Leniu Games",
+        "releases.3.game": "Summoners War: Sky Arena",
+        "releases.3.note": "A collaboration update with the popular TV anime 'Frieren: Beyond Journey's End' will be applied on June 30, adding new main characters such as Frieren and Himmel along with a collaboration dungeon.",
+        "releases.3.dev": "Com2uS",
+        "releases.4.game": "Overwatch 2",
+        "releases.4.note": "A collaboration with the popular J-pop duo 'YOASOBI' begins on July 1, introducing six new limited-edition skins, including one for Kiriko.",
+        "releases.4.dev": "Blizzard Entertainment",
+        "events.0.name": "2026 LoL KeSPA CUP",
+        "events.0.note": "A month-long League of Legends short-term cup tournament featuring all 10 LCK teams",
+        "events.0.venue": "Online (Exclusive broadcast on Disney+)",
+        "events.1.name": "Eclipse: The Awakening Live Showcase",
+        "events.1.note": "Revealing details of Smilegate's new MMORPG, including its world lore and the core growth content 'Sanctuary'",
+        "events.1.venue": "Online (Official website and broadcasting channels)"
+      },
+      "briefing": {
+        "items.0.title": "Wemade Chairman Park Kwan-ho Sells Entire Stake Worth 920 Billion Won",
+        "items.0.source": "Inven",
+        "items.0.time": "June 30",
+        "items.1.title": "Nexon's New Collectible Title 'Higan: Eruthyll' Enters Pre-Registration in Korea",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "June 30",
+        "items.2.title": "Detailed Information First Revealed for New Spin-off 'Splatoon Raiders'",
+        "items.2.source": "4Gamer",
+        "items.2.time": "June 30",
+        "items.3.title": "'Love and Deepspace' Cancels Implementation of New Male Lead and Withdraws Additional Plans",
+        "items.3.source": "4Gamer",
+        "items.3.time": "June 30",
+        "items.4.title": "Microsoft Rumored to Consider Canceling 'Marvel's Blade' and Closing Arkane",
+        "items.4.source": "IGN India",
+        "items.4.time": "June 30",
+        "items.5.title": "GTA 6 Developers Demand Official Union Recognition from Rockstar Games",
+        "items.5.source": "IGN India",
+        "items.5.time": "June 30",
+        "items.6.title": "Open-source Godot Engine Declares Ban on AI-generated Code Contributions",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "June 30",
+        "items.7.title": "'Oblivion Remastered' Switch 2 Version to be Released on August 11",
+        "items.7.source": "IGN",
+        "items.7.time": "June 30"
+      },
+      "drk": {
+        "title": "'Cultural Collaboration' Breaking IP Boundaries, a New Survival Equation for Games",
+        "intro": "Games are evolving beyond mere play into platforms where different cultures merge. What is the massive industry shift signaled by the meetings of Overwatch and YOASOBI, and Summoners War and Frieren?",
+        "points": "Recently, cross-border collaborations that break the boundaries between popular culture and other subculture IPs have become a major trend in the gaming industry. This is proven by 'Overwatch 2' joining hands with popular J-pop duo YOASOBI, and 'Summoners War' collaborating with the globally hit anime 'Frieren: Beyond Journey's End'. 🎮✨\n\nThis trend goes beyond simple one-time marketing to fundamentally change the structure of consumer game consumption and the nature of the platform. Users now perceive games not just as play spaces, but as a 'cultural playground,' showing active consumption patterns such as returning to games or opening their wallets to consume their favorite external IPs. 📈🎨\n\nAccording to Dr. K's analysis, **extending a game's lifespan (LTV) and locking in users now depends on organic integration with powerful external IPs just as much as on self-developed content.** In the modern gaming industry, facing content exhaustion and user churn, infusing proven cultural assets is the most reliable key to reducing risk. 💡\n\nIn the future, the boundaries between different cultures across the industry will blur even further, and games will become the ultimate hub where all content converges. Is the game you log into every day just a virtual space, or is it a platform where a new culture begins? 🌐❓"
+      },
+      "soundtrack": {
+        "title": "Overwatch x YOASOBI | Official Gameplay Trailer",
+        "comment": "We have selected today's song to celebrate the special collaboration between Overwatch 2 and the popular band YOASOBI! 🎧 Wrap up your day while enjoying YOASOBI's signature refreshing and energetic sound. 🎮⚡"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "レクイエムM",
+        "releases.0.note": "グラビティが自社開発した新作ダークファンタジーMMORPG『レクイエムM』が、6月 30日に韓国のGoogle PlayおよびApp Storeなどを通じて正式リリースされました。",
+        "releases.0.dev": "グラビティ",
+        "releases.1.game": "スターセイラー",
+        "releases.1.note": "人気アートディレクター『コックス』が参加し、独創的なビジュアルを誇る新作モバイル収集型RPG『スターセイラー』が、6月30日にグローバルで正式リリースされました。",
+        "releases.1.dev": "Com2uS Holdings",
+        "releases.2.game": "グレイサガ",
+        "releases.2.note": "武器の切り替えによりリアルタイムで役割が変化するマルチクラスシステムを備えた、異世界ハードコアモバイルMMORPG『グレイサガ』が、6月30日に正式サービスを開始しました。",
+        "releases.2.dev": "Leniu Games",
+        "releases.3.game": "サマナーズウォー: Sky Arena",
+        "releases.3.note": "人気TVアニメ『葬送のフリーレン』とのコラボレーションアップデートが6月30日に適用され、フリーレンやヒンメルなどの主要キャラクターとコラボダンジョンが新たに追加されます。",
+        "releases.3.dev": "Com2uS",
+        "releases.4.game": "オーバーウォッチ 2",
+        "releases.4.note": "人気J-POPデュオ『YOASOBI』とのコラボレーションが7月1日に開始され、キリコを含む6種の限定スキンが新たに発売されます。",
+        "releases.4.dev": "ブリザード・エンターテイメント",
+        "events.0.name": "2026 LoL KeSPAカップ",
+        "events.0.note": "LCKの10チームが参加し、1ヶ月間にわたって開催されるリーグ・オブ・レジェンドの短期カップ大会",
+        "events.0.venue": "オンライン（Disney+独占中継）",
+        "events.1.name": "エクリプス：ザ・アウェイクニング ライブショーケース",
+        "events.1.note": "スマイルゲートの新作MMORPGの世界観や、核心となる成長コンテンツ『聖所』などの詳細情報を公開",
+        "events.1.venue": "オンライン（公式サイトおよび配信チャンネル）"
+      },
+      "briefing": {
+        "items.0.title": "Wemadeのパク・グァンホ議長、持ち株9200億ウォン分をすべて売却",
+        "items.0.source": "Inven",
+        "items.0.time": "6月30일",
+        "items.1.title": "ネクソン、新作収集型RPG『Higan: Eruthyll』の韓国事前登録を開始",
+        "items.1.source": "GameMeca",
+        "items.1.time": "6月30일",
+        "items.2.title": "スピンオフ新作『スプラトゥーン レイダース』の詳細情報を初公開",
+        "items.2.source": "4Gamer",
+        "items.2.time": "6月30일",
+        "items.3.title": "『恋と深空』新規男性キャラクターの実装中止および追加計画の撤回",
+        "items.3.source": "4Gamer",
+        "items.3.time": "6月30일",
+        "items.4.title": "MS、『マーベル・ブレイド』の中止およびArkane Studiosの閉鎖検討説が浮上",
+        "items.4.source": "IGN India",
+        "items.4.time": "6월 30일",
+        "items.5.title": "『GTA 6』開発陣、ロックスターに労働組合の公式承認を要求",
+        "items.5.source": "IGN India",
+        "items.5.time": "6월 30일",
+        "items.6.title": "オープンソースの『Godot Engine』、AI生成コードのコントリビューション禁止を宣言",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "6월 30일",
+        "items.7.title": "『オブリビオン リマスター』Switch 2版が8月11日に発売へ",
+        "items.7.source": "IGN",
+        "items.7.time": "6월 30일"
+      },
+      "drk": {
+        "title": "IPの境界を崩す『文化コラボ』、ゲームの新たな生存方程式",
+        "intro": "ゲームが単なる遊びを超えて、異種文化が融合するプラットフォームへと進化しています。\nオーバーウォッチとYOASOBI、サマナーズウォーとフリーレンの出会いが示唆する業界の巨大な変化とは何でしょうか？",
+        "points": "最近のゲーム業界では、大衆文化や他のサブカルチャーIPとの境界を取り払う、国境を越えたコラボレーションが主流となっています。『オーバーウォッチ 2』が人気J-POPデュオのYOASOBIと手を組み、『サマナーズウォー』がグローバルで話題のアニメ『葬送のフリーレン』とコラボレーションを進行している現象が、これを証明しています。🎮✨\n\nこのようなトレンドは、単なる一回限りのマーケティングを超えて、消費者のゲーム消費構造やプラットフォームの性質を根本から変えつつあります。ユーザーは今や、ゲームを単なるプレイ空間ではなく、ひとつの『文化的遊び場』として認識しており、お気に入りの外部IPを消費するためにゲームに帰ってきたリ、財布を開いたりする積極的な消費パターンを見せています。📈🎨\n\nDr. Kの分析によると、今や**ゲームの寿命延長（LTV）とユーザーの囲い込み（ロックイン）は、自社コンテンツの開発と同等か、それ以上に破壊力のある外部IPとの有機的な結合にかかっています。** コンテンツの枯渇とユーザーの離脱に直面している現代のゲーム産業において、検証された文化的資産を注入することは、リスクを減らす最も確実な鍵となります。💡\n\n今後、産業全体において異種文化間の境界はさらに曖昧になり、ゲームはあらゆるコンテンツが集まる究極のハブとなるでしょう。皆さんが毎日アクセスしているそのゲームは、単なる仮想空間でしょうか、それとも新しい文化が始まるプラットフォームでしょうか？🌐❓"
+      },
+      "soundtrack": {
+        "title": "Overwatch x YOASOBI | Official Gameplay Trailer",
+        "comment": "『オーバーウォッチ 2』と大人気バンド『YOASOBI』の特別なコラボレーションを記念して、本日の1曲に選定しました！🎧 一日の締めくくりに、YOASOBIならではの爽やかでエネルギッシュなサウンドをお楽しみください。🎮⚡"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "선 넘는 콜라보가 대세? 게임의 새로운 생존 공식 🤝 (feat. 오버워치 x YOASOBI 🎧)",
+    "en": "Why crossovers are gaming's new survival cheat code 🤝 (feat. Overwatch x YOASOBI 🎧)",
+    "ja": "もはやコラボなしでは生き残れない？ゲーム界の新・生存戦略 🤝 (feat. オーバーウォッチ × YOASOBI 🎧)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "요즘 게임들 콜라보 선 넘는 게 완전 대세네요! 👀\n무려 오버워치랑 YOASOBI가 만났다는 역대급 소식, 실화인가요? 🎧\n\nhttps://www.gtplayer.net/edition-072/\n\n#오버워치 #게임소식 #GTPlayer",
+          "posted": false,
+          "data": null,
+          "error": "X API 오류 (402): {\"account_id\":2041741108661612544,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2041741108661612544] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/problems/credits\"}"
+        }
+      },
+      "updated_at": "2026-07-01T07:05:10.226042"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "7월 1일 오늘의 게임 소식 🎮\n\n📰 위메이드 지분 매각 소식부터 마블 블레이드 취소 루머까지, 이번 주 게임계 핫이슈 총정리!\n🗓️ <서머너즈 워>와 <오버워치 2> 업데이트 등 게이머를 설레게 할 이번 주 출시 캘린더!\n💡 [Dr. K 인사이트] 오버워치 x 요아소비의 만남! IP 경계를 허무는 '문화 콜라보'가 대세인 이유!\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#GT플레이어 #gtplayer #게임뉴스 #게임정보 #게임소식 #신작게임 #게임추천 #게임덕후 #겜스타그램 #오버워치2 #요아소비 #위메이드 #서머너즈워 #온라인게임 #모바일게임 #스팀게임 #콘솔게임 #게이머 #게임라이프 #YOASOBI",
+          "image_paths": [
+            "web\\instagram\\edition_072\\card_news.png",
+            "web\\instagram\\edition_072\\card_calendar.png",
+            "web\\instagram\\edition_072\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3931213056902934180_39332818166",
+            "url": "https://www.instagram.com/p/DaOeXJhE66k/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-07-01T07:05:45.544712"
+    }
+  }
+}

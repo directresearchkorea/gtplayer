@@ -1,0 +1,445 @@
+{
+  "num": "154",
+  "date": "2026-10-26",
+  "status": "published",
+  "schedule": {
+    "date": "2026-10-26",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "팬텀 라인: 프롤로그 (Phantom Line: Prologue)",
+          "dev": "안티스태틱 스튜디오",
+          "date": "10월 26일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 26일 스팀에 출시되는 협동 호러 FPS 게임으로, 핵전쟁 이후의 유럽에서 초자연적 현상에 맞서는 특수부대의 작전을 다룹니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/5088140/Phantom_Line_Prologue/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "엠버빌 (Emberville)",
+          "dev": "시그너스 크로스",
+          "date": "10월 27일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 27일 앞서 해보기(얼리 액세스)로 출시되는 액션 어드벤처 신작으로, 독창적인 아트 스타일과 몰입감 넘치는 세계관을 선보입니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/emberville/275232/emberville-official-animated-early-access-trailer",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "release",
+          "game": "노스가드 배틀그라운드 (Northgard Battlegrounds)",
+          "dev": "시로 게임즈",
+          "date": "10월 27일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 27일 정식 출시되는 전략 배틀 신작으로, 북유럽 신화 세계관을 기반으로 한 치열한 영역 다툼과 생존 전투를 제공합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4487060/Northgard_Battlegrounds/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "update",
+          "game": "드래곤볼 제노버스 2",
+          "dev": "딤프스",
+          "date": "10월 27일(화)",
+          "platforms": [
+            "PC",
+            "PS4",
+            "Xbox One",
+            "Switch"
+          ],
+          "color": "#3b82f6",
+          "note": "10월 27일 10주년을 기념하는 무료 대규모 업데이트가 배포되며, 대규모 우주 페스티벌 콘텐츠와 후속작 연동 특전이 추가됩니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/275286/dragon-ball-xenoverse-2-official-10th-anniversary-free-update-trailer",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "release",
+          "game": "프로블리 스톨른: 사이버펑크 상점 경영 시뮬레이터 (Probably Stolen)",
+          "dev": "플립트 픽셀",
+          "date": "10월 28일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 28일 스팀에 출시되는 상점 경영 시뮬레이션으로, 사이버펑크 도시에서 수상한 장물을 매입하고 판매하며 매장을 확장해 나갑니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4348910/Probably_Stolen_Cyberpunk_Shopkeeper_Sim/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "판타지 월드 매니저 (Fantasy World Manager)",
+          "dev": "워터멜론 인터랙티브",
+          "date": "10월 28일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 28일 정식 출시되는 판타지 월드 경영 시뮬레이션 게임으로, 세계 전반의 생태계와 문명을 번영시키는 관리자 역할을 체험할 수 있습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3447280/Fantasy_World_Manager/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "2026 LoL 월드 챔피언십(롤드컵) 스위스 스테이지 3라운드",
+          "note": "한화생명 vs IG, T1 vs CFO 등 LCK 팀들의 2승 도전 매치",
+          "venue": "미국 텍사스 앨런 크레딧 유니언 오브 텍사스 이벤트 센터 / 온라인 생중계",
+          "date": "2026-10-26",
+          "tag": "e스포츠",
+          "website": "https://www.inven.co.kr/webzine/news/?news=322546"
+        },
+        {
+          "name": "인도 게임 개발자 컨퍼런스 2026",
+          "note": "",
+          "venue": "인도 (장소 미정)",
+          "date": "2026-11-01~2026-11-30",
+          "tag": "오프라인 행사",
+          "d_day_str": "D-6",
+          "website": "https://www.igdc.in"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "오버워치·스텔라 블레이드 콜라보 11월 4일 개시",
+          "source": "인벤",
+          "time": "10월 26일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=322549"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "넥슨, '블루 아카이브' 일본 서비스 2027년 직접 맡는다",
+          "source": "인벤",
+          "time": "10월 25일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=322551"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "우마무스메, 신규 캐릭터 '윈 마릴린' 및 신 시나리오 발표",
+          "source": "4Gamer",
+          "time": "10월 25일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/554/G055489/20261025003/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'포피 플레이타임 챕터 6', 2027년 출시 예고 영상 공개",
+          "source": "Famitsu",
+          "time": "10월 25일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202610/92017"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'툼 레이더: 레거시 오브 아틀란티스' 30주년 티저 공개",
+          "source": "IGN India",
+          "time": "10월 25일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/tomb-raider-legacy-of-atlantis/275295/tomb-raider-legacy-of-atlantis-official-30th-anniversary-teaser-trailer"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "신작 모바일 '몬헌 아웃랜더스', 스킬 소개 트레일러 공개",
+          "source": "IGN India",
+          "time": "10월 25일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/monster-hunter-outlanders/275287/monster-hunter-outlanders-official-keres-skill-overview-trailer"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "엑스박스 첫 COO 헬렌 치앙, 임명 3개월 만에 사임",
+          "source": "IGN",
+          "time": "10월 25일",
+          "country": "GLOBAL",
+          "article_url": "https://www.ign.com/articles/xboxs-first-ever-chief-operating-officer-leaves-role-just-three-months-after-it-was-created"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "블루 아카이브의 홀로서기: 검증된 대형 IP의 필연적인 '탈 퍼블리싱'",
+      "intro": "성공적인 파트너십의 종착지에는 결국 결별이 기다리고 있는 걸까요?\n넥슨이 '블루 아카이브'의 일본 직영 서비스를 선언한 이면의 산업 구조를 짚어봅니다.",
+      "points": "넥슨이 2027년부터 대표작 '블루 아카이브'의 일본 서비스를 현지 파트너사인 요스타에서 넥슨 자체 직영 체제로 전환한다고 발표했습니다. 📌 런칭 초기 현지 시장 안착을 이끌었던 퍼블리셔와의 동행을 마무리하고, 완벽한 독자 노선을 택한 것입니다.\n\n이는 라이브 서비스 산업의 유통 방식과 게임 소비 구조의 변화를 상징적으로 보여줍니다. 💡 서브컬처 장르에서 확고한 팬덤을 확보한 IP는 퍼블리셔 수수료를 절감하고 이용자 데이터를 직접 확보하는 직영 체제가 장기적으로 훨씬 유리합니다. 다만 운영 주체 변경 과정에서 서비스 연속성에 대한 유저들의 불안 심리를 잠재우는 것은 중대한 과제로 남습니다.\n\nDr. K의 시각에서 볼 때, **강력한 팬덤을 입증한 글로벌 IP일수록 외부 퍼블리셔와의 공생을 끝내고 자체 유통망으로 회귀하는 '탈(脫) 퍼블리셔화'는 거스를 수 없는 필연적 수순입니다.** 개발사가 IP의 모든 접점과 수익을 온전히 장악하겠다는 전략적 결단인 셈입니다.\n\n과연 넥슨은 요스타가 수년간 다져온 섬세한 현지화 감각과 유저 신뢰를 공백 없이 이어받을 수 있을까요? 🧭 퍼블리셔 교체 이후에도 팬덤의 높은 충성도를 유지할 수 있을지가 글로벌 라이브 서비스 직영 전환의 중대한 벤치마크가 될 것입니다."
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": true,
+      "items": [],
+      "title": "My VAC ban for Counter Strike is now the same age I was when I got it (Over 19 years)",
+      "score": 29097,
+      "url": "https://i.redd.it/rkrio3ht4dxh1.png",
+      "preview_img": "https://i.redd.it/rkrio3ht4dxh1.png",
+      "permalink": "https://redd.it/1xe1qqa",
+      "subreddit": "gaming",
+      "author": "evilleppy87",
+      "num_comments": 0,
+      "what_happened": "\"내 카스 VAC 밴 기록이 정지당했을 당시 내 나이(19년)만큼 나이를 먹었다\"라며 올라온 스팀 프로필 화면입니다. 무려 '7,202일 전'이라는 박물관 유물급 밴 일수가 찍힌 빨간 글씨가 세월의 무상함과 밸브의 칼 같은 무관용 원칙을 보여줘 폭소를 자아냈습니다.",
+      "one_liner": "강산이 두 번 바뀌고 밴 당한 계정도 성인이 되었지만, 밸브의 자비는 여전히 찾아오지 않았네요. 🧓🔨"
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Phantom Line: Prologue",
+        "releases.0.note": "A co-op horror FPS releasing on Steam on October 26, following a special forces unit confronting paranormal phenomena in post-nuclear Europe.",
+        "releases.0.dev": "Antistatic Studios",
+        "releases.1.game": "Emberville",
+        "releases.1.note": "A new action-adventure title launching in Early Access on October 27, featuring a unique art style and an immersive world.",
+        "releases.1.dev": "Cygnus Cross",
+        "releases.2.game": "Northgard Battlegrounds",
+        "releases.2.note": "A new strategy battle game officially launching on October 27, offering intense territorial warfare and survival combat inspired by Norse mythology.",
+        "releases.2.dev": "Shiro Games",
+        "releases.3.game": "Dragon Ball Xenoverse 2",
+        "releases.3.note": "A massive free update celebrating its 10th anniversary releases on October 27, introducing extensive Universe Festival content and sequel-link rewards.",
+        "releases.3.dev": "Dimps",
+        "releases.4.game": "Probably Stolen: Cyberpunk Pawn Shop Simulator",
+        "releases.4.note": "A pawn shop management simulator releasing on Steam on October 28, where players buy and sell suspicious stolen goods in a cyberpunk metropolis to expand their store.",
+        "releases.4.dev": "Flipped Pixel",
+        "releases.5.game": "Fantasy World Manager",
+        "releases.5.note": "A fantasy world management simulation game officially launching on October 28, allowing players to step into the role of a manager fostering a flourishing ecosystem and civilization.",
+        "releases.5.dev": "Watermelon Interactive",
+        "events.0.name": "2026 LoL World Championship Swiss Stage Round 3",
+        "events.0.note": "LCK teams clash for their 2nd win, featuring matches including Hanwha Life Esports vs. Invictus Gaming and T1 vs. CTBC Flying Oyster.",
+        "events.0.venue": "Credit Union of Texas Event Center, Allen, Texas, USA / Online Live Broadcast",
+        "events.1.name": "India Game Developer Conference 2026",
+        "events.1.venue": "India (Venue TBD)"
+      },
+      "briefing": {
+        "items.0.title": "Overwatch x Stellar Blade Collaboration Kicks Off November 4",
+        "items.0.source": "Inven",
+        "items.0.time": "October 26",
+        "items.1.title": "Nexon to Directly Manage Japanese Live Service for 'Blue Archive' Starting 2027",
+        "items.1.source": "Inven",
+        "items.1.time": "October 25",
+        "items.2.title": "Uma Musume Unveils New Character 'Win Marilyn' and New Scenario",
+        "items.2.source": "4Gamer",
+        "items.2.time": "October 25",
+        "items.3.title": "'Poppy Playtime Chapter 6' Teaser Trailer Released, Slated for 2027 Launch",
+        "items.3.source": "Famitsu",
+        "items.3.time": "October 25",
+        "items.4.title": "'Tomb Raider: Legacy of Atlantis' 30th Anniversary Teaser Revealed",
+        "items.4.source": "IGN India",
+        "items.4.time": "October 25",
+        "items.5.title": "Upcoming Mobile Game 'Monster Hunter Outlanders' Releases Skill Showcase Trailer",
+        "items.5.source": "IGN India",
+        "items.5.time": "October 25",
+        "items.6.title": "Xbox's First COO Helen Chiang Steps Down After Just Three Months",
+        "items.6.source": "IGN",
+        "items.6.time": "October 25"
+      },
+      "drk": {
+        "title": "Blue Archive Goes Solo: The Inevitable 'Self-Publishing Shift' for Proven Mega-IPs",
+        "intro": "Is parting ways the inevitable destination for successful partnerships?\nWe explore the industry dynamics behind Nexon's declaration to take over Japanese direct publishing for 'Blue Archive'.",
+        "points": "Nexon announced that starting in 2027, it will shift Japanese live operations of its flagship title 'Blue Archive' from its local partner Yostar to in-house management. 📌 This marks the conclusion of its partnership with the publisher that spearheaded its successful initial launch and localization, choosing an entirely self-reliant route.\n\nThis transition serves as a symbolic reflection of shifting distribution methods and game consumption trends across the live-service industry. 💡 For an IP with a firmly entrenched subculture fandom, self-publishing offers major long-term benefits: reducing third-party publisher revenue cuts and securing direct player data. However, easing community anxieties over service continuity during the operational handover remains a critical hurdle.\n\nFrom Dr. K's perspective, **for a global IP with a proven, dedicated fandom, moving away from external publishers and returning to first-party distribution—a 'de-publishing' pivot—is an irresistible, inevitable evolution.** It represents a strategic imperative for developers to claim full ownership over every player touchpoint and all generated revenue.\n\nCan Nexon seamlessly maintain the nuanced localization finesse and player trust painstakingly fostered by Yostar over the years? 🧭 Whether the IP retains its passionate loyalty post-transition will serve as a vital benchmark for global live-service games moving to self-publishing models."
+      },
+      "meme": {
+        "what_happened": "A Steam profile screenshot captioned: \"My Counter-Strike VAC ban is now as old as I was when I got banned (19 years).\" The red text showing an ancient, museum-worthy record of '7,202 days ago' drew laughs by showcasing both the relentless passage of time and Valve's legendary zero-tolerance policy.",
+        "one_liner": "Two decades have passed and the banned account has officially reached adulthood, yet Valve's mercy has still not arrived. 🧓🔨"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ファントムライン：プロローグ (Phantom Line: Prologue)",
+        "releases.0.note": "10月26日にSteamで配信される協力型ホラーFPSゲーム。核戦争後のヨーロッパを舞台に、超常現象に立ち向かう特殊部隊の作戦を描きます。",
+        "releases.0.dev": "Antistatic Studios",
+        "releases.1.game": "エンバービル (Emberville)",
+        "releases.1.note": "10月27日に早期アクセスが開始されるアクションアドベンチャーの新作。独創的なアートスタイルと没入感あふれる世界観をお届けします。",
+        "releases.1.dev": "Cygnus Cross",
+        "releases.2.game": "ノースガード バトルグラウンド (Northgard Battlegrounds)",
+        "releases.2.note": "10月27日に正式リリースされる戦略バトルの新作。北欧神話の世界観をベースにした熾烈な領地争いとサバイバルバトルが楽しめます。",
+        "releases.2.dev": "Shiro Games",
+        "releases.3.game": "ドラゴンボール ゼノバース2",
+        "releases.3.note": "10月27日に10周年を記念する無料大型アップデートが配信され、大規模な「宇宙フェスティバル」コンテンツや次回作連動特典が追加されます。",
+        "releases.3.dev": "ディンプス",
+        "releases.4.game": "Probably Stolen: サイバーパンクショップ経営シミュレーター",
+        "releases.4.note": "10月28日にSteamで配信される店舗経営シミュレーション。サイバーパンク都市で怪しい盗品を買い取り・販売しながら店舗を拡大していきます。",
+        "releases.4.dev": "Flipped Pixel",
+        "releases.5.game": "ファンタジーワールドマネージャー (Fantasy World Manager)",
+        "releases.5.note": "10月28日に正式リリースされるファンタジーワールド経営シミュレーションゲーム。世界全体の生態系や文明を繁栄させる管理者の役割を体験できます。",
+        "releases.5.dev": "Watermelon Interactive",
+        "events.0.name": "2026 LoL World Championship スイスステージ ラウンド3",
+        "events.0.note": "HLE vs IG、T1 vs CFOなどLCK勢の2勝目を懸けた注目マッチ",
+        "events.0.venue": "米国テキサス州アレン クレジット・ユニオン・オブ・テキサス・イベント・センター / オンライン生中継",
+        "events.1.name": "インド・ゲーム開発者会議 2026 (IGDC 2026)",
+        "events.1.venue": "インド（会場未定）"
+      },
+      "briefing": {
+        "items.0.title": "『オーバーウォッチ』×『ステラーブレイド』コラボ、11月4日開始",
+        "items.0.source": "INVEN",
+        "items.0.time": "10月26日",
+        "items.1.title": "ネクソン、『ブルーアーカイブ』日本サービスを2027年より直接運営へ",
+        "items.1.source": "INVEN",
+        "items.1.time": "10月25日",
+        "items.2.title": "『ウマ娘』、新キャラクター「ウインマリリン」および新シナリオを発表",
+        "items.2.source": "4Gamer",
+        "items.2.time": "10月25日",
+        "items.3.title": "『Poppy Playtime Chapter 6』2027年発売の予告トレーラー公開",
+        "items.3.source": "Famitsu",
+        "items.3.time": "10月25日",
+        "items.4.title": "『トゥームレイダー：レガシー・オブ・アトランティス』30周年記念ティザー公開",
+        "items.4.source": "IGN India",
+        "items.4.time": "10月25日",
+        "items.5.title": "新作モバイル『モンスターハンターアウトランダーズ』、スキル紹介トレーラー公開",
+        "items.5.source": "IGN India",
+        "items.5.time": "10月25日",
+        "items.6.title": "Xbox初代COOヘレン・チアン氏、就任わずか3か月で辞任",
+        "items.6.source": "IGN",
+        "items.6.time": "10月25日"
+      },
+      "drk": {
+        "title": "『ブルーアーカイブ』の独り立ち：確固たる大型IPが辿る必然の「脱パブリッシャー」",
+        "intro": "成功を収めたパートナーシップの終着点には、やはり別れが待っているのでしょうか？\nネクソンが『ブルーアーカイブ』の日本直接運営を宣言した背景にある産業構造を読み解きます。",
+        "points": "ネクソンは2027年より、代表作『ブルーアーカイブ』の日本サービスを現地パートナーであるYostarからネクソン自社による直接運営体制へ移行すると発表しました。📌 リリース初期に現地市場への定着を牽引したパブリッシャーとの歩みに終止符を打ち、完全な独自路線を選択した形です。\n\nこれは、ライブサービス産業におけるパブリッシング形態とゲーム消費構造の変化を象徴しています。💡 サブカルチャージャンルで強固なファンダムを確立したIPにとって、パブリッシャー手数料を削減しユーザーデータを直接獲得できる自社運営体制は、長期的に見て極めて有利です。ただし、運営主体の変更に伴うサービス継続性へのユーザーの不安をいかに払拭できるかが大きな課題となります。\n\nDr. Kの視点から見れば、**強力なファンダムを証明したグローバルIPであるほど、外部パブリッシャーとの共生にピリオドを打ち自社流通網へと回帰する「脱パブリッシャー化」は避けられない必然の道です。** 開発会社がIPのあらゆる接点と収益を完全に掌握しようとする戦略的決断と言えます。\n\n果たしてネクソンは、Yostarが長年培ってきた細やかなローカライズ感覚とユーザーからの信頼を空白なく引き継ぐことができるでしょうか。🧭 パブリッシャー移行後もファンダムの高いロイヤルティを維持できるかどうかが、グローバルライブサービスの直接運営移行における重要なベンチマークとなるでしょう。"
+      },
+      "meme": {
+        "what_happened": "「自分のCSのVAC BAN記録が、BANされた当時の自分の年齢（19歳）と同じ年数を迎えた」と投稿されたSteamプロフィールの画面です。実に『7,202日前』という博物館の遺物レベルのBAN日数が刻まれた赤文字が、歳月の無常さとValveの妥協なきゼロトレランス原則を物語っており、爆笑を誘いました。",
+        "one_liner": "時代は二回りし、BANされたアカウントも立派な成人を迎えましたが、Valveの慈悲はいまだ届く気配がありません。🧓🔨"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "블루 아카이브의 홀로서기 선언?! 대형 IP의 '탈 퍼블리싱' 🚀 (feat. 오늘의 밈 😂)",
+    "en": "Blue Archive Going Solo?! The Rise of Self-Publishing 🚀 (feat. Meme of the Day 😂)",
+    "ja": "ブルアカが独り立ち宣言！？大型IPの「脱パブリッシング」とは 🚀 (feat. 今日のミーム 😂)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": false,
+          "text": "선생님들 깜짝 놀랄 소식! 📢 드디어 블루아카가 홀로서기에 나섭니다 🚀\n넥슨이 2027년부터 일본 서비스를 직접 맡기로 했다네요?!\n\nhttps://www.gtplayer.net/edition-154/\n#블루아카이브 #GTPlayer",
+          "error": "Posting failed or blocked"
+        }
+      },
+      "updated_at": "2026-10-26T07:02:21.225488"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "10월 26일 오늘의 게임 소식 🎮\n📰 [뉴스] 블루 아카이브 일본 직영 전환, 오버워치와 스텔라 블레이드의 특급 콜라보 등 5대 뉴스\n📅 [출시] 팬텀 라인: 프롤로그, 드래곤볼 제노버스 2 등 주목할 신작 6종 라인업\n✍️ [인사이트] 블루 아카이브의 홀로서기, 대형 IP의 필연적인 탈 퍼블리싱 트렌드 분석\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#GT플레이어 #게임뉴스 #게임소식 #신작게임 #게임추천 #블루아카이브 #넥슨 #오버워치 #스텔라블레이드 #우마무스메 #포피플레이타임 #툼레이더 #드래곤볼 #스팀게임 #콘솔게임 #인디게임 #게임스타그램 #겜스타그램 #게임덕후 #게임리뷰",
+          "image_paths": [
+            "web\\instagram\\edition_154\\card_cover.png",
+            "web\\instagram\\edition_154\\card_news.png",
+            "web\\instagram\\edition_154\\card_calendar.png",
+            "web\\instagram\\edition_154\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "4016010401372379579_39332818166",
+            "url": "https://www.instagram.com/p/De7vC6sExm7/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-10-26T07:02:54.739221"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Blue Archive Going Solo?! The Rise of Self-Publishing 🚀 (feat. Meme of the Day 😂)\n\nNexon is shaking up the industry by taking Blue Archive solo in Japan, signaling a bold new era for mega-IPs.\nFrom massive publisher shifts to explosive new crossovers, catch all the biggest gaming headlines making waves this week.\n\nhttps://www.gtplayer.net/edition-154-en/",
+        "error": null
+      },
+      "updated_at": "2026-10-26T07:03:40.514004"
+    }
+  }
+}

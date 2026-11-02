@@ -1,0 +1,458 @@
+{
+  "num": "122",
+  "date": "2026-09-10",
+  "status": "published",
+  "schedule": {
+    "date": "2026-09-10",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "update",
+          "game": "코드 베인 2: 마스크 오브 이드리스",
+          "dev": "반다이남코 엔터테인먼트",
+          "date": "9월 9일(수)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "XSX|S"
+          ],
+          "color": "#3b82f6",
+          "note": "신규 필드와 보스 및 혈통 무기가 포함된 코드 베인 2의 첫 번째 대규모 확장 DLC가 정식 발매되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780253",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "워독스 (WARDOGS)",
+          "dev": "오르카 스튜디오",
+          "date": "9월 10일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 10일 글로벌 정식 출시되는 전술 밀리터리 FPS 게임으로, 용병 부대의 치열한 전장 전투를 다룹니다.",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/fps/wardogs-release-date-launch-times/",
+          "source_name": "PC Gamer"
+        },
+        {
+          "category": "release",
+          "game": "메차 카멜레온 (Meccha Chameleon)",
+          "dev": "인디 개발진",
+          "date": "9월 10일(목)",
+          "platforms": [
+            "Switch 2"
+          ],
+          "color": "#10b981",
+          "note": "9월 10일 닌텐도 다이렉트 직후 스위치 2에 깜짝 정식 출시된 인기 캐주얼 숨바꼭질 액션 게임입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://www.ign.com/articles/meccha-chameleon-sneaks-onto-nintendo-switch-2-later-today",
+          "source_name": "IGN"
+        },
+        {
+          "category": "release",
+          "game": "동방홍마향: New Classic",
+          "dev": "얼라이언스 아츠",
+          "date": "9월 10일(목)",
+          "platforms": [
+            "PC",
+            "PS4",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "9월 10일 PC와 콘솔로 정식 출시된 탄막 슈팅 클래식 리메이크작으로, 원작의 플레이 감각을 현대적 해상도와 편의 기능으로 다듬었습니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/015/G101545/20260909050/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "토르네코의 대모험 이상한 던전 좀 멋진 리마스터",
+          "dev": "스퀘어 에닉스",
+          "date": "9월 10일(목)",
+          "platforms": [
+            "Switch",
+            "Switch 2"
+          ],
+          "color": "#10b981",
+          "note": "9월 10일 닌텐도 다이렉트 종료와 함께 배포를 시작한 로그라이크 RPG 명작 리마스터 타이틀입니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/041/G104102/20260909086/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "update",
+          "game": "노 맨즈 스카이: 코스모스 (Cosmos)",
+          "dev": "헬로 게임즈",
+          "date": "9월 10일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "XSX|S",
+            "Switch"
+          ],
+          "color": "#3b82f6",
+          "note": "서비스 10주년을 기념해 정식 배포된 무료 대규모 업데이트로, 우주 정거장 소유 및 항성 직접 탐험 기능이 추가되었습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/survival-crafting/what-if-you-could-own-a-space-station-no-mans-skys-sean-murray-asks-as-he-lets-you-own-a-space-station/",
+          "source_name": "PC Gamer"
+        }
+      ],
+      "events": [
+        {
+          "name": "바람의나라 30주년 전통공예전 '이립의 바람, 전통을 잇다'",
+          "note": "바람의나라 서비스 30주년을 기념해 한국전통문화대학교와 협업하여 진행하는 전통공예 기획 전시",
+          "venue": "서울 경복궁 계조당",
+          "date": "2026-09-09 ~ 2026-09-21",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=320617"
+        },
+        {
+          "name": "도쿄 게임쇼 2026",
+          "note": "",
+          "venue": "일본 마쿠하리 멧세",
+          "date": "2026-09-17~2026-09-21",
+          "tag": "오프라인 행사",
+          "d_day_str": "D-7",
+          "website": "https://tgs.nikkeibp.co.jp"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'데이브 더 다이버', 국산 싱글 패키지 최초 천만 장 돌파",
+          "source": "게임메카",
+          "time": "9월 9일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780251"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "엑스엘게임즈, '아키에이지' IP 392억 원에 양도 결정",
+          "source": "게임메카",
+          "time": "9월 9일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780231"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'아랑전설 CotW', 도쿄 리벤저스 참전에 격투 팬 찬반 논쟁",
+          "source": "IGN India",
+          "time": "9월 10일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/fatal-fury-city-of-the-wolves/271446/how-many-guest-characters-is-too-many-tokyo-revengers-x-city-of-the-wolves-collaboration-sparks-figh"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "워해머 40K: 던 오브 워 4, 오크 대 네크론 플레이 공개",
+          "source": "IGN India",
+          "time": "9월 9일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/warhammer-40000-dawn-of-war-iv/271431/warhammer-40000-dawn-of-war-4-official-1v1-annihilation-orks-vs-necrons-gameplay-overview"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "아틀러스 '페르소나 6', 차세대 콘솔 스위치 2 출시 확정",
+          "source": "4Gamer",
+          "time": "9월 9일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/999/G999903/20260909082/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'별의 커비 월드 비욘드', 스위치 2로 2027년 봄 출시",
+          "source": "4Gamer",
+          "time": "9월 9일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/041/G104104/20260909087/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "블리자드 노조 1,900명, MS와 첫 단체협약 공식 비준",
+          "source": "GamesIndustry.biz",
+          "time": "9월 9일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/almost-1900-blizzard-workers-ratify-first-union-contract-with-microsoft"
+        },
+        {
+          "category": "personnel",
+          "tag": "이슈",
+          "title": "마크 서니·제프 케일리, 신인 개발자 육성 재단 설립",
+          "source": "GamesIndustry.biz",
+          "time": "9월 9일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/mark-cerny-and-geoff-keighley-launch-nova-games-foundation-to-fund-young-designers"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "천만 장의 다이버가 증명한 패키지 게임의 본질적 가치",
+      "intro": "라이브 서비스와 가챠 비즈니스 모델이 지배하던 시장에서 순수한 싱글 패키지 게임이 천만 장을 돌파했습니다.\n과연 게이머들이 진정으로 지갑을 열고 싶어 하는 게임은 어떤 모습일까요?",
+      "points": "넥슨 민트로켓의 '데이브 더 다이버'가 국산 싱글 패키지 게임 최초로 글로벌 누적 판매량 1,000만 장을 돌파했습니다. 대규모 자본이 투입된 AAA급 프로젝트가 아닌 독창적인 게임성을 앞세운 하이브리드 해양 어드벤처가 달성한 기념비적인 기록입니다. 🌊\n\n이번 성과는 글로벌 게임 소비 구조와 소비자 심리의 명확한 변화를 보여줍니다. 끝없는 과금 유도와 일일 퀘스트에 피로감을 느낀 이용자들은 완결성 있는 경험과 합리적인 가격의 패키지 게임으로 시선을 돌리고 있습니다. 소규모 인원으로도 핵심 재미에 집중한다면 전 세계 시장에서 막대한 상업적 성공을 거둘 수 있음을 입증했습니다. 🎯\n\n결국 지속 가능한 성장의 열쇠는 **수익 모델의 정교화가 아니라 플레이 본연의 순수한 몰입감**에 있습니다. 실패를 두려워하지 않는 창의적 시도와 기획력이 뒷받침될 때 비로소 플랫폼과 국경을 초월한 팬덤이 형성됩니다. 💡\n\n라이브 서비스에 매몰되어 천편일률적인 신작을 쏟아내는 업계에 데이브의 질주는 어떤 질문을 던지고 있을까요? 이제 완성도 높은 단 하나의 경험으로 글로벌 게이머의 마음을 사로잡을 차례입니다. 🧭"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": true,
+      "title": "Warhammer 40,000: Dawn of War 4 - Official &#39;1v1 Annihilation Orks vs Necrons&#39; Gameplay Overview",
+      "channel": "GameTrailers",
+      "videoId": "qEmH1TaTkew",
+      "url": "https://www.youtube.com/watch?v=qEmH1TaTkew",
+      "thumbnail": "https://i.ytimg.com/vi/qEmH1TaTkew/hqdefault.jpg",
+      "comment": "RTS 명작의 귀환을 알리는 신작 '워해머 40,000: 던 오브 워 4'의 공식 게임플레이 영상이 공개되었습니다. 이번 영상에서는 거친 오크 군단과 냉혹한 네크론이 맞붙는 박진감 넘치는 1대1 섬멸전의 정수를 생생하게 담아냈습니다. 전장을 뜨겁게 달굴 치열한 전술 대결을 지금 바로 트레일러에서 확인해 보세요! ⚔️🔥",
+      "search_query": "Warhammer 40000 Dawn of War 4 Official Gameplay Trailer",
+      "ai_game_name": "워해머 40,000: 던 오브 워 4",
+      "ai_reason": "전설적인 RTS 명작의 귀환이자, 오크와 네크론 진영의 대규모 전면전이 펼쳐지는 압도적인 스케일의 공식 게임플레이로 게이머들의 폭발적인 기대를 모으고 있습니다."
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Code Vein 2: Mask of Idris",
+        "releases.0.note": "The first major expansion DLC for Code Vein 2, featuring new areas, bosses, and Blood weapons, has officially launched.",
+        "releases.0.dev": "Bandai Namco Entertainment",
+        "releases.1.game": "WARDOGS",
+        "releases.1.note": "A tactical military FPS officially launching globally on September 10, depicting intense battlefield combat between mercenary squads.",
+        "releases.1.dev": "Orca Studios",
+        "releases.2.game": "Meccha Chameleon",
+        "releases.2.note": "A popular casual hide-and-seek action game shadow-dropped on Switch 2 right after the September 10 Nintendo Direct.",
+        "releases.2.dev": "Indie Developers",
+        "releases.3.game": "Touhou Koumakyou: New Classic",
+        "releases.3.note": "A bullet hell classic remake officially released on PC and consoles on September 10, modernizing the original gameplay experience with updated resolution and quality-of-life features.",
+        "releases.3.dev": "Alliance Arts",
+        "releases.4.game": "Torneko's Great Adventure: Mystery Dungeon - A Rather Wonderful Remaster",
+        "releases.4.note": "A remaster of the classic roguelike RPG masterpiece, made available right after the conclusion of the September 10 Nintendo Direct.",
+        "releases.4.dev": "Square Enix",
+        "releases.5.game": "No Man's Sky: Cosmos",
+        "releases.5.note": "A massive free update released to celebrate the game's 10th anniversary, introducing space station ownership and direct star exploration.",
+        "releases.5.dev": "Hello Games",
+        "events.0.name": "The Kingdom of the Winds 30th Anniversary Traditional Craft Exhibition: 'Wind of Thirty, Connecting Tradition'",
+        "events.0.note": "A special traditional craft exhibition held in collaboration with Korea National University of Cultural Heritage to celebrate the 30th anniversary of The Kingdom of the Winds.",
+        "events.0.venue": "Gyejodang Hall, Gyeongbokgung Palace, Seoul",
+        "events.1.name": "Tokyo Game Show 2026",
+        "events.1.venue": "Makuhari Messe, Japan"
+      },
+      "briefing": {
+        "items.0.title": "'Dave the Diver' Becomes First Korean Single-Player Premium Game to Surpass 10 Million Copies Sold",
+        "items.0.source": "Gamemeca",
+        "items.0.time": "September 9",
+        "items.1.title": "XL Games Decides to Transfer 'ArcheAge' IP for 39.2 Billion KRW",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "September 9",
+        "items.2.title": "'Fatal Fury: CotW' Sparks Debate Among Fighting Game Fans Over Tokyo Revengers Crossover",
+        "items.2.source": "IGN India",
+        "items.2.time": "September 10",
+        "items.3.title": "Warhammer 40K: Dawn of War 4 Reveals Orks vs. Necrons Gameplay",
+        "items.3.source": "IGN India",
+        "items.3.time": "September 9",
+        "items.4.title": "Atlus Confirms 'Persona 6' Release on Next-Gen Switch 2",
+        "items.4.source": "4Gamer",
+        "items.4.time": "September 9",
+        "items.5.title": "'Kirby World Beyond' Set for Spring 2027 Release on Switch 2",
+        "items.5.source": "4Gamer",
+        "items.5.time": "September 9",
+        "items.6.title": "1,900 Blizzard Union Workers Officially Ratify First Collective Bargaining Agreement with Microsoft",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "September 9",
+        "items.7.title": "Mark Cerny and Geoff Keighley Establish Foundation to Support Emerging Developers",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "September 9"
+      },
+      "drk": {
+        "title": "The Intrinsic Value of Premium Games Proven by a 10-Million-Copy Diver",
+        "intro": "In a market dominated by live services and gacha business models, a pure single-player premium title has surpassed 10 million copies sold.\nWhat kind of games do players truly want to open their wallets for?",
+        "points": "Nexon Mintrocket's 'Dave the Diver' has surpassed 10 million units in global cumulative sales, becoming the first Korean single-player premium game to achieve this milestone. It is a monumental record achieved not by a high-budget AAA project, but by a hybrid ocean adventure powered by distinct and creative gameplay. 🌊\n\nThis achievement clearly demonstrates a shift in global gaming consumption patterns and player sentiment. Weary of endless monetization and daily chore-like quests, players are turning their attention toward complete, standalone experiences offered at fair prices. It proves that even a small team, by focusing on core fun, can achieve massive commercial success in the global market. 🎯\n\nUltimately, the key to sustainable growth lies **not in over-refining monetization models, but in the pure, intrinsic immersion of play**. Only when backed by bold creative attempts and sharp design can a game build a dedicated fandom transcending platforms and borders. 💡\n\nWhat question does Dave's triumph pose to an industry bogged down by live services churning out cookie-cutter releases? It is time to captivate the hearts of players worldwide with a single, thoroughly crafted experience. 🧭"
+      },
+      "trailer": {
+        "title": "Warhammer 40,000: Dawn of War 4 - Official '1v1 Annihilation Orks vs Necrons' Gameplay Overview",
+        "comment": "An official gameplay video has been released for 'Warhammer 40,000: Dawn of War 4,' heralding the return of the classic RTS series. This video vividly captures the essence of an intense 1v1 Annihilation battle between the brutal Ork horde and the relentless Necrons. Check out the trailer now to witness the fiery tactical showdown ready to ignite the battlefield! ⚔️🔥"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "CODE VEIN 2: マスク・オブ・イドリス",
+        "releases.0.note": "新規フィールドやボス、血統武器が含まれる『CODE VEIN 2』初の大型拡張DLCが正式にリリースされました。",
+        "releases.0.dev": "バンダイナムコエンターテインメント",
+        "releases.1.game": "WARDOGS（ウォードッグス）",
+        "releases.1.note": "9月10日にグローバルで正式リリースされるタクティカルミリタリーFPSゲームで、傭兵部隊の熾烈な戦場での戦いを描いています。",
+        "releases.1.dev": "オルカスタジオ",
+        "releases.2.game": "メッチャカメレオン（Meccha Chameleon）",
+        "releases.2.note": "9月10日のNintendo Direct直後にSwitch 2向けにサプライズ配信された人気カジュアルかくれんぼアクションゲームです。",
+        "releases.2.dev": "インディー開発チーム",
+        "releases.3.game": "東方紅魔郷：New Classic",
+        "releases.3.note": "9月10日にPCおよびコンソール向けに正式リリースされた弾幕シューティングの名作リメイクで、原作のプレイ感覚を現代の解像度と利便性の高い機能で洗練させています。",
+        "releases.3.dev": "アライアンス・アーツ",
+        "releases.4.game": "トルネコの大冒険 不思議のダンジョン ちょっぴりステキなリマスター",
+        "releases.4.note": "9月10日のNintendo Direct終了と同時に配信が開始されたローグライクRPGの名作リマスタータイトルです。",
+        "releases.4.dev": "スクウェア・エニックス",
+        "releases.5.game": "No Man's Sky: Cosmos",
+        "releases.5.note": "サービス10周年を記念して正式配信された無料の大型アップデートで、宇宙ステーションの所有や恒星の直接探査機能が追加されました。",
+        "releases.5.dev": "Hello Games",
+        "events.0.name": "風の王国 30周年伝統工芸展「而立の風、伝統をつなぐ」",
+        "events.0.note": "『風の王国』サービス30周年を記念し、韓国伝統文化大学校とのコラボレーションによって開催される伝統工芸企画展",
+        "events.0.venue": "ソウル 景福宮 継照堂",
+        "events.1.name": "東京ゲームショウ2026",
+        "events.1.venue": "日本 幕張メッセ"
+      },
+      "briefing": {
+        "items.0.title": "『デイヴ・ザ・ダイバー』、韓国産シングルパッケージゲームとして初となる累計1,000万本を突破",
+        "items.0.source": "ゲームメカ",
+        "items.0.time": "9月9日",
+        "items.1.title": "XLGAMES、『ArcheAge』IPを392億ウォンで譲渡決定",
+        "items.1.source": "ゲームメカ",
+        "items.1.time": "9月9日",
+        "items.2.title": "『餓狼伝説 CotW』、『東京リベンジャーズ』参戦に格闘ゲームファンの間で賛否両論",
+        "items.2.source": "IGN India",
+        "items.2.time": "9月10日",
+        "items.3.title": "『Warhammer 40,000: Dawn of War 4』、オルク対ネクロンのプレイ映像を公開",
+        "items.3.source": "IGN India",
+        "items.3.time": "9月9日",
+        "items.4.title": "アトラス『ペルソナ6』、次世代機Switch 2での発売が決定",
+        "items.4.source": "4Gamer",
+        "items.4.time": "9月9日",
+        "items.5.title": "『星のカービィ ワールドビヨンド』、Switch 2向けに2027年春発売",
+        "items.5.source": "4Gamer",
+        "items.5.time": "9月9日",
+        "items.6.title": "ブリザード労組の1,900人、マイクロソフトとの初労働協約を正式批准",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "9月9日",
+        "items.7.title": "マーク・サーニー＆ジェフ・キーリー、新人クリエイター育成財団を設立",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "9月9日"
+      },
+      "drk": {
+        "title": "1,000万本のダイバーが証明したパッケージゲームの本質的価値",
+        "intro": "ライブサービスやガチャを中心としたビジネスモデルが支配する市場の中で、純粋なシングルプレイ専用パッケージゲームが1,000万本を突破しました。\n果たしてゲーマーたちが真にお金を払いたいと願うゲームとは、どのような姿なのでしょうか？",
+        "points": "ネクソンのMINTROCKETが手掛けた『デイヴ・ザ・ダイバー』が、韓国産シングルパッケージゲームとして初めてグローバル累計販売本数1,000万本を突破しました。巨額の資本が投じられたAAAタイトルではなく、独創的なゲームプレイを前面に押し出したハイブリッド海洋アドベンチャーが成し遂げた記念碑的な記録です。🌊\n\n今回の成果は、グローバルなゲーム消費構造とユーザー心理の明確な変化を示しています。終わりのない課金誘導やデイリークエストに疲弊したプレイヤーたちは、完結した体験と手頃な価格のパッケージゲームへと目を向けています。少人数体制であっても本質的な面白さに集中すれば、世界市場で大きな商業的成功を収められることが証明されました。🎯\n\n結局のところ、持続可能な成長への鍵は**収益モデルの精緻化ではなく、プレイ本来の純粋な没入感**にあります。失敗を恐れない創造的な挑戦と企画力が伴ってこそ、プラットフォームや国境を越えたファンコミュニティが形成されるのです。💡\n\nライブサービスに囚われ、画一的な新作を量産し続ける業界に対し、『デイヴ』の快進撃はどのような問いを投げかけているでしょうか。今こそ、完成度の高い唯一無二の体験で世界中のゲーマーの心を掴む時です。🧭"
+      },
+      "trailer": {
+        "title": "Warhammer 40,000: Dawn of War 4 - Official &#39;1v1 Annihilation Orks vs Necrons&#39; Gameplay Overview",
+        "comment": "RTSの名作の帰還を告げる新作『Warhammer 40,000: Dawn of War 4』の公式ゲームプレイ映像が公開されました。今回の映像では、荒々しいオルク軍団と冷酷なネクロンが激突する白熱の1対1殲滅戦の真髄が生々しく描かれています。戦場を熱く焦がす熾烈な戦術対決を、今すぐトレーラーでチェックしてみてください！⚔️🔥"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "천만 다이버가 증명한 패키지 게임의 역습 🚀 (feat. 던 오브 워 4 신규 트레일러 ⚔️)",
+    "en": "What 10M Divers Just Proved to Gaming 🚀 (+ Dawn of War 4 Gameplay Reveal ⚔️)",
+    "ja": "1000万人のダイバーが証明した買い切りゲームの底力 🚀 (feat. 『DoW 4』最新映像 ⚔️)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "데이브 더 다이버가 결국 일 냈네요! 🌊\n국산 싱글 패키지 최초로 천만 장을 돌파했대요, 진짜 대단하지 않나요? 👏\n\nhttps://www.gtplayer.net/edition-122/\n#데이브더다이버 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-10T16:03:01.155480"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "9월 10일 오늘의 게임 소식 🎮 | 천만 다이버가 증명한 패키지 게임의 역습!\n\n📰 [뉴스] '데이브 더 다이버' 국산 싱글 최초 천만 장 돌파 & '던 오브 워 4' 신규 플레이 공개\n📅 [출시] '코드 베인 2', '토르네코의 대모험 리마스터', '노 맨즈 스카이: 코스모스' 등 신작 라인업\n✍️ [인사이트] 가챠와 라이브 서비스 범람 속, 천만 다이버가 증명한 패키지 게임의 본질적 가치\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임덕후 #게임추천 #신작게임 #인디게임 #콘솔게임 #데이브더다이버 #스팀게임 #플레이스테이션 #닌텐도스위치 #스위치2 #던오브워4 #페르소나6 #코드베인2 #노맨즈스카이 #게임스타그램 #게이머 #PC게임 #겜스타그램 #GTPlayer",
+          "image_paths": [
+            "web\\instagram\\edition_122\\card_cover.png",
+            "web\\instagram\\edition_122\\card_news.png",
+            "web\\instagram\\edition_122\\card_calendar.png",
+            "web\\instagram\\edition_122\\card_drk.png"
+          ],
+          "posted": false,
+          "data": {
+            "success": false,
+            "id": null,
+            "url": null,
+            "error": "Instagram (instagrapi) 업로드 실패: 404 Client Error: Not Found for url: https://i.instagram.com/api/v1/qe/expose/"
+          },
+          "error": "Instagram (instagrapi) 업로드 실패: 404 Client Error: Not Found for url: https://i.instagram.com/api/v1/qe/expose/"
+        }
+      },
+      "updated_at": "2026-09-10T16:03:33.556431"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "What 10M Divers Just Proved to Gaming 🚀 (+ Dawn of War 4 Gameplay Reveal ⚔️)\n\nDave the Diver just made history by surpassing 10 million sales, proving that pure single-player premium games can still thrive and capture global audiences.\nFrom brutal Dawn of War 4 gameplay reveals to major IP shifts and next-gen Persona 6 news, this week is packed with massive industry milestones.\n\nhttps://www.gtplayer.net/edition-122-en/",
+        "error": null
+      },
+      "updated_at": "2026-09-10T16:14:31.593585"
+    }
+  }
+}

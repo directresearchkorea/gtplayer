@@ -1,0 +1,424 @@
+{
+  "num": "089",
+  "date": "2026-07-27",
+  "status": "published",
+  "schedule": {
+    "date": "",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "포세이큰 릴름스: 바린스 콜",
+          "dev": "툰헤드 스튜디오",
+          "date": "7월 27일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "7월 27일 정식 출시되는 3인칭 다크 판타지 액션 RPG로, 가혹한 세계관에서 역동적인 전투와 탐험을 제공합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/951770/Forsaken_Realms_Vahrins_Call/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "더 레프트 비하인드",
+          "dev": "포스 왈라비 스튜디오",
+          "date": "7월 27일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "7월 27일 정식 출시되는 생존 호러 게임으로, 기괴한 생물들로 가득한 위험 구역에서 자원을 관리하며 살아남아야 합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2433630/The_Left_Behind/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "엔다코피아",
+          "dev": "앤디 랜드",
+          "date": "7월 27일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "7월 27일 정식 출시되는 포인트 앤 클릭 어드벤처 게임으로, 초현실적인 세계에 빠진 아이 '멜론'을 안내하며 비밀을 풀어나갑니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2684630/Endacopia/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "헤일로: 캠페인 이볼브드",
+          "dev": "헤일로 스튜디오",
+          "date": "7월 28일(화)",
+          "platforms": [
+            "PC",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "7월 28일 출시되는 SF FPS 게임으로, 클래식 '헤일로 1'의 캠페인을 최신 엔진과 그래픽 기술로 새롭게 재구축했습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2806050/Halo_Campaign_Evolved/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "미스트폴 헌터",
+          "dev": "시노 익스트랙션 스튜디오",
+          "date": "7월 29일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "7월 29일 출시되는 3인칭 PvPvE 익스트랙션 액션 RPG로, 몰락한 신들의 세계에서 장비를 확보하고 생존하여 탈출해야 합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3282300/Mistfall_Hunter/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "update",
+          "game": "검은사막",
+          "dev": "펄어비스",
+          "date": "7월 29일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "7월 29일 32번째 신규 클래스 '에이전트' 전승 추가와 함께 초속 성장을 지원하는 '하이퍼 부스트' 서버 대규모 업데이트가 진행됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318875",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "Steam Six One Demo Days",
+          "note": "FuRyu 신작 'ANOMALITH' 및 'CRYMELIGHT' 체험판 공개",
+          "venue": "Steam",
+          "date": "2026-08-01",
+          "tag": "쇼케이스",
+          "website": "https://www.4gamer.net/games/008/G100858/20260724033/"
+        },
+        {
+          "name": "게임스컴 2026",
+          "note": "",
+          "venue": "독일 쾰른",
+          "date": "2026-08-26~2026-08-30",
+          "tag": "오프라인 행사",
+          "d_day_str": "D-30",
+          "website": "https://www.gamescom.global"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "던전앤파이터, '미카엘라' 레이드 8월 6일 오픈",
+          "source": "게임메카",
+          "time": "7월 27일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1778292"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "공룡 소울라이크 '다이노블레이드', 스팀 평가 호조",
+          "source": "게임메카",
+          "time": "7월 27일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1778281"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'Choppa: Rescue Rivals' 공식 출시일 트레일러 공개",
+          "source": "IGN India",
+          "time": "7월 26일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/267295/choppa-rescue-rivals-official-release-date-trailer"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "멀티플레이 아레나 슈터 'Dirtnap' 공식 발표",
+          "source": "IGN India",
+          "time": "7월 26일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/267277/dirtnap-official-announcement-trailer"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'이멋세' 신작 게임, PC·모바일 사전등록 시작",
+          "source": "4Gamer",
+          "time": "7월 26일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/027/G102766/20260724066/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "메카 신작 '오메가 피닉스', 펀딩 달성 후 풀보이스 확정",
+          "source": "Famitsu",
+          "time": "7월 26일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202607/82517"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "캡콤 \"리메이크 활용해 매년 바이오하자드 출시 목표\"",
+          "source": "PC Gamer",
+          "time": "7월 26일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/resident-evil/capcom-wants-to-release-a-resident-evil-every-year-and-sees-remakes-as-the-way-to-make-it-happen/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "디지털 범람의 시대, 게이머가 다시 '실물과 검증된 IP'를 찾는 이유 🎮",
+      "intro": "모든 것이 디지털화되는 시대에 왜 유저들은 옛 명작의 리메이크와 실물 패키지에 열광할까요?\n오늘의 뉴스 속에서 게임 산업이 맞이한 거대한 심리적 반작용의 신호를 읽어냅니다.",
+      "points": "최근 유비소프트의 '블랙 플래그 리메이크'가 불과 2주 만에 목표를 달성하고, 록스타 게임즈 창립자가 실물 패키지의 필요성을 역설했습니다. 여기에 '갓 오브 워' 신작 발표까지 이어지며, 검증된 클래식 IP와 실물 소장 가치에 대한 시장의 뜨거운 열망이 다시 입증되었습니다. ⚓📦\n\n이는 게이머의 **소비자 심리**와 **게임 소비 구조**가 중요한 전환점을 맞이했음을 보여줍니다. 무한한 결제를 유도하는 휘발성 라이브 서비스에 피로감을 느낀 이용자들이, 명확한 완결성과 소유권을 제공하는 콘텐츠로 회귀하고 있습니다. 디지털 편의성 이면에 존재하는 '소유의 불확실성'에 대한 거부감이 실체적 경험을 향한 수요로 분출되는 양상입니다. 💡\n\n결국 산업의 지형이 변하더라도 **게이머가 진정 원하는 것은 '확실한 소유의 감각'과 '검증된 서사적 경험'**입니다. 화려한 서비스형 모델보다 한 편의 완성도 높은 명작이 주는 감동과 손에 잡히는 소장의 기쁨이 게이머의 마음을 움직이는 본질적인 원동력입니다. 🔍\n\n디지털 효율성만을 추구하던 글로벌 게임사들은 이제 유저들의 이러한 소유적·감성적 니즈를 어떻게 균형 있게 충족시킬지 답해야 합니다. 여러분은 가상 라이브러리의 숫자와 손에 쥐어지는 실물 패키지 중 어느 쪽에 더 가치를 느끼십니까? 🤔"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": true,
+      "items": [],
+      "title": "We replaced desktop pets with subscription plans.",
+      "score": 25585,
+      "url": "https://i.redd.it/ltxeats0yn2h1.png",
+      "preview_img": "https://preview.redd.it/ltxeats0yn2h1.png?auto=webp&s=5120dec558115a0ae30ff0824a1b026ad0400196",
+      "permalink": "https://reddit.com/r/pcmasterrace/comments/1tkejrs/we_replaced_desktop_pets_with_subscription_plans/",
+      "subreddit": "pcmasterrace",
+      "author": "rishu1221",
+      "num_comments": 386,
+      "what_happened": "‘바탕화면 요정을 구독 요금제와 맞바꿨다’라는 제목으로, 매달 돈을 뜯어가는 최신 AI 구독 서비스(Copilot, ChatGPT 등)보다 아무 기능 없어도 화면 한구석을 지켜주던 옛날 윈도우의 클리피와 귀여운 동물 길잡이들이 훨씬 그립다는 PC 유저들의 향수와 유머를 담았습니다.",
+      "one_liner": "매달 구독료만 갉아먹는 차가운 AI 비서보다, 아무짝에 쓸모없어도 꼬리 흔들어주던 그때 그 시절 댕댕이가 훨씬 힐링이었는데 말이죠... 🥲💸"
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Forsaken Realms: Varin's Call",
+        "releases.0.note": "A 3rd-person dark fantasy action RPG officially releasing on July 27, offering dynamic combat and exploration in a harsh world.",
+        "releases.0.dev": "Toonhead Studio",
+        "releases.1.game": "The Left Behind",
+        "releases.1.note": "A survival horror game officially releasing on July 27, where you must manage resources and survive in a dangerous zone filled with bizarre creatures.",
+        "releases.1.dev": "Force Wallaby Studio",
+        "releases.2.game": "Endacopia",
+        "releases.2.note": "A point-and-click adventure game officially releasing on July 27, where you guide a child named 'Mellon' trapped in a surreal world and unravel its secrets.",
+        "releases.2.dev": "Andy Land",
+        "releases.3.game": "Halo: Campaign Evolved",
+        "releases.3.note": "A sci-fi FPS releasing on July 28, rebuilding the classic 'Halo 1' campaign with modern engines and graphics technology.",
+        "releases.3.dev": "Halo Studios",
+        "releases.4.game": "Mistfall Hunter",
+        "releases.4.note": "A 3rd-person PvPvE extraction action RPG releasing on July 29, where players must secure gear, survive, and escape in a world of fallen gods.",
+        "releases.4.dev": "Sino Extraction Studio",
+        "releases.5.game": "Black Desert",
+        "releases.5.note": "A major update on July 29 featuring the Succession for the 32nd new class 'Agent', along with 'Hyper Boost' servers supporting ultra-fast progression.",
+        "releases.5.dev": "Pearl Abyss",
+        "events.0.name": "Steam Six One Demo Days",
+        "events.0.note": "Demos revealed for FuRyu's new titles 'ANOMALITH' and 'CRYMELIGHT'",
+        "events.0.venue": "Steam",
+        "events.1.name": "Gamescom 2026",
+        "events.1.venue": "Cologne, Germany"
+      },
+      "briefing": {
+        "items.0.title": "Dungeon & Fighter: 'Michaela' Raid Opens August 6",
+        "items.0.source": "GameMeca",
+        "items.0.time": "July 27",
+        "items.1.title": "Dinosaur Soulslike 'Dino Blade' Receives Positive Steam Reviews",
+        "items.1.source": "GameMeca",
+        "items.1.time": "July 27",
+        "items.2.title": "'Choppa: Rescue Rivals' Official Release Date Trailer Revealed",
+        "items.2.source": "IGN India",
+        "items.2.time": "July 26",
+        "items.3.title": "Multiplayer Arena Shooter 'Dirtnap' Officially Announced",
+        "items.3.source": "IGN India",
+        "items.3.time": "July 26",
+        "items.4.title": "New 'KonoSuba' Game Starts Pre-Registration on PC and Mobile",
+        "items.4.source": "4Gamer",
+        "items.4.time": "July 26",
+        "items.5.title": "New Mecha Game 'Omega Phoenix' Confirms Full Voice Acting After Meeting Funding Goal",
+        "items.5.source": "Famitsu",
+        "items.5.time": "July 26",
+        "items.6.title": "Capcom Aims to 'Release a Resident Evil Game Every Year Using Remakes'",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "July 26"
+      },
+      "drk": {
+        "title": "In the Age of Digital Overload, Why Gamers Are Returning to 'Physical Copies and Proven IPs' 🎮",
+        "intro": "In an era where everything is going digital, why are players passionate about remakes of classic masterpieces and physical editions?\nWe decipher the signals of a massive psychological backlash facing the gaming industry in today's news.",
+        "points": "Ubisoft's recent 'Black Flag Remake' met its goal in just two weeks, and the founder of Rockstar Games emphasized the necessity of physical packages. Along with the announcement of a new 'God of War' title, the market's passionate desire for proven classic IPs and physical collectible value has been proven once again. ⚓📦\n\nThis shows that gamers' **consumer psychology** and **game consumption structure** have reached a major turning point. Gamers fatigued by volatile live services that induce endless microtransactions are returning to content that provides clear closure and ownership. The backlash against the 'uncertainty of ownership' existing behind digital convenience is bursting into demand for tangible experiences. 💡\n\nUltimately, even if the industry landscape shifts, **what gamers truly want is a 'clear sense of ownership' and 'proven narrative experiences'**. Rather than flashy live-service models, the emotion delivered by a single well-crafted masterpiece and the joy of physical ownership remain the core driving forces moving gamers' hearts. 🔍\n\nGlobal game companies that have pursued only digital efficiency must now answer how to balance these possessive and emotional needs of players. Which do you value more: the numbers in your virtual library, or a physical package held in your hand? 🤔"
+      },
+      "meme": {
+        "what_happened": "Titled 'Traded Desktop Helpers for Subscription Plans', this captures PC users' nostalgia and humor—missing old Windows Clippy and cute animal assistants that guarded a screen corner despite having no real function, far more than modern AI subscriptions (Copilot, ChatGPT, etc.) that take money every month.",
+        "one_liner": "Rather than a cold AI assistant that eats up monthly subscription fees, that good old doggo who wagged its tail even though it was completely useless was way more healing... 🥲💸"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "『フォーセイクン・レルムズ：ヴァリンズ・コール』",
+        "releases.0.note": "7月27日に正式リリースされる三人称視点ダークファンタジーアクションRPGで、過酷な世界観の中でダイナミックな戦闘と探索を提供します。",
+        "releases.0.dev": "トゥーンヘッド・スタジオ",
+        "releases.1.game": "『ザ・レフト・ビハインド』",
+        "releases.1.note": "7月27日に正式リリースされるサバイバルホラーゲームで、怪奇な生物で満ちた危険地帯でリソースを管理しながら生き残らなければなりません。",
+        "releases.1.dev": "フォース・ワラビー・スタジオ",
+        "releases.2.game": "『Endacopia』",
+        "releases.2.note": "7月27日に正式リリースされるポイント＆クリックアドベンチャーゲームで、シュールな世界に迷い込んだ子供「メロン」を案内しながら謎を解き明かしていきます。",
+        "releases.2.dev": "アンディ・ランド",
+        "releases.3.game": "『Halo: Campaign Evolved』",
+        "releases.3.note": "7月28日に発売されるSF FPSゲームで、クラシックな『Halo 1』のキャンペーンを最新エンジンとグラフィック技術で新たに再構築しました。",
+        "releases.3.dev": "Halo Studios",
+        "releases.4.game": "『Mistfall Hunter』",
+        "releases.4.note": "7月29日に発売される三人称視点PvPvEエキストラクション・アクションRPGで、没落した神々の世界で装備を確保して生存し、脱出しなければなりません。",
+        "releases.4.dev": "シノ・エキストラクション・スタジオ",
+        "releases.5.game": "『黒い砂漠』",
+        "releases.5.note": "7月29日に32番目の新クラス「エージェント」の伝承追加とともに、超高速成長を支援する「ハイパーブースト」サーバーの大型アップデートが実施されます。",
+        "releases.5.dev": "Pearl Abyss",
+        "events.0.name": "Steam Six One Demo Days",
+        "events.0.note": "フリュー新作『ANOMALITH』および『CRYMELIGHT』体験版公開",
+        "events.0.venue": "Steam",
+        "events.1.name": "gamescom 2026",
+        "events.1.venue": "ドイツ・ケルン"
+      },
+      "briefing": {
+        "items.0.title": "『アラド戦記』、「ミカエラ」レイドが8月6日にオープン",
+        "items.0.source": "ゲームメカ",
+        "items.0.time": "7月27日",
+        "items.1.title": "恐竜ソウルライク『Dinoblade』、Steam評価で好評",
+        "items.1.source": "ゲームメカ",
+        "items.1.time": "7월 27일",
+        "items.2.title": "『Choppa: Rescue Rivals』公式リリース日トレーラー公開",
+        "items.2.source": "IGN India",
+        "items.2.time": "7月26日",
+        "items.3.title": "マルチプレイアリーナシューター『Dirtnap』正式発表",
+        "items.3.source": "IGN India",
+        "items.3.time": "7月26日",
+        "items.4.title": "『このすば』新作ゲーム、PC・モバイルで事前登録開始",
+        "items.4.source": "4Gamer",
+        "items.4.time": "7月26日",
+        "items.5.title": "メカ新作『オメガ・フェニックス』、クラファン達成でフルボイス化決定",
+        "items.5.source": "ファミ通",
+        "items.5.time": "7月26日",
+        "items.6.title": "カプコン「リメイクを活用し毎年バイオハザードの発売を目指す」",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "7月26日"
+      },
+      "drk": {
+        "title": "デジタル氾濫の時代、ゲーマーが再び「実物と検証済みIP」を求める理由 🎮",
+        "intro": "すべてがデジタル化する時代に、なぜユーザーは昔の名作のリメイクやパッケージ版に熱狂するのでしょうか？\n本日のニュースの中から、ゲーム産業が直面した巨大な心理的反作用の兆候を読み解きます。",
+        "points": "最近、ユービーアイソフトの『ブラック フラッグ リメイク』がわずか2週間で目標を達成し、ロックスター・ゲームス創設者がパッケージ版の必要性を説きました。さらに『ゴッド・オブ・ウォー』の新作発表まで続き、検証済みのクラシックIPと実物の所蔵価値に対する市場の熱い熱望が改めて立証されました。 ⚓📦\n\nこれはゲーマーの**消費者心理**と**ゲーム消費構造**が重要な転換点を迎えたことを示しています。無限の課金を誘導する揮発性のライブサービスに疲労感を感じたユーザーが、明確な完結性と所有権を提供するコンテンツへ回帰しています。デジタルの利便性の裏に存在する「所有の不確実性」に対する拒否感が、実体的な体験へ向けた需要として噴出している様相です。 💡\n\n結局、産業の地形が変わろうとも**ゲーマーが真に望んでいるのは「確かな所有の感覚」と「検証された物語体験」**です。華やかなサービス型モデルよりも、一作の完成度の高い名作が与える感動と手に取れる所蔵の喜びが、ゲーマーの心を動かす本質的な原動力です。 🔍\n\nデジタルの効率性のみを追求していたグローバルゲーム会社は、今やユーザーのこのような所有的・感情的ニーズをどのようにバランスよく満たすべきか答えなければなりません。皆さんは仮想ライブラリの数字と手に握られるパッケージ版のどちらに、より価値を感じますか？ 🤔"
+      },
+      "meme": {
+        "what_happened": "「デスクトップの妖精をサブスクプランと引き換えにした」というタイトルで、毎月お金をむしり取る最新のAIサブスクサービス（Copilot、ChatGPTなど）よりも、機能は何もなくても画面の隅で見守ってくれていた昔のWindowsのクリッピー（カイル）や可愛い動物アシスタントたちの方が遥かに恋しいという、PCユーザーの郷愁とユーモアが込められています。",
+        "one_liner": "毎月サブスク料ばかり削り取る冷たいAI秘書より、何の役にも立たなくても尻尾を振ってくれたあの頃のワンちゃんの方が遥かに癒やしだったのになぁ… 🥲💸"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "디지털 피로의 시대 📉 게이머가 다시 '실물 패키지'와 '검증된 IP'를 찾는 이유 🎮",
+    "en": "Sick of Digital Clutter? 📉 Why Gamers Are Returning to Physical Games & Classic IPs 🎮",
+    "ja": "デジタル飽和時代 📉 ゲーマーが今「パッケージ版」と「定番IP」を選ぶ理由 🎮"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "7월 27일 오늘의 게임 소식 🎮 디지털 피로의 시대, 게이머가 다시 실물과 검증된 IP를 찾는 이유는?\n\n📰 [뉴스] 던파 신규 레이드 소식부터 공룡 소울라이크 '다이노블레이드' 스팀 호평까지 주요 이슈 모음!\n📅 [출시] '헤일로: 캠페인 이볼브드', '검은사막' 등 이번 주를 채울 신작 게임 출시 라인업!\n✍️ [인사이트] 디지털 범람 속에서 게이머들이 '실물 패키지'와 '옛 명작'으로 돌아가는 심리적 반작용 분석.\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#GTPLAYER #지티플레이어 #게임뉴스 #게임소식 #게임추천 #신작게임 #스팀게임 #PC게임 #콘솔게임 #던전앤파이터 #헤일로 #검은사막 #다이노블레이드 #게임인사이트 #게임덕후 #게임정보 #게임이슈 #게이머 #인디게임 #뉴스레터",
+          "image_paths": [
+            "web\\instagram\\edition_089\\card_news.png",
+            "web\\instagram\\edition_089\\card_calendar.png",
+            "web\\instagram\\edition_089\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3950173898566473573_39332818166",
+            "url": "https://www.instagram.com/p/DbR1jtZExdl/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-07-27T10:57:32.617851"
+    }
+  }
+}

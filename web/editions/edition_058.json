@@ -1,0 +1,438 @@
+{
+  "num": "058",
+  "date": "2026-05-27",
+  "status": "published",
+  "schedule": {
+    "date": "2026-05-27",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "007 퍼스트 라이트",
+          "dev": "IO 인터랙티브",
+          "date": "5월 27일(수)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "5월 27일 정식 출시되는 첩보 액션 게임으로, 26세의 젊은 제임스 본드가 MI6 요원으로 성장하며 마주하는 첫 임무를 다룹니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316811",
+          "source_name": "인벤"
+        },
+        {
+          "category": "event",
+          "game": "젠: 섀터드 레거시",
+          "dev": "소프트소스",
+          "date": "5월 27일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "5월 27일 Steam을 통해 데모 버전을 공개하며, 고대 전쟁으로 황폐해진 세계에서 새로운 그랜드 마스터를 꿈꾸는 로봇 승병의 사투를 그립니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/010/G101004/20260526007/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "event",
+          "game": "드래곤퀘스트 워크",
+          "dev": "스퀘어 에닉스",
+          "date": "5월 27일(수)",
+          "platforms": [
+            "iOS",
+            "Android"
+          ],
+          "color": "#3b82f6",
+          "note": "5월 27일 '드래곤 퀘스트의 날'을 맞이해 '용사의 검' 등의 신규 장비 실장과 함께 '드래곤 퀘스트 11' 콜라보레이션 이벤트가 시작됩니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202605/75970",
+          "source_name": "전격 온라인"
+        },
+        {
+          "category": "event",
+          "game": "드래곤퀘스트 스매시 그로우",
+          "dev": "스퀘어 에닉스",
+          "date": "5월 27일(수)",
+          "platforms": [
+            "iOS",
+            "Android"
+          ],
+          "color": "#3b82f6",
+          "note": "5월 27일 '드래곤 퀘스트의 날'을 기념하여 파티 전체를 회복하는 신규 장비 추가와 함께 기념 특별 캠페인을 진행합니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202605/75972",
+          "source_name": "전격 온라인"
+        },
+        {
+          "category": "event",
+          "game": "냥코 대전쟁",
+          "dev": "포노스",
+          "date": "5월 29일(금)",
+          "platforms": [
+            "iOS",
+            "Android"
+          ],
+          "color": "#3b82f6",
+          "note": "5월 29일부터 극장판 'Fate/stay night [Heaven's Feel]'과의 콜라보레이션 이벤트가 개최되며 전용 뽑기와 콜라보 스테이지가 등장합니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202605/75885",
+          "source_name": "전격 온라인"
+        }
+      ],
+      "events": [
+        {
+          "name": "드래곤퀘스트 신정보 프리미어 방송",
+          "note": "드래곤퀘스트의 날을 기념하여 신작 정보를 공개하는 약 10분간의 온라인 프리미어 방송",
+          "venue": "온라인 (YouTube)",
+          "date": "2026-05-27",
+          "tag": "쇼케이스",
+          "website": "https://www.4gamer.net/games/810/G081099/20260526030/"
+        },
+        {
+          "name": "PlayStation State of Play (2026년 6월)",
+          "note": "마블 울버린, 새로운 갓 오브 워 등 플레이스테이션 주요 신작 정보가 공개될 예정인 쇼케이스",
+          "venue": "온라인 (YouTube / Twitch)",
+          "date": "2026-06-02",
+          "tag": "쇼케이스",
+          "website": "https://www.ign.com/articles/what-to-expect-playstation-state-of-play-june-2026"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "카카오노조, 엑스엘게임즈 희망퇴직 반발 파업 예고",
+          "source": "인벤",
+          "time": "5월 26일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316806"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "넷마블, 전 직원에 업무 맞춤형 AI 에이전트 도입",
+          "source": "게임메카",
+          "time": "5월 26일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1775647"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "소니, '디스트럭션 올스타즈' 서버 종료 및 판매 중단",
+          "source": "IGN India",
+          "time": "5월 26일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/destruction-allstars/261652/playstation-delists-and-shuts-down-servers-for-destruction-allstars"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'메탈 기어 솔리드 4' 리마스터, 오리지널 요소 유지",
+          "source": "IGN India",
+          "time": "5월 26일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/metal-gear-solid-4-guns-of-the-patriots/261650/official-metal-gear-solid-4-remaster-retains-classic-real-world-brands-and-meta-jokes"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'우마무스메' x 'ZONe ENERGY' 콜라보 2탄 개시",
+          "source": "4Gamer",
+          "time": "5월 26일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/414/G041434/20260526026/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "액션 RPG '바벨의 탑' 스팀 정식 출시",
+          "source": "4Gamer",
+          "time": "5월 26일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/875/G087545/20260526044/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "테이크투, GTA 사설 모딩 플랫폼 'Rage:MP' 강제 폐쇄",
+          "source": "PC Gamer",
+          "time": "5월 26일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/grand-theft-auto/take-two-forces-shutdown-of-grand-theft-auto-multiplayer-modding-platform-rage-mp/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "닌텐도, '스위치 2' 초기 생산량 20% 늘린다",
+          "source": "GamesIndustry.biz",
+          "time": "5월 26일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/nintendo-reportedly-planning-20-production-increase-for-switch-2"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "효율성과 인간의 공존: AI 도입과 구조조정의 갈림길에 선 게임 업계",
+      "intro": "기술 혁신으로 무장한 AI가 사무실을 채우는 동안, 다른 한쪽에서는 구조조정에 반대하는 노동자들의 목소리가 울려 퍼집니다. 생존을 위해 극단적인 효율을 쫓는 오늘날 게임 산업의 이면을 들여다봅니다.",
+      "points": "최근 넷마블이 전 직원에 AI 에이전트를 대대적으로 도입하며 업무 혁신을 꾀하는 반면, 카카오노조는 엑스엘게임즈의 희망퇴직 처사에 반발하며 파업을 예고했습니다. 이는 생존을 위해 기술을 통한 비용 절감과 인적 구조조정을 동시에 밀어붙이는 오늘날 게임 산업의 냉혹한 단면을 극명히 보여주는 사례입니다. 🤖💼\n\n이러한 급격한 변화는 단순한 경영 효율화를 넘어 소비자가 경험하는 게임 형태와 시장 구조에도 깊은 영향을 미칩니다. AI 도입은 개발 주기를 단축해 신작 출시를 앞당길 수 있지만, 과도한 인력 감축과 기술 의존은 개발 현장의 창의성을 위축시켜 결국 천편일률적인 양산형 게임 양산으로 이어지기 쉬우며 이는 고스란히 유저들의 외면이라는 부메랑으로 돌아오게 됩니다. 📉🎮\n\n**기술을 통한 생산성 극대화가 인간의 창의적 영역을 위축시키는 도구로 전락해서는 안 되며, 개발 안정성과 고유의 독창성을 지키는 균형 잡힌 투자만이 장기적인 생존을 보장합니다.** 게임은 본질적으로 숫자가 아닌 인간의 감동을 설계하는 비즈니스이기 때문입니다. 💡✨\n\n효율성 극대화가 가져다줄 미래의 게임은 과연 우리에게 이전보다 더 큰 즐거움을 선사할 수 있을까요? 기술의 진보와 인간 창의성의 가치가 공존할 수 있는 해법을 고민해야 할 시점입니다. ❓🚀"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": true,
+      "title": "Hellblade II Oficial Sountrack-Heilung  In Maidjan",
+      "channel": "*Pandora Music *",
+      "videoId": "VwBLm1ATkSI",
+      "url": "https://www.youtube.com/watch?v=VwBLm1ATkSI",
+      "thumbnail": "https://i.ytimg.com/vi/VwBLm1ATkSI/hqdefault.jpg",
+      "comment": "독보적인 연출로 최근 화제인 <세누아의 사가: 헬블레이드 2>의 삽입곡입니다. 북유럽 신화로 인도하는 하일룽의 'In Maidjan'을 소개해요. 수요일 오늘 하루를 마무리하며, 전사들의 신비롭고 어두운 외침에 깊이 몰입해 보세요! 🎧🔥",
+      "search_query": "Senua's Saga Hellblade II Official Soundtrack",
+      "ai_game_name": "세누아의 사가: 헬블레이드 2",
+      "ai_reason": "최근 출시되어 압도적인 그래픽과 연출로 화제가 된 작품으로, 북유럽 네오폴크 밴드 '하이륭(Heilung)'이 참여하여 특유의 원시적이고 주술적인 분위기의 웅장한 사운드를 선사합니다. 지난주 추천한 신나는 리듬게임 비트와는 완전히 대비되는, 깊은 몰입감의 다크 시네마틱 사운드트랙을 경험할 수 있습니다."
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=058&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=058&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "007 First Light",
+        "releases.0.note": "An espionage action game officially releasing on May 27, depicting the first mission of a 26-year-old James Bond as he grows into an MI6 agent.",
+        "releases.0.dev": "IO Interactive",
+        "releases.1.game": "Zen: Shattered Legacy",
+        "releases.1.note": "Releasing its demo version on Steam on May 27, the game depicts the desperate struggle of a robot warrior monk who dreams of becoming a new Grand Master in a world devastated by an ancient war.",
+        "releases.1.dev": "Soft Source",
+        "releases.2.game": "Dragon Quest Walk",
+        "releases.2.note": "In celebration of 'Dragon Quest Day' on May 27, a collaboration event with 'Dragon Quest XI' begins along with the addition of new equipment such as the 'Sword of Light'.",
+        "releases.2.dev": "Square Enix",
+        "releases.3.game": "Dragon Quest Smash Grow",
+        "releases.3.note": "In celebration of 'Dragon Quest Day' on May 27, a special commemorative campaign will be held along with the addition of new equipment that heals the entire party.",
+        "releases.3.dev": "Square Enix",
+        "releases.4.game": "The Battle Cats",
+        "releases.4.note": "A collaboration event with the theatrical version of 'Fate/stay night [Heaven's Feel]' will be held starting May 29, featuring exclusive gacha and collaboration stages.",
+        "releases.4.dev": "PONOS",
+        "events.0.name": "Dragon Quest New Information Premiere Broadcast",
+        "events.0.note": "An approximately 10-minute online premiere broadcast revealing information on new titles in celebration of Dragon Quest Day.",
+        "events.0.venue": "Online (YouTube)",
+        "events.1.name": "PlayStation State of Play (June 2026)",
+        "events.1.note": "A showcase expected to reveal information on major upcoming PlayStation titles, including Marvel's Wolverine and a new God of War.",
+        "events.1.venue": "Online (YouTube / Twitch)"
+      },
+      "briefing": {
+        "items.0.title": "Kakao Union Warns of Strike in Protest Against XLGAMES' Voluntary Retirement Program",
+        "items.0.source": "Inven",
+        "items.0.time": "May 26",
+        "items.1.title": "Netmarble Introduces Customized AI Agents to All Employees for Work Integration",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "May 26",
+        "items.2.title": "Sony to Shut Down 'Destruction AllStars' Servers and Discontinue Sales",
+        "items.2.source": "IGN India",
+        "items.2.time": "May 26",
+        "items.3.title": "'Metal Gear Solid 4' Remaster to Retain Original Elements",
+        "items.3.source": "IGN India",
+        "items.3.time": "May 26",
+        "items.4.title": "'Umamusume' x 'ZONe ENERGY' 2nd Collaboration Begins",
+        "items.4.source": "4Gamer",
+        "items.4.time": "May 26",
+        "items.5.title": "Action RPG 'Tower of Babel' Officially Released on Steam",
+        "items.5.source": "4Gamer",
+        "items.5.time": "May 26",
+        "items.6.title": "Take-Two Forcefully Shuts Down Private GTA Modding Platform 'Rage:MP'",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "May 26",
+        "items.7.title": "Nintendo to Increase Initial Production of 'Switch 2' by 20%",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "May 26"
+      },
+      "drk": {
+        "title": "Coexistence of Efficiency and Humanity: The Gaming Industry at a Crossroads Between AI Adoption and Restructuring",
+        "intro": "While AI armed with technological innovation fills offices, on the other side, the voices of workers opposing restructuring echo. We look into the flip side of today's gaming industry, which pursues extreme efficiency for survival.",
+        "points": "While Netmarble has recently introduced AI agents to all employees to drive work innovation, the Kakao Union has announced a strike in protest against XLGAMES' voluntary retirement measures. This is a stark illustration of the harsh reality of today's gaming industry, which simultaneously pushes for technology-driven cost reduction and human restructuring to survive. 🤖💼\n\nThese rapid changes go beyond simple management efficiency and deeply affect the gaming experiences of consumers and the market structure. While AI adoption can shorten development cycles and accelerate new releases, excessive workforce reduction and over-reliance on technology can stifle creativity in development, easily leading to the mass production of generic, cookie-cutter games—which eventually backfires as users turn away. 📉🎮\n\n**Maximizing productivity through technology should not degenerate into a tool that dampens human creativity; only balanced investment that protects development stability and unique originality can guarantee long-term survival.** This is because games are inherently a business of designing human emotion, not numbers. 💡✨\n\nWill the games of the future brought about by maximizing efficiency offer us greater joy than before? It is time to ponder solutions where technological progress and the value of human creativity can coexist. ❓🚀"
+      },
+      "soundtrack": {
+        "title": "Hellblade II Official Soundtrack - Heilung: In Maidjan",
+        "comment": "This is a song featured in <Senua's Saga: Hellblade II>, which has recently become a hot topic for its unparalleled art direction. Introducing Heilung's 'In Maidjan,' which leads you into Norse mythology. As you wind down this Wednesday, immerse yourself deeply in the mysterious and dark cries of the warriors! 🎧🔥"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "007 ファーストライト",
+        "releases.0.note": "5月27日に正式リリースされるスパイアクションゲームで、26歳の若いジェームズ・ボンドがMI6エージェントへと成長し、直面する最初の任務を描いています。",
+        "releases.0.dev": "IOインタラクティブ",
+        "releases.1.game": "ゼン：シャタード・レガシー",
+        "releases.1.note": "5月27日にSteamを通じて体験版（デモ版）を公開し、古代の戦争によって荒廃した世界で、新たなグランドマスターを夢見るロボット僧兵の死闘を描きます。",
+        "releases.1.dev": "ソフトソース",
+        "releases.2.game": "ドラゴンクエストウォーク",
+        "releases.2.note": "5月27日の「ドラゴンクエストの日」を記念して、「勇者のつるぎ」などの新規装備の実装とともに、「ドラゴンクエストXI」コラボレーションイベントが開始されます。",
+        "releases.2.dev": "スクウェア・エニックス",
+        "releases.3.game": "ドラゴンクエスト スマッシュグロウ",
+        "releases.3.note": "5月27日の「ドラゴンクエストの日」を記念して、パーティ全体を回復する新規装備の追加とともに、記念特別キャンペーンを開催します。",
+        "releases.3.dev": "スクウェア・エニックス",
+        "releases.4.game": "にゃんこ大戦争",
+        "releases.4.note": "5月29日から劇場版「Fate/stay night [Heaven's Feel]」とのコラボレーションイベントが開催され、専用ガチャとコラボステージが登場します。",
+        "releases.4.dev": "ポノス",
+        "events.0.name": "ドラゴンクエスト新情報プレミア放送",
+        "events.0.note": "「ドラゴンクエストの日」を記念して新作情報を公開する、約10分間のオンラインプレミア放送",
+        "events.0.venue": "オンライン (YouTube)",
+        "events.1.name": "PlayStation State of Play (2026年6月)",
+        "events.1.note": "『Marvel's Wolverine』や新たな『ゴッド・オブ・ウォー』など、PlayStationの主要な新作情報が公開される予定のショーケース",
+        "events.1.venue": "オンライン (YouTube / Twitch)"
+      },
+      "briefing": {
+        "items.0.title": "カカオ労組、XLGAMESの希望退職に反発しストライキを予告",
+        "items.0.source": "Inven",
+        "items.0.time": "5月26日",
+        "items.1.title": "ネットマーブル、全社員に業務特化型AIエージェントを導入",
+        "items.1.source": "GameMeca",
+        "items.1.time": "5月26日",
+        "items.2.title": "ソニー、『Destruction AllStars』のサービス終了および販売終了",
+        "items.2.source": "IGN India",
+        "items.2.time": "5月26日",
+        "items.3.title": "『メタルギア ソリッド 4』リマスター版、オリジナル要素を維持",
+        "items.3.source": "IGN India",
+        "items.3.time": "5月26日",
+        "items.4.title": "『ウマ娘』×「ZONe ENERGY」コラボ第2弾開始",
+        "items.4.source": "4Gamer",
+        "items.4.time": "5月26日",
+        "items.5.title": "アクションRPG『バベル의塔』Steamで正式リリース",
+        "items.5.source": "4Gamer",
+        "items.5.time": "5月26日",
+        "items.6.title": "テイクツー、GTAのプライベートModプラットフォーム「Rage:MP」を強制閉鎖",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "5月26日",
+        "items.7.title": "任天堂、「Switch 2」の初期生産量を20%増産へ",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "5月26日"
+      },
+      "drk": {
+        "title": "効率性と人間の共存：AI導入と構造調整の岐路に立つゲーム業界",
+        "intro": "技術革新で武装したAIがオフィスを埋め尽くす一方、もう一方では構造調整（リストラ）に反対する労働者たちの声が響き渡っています。生き残るために極端な効率を追求する、現代のゲーム産業の裏側をのぞいてみます。",
+        "points": "最近、ネットマーブルが全社員にAIエージェントを大々的に導入して業務革新を図る一方、カ카오労組はXLGAMESの希望退職措置に反発してストライキを予告しました。これは、生き残るために技術によるコスト削減と人的な構造調整を同時に推し進める、現代のゲーム産業의冷酷な一面を浮き彫りにする事例です。🤖💼\n\nこのような急激な変化は、単なる経営効率化にとどまらず、消費者が体験するゲームの形態や市場構造にも深い影響を与えます。AIの導入は開発期間を短縮して新作リリースを早めることができますが、過度な人員削減や技術への依存は開発現場の創造性を萎縮させ、結果として千篇一律な量産型ゲームの乱発につながりやすく、それはそのままユーザーの離脱というブーメランとなって返ってくることになります。📉🎮\n\n**技術による生産性の最大化が、人間の創造的な領域を萎縮させる道具に成り下がってはならず、開発の安定性と独自の独創性を守るバランスの取れた投資こそが、長期的な生存を保証します。** ゲームは本質的に、数字ではなく人間の感動を設計するビジネスだからです。💡✨\n\n効率性の最大化がもたらす未来のゲームは、果たして私たちに以前よりも大きな楽しさを届けてくれるのでしょうか。技術の進歩と人間の創造性の価値が共存できる解決策を模索すべき時です。❓🚀"
+      },
+      "soundtrack": {
+        "title": "Hellblade II Oficial Sountrack-Heilung  In Maidjan",
+        "comment": "独自の演出で最近話題の『Senua's Saga: Hellblade II（セヌアのサガ：ヘルブレード2）』の挿入歌です。北欧神話へと誘うHeilungの「In Maidjan」をご紹介します。水曜日の今日、一日の締めくくりに、戦士たちの神秘的でダークな叫びに深く浸ってみてください！🎧🔥"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "AI가 삼킨 게임 개발실 🤖 (feat. 온몸에 소름 돋는 헬블레이드 2 OST 🎧)",
+    "en": "Will AI replace your favorite game devs? 🤖 (feat. Hellblade II's chilling tribal OST 🎧)",
+    "ja": "ゲーム開発はAIに奪われるのか？🤖 (feat. 鳥肌モノの『Hellblade II』神OST 🎧)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "이제 AI가 게임도 뚝딱 만드는 시대가 진짜 온 걸까요? 🤖\n넷마블이 전 사원에게 업무용 AI를 도입하는 등 게임 업계 변화가 정말 매섭네요! 💨\n\nhttps://www.gtplayer.net/edition-058/\n\n#헬블레이드2 #게임소식 #GTPlayer",
+          "posted": true,
+          "data": {
+            "data": {
+              "text": "이제 AI가 게임도 뚝딱 만드는 시대가 진짜 온 걸까요? 🤖\n넷마블이 전 사원에게 업무용 AI를 도입하는 등 게임 업계 변화가 정말 매섭네요! 💨\n\nhttps://t.co/v1KnABhxuL\n\n#헬블레이드2 #게임소식 #GTPlayer",
+              "edit_history_tweet_ids": [
+                "2059395444040736883"
+              ],
+              "id": "2059395444040736883"
+            }
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-27T07:05:09.990339"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "5월 27일 오늘의 게임 소식 🎮 에디션 #058이 도착했습니다!\n\n📰 **[뉴스]** AI 에이전트를 도입한 넷마블과 구조조정 반대 파업을 예고한 카카오노조, 요동치는 업계 소식들!\n📅 **[출시작]** '007 퍼스트 라이트'부터 '드래곤퀘스트 워크'까지, 이번 주 플레이 리스트를 채울 신작 캘린더!\n🤖 **[인사이트]** 극단적 효율을 쫓는 AI 도입과 씁쓸한 구조조정의 갈림길, 게임 업계와 인간의 공존은 가능할까요?\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#gtplayer #게임뉴스 #게임뉴스레터 #게임덕후 #게임추천 #신작게임 #스팀게임 #콘솔게임 #모바일게임 #넷마블 #카카오게임즈 #우마무스메 #메탈기어솔리드 #드래곤퀘스트 #냥코대전쟁 #게임업계 #AI #인스타게임 #겜스타그램 #게임소식",
+          "image_paths": [
+            "web\\instagram\\edition_058\\card_news.png",
+            "web\\instagram\\edition_058\\card_calendar.png",
+            "web\\instagram\\edition_058\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3905845887134581252_39332818166",
+            "url": "https://www.instagram.com/p/DY0WiPqE8IE/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-27T07:05:46.901290"
+    }
+  }
+}

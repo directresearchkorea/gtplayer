@@ -1,0 +1,441 @@
+{
+  "num": "104",
+  "date": "2026-08-17",
+  "status": "published",
+  "schedule": {
+    "date": "2026-08-17",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "위 아 쏘 데드",
+          "dev": "코로스탈 게이밍",
+          "date": "8월 17일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 17일 출시되는 협동 로그라이트 탑다운 슈팅 게임으로, 밀려드는 크리처들을 상대로 다양한 무기를 활용해 생존해야 합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4796830/WE_ARE_SO_DEAD/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "더 싱킹 시티 2",
+          "dev": "프로그웨어즈",
+          "date": "8월 18일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 18일 출시되는 3인칭 서바이벌 호러 액션 게임으로, 크툴루 신화 세계관을 배경으로 한 미스터리 탐색과 생존 전투를 다룹니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2825860/The_Sinking_City_2/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "베이퍼 월드: 오버 더 마인드",
+          "dev": "얼라이브",
+          "date": "8월 18일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 18일 출시되는 2D 소울라이크 액션 어드벤처 게임으로, 몽환적인 정신 세계 속 긴장감 넘치는 패링 액션을 제공합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/1996090/Vapor_World_Over_The_Mind/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "트위스티드 타워",
+          "dev": "아토모스피어 스튜디오",
+          "date": "8월 18일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 18일 출시되는 1인칭 호러 FPS 게임으로, 기괴한 생방송 서바이벌 쇼의 탑을 탈출하기 위한 사투를 그립니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/1575990/Twisted_Tower/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "라스트 파이러츠: 다이 투게더",
+          "dev": "레트로스펙트 스튜디오",
+          "date": "8월 18일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 18일 출시되는 해적 테마 협동 생존 어드벤처 게임으로, 바다의 저주와 위협을 피해 동료들과 힘을 합쳐 탈출하는 여정을 담았습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4317790/Last_Pirates_Die_Together/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "슈타인즈 게이트 리:부트",
+          "dev": "MAGES.",
+          "date": "8월 19일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 19일 출시되는 SF 텍스트 어드벤처 명작의 리메이크 타이틀로, 일신된 그래픽과 풍성한 연출을 선보입니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1779189",
+          "source_name": "게임메카"
+        }
+      ],
+      "events": [
+        {
+          "name": "게임스컴 2026",
+          "note": "",
+          "venue": "독일 쾰른",
+          "date": "2026-08-26~2026-08-30",
+          "tag": "오프라인 행사",
+          "d_day_str": "D-9",
+          "website": "https://www.gamescom.global"
+        },
+        {
+          "name": "도쿄 게임쇼 2026",
+          "note": "",
+          "venue": "일본 마쿠하리 멧세",
+          "date": "2026-09-17~2026-09-21",
+          "tag": "오프라인 행사",
+          "d_day_str": "D-31",
+          "website": "https://tgs.nikkeibp.co.jp"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "넷마블, 신작 서브컬처 '펄 인 블루' 티저 공개",
+          "source": "인벤",
+          "time": "8월 14일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319590"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'포켓몬 포코피아', 출시 4달 만에 500만 장 돌파",
+          "source": "게임메카",
+          "time": "8월 14일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1779188"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "크래프톤, 저사양용 'BGMI 라이트' 공식 발표",
+          "source": "IGN India",
+          "time": "8월 16일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/bgmi-lite/268960/bgmi-lite-finally-becomes-official-bringing-a-lighter-version-of-the-battle-royale-to-budget-devices"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'포트나이트', 챕터 7 시즌 4 출시 트레일러 공개",
+          "source": "IGN India",
+          "time": "8월 16일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/fortnite/268963/fortnite-override-official-chapter-7-season-4-release-date-trailer"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "스퀘어 에닉스, '킹덤 하츠 4' 2027년 후반 출시 확정",
+          "source": "4Gamer",
+          "time": "8월 16일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/015/G101577/20260816004/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'블루 아카이브', 메인 스토리 2부 2장 19일 공개",
+          "source": "電撃オンライン",
+          "time": "8월 16일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202608/84562"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'CoD: 모던 워페어 4' 베타에 캠페인 미션 포함",
+          "source": "PC Gamer",
+          "time": "8월 16일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/call-of-duty/heres-a-first-for-call-of-duty-the-modern-warfare-4-beta-will-have-a-campaign-mission-and-warzone-stuff/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "초장기화된 개발 주기와 안전지대로 후퇴하는 게임 생태계",
+      "intro": "대작 하나를 만나기 위해 5년 이상을 기다려야 하는 시대가 되었습니다.\n과연 길어진 기다림만큼 우리의 플레이 경험도 비례하여 혁신되고 있을까요? ⏳",
+      "points": "스퀘어 에닉스가 '킹덤 하츠 4'의 출시 시점을 2027년 후반으로 확정했습니다. 주요 AAA 타이틀의 개발 기간이 콘솔 한 세대 주기에 육박하는 가운데, 시장 캘린더는 '슈타인즈 게이트 리:부트'와 같은 검증된 명작의 귀환이나 미드코어 장르 신작들로 채워지고 있습니다. 🕹️\n\n천문학적인 제작비와 길어진 개발 기간은 게임사의 리스크 회피 심리를 극대화합니다. 이로 인해 게임 소비 구조는 완전히 새로운 신규 IP보다 검증된 세계관의 리메이크나 라이브 서비스형 콘텐츠로 이동하고 있으며, 소비자 역시 불확실한 신작보다 익숙한 경험에 지갑을 여는 경향을 보입니다. 📉\n\n현재의 게임 산업은 **'혁신적 모험' 대신 '안전한 IP 순환'에 안주하는 구조적 병목 현상**에 직면해 있습니다. 극단적으로 길어진 제작 기간은 역설적으로 유저들의 기대치를 한계까지 끌어올려, 작은 결점에도 치명적인 평가 절하로 이어지는 위험한 압박감을 낳고 있습니다. 🔍\n\n수년에 걸쳐 막대한 자본을 쏟아부은 거대 타이틀들이 과연 변화무쌍한 미래 게이머들의 까다로운 기준을 온전히 만족시킬 수 있을지 주목할 시점입니다. 💭"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": true,
+      "items": [],
+      "title": "I took this screenshot in Kingdom Come Deliverance 2. The medieval aesthetic and environment in this game are amazing",
+      "score": 11340,
+      "url": "https://i.redd.it/74u5w1kgcnjh1.png",
+      "preview_img": "https://i.redd.it/74u5w1kgcnjh1.png",
+      "permalink": "https://redd.it/1vpktk4",
+      "subreddit": "gaming",
+      "author": "dabor11",
+      "num_comments": 0,
+      "what_happened": "\"킹덤 컴 2 중세 풍경 폼 미쳤다\"라는 제목과 함께 올라왔지만, 정작 성이나 기사는커녕 그냥 평범한 동네 뒷산 풀밭만 덩그러니 찍혀 있어 게이머들의 헛웃음을 자아냈습니다.",
+      "one_liner": "중세 감성이라더니 그냥 우리 집 뒤뜰 산책로 뷰 아니냐고요? 🌿😂"
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "We Are So Dead",
+        "releases.0.note": "A co-op roguelite top-down shooter releasing on August 17, where players must survive against hordes of oncoming creatures using a variety of weapons.",
+        "releases.0.dev": "Korostale Gaming",
+        "releases.1.game": "The Sinking City 2",
+        "releases.1.note": "A third-person survival horror action game releasing on August 18, featuring mystery exploration and survival combat set within the Cthulhu Mythos universe.",
+        "releases.1.dev": "Frogwares",
+        "releases.2.game": "Vapor World: Over The Mind",
+        "releases.2.note": "A 2D soulslike action-adventure game releasing on August 18, offering thrilling parry action set within a dreamlike mental world.",
+        "releases.2.dev": "ALIVE",
+        "releases.3.game": "Twisted Tower",
+        "releases.3.note": "A first-person horror FPS releasing on August 18, depicting a desperate struggle to escape the tower of a bizarre live-streamed survival show.",
+        "releases.3.dev": "Atmos Games",
+        "releases.4.game": "Last Pirates: Die Together",
+        "releases.4.note": "A pirate-themed co-op survival adventure game releasing on August 18, following a journey to escape the sea's curses and perils by joining forces with crewmates.",
+        "releases.4.dev": "Retrospect Studio",
+        "releases.5.game": "STEINS;GATE RE:BOOT",
+        "releases.5.note": "A remake of the masterpiece sci-fi text adventure releasing on August 19, featuring refreshed graphics and richer presentation.",
+        "releases.5.dev": "MAGES.",
+        "events.0.name": "Gamescom 2026",
+        "events.0.venue": "Cologne, Germany",
+        "events.1.name": "Tokyo Game Show 2026",
+        "events.1.venue": "Makuhari Messe, Japan"
+      },
+      "briefing": {
+        "items.0.title": "Netmarble Unveils Teaser for New Subculture Game 'Pearl in Blue'",
+        "items.0.source": "Inven",
+        "items.0.time": "August 14",
+        "items.1.title": "'Pokémon Pokopia' Surpasses 5 Million Copies Sold in 4 Months After Release",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "August 14",
+        "items.2.title": "Krafton Officially Announces 'BGMI Lite' for Low-End Devices",
+        "items.2.source": "IGN India",
+        "items.2.time": "August 16",
+        "items.3.title": "'Fortnite' Releases Chapter 7 Season 4 Launch Trailer",
+        "items.3.source": "IGN India",
+        "items.3.time": "August 16",
+        "items.4.title": "Square Enix Confirms Late 2027 Release Window for 'Kingdom Hearts IV'",
+        "items.4.source": "4Gamer",
+        "items.4.time": "August 16",
+        "items.5.title": "'Blue Archive' to Release Main Story Part 2 Chapter 2 on August 19",
+        "items.5.source": "Dengeki Online",
+        "items.5.time": "August 16",
+        "items.6.title": "'CoD: Modern Warfare 4' Beta to Include Campaign Missions",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "August 16"
+      },
+      "drk": {
+        "title": "Ultra-Extended Development Cycles and a Gaming Ecosystem Retreating to the Safe Zone",
+        "intro": "We have entered an era where waiting over five years for a major title has become the norm.\nIs our gameplay experience truly innovating in proportion to these prolonged waits? ⏳",
+        "points": "Square Enix has locked in a late 2027 release window for 'Kingdom Hearts IV.' With development cycles for major AAA titles now approaching the lifespan of an entire console generation, release calendars are increasingly being filled with the return of proven classics like 'STEINS;GATE RE:BOOT' or mid-core genre titles. 🕹️\n\nAstronomical production budgets and stretched development timelines maximize game studios' risk aversion. As a result, consumer spending patterns are shifting away from entirely new IPs toward remakes of proven universes or live-service content, and players likewise tend to open their wallets for familiar experiences rather than uncertain new titles. 📉\n\nThe gaming industry currently faces a **structural bottleneck of settling into 'safe IP recycling' instead of 'innovative risk-taking.'** Paradoxically, excessively long production cycles drive user expectations to extreme heights, creating a dangerous pressure where even minor flaws can lead to severe critical backlash. 🔍\n\nIt remains to be seen whether these colossal titles, built on years of massive capital investment, can fully satisfy the demanding standards of ever-evolving gamers in the future. 💭"
+      },
+      "meme": {
+        "what_happened": "A post was uploaded with the title \"Kingdom Come 2's medieval scenery looks insane,\" but instead of castles or knights, it just showed an ordinary shot of some grassy hill behind a local neighborhood, drawing hollow laughs from gamers.",
+        "one_liner": "They called it 'medieval vibes,' but isn't that literally just the view from my backyard walking trail? 🌿😂"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "We Are So Dead",
+        "releases.0.note": "8月17日にリリースされる協力型ローグライト・トップダウンシューティングゲーム。押し寄せるクリーチャーを相手に、多彩な武器を駆使して生き残りを目指します。",
+        "releases.0.dev": "Korosthal Gaming",
+        "releases.1.game": "ザ・シンキングシティ 2",
+        "releases.1.note": "8月18日にリリースされる三人称視点サバイバルホラーアクションゲーム。クトゥルフ神話の世界観を背景に、謎の探索と生存をかけた戦いが描かれます。",
+        "releases.1.dev": "Frogwares",
+        "releases.2.game": "ヴェイパー・ワールド：オーバー・ザ・マインド",
+        "releases.2.note": "8月18日にリリースされる2Dソウルライク・アクションアドベンチャーゲーム。幻想的な精神世界の中で緊張感あふれるパリィアクションを楽しめます。",
+        "releases.2.dev": "ALIVE",
+        "releases.3.game": "Twisted Tower",
+        "releases.3.note": "8月18日にリリースされる一人称視点ホラーFPSゲーム。奇怪な生放送サバイバルショーの塔から脱出するための死闘を描きます。",
+        "releases.3.dev": "Atmos Games",
+        "releases.4.game": "Last Pirates: Die Together",
+        "releases.4.note": "8月18日にリリースされる海賊テーマの協力型サバイバルアドベンチャーゲーム。海の呪いと脅威を逃れ、仲間と力を合わせて脱出を目指す旅が描かれます。",
+        "releases.4.dev": "Retrospect Studio",
+        "releases.5.game": "STEINS;GATE RE:BOOT",
+        "releases.5.note": "8月19日にリリースされるSFテキストアドベンチャーの名作リメイクタイトル。一新されたグラフィックとリッチな演出が披露されます。",
+        "releases.5.dev": "MAGES.",
+        "events.0.name": "gamescom 2026",
+        "events.0.venue": "ドイツ・ケルン",
+        "events.1.name": "東京ゲームショウ2026",
+        "events.1.venue": "日本・幕張メッセ"
+      },
+      "briefing": {
+        "items.0.title": "ネットマーブル、新作サブカルチャー『パール・イン・ブルー』のティザーを公開",
+        "items.0.source": "Inven",
+        "items.0.time": "8月14日",
+        "items.1.title": "『ポケモン ポコピア』、発売4か月で500万本突破",
+        "items.1.source": "GameMeca",
+        "items.1.time": "8月14日",
+        "items.2.title": "KRAFTON、低スペック向け『BGMI Lite』を公式発表",
+        "items.2.source": "IGN India",
+        "items.2.time": "8月16日",
+        "items.3.title": "『フォートナイト』、チャプター7 シーズン4のローンチトレーラーを公開",
+        "items.3.source": "IGN India",
+        "items.3.time": "8月16日",
+        "items.4.title": "スクウェア・エニックス、『キングダム ハーツIV』の発売時期を2027年後半と発表",
+        "items.4.source": "4Gamer",
+        "items.4.time": "8月16日",
+        "items.5.title": "『ブルーアーカイブ』、メインストーリー第2部第2章を19日に公開",
+        "items.5.source": "電撃オンライン",
+        "items.5.time": "8月16日",
+        "items.6.title": "『CoD: モダン・ウォーフェア4』のベータテストにキャンペーンミッションが含まれる模様",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "8月16日"
+      },
+      "drk": {
+        "title": "超長期化する開発サイクルと安全圏へ後退するゲームエコシステム",
+        "intro": "1つの大作に出会うために5年以上待たなければならない時代になりました。\n果たして長くなった待ち時間に見合うほど、私たちのプレイ体験も革新されているのでしょうか？ ⏳",
+        "points": "スクウェア・エニックスが『キングダム ハーツIV』の発売時期を2027年後半に確定させました。主要AAAタイトルの開発期間がコンソール1世代のサイクルに迫る中、市場のカレンダーは『STEINS;GATE RE:BOOT』のような実証済みの名作の復活やミドルコアジャンルの新作で埋め尽くされています。 🕹️\n\n天文学的な制作費と長期化する開発期間は、ゲーム会社の慎重姿勢を極限まで高めています。これによりゲーム消費構造は、完全新作IPよりも検証済みの世界観のリメイクやライブサービス型コンテンツへとシフトしており、消費者もまた不透明な新作より馴染みのある体験に財布を開く傾向が見られます。 📉\n\n現在のゲーム産業は、**「革新的な冒険」の代わりに「安全なIPの循環」に甘んじる構造的なボトルネック**に直面しています。極端に長くなった制作期間は逆説的にユーザーの期待値を限界まで引き上げ、わずかな欠点でも致命的な評価急落につながる危険なプレッシャーを生み出しています。 🔍\n\n数年にわたり莫大な資本を投じた巨大タイトル群が、果たして変化の激しい未来のゲーマーたちの厳しい基準を十分に満たすことができるのか、注視すべき局面にあります。 💭"
+      },
+      "meme": {
+        "what_happened": "「キングダムカム2の中世風景のクオリティがやばい」というタイトルで投稿されたものの、城や騎士どころか近所の裏山のような平凡な草むらがぽつんと写っているだけで、ゲーマーたちの失笑を買いました。",
+        "one_liner": "中世の情緒って、ただの自宅の裏庭の散歩道ビューじゃないですか？ 🌿😂"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "신작 하나에 7년? '안전빵'만 찾는 게임판의 최후 📉 (feat. 오늘의 밈 🤣)",
+    "en": "Why are new games taking 7+ years?! The death of gaming innovation 📉 (feat. Meme of the Day 🤣)",
+    "ja": "開発期間7年が当たり前？「守り」に入ったゲーム業界の末路 📉（今日のミーム付き 🤣）"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "요즘 신작 하나 기다리다 목 빠지겠어요 🥲\n킹덤하츠 4도 2027년 출시라는데, 갈수록 길어지는 신작 개발의 비밀을 함께 파헤쳐 봐요! 👀\n\nhttps://www.gtplayer.net/edition-104/\n#킹덤하츠 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-08-17T07:01:35.727790"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "8월 17일 오늘의 게임 소식 🎮\n\n📰 [뉴스] 넷마블 서브컬처 신작 '펄 인 블루' 티저 공개부터 킹덤 하츠 4 출시 확정 소식까지!\n📅 [출시] '더 싱킹 시티 2', '슈타인즈 게이트 리:부트' 등 이번 주 주목할 PC 신작 라인업\n✍️ [인사이트] 신작 하나에 7년? 초장기화된 개발 주기와 안전빵만 찾는 게임판의 딜레마\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임추천 #신작게임 #게임소식 #게임스타그램 #겜스타그램 #스팀게임 #PC게임 #인디게임 #넷마블 #포켓몬 #킹덤하츠 #슈타인즈게이트 #포트나이트 #크래프톤 #게임정보 #게임덕후 #게임리뷰 #게이머 #GTPLAYER",
+          "image_paths": [
+            "web\\instagram\\edition_104\\card_cover.png",
+            "web\\instagram\\edition_104\\card_news.png",
+            "web\\instagram\\edition_104\\card_calendar.png",
+            "web\\instagram\\edition_104\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3965275684507711052_39332818166",
+            "url": "https://www.instagram.com/p/DcHfTnjk3ZM/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-08-17T07:02:07.073679"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Why are new games taking 7+ years?! The death of gaming innovation 📉 (feat. Meme of the Day 🤣)\n\nMajor blockbuster games are now taking over seven years to build, but the industry is still moving fast with major updates from Kingdom Hearts IV to Fortnite. Check out this week’s biggest news and exciting new releases changing how we play.\n\nhttps://www.gtplayer.net/edition-104-en/",
+        "error": null
+      },
+      "updated_at": "2026-08-17T07:02:43.370785"
+    }
+  }
+}

@@ -1,0 +1,458 @@
+{
+  "num": "149",
+  "date": "2026-10-19",
+  "status": "published",
+  "schedule": {
+    "date": "2026-10-19",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "event",
+          "game": "이블베인",
+          "dev": "넷마블",
+          "date": "10월 19일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "넷마블의 레이븐 IP 기반 협동 액션 신작으로, 글로벌 이용자를 대상으로 스팀 유저 테스트를 시작합니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1781938",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "루프 던전 - 인크리멘탈",
+          "dev": "스팀 인디 개발사",
+          "date": "10월 19일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 19일 스팀에 출시되는 방치형 롤플레잉 게임으로, 끝없이 순환하는 던전을 공략하며 캐릭터를 육성합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4621970/Loop_Dungeon__Incremental/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "event",
+          "game": "러브앤딥스페이스",
+          "dev": "인폴드게임즈",
+          "date": "10월 19일(월)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "10월 19일부터 SF 영화 '블레이드 러너 2049'와의 특별 컬래버레이션 한정 이벤트를 선보입니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/535/G053594/20261018003/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "위 워 히어 투모로우",
+          "dev": "토탈 메이헴 게임즈",
+          "date": "10월 20일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 20일 출시되는 협동 퍼즐 어드벤처 신작으로, 소통과 협동을 통해 미지의 성을 탐험하고 탈출해야 합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2315050/We_Were_Here_Tomorrow/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "스타트렉: 아웃포스트 언노운",
+          "dev": "스팀 인디 개발사",
+          "date": "10월 20일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 20일 출시되는 SF 기지 건설 시뮬레이션 게임으로, 미지의 우주 개척지에서 자원을 관리하고 기지를 확장합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3469910/Star_Trek_Outposts_Unknown/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "이스케이프 프롬 플레이타임",
+          "dev": "스팀 인디 개발사",
+          "date": "10월 21일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 21일 정식 출시되는 1인칭 공포 생존 게임으로, 버려진 장난감 시설에서 도사리는 위협을 피해 탈출해야 합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2087540/Escape_from_Playtime/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "바이오하자드 30주년 전시회 (バイオハザード30周年展)",
+          "note": "레온 등신대 입상 전시, 한정 굿즈 및 콜라보 푸드 등이 마련된 바이오하자드 30주년 기념 대형 전시회",
+          "venue": "오프라인 (일본)",
+          "date": "2026-11-01 예정",
+          "tag": "오프라인 행사",
+          "website": "https://dengekionline.com/article/202610/91328"
+        },
+        {
+          "name": "로맨싱 사가 2 리벤지 오브 더 세븐: 원환의 냐냐 영웅",
+          "note": "JR 야마노테선을 순회하며 칠영웅의 수수께끼를 푸는 주유형 리얼 방탈출/수수께끼 풀기 이벤트",
+          "venue": "일본 도쿄 JR 야마노테선 일대",
+          "date": "2026-10-16 ~ 진행 중",
+          "tag": "오프라인 행사",
+          "website": "https://www.4gamer.net/games/811/G081131/20261017003/"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "美 의원, 디지털 게임 소유권 보장 법안 발의 예고",
+          "source": "인벤",
+          "time": "10월 16일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=322241"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "금강선 CCO \"개발 중인 신작은 싱글 패키지 게임\"",
+          "source": "게임메카",
+          "time": "10월 18일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1781937"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "인디 게임사, AI 복제 우려로 스팀 공개 데모 전격 취소",
+          "source": "IGN India",
+          "time": "10월 18일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/drunken-goddess-reflux/274813/dev-behind-russian-roulette-drinking-game-cancels-steam-demo-plans-following-ai-copycat-concerns"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'배틀필드 6' 개발진, 오타 및 코스메틱 논란에 공식 해명",
+          "source": "IGN India",
+          "time": "10월 18일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/battlefield-6/274812/battlefield-6-devs-respond-after-players-take-aim-at-secuty-typo-and-cosmetic-with-5-pistols"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'더 블러드 오브 던워커', 스팀 日 버전 유혈 표현 규제 철폐",
+          "source": "4Gamer",
+          "time": "10월 17일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/767/G076728/20261017004/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'프리코네R', '우마무스메'와 대형 콜라보 이벤트 예고",
+          "source": "電撃オンライン",
+          "time": "10월 18일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202610/91309"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "오픈월드 개발사 리퀴드 소즈, 임금 체불 끝에 파산 선고",
+          "source": "PC Gamer",
+          "time": "10월 18일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/gaming-industry/liquid-swords-developer-of-open-city-crime-sim-samson-has-gone-bankrupt-following-staff-claims-that-they-havent-been-paid-in-two-months/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "화제의 액션 기대작 '팬텀 블레이드 제로', 28일 스팀 출시",
+          "source": "Steam",
+          "time": "10월 19일",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "‘구매’했으나 ‘소유’하지 못한 게이머들을 위한 법",
+      "intro": "우리가 디지털 스토어에서 누른 '구매' 버튼은 정말 게임을 소유한다는 뜻일까요?\n서버 종료와 함께 사라지던 게임들이 마침내 법적 권리를 요구하기 시작했습니다.",
+      "points": "미국에서 디지털 게임을 구매한 소비자의 실질적 소유권을 보장하도록 강제하는 법안이 발의를 앞두고 있습니다. 퍼블리셔의 일방적인 서버 중단이나 라이선스 계약 만료로 인해 결제한 게임이 라이브러리에서 사라지던 관행에 마침내 제동이 걸린 것입니다. ⚖️\n\n이는 플랫폼 구조와 게임 소비 구조 전반에 중대한 변화를 예고합니다. 게이머들은 지금까지 '구매'라는 단어에 속아 '언제든 회수될 수 있는 임대권'을 소비해 왔습니다. 소비자들의 불신과 피로감이 임계점에 달한 지금, 플랫폼과 개발사는 단순 판매를 넘어 오프라인 모드 지원과 데이터 아카이빙을 의무화해야 하는 구조적 압박을 마주하게 될 것입니다. 🌐\n\n결국 무형의 서비스로 변질되던 비즈니스 모델은 신뢰의 위기를 맞이했습니다. **디지털 소유권의 법제화는 게임을 '일회성 대여 상품'에서 온전한 '문화적·물리적 자산'으로 되돌려놓는 결정적 분기점이 될 것입니다.** 💡\n\n언제든 사라질 수 있는 소프트웨어에 기꺼이 지갑을 열 소비자는 점점 줄어들고 있습니다. 게임사는 과연 편의성이라는 명분 뒤에 가려두었던 디지털 자산의 영속성을 어떻게 증명해 낼 것입니까? 🔍"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": true,
+      "items": [],
+      "title": "Another PR submitted to the meme repository.",
+      "score": 16965,
+      "url": "https://i.redd.it/nyrzt3yr4puh1.png",
+      "preview_img": "https://i.redd.it/nyrzt3yr4puh1.png",
+      "permalink": "https://redd.it/1x2on3f",
+      "subreddit": "pcmasterrace",
+      "author": "DurgeDidNothingWrong",
+      "num_comments": 0,
+      "what_happened": "'밈 저장소에 새 풀 리퀘스트(PR) 올라왔습니다'라는 제목처럼, 스타워즈 드로이드가 쓰러진 플레이스테이션을 내려다보며 '축하합니다, 당신은 오픈소스화되고 있습니다. 저항하지 마세요'라고 말하는 장면으로 최근 PC 진영의 PS 에뮬레이터(shadPS4 등) 급발진 상황을 유쾌하게 풍자했습니다.",
+      "one_liner": "소니가 블러드본 PC판을 안 내주니까 유저들이 아예 직접 코드로 강제 해방해 버리는 기적의 오픈소스 정신! 💻🤖"
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "EvilBane",
+        "releases.0.note": "Netmarble's new co-op action game based on the Raven IP begins its Steam user playtest for global players.",
+        "releases.0.dev": "Netmarble",
+        "releases.1.game": "Loop Dungeon - Incremental",
+        "releases.1.note": "An idle RPG releasing on Steam on October 19, where players conquer an endless cyclical dungeon to train and grow their characters.",
+        "releases.1.dev": "Steam Indie Developer",
+        "releases.2.game": "Love and Deepspace",
+        "releases.2.note": "Launches a special limited collaboration event with the sci-fi film 'Blade Runner 2049' starting October 19.",
+        "releases.2.dev": "Infold Games",
+        "releases.3.game": "We Were Here Tomorrow",
+        "releases.3.note": "A new co-op puzzle adventure releasing on October 20, where players must communicate and cooperate to explore and escape an unknown castle.",
+        "releases.3.dev": "Total Mayhem Games",
+        "releases.4.game": "Star Trek: Outpost Unknown",
+        "releases.4.note": "A sci-fi base-building simulation game releasing on October 20, where players manage resources and expand their base on an uncharted space frontier.",
+        "releases.4.dev": "Steam Indie Developer",
+        "releases.5.game": "Escape from Playtime",
+        "releases.5.note": "A first-person survival horror game officially launching on October 21, where players must escape lurking threats inside an abandoned toy facility.",
+        "releases.5.dev": "Steam Indie Developer",
+        "events.0.name": "Resident Evil 30th Anniversary Exhibition (Biohazard 30th Anniversary Exhibition)",
+        "events.0.note": "A major exhibition commemorating the 30th anniversary of Resident Evil, featuring a life-sized Leon statue, limited-edition merchandise, and collaboration food.",
+        "events.0.venue": "In-person (Japan)",
+        "events.1.name": "Romancing SaGa 2: Revenge of the Seven: The Circular Nya-nya Heroes",
+        "events.1.note": "A touring real escape/mystery-solving event along the JR Yamanote Line, unraveling the mysteries of the Seven Heroes.",
+        "events.1.venue": "Around the JR Yamanote Line, Tokyo, Japan"
+      },
+      "briefing": {
+        "items.0.title": "U.S. Lawmaker Announces Bill to Guarantee Digital Game Ownership",
+        "items.0.source": "Inven",
+        "items.0.time": "October 16",
+        "items.1.title": "CCO Keum Kang-sun: \"New Title in Development is a Single-Player Packaged Game\"",
+        "items.1.source": "GameMeca",
+        "items.1.time": "October 18",
+        "items.2.title": "Indie Game Developer Abruptly Cancels Steam Public Demo Over AI Cloning Concerns",
+        "items.2.source": "IGN India",
+        "items.2.time": "October 18",
+        "items.3.title": "'Battlefield 6' Developers Officially Address Typo and Cosmetics Controversy",
+        "items.3.source": "IGN India",
+        "items.3.time": "October 18",
+        "items.4.title": "'The Blood of Dawnwalker' Lifts Gore Restrictions for Japanese Steam Version",
+        "items.4.source": "4Gamer",
+        "items.4.time": "October 17",
+        "items.5.title": "'Princess Connect! Re:Dive' Teases Major Collaboration Event with 'Umamusume: Pretty Derby'",
+        "items.5.source": "Dengeki Online",
+        "items.5.time": "October 18",
+        "items.6.title": "Open-World Developer Liquid Swords Declares Bankruptcy Following Unpaid Wages",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "October 18",
+        "items.7.title": "Highly Anticipated Action Title 'Phantom Blade Zero' Launches on Steam on the 28th",
+        "items.7.source": "Steam",
+        "items.7.time": "October 19"
+      },
+      "drk": {
+        "title": "A Law for Gamers Who 'Bought' but Do Not 'Own'",
+        "intro": "Does clicking 'Buy' in a digital storefront truly mean you own the game?\nGames that vanished alongside server shutdowns are finally beginning to demand legal rights.",
+        "points": "Legislation is set to be introduced in the United States to mandate actual ownership protections for consumers who purchase digital games. The long-standing practice of purchased games vanishing from libraries due to unilateral publisher server shutdowns or expired licensing agreements is finally facing pushback. ⚖️\n\nThis signals significant changes across platform ecosystems and gaming consumption as a whole. Gamers have long been misled by the word 'buy', consuming what is essentially a 'revocable lease.' With consumer distrust and fatigue reaching a breaking point, platforms and developers will now face structural pressure to move beyond simple sales and mandate offline mode support and data archiving. 🌐\n\nUltimately, a business model that degraded games into intangible services is now facing a crisis of trust. **The codification of digital ownership will be a defining turning point, returning games from 'one-time rentals' to fully realized 'cultural and tangible assets.'** 💡\n\nFewer and fewer consumers are willing to open their wallets for software that could vanish at any moment. How will game companies prove the permanence of the digital assets they have hidden behind the guise of convenience? 🔍"
+      },
+      "meme": {
+        "what_happened": "Like a title reading 'A new pull request (PR) has been submitted to the meme repo,' this meme humorously satirizes the recent surge in PC-side PS emulators (such as shadPS4) with a Star Wars droid looking down at a fallen PlayStation and saying, 'Congratulations, you are being open-sourced. Please do not resist.'",
+        "one_liner": "Since Sony won't release Bloodborne on PC, the players took matters into their own hands and liberated it through pure code—the miraculous spirit of open source! 💻🤖"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "イーブルベイン",
+        "releases.0.note": "ネットマーブルの『レイヴン』IPをベースにした協力アクションの新作で、全世界のユーザーを対象にSteamユーザーテストを開始します。",
+        "releases.0.dev": "ネットマーブル",
+        "releases.1.game": "ループダンジョン - インクリメンタル",
+        "releases.1.note": "10月19日にSteamでリリースされる放置系RPGで、無限に循環するダンジョンを攻略しながらキャラクターを育成します。",
+        "releases.1.dev": "Steamインディー開発会社",
+        "releases.2.game": "恋と深空",
+        "releases.2.note": "10月19日よりSF映画『ブレードランナー 2049』との特別コラボ限定イベントを開催します。",
+        "releases.2.dev": "Infold Games",
+        "releases.3.game": "ウィー・ワー・ヒア・トゥモロー",
+        "releases.3.note": "10月20日にリリースされる協力パズルアドベンチャーの新作で、コミュニケーションと協調を通じて未知の城を探索し脱出しなければなりません。",
+        "releases.3.dev": "Total Mayhem Games",
+        "releases.4.game": "スタートレック：アウトポスト・アンノウン",
+        "releases.4.note": "10月20日にリリースされるSF基地建設シミュレーションゲームで、未知の宇宙開拓地で資源を管理し基地を拡張します。",
+        "releases.4.dev": "Steamインディー開発会社",
+        "releases.5.game": "エスケープ・フロム・プレイタイム",
+        "releases.5.note": "10月21日に正式リリースされる一人称視点ホラーサバイバルゲームで、放棄された玩具施設に潜む脅威を逃れて脱出を目指します。",
+        "releases.5.dev": "Steamインディー開発会社",
+        "events.0.name": "バイオハザード30周年展",
+        "events.0.note": "レオンの等身大立像展示、限定グッズやコラボフードなどが用意された『バイオハザード』30周年記念大型展示会",
+        "events.0.venue": "オフライン（日本）",
+        "events.1.name": "ロマンシング サガ2 リベンジオブザセブン：円環のニャニャ英雄",
+        "events.1.note": "JR山手線を周遊しながら七英雄の謎を解き明かす周遊型リアル脱出・謎解きイベント",
+        "events.1.venue": "日本・東京 JR山手線一帯"
+      },
+      "briefing": {
+        "items.0.title": "米議員、デジタルゲームの所有権保障法案の提出を予告",
+        "items.0.source": "INVEN",
+        "items.0.time": "10月16日",
+        "items.1.title": "クム・ガンソンCCO「開発中の新作はシングルパッケージゲーム」",
+        "items.1.source": "GameMeca",
+        "items.1.time": "10月18日",
+        "items.2.title": "インディーゲーム開発会社、AI複製への懸念からSteam公開デモを電撃中止",
+        "items.2.source": "IGN India",
+        "items.2.time": "10月18日",
+        "items.3.title": "『バトルフィールド6』開発陣、誤字およびコスメティック議論について公式釈明",
+        "items.3.source": "IGN India",
+        "items.3.time": "10月18日",
+        "items.4.title": "『The Blood of Dawnwalker』、Steam日本版の流血表現規制を撤廃",
+        "items.4.source": "4Gamer",
+        "items.4.time": "10月17日",
+        "items.5.title": "『プリコネR』、『ウマ娘』との大型コラボイベントを予告",
+        "items.5.source": "電撃オンライン",
+        "items.5.time": "10月18日",
+        "items.6.title": "オープンワールド開発会社Liquid Swords、賃金未払いの末に破産宣告",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "10月18日",
+        "items.7.title": "話題のアクション期待作『ファントムブレード：ゼロ』、28日にSteamでリリース",
+        "items.7.source": "Steam",
+        "items.7.time": "10月19日"
+      },
+      "drk": {
+        "title": "「購入」したのに「所有」できていないゲーマーのための法",
+        "intro": "私たちがデジタルストアで押した「購入」ボタンは、本当にゲームを所有しているという意味なのでしょうか？\nサーバー終了とともに消えていったゲームたちが、ついに法的権利を求め始めました。",
+        "points": "米国で、デジタルゲームを購入した消費者の実質的な所有権を保障するよう義務付ける法案の提出が控えています。パブリッシャーの一方的なサーバー停止やライセンス契約満了により、購入したゲームがライブラリから消え去っていた慣行についに歯止めがかかったのです。⚖️\n\nこれはプラットフォーム構造やゲーム消費構造全体に重大な変化を予告しています。ゲーマーたちはこれまで「購入」という言葉に欺かれ、「いつでも回収され得る利用権」を消費してきました。消費者の不信感と疲労感が限界に達した今、プラットフォームと開発会社は単なる販売にとどまらず、オフラインモード対応やデータアーカイブの義務化という構造的プレッシャーに直面することになるでしょう。🌐\n\n結局のところ、無形のサービスへと変質していたビジネスモデルは信頼の危機を迎えました。**デジタル所有権の法制化は、ゲームを「一回限りのレンタル商品」から真の「文化的・物理的資産」へと回帰させる決定的な分岐点となるはずです。**💡\n\nいつでも消え去る可能性のあるソフトウェアに、喜んで財布を開く消費者は減少の一途をたどっています。ゲーム会社は果たして、利便性という名分の背後に隠されてきたデジタル資産の永続性をどのように証明していくのでしょうか？🔍"
+      },
+      "meme": {
+        "what_happened": "「ミームリポジトリに新しいプルリクエスト（PR）が届きました」というタイトルのように、スター・ウォーズのドロイドが倒れたPlayStationを見下ろしながら「おめでとうございます、あなたはオープンソース化されています。抵抗しないでください」と語りかけるシーンで、最近のPC陣営におけるPSエミュレータ（shadPS4など）の急加速ぶりを愉快に風刺しました。",
+        "one_liner": "ソニーが『Bloodborne』のPC版を出してくれないので、ユーザー自らコードで強制解放してしまう奇跡のオープンソース精神！💻🤖"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "내가 산 게임이 내 것이 아니라고?! 🛑 게이머를 지키는 새 법안 (feat. 오늘의 밈 😂)",
+    "en": "You bought it, but you don’t OWN it?! 🛑 New laws to protect gamers (+ Today's Meme 😂)",
+    "ja": "買ったのに「自分のモノ」じゃない？！🛑 ゲーマーを守る新法律が登場 (feat. 今日のミーム🤣)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "내가 돈 주고 산 게임이 내 것이 아닐 수도 있대요 🛑\n게이머의 디지털 소유권을 지켜줄 새 법안이 드디어 나온다네요! ✨\n\nhttps://www.gtplayer.net/edition-149/\n#배틀필드6 #러브앤딥스페이스 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-10-19T07:01:39.680767"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "10월 19일 오늘의 게임 소식 🎮 내가 산 게임이 내 것이 아니라고?!\n\n📰 [뉴스] 디지털 게임 소유권 보장 법안 발의부터 금강선 CCO 신작 소식까지\n📅 [출시] 이블베인, 러브앤딥스페이스 등 오늘 만나볼 신작 라인업 6선\n✍️ [인사이트] '구매'했으나 '소유'하지 못했던 게이머들을 지키는 법적 권리\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#gtplayer #게임뉴스 #게임뉴스레터 #신작게임 #게임추천 #스팀게임 #PC게임 #모바일게임 #게이머 #게임스타그램 #겜스타그램 #배틀필드 #이블베인 #러브앤딥스페이스 #금강선 #인디게임 #게임소식 #게임정보 #게임업계 #게임덕후",
+          "image_paths": [
+            "web\\instagram\\edition_149\\card_cover.png",
+            "web\\instagram\\edition_149\\card_news.png",
+            "web\\instagram\\edition_149\\card_calendar.png",
+            "web\\instagram\\edition_149\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "4010936607137999295_39332818166",
+            "url": "https://www.instagram.com/p/DeptZflEim_/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-10-19T07:02:09.461431"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "You bought it, but you don’t OWN it?! 🛑 New laws to protect gamers (+ Today's Meme 😂)\n\nNew legislation is finally stepping up to guarantee true digital game ownership after years of vanishing purchases.\nFrom exciting new single-player reveals to urgent developer concerns over AI cloning, here is what is shifting the industry right now.\n\nhttps://www.gtplayer.net/edition-149-en/",
+        "error": null
+      },
+      "updated_at": "2026-10-19T07:02:51.471417"
+    }
+  }
+}

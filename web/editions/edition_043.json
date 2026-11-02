@@ -1,0 +1,450 @@
+{
+  "num": "043",
+  "date": "2026-05-01",
+  "status": "published",
+  "schedule": {
+    "date": "2026-05-01",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "히어로즈 오브 마이트 앤 매직: 올든 에라",
+          "dev": "언프로즌",
+          "date": "4월 30일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "전설적인 턴제 전략 RPG 시리즈의 신작이 얼리 액세스로 출시되었으며, 이를 기념해 스팀에서 25% 할인을 진행합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316057",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "인더스트리아 2",
+          "dev": "블리크밀",
+          "date": "4월 30일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "평행 세계를 배경으로 하는 내러티브 중심의 1인칭 FPS 신작으로, 더욱 발전된 그래픽과 몰입감 있는 스토리를 담아 정식 출시되었습니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/industria-2/259875/industria-2-official-launch-trailer",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "release",
+          "game": "테라텍 리전",
+          "dev": "페이로드 스튜디오",
+          "date": "4월 30일(목)",
+          "platforms": [
+            "PC",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "자원 채집과 기체 조립을 즐기는 오픈월드 샌드박스 게임으로, PC 및 엑스박스 시리즈 X/S와 게임패스를 통해 정식 출시되었습니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/terratech-legion/259859/terratech-legion-official-launch-trailer",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "release",
+          "game": "인콘비니 (inKONBINI)",
+          "dev": "비프 재팬",
+          "date": "4월 30일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "1990년대 초반 일본 편의점을 배경으로 하는 일상계 시뮬레이션 게임으로, 손님들과 소통하며 소소한 이야기를 체험할 수 있습니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/784/G078479/20260430044/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "update",
+          "game": "카트라이더 러쉬플러스",
+          "dev": "넥슨",
+          "date": "5월 1일(금)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "서비스 6주년을 기념하여 신규 트랙과 카트를 추가하는 대규모 업데이트가 적용되며 다양한 기념 이벤트가 시작됩니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1774735",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "event",
+          "game": "포켓몬 메가페스타 2026",
+          "dev": "포켓몬코리아",
+          "date": "5월 1일(금)",
+          "platforms": [
+            "오프라인"
+          ],
+          "color": "#f59e0b",
+          "note": "포켓몬 30주년을 맞아 서울숲 등 성동구 일대에서 팝업스토어와 전시를 포함한 대규모 오프라인 축제가 개최됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316037",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "포켓몬 메가페스타 2026",
+          "note": "포켓몬 탄생 30주년 기념 대규모 오프라인 축제, 서울숲 내 '시크릿 포레스트' 및 성동구 일대 이벤트 운영",
+          "venue": "서울 성동구 일대 및 서울숲",
+          "date": "2026-05-01 ~ 2026-06-21",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=316037"
+        },
+        {
+          "name": "gamescom latam 2026",
+          "note": "라틴아메리카 최대 규모의 게임 전시회 및 글로벌 게임쇼",
+          "venue": "브라질 상파울루",
+          "date": "2026-04-29 ~ 2026-05-03",
+          "tag": "오프라인 행사",
+          "website": "https://www.4gamer.net/games/991/G999110/20260430068/"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "펄어비스, '이브 온라인' 개발사 CCP게임즈 매각 발표",
+          "source": "인벤",
+          "time": "4월 30일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316045"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "크래프톤, 1분기 매출 1.3조 원 돌파... 역대 최대 실적",
+          "source": "인벤",
+          "time": "4월 30일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316035"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "파이널 판타지 14, 패치 8.3부터 PS4 버전 지원 종료",
+          "source": "IGN India",
+          "time": "4월 30일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/final-fantasy-xiv-online-evercold/259869/ffxiv-director-explains-plans-to-sunset-ps4-version-estimated-to-last-through-patch-83"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "로블록스, AI 그래픽 개편 발표에 이용자 반발 직면",
+          "source": "IGN India",
+          "time": "4월 30일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/roblox/259852/roblox-announces-new-ai-powered-graphics-overhaul-and-fans-arent-happy"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "에이펙스 레전드, 5월 6일 신규 시즌 '오버클록' 개막",
+          "source": "4Gamer",
+          "time": "5월 1일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/449/G044914/20260501002/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "5월 PS 플러스 'EA FC 26' 등 무료 게임 3종 공개",
+          "source": "4Gamer",
+          "time": "4월 30일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/129/G012999/20260430058/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "XBOX CEO \"사용자 및 매출 성장, 야망에 미치지 못해\"",
+          "source": "PC Gamer",
+          "time": "4월 30일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/gaming-industry/xbox-ceo-asha-sharma-who-took-the-job-less-than-3-months-ago-says-player-and-revenue-growth-has-not-yet-met-our-ambition-as-microsoft-gaming-continues-to-slide/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "성장 정체기의 생존 전략: 효율화와 선택적 집중 🛠️",
+      "intro": "거대 자본과 기술력이 승리를 보장하던 낙관의 시대가 저물고 있습니다.\n플랫폼의 경계가 허물어지는 지금, 게임 산업은 성장의 한계점에서 어떤 선택을 내리고 있습니까?",
+      "points": "최근 Xbox CEO의 실적 부진 고백과 펄어비스의 CCP게임즈 매각, 그리고 파이널 판타지 14의 구세대 기기 지원 종료는 산업 전반의 '효율화'를 상징합니다. 📈 크래프톤이 IP 집중을 통해 기록적인 매출 성장을 이뤄낸 반면, 로블록스의 AI 도입은 기술적 도약과 이용자 반발 사이의 간극을 보여주며 현재 업계가 직면한 복합적인 과제를 드러내고 있습니다.\n\n이는 **게임 소비 구조**와 플랫폼 전략의 근본적인 변화를 의미합니다. 소비자들은 이제 검증된 대형 IP나 확실한 개성을 가진 중소형 게임으로 양극화되어 반응합니다. 플랫폼 홀더들은 수익성 개선을 위해 구세대 기기(PS4)를 과감히 배제하고 있으며, 기업들은 비주력 자산을 정리하며 현금 흐름을 확보하는 데 주력하고 있습니다. 🎮 기기 보급률보다 '수익성 높은 고효율 이용자' 확보가 생존의 핵심이 된 것입니다.\n\n**성장 정체기에 접어든 게임 산업은 이제 단순한 확장이 아닌 '선택과 집중'을 통한 체질 개선을 강력하게 요구받고 있습니다.** 과거의 성공 방정식이었던 물량 공세와 막연한 낙관론은 더 이상 시장에서 통하지 않습니다. 이제는 기술적 진보가 이용자의 심리적 저항을 넘어서야 하며, 기업의 포트폴리오는 철저히 수익 모델 중심으로 재편될 수밖에 없습니다. ✨\n\n기술적 진보와 비용 절감이라는 두 마리 토끼를 동시에 잡아야 하는 가혹한 시기입니다. 여러분이 주목하는 게임사는 변해가는 플랫폼 환경 속에서 이용자들에게 어떤 '대체 불가능한 가치'를 제안하며 살아남으려 합니까? 🤔"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "Firestone Online Idle RPG",
+      "url": "https://store.epicgames.com/ko/p/firestone-online-idle-rpg-bfd04b",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1xeuq.png",
+      "comment": "**[이번 주 무료 배포]**\n\n- **Firestone Online Idle RPG**: 영웅 수집과 성장의 재미를 담은 판타지 방치형 RPG입니다. 부담 없는 클릭커 게임으로 가볍게 즐기기 좋습니다. (~5/8 00:00까지)\n- **Oddsparks: An Automation Adventure**: 귀여운 생명체들과 함께 기지를 건설하는 자동화 전략 게임입니다. 전략적인 생산 라인 설계와 탐험을 동시에 경험해 보세요. (~5/8 00:00까지)\n\n**[Next Week]**\n다음 주에는 독창적인 퍼즐 어드벤처 'Arranger'와 아늑한 감성의 상점 경영 게임 'Trash Goblin'이 찾아옵니다. 🎁\n\n**[스팀 주말 혜택]**\n스타일리시한 연출과 탄탄한 스토리를 자랑하는 명작 JRPG '페르소나 5 더 로열'을 역대급 할인 혜택으로 소장할 기회입니다! (~5/8 02:00까지) 🎭",
+      "steam_deal": {
+        "type": "deal",
+        "name": "페르소나 5 더 로열",
+        "app_id": 1687950,
+        "url": "https://store.steampowered.com/app/1687950",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header_koreana.jpg?t=1763530018",
+        "discount_percent": 80,
+        "original_price": "69,800원",
+        "final_price": "13,960원",
+        "end_date": "2026-05-08 02:00"
+      }
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=043&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=043&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Heroes of Might and Magic: Olden Era",
+        "releases.0.note": "A new entry in the legendary turn-based strategy RPG series has launched in Early Access, with a 25% discount on Steam to celebrate the release.",
+        "releases.0.dev": "Unfrozen",
+        "releases.1.game": "INDUSTRIA 2",
+        "releases.1.note": "A narrative-driven first-person FPS set in a parallel universe, now officially released with enhanced graphics and an immersive story.",
+        "releases.1.dev": "Bleakmill",
+        "releases.2.game": "TerraTech Worlds",
+        "releases.2.note": "An open-world sandbox game focused on resource gathering and vehicle construction, now officially available on PC, Xbox Series X/S, and Game Pass.",
+        "releases.2.dev": "Payload Studios",
+        "releases.3.game": "inKONBINI: One Store. Many Stories.",
+        "releases.3.note": "A slice-of-life simulation game set in a Japanese convenience store in the early 1990s, where players can interact with customers and experience small, everyday stories.",
+        "releases.3.dev": "Beep Japan",
+        "releases.4.game": "KartRider Rush+",
+        "releases.4.note": "To celebrate its 6th anniversary, a major update adding new tracks and karts will be applied, alongside various commemorative events.",
+        "releases.4.dev": "Nexon",
+        "releases.5.game": "Pokémon Mega Festa 2026",
+        "releases.5.note": "A large-scale offline festival including pop-up stores and exhibitions will be held around Seoul Forest and the Seongdong-gu area to mark the 30th anniversary of Pokémon.",
+        "releases.5.dev": "Pokémon Korea",
+        "events.0.name": "Pokémon Mega Festa 2026",
+        "events.0.note": "A massive offline festival celebrating the 30th anniversary of Pokémon, featuring the 'Secret Forest' in Seoul Forest and various events across the Seongdong-gu area.",
+        "events.0.venue": "Seongdong-gu area and Seoul Forest, Seoul",
+        "events.1.name": "gamescom latam 2026",
+        "events.1.note": "Latin America's largest gaming exhibition and global game show.",
+        "events.1.venue": "São Paulo, Brazil"
+      },
+      "briefing": {
+        "items.0.title": "Pearl Abyss announces sale of 'EVE Online' developer CCP Games",
+        "items.0.source": "Inven",
+        "items.0.time": "April 30",
+        "items.1.title": "KRAFTON surpasses 1.3 trillion KRW in Q1 revenue... record-high performance",
+        "items.1.source": "Inven",
+        "items.1.time": "April 30",
+        "items.2.title": "Final Fantasy XIV to end PS4 support starting with Patch 8.3",
+        "items.2.source": "IGN India",
+        "items.2.time": "April 30",
+        "items.3.title": "Roblox faces user backlash over AI graphics overhaul announcement",
+        "items.3.source": "IGN India",
+        "items.3.time": "April 30",
+        "items.4.title": "Apex Legends: New season 'Overclocked' kicks off on May 6",
+        "items.4.source": "4Gamer",
+        "items.4.time": "May 1",
+        "items.5.title": "May PS Plus: 3 free games revealed including 'EA Sports FC 26'",
+        "items.5.source": "4Gamer",
+        "items.5.time": "April 30",
+        "items.6.title": "Xbox CEO: \"User and revenue growth falling short of ambitions\"",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "April 30"
+      },
+      "drk": {
+        "title": "Survival Strategies in a Growth Plateau: Efficiency and Selective Focus 🛠️",
+        "intro": "The era of optimism, where massive capital and technology guaranteed victory, is fading. As platform boundaries dissolve, what choices is the game industry making at its growth limits?",
+        "points": "The recent admission of poor performance by the Xbox CEO, Pearl Abyss's sale of CCP Games, and Final Fantasy XIV's termination of support for older generation consoles all symbolize a move toward industry-wide 'efficiency.' 📈 While KRAFTON achieved record revenue growth through IP concentration, Roblox's AI implementation highlights the gap between technological leaps and user resistance, revealing the complex challenges currently facing the industry.\n\nThis signifies a fundamental shift in **game consumption structures** and platform strategies. Consumers are now polarizing their attention toward either proven major IPs or indie games with distinct identities. Platform holders are decisively excluding legacy consoles (PS4) to improve profitability, while companies focus on securing cash flow by divesting non-core assets. 🎮 Securing 'high-efficiency, profitable users' has become more critical to survival than simple device penetration rates.\n\n**The gaming industry, now in a growth plateau, is being strongly pressured to reform through 'selection and focus' rather than simple expansion.** The old success formulas of brute-force investment and vague optimism no longer work in today's market. Technological progress must now overcome user psychological resistance, and corporate portfolios are inevitably being reorganized around strict profit models. ✨\n\nIt is a harsh period where companies must simultaneously achieve technological advancement and cost reduction. Which game companies are you watching that are proposing 'irreplaceable value' to users to survive in this changing platform environment? 🤔"
+      },
+      "epic": {
+        "title": "Firestone Online Idle RPG",
+        "comment": "**[Free This Week]**\n\n- **Firestone Online Idle RPG**: A fantasy idle RPG featuring the fun of hero collection and growth. Perfect for casual play as a light clicker game. (~May 7, 15:00 UTC)\n- **Oddsparks: An Automation Adventure**: An automation strategy game where you build a base with cute creatures. Experience both strategic production line design and exploration. (~May 7, 15:00 UTC)\n\n**[Next Week]**\nNext week features the unique puzzle adventure 'Arranger' and the cozy shop management game 'Trash Goblin'. 🎁\n\n**[Steam Weekend Deal]**\nAn opportunity to own the masterpiece JRPG 'Persona 5 Royal,' known for its stylish presentation and solid story, at an all-time high discount! (~May 7, 17:00 UTC) 🎭"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ヒーローズ・オブ・マイト・アンド・マジック：オールデン・エラ",
+        "releases.0.note": "伝説的なターン制戦略RPGシリーズの最新作が早期アクセスでリリースされました。これを記念してSteamで25%割引セールが実施されています。",
+        "releases.0.dev": "Unfrozen",
+        "releases.1.game": "INDUSTRIA 2",
+        "releases.1.note": "平行世界を舞台にしたナラティブ中心の一人称視点FPSの新作で、さらに進化したグラフィックと没入感のあるストーリーを掲げて正式リリースされました。",
+        "releases.1.dev": "Bleakmill",
+        "releases.2.game": "テラテック・レギオン",
+        "releases.2.note": "資源採掘と機体構築を楽しめるオープンワールド・サンドボックスゲームで、PC、Xbox Series X/S、およびGame Passを通じて正式リリースされました。",
+        "releases.2.dev": "Payload Studios",
+        "releases.3.game": "inKONBINI",
+        "releases.3.note": "1990年代初頭の日本のコンビニを舞台にした日常系シミュレーションゲームで、客との交流を通じてささやかな物語を体験できます。",
+        "releases.3.dev": "Beep Japan",
+        "releases.4.game": "カートライダー ラッシュプラス",
+        "releases.4.note": "サービス6周年を記念して、新規トラックとカートを追加する大規模アップデートが適用され、様々な記念イベントが開始されます。",
+        "releases.4.dev": "ネクソン",
+        "releases.5.game": "ポケモンメガフェスタ 2026",
+        "releases.5.note": "ポケモン30周年を迎え、ソウルの森など城東区一帯でポップアップストアや展示を含む大規模なオフラインフェスティバルが開催されます。",
+        "releases.5.dev": "ポケモンコリア",
+        "events.0.name": "ポケモンメガフェスタ 2026",
+        "events.0.note": "ポケモン誕生30周年記念の大規模オフラインフェスティバル、ソウルの森内の「シークレットフォレスト」および城東区一帯でイベントを運営",
+        "events.0.venue": "ソウル特別市城東区一帯およびソウルの森",
+        "events.1.name": "gamescom latam 2026",
+        "events.1.note": "ラテンアメリカ最大規模のゲーム展示会およびグローバルゲームショウ",
+        "events.1.venue": "ブラジル・サンパウロ"
+      },
+      "briefing": {
+        "items.0.title": "パールアビス、「イブオンライン」開発元のCCPゲームズ売却を発表",
+        "items.0.source": "インベン",
+        "items.0.time": "4月30日",
+        "items.1.title": "クラフトン、第1四半期の売上高1.3兆ウォン突破... 過去最高の実績",
+        "items.1.source": "インベン",
+        "items.1.time": "4月30日",
+        "items.2.title": "ファイナルファンタジーXIV、パッチ8.3よりPS4版のサポートを終了",
+        "items.2.source": "IGN India",
+        "items.2.time": "4月30日",
+        "items.3.title": "ロブロックス、AIグラフィック刷新の発表に対しユーザーの反発に直面",
+        "items.3.source": "IGN India",
+        "items.3.time": "4月30日",
+        "items.4.title": "エーペックスレジェンズ、5月6日に新シーズン「オーバークロック」開幕",
+        "items.4.source": "4Gamer",
+        "items.4.time": "5月1日",
+        "items.5.title": "5月のPS Plusに『EA FC 26』など無料タイトル3種を公開",
+        "items.5.source": "4Gamer",
+        "items.5.time": "4月30日",
+        "items.6.title": "Xbox CEO「ユーザー数および売上の成長が野望に届かず」",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "4月30日"
+      },
+      "drk": {
+        "title": "成長停滞期の生存戦略：効率化と選択的集中 🛠️",
+        "intro": "巨大資本と技術力が勝利を保証した楽観の時代が終わりを告げようとしています。プラットフォームの境界が崩れつつある今、ゲーム産業は成長の限界点でどのような選択を迫られているのでしょうか？",
+        "points": "最近のXbox CEOによる業績不振の告白や、パールアビスによるCCPゲームズの売却、そしてファイナルファンタジーXIVの旧世代機サポート終了は、業界全体の「効率化」を象徴しています。📈 クラフトンがIPへの集中を通じて記録的な売上成長を成し遂げた一方で、ロブロックスのAI導入は技術的な飛躍とユーザーの反発の間の乖離を示しており、現在の業界が直面している複合的な課題を浮き彫りにしています。\n\nこれは**ゲーム消費構造**とプラットフォーム戦略の根本的な変化を意味します。消費者は今、検証済みの大型IPか、確かな個性を持つ中小型ゲームかという二極化された反応を見せています。プラットフォームホルダーは収益性改善のために旧世代機(PS4)を果敢に切り捨てており、企業は非主力資産を整理してキャッシュフローの確保に注力しています。🎮 デバイスの普及率よりも「収益性の高い高効率ユーザー」の確保が生存の鍵となったのです。\n\n**成長停滞期に入ったゲーム産業は、今や単なる拡張ではなく「選択と集中」を通じた体質改善を強力に求められています。** 過去の成功の方程式であった物量作戦や漠然とした楽観論は、もはや市場では通用しません。これからは技術的進歩がユーザーの心理的抵抗を超えなければならず、企業のポートフォリオは徹底して収益モデル中心に再編されるほかありません。✨\n\n技術的進歩とコスト削減という二兎を同時に追わなければならない過酷な時期です。皆さんが注目するゲーム会社は、変わりゆくプラットフォーム環境の中でユーザーにどのような「代替不可能な価値」を提案し、生き残ろうとしているのでしょうか？ 🤔"
+      },
+      "epic": {
+        "title": "Firestone Online Idle RPG",
+        "comment": "**[今週の無料配布]**\n\n- **Firestone Online Idle RPG**: ヒーローの収集と成長の楽しさを詰め込んだファンタジー放置型RPGです。負担の少ないクリッカーゲームとして気軽に楽しめます。（〜5/8 00:00まで）\n- **Oddsparks: An Automation Adventure**: 可愛い生き物たちと一緒に拠点を建設する自動化戦略ゲームです。戦略的な生産ラインの設計と探索を同時に体験してください。（〜5/8 00:00まで）\n\n**[Next Week]**\n来週は独創的なパズルアドベンチャー『Arranger』と、心地よい感性のショップ経営ゲーム『Trash Goblin』が登場します。 🎁\n\n**[Steam週末特典]**\nスタイリッシュな演出と重厚なストーリーを誇る名作JRPG『ペルソナ5 ザ・ロイヤル』を過去最大級の割引価格で手に入れるチャンスです！（〜5/8 02:00まで） 🎭"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "성장 정체기 생존 전략: '선택과 집중' 🛠️ (feat. 파이어스톤 무료 혜택)",
+    "en": "Adapt or Die: The Industry’s New Survival Rules 🛠️ (Plus: Free Firestone Loot!)",
+    "ja": "業界を生き抜く『選択と集中』の法則 🛠️ (Firestone無料特典配布中！)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "요즘 게임 업계는 '선택과 집중'이 대세인가 봐요! 🛠️\n크래프톤이 1분기 매출 1.3조를 기록하며 역대급 실적을 냈다는데 정말 대단하네요. 🔥\n\nhttps://www.gtplayer.net/edition-043/\n\n#크래프톤 #게임소식 #GTPlayer",
+          "posted": true,
+          "data": {
+            "data": {
+              "edit_history_tweet_ids": [
+                "2049973358406852642"
+              ],
+              "id": "2049973358406852642",
+              "text": "요즘 게임 업계는 '선택과 집중'이 대세인가 봐요! 🛠️\n크래프톤이 1분기 매출 1.3조를 기록하며 역대급 실적을 냈다는데 정말 대단하네요. 🔥\n\nhttps://t.co/KvDkmyNVl5\n\n#크래프톤 #게임소식 #GTPlayer"
+            }
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-01T07:05:09.450972"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "5월 1일 오늘의 게임 소식 🎮 성장 정체기 속 살아남는 법!\n\n🗞️ [뉴스] 펄어비스의 CCP 매각부터 크래프톤 역대급 실적까지, 요동치는 업계 핵심 이슈\n🗓️ [출시] HOMM 신작과 힐링 편의점 게임 '인콘비니' 등 놓칠 수 없는 5월의 라인업\n🛠️ [인사이트] Dr. K가 분석하는 '선택과 집중' 전략! 낙관의 시대 이후를 대비하는 법\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요! \n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #GTPLAYER #게임업계 #펄어비스 #크래프톤 #에이펙스레전드 #파이널판타지14 #로블록스 #신작게임 #게임추천 #히어로즈오브마이트앤매직 #인더스트리아2 #테라텍리전 #인콘비니 #카트라이더러쉬플러스 #포켓몬메가페스타 #게임인사이트 #게임기획 #스팀게임 #모바일게임",
+          "image_paths": [
+            "web\\instagram\\edition_043\\card_news.png",
+            "web\\instagram\\edition_043\\card_calendar.png",
+            "web\\instagram\\edition_043\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3887001681960078426_39332818166",
+            "url": "https://www.instagram.com/p/DXxZ29-k4xa/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-01T07:05:38.869885"
+    }
+  }
+}

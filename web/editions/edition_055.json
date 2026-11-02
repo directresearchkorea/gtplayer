@@ -1,0 +1,471 @@
+{
+  "num": "055",
+  "date": "2026-05-22",
+  "status": "published",
+  "schedule": {
+    "date": "2026-05-22",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "아키텍트",
+          "dev": "아쿠아트리",
+          "date": "5월 20일(수)",
+          "platforms": [
+            "PC",
+            "iOS",
+            "Android"
+          ],
+          "color": "#10b981",
+          "note": "5월 20일 원스토어에 정식 출시된 MMORPG 신작으로, 자유도 높은 심리스 월드 탐험 요소와 고품질 그래픽의 화려한 논타겟팅 전투를 경험할 수 있습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1775455",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "커피 톡 도쿄",
+          "dev": "토게 프로덕션",
+          "date": "5월 21일(목)",
+          "platforms": [
+            "PC",
+            "Switch",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "5월 21일 정식 출시된 힐링 시뮬레이션 게임 신작으로, 도쿄의 심야 카페를 배경으로 손님들의 고민을 들으며 따뜻한 음료를 제조하는 따뜻한 서사를 제공합니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1775493",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "왕좌의 게임: 킹스로드",
+          "dev": "넷마블네오",
+          "date": "5월 21일(목)",
+          "platforms": [
+            "iOS",
+            "Android"
+          ],
+          "color": "#10b981",
+          "note": "5월 21일 모바일로 정식 출시된 액션 RPG 신작으로, 인기 드라마 IP를 바탕으로 가문의 후계자가 되어 웨스테로스 대륙을 모험하는 오리지널 스토리를 선사합니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1775480",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "워해머 40,000: 스페이스 마린 2",
+          "dev": "세이버 인터랙티브",
+          "date": "5월 21일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#3b82f6",
+          "note": "5월 21일 배포된 '퍼게이션(Purgation)' 업데이트를 통해 신규 PvE 미션을 추가하고 다채로운 인게임 밸런스 및 편의성을 대대적으로 개선했습니다.",
+          "country": "IN",
+          "article_url": "https://www.ign.com/articles/warhammer-40000-space-marine-2-shadowdrops-purgation-update-patch-13-adds-new-pve-mission-and-a-lot-more",
+          "source_name": "IGN"
+        },
+        {
+          "category": "update",
+          "game": "CoA: 아틀란의 크리스탈",
+          "dev": "비 게임즈",
+          "date": "5월 21일(목)",
+          "platforms": [
+            "PC",
+            "iOS",
+            "Android"
+          ],
+          "color": "#3b82f6",
+          "note": "5월 21일 출시 1주년을 맞아 '니어: 오토마타'와의 콜라보레이션 업데이트를 진행하며, 한정 아바타와 강력한 신규 보스 '그륀'을 새롭게 추가했습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1775470",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "event",
+          "game": "아크 레이더스",
+          "dev": "엠바크 스튜디오",
+          "date": "5월 21일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#f59e0b",
+          "note": "5월 21일부터 넥슨 계정을 통해 PC방 유저라면 누구나 신규 업데이트 콘텐츠를 무료로 체험할 수 있는 공개 테스트를 시작했습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1775476",
+          "source_name": "게임메카"
+        }
+      ],
+      "events": [
+        {
+          "name": "플레이엑스포 2026 (PlayX4 2026)",
+          "note": "다양한 신작 및 인디 게임 시연, 부스 행사 등이 진행되는 경기권 최대 규모의 융복합 게임쇼",
+          "venue": "일산 킨텍스",
+          "date": "2026-05-21 ~ 2026-05-24",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=316690"
+        },
+        {
+          "name": "스타 ASL 시즌21 결승전",
+          "note": "이영호와 박상현의 맞대결로 펼쳐지는 구글 플레이 ASL 시즌21 최종 결승전",
+          "venue": "일산 킨텍스 플레이엑스포 특설 무대",
+          "date": "2026-05-24",
+          "tag": "e스포츠",
+          "website": "https://www.gamemeca.com/view.php?gid=1775514"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "번지, '데스티니 2' 라이브 서비스 종료 발표",
+          "source": "인벤",
+          "time": "5월 21일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316698"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "대원미디어, '포가튼사가 리메이크' 전격 공개",
+          "source": "게임메카",
+          "time": "5월 21일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1775509"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "포켓몬 카드 게임, 마이넘버카드 본인 확인 도입 검토",
+          "source": "4Gamer",
+          "time": "5월 21일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/256/G025620/20260521028/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "일본 주간 판매 1위 '토모코레', 스위치2도 21만대 돌파",
+          "source": "Famitsu",
+          "time": "5월 22일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202605/75449"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "레드 데드 리뎀션 2, 위 스포츠 누르고 역대 판매 2위",
+          "source": "IGN India",
+          "time": "5월 21일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/red-dead-redemption-2/261413/red-dead-redemption-2-overtakes-wii-sports-in-best-selling-games-of-all-time-list"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'007 퍼스트 라이트' 공식 론칭 트레일러 공개",
+          "source": "IGN India",
+          "time": "5월 21일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/project-007/261412/007-first-light-official-launch-trailer"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "'리터널' 디렉터, 신규 스튜디오 '코스믹 디비전' 설립",
+          "source": "GamesIndustry.biz",
+          "time": "5월 21일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/former-housemarque-game-director-launches-cosmic-division"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'토모다치 라이프' 신작, 4월 미국 판매 차트 1위",
+          "source": "GamesIndustry.biz",
+          "time": "5월 21일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/tomodachi-life-living-the-dream-tops-april-us-sales-us-monthly-charts"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "영원한 서비스는 없다: 라이브 서비스의 피로감과 패키지의 위대한 역습",
+      "intro": "영원할 것 같던 거대 라이브 서비스의 종말과 출시 수년이 지난 패키지 게임의 역사적 역주행이 동시에 목격되었습니다.\n과연 게이머들은 매일 반복되는 숙제 같은 서비스에 지쳐, 다시 '시작과 끝이 있는 완성된 경험'으로 회귀하는 것일까요?",
+      "points": "최근 번지(Bungie)가 대표적 라이브 서비스 게임인 '데스티니 2'의 서비스 종료를 발표한 반면, 클래식 패키지 게임인 '레드 데드 리뎀션 2'는 누적 판매량 역대 2위에 오르며 역사적인 역주행을 기록했습니다. 한쪽에서는 수년간 막대한 비용을 들인 서비스 모델이 종막을 고하고, 다른 한쪽에서는 단판 패키지 게임이 세대를 초월한 생명력을 증명하는 흥미로운 교차점입니다. 🎮\n\n이는 시장의 **게임 소비 구조와 소비자 심리가 급격히 변화**하고 있음을 방증합니다. 끊임없는 추가 결제와 일일 퀘스트에 피로감을 느낀 게이머들이 '시작과 끝이 확실한 고품질 콘텐츠'로 눈을 돌리고 있습니다. 개발사 역시 밑 빠진 독에 물 붓기 식의 라이브 서비스 유지 비용보다, 완성도 높은 단일 IP를 장기적으로 판매하는 패키지 모델이 훨씬 안정적이고 지속 가능한 비즈니스 구조를 만든다는 사실을 재인식하고 있습니다. 📈\n\n결국 시장을 관통하는 통찰은, 게임의 수명을 억지로 늘리는 운영의 기술보다 **\"시간이 흘러도 희석되지 않는 독보적인 세계관과 완벽한 서사라는 본질적 가치\"**에 집중해야 한다는 것입니다. 유저들은 이제 의무감으로 접속하는 온라인 공간이 아닌, 한 번의 구매로 깊은 예술적 영감을 선사하는 웰메이드 경험에 지갑을 엽니다. 💡\n\n과연 게임 산업은 무리하게 확장을 거듭하던 '서비스로서의 게임(GaaS)' 시대의 한계를 극복하고 다시 패키지의 황금기로 회귀할 수 있을까요? 급변하는 트렌드 속에서 여러분이 진정 갈망하는 게임의 가치는 무엇인지 묻고 싶습니다. ✉️"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "Down in Bermuda",
+      "url": "https://store.epicgames.com/ko/p/down-in-bermuda",
+      "thumbnail": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Offer_wide_2560x1440-5314b15510b84a82971afea207658297",
+      "comment": "**[이번 주 에픽게임즈 무료 배포]**\n\n🎁 **Down in Bermuda** (~5월 29일 00:00까지 수령 가능)\n미스터리한 버뮤다 제도에 불시착한 비행사를 돕는 아기자기한 퍼즐 어드벤처 게임입니다. 다양한 기믹과 숨겨진 요소를 찾아 해결하며 가볍게 머리를 식히기 좋은 웰메이드 인디 게임입니다.\n\n👀 **Next Week:** 5월 29일 00:00부터는 베일에 싸인 두 편의 '미스터리 게임'이 찾아옵니다!\n\n---\n\n**[스팀 주말 특가 추천]**\n\n🌊 외계 해양 행성에서의 신비롭고 아찔한 생존기를 그린 명작 **'서브노티카(Subnautica)'**를 5월 26일 02:00까지 75% 할인된 혜택으로 만나보세요!",
+      "steam_deal": {
+        "type": "deal",
+        "name": "서브노티카",
+        "app_id": 264710,
+        "url": "https://store.steampowered.com/app/264710",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/header.jpg?t=1777456112",
+        "discount_percent": 75,
+        "original_price": "33,700원",
+        "final_price": "8,420원",
+        "end_date": "2026-05-26 02:00"
+      }
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=055&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=055&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Architect: Land of Exiles",
+        "releases.0.note": "A new MMORPG officially released on One Store on May 20, offering a high-freedom seamless world exploration experience and flashy non-targeting combat with high-quality graphics.",
+        "releases.0.dev": "Aquatree",
+        "releases.1.game": "Coffee Talk Tokyo",
+        "releases.1.note": "A new healing simulation game officially released on May 21, providing a heartwarming narrative of brewing warm drinks while listening to customers' troubles in a late-night Tokyo cafe.",
+        "releases.1.dev": "Toge Productions",
+        "releases.2.game": "Game of Thrones: Kingsroad",
+        "releases.2.note": "A new action RPG officially released on mobile on May 21, delivering an original story where players become the heir to a house and adventure across the continent of Westeros, based on the popular TV series IP.",
+        "releases.2.dev": "Netmarble Neo",
+        "releases.3.game": "Warhammer 40,000: Space Marine 2",
+        "releases.3.note": "Through the 'Purgation' update released on May 21, new PvE missions were added, and various in-game balance and quality-of-life features were heavily improved.",
+        "releases.3.dev": "Saber Interactive",
+        "releases.4.game": "Crystal of Atlan",
+        "releases.4.note": "Celebrating its 1st anniversary on May 21, the game launched a collaboration update with 'NieR:Automata,' adding limited avatars and a powerful new boss, 'Grün'.",
+        "releases.4.dev": "VI-GAMES",
+        "releases.5.game": "ARC Raiders",
+        "releases.5.note": "Starting May 21, a public playtest has begun, allowing any PC cafe user with a Nexon account to experience the newly updated content for free.",
+        "releases.5.dev": "Embark Studios",
+        "events.0.name": "PlayX4 2026",
+        "events.0.note": "The largest convergence game show in the Gyeonggi region, featuring various new and indie game trials, booth events, and more.",
+        "events.0.venue": "KINTEX, Ilsan",
+        "events.1.name": "StarCraft ASL Season 21 Finals",
+        "events.1.note": "The grand finals of the Google Play ASL Season 21, featuring a showdown between Lee Young-ho and Park Sang-hyun.",
+        "events.1.venue": "Special Stage at PlayX4, KINTEX, Ilsan"
+      },
+      "briefing": {
+        "items.0.title": "Bungie Announces End of Live Service for 'Destiny 2'",
+        "items.0.source": "Inven",
+        "items.0.time": "May 21",
+        "items.1.title": "Daewon Media Unveils 'Forgotten Saga Remake'",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "May 21",
+        "items.2.title": "Pokémon Card Game Considers Introducing 'My Number Card' Identity Verification",
+        "items.2.source": "4Gamer",
+        "items.2.time": "May 21",
+        "items.3.title": "Japan's Weekly No. 1 'Tomodachi Collection', Switch 2 Also Surpasses 210,000 Units",
+        "items.3.source": "Famitsu",
+        "items.3.time": "May 22",
+        "items.4.title": "Red Dead Redemption 2 Beats Wii Sports to Become 2nd Best-Selling Game of All Time",
+        "items.4.source": "IGN India",
+        "items.4.time": "May 21",
+        "items.5.title": "Official Launch Trailer Released for '007 First Light'",
+        "items.5.source": "IGN India",
+        "items.5.time": "May 21",
+        "items.6.title": "'Returnal' Director Establishes New Studio 'Cosmic Division'",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "May 21",
+        "items.7.title": "New 'Tomodachi Life' Game Tops US April Sales Chart",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "May 21"
+      },
+      "drk": {
+        "title": "No Service Lasts Forever: Live Service Fatigue and the Great Counterattack of Premium Games",
+        "intro": "We are witnessing the simultaneous end of seemingly eternal massive live services and the historic resurgence of years-old premium games. Are gamers, fatigued by daily homework-like services, returning to 'complete experiences with a clear beginning and end'?",
+        "points": "Recently, while Bungie announced the end of service for its representative live service game 'Destiny 2,' the classic premium game 'Red Dead Redemption 2' achieved a historic resurgence, climbing to the 2nd best-selling game of all time in cumulative sales. It is an interesting intersection where a service model that has cost enormous amounts for years comes to an end on one side, while a single-purchase premium game proves its generation-transcending longevity on the other. 🎮\n\nThis proves that the market's **game consumption structure and consumer sentiment are shifting rapidly**. Gamers who feel fatigued by endless microtransactions and daily quests are turning to 'high-quality content with a clear beginning and end.' Developers are also realizing once again that, rather than the costs of maintaining a live service which feels like pouring water into a bottomless pit, a premium model that sells a highly polished single IP in the long term creates a far more stable and sustainable business structure. 📈\n\nUltimately, the market-penetrating insight is that we must focus on the **\"essential value of an unparalleled worldview and perfect narrative that does not dilute over time,\"** rather than the operational skills of artificially extending a game's lifespan. Users are no longer opening their wallets for online spaces they log into out of obligation, but for well-made experiences that offer deep artistic inspiration with a single purchase. 💡\n\nCan the gaming industry overcome the limitations of the 'Games as a Service (GaaS)' era, which kept expanding unreasonably, and return to the golden age of premium games? Amidst these rapidly changing trends, we want to ask: what is the true value of a game that you yearn for? ✉️"
+      },
+      "epic": {
+        "title": "Down in Bermuda",
+        "comment": "**[This Week's Epic Games Free Giveaway]**\n\n🎁 **Down in Bermuda** (Available to claim until May 28 at 15:00 UTC)\nA charming puzzle adventure game where you help an aviator who crash-landed on the mysterious Bermuda islands. It is a well-made indie game perfect for relaxing while finding and solving various gimmicks and hidden elements.\n\n👀 **Next Week:** Starting May 28 at 15:00 UTC, two veiled 'Mystery Games' will arrive!\n\n---\n\n**[Steam Weekend Deal Recommendation]**\n\n🌊 Experience the masterpiece **'Subnautica,'** which depicts a mysterious and thrilling survival story on an alien ocean planet, now at a 75% discount until May 25 at 17:00 UTC!"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "アーキテクト",
+        "releases.0.note": "5月20日にONE storeで正式リリースされた新作MMORPGで、自由度の高いシームレスなワールド探索要素と、高品質なグラフィックによる華麗なノンターゲティング戦闘を体験できます。",
+        "releases.0.dev": "アクアツリー",
+        "releases.1.game": "コーヒートーク トーキョー",
+        "releases.1.note": "5月21日に正式リリースされた新作ヒーリングシミュレーションゲームで、東京の深夜のカフェを舞台に、客の悩みに耳を傾けながら温かい飲み物を作る心温まる物語を提供します。",
+        "releases.1.dev": "Toge Productions",
+        "releases.2.game": "ゲーム・オブ・スローンズ：キングスロード",
+        "releases.2.note": "5月21日にモバイル向けに正式リリースされた新作アクションRPGで、人気ドラマのIPをベースに、家門の跡継ぎとなってウェスタロス大陸を冒険するオリジナルストーリーをお届けします。",
+        "releases.2.dev": "ネットマーブルネオ",
+        "releases.3.game": "ウォーハンマー40,000: スペースマリン2",
+        "releases.3.note": "5月21日に配信された「パージョン（Purgation）」アップデートを通じて、新規PvEミッションを追加し、多彩なインゲームバランスおよび利便性を大幅に改善しました。",
+        "releases.3.dev": "セイバー・インタラクティブ",
+        "releases.4.game": "CoA：アトランのクリスタル",
+        "releases.4.note": "5月21日にリリース1周年を迎え、「ニーア オートマタ」とのコラボレーションアップデートを実施し、限定アバターや強力な新ボス「グリュン」を新たに追加しました。",
+        "releases.4.dev": "VI-GAMES",
+        "releases.5.game": "ARC Raiders",
+        "releases.5.note": "5月21日から、ネクソンアカウントを通じて、ネットカフェ（PC房）のユーザーなら誰でも新規アップデートコンテンツを無料で体験できる公開テストを開始しました。",
+        "releases.5.dev": "エンバーク・スタジオ",
+        "events.0.name": "PlayX4 2026（プレイエキスポ 2026）",
+        "events.0.note": "様々な新作やインディーゲームの試遊、ブースイベントなどが開催される、京畿道エリア最大規模の総合ゲームショー",
+        "events.0.venue": "一山 KINTEX",
+        "events.1.name": "スター ASL シーズン21 決勝戦",
+        "events.1.note": "イ・ヨンホとパク・サンヒョンの対決で行われる、Google Play ASL シーズン21の最終決勝戦",
+        "events.1.venue": "一山 KINTEX PlayX4 特設ステージ"
+      },
+      "briefing": {
+        "items.0.title": "バンジー、「Destiny 2」のライブサービス終了を発表",
+        "items.0.source": "Inven",
+        "items.0.time": "5月21일",
+        "items.1.title": "デウォンメディア、「フォーガットンサガ リメイク」を電撃公開",
+        "items.1.source": "GameMeca",
+        "items.1.time": "5月21일",
+        "items.2.title": "ポケモンカードゲーム、マイナンバーカードによる本人確認の導入を検討",
+        "items.2.source": "4Gamer",
+        "items.2.time": "5월 21일",
+        "items.3.title": "日本の週間販売1位「トモコレ」、Switch2も21万台突破",
+        "items.3.source": "Famitsu",
+        "items.3.time": "5月 22일",
+        "items.4.title": "『レッド・デッド・リデンプション2』、『Wii Sports』を抜いて歴代販売2位に",
+        "items.4.source": "IGN India",
+        "items.4.time": "5월 21일",
+        "items.5.title": "「007 ファーストライト」公式ローンチトレーラー公開",
+        "items.5.source": "IGN India",
+        "items.5.time": "5월 21일",
+        "items.6.title": "『Returnal』ディレクター、新スタジオ「Cosmic Division」を設立",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "5월 21일",
+        "items.7.title": "「トモダチコレクション」新作、4月の米国販売チャートで1位",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "5월 21일"
+      },
+      "drk": {
+        "title": "永遠のサービスはない：ライブサービスの疲弊とパッケージゲームの偉大な逆襲",
+        "intro": "永遠に続くかと思われた巨大ライブサービスの終焉と、リリースから数年が経過したパッケージゲームの歴史的な再ブレイクが同時に目撃されました。果たしてゲーマーたちは、毎日繰り返される宿題のようなサービスに疲れ果て、再び「始まりと終わりのある完成された体験」へと回帰しているのでしょうか？",
+        "points": "最近、バンジー（Bungie）が代表的なライブサービスゲームである「Destiny 2」のサービス終了を発表した一方で、クラシックなパッケージゲームである「レッド・デッド・リデンプション2」は累計販売台数で歴代2位に浮上し、歴史的な再ブレイクを記録しました。一分では、長年にわたり莫大なコストを投じたサービスモデルが終幕を告げ、もう一方では、買い切り型のパッケージゲームが世代を超えた生命力を証明するという、非常に興味深い交差点に私たちは立っています。 🎮\n\nこれは、市場の**ゲーム消費構造と消費者心理が急激に変化**していることを裏付けています。絶え間ない追加課金やデイリークエストに疲労感を覚えたゲーマーたちが、「始まりと終わりが明確な高品質コンテンツ」に目を向けています。開発会社側も、底の抜けた桶に水を注ぎ続けるようなライブサービスの維持コストよりも、完成度の高い単一IPを長期的に販売するパッケージモデルの方が、はるかに安定的で持続可能なビジネス構造を構築できるという事実に改めて気づき始めています。 📈\n\n結局のところ、市場を貫く洞察は、ゲームの寿命を無理に引き延ばす運営の技術よりも、**「時間が経っても色褪せない独創的な世界観と完璧なストーリーという本質的な価値」**に集中すべきだということです。ユーザーはもはや、義務感で接続するオンライン空間ではなく、一度の購入で深い芸術的インスピレーションをもたらしてくれるウェルメイド（よく作り込まれた）な体験に財布を開いています。 💡\n\n果たしてゲーム業界は、無理な拡張を繰り返していた「サービスとしてのゲーム（GaaS）」時代の限界を克服し、再びパッケージゲームの黄金期へと回帰できるでしょうか？急変するトレンドの中で、皆様が本当に切望するゲームの価値とは何なのか、問いかけたいと思います。 ✉️"
+      },
+      "epic": {
+        "title": "Down in Bermuda",
+        "comment": "**【今週のエピックゲームズ無料配布】**\n\n🎁 **Down in Bermuda** （〜5月29日00:00まで受け取り可能）\nミステリアスなバミューダ諸島に不時着した飛行士を助ける、可愛らしいパズルアドベンチャーゲームです。様々なギミックや隠された要素を見つけて解決しながら、気軽に息抜きができる良質なインディーゲームです。\n\n👀 **Next Week:** 5月29日00:00からは、ベールに包まれた2本の「ミステリーゲーム」が登場します！\n\n---\n\n**【Steam週末セールおすすめ】**\n\n🌊 未知の海洋惑星での神秘的でスリリングな生存劇を描いた名作**『Subnautica（サブノーティカ）』**を、5月26日02:00まで75%オフの特別価格でお買い求めいただけます！"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "매일 반복되는 '숙제'는 끝! 패키지 게임의 역습 🎮 (feat. Bermuda 무료 배포 🏝️)",
+    "en": "Tired of the endless live-service grind? Package games are back! 🎮 (feat. Free 'Down in Bermuda' 🏝️)",
+    "ja": "終わらない「運営ゲー」に限界？パッケージゲームの逆襲！🎮（無料『Down in Bermuda』配布中🏝️）"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "매일 반복되는 게임 '숙제'에 지치셨나요? 🎮\n영원할 것 같던 '데스티니 2'의 서비스 종료 소식과 함께 패키지 게임의 역습이 시작되네요! ✨\n\nhttps://www.gtplayer.net/edition-055/\n\n#데스티니2 #게임소식 #GTPlayer",
+          "posted": true,
+          "data": {
+            "data": {
+              "text": "매일 반복되는 게임 '숙제'에 지치셨나요? 🎮\n영원할 것 같던 '데스티니 2'의 서비스 종료 소식과 함께 패키지 게임의 역습이 시작되네요! ✨\n\nhttps://t.co/hmNfWFbqYL\n\n#데스티니2 #게임소식 #GTPlayer",
+              "edit_history_tweet_ids": [
+                "2057583500338102447"
+              ],
+              "id": "2057583500338102447"
+            }
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-22T07:05:08.942926"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "5월 22일 오늘의 게임 소식 🎮\n📰 [뉴스] '데스티니 2' 서비스 종료 충격과 '레데리 2'의 대기록, 그리고 Bermuda 무료 배포 소식까지!\n🗓️ [출시] '아키텍트', '커피 톡 도쿄', '왕좌의 게임' 등 이번 주 주목해야 할 신작 라인업!\n🧠 [인사이트] 매일 반복되는 숙제 같은 라이브 서비스에 지친 당신, 패키지 게임의 역습이 시작됩니다.\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임소식 #게임추천 #신작게임 #스팀게임 #콘솔게임 #모바일게임 #데스티니2 #레데리2 #포가튼사가 #커피톡도쿄 #아키텍트 #워해머 #게임덕후 #게임스타그램 #겜스타그램 #게임분석 #게임뉴스레터 #GTPLAYER #지티플레이어",
+          "image_paths": [
+            "web\\instagram\\edition_055\\card_news.png",
+            "web\\instagram\\edition_055\\card_calendar.png",
+            "web\\instagram\\edition_055\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3902222001482454628_39332818166",
+            "url": "https://www.instagram.com/p/DYnejxJE1Zk/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-22T07:05:43.102338"
+    }
+  }
+}

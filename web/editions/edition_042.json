@@ -1,0 +1,517 @@
+{
+  "num": "042",
+  "date": "2026-04-30",
+  "status": "published",
+  "schedule": {
+    "date": "2026-04-30",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "이환 (Neverness to Everness)",
+          "dev": "호타 스튜디오",
+          "date": "4월 29일(수)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "모바일"
+          ],
+          "color": "#10b981",
+          "note": "사전예약 3,500만을 기록한 어반 오픈월드 RPG로, 초자연적인 이상 현상을 해결하는 독특한 세계관을 바탕으로 4월 29일 정식 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1774625",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "파 파 웨스트 (Far Far West)",
+          "dev": "파이어샤인 게임즈",
+          "date": "4월 29일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "저주받은 서부를 배경으로 최대 4인이 협동하는 1인칭 슈팅 게임으로, 출시 직후 스팀 인기 순위 1위에 오르며 4월 29일 얼리 액세스를 시작했습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1774626",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "더 코마 3",
+          "dev": "드보라 스튜디오",
+          "date": "4월 30일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "11년간 이어진 국산 공포 게임 시리즈의 피날레를 장식하는 작품으로, 3인 주인공 체제와 한층 강화된 비주얼을 담아 4월 30일 정식 출시됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315948",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "히어로즈 오브 마이트 앤 매직: 올든 에라",
+          "dev": "유비소프트",
+          "date": "4월 30일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "전설적인 전략 시뮬레이션 시리즈의 10년 만의 신작으로, 클래식한 시스템으로의 회귀를 선언하며 4월 30일 스팀 얼리 액세스를 시작합니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/833/G083384/20260426003/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "event",
+          "game": "삼국군영전: 격투판",
+          "dev": "유저조이",
+          "date": "4월 30일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#f59e0b",
+          "note": "삼국지연의를 기반으로 한 대전 격투 게임으로, 두 가지 무기를 교체하는 전략적 콤보 시스템을 점검하기 위해 4월 30일부터 5월 5일까지 2차 테스트를 진행합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315991",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "마인즈아이",
+          "dev": "빌드 어 로켓 보이",
+          "date": "4월 30일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#3b82f6",
+          "note": "신규 스토리 업데이트 '블랙리스티드'가 포함된 7.1 패치를 4월 30일 실시하며, 자체 퍼블리싱 전환을 기념해 가격 인하를 단행했습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315993",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "삼국군영전: 격투판 2차 데모 테스트",
+          "note": "두 가지 무기를 자유롭게 교체하며 전략적인 콤보를 구사하는 대전 격투 게임 테스트",
+          "venue": "온라인",
+          "date": "2026-04-30 ~ 2026-05-05",
+          "tag": "베타 테스트",
+          "website": "https://www.inven.co.kr/webzine/news/?news=315991"
+        },
+        {
+          "name": "신작 RPG ‘이환’ 오프라인 팝업 ‘이상관리국 인 홍대’",
+          "note": "정식 출시를 기념하여 진행되는 체험형 오프라인 팝업 행사",
+          "venue": "서울 홍대 레조네",
+          "date": "2026-04-29 ~ 2026-05-03",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=315972"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "위메이드, 킹넷과 분쟁 종결로 화해금 430억 수령",
+          "source": "인벤",
+          "time": "4월 29일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315974"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "'마영전·듀랑고' 이은석 프로듀서, 크래프톤 합류",
+          "source": "게임메카",
+          "time": "4월 29일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1774623"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "코나미 '이풋볼', 나루토와 역대급 콜라보레이션 진행",
+          "source": "電撃オンライン",
+          "time": "4월 30일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202604/73535"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "포켓몬 GO 페스트 2026, 메가뮤우츠 X·Y 등장",
+          "source": "電撃オンライン",
+          "time": "4월 30일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202604/73497"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "MLB 더 쇼 모바일, 무료 플레이 및 신규 영상 공개",
+          "source": "IGN India",
+          "time": "4월 29일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/259749/mlb-the-show-mobile-official-gameplay-trailer"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "히어로 IP 기반 격투 신작 '인빈시블 VS' 정식 출시",
+          "source": "IGN India",
+          "time": "4월 29일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/invincible-vs/259740/invincible-vs-official-launch-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "아마존, 트위치 방송서 즉석 게임 체험 기능 시범 운영",
+          "source": "GamesIndustry.biz",
+          "time": "4월 29일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/amazon-pilots-playable-game-demos-on-twitch"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'그리드폴' 개발사 스파이더스, 나콘 경영난에 폐업",
+          "source": "GamesIndustry.biz",
+          "time": "4월 29일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/greedfall-developer-spiders-reportedly-set-to-close"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": [],
+      "items": [
+        {
+          "game": "AION2",
+          "period": "최근 30일",
+          "count": "1",
+          "sources": "커뮤니티",
+          "score": "3.0",
+          "pos": 0,
+          "neu": 100,
+          "neg": 0,
+          "keywords": [
+            {
+              "text": "Class Mention",
+              "positive": true
+            },
+            {
+              "text": "DPS Comparison",
+              "positive": true
+            },
+            {
+              "text": "Damage Meta",
+              "positive": true
+            }
+          ],
+          "comments": [
+            {
+              "text": "호법은 컷 미달이어도 파티 잘 가는데 왜 자꾸 눕는지 모르겠어요.",
+              "positive": false
+            },
+            {
+              "text": "딜량도 충분히 잘 나오면서 약한 척하는 모습이 정말 보기 싫네요.",
+              "positive": false
+            },
+            {
+              "text": "상향 다 받아놓고 계속 징징거리는 건 너무 과한 근들갑 같아요.",
+              "positive": false
+            }
+          ]
+        }
+      ]
+    },
+    "drk": {
+      "enabled": true,
+      "title": "IP의 거대화와 유통 혁신이 재편하는 게임 생태계의 명암",
+      "intro": "3,500만 명의 선택을 받은 신작과 재정난으로 사라지는 개발사, 극명한 대비가 보여주는 업계의 민낯은 무엇일까요? \n플랫폼이 게임을 즉석에서 체험하게 만드는 시대, 우리는 지금 콘텐츠 소비의 변곡점에 서 있습니다. 🕹️",
+      "points": "오늘의 뉴스는 거대 자본이 투입된 오픈월드 RPG '이환'의 화려한 데뷔와 대조적으로, '그리드폴'의 개발사 스파이더스가 퍼블리셔의 경영난으로 폐업하는 업계의 극단적인 양극화를 보여줍니다. 📉 동시에 아마존은 트위치 방송 중 즉석에서 게임을 체험하는 기능을 도입하며 유통 구조의 혁신을 꾀하고 있습니다.\n\n이러한 현상은 **소비자 심리**가 검증된 대형 IP나 즉각적인 재미를 주는 인디 게임으로 양분되고 있음을 시사합니다. 특히 아마존의 시도는 시청과 플레이의 경계를 허물어 게임 소비 구조를 더욱 단축시킬 것입니다. ⏩ 이는 마케팅 비용의 효율화를 가져오겠지만, 반대로 깊이 있는 서사보다 찰나의 몰입감을 강조하는 형태로 실제 게임의 형태가 변화할 가능성이 큽니다.\n\n결국 현재 게임 산업은 **콘텐츠의 질보다 유통의 효율성과 IP의 파급력이 생존을 결정하는 가혹한 시기**에 진입했습니다. 이제 게임은 단순한 소프트웨어가 아니라, 플랫폼과 스트리밍 환경에 완벽히 동기화된 하나의 서비스로서 존재 가치를 증명해야만 합니다. 🏛️\n\n대형 IP의 독식과 유통 플랫폼의 진화 속에서, 중간 규모의 개발사들은 어떤 차별화된 가치로 게이머들의 시간을 점유할 수 있을까요? 여러분이 생각하는 지속 가능한 게임의 조건은 무엇입니까? 🧐"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": true,
+      "title": "Neverness To Everness (NTE) Is INSANE… The Most Fun Free Game of 2026?!",
+      "channel": "Android Tools",
+      "videoId": "bp-sQeAeoHA",
+      "url": "https://www.youtube.com/watch?v=bp-sQeAeoHA",
+      "thumbnail": "https://i.ytimg.com/vi/bp-sQeAeoHA/hqdefault.jpg",
+      "comment": "화제의 신작 오픈 월드 어반 RPG '이환(Neverness to Everness)'이 감각적인 비주얼을 선보이며 전 세계 게이머들의 기대를 한 몸에 받고 있습니다. ✨🏙️ 특히 이번 영상에서 공개된 화려한 도시를 누비는 카체이싱과 스타일리시한 초능력 전투 장면은 이 게임의 독보적인 하이라이트입니다. 🏎️💥 차세대 기대작으로 떠오른 이 환상적인 세계관을 트레일러로 직접 확인해 보세요! 🎮",
+      "search_query": "Neverness to Everness Official Trailer",
+      "ai_game_name": "이환 (Neverness to Everness)",
+      "ai_reason": "사전예약 3,500만을 돌파한 글로벌 기대작으로, 감각적인 어반 오픈월드 비주얼과 초자연적 연출이 돋보이는 압도적 퀄리티의 트레일러를 감상할 수 있습니다."
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=042&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=042&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Neverness to Everness (NTE)",
+        "releases.0.note": "An urban open-world RPG with 35 million pre-registrations, officially released on April 29, featuring a unique world where players solve supernatural anomalies.",
+        "releases.0.dev": "Hotta Studio",
+        "releases.1.game": "Far Far West",
+        "releases.1.note": "A 1-4 player co-op first-person shooter set in a cursed wild west, which started Early Access on April 29 after reaching #1 on Steam's popularity rankings immediately upon launch.",
+        "releases.1.dev": "Fireshine Games",
+        "releases.2.game": "The Coma 3",
+        "releases.2.note": "A title marking the finale of an 11-year-long Korean horror game series, officially launching on April 30 with a three-protagonist system and enhanced visuals.",
+        "releases.2.dev": "Devespresso Games",
+        "releases.3.game": "Heroes of Might and Magic: Olden Era",
+        "releases.3.note": "The first new entry in the legendary strategy simulation series in 10 years, declaring a return to classic systems and starting Steam Early Access on April 30.",
+        "releases.3.dev": "Ubisoft",
+        "releases.4.game": "The Legend of Three Kingdoms: Fighting Edition",
+        "releases.4.note": "A fighting game based on the Romance of the Three Kingdoms, conducting its second test from April 30 to May 5 to test its strategic combo system involving weapon switching.",
+        "releases.4.dev": "Userjoy",
+        "releases.5.game": "Mindseye",
+        "releases.5.note": "Launched Patch 7.1 on April 30, including the new story update 'Blacklisted,' and implemented a price reduction to celebrate the transition to self-publishing.",
+        "releases.5.dev": "Build A Rocket Boy",
+        "events.0.name": "The Legend of Three Kingdoms: Fighting Edition 2nd Demo Test",
+        "events.0.note": "A test for a fighting game where players freely switch between two weapons to perform strategic combos.",
+        "events.0.venue": "Online",
+        "events.1.name": "New RPG 'Neverness to Everness' Offline Pop-up 'Bureau of Unusual Affairs in Hongdae'",
+        "events.1.note": "An experiential offline pop-up event held to celebrate the official launch.",
+        "events.1.venue": "Résonner, Hongdae, Seoul"
+      },
+      "briefing": {
+        "items.0.title": "Wemade Receives 43 Billion KRW in Settlement to End Dispute with Kingnet",
+        "items.0.source": "Inven",
+        "items.0.time": "April 29",
+        "items.1.title": "Producer Lee Eun-seok of 'Vindictus' and 'Durango' Joins Krafton",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "April 29",
+        "items.2.title": "Konami's 'eFootball' Collaborates with Naruto for Epic Event",
+        "items.2.source": "Dengeki Online",
+        "items.2.time": "April 30",
+        "items.3.title": "Pokémon GO Fest 2026: Mega Mewtwo X & Y Appear",
+        "items.3.source": "Dengeki Online",
+        "items.3.time": "April 30",
+        "items.4.title": "MLB The Show Mobile: Free-to-Play and New Video Revealed",
+        "items.4.source": "IGN India",
+        "items.4.time": "April 29",
+        "items.5.title": "New Hero IP Fighting Game 'Invincible VS' Officially Launched",
+        "items.5.source": "IGN India",
+        "items.5.time": "April 29",
+        "items.6.title": "Amazon Pilots Instant Game Trial Feature on Twitch Broadcasts",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "April 29",
+        "items.7.title": "'GreedFall' Developer Spiders Closes Due to Nacon's Financial Troubles",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "April 29"
+      },
+      "feedback": {
+        "items.0.game": "AION 2",
+        "items.0.period": "Last 30 Days",
+        "items.0.keywords.0.text": "Class Mention",
+        "items.0.keywords.1.text": "DPS Comparison",
+        "items.0.keywords.2.text": "Damage Meta",
+        "items.0.comments.0.text": "Chanters get into parties easily even without meeting requirements, so I don't know why they keep dying.",
+        "items.0.comments.1.text": "I really hate it when they pretend to be weak when their DPS is actually high enough.",
+        "items.0.comments.2.text": "Complaining even after getting all those buffs seems like such an overreaction."
+      },
+      "drk": {
+        "title": "Light and Shadow: The Gaming Ecosystem Reshaped by IP Scalability and Distribution Innovation",
+        "intro": "A new title chosen by 35 million people versus a developer disappearing due to financial crisis—what is the reality of the industry shown by this stark contrast? In an era where platforms allow instant game trials, we are standing at a turning point in content consumption. 🕹️",
+        "points": "Today's news highlights the industry's extreme polarization: the grand debut of the large-scale open-world RPG 'Neverness to Everness' (NTE) versus the closure of 'GreedFall' developer Spiders due to the publisher's financial difficulties. 📉 Simultaneously, Amazon is innovating distribution by introducing a feature to instantly trial games during Twitch broadcasts. \n\nThis phenomenon suggests that consumer psychology is splitting between proven major IPs and indie games that offer immediate fun. Amazon's attempt, in particular, will blur the lines between watching and playing, further shortening the content consumption cycle. ⏩ While this will improve marketing efficiency, there is a risk that actual game design may shift to emphasize momentary immersion over deep narratives. \n\nUltimately, the gaming industry has entered a harsh period where distribution efficiency and IP impact determine survival more than content quality. Games are no longer just software; they must prove their value as a service perfectly synchronized with platforms and streaming environments. 🏛️ \n\nIn a landscape dominated by major IPs and evolving distribution platforms, what unique value can mid-sized developers offer to capture gamers' time? What do you believe are the conditions for a sustainable game? 🧐"
+      },
+      "trailer": {
+        "title": "Neverness To Everness (NTE) Is INSANE… The Most Fun Free Game of 2026?!",
+        "comment": "The much-talked-about new open-world urban RPG 'Neverness to Everness' is capturing the attention of gamers worldwide with its sensational visuals. ✨🏙️ Notably, the car chasing scenes through the vibrant city and the stylish supernatural combat revealed in this video are the unique highlights of the game. 🏎️💥 Check out the trailer for this fantastic world, which has emerged as a highly anticipated next-generation title! 🎮"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "異環 (Neverness to Everness)",
+        "releases.0.note": "事前登録者数3,500万人を記録した都市型オープンワールドRPGで、超自然的な異常現象を解決する独特な世界観を背景に、4月29日に正式リリースされました。",
+        "releases.0.dev": "Hotta Studio",
+        "releases.1.game": "Far Far West",
+        "releases.1.note": "呪われた西部を舞台に最大4人で協力する一人称視点シューティングゲームで、リリース直後にSteamの人気ランキング1位に輝き、4月29日に早期アクセスを開始しました。",
+        "releases.1.dev": "Fireshine Games",
+        "releases.2.game": "ザ・コーマ3",
+        "releases.2.note": "11年続いた韓国発のホラーゲームシリーズのフィナーレを飾る作品で、3人の主人公体制と一層強化されたビジュアルを盛り込み、4月30日に正式リリースされます。",
+        "releases.2.dev": "Devespresso Games",
+        "releases.3.game": "ヒーローズ・オブ・マイト・アンド・マジック：オールデン・エラ",
+        "releases.3.note": "伝説的な戦略シミュレーションシリーズの10年ぶりとなる新作で、クラシックなシステムへの回帰を宣言し、4月30日にSteamで早期アクセスを開始します。",
+        "releases.3.dev": "Ubisoft",
+        "releases.4.game": "三國群英傳：格闘版",
+        "releases.4.note": "三国志演義をベースにした対戦格闘ゲームで、2つの武器を切り替える戦略的なコンボシステムを点検するため、4月30日から5月5日まで第2次テストを実施します。",
+        "releases.4.dev": "UserJoy",
+        "releases.5.game": "MindsEye",
+        "releases.5.note": "新規ストーリーアップデート「Blacklisted」を含むパッチ7.1を4月30日に実施し、自社パブリッシングへの転換を記念して価格改定（値下げ）を断行しました。",
+        "releases.5.dev": "Build A Rocket Boy",
+        "events.0.name": "『三國群英傳：格闘版』第2次デモテスト",
+        "events.0.note": "2つの武器を自由に切り替えながら戦略的なコンボを繰り出す対戦格闘ゲームのテスト",
+        "events.0.venue": "オンライン",
+        "events.1.name": "新作RPG『異環』オフラインポップアップ「異象管理局 in 弘大（ホンデ）」",
+        "events.1.note": "正式リリースを記念して開催される体験型オフラインポップアップイベント",
+        "events.1.venue": "ソウル 弘大 レゾネ（Resone）"
+      },
+      "briefing": {
+        "items.0.title": "Wemade、Kingnetとの紛争終結で和解金430億ウォンを受領",
+        "items.0.source": "Inven",
+        "items.0.time": "4月29日",
+        "items.1.title": "『マビノギ英雄伝』『Durango』のイ・ウンソクプロデューサー、KRAFTONに合流",
+        "items.1.source": "GameMeca",
+        "items.1.time": "4月29日",
+        "items.2.title": "コナミ『eFootball™』、ナルトと過去最大級のコラボレーションを実施",
+        "items.2.source": "電撃オンライン",
+        "items.2.time": "4月30日",
+        "items.3.title": "Pokémon GO Fest 2026、メガミュウツーX・Yが登場",
+        "items.3.source": "電撃オンライン",
+        "items.3.time": "4月30日",
+        "items.4.title": "『MLB The Show』モバイル版、無料プレイおよび新規映像を公開",
+        "items.4.source": "IGN India",
+        "items.4.time": "4月29日",
+        "items.5.title": "ヒーローIPベースの格闘新作『Invincible VS』正式リリース",
+        "items.5.source": "IGN India",
+        "items.5.time": "4月29日",
+        "items.6.title": "Amazon、Twitch配信での即時ゲーム体験機能を試験運用",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "4月29日",
+        "items.7.title": "『グリードフォール』開発のSpiders、Naconの経営難により閉鎖",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "4月29日"
+      },
+      "feedback": {
+        "items.0.game": "AION2",
+        "items.0.period": "直近30日間",
+        "items.0.keywords.0.text": "Class Mention",
+        "items.0.keywords.1.text": "DPS Comparison",
+        "items.0.keywords.2.text": "Damage Meta",
+        "items.0.comments.0.text": "護法はスペック不足でもパーティに入れるのに、なぜそんなにすぐ死ぬのか分かりません。",
+        "items.0.comments.1.text": "火力も十分出ているのに、弱いふりをする姿は本当に見ていて不快です。",
+        "items.0.comments.2.text": "上方修正をすべて受けておきながら、ずっと愚痴を言い続けるのは大げさすぎます。"
+      },
+      "drk": {
+        "title": "IPの巨大化と流通革命が再編するゲームエコシステムの明暗",
+        "intro": "3,500万人の選択を受けた新作と、財政難で姿を消す開発会社。この極明な対比が示す業界の素顔とは何でしょうか？プラットフォームがゲームを即座に体験させる時代、私たちは今、コンテンツ消費の変曲点に立っています。🕹️",
+        "points": "本日のニュースは、巨額の資本が投入されたオープンワールドRPG『異環』の華々しいデビューとは対照的に、『グリードフォール』の開発元Spidersがパブリッシャーの経営難により閉鎖されるという、業界の極端な二極化を示しています。📉 同時に、AmazonはTwitchの配信中に即座にゲームを体験できる機能を導入し、流通構造の革新を図っています。\n\nこのような現象は、**消費者心理**が検証済みの大型IPや、即時的な楽しさを提供するインディーゲームへと二分されていることを示唆しています。特にAmazonの試みは、視聴とプレイの境界を崩し、ゲームの消費構造をさらに短縮させるでしょう。⏩ これはマーケティング費用の効率化をもたらしますが、逆に深いナラティブよりも刹那的な没入感を強調する形へと、実際のゲームの形態が変化する可能性が高いです。\n\n結局のところ、現在のゲーム産業は**コンテンツの質よりも流通の効率性とIPの波及力が生存を決定する過酷な時期**に突入しました。今やゲームは単なるソフトウェアではなく、プラットフォームやストリーミング環境に完全に同期した一つのサービスとして、存在価値を証明しなければなりません。🏛️\n\n大型IPの独占と流通プラットフォームの進化の中で、中規模の開発会社はどのような差別化された価値でゲーマーの時間を占有できるのでしょうか？皆さんが考える持続可能なゲームの条件とは何ですか？🧐"
+      },
+      "trailer": {
+        "title": "Neverness To Everness (NTE) Is INSANE… The Most Fun Free Game of 2026?!",
+        "comment": "話題の新作オープンワールド都市型RPG『異環 (Neverness to Everness)』が、感性的なビジュアルを披露し、世界中のゲーマーから期待を集めています。✨🏙️ 特に今回の映像で公開された、華やかな都市を駆け抜けるカーチェイスやスタイリッシュな超能力バトルシーンは、このゲームの独歩的なハイライトです。🏎️💥 次世代の期待作として浮上したこの幻想的な世界観を、トレーラーでぜひ直接確認してください！🎮"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "거대 IP가 재편하는 게임판 🎮, 그리고 2026년 역대급 무료 기대작 NTE 등장! ✨",
+    "en": "The IP Revolution is Changing Everything 📉 + Is NTE the Best Free Game of 2026? 🎮",
+    "ja": "巨大IPが塗り替える業界の光と影 📉 & 2026年最強の無料ゲー『NTE』がヤバすぎる！🔥"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "2026년 역대급 기대작 NTE가 드디어 출시됐네요! ✨\n오픈월드에서 즐기는 초거대 IP의 매력을 지금 바로 무료로 확인해 보세요. 🎮\n\nhttps://www.gtplayer.net/edition-042/\n\n#NTE #게임소식 #GTPlayer",
+          "posted": true,
+          "data": {
+            "data": {
+              "id": "2049610964711170529",
+              "edit_history_tweet_ids": [
+                "2049610964711170529"
+              ],
+              "text": "2026년 역대급 기대작 NTE가 드디어 출시됐네요! ✨\n오픈월드에서 즐기는 초거대 IP의 매력을 지금 바로 무료로 확인해 보세요. 🎮\n\nhttps://t.co/JfxNG7slnW\n\n#NTE #게임소식 #GTPlayer"
+            }
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-04-30T07:05:08.055228"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "4월 30일 오늘의 게임 소식 🎮\n\n🔥 위메이드 430억 승소부터 포켓몬 GO 메가뮤우츠 등장까지, 한눈에 보는 게임 이슈! 📰\n✨ 역대급 무료 기대작 '이환(NTE)' 포함, 이번 주 꼭 체크해야 할 신작 캘린더 📅\n🧐 거대 IP가 지배하는 시장의 명암과 콘텐츠 소비의 변곡점, Dr.K의 날카로운 분석 💡\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #GTPLAYER #신작게임 #게임추천 #이환 #NTE #NevernesstoEverness #위메이드 #크래프톤 #포켓몬GO #MLB더쇼 #마인즈아이 #인디게임 #게임소식 #게임업계 #게이머 #뉴스레터 #게임덕후 #게임리뷰 #모바일게임 #PC게임 #PS5 #Xbox #게임스타그램",
+          "image_paths": [
+            "web\\instagram\\edition_042\\card_news.png",
+            "web\\instagram\\edition_042\\card_calendar.png",
+            "web\\instagram\\edition_042\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3886276885139901505_39332818166",
+            "url": "https://www.instagram.com/p/DXu1DyVk0xB/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-04-30T07:05:37.314316"
+    }
+  }
+}

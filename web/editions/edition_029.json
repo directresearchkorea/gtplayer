@@ -1,0 +1,497 @@
+{
+  "num": "029",
+  "date": "2026-04-10",
+  "status": "published",
+  "schedule": {
+    "date": "2026-04-10",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "초 아로이 크래쉬 (Super Alloy Crash)",
+          "dev": "스타리 테일즈",
+          "date": "4월 8일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "레트로 SF 세계관을 배경으로 2D 횡스크롤 액션과 로그라이크 요소를 결합한 고속 전투 액션 게임이 스팀 얼리 액세스로 출시되었습니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202604/71187",
+          "source_name": "전격 온라인"
+        },
+        {
+          "category": "release",
+          "game": "드래곤네스트 월드",
+          "dev": "아이덴티티게임즈",
+          "date": "4월 9일(목)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "원작 드래곤네스트 IP를 계승한 모바일 MORPG로, 특유의 타격감 넘치는 전투를 모바일로 재구성하여 4월 9일 정식 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315243",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "FAITH: The Unholy Trinity",
+          "dev": "뉴 블러드 인터랙티브",
+          "date": "4월 9일(목)",
+          "platforms": [
+            "PS5"
+          ],
+          "color": "#10b981",
+          "note": "8비트 풍의 독특한 그래픽으로 공포를 극대화한 악마祓이 호러 어드벤처 게임이 한국어 지원과 함께 PS5 버전으로 정식 출시되었습니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/997/G099733/20260409010/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "update",
+          "game": "노 맨즈 스카이",
+          "dev": "헬로 게임즈",
+          "date": "4월 9일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S",
+            "Switch"
+          ],
+          "color": "#3b82f6",
+          "note": "신규 생명체 수집 및 배틀 시스템을 도입한 대규모 업데이트가 적용되어, 마치 포켓몬스터와 같은 멀티플레이어 경쟁을 즐길 수 있습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/sim/no-mans-skys-latest-update-is-an-entire-new-pokemon-style-creature-collection-and-battle-system-thats-an-entire-multiplayer-game-all-of-its-own/",
+          "source_name": "PC Gamer"
+        },
+        {
+          "category": "update",
+          "game": "배틀그라운드",
+          "dev": "크래프톤",
+          "date": "4월 9일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#3b82f6",
+          "note": "액션 게임 '스텔라 블레이드'와의 협업 업데이트를 통해 주인공 이브의 외형 컨텐츠와 특별 콜라보 아이템들이 게임 내에 추가되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1773844",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "승리의 여신: 니케",
+          "dev": "시프트업",
+          "date": "4월 9일(목)",
+          "platforms": [
+            "Mobile",
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "최신 버전 'GOOD WORLD' 업데이트를 통해 수수께끼의 신규 니케 '시라츠루'가 출시되었으며, 아니스의 새로운 사이드 스토리가 공개되었습니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202604/71337",
+          "source_name": "전격 온라인"
+        }
+      ],
+      "events": [
+        {
+          "name": "명조: 워더링 웨이브 x 삼성스토어 홍대 팝업 이벤트",
+          "note": "갤럭시 S26 울트라 치사 액세서리 에디션 출시 기념 오프라인 전시 및 이벤트",
+          "venue": "삼성스토어 홍대 (오프라인)",
+          "date": "2026-04-09 ~ (진행 중)",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=315218"
+        },
+        {
+          "name": "Women in Gaming UK",
+          "note": "IGN 엔터테인먼트와 덴츠 게이밍이 주최하는 여성 게임 산업 종사자 네트워킹 행사",
+          "venue": "영국 (오프라인)",
+          "date": "2026-04-17",
+          "tag": "오프라인 행사",
+          "website": "https://www.gamesindustry.biz/ign-entertainment-and-dentsu-gaming-announce-women-in-gaming-uk-event"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'일곱 개의 대죄: Origin' PS 스토어 3개 지역 무료 1위",
+          "source": "인벤",
+          "time": "4월 9일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315245"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "엑스엘게임즈 '더 큐브, 세이브 어스' 출시 2주 만에 종료",
+          "source": "게임메카",
+          "time": "4월 9일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1773850"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "슈팅 'TATSUJIN' 최신작 7월 30일 출시 확정",
+          "source": "4Gamer",
+          "time": "4월 9일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/997/G099725/20260409004/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'워프레임' 신규 프라임 '보루나 프라임' 업데이트",
+          "source": "4Gamer",
+          "time": "4월 9일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/172/G017216/20260409019/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "격투 게임 '인빈시블 VS' 오픈 베타 트레일러 공개",
+          "source": "IGN India",
+          "time": "4월 9일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/invincible-vs/257822/video/invincible-vs-official-open-beta-trailer"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "공포 신작 '위스퍼스 오브 더 톨그래스' PC 버전 발표",
+          "source": "IGN India",
+          "time": "4월 9일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/news/257819/whispers-of-the-tallgrass-a-creepy-first-person-survival-horror-game-announced-for-pc"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "헤이즐라이트 스튜디오, 누적 판매 5천만 장 돌파",
+          "source": "GamesIndustry.biz",
+          "time": "4월 9일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/it-takes-two-split-fiction-studio-tops-50-million-sales-news-in-brief"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "테이크투, 구조조정 일환으로 AI 전담 팀 전원 해고",
+          "source": "GamesIndustry.biz",
+          "time": "4월 9일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/take-two-interactive-reportedly-lays-off-ai-team"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": [],
+      "items": [
+        {
+          "game": "AION2",
+          "period": "최근 30일",
+          "count": "6,934",
+          "sources": "커뮤니티",
+          "score": "2.7",
+          "pos": 5,
+          "neu": 73,
+          "neg": 22,
+          "keywords": [
+            {
+              "text": "Class Mention",
+              "positive": true
+            },
+            {
+              "text": "Dungeon / Raid Discussion",
+              "positive": true
+            },
+            {
+              "text": "DPS Comparison",
+              "positive": true
+            },
+            {
+              "text": "Buff/Nerf Debate",
+              "positive": true
+            },
+            {
+              "text": "Build Meta",
+              "positive": true
+            }
+          ],
+          "comments": [
+            {
+              "text": "자동 추출 기능이랑 전투력 시스템 개편된 건 편해서 좋네요.",
+              "positive": true
+            },
+            {
+              "text": "특정 아이템 밸런스 붕괴랑 종족 불균형 문제는 제발 해결해주세요.",
+              "positive": false
+            },
+            {
+              "text": "보상을 상향한다더니 뒤로는 획득 확률을 낮추는 건 너무 속상해요.",
+              "positive": false
+            }
+          ]
+        }
+      ]
+    },
+    "drk": {
+      "enabled": true,
+      "title": "IP의 생존 법칙: 익숙함의 변주와 냉혹한 시장의 선택",
+      "intro": "화려하게 등장해 2주 만에 사라지는 게임과 출시 수년이 지나도 차트를 역주행하는 게임.\n우리는 지금 '어설픈 새로움'보다 '완성도 높은 익숙함'이 승리하는 냉혹한 시장에 살고 있습니다.",
+      "points": "최근 '일곱 개의 대죄: Origin'이 글로벌 시장에서 흥행하고 '드래곤네스트'가 모바일로 귀환하는 등, 검증된 IP(지식재산권) 기반의 확장이 시장을 주도하고 있습니다. 반면 엑스엘게임즈의 신작이 출시 2주 만에 서비스를 종료하고 테이크투가 효율화를 위해 AI 팀을 해고하는 사례는, 자본과 기술력이 투입되어도 시장의 선택을 받지 못하면 생존 자체가 불가능함을 시사합니다. 📉\n\n소비자들은 리스크를 회피하기 위해 이미 친숙한 세계관과 캐릭터에 지갑을 여는 '안정 지향적 소비 심리'를 보이고 있습니다. 이는 플랫폼 구조가 콘솔과 모바일을 넘나드는 크로스 플랫폼으로 정착됨에 따라 더욱 강화되었습니다. 강력한 IP는 플랫폼의 경계를 넘어 초기 사용자 유입을 보장하는 강력한 무기가 되지만, 반대로 신규 IP가 이 장벽을 뚫고 소비자에게 각인되기는 과거보다 훨씬 어려워진 양극화 구조가 고착되었습니다. ⚖️\n\n**결국 게임 산업의 핵심 역량은 단순히 새로운 것을 만드는 기술력이 아니라, 기존 IP의 가치를 현대적으로 재해석하여 플랫폼 간 경계를 허무는 '지속 가능한 콘텐츠 설계'에 있습니다.** 무분별한 브랜드 협업이나 이름값에 기댄 출시가 아닌, 원작의 핵심 재미를 유지하면서도 시스템적 진보를 보여주는 정교한 변주만이 까다로운 글로벌 게이머들을 설득할 수 있습니다. 💡\n\n여러분은 익숙한 즐거움을 주는 리마스터와 낯선 도전을 제안하는 신작 중 무엇에 더 끌리십니까? 검증된 재미의 계승과 파괴적 혁신 사이에서 게임 산업이 찾아야 할 최적의 균형점은 어디일지 진지하게 고민해 볼 때입니다. ❓"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "토막: 지구를 지켜라 리제네레이션",
+      "url": "https://store.epicgames.com/ko/p/tomak-save-the-earth-regeneration-c1207c",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-10jsb.png",
+      "comment": "**[이번 주 무료 배포 - 에픽게임즈 스토어]**\n\n🎁 **토막: 지구를 지켜라 리제네레이션** (~4/16 15:00)\n화분에 심어진 여신을 정성껏 돌봐 지구를 구하는 독특한 설정의 육성 시뮬레이션입니다. 플레이어의 선택과 관심에 따라 여신의 부활부터 지구의 멸망까지 다양한 엔딩을 확인할 수 있습니다.\n\n🎁 **Prop Sumo** (~4/16 15:00)\n일상적인 사물들이 주인공이 되어 격돌하는 유쾌한 파티 격투 게임입니다. 친구들과 함께 순위 경쟁을 하며 가볍고 즐겁게 플레이하기 좋은 인디 게임입니다.\n\n📅 **Next Week:** 4월 16일부터는 18세기 스페인 수도원을 배경으로 한 전술 잠입 게임 **'The Stone of Madness'**를 무료로 만나보실 수 있습니다.\n\n**[스팀 주말 혜택]**\n\n🧟 **Dying Light 2: Reloaded Edition** (75% 할인, 16,500원)\n화끈한 파쿠르 액션과 좀비 서바이벌이 결합된 오픈 월드 수작으로, 4월 14일 17시까지 역대급 할인가에 구매 가능합니다.",
+      "steam_deal": {
+        "type": "deal",
+        "name": "Dying Light 2: Reloaded Edition",
+        "app_id": 129576,
+        "url": "https://store.steampowered.com/app/129576",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/129576/361f974102857da0d3ad6e6d5a85b7b52be59b6e/header_ratio.jpg?t=1738590788",
+        "discount_percent": 75,
+        "original_price": "66,000원",
+        "final_price": "16,500원",
+        "end_date": "2026-04-14 17:00"
+      }
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=029&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=029&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Super Alloy Crash",
+        "releases.0.note": "A high-speed combat action game that combines 2D side-scrolling action with roguelike elements in a retro sci-fi setting has been released on Steam Early Access.",
+        "releases.0.dev": "Starry Tales",
+        "releases.1.game": "Dragon Nest World",
+        "releases.1.note": "A mobile MORPG inheriting the original Dragon Nest IP, officially released on April 9th, featuring the signature high-impact combat reconstructed for mobile.",
+        "releases.1.dev": "Identity Games",
+        "releases.2.game": "FAITH: The Unholy Trinity",
+        "releases.2.note": "The exorcism horror adventure game that maximizes terror with unique 8-bit style graphics has been officially released on PS5 with Korean language support.",
+        "releases.2.dev": "New Blood Interactive",
+        "releases.3.game": "No Man's Sky",
+        "releases.3.note": "A major update introducing a new creature collection and battle system has been applied, allowing players to enjoy multiplayer competition similar to Pokémon.",
+        "releases.3.dev": "Hello Games",
+        "releases.4.game": "PUBG: BATTLEGROUNDS",
+        "releases.4.note": "Through a collaboration update with the action game 'Stellar Blade,' appearance content for the protagonist Eve and special collaboration items have been added to the game.",
+        "releases.4.dev": "KRAFTON",
+        "releases.5.game": "Goddess of Victory: Nikke",
+        "releases.5.note": "The mysterious new Nikke 'Shiratsuru' has been released through the latest 'GOOD WORLD' update, along with a new side story for Anis.",
+        "releases.5.dev": "Shift Up",
+        "events.0.name": "Wuthering Waves x Samsung Store Hongdae Pop-up Event",
+        "events.0.note": "Offline exhibition and event celebrating the launch of the Galaxy S26 Ultra Accessory Edition",
+        "events.0.venue": "Samsung Store Hongdae (Offline)",
+        "events.1.name": "Women in Gaming UK",
+        "events.1.note": "A networking event for women in the gaming industry hosted by IGN Entertainment and Dentsu Gaming",
+        "events.1.venue": "UK (Offline)"
+      },
+      "briefing": {
+        "items.0.title": "'The Seven Deadly Sins: Origin' ranks #1 in Free Games across 3 regions on PS Store",
+        "items.0.source": "Inven",
+        "items.0.time": "April 9th",
+        "items.1.title": "XL Games' 'The Cube, Save Us' shuts down 2 weeks after launch",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "April 9th",
+        "items.2.title": "Newest entry in shooting series 'TATSUJIN' confirmed for July 30th release",
+        "items.2.source": "4Gamer",
+        "items.2.time": "April 9th",
+        "items.3.title": "'Warframe' New Prime 'Voruna Prime' Update",
+        "items.3.source": "4Gamer",
+        "items.3.time": "April 9th",
+        "items.4.title": "Fighting game 'Invincible VS' Open Beta trailer revealed",
+        "items.4.source": "IGN India",
+        "items.4.time": "April 9th",
+        "items.5.title": "New horror title 'Whispers of the Tall Grass' PC version announced",
+        "items.5.source": "IGN India",
+        "items.5.time": "April 9th",
+        "items.6.title": "Hazelight Studios surpasses 50 million cumulative sales",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "April 9th",
+        "items.7.title": "Take-Two lays off entire dedicated AI team as part of restructuring",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "April 9th"
+      },
+      "feedback": {
+        "items.0.game": "AION2",
+        "items.0.period": "Recent 30 Days",
+        "items.0.keywords.0.text": "Class Mention",
+        "items.0.keywords.1.text": "Dungeon / Raid Discussion",
+        "items.0.keywords.2.text": "DPS Comparison",
+        "items.0.keywords.3.text": "Buff/Nerf Debate",
+        "items.0.keywords.4.text": "Build Meta",
+        "items.0.comments.0.text": "I like that the auto-extraction feature and the combat power system revamp are convenient.",
+        "items.0.comments.1.text": "Please resolve the balance issues with specific items and the race imbalance problem.",
+        "items.0.comments.2.text": "It's very upsetting to see acquisition rates lowered behind the scenes after promising to buff rewards."
+      },
+      "drk": {
+        "title": "IP's Rule of Survival: Variations on the Familiar and the Market's Cold Choice",
+        "intro": "Games that appear brilliantly only to vanish within two weeks, and games that climb back up the charts years after release. We now live in a ruthless market where 'high-quality familiarity' triumphs over 'clumsy novelty'.",
+        "points": "With the recent success of 'The Seven Deadly Sins: Origin' in the global market and the return of 'Dragon Nest' to mobile, expansion based on proven IPs (Intellectual Property) is leading the market. On the other hand, instances like XL Games' new title shutting down service within two weeks and Take-Two laying off its AI team for efficiency suggest that even with capital and technology, survival is impossible without the market's selection. 📉\n\nConsumers are showing 'stability-oriented consumption sentiment,' opening their wallets to familiar worldviews and characters to avoid risks. This has been further strengthened as cross-platform structures between console and mobile have become established. While a strong IP serves as a powerful weapon ensuring initial user influx across platform boundaries, it has conversely solidified a polarized structure where it is much harder for new IPs to break through this barrier and leave an impression on consumers than in the past. ⚖️\n\n**Ultimately, the core competency of the gaming industry lies not simply in the technical ability to create something new, but in 'sustainable content design' that modernly reinterprets existing IP values to break down platform boundaries.** Not through indiscriminate brand collaborations or releases relying on name value, but only through sophisticated variations that maintain the core fun of the original while showing systemic progress, can sophisticated global gamers be persuaded. 💡\n\nAre you more drawn to remasters that offer familiar joy, or new titles that propose unfamiliar challenges? It is time to seriously consider where the optimal balance point for the gaming industry should be between inheriting proven fun and disruptive innovation. ❓"
+      },
+      "epic": {
+        "title": "Tomak: Save the Earth Regeneration",
+        "comment": "**[This Week's Free Giveaway - Epic Games Store]**\n\n🎁 **Tomak: Save the Earth Regeneration** (~4/16 15:00)\nA unique nurturing simulation where you save the Earth by carefully tending to a goddess planted in a flowerpot. Depending on the player's choices and attention, you can see various endings ranging from the goddess's resurrection to the destruction of the Earth.\n\n🎁 **Prop Sumo** (~4/16 15:00)\nA cheerful party fighting game where everyday objects clash as protagonists. It is an indie game perfect for light and enjoyable play while competing for rankings with friends.\n\n📅 **Next Week:** Starting April 16th, you can meet the tactical stealth game **'The Stone of Madness'**, set in an 18th-century Spanish monastery, for free.\n\n**[Steam Weekend Benefits]**\n\n🧟 **Dying Light 2: Stay Human - Reloaded Edition** (75% off, 16,500 KRW)\nA masterpiece of open-world action combining intense parkour and zombie survival, available at an all-time low price until 17:00 on April 14th."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "スーパーアロイクラッシュ (Super Alloy Crash)",
+        "releases.0.note": "レトロなSF世界観を舞台に、2D横スクロールアクションとローグライク要素を組み合わせた高速戦闘アクションゲームがSteamで早期アクセスとしてリリースされました。",
+        "releases.0.dev": "Starry Tales",
+        "releases.1.game": "ドラゴンネスト・ワールド",
+        "releases.1.note": "原作『ドラゴンネスト』のIPを継承したモバイルMORPGで、特有の打撃感あふれる戦闘をモバイル向けに再構成し、4月9日に正式リリースされました。",
+        "releases.1.dev": "アイデンティティゲームズ",
+        "releases.2.game": "FAITH: The Unholy Trinity",
+        "releases.2.note": "8ビット風の独特なグラフィックで恐怖を極限まで高めた悪魔祓いホラーアドベンチャーゲームが、韓国語対応とともにPS5版として正式リリースされました。",
+        "releases.2.dev": "New Blood Interactive",
+        "releases.3.game": "No Man's Sky",
+        "releases.3.note": "新規生命体の収集およびバトルシステムを導入した大規模アップデートが適用され、まるでポケモンのようなマルチプレイヤー競争を楽しむことができます。",
+        "releases.3.dev": "Hello Games",
+        "releases.4.game": "PUBG: BATTLEGROUNDS",
+        "releases.4.note": "アクションゲーム『ステラブレイド』とのコラボアップデートを通じて、主人公イヴの外見コンテンツや特別コラボアイテムがゲーム内に追加されました。",
+        "releases.4.dev": "KRAFTON",
+        "releases.5.game": "勝利の女神：NIKKE",
+        "releases.5.note": "最新バージョン「GOOD WORLD」アップデートを通じて、謎の新規ニケ「シラツル」がリリースされ、アニスの新しいサイドストーリーが公開されました。",
+        "releases.5.dev": "SHIFT UP",
+        "events.0.name": "『鳴潮（メイチョウ）』× サムスンストア弘大 ポップアップイベント",
+        "events.0.note": "Galaxy S26 Ultra チシャ・アクセサリーエディション発売記念のオフライン展示およびイベント",
+        "events.0.venue": "サムスンストア弘大（オフライン）",
+        "events.1.name": "Women in Gaming UK",
+        "events.1.note": "IGN EntertainmentとDentsu Gamingが主催する女性ゲーム業界従事者のネットワーキングイベント",
+        "events.1.venue": "イギリス（オフライン）"
+      },
+      "briefing": {
+        "items.0.title": "『七つの大罪 Origin』PSストア3地域で無料1位",
+        "items.0.source": "inven",
+        "items.0.time": "4月9日",
+        "items.1.title": "XL Games『The Cube, Save Us』リリースから2週間でサービス終了",
+        "items.1.source": "GameMeca",
+        "items.1.time": "4월 9일",
+        "items.2.title": "シューティング『TATSUJIN』最新作、7月30日に発売決定",
+        "items.2.source": "4Gamer",
+        "items.2.time": "4월 9일",
+        "items.3.title": "『Warframe』新プライム「Voruna Prime」アップデート",
+        "items.3.source": "4Gamer",
+        "items.3.time": "4월 9일",
+        "items.4.title": "格闘ゲーム『Invincible VS』オープンベータトレーラー公開",
+        "items.4.source": "IGN India",
+        "items.4.time": "4월 9일",
+        "items.5.title": "ホラー新作『Whispers of the Tall Grass』PC版が発表",
+        "items.5.source": "IGN India",
+        "items.5.time": "4월 9일",
+        "items.6.title": "Hazelight Studios、累計販売数5,000万本を突破",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "4월 9일",
+        "items.7.title": "テイクツー、構造調整の一環としてAI専門チームの全員を解雇",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "4월 9일"
+      },
+      "feedback": {
+        "items.0.game": "AION2",
+        "items.0.period": "直近30日間",
+        "items.0.keywords.0.text": "Class Mention",
+        "items.0.keywords.1.text": "Dungeon / Raid Discussion",
+        "items.0.keywords.2.text": "DPS Comparison",
+        "items.0.keywords.3.text": "Buff/Nerf Debate",
+        "items.0.keywords.4.text": "Build Meta",
+        "items.0.comments.0.text": "自動抽出機能と戦闘力システムが改編されたのは便利で良いですね。",
+        "items.0.comments.1.text": "特定のアイテムのバランス崩壊と種族の不均衡問題は、どうか解決してください。",
+        "items.0.comments.2.text": "報酬を上方修正すると言いながら、裏で獲得確率を下げるのはとても悲しいです。"
+      },
+      "drk": {
+        "title": "IPの生存法則：馴染み深さの変奏と冷酷な市場の選択",
+        "intro": "華々しく登場して2週間で消えるゲームと、発売から数年経ってもチャートを逆走するゲーム。私たちは今、「中途半端な新しさ」よりも「完成度の高い馴染み深さ」が勝利する冷酷な市場に生きています。",
+        "points": "最近『七つの大罪 Origin』がグローバル市場でヒットし、『ドラゴンネスト』がモバイルで復活するなど、検証済みのIP（知的財産権）ベースの拡張が市場を主導しています。一方で、XL Gamesの新作がリリースから2週間でサービスを終了し、テイクツーが効率化のためにAIチームを解雇した事例は、資本と技術力が投入されても市場の選択を受けられなければ生存自体が不可能であることを示唆しています。📉\n\n消費者はリスクを回避するため、すでに親しみのある世界観やキャラクターに財布を開く「安定志向の消費心理」を見せています。これはプラットフォーム構造がコンソールとモバイルを行き来するクロスプラットフォームとして定着したことに伴い、さらに強化されました。強力なIPはプラットフォームの境界を超えて初期ユーザーの流入を保証する強力な武器となりますが、逆に新規IPがこの障壁を突き破って消費者に刻み込まれることは、過去よりもはるかに困難な二極化構造が固着しました。⚖️\n\n**結局、ゲーム産業の核心的な能力は、単に新しいものを作る技術力ではなく、既存のIPの価値を現代的に再解釈し、プラットフォーム間の境界を打ち破る「持続可能なコンテンツ設計」にあります。** 無分別なブランドコラボや名前負けしたリリースではなく、原作の核心的な楽しさを維持しながらもシステム的な進歩を見せる精巧な変奏だけが、目の肥えたグローバルゲーマーを納得させることができます。💡\n\n皆さんは、慣れ親しんだ楽しみを与えるリマスターと、未知の挑戦を提案する新作のどちらに惹かれますか？検証済みの面白さの継承と破壊的イノベーションの間で、ゲーム産業が見出すべき最適な均衡点はどこにあるのか、真剣に考えるべき時です。❓"
+      },
+      "epic": {
+        "title": "TOMAK〜Save the Earth〜 リジェネレーション",
+        "comment": "**[今週の無料配布 - Epic Games Store]**\n\n🎁 **TOMAK〜Save the Earth〜 リジェネレーション** (~4/16 15:00)\n鉢植えに植えられた女神を大切に育てて地球を救う、独特な設定の育成シミュレーションです。プレイヤーの選択と関心に応じて、女神の復活から地球の滅亡まで、多様なエンディングを確認することができます。\n\n🎁 **Prop Sumo** (~4/16 15:00)\n日常的な物体が主人公となって激突する、愉快なパーティー格闘ゲームです。友達と一緒にランキングを競い合いながら、手軽に楽しくプレイできるインディーゲームです。\n\n📅 **Next Week:** 4月16日からは、18世紀のスペインの修道院を舞台にしたタクティカル潜入ゲーム **『The Stone of Madness』** を無料でお受け取りいただけます。\n\n**[Steam週末特典]**\n\n🧟 **Dying Light 2: Stay Human - Reloaded Edition** (75% OFF, 16,500ウォン)\n派手なパルクールアクションとゾンビサバイバルが融合したオープンワールドの名作で、4月14日17時まで過去最高クラスの割引価格で購入可能です。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "살아남는 IP의 절대 법칙 🧬 (feat. 전설의 '토막' 무료 배포!) 🎁",
+    "en": "The secret to IP survival 🧬 (and a legendary FREE game inside! 🎁)",
+    "ja": "生き残るIPの絶対条件 🧬 & あの『トマック』が今だけ無料！？🎁"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ]
+}

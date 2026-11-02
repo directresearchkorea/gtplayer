@@ -1,0 +1,86 @@
+{
+  "num": "002",
+  "date": "2026-03-19",
+  "status": "draft",
+  "schedule": { "date": "", "time": "07:00", "target": "all", "languages": ["ko", "en"] },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        { "game": "Monster Hunter Wilds", "dev": "Capcom", "date": "3월 20일(목)", "platforms": ["PC", "PS5", "Xbox"], "color": "#10b981", "note": "정식 출시" },
+        { "game": "Assassin's Creed Shadows", "dev": "Ubisoft", "date": "3월 21일(금)", "platforms": ["PC", "PS5"], "color": "#6366f1", "note": "" },
+        { "game": "Clair Obscur: Expedition 33", "dev": "Sandfall Interactive", "date": "3월 24일(월)", "platforms": ["PC", "PS5", "Xbox"], "color": "#f59e0b", "note": "Game Pass Day 1" }
+      ],
+      "events": [
+        { "name": "Nintendo Direct", "note": "Switch 2 공개 예정", "venue": "온라인", "date": "3월 21일 23:00 KST", "tag": "글로벌 이벤트" }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        { "tag": "출시", "tagBg": "#dcfce7", "tagColor": "#15803d", "title": "Monster Hunter Wilds 글로벌 동시 출시 — 역대 Capcom 최대 사전예약 기록 달성", "source": "게임메카", "time": "3월 19일 09:00" },
+        { "tag": "업데이트", "tagBg": "#dbeafe", "tagColor": "#1e40af", "title": "메이플스토리, 25주년 기념 겨울 대규모 업데이트 '리메이크' 사전공개", "source": "인벤", "time": "3월 19일 07:30" },
+        { "tag": "인수합병", "tagBg": "#ccfbf1", "tagColor": "#0f766e", "title": "사우디 Savvy Games, 일본 중견 게임사 2곳 추가 인수 — 총 투자 50억 달러 돌파", "source": "Bloomberg", "time": "3월 18일 22:00" },
+        { "tag": "할인", "tagBg": "#fee2e2", "tagColor": "#b91c1c", "title": "PlayStation Store 봄맞이 세일 시작 — FF7 Rebirth -50%, Stellar Blade -40%", "source": "PlayStation Blog", "time": "3월 18일 18:00" },
+        { "tag": "이슈", "tagBg": "#fce7f3", "tagColor": "#be185d", "title": "Unity 런타임 과금 정책 재논의 — 인디 개발사 연합 공동 성명 발표", "source": "GamesIndustry.biz", "time": "3월 18일 15:00" }
+      ]
+    },
+    "feedback": {
+      "enabled": true,
+      "game": "AION2",
+      "period": "최근 3일 (03/19 기준)",
+      "count": "1,044",
+      "sources": "인벤",
+      "score": "2.7",
+      "pos": 5,
+      "neu": 75,
+      "neg": 20,
+      "keywords": [
+        { "text": "🎮 직업 밸런스", "positive": false },
+        { "text": "⚔️ 던전/레이드", "positive": true },
+        { "text": "📊 딜 비교 논쟁", "positive": false },
+        { "text": "🔄 너프/버프", "positive": false },
+        { "text": "🛡️ 빌드 메타", "positive": true },
+        { "text": "💰 재화 이슈", "positive": false }
+      ],
+      "comments": [
+        { "text": "사실상 천족 1섭 기준 주미온 마을 및 파티모집창도 하루종일 휑한 수준. 매칭도 오래 걸리고 접는 사람이 점점 늘어나는 게 눈에 보인다.", "meta": "'아이온2가 망하게된 이유 Top 5' · 조회 6,347 · 3월 9일", "positive": false },
+        { "text": "무의 요람 막넴 딜미터기 기준 궁성이 초월이던 원정이던 항상 1등. 인간적으로 양심은 챙기자, 다른 직업은 뭘로 경쟁하라는 건지.", "meta": "'궁성 딜 폭로 양심선언' · 조회 4,156 · 3월 9일", "positive": false },
+        { "text": "운빨 요소가 너무 많음. 내 노력과 무관한 스펙들이 너무 큰 폭을 차지함. 루드라 장비 드랍 확률이 체감상 0%.", "meta": "'이겜이 짜증나는 이유' · 조회 3,228 · 3월 8일", "positive": false },
+        { "text": "수호 전직 이후 체감이 확 달라짐. PVE 탱킹도 안정적이고 PVP에서도 생존력이 좋아서 즐겁게 하고 있음.", "meta": "'수호 전직 후기' · 조회 1,882 · 3월 10일", "positive": true }
+      ]
+    },
+    "drk": {
+      "enabled": true,
+      "title": "Monster Hunter Wilds가 증명하는 것 — 잘 만든 속편의 가치",
+      "intro": "이번 주 가장 큰 뉴스는 단연 Monster Hunter Wilds의 출시입니다. Capcom이 역대 최대 사전 예약이라는 수식어를 들고 나왔는데, 이건 단순한 마케팅의 승리가 아닙니다.",
+      "points": "① Wilds는 'World'라는 성공 위에 쌓은 정석적 속편입니다. 새로운 걸 억지로 만드는 게 아니라, 팬들이 원하는 방향으로 확장했죠.\n\n② 싱글과 멀티의 경계를 허문 심리스 온라인 구조가 핵심입니다. 요즘 게이머들은 '혼자 해도 되고, 같이 해도 되는' 게임을 원합니다.\n\n③ 교훈: 잘 만든 IP 하나가 10개의 신규 IP보다 낫다. Capcom은 이걸 RE 엔진 시절부터 꾸준히 증명하고 있습니다."
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "Monster Hunter Wilds",
+      "title": "끝없이 펼쳐진 금빛 사막, 그 너머의 포효.",
+      "imgUrl": "assets/gamescene_002.png",
+      "comment": "거대한 몬스터 앞에서 무기를 드는 순간, 당신은 사냥꾼이 된다. Capcom의 자연은 언제나 경외감을 준다."
+    },
+    "chart": {
+      "enabled": true,
+      "pc": [
+        { "game": "Monster Hunter Wilds", "change": "▲NEW" },
+        { "game": "Path of Exile 2", "change": "" },
+        { "game": "Counter-Strike 2", "change": "" }
+      ],
+      "console": [
+        { "game": "Monster Hunter Wilds", "change": "▲NEW" },
+        { "game": "Gran Turismo 8", "change": "" },
+        { "game": "Elden Ring: Nightreign", "change": "▼1" }
+      ],
+      "mobile": [
+        { "game": "Genshin Impact", "change": "" },
+        { "game": "Wuthering Waves", "change": "▲2" },
+        { "game": "Honor of Kings", "change": "▼1" }
+      ]
+    }
+  },
+  "translations": { "en": {}, "ja": {} }
+}

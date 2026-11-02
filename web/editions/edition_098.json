@@ -1,0 +1,427 @@
+{
+  "num": "098",
+  "date": "2026-08-07",
+  "status": "published",
+  "schedule": {
+    "date": "2026-08-07",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "NBA 덩크 시티",
+          "dev": "넷이즈게임즈",
+          "date": "8월 6일(목)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "8월 6일 정식 출시된 모바일 스트리트 농구 게임으로, NBA 공식 라이선스를 취득해 유명 선수들을 직접 조작할 수 있습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1778794",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "필드 오브 미스트리아",
+          "dev": "NPC 스튜디오",
+          "date": "8월 6일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 6일 1.0 정식 버전으로 출시된 농장 시뮬레이션 게임으로, 신규 공식 한국어 지원과 함께 결혼 시스템 등 다양한 신규 콘텐츠가 추가되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1778828",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "고스트 리콘 와일드랜드",
+          "dev": "유비소프트",
+          "date": "8월 6일(목)",
+          "platforms": [
+            "PC",
+            "PS4",
+            "Xbox One"
+          ],
+          "color": "#3b82f6",
+          "note": "8월 6일 배포된 무료 대규모 업데이트 '라스트 라이츠'를 통해 신규 스토리 임무와 신규 적 세력이 추가되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319285",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "던전앤파이터",
+          "dev": "네오플",
+          "date": "8월 6일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "8월 6일 업데이트를 통해 최대 12인이 도전하는 최상위 신규 레이드 '무너진 성자 미카엘라'가 추가되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319262",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "세븐나이츠 리버스",
+          "dev": "넷마블",
+          "date": "8월 6일(목)",
+          "platforms": [
+            "Mobile",
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "8월 6일 서머 바캉스 대규모 업데이트로 신규 전설 영웅 '동영'과 각성 영웅 '녹스', 그리고 여름 이벤트 시나리오가 추가되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319260",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "마블 투혼: 파이팅 소울즈",
+          "dev": "아크시스템웍스",
+          "date": "8월 7일(금)",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "color": "#10b981",
+          "note": "8월 7일 정식 출시되는 대전 격투 게임으로, 마블 히어로 히어로들을 조작하여 다양한 협력 태그 액션을 즐길 수 있습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319276",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "VCT 퍼시픽 스테이지 2 4주 차",
+          "note": "플레이오프 직행권이 걸린 그룹 스테이지 마지막 일정 삼파전",
+          "venue": "온라인 (유튜브, 아프리카TV 등)",
+          "date": "2026-08-07 ~",
+          "tag": "e스포츠",
+          "website": "https://www.gamemeca.com/view.php?gid=1778801"
+        },
+        {
+          "name": "포켓몬 메가페스타 2026 - 별빛낙원",
+          "note": "포켓몬 탄생 30주년 기념 롯데백화점 잠실점 협업 오프라인 행사",
+          "venue": "롯데백화점 잠실점",
+          "date": "2026-08",
+          "tag": "오프라인 행사",
+          "website": "https://www.gamemeca.com/view.php?gid=1778817"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "오버워치, 新한국 영웅 '디몬' 트레일러 공개",
+          "source": "인벤",
+          "time": "8월 7일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319284"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "미호요, 게임 유출자에 징역형… 中 첫 형사 판결",
+          "source": "인벤",
+          "time": "8월 6일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319272"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'포켓몬' 초판 패키지 3종, 200만 달러 경매 낙찰",
+          "source": "IGN India",
+          "time": "8월 6일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/pokemon-blue-version/268211/three-first-print-copies-of-pokemon-red-blue-and-yellow-sell-for-2-million-in-second-largest-video-g"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "인기 소설 '워리어 캣츠', 대형 게임화 프로젝트 발표",
+          "source": "IGN India",
+          "time": "8월 6일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/news/268208/the-warrior-cats-books-are-finally-getting-a-major-video-game-adaptation"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "닌텐도 1분기 영업익 150% 급증… 관세 환급 영향",
+          "source": "4Gamer",
+          "time": "8월 6일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/999/G999905/20260806046/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "인디 FPS 'HOLE' 10만 장 돌파… 차기작 개발 착수",
+          "source": "4Gamer",
+          "time": "8월 6일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/806/G080670/20260806057/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "사우디 PIF, 550억 달러 규모 EA 인수 절차 완료",
+          "source": "GamesIndustry.biz",
+          "time": "8월 6일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/electronic-arts-completes-55bn-acquisition-ceo-announces-senior-leadership-changes"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "550억 달러의 거대 자본이 바꿀 글로벌 게임 생태계 🇸🇦🎮",
+      "intro": "550억 달러라는 사상 최대 규모로 EA를 수중에 넣은 오일 머니는 게임 산업의 축복일까요, 아니면 위기일까요?\n거대 자본의 유입이 개발 환경과 게이머들의 소비 방식에 미칠 거대한 지각변동을 분석합니다.",
+      "points": "사우디아라비아 국부펀드(PIF)가 550억 달러 규모의 EA 인수를 최종 완료하며 글로벌 게임 시장에 거대한 지각변동을 일으켰습니다. 💰 'EA 스포츠 FC', '배틀필드' 등 글로벌 메가 IP를 보유한 거대 출판사가 오일 머니라는 막강한 자본력을 공식적으로 등에 업게 된 순간입니다.\n\n이번 인수는 향후 게임 소비 구조와 플랫폼 생태계 전반에 깊은 영향을 미칠 것입니다. 상장기업 특유의 단기 수익성 압박에서 벗어나 장기적인 프로젝트 투자가 가능해지는 반면, 라이브 서비스 게임의 비즈니스 모델 변동성에 대한 게이머들의 심리적 불안감도 공존하고 있습니다. 🔍\n\n이제 거대 자본은 단순한 금융 투자자를 넘어 **게임산업의 패러다임을 직접 주도하는 핵심 설계자**로 자리매김했습니다. 단기적 매출 증대보다는 IP의 다각화와 장기적 미디어 생태계 확장에 집중하는 거시적 전략 전환이 본격화될 것입니다. ⚡\n\n거대 국부펀드와 연합한 EA의 행보가 대작 IP의 혁신으로 이어질지, 혹은 독창성 결여로 이어질지 유심히 지켜볼 필요가 있습니다. 🔮 거대 자본이 재편할 새로운 게임 시장에서 게이머들은 어떤 가치를 요구해야 할까요?"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "We Were Here Together",
+      "url": "https://store.epicgames.com/ko/p/we-were-here-together-6a6d66",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-1w9jc.png",
+      "comment": "🎮 **이번 주말 게임 혜택**\n\n🎁 **에픽게임즈 무료 배포** (~8/14 00:00까지)\n• **We Were Here Together**\n설원에 갇힌 조난자를 구하기 위해 무전기로 소통하며 난관을 헤쳐나가는 2인 협동 퍼즐 어드벤처입니다. 친구와 함께 서로의 목소리에 의지하며 긴장감 넘치는 협동의 재미를 느껴보세요!\n\n🔮 **Next Week**\n매혹적인 황무지를 배경으로 펼쳐지는 서사 중심 탐험 어드벤처 **Caravan SandWitch**가 찾아옵니다.\n\n🔥 **스팀 주말 혜택** (~8/11 02:00까지)\n화려한 미래 도시 나이트 시티를 배경으로 펼쳐지는 오픈월드 RPG **Cyberpunk 2077**을 8월 11일 새벽 2시까지 큰 할인 혜택으로 만나보세요.",
+      "steam_deal": {
+        "type": "deal",
+        "name": "Cyberpunk 2077",
+        "app_id": 1091500,
+        "url": "https://store.steampowered.com/app/1091500",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/26b96fa9c8af43189cbecbbc329ade29d9c9cf3e/header_koreana.jpg?t=1784714077",
+        "discount_percent": 70,
+        "original_price": 6600000,
+        "final_price": 1980000,
+        "end_date": "2026-08-11 02:00"
+      },
+      "epic_current": [
+        {
+          "title": "We Were Here Together",
+          "description": "얼어붙은 땅을 탐험하는 중에 다시 한 번 불운이 찾아왔습니다. 맹렬한 눈보라를 뚫고 비상용 신호탄이 하늘을 밝힌 뒤 무전을 통해 도움을 구하는 울부짖는 소리가 들립니다. 무전이 끊깁니다... 누구도 그들을 구하러 갈 수 없습니다. 하지만 함께라면 할 수 있지 않을까요?",
+          "url": "https://store.epicgames.com/ko/p/we-were-here-together-6a6d66",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-1w9jc.png",
+          "end_date": "2026-08-14 00:00"
+        }
+      ],
+      "epic_upcoming": [
+        {
+          "title": "Caravan SandWitch",
+          "description": "매혹적인 서사 중심의 탐험 어드벤처, Caravan SandWitch에서 광대한 풍경을 가로지르는 여정을 떠납니다.",
+          "url": "https://store.epicgames.com/ko/p/caravan-sandwitch-05ff58",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-1uz0l.jpg",
+          "start_date": "2026-08-14 00:00"
+        }
+      ],
+      "epic_discounted": []
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=098&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=098&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Dunk City Dynasty",
+        "releases.0.note": "A mobile street basketball game officially released on August 6, featuring an official NBA license that allows players to directly control famous players.",
+        "releases.0.dev": "NetEase Games",
+        "releases.1.game": "Fields of Mistria",
+        "releases.1.note": "A farming simulation game released in version 1.0 on August 6, adding new content such as a marriage system along with official Korean language support.",
+        "releases.1.dev": "NPC Studio",
+        "releases.2.game": "Tom Clancy's Ghost Recon Wildlands",
+        "releases.2.note": "Through the free major update 'Last Rites' released on August 6, new story missions and a new enemy faction were added.",
+        "releases.2.dev": "Ubisoft",
+        "releases.3.game": "Dungeon Fighter Online",
+        "releases.3.note": "Through the August 6 update, a new top-tier raid 'Fallen Saint Michael' challenging up to 12 players was added.",
+        "releases.3.dev": "Neople",
+        "releases.4.game": "Seven Knights Re:Birth",
+        "releases.4.note": "With the August 6 Summer Vacation major update, a new legendary hero 'Dongyeong', awakened hero 'Nox', and a summer event scenario were added.",
+        "releases.4.dev": "Netmarble",
+        "releases.5.game": "Marvel Fighting Souls",
+        "releases.5.note": "A fighting game officially releasing on August 7, where players can control Marvel heroes to enjoy various cooperative tag-team action.",
+        "releases.5.dev": "Arc System Works",
+        "events.0.name": "VCT Pacific Stage 2 Week 4",
+        "events.0.note": "A three-way battle in the final schedule of the group stage with direct playoff spots on the line",
+        "events.0.venue": "Online (YouTube, AfreecaTV, etc.)",
+        "events.1.name": "Pokémon Mega Festa 2026 - Starlight Paradise",
+        "events.1.note": "An offline collaborative event at Lotte Department Store Jamsil Branch celebrating the 30th anniversary of Pokémon",
+        "events.1.venue": "Lotte Department Store Jamsil Branch"
+      },
+      "briefing": {
+        "items.0.title": "Overwatch Releases Trailer for New Korean Hero 'Demon'",
+        "items.0.source": "Inven",
+        "items.0.time": "August 7",
+        "items.1.title": "miHoYo Leaker Sentenced to Prison... First Criminal Verdict in China",
+        "items.1.source": "Inven",
+        "items.1.time": "August 6",
+        "items.2.title": "Three First-Edition 'Pokémon' Box Sets Sold for $2 Million at Auction",
+        "items.2.source": "IGN India",
+        "items.2.time": "August 6",
+        "items.3.title": "Popular Novel 'Warrior Cats' Announces Major Game Adaptation Project",
+        "items.3.source": "IGN India",
+        "items.3.time": "August 6",
+        "items.4.title": "Nintendo Q1 Operating Profit Surges 150%... Driven by Tariff Refunds",
+        "items.4.source": "4Gamer",
+        "items.4.time": "August 6",
+        "items.5.title": "Indie FPS 'HOLE' Surpasses 100,000 Copies Sold... Sequel Development Underway",
+        "items.5.source": "4Gamer",
+        "items.5.time": "August 6",
+        "items.6.title": "Saudi PIF Completes $55 Billion Acquisition of EA",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "August 6"
+      },
+      "drk": {
+        "title": "How $55 Billion in Massive Capital Will Reshape the Global Gaming Ecosystem 🇸🇦🎮",
+        "intro": "Is oil money acquiring EA for an unprecedented $55 billion a blessing or a crisis for the gaming industry?\nWe analyze the massive tectonic shift that this influx of giant capital will bring to the development environment and gamers' consumption patterns.",
+        "points": "Saudi Arabia's Public Investment Fund (PIF) has officially finalized its $55 billion acquisition of EA, causing a massive tectonic shift in the global gaming market. 💰 This marks the moment when a massive publisher boasting global mega-IPs like 'EA Sports FC' and 'Battlefield' officially gains the backing of powerful capital known as oil money.\n\nThis acquisition will deeply impact the overall gaming consumption structure and platform ecosystem in the future. While freeing the company from the short-term profitability pressures typical of publicly traded companies allows for long-term project investments, gamers also feel psychological anxiety regarding potential changes to the business models of live-service games. 🔍\n\nNow, massive capital has moved beyond simple financial investment to establish itself as a **core architect directly driving the paradigm of the gaming industry**. A macro strategic shift will begin in earnest, focusing on IP diversification and long-term media ecosystem expansion rather than short-term revenue growth. ⚡\n\nIt is worth watching closely whether EA's steps in alliance with a massive sovereign wealth fund will lead to innovation in blockbuster IPs or a lack of originality. 🔮 What values should gamers demand in the new gaming market reshaped by giant capital?"
+      },
+      "epic": {
+        "title": "We Were Here Together",
+        "comment": "🎮 **Weekend Gaming Deals**\n\n🎁 **Epic Games Free Giveaway** (~August 13, 15:00 UTC)\n• **We Were Here Together**\nA 2-player cooperative puzzle adventure where players communicate via walkie-talkie to overcome obstacles and rescue stranded survivors in a frozen wasteland. Depend on each other's voices with a friend and experience the thrilling fun of cooperation!\n\n🔮 **Next Week**\n**Caravan SandWitch**, a narrative-driven exploration adventure set in a captivating wasteland, is coming soon.\n\n🔥 **Steam Weekend Deals** (~August 10, 17:00 UTC)\nEnjoy **Cyberpunk 2077**, an open-world RPG set in the glamorous future city of Night City, with a huge discount until August 10 at 17:00 UTC."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "NBA ダンクシティ",
+        "releases.0.note": "8月6日に正式リリースされたモバイルストリートバスケットボールゲームで、NBA公式ライセンスを取得し、有名選手を直接操作できます。",
+        "releases.0.dev": "NetEase Games",
+        "releases.1.game": "Fields of Mistria",
+        "releases.1.note": "8월 6日1.0正式バージョンとしてリリースされた農場シミュレーションゲームで、新たな公式韓国語対応とともに結婚システムなど多様な新コンテンツが追加されました。",
+        "releases.1.dev": "NPC Studio",
+        "releases.2.game": "ゴーストリコン ワイルドランズ",
+        "releases.2.note": "8月6日に配信された無料大型アップデート「ラスト・ライツ」を通じて、新しいストーリーミッションと新しい敵勢力が追加されました。",
+        "releases.2.dev": "Ubisoft",
+        "releases.3.game": "アラド戦記",
+        "releases.3.note": "8月6日のアップデートを通じて、最大12人で挑戦する最上位の新レイド「崩れた聖者ミカエラ」が追加されました。",
+        "releases.3.dev": "NEOPLE",
+        "releases.4.game": "セブン나イツ リバース",
+        "releases.4.note": "8月6日のサマーバカンス大型アップデートで、新伝説英雄「ドンヨン」と覚醒英雄「ノックス」、そして夏イベントシナリオが追加されました。",
+        "releases.4.dev": "Netmarble",
+        "releases.5.game": "MARVEL Fighting Souls",
+        "releases.5.note": "8月7日に正式リリースされる対戦格闘ゲームで、マーベルヒーローたちを操作して多様な協力タグアクションを楽しむことができます。",
+        "releases.5.dev": "アークシステムワークス",
+        "events.0.name": "VCT Pacific Stage 2 Week 4",
+        "events.0.note": "プレイオフ直行権をかけたグループステージ最後の日程の三つ巴の戦い",
+        "events.0.venue": "オンライン（YouTube、AfreecaTVなど）",
+        "events.1.name": "ポケモンメガフェスタ2026 - 星空の楽園",
+        "events.1.note": "ポケモン誕生30周年記念 ロッテ百貨店蚕室店コラボオフラインイベント",
+        "events.1.venue": "ロッテ百貨店 蚕室店"
+      },
+      "briefing": {
+        "items.0.title": "『オーバーウォッチ』、新韓国ヒーロー「ディーモン」のトレーラーを公開",
+        "items.0.source": "Inven",
+        "items.0.time": "8月7日",
+        "items.1.title": "miHoYo、リーク者に懲役刑… 中国初の刑事判決",
+        "items.1.source": "Inven",
+        "items.1.time": "8月6日",
+        "items.2.title": "『ポケモン』初期版パッケージ3種、200万ドルでオークション落札",
+        "items.2.source": "IGN India",
+        "items.2.time": "8월 6日",
+        "items.3.title": "人気小説『ウォーリアーズ』、大型ゲーム化プロジェクトを発表",
+        "items.3.source": "IGN India",
+        "items.3.time": "8月6日",
+        "items.4.title": "任天堂の第1四半期営業利益が150%急増… 関税還付の影響",
+        "items.4.source": "4Gamer",
+        "items.4.time": "8月6日",
+        "items.5.title": "インディーFPS『HOLE』10万本突破… 次回作の開発に着手",
+        "items.5.source": "4Gamer",
+        "items.5.time": "8月6日",
+        "items.6.title": "サウジPIF、550億ドル規模のEA買収手続きを完了",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "8月6日"
+      },
+      "drk": {
+        "title": "550億ドルの巨大資本が変えるグローバルゲームエコシステム 🇸🇦🎮",
+        "intro": "550億ドルという史上最大規模でEAを手中に収めたオイルマネーはゲーム産業の祝福でしょうか、それとも危機でしょうか？\n巨大資本の流入が開発環境とゲーマーの消費スタイルに及ぼす巨大な地殻変動を分析します。",
+        "points": "サウジアラビア政府系ファンド（PIF）が550億ドル規模のEA買収を最終完了し、グローバルゲーム市場に巨大な地殻変動を引き起こしました。💰 『EA SPORTS FC』や『バトルフィールド』など、グローバルメガIPを保有する巨大パブリッシャーが、オイルマネーという強力な資本力を公式に背負うことになった瞬間です。\n\n今回の買収は、今後のゲーム消費構造やプラットフォームのエコシステム全般に深い影響を与えるでしょう。上場企業特有の短期的な収益性の圧力から解放され、長期的なプロジェクトへの投資が可能になる一方で、ライブサービスゲームのビジネスモデルの変動に対するゲーマーたちの心理的な不安も共存しています。🔍\n\n今や巨大資本は単なる金融投資家を超え、**ゲーム産業のパラダイムを直接主導する中核的な設計者**として定着しました。短期的な売上増加よりも、IPの多角化と長期的なメディアエコシステムの拡大に集中する巨視的な戦略転換が本格化するはずです。⚡\n\n巨大政府系ファンドと連合したEAの動向が、大作IPの革新につながるのか、あるいは独創性の欠如につながるのか、注視する必要があります。🔮 巨大資本が再編する新しいゲーム市場で、ゲーマーたちはどのような価値を求めるべきでしょうか？"
+      },
+      "epic": {
+        "title": "We Were Here Together",
+        "comment": "🎮 **今週末のゲーム特典**\n\n🎁 **Epic Games 無料配布**（〜8/14 00:00まで）\n• **We Were Here Together**\n雪原に閉じ込められた遭難者を救うため、トランシーバーで通信しながら難関を乗り越えていく2人協力プレイのパズルアドベンチャーです。友達と一緒に互いの声に頼りながら、緊張感あふれる協力プレイの楽しさを体験してみてください！\n\n🔮 **Next Week**\n魅惑的な荒野を舞台に繰り広げられるストーリー重視の探索アドベンチャー**Caravan SandWitch**が登場します。\n\n🔥 **Steam 週末特典**（〜8/11 02:00まで）\n華やかな未来都市ナイトシティを舞台に繰り広げられるオープンワールドRPG **Cyberpunk 2077**を8月11日午前2時まで大幅割引でお求めいただけます。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "550억 달러 거대 자본이 바꿀 게임 시장의 미래! 🇸🇦 (feat. 에픽 무료 배포🎁)",
+    "en": "$55 Billion is Shaking Up the Gaming World! 🇸🇦 (feat. Free Epic Game Claim 🎁)",
+    "ja": "550億ドルの巨額資金がゲーム界を激変させる！？🇸🇦 (feat. Epic無料配布🎁)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "num": "115",
+  "date": "2026-09-01",
+  "status": "published",
+  "schedule": {
+    "date": "2026-09-01",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "크림슨 문",
+          "dev": "인디 개발사",
+          "date": "9월 1일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 1일 PC(스팀)로 정식 출시되는 3인칭 다크 판타지 액션 어드벤처 게임입니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/crimson-moon/270586/crimson-moon-official-beginners-gameplay-guide-trailer",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "release",
+          "game": "더 블러드 오브 던워커",
+          "dev": "리벨 울브스",
+          "date": "9월 2일(수)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "XSX"
+          ],
+          "color": "#10b981",
+          "note": "9월 2일 출시되는 다크 판타지 액션 RPG로, 낮과 밤에 따라 인간과 뱀파이어의 능력을 오가며 전투를 펼칩니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/the-blood-of-dawnwalker/270583/the-blood-of-dawnwalker-video-review",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "release",
+          "game": "귀무자: 검의 길",
+          "dev": "캡콤",
+          "date": "9월 3일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "XSX"
+          ],
+          "color": "#10b981",
+          "note": "9월 3일 정식 출시되는 귀무자 시리즈 신작 액션 어드벤처 게임입니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/onimusha-way-of-the-sword/270584/onimusha-way-of-the-sword-video-review",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "release",
+          "game": "NBA 2K27",
+          "dev": "비주얼 컨셉",
+          "date": "9월 3일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "XSX"
+          ],
+          "color": "#10b981",
+          "note": "9월 3일 PC와 콘솔 플랫폼으로 공식 출시되는 2K의 최신 대표 농구 시뮬레이션 게임입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4356430/NBA_2K27/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "스피드러너스 2: 킹 오브 스피드",
+          "dev": "더블더치 게임즈",
+          "date": "9월 3일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 3일 스팀을 통해 정식 출시되는 4인 멀티플레이 경쟁 러닝 액션 게임입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3183760/SpeedRunners_2_King_of_Speed/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "플레이스테이션 스테이트 오브 플레이 (State of Play)",
+          "note": "글로벌 쇼케이스 및 스테이트 오브 플레이 재팬 연속 방송",
+          "venue": "유튜브",
+          "date": "2026-09-03",
+          "tag": "쇼케이스",
+          "website": "https://www.inven.co.kr/webzine/news/?news=320253"
+        },
+        {
+          "name": "지스타 2026 팝업스토어",
+          "note": "지스타 2026 공식 굿즈 및 이벤트 진행",
+          "venue": "현대백화점 판교점",
+          "date": "2026-09-01 ~ 2026-09-06",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=320237"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "쿠키런 모험의 탑·나혼렙, 中 외자판호 발급",
+          "source": "인벤",
+          "time": "8월 31일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=320249"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "원스토어 글로벌, 전 세계 122개국 정식 출시",
+          "source": "인벤",
+          "time": "8월 31일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=320231"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "소니 CEO \"PS5 공격적 마케팅 중단, 유저 유지 집중\"",
+          "source": "IGN India",
+          "time": "8월 31일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/playstation-5-1/270608/sony-ceo-explains-why-it-isnt-aggressively-marketing-the-playstation-5-anymore"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "하우스마크 공동 창립자, 31년 만에 스튜디오 퇴사",
+          "source": "IGN India",
+          "time": "8월 31일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/resogun/270585/housemarque-co-founder-ilari-kuittinen-announces-exit-from-saros-developer-after-31-years"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "니노 카즈야, 타입문 스튜디오 BB 퇴사 발표",
+          "source": "4Gamer",
+          "time": "8월 31일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/520/G052062/20260831029/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'천년의 여행 ELF' 개발사 파산으로 서버 종료",
+          "source": "4Gamer",
+          "time": "8월 31일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/764/G076402/20260831025/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "CDPR, 게임스컴 도난 피해 인디 개발사 장비 지원",
+          "source": "PC Gamer",
+          "time": "8월 31일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/gaming-industry/cd-projekt-red-opens-its-arasaka-hardware-archives-to-help-an-indie-dev-whose-gear-was-stolen-during-1-of-at-least-4-gamescom-thefts/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "PS5 마케팅 축소 선언: 플랫폼 확장기에서 '유저 락인'으로의 전환",
+      "intro": "소니가 PS5의 공격적인 하드웨어 판매 마케팅을 멈추겠다고 공식 선언했습니다.\n신규 유저 유입보다 기존 유저 '지키기'를 택한 콘솔 시장의 구조적 변화는 과연 무엇을 의미할까요?",
+      "points": "소니가 플레이스테이션 5(PS5)의 신규 기기 보급을 위한 공격적 마케팅을 중단하고, 기존 이용자의 플레이 타임 및 서비스 유지(Retention)로 전략을 전면 수정했습니다. 🎮 콘솔 하드웨어 보급량이 성숙기에 진입함에 따라, 기기 판매 중심의 전통적인 비즈니스 공식이 명확한 전환점에 도달했음을 보여줍니다.\n\n이는 플랫폼 구조와 게임 소비 형태에 직접적인 변화를 가져옵니다. 📉 플랫폼 홀더들은 이제 '기기 판매량'보다 '유저가 생태계 내에서 소비하는 시간과 구독 매출'을 핵심 지표로 삼게 됩니다. 이에 따라 서드파티 개발사들 역시 단발성 타이틀 판매에 그치지 않고, 플랫폼 내 라이브 서비스와 지속적인 콘텐츠 업데이트를 통한 리텐션 확보에 더 큰 압박을 받게 될 것입니다.\n\n콘솔 시장은 이제 '영토 확장'이 아닌 '내치(內治)'의 국면에 들어섰습니다. **앞으로의 콘솔 경쟁력은 단순한 하드웨어 스펙 경쟁이 아닌, 유저의 일상적 접속을 유도하는 구독 서비스의 가치와 생태계 락인(Lock-in) 역량에서 결정될 것입니다.**\n\n하드웨어 보급 경쟁이 둔화된 성숙기 플랫폼 환경에서, 과연 게이머들의 한정된 시간과 충성도를 끝까지 붙잡아둘 다음 세대의 킬러 타이틀은 무엇이 될지 주목할 시점입니다. 🔍"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "게임 개발 타이쿤 (Game Dev Tycoon)",
+      "title": "차세대 주니어 개발자와 함께하는 실전 멘토링 스튜디오",
+      "imgUrl": "",
+      "comment": "협회의 대규모 실전 현장교육 및 멘토링 지원 정책에서 착안해, 신규 인재 영입과 멘토링 시스템이 본격 가동된 활기찬 개발 스튜디오의 인게임 미래 모습을 AI에게 그려보도록 했습니다.",
+      "ai_prompt": "Actual in-game screenshot, exact original game engine rendering, completely identical to original art style, NO cinematic styling, NO illustration. An isometric top-down view of a bustling game development office in Game Dev Tycoon style. Senior developers sitting at modern desks guiding enthusiastic junior developers, dual-monitor setups showing code and 3D level editors, floating status bubbles and training progress bars above characters' heads, whiteboard filled with project roadmaps and 2026 mentoring milestones, clean low-poly cartoonish aesthetic, authentic UI HUD elements showing company funds, staff stamina, and research points."
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Crimson Moon",
+        "releases.0.note": "A 3rd-person dark fantasy action-adventure game officially releasing on PC (Steam) on September 1.",
+        "releases.0.dev": "Indie Developer",
+        "releases.1.game": "The Blood of Dawnwalker",
+        "releases.1.note": "A dark fantasy action RPG releasing on September 2, featuring combat where players switch between human and vampire abilities depending on day and night.",
+        "releases.1.dev": "Rebel Wolves",
+        "releases.2.game": "Onimusha: Way of the Sword",
+        "releases.2.note": "A new action-adventure entry in the Onimusha series officially releasing on September 3.",
+        "releases.2.dev": "Capcom",
+        "releases.3.game": "NBA 2K27",
+        "releases.3.note": "The latest flagship basketball simulation game from 2K, officially launching on PC and console platforms on September 3.",
+        "releases.3.dev": "Visual Concepts",
+        "releases.4.game": "SpeedRunners 2: King of Speed",
+        "releases.4.note": "A 4-player competitive multiplayer running action game officially launching on Steam on September 3.",
+        "releases.4.dev": "DoubleDutch Games",
+        "events.0.name": "PlayStation State of Play",
+        "events.0.note": "Global showcase followed by State of Play Japan back-to-back broadcast",
+        "events.0.venue": "YouTube",
+        "events.1.name": "G-STAR 2026 Pop-up Store",
+        "events.1.note": "Official G-STAR 2026 merchandise and promotional events",
+        "events.1.venue": "Hyundai Department Store Pangyo Branch"
+      },
+      "briefing": {
+        "items.0.title": "CookieRun: Tower of Adventures and Solo Leveling Granted Import Game Licenses in China",
+        "items.0.source": "Inven",
+        "items.0.time": "August 31",
+        "items.1.title": "ONE store Global Officially Launches in 122 Countries Worldwide",
+        "items.1.source": "Inven",
+        "items.1.time": "August 31",
+        "items.2.title": "Sony CEO: \"Halting Aggressive PS5 Marketing to Focus on User Retention\"",
+        "items.2.source": "IGN India",
+        "items.2.time": "August 31",
+        "items.3.title": "Housemarque Co-Founder Leaves Studio After 31 Years",
+        "items.3.source": "IGN India",
+        "items.3.time": "August 31",
+        "items.4.title": "Kazuya Nino Announces Departure from TYPE-MOON studio BB",
+        "items.4.source": "4Gamer",
+        "items.4.time": "August 31",
+        "items.5.title": "'Millennium Tour: ELF' Shuts Down Servers Following Developer Bankruptcy",
+        "items.5.source": "4Gamer",
+        "items.5.time": "August 31",
+        "items.6.title": "CDPR Provides Equipment Support to Indie Developer Hit by Gamescom Theft",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "August 31"
+      },
+      "drk": {
+        "title": "PS5 Marketing Scale-Down Announced: Transitioning from Platform Expansion to 'User Lock-in'",
+        "intro": "Sony has officially declared an end to aggressive hardware sales marketing for the PS5.\nWhat does this structural shift in the console market—choosing to 'retain' existing users over acquiring new ones—really signify?",
+        "points": "Sony has completely overhauled its strategy from aggressive marketing to expand new PlayStation 5 (PS5) unit installations toward prioritizing playtime and retention among existing users. 🎮 As console hardware adoption enters a mature phase, this clearly indicates that the traditional business model centered around unit sales has reached a turning point.\n\nThis shift directly drives changes in platform structures and game consumption patterns. 📉 Platform holders will now treat 'time spent by users within the ecosystem and subscription revenue' as core metrics rather than mere 'hardware sales volume.' Consequently, third-party developers will also face greater pressure to secure retention through live-service operations and continuous content updates, moving beyond single-purchase title sales.\n\nThe console market has now entered a phase of 'internal governance' rather than 'territorial expansion.' **Going forward, console competitiveness will be determined not simply by hardware specs, but by the value of subscription services that drive daily user engagement and ecosystem lock-in capabilities.**\n\nIn a mature platform environment where the race for hardware adoption has cooled down, it is time to watch what next-generation killer titles will manage to capture gamers' finite time and loyalty until the very end. 🔍"
+      },
+      "gamescene": {
+        "game": "Game Dev Tycoon",
+        "title": "A Hands-On Mentoring Studio with Next-Generation Junior Developers",
+        "comment": "Inspired by the association's large-scale hands-on training and mentoring support policy, we asked AI to depict a future in-game scene of a vibrant development studio with active talent recruitment and mentoring programs fully underway."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "クリムゾン・ムーン",
+        "releases.0.note": "9月1日にPC（Steam）向けに正式リリースされる三人称視点ダークファンタジー・アクションアドベンチャーゲームです。",
+        "releases.0.dev": "インディー開発スタジオ",
+        "releases.1.game": "The Blood of Dawnwalker",
+        "releases.1.note": "9月2日にリリースされるダークファンタジー・アクションRPGで、昼と夜で人間と吸血鬼の能力を切り替えながら戦闘を繰り広げます。",
+        "releases.1.dev": "Rebel Wolves",
+        "releases.2.game": "鬼武者：剣の道",
+        "releases.2.note": "9月3日に正式リリースされる「鬼武者」シリーズの新作アクションアドベンチャーゲームです。",
+        "releases.2.dev": "カプコン",
+        "releases.3.game": "NBA 2K27",
+        "releases.3.note": "9月3日にPCおよびコンソールプラットフォーム向けに正式リリースされる、2Kを代表する最新バスケットボールシミュレーションゲームです。",
+        "releases.3.dev": "Visual Concepts",
+        "releases.4.game": "SpeedRunners 2: King of Speed",
+        "releases.4.note": "9月3日にSteamを通じて正式リリースされる4人対戦型ランニングアクションゲームです。",
+        "releases.4.dev": "DoubleDutch Games",
+        "events.0.name": "プレイステーション State of Play",
+        "events.0.note": "グローバルショーケースおよびState of Play Japanの連続配信",
+        "events.0.venue": "YouTube",
+        "events.1.name": "G-STAR 2026 ポップアップストア",
+        "events.1.note": "G-STAR 2026 公式グッズ販売およびイベント開催",
+        "events.1.venue": "現代百貨店 板橋店"
+      },
+      "briefing": {
+        "items.0.title": "『クッキーラン：冒険の塔』『俺レベ』、中国で版号（外資版号）取得",
+        "items.0.source": "Inven",
+        "items.0.time": "8月31日",
+        "items.1.title": "ONE store Global、世界122カ国で正式リリース",
+        "items.1.source": "Inven",
+        "items.1.time": "8月31日",
+        "items.2.title": "ソニーCEO「PS5の積極的マーケティングを停止、ユーザー維持に注力」",
+        "items.2.source": "IGN India",
+        "items.2.time": "8月31日",
+        "items.3.title": "Housemarque共同創設者、31年ぶりにスタジオを退社",
+        "items.3.source": "IGN India",
+        "items.3.time": "8月31日",
+        "items.4.title": "新納一哉氏、TYPE-MOON studio BBからの退社を発表",
+        "items.4.source": "4Gamer",
+        "items.4.time": "8月31日",
+        "items.5.title": "『千年之旅 ELF』開発元破産によりサービス終了へ",
+        "items.5.source": "4Gamer",
+        "items.5.time": "8月31日",
+        "items.6.title": "CDPR、gamescomで盗難被害に遭ったインディー開発者に機材支援",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "8月31日"
+      },
+      "drk": {
+        "title": "PS5マーケティング縮小宣言：プラットフォーム拡張期から「ユーザーの囲い込み」への転換",
+        "intro": "ソニーがPS5の積極的なハードウェア販売マーケティングを終了すると公式に宣言しました。\n新規ユーザーの獲得よりも既存ユーザーの「維持」を選んだコンソール市場の構造的変化は、果たして何を意味するのでしょうか。",
+        "points": "ソニーがPlayStation 5（PS5）の新規ハード普及に向けた積極的なマーケティングを停止し、既存ユーザーのプレイ時間維持およびサービス継続（リテンション）へと戦略を全面的に転換しました。🎮 コンソールハードウェアの普及が成熟期を迎えたことで、ハード販売を中心とする従来のビジネスモデルが明確な転換点に達したことを示しています。\n\nこれはプラットフォームの構造やゲームの消費形態に直接的な変化をもたらします。📉 プラットフォームホルダーは今後、「ハード販売台数」よりも「エコシステム内でユーザーが費やす時間とサブスクリプション売上」を主要指標として重視するようになります。これに伴い、サードパーティ開発各社も単発的なタイトル販売にとどまらず、プラットフォーム内でのライブサービスや継続的なコンテンツアップデートを通じたリテンション確保において、より強いプレッシャーを受けることになるでしょう。\n\nコンソール市場は今や「領土拡大」ではなく「内治」の局面に入りました。**今後のコンソール競争力は、単なるハードウェアスペックの争いではなく、日常的なアクセスを促すサブスクリプションサービスの価値と、エコシステムへの囲い込み（ロックイン）力によって決まることになります。**\n\nハード普及の勢いが鈍化した成熟期のプラットフォーム環境において、ゲーマーの限られた時間とロイヤルティを最後まで引き留める次世代のキラータイトルは何になるのか、注目が集まるタイミングです。🔍"
+      },
+      "gamescene": {
+        "game": "Game Dev Tycoon",
+        "title": "次世代ジュニア開発者とともに歩む実践的メンターシップスタジオ",
+        "comment": "協会の『大規模な実践的現場教育およびメンタリング支援施策』から着想を得て、新規人材の採用とメンターシップ制度が本格稼働した活気あふれる開発スタジオの未来のゲーム内風景をAIに描かせました。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "PS5 마케팅 대폭 축소 선언?! 🛑 소니가 '집토끼 지키기'에 올인하는 이유 🔒",
+    "en": "Sony is cutting back on PS5 marketing?! 🛑 The secret behind their new 'lock-in' strategy 🔒",
+    "ja": "PS5のマーケティング大幅縮小を発表？！🛑 ソニーが仕掛ける『ユーザー囲い込み』戦略の全貌 🔒"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "소니가 이제 PS5 마케팅을 대폭 줄인다네요?! 🛑\n새 유저 유치보다 기존 '집토끼' 꽉 잡는 전략으로 완전히 바꿨다고 해요 🎮\n\nhttps://www.gtplayer.net/edition-115/\n#PS5 #귀무자 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-01T07:01:31.570806"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "9월 1일 오늘의 게임 소식 🎮\n📰 [뉴스] 쿠키런·나혼렙 中 판호 발급 & 소니 PS5 마케팅 축소 및 유저 유지 집중 선언\n📅 [출시] 귀무자: 검의 길, NBA 2K27, 더 블러드 오브 던워커 등 이번 주 신작\n✍️ [인사이트] PS5 공격적 마케팅 중단! 소니가 신규 유치 대신 '집토끼 지키기'를 택한 이유\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임소식 #게임트렌드 #GTPlayer #게임추천 #신작게임 #PS5 #플레이스테이션 #소니 #콘솔게임 #귀무자 #NBA2K27 #쿠키런모험의탑 #나혼자만레벨업 #원스토어 #게임스타그램 #겜스타그램 #게이머 #게임정보 #게임덕후",
+          "image_paths": [
+            "web\\instagram\\edition_115\\card_cover.png",
+            "web\\instagram\\edition_115\\card_news.png",
+            "web\\instagram\\edition_115\\card_calendar.png",
+            "web\\instagram\\edition_115\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3976147307892809783_39332818166",
+            "url": "https://www.instagram.com/p/DcuHOj1k6A3/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-01T07:02:07.616218"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Sony is cutting back on PS5 marketing?! 🛑 The secret behind their new 'lock-in' strategy 🔒\n\nSony is shifting focus from aggressive console sales to keeping existing players engaged, sparking a major industry pivot.\nMeanwhile, massive game license approvals in China and anticipated titles from Capcom and Rebel Wolves are making waves.\n\nhttps://www.gtplayer.net/edition-115-en/",
+        "error": null
+      },
+      "updated_at": "2026-09-01T07:02:53.451210"
+    }
+  }
+}

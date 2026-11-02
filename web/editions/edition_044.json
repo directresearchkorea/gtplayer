@@ -1,0 +1,449 @@
+{
+  "num": "044",
+  "date": "2026-05-04",
+  "status": "published",
+  "schedule": {
+    "date": "2026-05-04",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "히어로즈 오브 마이트 앤 매직: 올든 에라",
+          "dev": "해당 사항 없음",
+          "date": "5월 2일(토)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "5월 2일 출시된 클래식 전략 게임 최신작으로, 발매 1일 만에 25만 장을 판매하며 시리즈의 성공적인 부활을 알렸습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/strategy/heroes-of-might-and-magic-olden-era-sold-250-000-copies-and-broke-even-on-development-costs-in-1-day/",
+          "source_name": "PC Gamer"
+        },
+        {
+          "category": "release",
+          "game": "다이 인 더 던전",
+          "dev": "ATICO",
+          "date": "5월 2일(토)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "5월 2일 얼리 액세스를 종료하고 정식 출시된 주사위 덱빌딩 로그라이트로, 정식 버전 출시와 함께 한국어 자막을 공식 지원합니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/758/G075809/20260502006/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "콘스탄스",
+          "dev": "Blue Backpack",
+          "date": "5월 2일(토)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "5월 2일 정식 출시된 액션 어드벤처 게임으로, 붓을 무기로 사용하여 자신의 내면세계를 탐험하는 독특한 메트로배니아 방식을 선보입니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/981/G098149/20260501001/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "바우-와우 배틀",
+          "dev": "해당 사항 없음",
+          "date": "5월 3일(일)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "5월 3일 스팀에 발매된 이색 대전 게임으로, 플레이어가 마이크에 직접 개 짖는 소리를 내어 상대 캐릭터와 전투를 벌이는 독특한 시스템을 가졌습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1774774",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "메모리스: 포세이큰 바이 라이트",
+          "dev": "해당 사항 없음",
+          "date": "5월 3일(일)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "5월 3일 정식 출시된 전략 RPG로, 운 요소를 배제하고 정해진 자원과 캐릭터 조합만으로 수많은 적을 격파하는 퍼즐적 전략성을 강조했습니다.",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202605/73896",
+          "source_name": "Famitsu"
+        },
+        {
+          "category": "update",
+          "game": "붉은사막",
+          "dev": "펄어비스",
+          "date": "5월 4일(월)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#3b82f6",
+          "note": "5월 4일 진행된 신규 업데이트를 통해 이미 처치한 적과 다시 대결할 수 있는 '리매치' 시스템과 강력한 전설급 신규 몬스터들이 추가되었습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/rpg/new-crimson-desert-update-lets-you-rematch-defeated-enemies-and-adds-new-legendary-creatures/",
+          "source_name": "PC Gamer"
+        }
+      ],
+      "events": [
+        {
+          "name": "원피스 바운티 러쉬 특별 생방송",
+          "note": "신규 캐릭터 정보 공개 및 JOY, 쿠라모치 유카 출연",
+          "venue": "온라인 (YouTube 등)",
+          "date": "2026-05-04",
+          "tag": "쇼케이스",
+          "website": "https://dengekionline.com/article/202605/73766"
+        },
+        {
+          "name": "뿌요뿌요 ぷよっとじかん(뿌요한 시간) #8",
+          "note": "최신 정보 공개 및 성우 마에노 토모아키 게스트 출연",
+          "venue": "온라인",
+          "date": "2026-05-05",
+          "tag": "쇼케이스",
+          "website": "https://www.4gamer.net/games/202/G020261/20260501066/"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "카오스 제로 나이트메어, 5월 28일 중국 시장 출시",
+          "source": "인벤",
+          "time": "5월 2일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316085"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "LCK, 세무 논란 '룰러' 박재혁에 무징계 결정 발표",
+          "source": "게임메카",
+          "time": "5월 2일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1774765"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "소니, PSN 소송 합의로 780만 달러 규모 환불 예정",
+          "source": "IGN India",
+          "time": "5월 3일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/playstation-5-1/260030/sony-expected-to-pay-78-million-in-playstation-refunds-after-psn-lawsuit-settlement-gets-preliminary"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "에이지 오브 엠파이어 2: DE, 5월 macOS 출시",
+          "source": "IGN India",
+          "time": "5월 3일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/260035/age-of-empires-ii-definitive-edition-official-macos-launch-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "스파 6, EVO 저팬서 7,168명 참가 기네스 기록 경신",
+          "source": "4Gamer",
+          "time": "5월 3일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/635/G063504/20260503007/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "신작 'NTE', 출시 첫날 매출 230억 원 돌파 기록",
+          "source": "4Gamer",
+          "time": "5월 2일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/817/G081722/20260502001/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "대법원, '다크 앤 다커' 제작사에 넥슨 배상 판결",
+          "source": "PC Gamer",
+          "time": "5월 3일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/gaming-industry/south-korean-supreme-court-orders-dark-and-darker-dev-ironmace-to-pay-usd3-84-million-to-nexon/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "무형의 가치에서 유무형의 권리로: IP의 시대가 남긴 숙제",
+      "intro": "수십 년 된 고전의 부활과 신작의 천문학적 매출, 그리고 법정의 심판이 교차하는 하루입니다.\n우리는 지금 '창의성'이라는 무형의 가치가 어떻게 가장 강력한 자본이자 법적 권리가 되는지 목격하고 있습니다.",
+      "points": "<히어로즈 오브 마이트 앤 매직>의 성공적 귀환과 신작 <NTE>의 기록적 매출, 그리고 넥슨과 <다크 앤 다커> 제작사 간의 법적 공방 결과가 동시에 발표되었습니다. 이는 게임 산업이 과거의 유산을 재발견하는 동시에, 거대 자본의 유입과 창작물에 대한 법적 보호라는 세 가지 핵심 축을 중심으로 빠르게 재편되고 있음을 시사합니다. 🛡️\n\n이러한 현상은 소비자 심리와 게임 소비 구조에 깊은 변화를 일으킵니다. 게이머들은 익숙한 IP의 향수에 열광하면서도, 대형 자본이 투입된 신작에 거침없이 지출하는 양면성을 보입니다. 특히 대법원의 판결은 업계 내 인력 이동과 개발 관행에 경종을 울리며, **무형의 아이디어가 실질적인 법적 보호를 받는 ‘지식재산권 중심의 시장 구조’를 더욱 공고히 할 것입니다.** ⚖️\n\n결국 현대 게임 산업의 승패는 **‘대체 불가능한 독창적 자산의 선점과 이를 지켜내는 법적·윤리적 정당성’**에 달려 있습니다. 클래식 IP의 생명력은 견고한 팬덤을 형성하고, 철저히 보호된 독창성은 시장의 질서를 세우는 기준이 됩니다. 자본력보다 중요한 것은 그 자본이 투여되는 대상의 '진정성'과 '고유성'이라는 사실을 잊어서는 안 됩니다. 💎\n\n앞으로의 시장은 단순한 재미를 넘어, 창작의 과정까지 평가받는 엄격한 검증의 장이 될 것입니다. 여러분이 소비하는 게임은 과연 정당한 노력의 산물입니까, 아니면 모호한 경계를 넘나드는 모방의 결과입니까? 🌍"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": true,
+      "items": [],
+      "title": "I got a 4TB external drive off Temu and this is what they sent lmao",
+      "score": 30367,
+      "url": "https://i.redd.it/indl1w63bfyg1.jpeg",
+      "preview_img": "https://preview.redd.it/indl1w63bfyg1.jpeg?auto=webp&s=80f6efd8d9f3cca5fd71b0d352ab509c9c0caa0b",
+      "permalink": "https://reddit.com/r/pcmasterrace/comments/1t0ee5l/i_got_a_4tb_external_drive_off_temu_and_this_is/",
+      "subreddit": "pcmasterrace",
+      "author": "Raw_Stank",
+      "num_comments": 1815,
+      "what_happened": "'테무에서 4TB 외장 하드를 샀더니 온 것'이라는 제목으로, 거대한 케이스 안에 고작 SD 카드 하나가 글루건으로 대충 붙어 있는 처참한 사기 현장이 공개되었습니다. 광활한 빈 공간과 조잡한 마감이 주는 시각적 허탈함이 전 세계 게이머들의 폭소를 자아냈습니다.",
+      "one_liner": "이 정도면 저장 용량이 아니라 '여백의 미'를 구매하신 것 같네요. 역시 세상에 공짜 수준으로 저렴한 4TB는 없는 법입니다! 😂💸"
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=044&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=044&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Heroes of Might and Magic: Olden Era",
+        "releases.0.note": "The latest entry in the classic strategy series released on May 2nd, marking a successful revival of the franchise by selling 250,000 copies within just one day of launch.",
+        "releases.0.dev": "N/A",
+        "releases.1.game": "Die in the Dungeon",
+        "releases.1.note": "A dice deck-building roguelite that officially launched on May 2nd after leaving Early Access, featuring official Korean subtitle support with the full version release.",
+        "releases.1.dev": "ATICO",
+        "releases.2.game": "Constance",
+        "releases.2.note": "An action-adventure game officially released on May 2nd, featuring a unique Metroidvania style where players explore their inner world using a paintbrush as a weapon.",
+        "releases.2.dev": "Blue Backpack",
+        "releases.3.game": "Bow-Wow Battle",
+        "releases.3.note": "A unique fighting game released on Steam on May 3rd, featuring a distinct system where players bark into their microphones to battle opponent characters.",
+        "releases.3.dev": "N/A",
+        "releases.4.game": "Memories: Forsaken by Light",
+        "releases.4.note": "A strategic RPG officially released on May 3rd, emphasizing puzzle-like strategy by excluding luck elements and requiring players to defeat numerous enemies using only fixed resources and character combinations.",
+        "releases.4.dev": "N/A",
+        "releases.5.game": "Crimson Desert",
+        "releases.5.note": "A new update on May 4th added the 'Rematch' system, allowing players to face previously defeated enemies again, along with powerful new legendary monsters.",
+        "releases.5.dev": "Pearl Abyss",
+        "events.0.name": "One Piece Bounty Rush Special Live Stream",
+        "events.0.note": "Reveal of new character information and appearances by JOY and Yuka Kuramochi",
+        "events.0.venue": "Online (YouTube, etc.)",
+        "events.1.name": "Puyo Puyo 'Puyotto Jikan' #8",
+        "events.1.note": "Latest information reveal and guest appearance by voice actor Tomoaki Maeno",
+        "events.1.venue": "Online"
+      },
+      "briefing": {
+        "items.0.title": "Chaos Zero Nightmare to launch in the Chinese market on May 28",
+        "items.0.source": "Inven",
+        "items.0.time": "May 2",
+        "items.1.title": "LCK announces no disciplinary action for 'Ruler' Park Jae-hyuk regarding tax controversy",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "May 2",
+        "items.2.title": "Sony to refund $7.8 million following PSN lawsuit settlement",
+        "items.2.source": "IGN India",
+        "items.2.time": "May 3",
+        "items.3.title": "Age of Empires II: DE to launch on macOS in May",
+        "items.3.source": "IGN India",
+        "items.3.time": "May 3",
+        "items.4.title": "Street Fighter 6 breaks Guinness World Record with 7,168 participants at EVO Japan",
+        "items.4.source": "4Gamer",
+        "items.4.time": "May 3",
+        "items.5.title": "New title 'NTE' breaks record with over 23 billion KRW in first-day sales",
+        "items.5.source": "4Gamer",
+        "items.5.time": "May 2",
+        "items.6.title": "Supreme Court rules against 'Dark and Darker' developer in Nexon compensation case",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "May 3"
+      },
+      "drk": {
+        "title": "From Intangible Value to Tangible Rights: The Legacy of the IP Era",
+        "intro": "It is a day where the revival of decades-old classics, astronomical sales of new titles, and judicial rulings intersect. We are witnessing how the intangible value of 'creativity' is becoming the most powerful form of capital and legal entitlement.",
+        "points": "The successful return of <Heroes of Might and Magic>, the record-breaking revenue of the new title <NTE> (Neverness to Everness), and the legal outcome between Nexon and the <Dark and Darker> developer were all announced simultaneously. This suggests the gaming industry is rapidly reorganizing around three core pillars: the rediscovery of classic legacies, the influx of massive capital, and legal protection for creative works. 🛡️\n\nThis phenomenon causes deep shifts in consumer sentiment and spending structures. Gamers show a dual nature, fueled by nostalgia for familiar IPs while spending boldly on new titles backed by heavy investment. In particular, the Supreme Court's ruling serves as a warning to industry labor movement and development practices, further solidifying a 'knowledge-property-centered market structure' where intangible ideas receive substantial legal protection. ⚖️\n\nUltimately, success in the modern gaming industry depends on 'preempting irreplaceable original assets and maintaining the legal and ethical legitimacy to protect them.' The vitality of classic IPs builds a solid fandom, and thoroughly protected originality becomes the standard for market order. We must not forget that the 'authenticity' and 'uniqueness' of the object of investment are more important than the capital itself. 💎\n\nMoving forward, the market will become a place of strict verification where the creative process is evaluated beyond simple fun. Is the game you consume a product of legitimate effort, or the result of imitation that crosses ambiguous boundaries? 🌍"
+      },
+      "meme": {
+        "what_happened": "A disastrous scam surfaced under the title 'What I got when I bought a 4TB external hard drive from Temu,' revealing a single SD card crudely attached with a glue gun inside a massive, mostly empty case. The visual desolation of the vast empty space and the shoddy craftsmanship brought laughter to gamers worldwide.",
+        "one_liner": "At this point, it looks like you bought the 'beauty of empty space' rather than storage capacity. As expected, there is no such thing as a 4TB drive for a price that's basically free! 😂💸"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "マイト・アンド・マジック：ヒーローズ・オールデン・エラ",
+        "releases.0.note": "5月2日に発売されたクラシック戦略ゲームの最新作で、発売後1日で25万本を売り上げ、シリーズの成功的な復活を知らせました。",
+        "releases.0.dev": "該当なし",
+        "releases.1.game": "ダイ・イン・ザ・ダンジョン",
+        "releases.1.note": "5月2日に早期アクセスを終了し正式リリースされたダイス・デッキ構築型ローグライトで、正式版のリリースとともに韓国語字幕を公式サポートしています。",
+        "releases.1.dev": "ATICO",
+        "releases.2.game": "コンスダンス",
+        "releases.2.note": "5月2日に正式リリースされたアクションアドベンチャーゲームで、筆を武器として使い、自身の内面世界を探索する独特なメトロイドヴァニア方式を披露しています。",
+        "releases.2.dev": "Blue Backpack",
+        "releases.3.game": "バウ・ワウ・バトル",
+        "releases.3.note": "5月3日にSteamで発売された異色の対戦ゲームで、プレイヤーがマイクに直接犬の鳴き声を出すことで相手キャラクターと戦闘を繰り広げるユニークなシステムを搭載しています。",
+        "releases.3.dev": "該当なし",
+        "releases.4.game": "Memories: Forsaken by Light",
+        "releases.4.note": "5月3日に正式リリースされた戦略RPGで、運要素を排除し、決められたリソースとキャラクターの組み合わせだけで数多くの敵を撃破するパズル的な戦略性を強調しています。",
+        "releases.4.dev": "該当なし",
+        "releases.5.game": "紅の砂漠",
+        "releases.5.note": "5月4日に行われた新規アップデートを通じて、すでに倒した敵と再対決できる「リマッチ」システムと、強力な伝説級の新規モンスターが追加されました。",
+        "releases.5.dev": "パールアビス",
+        "events.0.name": "ONE PIECE バウンティラッシュ 特別生放送",
+        "events.0.note": "新キャラクター情報の公開およびJOY、倉持由香が出演",
+        "events.0.venue": "オンライン（YouTubeなど）",
+        "events.1.name": "ぷよぷよ ぷよっとじかん #8",
+        "events.1.note": "最新情報の公開および声優の前野智昭がゲスト出演",
+        "events.1.venue": "オンライン"
+      },
+      "briefing": {
+        "items.0.title": "『カオス・ゼロ・ナイトメア』、5月28日に中国市場でリリース",
+        "items.0.source": "Inven",
+        "items.0.time": "5月2日",
+        "items.1.title": "LCK、税務論議の「Ruler」パク・ジェヒョクに対し無懲戒の決定を発表",
+        "items.1.source": "GameMeca",
+        "items.1.time": "5月2日",
+        "items.2.title": "ソニー、PSN訴訟の和解により780万ドル規模の払い戻し予定",
+        "items.2.source": "IGN India",
+        "items.2.time": "5月3日",
+        "items.3.title": "『Age of Empires II: Definitive Edition』、5月にmacOS版リリース",
+        "items.3.source": "IGN India",
+        "items.3.time": "5月3日",
+        "items.4.title": "『スト6』、EVO Japanで7,168人が参加しギネス記録を更新",
+        "items.4.source": "4Gamer",
+        "items.4.time": "5月3日",
+        "items.5.title": "新作『NTE』、リリース初日の売上が230億ウォン突破を記録",
+        "items.5.source": "4Gamer",
+        "items.5.time": "5月2日",
+        "items.6.title": "大法院（最高裁）、『Dark and Darker』制作会社にネクソンへの賠償判決",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "5月3日"
+      },
+      "drk": {
+        "title": "無形の価値から有形無形の権利へ：IPの時代が残した宿題",
+        "intro": "数十年前の古典の復活と新作の天文学的な売上、そして法廷の審判が交差する一日です。私たちは今、「創造性」という無形の価値がいかにして最も強力な資本であり法的権利となるかを目撃しています。",
+        "points": "『マイト・アンド・マジック：ヒーローズ』の成功的な帰還と新作『NTE』の記録的な売上、そしてネクソンと『Dark and Darker』制作会社間の法的攻防の結果が同時に発表されました。これはゲーム産業が過去の遺産を再発見すると同時に、巨大資本の流入と創作物に対する法的保護という3つの核心軸を中心に急速に再編されていることを示唆しています。🛡️\n\nこのような現象は消費者心理とゲーム消費構造に深い変化を引き起こします。ゲーマーは慣れ親しんだIPの郷愁に熱狂しながらも、大型資本が投入された新作に迷わず支出するという両面性を見せています。特に韓国大法院の判決は、業界内の人材移動と開発慣行に警鐘を鳴らし、**無形のアイデアが実質的な法的保護を受ける「知的財産権中心の市場構造」をより強固なものにするでしょう。** ⚖️\n\n結局、現代のゲーム産業の勝敗は、**「代替不可能な独創的資産の先取りと、それを守り抜く法的・倫理的正当性」**にかかっています。クラシックIPの生命力は強固なファンダムを形成し、徹底的に保護された独創性は市場の秩序を立てる基準となります。資本力よりも重要なのは、その資本が投じられる対象の「真実性」と「固有性」であるという事実を忘れてはなりません。 💎\n\nこれからの市場は単なる面白さを超え、創作の過程まで評価される厳格な検証の場となるでしょう。皆さんが消費するゲームは果たして正当な努力の産物でしょうか、それとも曖昧な境界を行き来する模倣の結果でしょうか？ 🌍"
+      },
+      "meme": {
+        "what_happened": "「Temuで4TBの外部ハードディスクを買ったら届いたもの」というタイトルで、巨大なケースの中にたった一つのSDカードがグルーガンで適当に貼り付けられている悲惨な詐欺現場が公開されました。広大な空きスペースと粗末な仕上げが与える視覚的な虚脱感が、世界中のゲーマーたちの爆笑を誘いました。",
+        "one_liner": "この程度なら保存容量ではなく「余白の美」を購入されたようですね。やはり、世の中にタダ同然の安さで買える4TBなど存在しないということです！ 😂💸"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "IP가 곧 권리가 되는 시대 📜, 그리고 놓치면 안 될 오늘의 밈 😂",
+    "en": "From Pixels to Assets: The IP Revolution 📜 (feat. Meme of the Day 😂)",
+    "ja": "ゲームは「所有」から「権利」へ？IP時代の行方 📜 (今週のバズりミーム 😂)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "스파 6가 기네스 기록을 새로 썼다는 소식! 🥊\nEVO 저팬에 7,168명이 몰려 격겜 역사상 최고 기록을 경신했다네요. 정말 대단하죠?\nhttps://www.gtplayer.net/edition-044/\n#스파6 #게임소식 #GTPlayer",
+          "posted": true,
+          "data": {
+            "data": {
+              "text": "스파 6가 기네스 기록을 새로 썼다는 소식! 🥊\nEVO 저팬에 7,168명이 몰려 격겜 역사상 최고 기록을 경신했다네요. 정말 대단하죠?\nhttps://t.co/M0pidwVnCg\n#스파6 #게임소식 #GTPlayer",
+              "id": "2051060521626124342",
+              "edit_history_tweet_ids": [
+                "2051060521626124342"
+              ]
+            }
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-04T07:05:09.531040"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "5월 4일 오늘의 게임 소식 🎮 IP가 곧 권리가 되는 시대, 오늘의 이슈를 확인하세요!\n\n🗞️ 스파6 기네스 등재부터 소니 PSN 환불 소식까지, 핫한 뉴스 요약!\n🗓️ '붉은사막'과 HOMM 등 5월 게이머의 지갑을 위협할 신작 라인업\n📜 Dr. K 인사이트: 창의성이라는 무형의 가치가 자본이 되는 IP 시대의 숙제\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임덕후 #게임추천 #인디게임 #신작게임 #GTPLAYER #지티플레이어 #콘솔게임 #PC게임 #붉은사막 #스파6 #에이지오브엠파이어 #카오스제로나이트메어 #룰러 #박재혁 #LCK #게임이슈 #게이머 #게임스타그램 #뉴스레터",
+          "image_paths": [
+            "web\\instagram\\edition_044\\card_news.png",
+            "web\\instagram\\edition_044\\card_calendar.png",
+            "web\\instagram\\edition_044\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3889176001184492098_39332818166",
+            "url": "https://www.instagram.com/p/DX5IPejk2pC/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-04T07:05:38.081197"
+    }
+  }
+}

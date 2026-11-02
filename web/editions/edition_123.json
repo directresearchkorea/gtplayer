@@ -1,0 +1,526 @@
+{
+  "num": "123",
+  "date": "2026-09-11",
+  "status": "published",
+  "schedule": {
+    "date": "2026-09-11",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "이클립스: 더 어웨이크닝",
+          "dev": "스마일게이트",
+          "date": "9월 10일(목)",
+          "platforms": [
+            "PC",
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "스마일게이트의 신작 MMORPG로 라이트한 게임성을 지향하며 9월 10일 PC와 모바일 플랫폼으로 정식 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=320682",
+          "source_name": "인벤"
+        },
+        {
+          "category": "event",
+          "game": "리밋 제로 브레이커스",
+          "dev": "빅게임스튜디오 / 엔씨소프트",
+          "date": "9월 10일(목)",
+          "platforms": [
+            "PC",
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "스토리와 연출을 대폭 개선한 엔씨소프트의 서브컬처 액션 신작으로, 9월 10일부터 14일까지 프론티어 테스트를 실시합니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780343",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "골든 스월",
+          "dev": "스나코 프로덕션",
+          "date": "9월 10일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "실시간 전투와 덱빌딩 시스템을 결합한 다크 판타지 액션 카드 게임으로 9월 10일 스팀을 통해 정식 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780294",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "그림자 복도 2: 비의 수국",
+          "dev": "스페이스게이지",
+          "date": "9월 10일(목)",
+          "platforms": [
+            "PS5"
+          ],
+          "color": "#10b981",
+          "note": "일본풍 랜덤 생성 미로를 탈출하는 공포 어드벤처 게임으로 9월 10일 한국어화되어 PS5 플랫폼으로 정식 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780309",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "워독스 (WARDOGS)",
+          "dev": "벌크헤드",
+          "date": "9월 11일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "최대 100인이 참여하는 대규모 전면전을 다룬 밀리터리 FPS 신작으로, 9월 11일 스팀 얼리 액세스로 출시되었습니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/wardogs/271562/wardogs-surpasses-1-million-copies-sold-on-day-one-blows-past-300k-peak-concurrent-players-on-steam",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "release",
+          "game": "사카모토 데이즈 사카로그",
+          "dev": "반다이 남코",
+          "date": "9월 11일(금)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "인기 만화 사카모토 데이즈를 원작으로 한 모바일 캐주얼 신작으로, 9월 11일 양대 마켓에 정식 출시되었습니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202609/87509",
+          "source_name": "電撃オンライン"
+        }
+      ],
+      "events": [
+        {
+          "name": "GXG 2026",
+          "note": "음악 공연, 서브컬처 무대 및 인디크래프트 인디게임 전시가 진행되는 게임문화축제",
+          "venue": "판교 (성남시 판교역 광장 일대)",
+          "date": "2026-09-11 ~ 09-12",
+          "tag": "오프라인 행사",
+          "website": "https://www.gamemeca.com/view.php?gid=1780334"
+        },
+        {
+          "name": "tinyBuild Connect 온라인 쇼케이스",
+          "note": "Kingmakers, Graveyard Keeper 2 등 주요 신작 타이틀 최신 정보 공개",
+          "venue": "온라인 (유튜브 등)",
+          "date": "2026-09-15",
+          "tag": "쇼케이스",
+          "website": "https://www.4gamer.net/games/776/G077663/20260910060/"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "피카츄 디자이너 참여 JRPG '언더 미토스' 전격 공개",
+          "source": "인벤",
+          "time": "9월 10일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=320703"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "류츠신 소설 원작 '유랑지구', 슈팅 게임으로 전격 개발",
+          "source": "인벤",
+          "time": "9월 10일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=320652"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "플레이스테이션 '페어게임즈', 비공개 플레이테스트 돌입",
+          "source": "IGN India",
+          "time": "9월 10일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/fairgame/271566/playstations-fairgames-seemingly-remerges-with-first-gameplay-new-codename-and-private-playtest"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'보더랜드 4', 신규 스토리 팩 2 출시 및 트레일러 공개",
+          "source": "IGN India",
+          "time": "9월 10일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/borderlands-4/271545/borderlands-4-official-story-pack-2-loveless-launch-trailer"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "레벨5 '레이트ン 교수와 증기의 신세계', 12월 10일 발매",
+          "source": "Famitsu",
+          "time": "9월 10일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202609/87553"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "마베라스 신작 '오보로 무라마사 괴기담', 2월 4일 발매",
+          "source": "4Gamer",
+          "time": "9월 10일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/015/G101549/20260910024/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "엑스박스, 코지마 신작 '피진트' 퍼블리싱 계약 체결",
+          "source": "GamesIndustry.biz",
+          "time": "9월 10일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/xbox-to-publish-kojima-productions-physint-after-it-unexpectedly-received-notice-from-playstation-that-it-would-cancel-the-project"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "사우디, EA와 새비 게임즈 그룹 전격 합병 추진 검토",
+          "source": "PC Gamer",
+          "time": "9월 10일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/gaming-industry/saudi-arabia-reportedly-looking-at-merging-electronic-arts-with-savvy-games-group/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "헤비함의 시대는 끝났다: 대형 게임사들의 필사적인 '체질 개선'",
+      "intro": "수백 시간의 숙제와 과도한 과금에 지친 게이머들에게 거대 게임사들이 마침내 고개를 숙이기 시작했습니다.\n스마일게이트와 엔씨소프트가 나란히 '가벼움'과 '서브컬처'를 전면에 내세운 이유는 과연 무엇일까요? 🤔",
+      "points": "스마일게이트가 '라이트함'을 내세운 MMORPG <이클립스: 더 어웨이크닝>을 선보이고, 엔씨소프트가 서브컬처 액션 신작 <리밋 제로 브레이커스>의 테스트를 시작했습니다. 수년간 시장을 지배해 온 거대 개발사들이 기존의 육중하고 정형화된 하드코어 MMORPG 문법을 내려놓고 완전히 새로운 타깃층을 향해 방향을 틀고 있습니다. 🎮\n\n노동에 가까운 플레이 타임과 극단적인 경쟁 구조에 피로를 느낀 유저들의 이탈이 게임 소비 구조의 근본적인 변화를 촉발했습니다. 현대 게이머들은 일상을 침범하지 않는 쾌적한 플레이 감각과 몰입감 높은 캐릭터 서사에 반응하고 있으며, 실제 게임 형태 역시 '무한 경쟁'에서 '자기 완결적 체험'으로 빠르게 재편되는 추세입니다. 📉\n\n결국 충성 고객층의 고령화와 신규 유저 유입 단절이라는 위기 속에서, **'경량화'와 '장르 다변화'는 이제 선택이 아닌 생존을 위한 필수 전략**이 되었습니다. 거대한 자본으로 이용자의 시간을 독점하려던 공급자 중심의 오만이 소비자 중심의 유연한 실용주의로 전환되는 결정적 분기점에 도달한 것입니다. 💡\n\n단순히 겉모습만 가볍게 바꾸는 것으로 까다로워진 글로벌 이용자들의 신뢰를 온전히 되찾을 수 있을까요? 진정한 체질 개선의 성패는 유행의 모방이 아닌, 유저의 시간을 진정으로 존중하는 완성도 높은 플레이 경험에 달려 있습니다. ✨"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "Luftrausers",
+      "url": "https://store.epicgames.com/ko/p/luftrausers-51e5e9",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/85ddeeec9d4243b3a2d78aab87bfae7f/luftrausers-1mxb1.png",
+      "comment": "🎮 **주말 게임 혜택 총정리**\n\n이번 주말, 지갑은 닫고 라이브러리는 채울 수 있는 알찬 게임 소식을 전해드립니다.\n\n**🎁 에픽게임즈 이번 주 무료 배포 (~9월 18일 00:00까지)**\n* **Luftrausers**: 개성 넘치는 기체를 커스텀해 공중전을 펼치는 스타일리시 2D 아케이드 슈팅 게임입니다. 빠른 템포와 시원한 타격감으로 짧은 시간 몰입하기에 제격입니다.\n* **Astral Ascent**: 12별자리 보스에 맞서는 2D 플랫포머 로그라이트 액션 수작입니다. 화려한 도트 그래픽과 부드러운 전투 액션, 다양한 주문 조합의 재미를 느껴보세요.\n\n**👀 다음 주 예고 (Next Week)**\n* 심리 수사 퍼즐 어드벤처 **마인드캅**과 턴제 로그라이크 덱빌딩 **Shogun Showdown**이 무료 배포될 예정입니다.\n\n**🔥 스팀 주말 특가 추천 (~9월 15일 02:00까지)**\n* 호쾌한 액션과 압도적인 전장의 분위기를 자랑하는 **Warhammer 40,000: Space Marine 2**를 75% 대폭 할인된 조건으로 만나보실 수 있습니다.",
+      "steam_deal": {
+        "type": "deal",
+        "name": "Warhammer 40,000: Space Marine 2",
+        "app_id": 2183900,
+        "url": "https://store.steampowered.com/app/2183900",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg?t=1787837240",
+        "discount_percent": 75,
+        "original_price": 6980000,
+        "final_price": 1745000,
+        "end_date": "2026-09-15 02:00"
+      },
+      "epic_current": [
+        {
+          "title": "Luftrausers",
+          "description": "The skies are aflame and the seas will overflow with wreckage in Vlambeer’s stylish arcade shooter LUFTRAUSERS! Take to the skies in customized fighter planes to battle battleships, submarines, and rival aces for glory, honor, and high scores.",
+          "url": "https://store.epicgames.com/ko/p/luftrausers-51e5e9",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/85ddeeec9d4243b3a2d78aab87bfae7f/luftrausers-1mxb1.png",
+          "end_date": "2026-09-18 00:00"
+        },
+        {
+          "title": "Astral Ascent",
+          "description": "4 영웅 중 한 명을 골라 12가지의 강력하고 신비로운 보스인 별자리들이 지키는 애스트럴 감옥인 정원에 도전하세요. 수십 가지의 독특한 주문과 신실한 친구들과 함께 놈들에게 도전하여 번개처럼 빠른 전투로 이 플랫포머 로그라이트 속에서의 이야기를 펼치십시오.",
+          "url": "https://store.epicgames.com/ko/p/astral-ascent-b33bc2",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/974c8a587d714d8d9e0c3b0fefe61a35/astral-ascent-b0gcm.png",
+          "end_date": "2026-09-18 00:00"
+        }
+      ],
+      "epic_upcoming": [
+        {
+          "title": "마인드캅",
+          "description": "마인드캅은 깊은 스토리와 실시간 3 매치 퍼즐을 결합한 퍼즐 어드벤처 속에서 \"후더닛(누가 했는가)\"을 밝혀내는 비선형적 사건 수사 게임입니다. 악명 높은 마인드캅이 되어 용의자들의 마음속에 침투하고 거짓을 간파하며, 그들이 숨기고 싶어 하는 비밀들을 밝혀내세요.",
+          "url": "https://store.epicgames.com/ko/p/mindcop-78e6c1",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-kplp1.jpg",
+          "start_date": "2026-09-18 00:00"
+        },
+        {
+          "title": "Shogun Showdown",
+          "description": "Shogun Showdown is a turn-based combat game with rogue-like and deck-building elements. Position yourself and attack at the right time, upgrade your tiles and combo them to get ready to face the Shogun!",
+          "url": "https://store.epicgames.com/ko/p/shogun-showdown-61832d",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-hz1yh.jpg",
+          "start_date": "2026-09-18 00:00"
+        }
+      ],
+      "epic_discounted": [
+        {
+          "title": "고스트러너 2",
+          "description": "고스트러너 2는 포스트 아포칼립스 사이버펑크 세계관에서 펼쳐지는 하드코어 1인칭 슬래시 액션 명작입니다. 1편에서 호평을 받았던 요소들과 더불어 더 화려해진 보스전, 생동감 있는 스토리, 짜릿한 난이도의 모터바이크 스테이지, 한층 강력해진 닌자 액션을 만나보세요. ",
+          "url": "https://store.epicgames.com/ko/p/ghostrunner-2",
+          "thumbnail": "https://cdn1.epicgames.com/offer/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2_OneMoreLevel_S1_2560x1440-15845148fae1d0cfd7f3e98c9b3ba6ba",
+          "end_date": "2026-09-25 02:00",
+          "discount_percent": 20
+        },
+        {
+          "title": "Castlevania Anniversary Collection",
+          "description": "Konami's Castlevania Anniversary Collection traces the origins of the historic vampire franchise. Included is a unique eBook with details provided by developers, artists and others inspired by the Castlevania legacy which sheds a fresh light into the world of Castlevania.",
+          "url": "https://store.epicgames.com/ko/p/castlevania-anniversary-collection-a61f94",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-yex6f.jpg",
+          "end_date": "2026-09-18 00:00",
+          "discount_percent": 40
+        },
+        {
+          "title": "Monument Valley",
+          "description": "불가능한 환경과 환상적인 퍼즐 속에서 용서를 구하는 여정을 떠나세요. 모뉴먼트를 움직여 새롭고, 초현실적이고, 신비한 세계를 탐험하는 길을 만들어가며 몽환적이고 고요한 퍼즐 게임을 경험하세요.",
+          "url": "https://store.epicgames.com/ko/p/monument-valley-1d99d3",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg",
+          "end_date": "2026-09-18 00:00",
+          "discount_percent": 25
+        }
+      ]
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Eclipse: The Awakening",
+        "releases.0.note": "Smilegate's new MMORPG aimed at lighter gameplay, officially released on PC and mobile platforms on September 10.",
+        "releases.0.dev": "Smilegate",
+        "releases.1.game": "Limit Zero Breakers",
+        "releases.1.note": "NCSOFT's new subculture action title featuring significantly improved story and cutscene direction, running a Frontier Test from September 10 to 14.",
+        "releases.1.dev": "VIC GAME STUDIOS / NCSOFT",
+        "releases.2.game": "Golden Swirl",
+        "releases.2.note": "A dark fantasy action card game combining real-time combat and deckbuilding mechanics, officially released on Steam on September 10.",
+        "releases.2.dev": "Sunnyside Production",
+        "releases.3.game": "Shadow Corridor 2: Rain Hydrangea",
+        "releases.3.note": "A Japanese-style horror adventure game where players escape randomly generated mazes, officially released on PS5 with Korean localization on September 10.",
+        "releases.3.dev": "Space Gauge",
+        "releases.4.game": "WARDOGS",
+        "releases.4.note": "A new military FPS featuring large-scale, all-out warfare with up to 100 players, launched in Steam Early Access on September 11.",
+        "releases.4.dev": "BULKHEAD",
+        "releases.5.game": "Sakamoto Days Sakalog",
+        "releases.5.note": "A new casual mobile game based on the popular manga Sakamoto Days, officially launched on both major app stores on September 11.",
+        "releases.5.dev": "Bandai Namco",
+        "events.0.name": "GXG 2026",
+        "events.0.note": "A game culture festival featuring musical performances, subculture stages, and INDIECRAFT indie game exhibitions",
+        "events.0.venue": "Pangyo (Around Pangyo Station Plaza, Seongnam-si)",
+        "events.1.name": "tinyBuild Connect Online Showcase",
+        "events.1.note": "Latest updates revealed for major upcoming titles, including Kingmakers and Graveyard Keeper 2",
+        "events.1.venue": "Online (YouTube, etc.)"
+      },
+      "briefing": {
+        "items.0.title": "New JRPG 'Under Mythos' Involving Pikachu Designer Officially Revealed",
+        "items.0.source": "Inven",
+        "items.0.time": "September 10",
+        "items.1.title": "Liu Cixin's Sci-Fi Novel 'The Wandering Earth' in Full Development as a Shooter",
+        "items.1.source": "Inven",
+        "items.1.time": "September 10",
+        "items.2.title": "PlayStation's 'Fairgame$' Enters Closed Playtest",
+        "items.2.source": "IGN India",
+        "items.2.time": "September 10",
+        "items.3.title": "'Borderlands 4' Releases New Story Pack 2 and Unveils Trailer",
+        "items.3.source": "IGN India",
+        "items.3.time": "September 10",
+        "items.4.title": "Level-5's 'Professor Layton and the New World of Steam' to Launch on December 10",
+        "items.4.source": "Famitsu",
+        "items.4.time": "September 10",
+        "items.5.title": "Marvelous Announces New Title 'Oboro Muramasa Kaikitan' to Launch February 4",
+        "items.5.source": "4Gamer",
+        "items.5.time": "September 10",
+        "items.6.title": "Xbox Signs Publishing Deal for Kojima's New Title 'PHYSINT'",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "September 10",
+        "items.7.title": "Saudi Arabia Reportedly Considers Merger Between EA and Savvy Games Group",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "September 10"
+      },
+      "drk": {
+        "title": "The Era of Heaviness Is Over: Major Game Publishers' Desperate Pivot",
+        "intro": "Major gaming giants have finally begun to concede to players exhausted by hundreds of hours of daily grind and aggressive monetization.\nWhat led Smilegate and NCSOFT to simultaneously place 'lightweight gameplay' and 'subculture' front and center? 🤔",
+        "points": "Smilegate launched <Eclipse: The Awakening>, an MMORPG emphasizing 'lightness,' while NCSOFT initiated testing for its new subculture action title <Limit Zero Breakers>. Established giants that have dominated the market for years are shedding their heavy, rigid, hardcore MMORPG design formulas to pursue an entirely new audience. 🎮\n\nPlayer fatigue stemming from labor-like playtime demands and cutthroat competitive systems has triggered a fundamental shift in gaming consumption habits. Modern gamers respond to accessible playstyles that respect daily life and engaging, character-driven narratives, rapidly transforming game structures from 'endless competition' into 'self-contained experiences.' 📉\n\nFacing an aging core user base and dwindling new player acquisition, **'streamlining' and 'genre diversification' are no longer options, but essential survival strategies**. The industry has reached a decisive crossroads, moving away from supplier-driven hubris that sought to monopolize players' time with vast capital, toward consumer-focused, flexible pragmatism. 💡\n\nCan simply lightening appearances restore the trust of increasingly discerning global gamers? The ultimate success of this organizational overhaul hinges not on mimicking trends, but on delivering polished gameplay experiences that genuinely respect the player's time. ✨"
+      },
+      "epic": {
+        "title": "Luftrausers",
+        "comment": "🎮 **Weekend Gaming Deals Summary**\n\nHere is a roundup of game deals to help you fill your library without emptying your wallet this weekend.\n\n**🎁 Epic Games Free This Week (~September 17, 15:00 UTC)**\n* **Luftrausers**: A stylish 2D arcade shooter where you customize unique aircraft to engage in thrilling dogfights. Fast-paced action and satisfying impact make it perfect for quick, immersive sessions.\n* **Astral Ascent**: An exceptional 2D platformer roguelite action game challenging 12 Zodiac bosses. Experience gorgeous pixel art, fluid combat, and dynamic spell-combining gameplay.\n\n**👀 Next Week's Lineup**\n* The detective psycho-adventure **Mindcop** and the turn-based roguelike deckbuilder **Shogun Showdown** will be available for free.\n\n**🔥 Steam Weekend Deal Highlight (~September 14, 17:00 UTC)**\n* Enjoy **Warhammer 40,000: Space Marine 2**, renowned for its visceral action and overwhelming battlefield atmosphere, at a massive 75% discount."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "エクリプス：ジ・アウェイクニング",
+        "releases.0.note": "スマイルゲートの新作MMORPGで、ライトなゲーム性を目指し、9月10日にPCおよびモバイルプラットフォームで正式リリースされました。",
+        "releases.0.dev": "スマイルゲート",
+        "releases.1.game": "リミットゼロブレイカーズ",
+        "releases.1.note": "ストーリーと演出を大幅に改善したNCソフトのサブカルチャーアクション新作で、9月10日から14日までフロンティアテストを実施します。",
+        "releases.1.dev": "VIC GAME STUDIOS / NCソフト",
+        "releases.2.game": "ゴールデンスワール",
+        "releases.2.note": "リアルタイムバトルとデッキ構築システムを融合させたダークファンタジーアクションカードゲームで、9月10日にSteamを通じて正式リリースされました。",
+        "releases.2.dev": "スナコプロダクション",
+        "releases.3.game": "影廊 -Shadow Corridor 2 雨ノ四葩-",
+        "releases.3.note": "和風のランダム生成迷路から脱出するホラーアドベンチャーゲームで、9月10日に韓国語対応版がPS5プラットフォームで正式リリースされました。",
+        "releases.3.dev": "スペースゲージ",
+        "releases.4.game": "WARDOGS",
+        "releases.4.note": "最大100人が参加する大規模な全面戦争を描いたミリタリーFPSの新作で、9月11日にSteam早期アクセスとしてリリースされました。",
+        "releases.4.dev": "バルクヘッド",
+        "releases.5.game": "SAKAMOTO DAYS サカログ",
+        "releases.5.note": "人気漫画『SAKAMOTO DAYS』を原作としたモバイルカジュアル新作で、9月11日に両大ストアで正式リリースされました。",
+        "releases.5.dev": "バンダイナムコ",
+        "events.0.name": "GXG 2026",
+        "events.0.note": "音楽公演、サブカルチャーステージ、およびINDIECRAFTのインディーゲーム展示が行われるゲーム文化フェスティバル",
+        "events.0.venue": "板橋（城南市板橋駅前広場一帯）",
+        "events.1.name": "tinyBuild Connect オンラインショーケース",
+        "events.1.note": "『Kingmakers』『Graveyard Keeper 2』など主要新作タイトルの最新情報を公開",
+        "events.1.venue": "オンライン（YouTubeなど）"
+      },
+      "briefing": {
+        "items.0.title": "ピカチュウのデザイナーが参加するJRPG『アンダー・ミトス』電撃発表",
+        "items.0.source": "Inven",
+        "items.0.time": "9月10日",
+        "items.1.title": "劉慈欣の小説原作『流転の地球』、シューティングゲームとして電撃開発へ",
+        "items.1.source": "Inven",
+        "items.1.time": "9月10日",
+        "items.2.title": "PlayStation『Fairgame$』、クローズドプレイテストに突入",
+        "items.2.source": "IGN India",
+        "items.2.time": "9月10日",
+        "items.3.title": "『ボーダーランズ4』、新規ストーリーパック2の配信およびトレーラーを公開",
+        "items.3.source": "IGN India",
+        "items.3.time": "9月10日",
+        "items.4.title": "レベルファイブ『レイトン教授と蒸気の新世界』、12月10日発売へ",
+        "items.4.source": "Famitsu",
+        "items.4.time": "9月10日",
+        "items.5.title": "マーベラス新作『朧村正 怪奇譚』、2月4日発売へ",
+        "items.5.source": "4Gamer",
+        "items.5.time": "9月10日",
+        "items.6.title": "Xbox、コジマプロダクション新作『Physint』のパブリッシング契約を締結",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "9月10日",
+        "items.7.title": "サウジ、EAとSavvy Games Groupの電撃合併推進を検討",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "9月10日"
+      },
+      "drk": {
+        "title": "「重厚さ」の時代は終わった：大手ゲーム会社による決死の「体質改善」",
+        "intro": "数百時間におよぶ日課と過度な課金に疲弊したゲーマーたちに対し、巨大ゲーム会社がついに歩み寄りを見せ始めました。\nスマイルゲートとNCソフトが揃って「手軽さ」と「サブカルチャー」を前面に押し出した理由とは一体何なのでしょうか？ 🤔",
+        "points": "スマイルゲートが「ライトさ」を掲げたMMORPG『エクリプス：ジ・アウェイクニング』を披露し、NCソフトがサブカルチャーアクションの新作『リミットゼロブレイカーズ』のテストを開始しました。長年にわたり市場を支配してきた巨大デベロッパーたちが、これまでの重厚で定型化されたハードコアMMORPGの文法を手放し、まったく新しいターゲット層へと舵を切っています。 🎮\n\n労働にも近いプレイ時間と極端な競争構造に疲労を感じたユーザーの離脱が、ゲーム消費構造の根本的な変化を引き起こしました。現代のゲーマーは日常を邪魔しない快適なプレイ感覚と没入感の高いキャラクター描写に惹かれており、実際のゲーム体験も「無限の競争」から「自己完結的な体験」へと急速に再編されつつあります。 📉\n\n結局のところ、コアユーザー層の高齢化と新規ユーザー流入の途絶という危機の中、**「軽量化」と「ジャンルの多様化」はもはや選択肢ではなく、生き残りのための必須戦略**となりました。巨大資本でユーザーの時間を独占しようとした供給者中心の驕りが、消費者中心の柔軟な実用主義へと転換する決定的な分岐点に到達したのです。 💡\n\n単に見かけを身軽に変えるだけで、目の肥えたグローバルユーザーの信頼を完全に取り戻すことができるでしょうか？ 真の体質改善の成否は、流行の模倣ではなく、ユーザーの時間を心から尊重した完成度の高いプレイ体験を提供できるかにかかっています。 ✨"
+      },
+      "epic": {
+        "title": "Luftrausers",
+        "comment": "🎮 **週末ゲームお得情報まとめ**\n\n今週末、お財布の紐は固く、ライブラリは充実させられるおトクなゲーム情報をお届けします。\n\n**🎁 Epic Games 今週の無料配布（〜9月18日 00:00まで）**\n* **Luftrausers**: 個性豊かな機体をカスタマイズして空中戦を繰り広げるスタイリッシュな2Dアーケードシューティングゲームです。ハイテンポで爽快な打撃感により、短時間でも没頭するのに最適です。\n* **Astral Ascent**: 12星座のボスに立ち向かう2Dプラットフォーム・ローグライトアクションの秀作です。美麗なドット絵と滑らかな戦闘アクション、多彩な魔法の組み合わせの楽しさをご堪能ください。\n\n**👀 来週の予告（Next Week）**\n* 心理捜査パズルアドベンチャー『**Mindcop**』と、ターン制ローグライク・デッキ構築『**Shogun Showdown**』が無料配布される予定です。\n\n**🔥 Steam 週末セールおすすめ（〜9月15日 02:00まで）**\n* 豪快なアクションと圧倒的な戦場の臨場感を誇る『**Warhammer 40,000: Space Marine 2**』が75%オフの大幅割引価格でお買い求めいただけます。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "‘헤비함’ 버리는 대형 게임사들의 생존법 📉 (feat. 에픽 무료 배포 🎁)",
+    "en": "The era of bloated games is over 📉 (+ Free Epic Games drop 🎁)",
+    "ja": "超大作の時代は終わり？大手ゲーム会社の必死な「体質改善」📉（+ Epic無料配布 🎁）"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "피카츄 디자이너가 만든 신작 JRPG라니 이건 못 참죠! ⚡\n화제의 '언더 미토스' 소식부터 대형 게임사들의 생존법까지 싹 정리했어요 👀\n\nhttps://www.gtplayer.net/edition-123/\n#언더미토스 #보더랜드4 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-11T07:01:29.967623"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "9월 11일 오늘의 게임 소식 🎮\n📰 [뉴스] 피카츄 디자이너의 신작 JRPG 공개부터 레이튼 교수 발매일 확정까지!\n📅 [출시] '이클립스', '그림자 복도 2', '사카모토 데이즈' 등 이번 주 신작 라인업\n✍️ [인사이트] 숙제와 과금은 그만, '헤비함' 버리고 생존 나선 대형 게임사들의 체질 개선\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#GTPlayer #게임뉴스 #게임소식 #신작게임 #게임추천 #게임스타그램 #겜스타그램 #게임덕후 #PC게임 #모바일게임 #콘솔게임 #스팀게임 #레이튼교수 #보더랜드4 #사카모토데이즈 #엔씨소프트 #스마일게이트 #서브컬처게임 #인디게임 #플스5",
+          "image_paths": [
+            "web\\instagram\\edition_123\\card_cover.png",
+            "web\\instagram\\edition_123\\card_news.png",
+            "web\\instagram\\edition_123\\card_calendar.png",
+            "web\\instagram\\edition_123\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3983395034577993769_39332818166",
+            "url": "https://www.instagram.com/p/DdH3K3UE4Ap/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-11T07:01:59.651577",
+      "freegames_results": {
+        "success": false,
+        "id": null,
+        "url": null,
+        "error": "Instagram 업로드 실패: 404 Client Error: Not Found for url: https://i.instagram.com/api/v1/qe/expose/"
+      },
+      "freegames_updated_at": "2026-09-11T07:02:32.370474"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "The era of bloated games is over 📉 (+ Free Epic Games drop 🎁)\n\nMajor game publishers are finally pivoting away from endless grinds and bloated designs to respect your time.\nFrom big industry shifts to a shooter adaptation of The Wandering Earth, here is what is shaping the future of play.\n\nhttps://www.gtplayer.net/edition-123-en/",
+        "error": null
+      },
+      "updated_at": "2026-09-11T07:03:13.660364"
+    }
+  }
+}

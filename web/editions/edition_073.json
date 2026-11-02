@@ -1,0 +1,451 @@
+{
+  "num": "073",
+  "date": "2026-07-02",
+  "status": "published",
+  "schedule": {
+    "date": "2026-07-02",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "모노폴리: 스타워즈",
+          "dev": "유비소프트",
+          "date": "7월 1일(수)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X|S",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "클래식 보드게임 모노폴리에 스타워즈 세계관과 팀 기반 플레이를 결합한 신작 게임이 7월 1일 정식 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777271",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "스타 세일러",
+          "dev": "컴투스홀딩스",
+          "date": "7월 1일(수)",
+          "platforms": [
+            "iOS",
+            "Android"
+          ],
+          "color": "#10b981",
+          "note": "동화풍 판타지 세계관을 담은 컴투스홀딩스의 신작 모바일 어드벤처 RPG가 7월 1일 글로벌 정식 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777252",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "모멘토",
+          "dev": "Fat Alien Cat",
+          "date": "7월 1일(수)",
+          "platforms": [
+            "PS5",
+            "Xbox Series X|S",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "아늑한 방을 꾸미며 자신만의 이야기를 만들어가는 감성적인 힐링 게임으로, 7월 1일 콘솔 플랫폼에 정식 출시되었습니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/momento/265297/momento-official-console-launch-trailer",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "update",
+          "game": "아이온2",
+          "dev": "엔씨소프트",
+          "date": "7월 1일(수)",
+          "platforms": [
+            "PC",
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "대규모 업데이트 'Chapter 1. 모래와 서리의 땅'을 통해 강력한 신규 클래스 '권성'과 새로운 모험 지역이 추가되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318024",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "프린세스 메이커: 예언의 아이들",
+          "dev": "기어세컨드",
+          "date": "7월 1일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "개발사 이관 후 적용된 대규모 업데이트를 통해 캐릭터 육성 기간이 8년으로 확장되고, 신규 엔딩과 공략 캐릭터가 대거 추가되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318047",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "2026 프로야구GO!",
+          "dev": "해긴",
+          "date": "7월 1일(수)",
+          "platforms": [
+            "iOS",
+            "Android"
+          ],
+          "color": "#3b82f6",
+          "note": "정식 출시 100일을 기념하여 유저 편의성을 높인 신규 콘텐츠와 풍성한 혜택을 담은 대규모 업데이트가 7월 1일 실시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777258",
+          "source_name": "게임메카"
+        }
+      ],
+      "events": [
+        {
+          "name": "2026 LoL 미드 시즌 인비테이셔널 (MSI) 브라켓 스테이지",
+          "note": "플레이-인 스테이지를 전승으로 통과한 LCK의 T1과 LPL의 BLG 맞대결 등 본격적인 본선 경쟁 시작",
+          "venue": "대전컨벤션센터 제2 전시장",
+          "date": "2026-07-03 ~",
+          "tag": "e스포츠",
+          "website": "https://www.inven.co.kr/webzine/news/?news=318043"
+        },
+        {
+          "name": "라테일 20주년 기념 팝업스토어",
+          "note": "온라인 액션 RPG '라테일'의 출시 20주년을 기념하여 대규모 업데이트 소개 및 현장 이벤트를 진행하는 오프라인 팝업스토어 운영",
+          "venue": "서울 마포구 스페이스비 연남",
+          "date": "2026-07-01 ~",
+          "tag": "오프라인 행사",
+          "website": "https://www.gamemeca.com/view.php?gid=1777274"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "소니, 28년 플레이스테이션 실물 디스크 생산 중단",
+          "source": "인벤",
+          "time": "7월 1일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318046"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "메이저나인, 아우터플레인 IP 및 개발팀 인수 추진",
+          "source": "게임메카",
+          "time": "7월 1일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777300"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "전 모던 워페어 전략가, 라이브 서비스 반대 스튜디오 설립",
+          "source": "IGN India",
+          "time": "7월 1일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/news/265296/ex-modern-warfare-creative-strategist-launches-new-studio-pushing-back-against-live-service-trends"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "스위치 2용 '메트로이드' 차기작 브라질 심의 유출",
+          "source": "IGN India",
+          "time": "7월 1일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/metroid/265292/next-metroid-game-for-switch-2-reportedly-leaked-in-age-rating-from-brazilian-government"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "'마리오·젤다' 주역 테즈카 타카시, 닌텐도 임원 퇴임",
+          "source": "Famitsu",
+          "time": "7월 1일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202607/80074"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "모바일 신작 '환상수호전 스타리프' 사전 등록 시작",
+          "source": "Famitsu",
+          "time": "7월 1일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202607/80079"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "크래프톤, 2.5억 불 지급 합의 후 언노운 월즈 CEO 사임",
+          "source": "GamesIndustry.biz",
+          "time": "7월 1일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/subnautica-2-studio-unknown-worlds-ceo-resigns-as-krafton-agrees-to-pay-250m-bonus"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "MS, IO 인터랙티브 신작 퍼블리싱 및 자금 조달 중단",
+          "source": "GamesIndustry.biz",
+          "time": "7월 1일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/xbox-ends-deal-to-fund-and-publish-io-interactives-project-fantasy-redundancies-expected"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "디스크의 종말, 우리는 정말 게임을 '소유'하고 있습니까?",
+      "intro": "28년간 플레이스테이션의 역사를 함께한 실물 디스크 생산이 마침내 막을 내립니다. 💿\n플랫폼 홀더의 디지털 전환 선언 속에서, 과연 게이머들의 '소유권'은 안전한 것일까요?",
+      "points": "소니가 28년 만에 플레이스테이션 실물 디스크 생산 중단을 결정하며 완전한 디지털 다운로드 시대의 서막을 알렸습니다. 이는 게임 유통 역사에서 패키지 소장이라는 전통적인 소비 행태가 공식적으로 종말을 고하고 있음을 보여주는 가장 상징적인 사건입니다. 🎮\n\n이러한 플랫폼 구조의 변화는 소비자의 게임 소비 방식과 심리에 근본적인 변화를 일으킵니다. 이제 게이머들은 실물 패키지를 영구 소장하는 '소유자'가 아닌, 디지털 라이선스를 일시 대여하는 '이용자'의 위치로 변화하게 되며, 이는 플랫폼 독점으로 인한 가격 통제권 강화와 중고 거래 시장의 소멸이라는 실질적인 변화로 이어집니다. 📉\n\n결국 디지털 전면 전환은 플랫폼 기업에게는 유통 비용 절감과 수익 극대화의 기회이지만, **소비자에게는 라이선스 회수라는 불안감을 안기는 소유권 상실의 시대**를 의미합니다. 플랫폼 서버가 닫히면 내가 구매한 게임이 언제든 사라질 수 있다는 소비자 심리의 위축은 향후 구매 패턴에도 깊은 영향을 미칠 것입니다. ⚖️\n\n실물 디스크가 사라진 빈자리는 편리함으로 채워지겠지만, 우리가 지불한 대가의 가치까지 가벼워지는 것은 아닙니다. 여러분은 실체 없이 디지털 코드로만 존재하는 게임에 기꺼이 온전한 소유의 가치를 부여할 준비가 되셨습니까? ❓"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": true,
+      "title": "[AION2] Chapter 1. 성장 서포트 안내",
+      "channel": "AION2",
+      "videoId": "CpEhcDMvJBM",
+      "url": "https://www.youtube.com/watch?v=CpEhcDMvJBM",
+      "thumbnail": "https://i.ytimg.com/vi/CpEhcDMvJBM/hqdefault.jpg",
+      "comment": "전 세계 팬들의 뜨거운 기대를 받고 있는 차세대 MMORPG '아이온2'가 마침내 베일을 벗기 시작했습니다. 🚀 \n\n이번 공식 트레일러에서는 신규 플레이어들의 빠르고 안정적인 여정을 돕는 독창적인 '성장 서포트' 시스템을 상세히 소개해 눈길을 끕니다. 🛡️ \n\n더욱 강력해진 모험의 서막을 알리는 이번 가이드 영상을 지금 바로 확인해 보세요! 🎬",
+      "search_query": "Aion 2 Chapter 1 Official Trailer",
+      "ai_game_name": "아이온2",
+      "ai_reason": "대규모 업데이트 'Chapter 1: 모래와 서리의 땅'을 통해 베일을 벗은 신규 클래스 '권성'의 압도적인 타격감과 화려한 그래픽 연출을 담은 공식 트레일러입니다."
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Monopoly: Star Wars",
+        "releases.0.note": "A new game combining the classic board game Monopoly with the Star Wars universe and team-based play was officially released on July 1.",
+        "releases.0.dev": "Ubisoft",
+        "releases.1.game": "Star Sailor",
+        "releases.1.note": "Com2uS Holdings' new mobile adventure RPG, set in a fairy-tale fantasy world, was officially released globally on July 1.",
+        "releases.1.dev": "Com2uS Holdings",
+        "releases.2.game": "Momento",
+        "releases.2.note": "An emotional healing game about decorating cozy rooms and creating your own story, officially released on console platforms on July 1.",
+        "releases.2.dev": "Fat Alien Cat",
+        "releases.3.game": "Aion 2",
+        "releases.3.note": "The major update 'Chapter 1. Land of Sand and Frost' introduces a powerful new class, the 'Brawler', along with a new adventure region.",
+        "releases.3.dev": "NCsoft",
+        "releases.4.game": "Princess Maker: Children of the Prophecy",
+        "releases.4.note": "Following the developer transition, a major update has expanded the character growth period to 8 years and added a large number of new endings and romanceable characters.",
+        "releases.4.dev": "Gear Second",
+        "releases.5.game": "2026 Pro Baseball GO!",
+        "releases.5.note": "To celebrate the 100th day since its official launch, a major update featuring new content to improve user convenience and rich rewards was implemented on July 1.",
+        "releases.5.dev": "HAEGIN",
+        "events.0.name": "2026 LoL Mid-Season Invitational (MSI) Bracket Stage",
+        "events.0.note": "The main event begins in earnest, featuring matches such as LCK's T1, who advanced undefeated through the Play-In Stage, taking on LPL's BLG.",
+        "events.0.venue": "Daejeon Convention Center (DCC) Exhibition Hall 2",
+        "events.1.name": "La Tale 20th Anniversary Pop-up Store",
+        "events.1.note": "An offline pop-up store celebrating the 20th anniversary of the online action RPG 'La Tale', featuring major update showcases and on-site events.",
+        "events.1.venue": "Space B Yeonnam, Mapo-gu, Seoul"
+      },
+      "briefing": {
+        "items.0.title": "Sony to End 28-Year Run of Physical PlayStation Disc Production",
+        "items.0.source": "Inven",
+        "items.0.time": "July 1",
+        "items.1.title": "MAJOR9 Pursues Acquisition of Outerplane IP and Development Team",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "July 1",
+        "items.2.title": "Former Modern Warfare Strategist Founds Anti-Live-Service Studio",
+        "items.2.source": "IGN India",
+        "items.2.time": "July 1",
+        "items.3.title": "Next 'Metroid' Game for Switch 2 Leaked via Brazilian Classification",
+        "items.3.source": "IGN India",
+        "items.3.time": "July 1",
+        "items.4.title": "'Mario and Zelda' Veteran Takashi Tezuka Steps Down as Nintendo Executive",
+        "items.4.source": "Famitsu",
+        "items.4.time": "July 1",
+        "items.5.title": "Pre-registration Begins for New Mobile Game 'Suikoden: Star Leaf'",
+        "items.5.source": "Famitsu",
+        "items.5.time": "July 1",
+        "items.6.title": "Unknown Worlds CEO Steps Down Following Krafton's $250M Payout Settlement",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "July 1",
+        "items.7.title": "Microsoft Halts Publishing and Funding for IO Interactive's New Project",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "July 1"
+      },
+      "drk": {
+        "title": "The End of Discs: Do We Really 'Own' Our Games?",
+        "intro": "Physical disc production, which has shared PlayStation's 28-year history, is finally coming to an end. 💿\nAmidst platform holders' declarations of a digital transition, is gamers' 'ownership' truly safe?",
+        "points": "Sony has decided to halt physical PlayStation disc production after 28 years, signaling the dawn of a fully digital download era. This is the most symbolic event in the history of game distribution, marking the official end of the traditional consumer behavior of collecting physical games. 🎮\n\nThese structural shifts in platforms fundamentally alter how consumers buy and perceive games. Gamers are transitioning from 'owners' who permanently keep physical packages to 'users' temporarily renting digital licenses. This shift leads to tangible changes, such as tighter price control due to platform monopolies and the disappearance of the secondhand market. 📉\n\nUltimately, a complete digital transition represents an opportunity for platform companies to reduce distribution costs and maximize profits, but for **consumers, it signifies an era of lost ownership that instills anxiety over losing their licenses**. The dampening of consumer sentiment—knowing that a purchased game could vanish at any moment if platform servers shut down—will deeply impact future buying patterns. ⚖️\n\nWhile convenience will fill the void left by physical discs, the value of what we pay for should not be diminished. Are you ready to willingly attribute the full value of ownership to a game that exists solely as digital code without any physical presence? ❓"
+      },
+      "trailer": {
+        "title": "[AION 2] Chapter 1. Growth Support Guide",
+        "comment": "The highly anticipated next-generation MMORPG 'Aion 2', eagerly awaited by fans worldwide, is finally starting to unveil itself. 🚀 \n\nThis official trailer captures attention by detailing an ingenious 'Growth Support' system designed to help new players enjoy a fast and stable journey. 🛡️ \n\nCheck out this guide video right now, marking the beginning of an even more powerful adventure! 🎬"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "モノポリー：スター・ウォーズ",
+        "releases.0.note": "クラシックなボードゲーム「モノポリー」に「スター・ウォーズ」の世界観とチームベースのプレイを融合させた新作ゲームが、7月1日に正式リリースされました。",
+        "releases.0.dev": "ユービーアイソフト",
+        "releases.1.game": "スターセーラー",
+        "releases.1.note": "童話風のファンタジー世界観を描いたCom2uS Holdingsの新作モバイルアドベンチャーRPGが、7月1日にグローバルで正式リリースされました。",
+        "releases.1.dev": "Com2uS Holdings",
+        "releases.2.game": "Momento",
+        "releases.2.note": "居心地の良い部屋を飾りながら自分だけのストーリーを作っていく、感性豊かな癒やし系ゲームが、7月1日にコンソールプラットフォームで正式リリースされました。",
+        "releases.2.dev": "Fat Alien Cat",
+        "releases.3.game": "アイオン2",
+        "releases.3.note": "大型アップデート「Chapter 1. 砂と霜の地」を通じて、強力な新規クラス「拳星」と新たな冒険地域が追加されました。",
+        "releases.3.dev": "NCSOFT",
+        "releases.4.game": "プリンセスメイカー：予言の子ら",
+        "releases.4.note": "開発会社の移管後に適用された大型アップデートを通じて、キャラクターの育成期間が8年に拡張され、新規エンディングや攻略キャラクターが多数追加されました。",
+        "releases.4.dev": "Gear Second",
+        "releases.5.game": "2026プロ野球GO!",
+        "releases.5.note": "正式リリース100日を記念し、ユーザーの利便性を高めた新規コンテンツと豊富な特典を盛り込んだ大型アップデートが7月1日に実施されました。",
+        "releases.5.dev": "HAEGIN",
+        "events.0.name": "2026 LoL Mid-Season Invitational (MSI) ブラケットステージ",
+        "events.0.note": "プレイインステージを全勝で突破したLCKのT1と、LPL의 BLG의 대결 등 본격적인 본선 경쟁 시작",
+        "events.0.venue": "大田コンベンションセンター 第2展示場",
+        "events.1.name": "ラテール 20周年記念ポップアップストア",
+        "events.1.note": "オンラインアクションRPG「ラテール」のリリース20周年を記念して、大型アップデートの紹介や会場イベントを行うオフラインポップアップストアを運営",
+        "events.1.venue": "ソウル特別市麻浦区 スペースB延南"
+      },
+      "briefing": {
+        "items.0.title": "ソニー、28年にわたるプレイステーション実物ディスクの生産を終了",
+        "items.0.source": "Inven",
+        "items.0.time": "7月1日",
+        "items.1.title": "MAJOR9、「アウタープレーン」のIPおよび開発チームの買収を推進",
+        "items.1.source": "GameMeca",
+        "items.1.time": "7月1日",
+        "items.2.title": "元『モダン・ウォーフェア』ストラテジスト、ライブサービスに反対するスタジオを設立",
+        "items.2.source": "IGN India",
+        "items.2.time": "7月1日",
+        "items.3.title": "Switch 2向け『メトロイド』次回作、ブラジルのレーティング審査からリーク",
+        "items.3.source": "IGN India",
+        "items.3.time": "7月1日",
+        "items.4.title": "『マリオ・ゼルダ』の立役者 手塚卓志氏、任天堂の役員を退任",
+        "items.4.source": "Famitsu",
+        "items.4.time": "7月1日",
+        "items.5.title": "モバイル新作『幻想水滸伝 スターリーフ』の事前登録が開始",
+        "items.5.source": "Famitsu",
+        "items.5.time": "7月1日",
+        "items.6.title": "KRAFTON、2億5000万ドルの支払いに合意後、Unknown WorldsのCEOが辞任",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "7月1日",
+        "items.7.title": "MS、IO Interactiveの新作パブリッシングおよび資金調達を中止",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "7月1日"
+      },
+      "drk": {
+        "title": "ディスクの終焉、私たちは本当にゲームを「所有」しているのだろうか？",
+        "intro": "28年間にわたりプレイステーションの歴史を共にしてきた実物ディスクの生産が、ついに幕を閉じます。💿\nプラットフォームホルダーによるデジタル移行宣言の中で、果たしてゲーマーの「所有権」は守られているのでしょうか？",
+        "points": "ソニーが28年ぶりにプレイステーションの実物ディスクの生産終了を決定し、完全なデジタルダウンロード時代の幕開けを告げました。これは、ゲーム流通の歴史において、パッケージをコレクションするという伝統的な消費行動が公式に終焉を迎えつつあることを示す、最も象徴的な出来事です。🎮\n\nこうしたプラットフォーム構造の変化は、消費者のゲーム消費方法や心理に根本的な変化をもたらします。今やゲーマーは、実物のパッケージを永久にコレクションする「所有者」ではなく、デジタルライセンスを一時的にレンタルする「利用者」という立場へと変化しつつあります。これは、プラットフォームによる独占に伴う価格コントロールの強化や、中古取引市場の消滅といった実質的な変化につながります。📉\n\n結局のところ、完全なデジタル移行は、プラットフォーム企業にとっては流通コストの削減と収益の極大化の機会となりますが、**消費者にとってはライセンス回収という不安をもたらす「所有権喪失の時代」**を意味します。プラットフォームのサーバーが閉鎖されれば、自分が購入したゲームがいつでも消えてしまうかもしれないという消費者の不安は、今後の購買パターンにも大きな影響を与えるでしょう。⚖️\n\n実物ディスクが消えたその隙間は「便利さ」で埋め尽くされるでしょうが、私たちが支払った対価の価値まで軽くなるわけではありません。皆さんは、実体がなくデジタルコードとしてのみ存在するゲームに対し、心から完全な所有の価値を認める準備ができていますか？❓"
+      },
+      "trailer": {
+        "title": "[AION2] Chapter 1. 成長サポートのご案内",
+        "comment": "世界中のファンから熱い期待を寄せられている次世代MMORPG『アイオン2』が、ついにベールを脱ぎ始めました。🚀 \n\n今回の公式トレーラーでは、新規プレイヤーの迅速かつ安定した旅路をサポートする、独創的な「成長サポート」システムを詳しく紹介しており、注目を集めています。🛡️ \n\nさらに強力になった冒険の幕開けを告げる今回のガイド映像を、今すぐチェックしてみましょう！🎬"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "내가 산 게임이 진짜 내 것이 아니라고? 💿 (feat. 아이온2 초고속 성장 지원 🚀)",
+    "en": "Wait, we don't actually OWN our digital games anymore? 💿 (feat. AION 2 Growth Boost 🚀)",
+    "ja": "買ったゲーム、実はあなたのものではない…？ 💿 (feat. アイオン2 超高速育成支援 🚀)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "내가 돈 주고 산 게임이 내 게 아닐 수도 있다고요? 👀\n소니가 28년 만에 플스 실물 디스크 생산을 중단한다는 충격적인 소식이에요! 💿\n\nhttps://www.gtplayer.net/edition-073/\n\n#아이온2 #게임소식 #GTPlayer",
+          "posted": false,
+          "data": null,
+          "error": "X API 오류 (402): {\"account_id\":2041741108661612544,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2041741108661612544] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/problems/credits\"}"
+        }
+      },
+      "updated_at": "2026-07-02T07:05:09.479339"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "7월 2일 오늘의 게임 소식 🎮\n\n📰 **[이슈 뉴스]** 소니의 28년 플레이스테이션 실물 디스크 생산 중단 소식과 닌텐도 거장 테즈카 타카시 퇴임!\n🚀 **[출시 캘린더]** 초고속 성장 지원과 함께 찾아온 대작 <아이온2>부터 추억의 <프린세스 메이커> 등 신작 라인업!\n💿 **[Dr. K 인사이트]** \"내가 산 게임이 진짜 내 게 아니라고?\" 디스크의 종말과 게이머의 '소유권'에 대하여.\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#gtplayer #지티플레이어 #게임뉴스 #게임소식 #신작게임 #게임추천 #게임덕후 #아이온2 #플레이스테이션 #PS5 #닌텐도스위치 #프린세스메이커 #콘솔게임 #모바일게임 #PC게임 #게임리뷰 #게임정보 #게이머 #인디게임 #스팀게임",
+          "image_paths": [
+            "web\\instagram\\edition_073\\card_news.png",
+            "web\\instagram\\edition_073\\card_calendar.png",
+            "web\\instagram\\edition_073\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3931937821317918308_39332818166",
+            "url": "https://www.instagram.com/p/DaRDJ2-k-5k/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-07-02T07:05:45.543806"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{{!< default}}
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-eyebrow">Daily Game Intelligence</div>
+  <h1>ゲームインサイト、<br><em>毎朝7時にお届け</em></h1>
+  <p class="hero-sub">PC · コンソール · モバイル · 業界ニュース · Dr. K コメント</p>
+  <div class="hero-subscribe-form">
+    <form data-members-form="subscribe">
+      <div class="hero-email-wrap">
+        <input data-members-email type="email" name="email" class="hero-email-input" placeholder="jamie@example.com" required>
+        <button type="submit" class="hero-email-btn">無料購読</button>
+      </div>
+      <div class="message-success">受信トレイでメールを確認してください。</div>
+      <div class="message-error" data-members-error></div>
+    </form>
+  </div>
+  <p class="hero-note">スパムなし · いつでも解約可能</p>
+</section>
+
+<div class="page">
+
+
+
+
+
+  {{#foreach posts}}
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">{{date format="MM.DD"}}</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">{{reading_time}}分で読めます</span>
+    </div>
+    <a href="{{url}}" class="edition-link">
+      <h3 class="edition-title">{{title}}</h3>
+      {{#if custom_excerpt}}
+      <p class="edition-excerpt">{{custom_excerpt}}</p>
+      {{else}}
+      <p class="edition-excerpt">{{excerpt words="30"}}</p>
+      {{/if}}
+    </a>
+  </article>
+  {{/foreach}}
+
+  {{#unless posts}}
+  <div class="no-posts">
+    <p>日本語エディションはまだありません。</p>
+  </div>
+  {{/unless}}
+
+  <!-- PAGINATION -->
+  {{#if pagination.pages}}
+  <nav class="pagination">
+    {{#if pagination.prev}}
+    <a class="page-btn" href="{{page_url pagination.prev}}">← 前へ</a>
+    {{/if}}
+    <span class="page-num">{{pagination.page}} / {{pagination.pages}}</span>
+    {{#if pagination.next}}
+    <a class="page-btn" href="{{page_url pagination.next}}">次へ →</a>
+    {{/if}}
+  </nav>
+  {{/if}}
+
+</div>

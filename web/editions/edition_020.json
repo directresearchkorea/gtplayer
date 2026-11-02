@@ -1,0 +1,455 @@
+{
+  "num": "020",
+  "date": "2026-04-01",
+  "status": "published",
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "쿠킹 시뮬레이터 2: 베터 투게더",
+          "dev": "빅 치즈 스튜디오",
+          "date": "4월 1일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "4월 1일 스팀에 정식 출시된 요리 시뮬레이션 게임으로, 최대 4인 협동 플레이와 새로운 요리법, 주방 커스터마이징 기능이 추가되었습니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/995/G099547/20260401032/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "디비전 리서전스",
+          "dev": "유비소프트",
+          "date": "4월 1일(수)",
+          "platforms": [
+            "모바일"
+          ],
+          "color": "#10b981",
+          "note": "디비전 시리즈의 최신작인 모바일 RPG 슈터로, 3월 31일부터 정식 서비스를 시작하여 솔로 및 최대 4인 멀티플레이를 지원합니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/642/G064261/20260401016/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "브라스 쿠바스의 사후 의뢰 (The Posthumous Investigation)",
+          "dev": "마더 가이아 스튜디오",
+          "date": "4월 1일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "문학과 노와르를 테마로 한 탐정 미스테리 어드벤처 게임으로, 4월 1일 스팀(Steam)을 통해 정식 서비스를 시작했습니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/995/G099531/20260401020/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "오리아카: 라이트",
+          "dev": "쿠카 게임즈",
+          "date": "4월 1일(수)",
+          "platforms": [
+            "모바일"
+          ],
+          "color": "#10b981",
+          "note": "모든 유료 결제 항목이 상시 90% 할인되는 파격적인 컨셉의 모바일 RPG로, 4월 1일 정식 서비스를 시작했습니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/995/G099515/20260330050/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "아케아카 네오지오 장기의 달인",
+          "dev": "햄스터",
+          "date": "4월 2일(목)",
+          "platforms": [
+            "PS4",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "1995년 SNK가 출시한 정통 장기 게임의 이식작으로, 4월 2일 정식 배포를 시작하며 본장기와 끼움장기 모드를 지원합니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/995/G099544/20260401027/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "event",
+          "game": "메이플스토리 (메이플 아일랜드)",
+          "dev": "넥슨 / 롯데월드",
+          "date": "4월 3일(금)",
+          "platforms": [
+            "기타"
+          ],
+          "color": "#3b82f6",
+          "note": "롯데월드 내에 조성된 대규모 테마존 '메이플 아일랜드'가 4월 3일 정식 오픈하며, 게임 속 공간 재현 및 어트랙션 4종을 선보입니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=314975",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "iicon 2026 (E3 후속)",
+          "note": "",
+          "venue": "미국 라스베가스",
+          "date": "2026-04-27~2026-04-30",
+          "tag": "행사",
+          "d_day_str": "D-26",
+          "website": "https://www.iicon.com"
+        },
+        {
+          "name": "서머 게임 페스트 2026",
+          "note": "",
+          "venue": "미국",
+          "date": "2026-06-01~2026-06-30",
+          "tag": "행사",
+          "d_day_str": "D-61",
+          "website": "https://www.summergamefest.com"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "붉은사막, 출시 2주 만에 400만 장 판매 돌파",
+          "source": "IGN India",
+          "time": "4월 1일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/crimson-desert/257238/news/crimson-desert-sells-4-million-copies-in-2-weeks-as-pearl-abyss-open-world-action-adventure-continue"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "번지 신작 '마라톤' 공식 비디오 리뷰 공개",
+          "source": "IGN India",
+          "time": "4월 1일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/257236/marathon-video-review"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "시프트업, 미카미 신지의 신규 스튜디오 인수",
+          "source": "4Gamer",
+          "time": "4월 1일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/456/G045622/20260401007/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "세가, '사쿠라 대전' 시리즈 30주년 프로젝트 시동",
+          "source": "4Gamer",
+          "time": "4월 1일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/035/G003591/20260401023/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "플린트, '별이되어라2' 효과로 적자 폭 67% 개선",
+          "source": "인벤",
+          "time": "4월 1일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=314971"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "LCK 사무국, '룰러' 박재혁 조세 이슈 조사 착수",
+          "source": "인벤",
+          "time": "4월 1일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=314973"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "유비소프트, '더 크루' 서비스 종료로 피소",
+          "source": "PC Gamer",
+          "time": "4월 1일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/frances-leading-consumer-association-backed-by-stop-killing-games-sues-ubisoft-over-the-crew-shutdown/"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "에이도스 몬트리올, 124명 감원 및 수장 교체",
+          "source": "GamesIndustry.biz",
+          "time": "4월 1일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/eidos-montreal-announces-124-job-cuts-studio-head-david-anfossi-departs-after-19-years-at-developer"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": true,
+      "game": "AION2",
+      "period": "최근 30일",
+      "count": "9,440",
+      "sources": "커뮤니티",
+      "score": "2.6",
+      "pos": 5,
+      "neu": 73,
+      "neg": 21,
+      "keywords": [
+        {
+          "text": "Class Mention",
+          "positive": true
+        },
+        {
+          "text": "Dungeon / Raid Discussion",
+          "positive": true
+        },
+        {
+          "text": "DPS Comparison",
+          "positive": true
+        },
+        {
+          "text": "Buff/Nerf Debate",
+          "positive": true
+        },
+        {
+          "text": "Build Meta",
+          "positive": true
+        }
+      ],
+      "comments": [
+        {
+          "text": "자동 추출 기능이나 전투력 개선 같은 편의성 업데이트는 정말 좋아요",
+          "positive": true
+        },
+        {
+          "text": "사기 장비로 인한 밸런스 붕괴와 종족 간 불균형 문제는 해결이 시급해요",
+          "positive": false
+        },
+        {
+          "text": "예고 없는 보상 너프와 강화 실패가 반복되니 게임할 의욕이 사라지네요",
+          "positive": false
+        }
+      ]
+    },
+    "drk": {
+      "enabled": true,
+      "title": "K-게임의 대전환, ‘자본’의 시대를 지나 ‘철학’의 시대로 🏹",
+      "intro": "단순히 돈을 잘 버는 게임을 넘어, 전 세계 게이머의 '팬덤'을 소유하려는 움직임이 포착됐어요.\n한국 게임사들이 거장의 스튜디오를 인수하고 AAA급 타이틀로 차트를 점령하는 현상은 무엇을 암시할까요?",
+      "points": "붉은사막의 기록적인 흥행과 시프트업의 미카미 신지 스튜디오 인수는 **한국 게임 산업이 단순 공급자를 넘어 글로벌 IP의 '큐레이터'이자 '창작자'로 진화하고 있음**을 보여줘요. 🌍\n\n소비자들은 이제 한국 게임을 '과금 유도'가 아닌 '장르적 완성도'로 평가하기 시작했으며, 이는 **글로벌 플랫폼에서의 소비 심리가 '소유 가치가 있는 프리미엄 브랜드'로 이동**하고 있다는 증거이기도 하죠. 이러한 흐름은 서구권 스튜디오들이 구조조정으로 휘청이는 사이, 한국 기업들이 창의적 자산과 노하우를 흡수하며 **게임 시장의 권력 축을 재편하는 결정적 계기**가 될 것입니다. 🚀"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": true,
+      "title": "The Division Resurgence: Official World Introduction Trailer",
+      "channel": "Ubisoft",
+      "videoId": "0AoHCmOa-1w",
+      "url": "https://www.youtube.com/watch?v=0AoHCmOa-1w",
+      "thumbnail": "https://i.ytimg.com/vi/0AoHCmOa-1w/hqdefault.jpg",
+      "comment": "안녕하세요! 이번 주 게이머들 사이에서 가장 뜨거운 화제로 떠오른 소식은 바로 유비소프트의 기대작, '디비전 리서전스(The Division Resurgence)'입니다. 세계적인 IP인 '디비전' 시리즈의 압도적인 스케일을 모바일 환경으로 완벽하게 옮겨왔다는 소식에 전 세계 팬들의 이목이 집중되고 있어요. 🏙️\n\n이번에 공개된 '공식 월드 소개 트레일러'는 무너진 뉴욕의 황량하면서도 정교한 풍경을 영화 같은 비주얼로 구현해 감탄을 자아냅니다. 특히 요원들이 어두운 골목을 탐색하며 적대 세력과 대치하는 장면에서 보여준 세밀한 광원 효과와 역동적인 전투 연출은 모바일 게임의 한계를 뛰어넘었다는 평가를 받고 있습니다. 🔫\n\n이 게임은 유비소프트가 개발한 오픈 월드 슈팅 RPG로, 혼란에 빠진 뉴욕을 배경으로 한 새로운 스토리를 담고 있습니다. iOS와 안드로이드 플랫폼을 통해 출시될 예정이며, 기존 시리즈의 핵심 재미인 파밍과 협동 플레이를 모바일에서도 깊이 있게 즐길 수 있도록 최적화되었습니다. 📱\n\n손 안에서 펼쳐질 거대한 뉴욕의 운명, 과연 우리는 다시 평화를 되찾을 수 있을까요? 하루빨리 현장으로 출동해 요원으로서 임무를 수행하고 싶은 마음뿐입니다! ❄️",
+      "search_query": "The Division Resurgence Official Launch Trailer",
+      "ai_game_name": "디비전 리서전스 (The Division Resurgence)",
+      "ai_reason": "유비소프트의 대형 IP '디비전' 시리즈의 정식 모바일 런칭작으로, 모바일의 한계를 뛰어넘는 콘솔급 그래픽과 황폐해진 뉴욕의 긴박한 전술 슈팅 액션을 확인할 수 있습니다."
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "fanmade": {
+      "enabled": false,
+      "items": []
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "poll": {
+      "enabled": false,
+      "question": "",
+      "options": []
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Cooking Simulator 2: Better Together",
+        "releases.0.note": "A cooking simulation game officially released on Steam on April 1, featuring up to 4-player co-op, new recipes, and kitchen customization features.",
+        "releases.0.dev": "Big Cheese Studio",
+        "releases.1.game": "The Division Resurgence",
+        "releases.1.note": "The latest title in The Division series, a mobile RPG shooter that launched on March 31, supporting solo and up to 4-player multiplayer.",
+        "releases.1.dev": "Ubisoft",
+        "releases.2.game": "The Posthumous Investigation",
+        "releases.2.note": "A detective mystery adventure game themed around literature and noir, officially launched on Steam on April 1.",
+        "releases.2.dev": "Mother Gaia Studio",
+        "releases.3.game": "ACA NEOGEO JANGGI NO TATSUJIN",
+        "releases.3.note": "A port of the authentic Shogi game released by SNK in 1995, officially distributed on April 2, supporting Hon-shogi and Hasami-shogi modes.",
+        "releases.3.dev": "Hamster",
+        "releases.4.game": "Oriaka: Light",
+        "releases.4.note": "A mobile RPG with a breakthrough concept where all paid items are permanently 90% off, officially launched on April 1.",
+        "releases.4.dev": "Qookka Games",
+        "releases.5.game": "MapleStory (Maple Island)",
+        "releases.5.note": "A large-scale theme zone 'Maple Island' in Lotte World officially opens on April 3, recreating in-game spaces and featuring four types of attractions.",
+        "releases.5.dev": "Nexon / Lotte World",
+        "events.0.name": "iicon 2026 (E3 Successor)",
+        "events.0.venue": "Las Vegas, USA",
+        "events.1.name": "Summer Game Fest 2026",
+        "events.1.venue": "USA"
+      },
+      "briefing": {
+        "items.0.title": "Crimson Desert Surpasses 4 Million Copies Sold Within 2 Weeks of Release",
+        "items.0.source": "IGN India",
+        "items.0.time": "April 1",
+        "items.1.title": "Bungie's New Title 'Marathon' Official Video Review Released",
+        "items.1.source": "IGN India",
+        "items.1.time": "April 1",
+        "items.2.title": "Shift Up Acquires Shinji Mikami's New Studio",
+        "items.2.source": "4Gamer",
+        "items.2.time": "April 1",
+        "items.3.title": "Sega Launches 'Sakura Wars' Series 30th Anniversary Project",
+        "items.3.source": "4Gamer",
+        "items.3.time": "April 1",
+        "items.4.title": "Flint Improves Deficit by 67% Due to 'ASTRA: Knights of Veda' Performance",
+        "items.4.source": "Inven",
+        "items.4.time": "April 1",
+        "items.5.title": "LCK Secretariat Initiates Investigation into 'Ruler' Jae-hyuk Park's Tax Issues",
+        "items.5.source": "Inven",
+        "items.5.time": "April 1",
+        "items.6.title": "Ubisoft Sued Over 'The Crew' Service Shutdown",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "April 1",
+        "items.7.title": "Eidos-Montréal Lays Off 124 Employees and Replaces Head",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "April 1"
+      },
+      "feedback": {
+        "game": "AION2",
+        "period": "Last 30 Days",
+        "keywords.0.text": "Class Mention",
+        "keywords.1.text": "Dungeon / Raid Discussion",
+        "keywords.2.text": "DPS Comparison",
+        "keywords.3.text": "Buff/Nerf Debate",
+        "keywords.4.text": "Build Meta",
+        "comments.0.text": "The quality-of-life updates like the auto-extraction feature and combat power improvements are really great.",
+        "comments.1.text": "The balance breakdown caused by overpowered gear and the imbalance between races urgently need to be addressed.",
+        "comments.2.text": "Repeated unannounced reward nerfs and enhancement failures are making me lose the motivation to play."
+      },
+      "drk": {
+        "title": "The Great Transition of K-Games: Moving from the Era of 'Capital' to the Era of 'Philosophy' 🏹",
+        "intro": "Beyond simply making profitable games, a movement to own the 'fandom' of gamers worldwide has been observed. What does it imply that Korean game companies are acquiring studios of masters and dominating charts with AAA titles?",
+        "points": "The record-breaking success of Crimson Desert and Shift Up's acquisition of Shinji Mikami's studio demonstrate that the **Korean game industry is evolving beyond a simple supplier into a 'curator' and 'creator' of global IPs.** 🌍 Consumers are now starting to evaluate Korean games based on 'genre perfection' rather than 'monetization pressure,' which is evidence that **consumer sentiment on global platforms is shifting toward 'premium brands worth owning.'** This trend will serve as a **decisive moment to reshape the power axis of the game market** as Korean companies absorb creative assets and know-how while Western studios falter due to restructuring. 🚀"
+      },
+      "trailer": {
+        "title": "The Division Resurgence: Official World Introduction Trailer",
+        "comment": "Hello! The hottest news among gamers this week is Ubisoft's highly anticipated title, 'The Division Resurgence.' Fans worldwide are focusing their attention on the news that the overwhelming scale of the global IP 'The Division' series has been perfectly ported to the mobile environment. 🏙️\n\nThe newly released 'Official World Introduction Trailer' impresses with cinematic visuals that recreate the desolate yet sophisticated landscape of a fallen New York. In particular, the detailed lighting effects and dynamic combat scenes shown as agents explore dark alleys and confront hostile forces are being praised for pushing the boundaries of mobile gaming. 🔫\n\nThis game is an open-world shooting RPG developed by Ubisoft, featuring a new story set in a chaotic New York. Scheduled for release on iOS and Android platforms, it has been optimized to offer the core fun of the series—looting and co-op play—in depth on mobile. 📱\n\nThe fate of a massive New York will unfold in the palm of your hand. Can we truly restore peace? I just want to head to the field and carry out my mission as an agent as soon as possible! ❄️"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "クッキングシミュレーター2：ベター・トゥゲザー",
+        "releases.0.note": "4月1日にSteamで正式リリースされた料理シミュレーションゲームで、最大4人の協力プレイや新しいレシピ、キッチンカスタマイズ機能が追加されました。",
+        "releases.0.dev": "Big Cheese Studio",
+        "releases.1.game": "ディビジョン リサージェンス",
+        "releases.1.note": "ディビジョンシリーズの最新作であるモバイルRPGシューターで、3月31日から正式サービスを開始し、ソロおよび最大4人のマルチプレイに対応しています。",
+        "releases.1.dev": "ユービーアイソフト",
+        "releases.2.game": "ブラス・クーバスの死後の調査 (The Posthumous Investigation)",
+        "releases.2.note": "文学とノワールをテーマにした探偵ミステリーアドベンチャーゲームで、4月1日にSteamを通じて正式サービスを開始しました。",
+        "releases.2.dev": "Mother Gaia Studio",
+        "releases.3.game": "アケアカNEOGEO 将棋の達人",
+        "releases.3.note": "1995年にSNKが発売した本格将棋ゲームの移植版で、4月2日に正式配信を開始し、本将棋とはさみ将棋モードに対応しています。",
+        "releases.3.dev": "ハムスター",
+        "releases.4.game": "オリアカ：ライト",
+        "releases.4.note": "すべての有料課金アイテムが常時90%オフになるという破格のコンセプトのモバイルRPGで、4月1日に正式サービスを開始しました。",
+        "releases.4.dev": "Qookka Games",
+        "releases.5.game": "メイプルストーリー（メイプルアイランド）",
+        "releases.5.note": "ロッテワールド内に造成された大規模テーマゾーン「メイプルアイランド」が4月3日にグランドオープンし、ゲーム内の空間再現や4種類のアトラクションを披露します。",
+        "releases.5.dev": "ネクソン / ロッテワールド",
+        "events.0.name": "iicon 2026 (E3の後継)",
+        "events.0.venue": "アメリカ ラスベガス",
+        "events.1.name": "サマーゲームフェスト 2026",
+        "events.1.venue": "アメリカ"
+      },
+      "briefing": {
+        "items.0.title": "『紅の砂漠』、発売2週間で400本販売突破",
+        "items.0.source": "IGN India",
+        "items.0.time": "4月1일",
+        "items.1.title": "Bungieの新作『マラソン』公式ビデオレビュー公開",
+        "items.1.source": "IGN India",
+        "items.1.time": "4月1일",
+        "items.2.title": "SHIFT UP、三上真司の新スタジオを買収",
+        "items.2.source": "4Gamer",
+        "items.2.time": "4月1일",
+        "items.3.title": "セガ、『サクラ大戦』シリーズ30周年プロジェクト始動",
+        "items.3.source": "4Gamer",
+        "items.3.time": "4月1일",
+        "items.4.title": "FLINT、『星になれ ヴェーダの騎士たち』の効果で赤字幅を67%改善",
+        "items.4.source": "Inven",
+        "items.4.time": "4月1일",
+        "items.5.title": "LCK事務局、「Ruler」パク・ジェヒョクの納税問題について調査開始",
+        "items.5.source": "Inven",
+        "items.5.time": "4月1일",
+        "items.6.title": "ユービーアイソフト、『ザ クルー』のサービス終了により提訴される",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "4月1일",
+        "items.7.title": "Eidos-Montréal、124人を削減し、代表を交代",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "4月1일"
+      },
+      "feedback": {
+        "game": "AION2",
+        "period": "直近30日間",
+        "keywords.0.text": "Class Mention",
+        "keywords.1.text": "Dungeon / Raid Discussion",
+        "keywords.2.text": "DPS Comparison",
+        "keywords.3.text": "Buff/Nerf Debate",
+        "keywords.4.text": "Build Meta",
+        "comments.0.text": "自動抽出機能や戦闘力の改善といった利便性のアップデートは本当に良いですね",
+        "comments.1.text": "壊れ装備によるバランス崩壊と種族間の不均衡問題は解決が急務です",
+        "comments.2.text": "予告なしの報酬下方修正と強化失敗が繰り返されるので、ゲームをする意欲がなくなります"
+      },
+      "drk": {
+        "title": "K-GAMEの大転換、「資本」の時代を経て「哲学」の時代へ 🏹",
+        "intro": "単に稼げるゲームを超えて、全世界のゲーマーの「ファンダム」を所有しようとする動きが捉えられました。韓国のゲーム会社が巨匠のスタジオを買収し、AAAタイトルでチャートを占領する現象は何を暗示しているのでしょうか？",
+        "points": "『紅の砂漠』の記録的なヒットとSHIFT UPによる三上真司スタジオの買収は、**韓国のゲーム産業が単なる供給者を超え、グローバルIPの「キュレーター」であり「クリエイター」へと進化していること**を示しています。🌍\n\n消費者は今や韓国のゲームを「課金誘導」ではなく「ジャンルとしての完成度」で評価し始めており、これは**グローバルプラットフォームでの消費心理が「所有価値のあるプレミアムブランド」へと移行していること**の証拠でもあります。この流れは、欧米のスタジオが構造調整で揺らぐ中、韓国企業が創造的な資産とノウハウを吸収し、**ゲーム市場の勢力図を再編する決定的な契機**となるでしょう。🚀"
+      },
+      "trailer": {
+        "title": "The Division Resurgence: Official World Introduction Trailer",
+        "comment": "こんにちは！今週、ゲーマーの間で最も熱い話題となっているニュースは、ユービーアイソフトの期待作『ディビジョン リサージェンス（The Division Resurgence）』です。世界的なIPである「ディビジョン」シリーズの圧倒的なスケールをモバイル環境に見事に移植したというニュースに、全世界のファンの注目が集まっています。🏙️\n\n今回公開された「公式ワールド紹介トレーラー」は、崩壊したニューヨークの荒涼としながらも精巧な風景を映画のようなビジュアルで具現化し、感嘆を誘います。特にエージェントたちが暗い路地を探索し、敵対勢力と対峙するシーンで見せた細かな光源効果とダイナミックな戦闘演出は、モバイルゲームの限界を超えたと評価されています。🔫\n\n本作はユービーアイソフトが開発したオープンワールドシューティングRPGで、混乱に陥ったニューヨークを舞台にした新しいストーリーが描かれています。iOSおよびAndroidプラットフォームを通じてリリースされる予定で、既存シリーズの核となる楽しさであるファーミングと協力プレイをモバイルでも深く楽しめるよう最適化されています。📱\n\n手のひらで繰り広げられる巨大なニューヨークの運命、果たして私たちは再び平和を取り戻せるでしょうか？一日も早く現場に出動し、エージェントとして任務を遂行したい気持ちでいっぱいです！❄️"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "K-게임, ‘자본’을 넘어 ‘철학’으로 🏹 (feat. 디비전 리서전스 공개!)",
+    "en": "K-Games: Beyond the Pay-to-Win Era 🏹 (+ The Division Resurgence Reveal!)",
+    "ja": "課金ゲーから「哲学」の時代へ？K-ゲームの劇的進化 🏹 (＋新作ディビジョンの最新映像！)"
+  },
+  "keepExisting": false
+}

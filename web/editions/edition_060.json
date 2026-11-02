@@ -1,0 +1,455 @@
+{
+  "num": "060",
+  "date": "2026-05-29",
+  "status": "published",
+  "schedule": {
+    "date": "2026-05-29",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "007 퍼스트 라이트",
+          "dev": "IO 인터랙티브",
+          "date": "5월 28일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "XSX|S"
+          ],
+          "color": "#10b981",
+          "note": "5월 28일 정식 출시된 액션 어드벤처 게임으로, 제임스 본드의 전장을 생생히 그리며 출시 24시간 만에 글로벌 판매량 150만 장을 돌파했습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316929",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "아크 레이더스",
+          "dev": "엠바크 스튜디오",
+          "date": "5월 28일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "5월 28일 넥슨닷컴 서비스와 PC방 무료 플레이가 정식 론칭되어, 이용자들이 별도의 패키지 구매 없이도 3인칭 협동 슈팅 액션을 즐길 수 있습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316909",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "롤리팝 체인소 리팝",
+          "dev": "드라가미 게임즈",
+          "date": "5월 28일(목)",
+          "platforms": [
+            "PS5",
+            "XSX|S",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "5월 28일 정식 출시된 좀비 액션 활극 게임의 콘솔 한국어판으로, 치어리더 주인공 줄리엣이 전기톱을 들고 펼치는 경쾌한 액션을 선사합니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1775762",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "햄스터 톡",
+          "dev": "라인게임즈",
+          "date": "5월 28일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "5월 28일 스팀을 통해 글로벌 정식 발매된 방치형 시뮬레이션 게임으로, 귀여운 햄스터들과 교감하며 자신만의 타운을 가꾸어 나갈 수 있습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1775753",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "포트리스3 블루",
+          "dev": "씨씨알",
+          "date": "5월 28일(목)",
+          "platforms": [
+            "PC",
+            "모바일"
+          ],
+          "color": "#10b981",
+          "note": "5월 28일 PC와 모바일로 정식 서비스를 개시한 캐주얼 슈팅 신작으로, 원작의 클래식한 재미를 살리면서 신규 캐릭터 3종을 새롭게 선보입니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1775729",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "던전앤파이터 모바일",
+          "dev": "넥슨",
+          "date": "5월 28일(목)",
+          "platforms": [
+            "모바일"
+          ],
+          "color": "#3b82f6",
+          "note": "5월 28일 업데이트를 통해 최상위 신규 던전 '무신: 솔도로스'를 추가하며 모험가들을 위한 강력한 전투 도전장을 제시했습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1775775",
+          "source_name": "게임메카"
+        }
+      ],
+      "events": [
+        {
+          "name": "e스포츠 월드컵 2026 (EWC 2026)",
+          "note": "역대 최대 상금인 7,500만 달러 규모로 프랑스 파리에서 개최되는 글로벌 e스포츠 대회",
+          "venue": "프랑스 파리 엑스포 포르트 드 베르사유",
+          "date": "2026-07-06 ~ 2026-08-23",
+          "tag": "e스포츠",
+          "website": "https://www.inven.co.kr/webzine/news/?news=316914"
+        },
+        {
+          "name": "서머 게임 페스트 2026",
+          "note": "",
+          "venue": "미국",
+          "date": "2026-06-01~2026-06-30",
+          "tag": "오프라인 행사",
+          "d_day_str": "D-3",
+          "website": "https://www.summergamefest.com"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "모던워페어 4 최초 공개, 제2차 한국전쟁 다룬다",
+          "source": "인벤",
+          "time": "5월 28일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316845"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "넥슨, 18억 규모 메이플 글로벌 개발 콘테스트 개최",
+          "source": "게임메카",
+          "time": "5월 28일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1775776"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "모던워페어 4, PS4·엑원 등 이전 세대 콘솔 제외",
+          "source": "IGN India",
+          "time": "5월 28일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/call-of-duty-2025-unofficial-name/261869/call-of-duty-modern-warfare-4-is-leaving-ps4-xbox-one-behind-ign-daily-fix"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "할머니 탐정단, 코믹 추리 신작 데모 트레일러 공개",
+          "source": "IGN India",
+          "time": "5월 28일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/dead-detectives-society/261862/the-granny-detective-society-official-demo-trailer-thinky-direct-2026"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "넥스페이스, 160억 규모 NXPC 토큰 바이백 진행",
+          "source": "4Gamer",
+          "time": "5월 28일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/696/G069650/20260528051/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "아주르 프로밀리아, 6월 1일 첫 CBT 참가자 모집",
+          "source": "電撃オンライン",
+          "time": "5월 28일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202605/76278"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "국제축구연맹, 파트너 협업 '디지털 풋볼' 비전 발표",
+          "source": "GamesIndustry.biz",
+          "time": "5월 28일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/fifa-announces-new-digital-football-vision-an-ecosystem-of-games-from-multiple-publishers-and-developers"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "마블 라이벌즈, 핵 유저 피해자 경쟁전 점수 복구",
+          "source": "PC Gamer",
+          "time": "5월 28일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/third-person-shooter/victims-of-cheaters-in-marvel-rivals-will-be-refunded-all-the-ranked-points-they-lost-if-they-report-them-thanks-to-neteases-new-anti-cheat-rank-compensation-system/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "과감한 '구세대 끊어내기', 진짜 차세대 프리미엄 시대의 개막",
+      "intro": "수년 동안 발목을 잡던 구세대 콘솔이라는 모래주머니를 드디어 벗어던지기 시작했습니다.\n과연 타협 없는 기술력과 강력한 IP의 결합은 게이머들의 지갑을 어떻게 열고 있을까요?",
+      "points": "신작 '모던워페어 4'가 이전 세대 콘솔 지원을 완전히 배제하고 차세대 전용 출시를 선언했습니다. 동시에 강력한 글로벌 IP를 앞세운 '007 퍼스트 라이트'가 출시 하루 만에 판매량 150만 장을 돌파하며 정통 프리미엄 패키지 시장의 막강한 힘을 입증했습니다. 🎮\n\n이러한 흐름은 게임 시장의 **플랫폼 구조**와 개발 패러다임이 마침내 전환점을 돌았음을 보여줍니다. 개발사들이 시장 점유율 유지를 위해 고수하던 구형 기기와의 타협을 끝내고, 하드웨어 성능을 극한으로 끌어올리는 선택을 한 것입니다. 더 높은 품질의 경험을 원하는 소비자 심리는 이러한 고사양 전환을 적극적으로 반기며 소비 구조 변화를 이끌고 있습니다. 📈\n\n**\"어설픈 타협을 거친 크로스젠(Cross-gen) 타이틀의 시대는 끝났습니다. 독보적인 비주얼과 압도적인 몰입감이라는 확실한 프리미엄 가치만을 제공해야 전 세계 게이머들의 선택을 받을 것입니다.\"** 💡\n\n구형 하드웨어의 한계를 과감히 잘라낸 게임들이 보여줄 혁신은 게이머들의 세대교체를 더욱 가속화할 것입니다. 여러분은 오직 진짜 차세대 콘솔과 고사양 PC 환경에서만 가능한 최상의 경험을 위해 기꺼이 지갑을 열 준비가 되셨습니까? 💻"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "LONESTAR",
+      "url": "https://store.epicgames.com/ko/p/lonestar-83f143",
+      "thumbnail": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/lonestar-31p94_2560x1440-c6a104de10c14d33854d3018ccf8cc75",
+      "comment": "🎮 **이번 주 에픽게임즈 무료 배포 (배포 종료: 2026-06-05 00:00)**\n\n* **LONESTAR**\n  우주선을 커스텀하고 주사위 조합을 활용해 최선의 전투 전략을 짜는 SF 로그라이크 덱빌딩 게임입니다. 독창적인 시스템과 뛰어난 몰입감으로 유저들에게 큰 호평을 받고 있는 수작입니다.\n* **Calico**\n  귀여운 동물들로 가득한 마을에서 마법 소녀가 되어 고양이 카페를 재건하는 힐링 시뮬레이션 게임입니다. 평화롭고 따뜻한 분위기 속에서 아기자기한 커스터마이징을 즐기며 힐링할 수 있습니다.\n\n🎁 **[Next Week]** 6월 5일 00:00부터는 베일에 싸인 두 개의 새로운 '미스터리 게임'이 찾아올 예정이니 절대 놓치지 마세요!",
+      "steam_deal": null
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=060&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=060&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "007 First Light",
+        "releases.0.note": "An action-adventure game officially released on May 28, vividly depicting James Bond's battlefield and surpassing 1.5 million copies in global sales within 24 hours of release.",
+        "releases.0.dev": "IO Interactive",
+        "releases.1.game": "ARC Raiders",
+        "releases.1.note": "With the official launch of the Nexon.com service and free play in PC cafes on May 28, users can enjoy third-person cooperative shooter action without purchasing a separate package.",
+        "releases.1.dev": "Embark Studios",
+        "releases.2.game": "Lollipop Chainsaw RePOP",
+        "releases.2.note": "The Korean console version of the zombie action game officially released on May 28, offering cheerful action featuring the cheerleader protagonist Juliet wielding a chainsaw.",
+        "releases.2.dev": "Dragami Games",
+        "releases.3.game": "Hamster Talk",
+        "releases.3.note": "An idle simulation game officially released globally on Steam on May 28, where players can interact with cute hamsters and decorate their own town.",
+        "releases.3.dev": "LINE Games",
+        "releases.4.game": "Fortress 3 Blue",
+        "releases.4.note": "A new casual shooter that officially began service on PC and mobile on May 28, bringing back the classic fun of the original while introducing three new characters.",
+        "releases.4.dev": "CCR",
+        "releases.5.game": "Dungeon & Fighter Mobile",
+        "releases.5.note": "Added the highest-level new dungeon 'Martial God: Soldoros' through an update on May 28, presenting a powerful combat challenge for adventurers.",
+        "releases.5.dev": "Nexon",
+        "events.0.name": "Esports World Cup 2026 (EWC 2026)",
+        "events.0.note": "A global esports tournament held in Paris, France, with a record-high prize pool of $75 million.",
+        "events.0.venue": "Paris Expo Porte de Versailles, Paris, France",
+        "events.1.name": "Summer Game Fest 2026",
+        "events.1.venue": "USA"
+      },
+      "briefing": {
+        "items.0.title": "Modern Warfare 4 First Revealed, Depicting the Second Korean War",
+        "items.0.source": "Inven",
+        "items.0.time": "May 28",
+        "items.1.title": "Nexon to Host 1.8 Billion Won Maple Global Development Contest",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "May 28",
+        "items.2.title": "Modern Warfare 4 Excludes Previous-Gen Consoles like PS4 and Xbox One",
+        "items.2.source": "IGN India",
+        "items.2.time": "May 28",
+        "items.3.title": "Granny Detectives, New Comic Mystery Title Demo Trailer Released",
+        "items.3.source": "IGN India",
+        "items.3.time": "May 28",
+        "items.4.title": "NEXPACE to Conduct 16 Billion Won NXPC Token Buyback",
+        "items.4.source": "4Gamer",
+        "items.4.time": "May 28",
+        "items.5.title": "Azur Promilia Begins Recruiting Participants for First CBT on June 1",
+        "items.5.source": "Dengeki Online",
+        "items.5.time": "May 28",
+        "items.6.title": "FIFA Announces 'Digital Football' Vision in Collaboration with Partners",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "May 28",
+        "items.7.title": "Marvel Rivals Restores Competitive Ratings for Victims of Cheaters",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "May 28"
+      },
+      "drk": {
+        "title": "A Bold 'Cutoff of the Previous Generation', the Start of a True Next-Gen Premium Era",
+        "intro": "They have finally begun to throw off the sandbag of previous-generation consoles that held them back for years. How is the combination of uncompromising technology and powerful IPs opening gamers' wallets?",
+        "points": "The new title 'Modern Warfare 4' announced its next-gen-only release, completely excluding support for previous-generation consoles. Meanwhile, '007 First Light,' backed by a powerful global IP, surpassed 1.5 million copies in sales within a single day of release, proving the immense power of the traditional premium package market. 🎮\n\nThis trend shows that the game market's **platform structure** and development paradigm have finally reached a turning point. Developers have ended the compromise with older devices they maintained to preserve market share, opting instead to push hardware performance to its absolute limits. Consumer sentiment, which demands higher-quality experiences, is actively welcoming this shift to high specifications and driving changes in consumption patterns. 📈\n\n**\"The era of cross-gen titles born of clumsy compromises is over. Only by providing undisputed premium value through peerless visuals and overwhelming immersion will games win the choice of players worldwide.\"** 💡\n\nInnovation shown by games that boldly cut off the limitations of legacy hardware will further accelerate the generational shift among gamers. Are you ready to open your wallet for the ultimate experience, available exclusively in true next-gen console and high-end PC environments? 💻"
+      },
+      "epic": {
+        "title": "LONESTAR",
+        "comment": "🎮 **Epic Games Free Giveaway This Week (Ends: 2026-06-04 15:00 UTC)**\n\n* **LONESTAR**\n  An SF roguelike deckbuilder where you customize your spaceship and utilize dice combinations to devise the best combat strategy. It is a masterpiece highly praised by users for its unique system and great immersion.\n* **Calico**\n  A wholesome simulation game where you play as a magical girl rebuilding a cat cafe in a town full of cute animals. You can heal in a peaceful and warm atmosphere while enjoying cute customization.\n\n🎁 **[Next Week]** Starting from June 4, 15:00 UTC, two mysterious new games will arrive, so don't miss out!"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "007 ファーストライト",
+        "releases.0.note": "5月28日に正式リリースされたアクションアドベンチャーゲームで、ジェームズ・ボンド의戦場をリアルに描き、発売後24時間で世界累計販売本数150万本を突破しました。",
+        "releases.0.dev": "IO Interactive",
+        "releases.1.game": "ARC Raiders",
+        "releases.1.note": "5月28日にNexon.comサービスと公認ネットカフェでの無料プレイが正式ローンチされ、ユーザーは個別にパッケージを購入することなく、三人称視点の協力型シューティングアクションを楽しむことができます。",
+        "releases.1.dev": "Embark Studios",
+        "releases.2.game": "ロリポップチェーンソー RePOP",
+        "releases.2.note": "5月28日に正式リリースされたゾンビアクション活劇ゲームのコンソール韓国語版で、チアリーダーの主人公ジュリエットがチェーンソーを手にして繰り広げる軽快なアクションをお届けします。",
+        "releases.2.dev": "ドラガミゲームス",
+        "releases.3.game": "ハムスタートーク",
+        "releases.3.note": "5月28日にSteamを通じてグローバル正式リリースされた放置型シミュレーションゲームで、可愛いハムスターたちと触れ合いながら、自分だけのタウンを作り上げることができます。",
+        "releases.3.dev": "LINE Games",
+        "releases.4.game": "ポトリス3 BLUE",
+        "releases.4.note": "5月28日にPCおよびモバイルで正式サービスを開始したカジュアルシューティングの新作で、原作のクラシックな面白さを生かしつつ、3体の新規キャラクターを新たに披露します。",
+        "releases.4.dev": "CCR",
+        "releases.5.game": "アラド戦記モバイル",
+        "releases.5.note": "5月28日のアップデートを通じて、最上位の新ダンジョン「武神：ソルドロス」を追加し、冒険者たちに強力な戦闘の挑戦状を突きつけました。",
+        "releases.5.dev": "ネクソン",
+        "events.0.name": "eスポーツワールドカップ 2026 (EWC 2026)",
+        "events.0.note": "史上最大規模の賞金総額7,500万ドルを掲げ、フランス・パリで開催されるグローバルeスポーツ大会",
+        "events.0.venue": "パリ・エキスポ・ポルト・ド・ヴェルサイユ（フランス・パリ）",
+        "events.1.name": "サマーゲームフェスト 2026",
+        "events.1.venue": "アメリカ"
+      },
+      "briefing": {
+        "items.0.title": "『モダン・ウォーフェア4』初公開、第2次朝鮮戦争を扱う",
+        "items.0.source": "Inven",
+        "items.0.time": "5月28일",
+        "items.1.title": "ネクソン、18億ウォン規模の『メイプルストーリー』グローバル開発コンテストを開催",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "5月28일",
+        "items.2.title": "『モダン・ウォーフェア4』、PS4やXbox Oneなどの前世代機向けコンソールを除外",
+        "items.2.source": "IGN India",
+        "items.2.time": "5月28일",
+        "items.3.title": "おばあちゃん探偵団、コメディ推理新作のデモトレーラーを公開",
+        "items.3.source": "IGN India",
+        "items.3.time": "5月28일",
+        "items.4.title": "NEXPACE、160億ウォン規模のNXPCトークン・バイバックを実施",
+        "items.4.source": "4Gamer",
+        "items.4.time": "5月28일",
+        "items.5.title": "『アズールプロミリア』、6月1日より初のCBT参加者募集を開始",
+        "items.5.source": "電撃オンライン",
+        "items.5.time": "5月28일",
+        "items.6.title": "国際サッカー連盟（FIFA）、パートナーとの協業による「デジタルフットボール」のビジョンを発表",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "5月28일",
+        "items.7.title": "『マーベル・ライバルズ』、チートユーザーの被害に遭ったプレイヤーのランク戦ポイントを復旧",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "5月28일"
+      },
+      "drk": {
+        "title": "大胆な「前世代機の切り捨て」、真の次世代プレミアム時代の幕開け",
+        "intro": "数年間にわたり足を引っ張っていた前世代ゲーム機という重荷をついに脱ぎ捨て始めました。\n妥協のない技術力と強力なIPの結合は、果たしてゲーマーたちの財布をどのように開かせているのでしょうか？",
+        "points": "新作『モダン・ウォーフェア4』が前世代コンソールのサポートを完全に排除し、次世代機専用でのリリースを宣言しました。同時に、強力なグローバルIPを掲げた『007 ファーストライト』が発売後わずか1日で販売本数150万本を突破し、正統派プレミアムパッケージ市場の強大な力を証明しました。🎮\n\nこのような流れは、ゲーム市場の**プラットフォーム構造**と開発パラダイムがついに転換点を迎えたことを示しています。開発会社が市場シェア維持のために固執していた旧型機器との妥協を終わらせ、ハードウェア性能を極限まで引き上げる選択をしたのです。より高品質な体験を求める消費者心理は、このような高スペックへの移行を積極的に歓迎し、消費構造の変化を牽引しています。📈\n\n**「中途半端な妥協を経たクロスジェネレーション（Cross-gen）タイトルの時代は終わりました。他に類を見ないビジュアルと圧倒的な没入感という、確かなプレミアム価値を提供してこそ、世界中のゲーマーから選ばれるでしょう。」** 💡\n\n旧型ハードウェアの限界を大胆に切り捨てたゲームが見せるイノベーションは、ゲーマーの世代交代をさらに加速させるはずです。あなたは、真の次世代コンソールとハイスペックPC環境でしか得られない最高の体験のために、喜んで財布を開く準備ができていますか？💻"
+      },
+      "epic": {
+        "title": "LONESTAR",
+        "comment": "🎮 **今週のエピックゲームズ無料配布（配布終了: 2026-06-05 00:00）**\n\n* **LONESTAR**\n  宇宙船をカスタマイズし、サイコロの組み合わせを活用して最善の戦闘戦略を立てるSFローグライク・デッキ構築ゲームです。独創的なシステムと優れた没入感で、ユーザーから高い評価を受けている秀作です。\n* **Calico**\n  可愛い動物たちでいっぱいの町で魔法少女になり、キャットカフェを再建する癒やし系シミュレーションゲームです。平和で温かい雰囲気の中、愛らしいカスタマイズを楽しみながら癒やされることができます。\n\n🎁 **[Next Week]** 6月5日 00:00からは、ベールに包まれた2つの新たな「ミステリーゲーム」が登場する予定ですので、絶対に逃さないでください！"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "구세대 버린 '진짜' 차세대 게임의 시대가 왔다! 🚀 (feat. LONESTAR 무료 혜택)",
+    "en": "Why games are finally ditching last-gen 🚀 (feat. Free LONESTAR!)",
+    "ja": "ついに旧世代切り捨てへ！「真」の次世代ゲーム到来 🚀 (LONESTAR無料特典あり)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "드디어 구세대 콘솔을 졸업한 '진짜' 차세대 게임의 시대가 오나 봐요! 🚀\n모던 워페어 4가 이전 세대를 완전히 제외하고 역대급 비주얼로 찾아온대요! 🎮\n\nhttps://www.gtplayer.net/edition-060/\n\n#모던워페어4 #게임소식 #GTPlayer",
+          "posted": true,
+          "data": {
+            "data": {
+              "id": "2060120225258053834",
+              "edit_history_tweet_ids": [
+                "2060120225258053834"
+              ],
+              "text": "드디어 구세대 콘솔을 졸업한 '진짜' 차세대 게임의 시대가 오나 봐요! 🚀\n모던 워페어 4가 이전 세대를 완전히 제외하고 역대급 비주얼로 찾아온대요! 🎮\n\nhttps://t.co/cb1xeOmOj0\n\n#모던워페어4 #게임소식 #GTPlayer"
+            }
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-29T07:05:10.279977"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "5월 29일 오늘의 게임 소식 🎮 | 구세대 버린 '진짜' 차세대 게임의 시대가 왔다! (feat. LONESTAR 무료 혜택 🎁)\n\n📰 **[뉴스]** 제2차 한국전쟁을 다룬 <모던 워페어 4> 최초 공개! 과감한 구세대 콘솔(PS4, XONE) 제외 선언까지?\n📅 **[출시]** <007 퍼스트 라이트>부터 추억의 <포트리스3 블루>까지, 이번 주를 뜨겁게 달굴 신작 라인업!\n🧠 **[인사이트]** 구세대 콘솔이라는 모래주머니를 드디어 벗어던진 게임 업계! 타협 없는 기술력이 불러올 미래는?\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#GT플레이어 #gtplayer #게임뉴스 #신작게임 #게임추천 #모던워페어4 #콜오브듀티 #넥슨 #포트리스3 #콘솔게임 #스팀게임 #모바일게임 #플레이스테이션5 #엑스박스 #게임덕후 #게임소통 #게임스타그램 #인디게임 #게임리뷰 #게임뉴스레터",
+          "image_paths": [
+            "web\\instagram\\edition_060\\card_news.png",
+            "web\\instagram\\edition_060\\card_calendar.png",
+            "web\\instagram\\edition_060\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3907295460256352847_39332818166",
+            "url": "https://www.instagram.com/p/DY5gIT1E4pP/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-29T07:05:47.022322"
+    }
+  }
+}

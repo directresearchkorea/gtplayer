@@ -1,0 +1,487 @@
+{
+  "num": "027",
+  "date": "2026-04-09",
+  "status": "published",
+  "schedule": {
+    "date": "2026-04-09",
+    "time": "14:30",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "update",
+          "game": "일곱 개의 대죄: Origin",
+          "dev": "넷마블",
+          "date": "4월 8일(수)",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "color": "#3b82f6",
+          "note": "출시 후 첫 대규모 업데이트를 통해 신규 영웅 '데이지'와 보스 던전 심연 난이도를 추가하고 SSR 영웅 선택권을 지급합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315245",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "드래곤네스트 월드",
+          "dev": "아이덴티티게임즈",
+          "date": "4월 9일(목)",
+          "platforms": [
+            "모바일"
+          ],
+          "color": "#10b981",
+          "note": "원작 IP의 타격감을 모바일로 재구성한 MORPG로, 권은비 홍보 모델 발탁과 함께 4월 9일 정식 서비스를 시작했습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315243",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "노 맨즈 스카이",
+          "dev": "헬로 게임즈",
+          "date": "4월 9일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#3b82f6",
+          "note": "포켓몬 스타일의 크리처 수집 및 배틀 시스템을 도입하여 게임 내 독립적인 멀티플레이어 경험을 제공하는 최신 업데이트를 배포했습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/sim/no-mans-skys-latest-update-is-an-entire-new-pokemon-style-creature-collection-and-battle-system-thats-an-entire-multiplayer-game-all-of-its-own/",
+          "source_name": "PC Gamer"
+        },
+        {
+          "category": "release",
+          "game": "페이스: 언홀리 트리니티",
+          "dev": "뉴 블러드 인터랙티브",
+          "date": "4월 9일(목)",
+          "platforms": [
+            "PS5"
+          ],
+          "color": "#10b981",
+          "note": "8비트 그래픽 스타일의 유명 악마祓이 호러 어드벤처 게임이 4월 9일 한국어 지원과 함께 PS5 버전을 정식 출시했습니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/997/G099733/20260409010/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "update",
+          "game": "승리의 여신: 니케",
+          "dev": "레벨 인피니트",
+          "date": "4월 9일(목)",
+          "platforms": [
+            "모바일",
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "신규 니케 '시라츠루'가 등장하는 최신 버전 'GOOD WORLD' 업데이트를 통해 새로운 이벤트 스토리와 사이드 스토리를 선보입니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202604/71337",
+          "source_name": "電撃オンライン"
+        },
+        {
+          "category": "event",
+          "game": "인빈시블 VS",
+          "dev": "스카이바운드 게임즈",
+          "date": "4월 9일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#f59e0b",
+          "note": "인기 애니메이션 IP 기반의 3대3 태그 매치 격투 게임으로, 오픈 베타 트레일러를 공개하며 본격적인 테스트 시작을 알렸습니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/invincible-vs/257822/video/invincible-vs-official-open-beta-trailer",
+          "source_name": "IGN India"
+        }
+      ],
+      "events": [
+        {
+          "name": "Invincible VS 오픈 베타",
+          "note": "인기 애니메이션 '인빈시블' IP를 기반으로 한 3v3 격투 게임의 오픈 베타 테스트",
+          "venue": "온라인 (PC/콘솔)",
+          "date": "2026-04-09 (공개된 트레일러 기준 일정 확인 필요)",
+          "tag": "베타 테스트",
+          "website": "https://in.ign.com/invincible-vs/257822/video/invincible-vs-official-open-beta-trailer"
+        },
+        {
+          "name": "Women in Gaming UK",
+          "note": "IGN 엔터테인먼트와 덴츠 게이밍이 파트너십을 통해 개최하는 여성 게임 업계 종사자들을 위한 네트워킹 행사",
+          "venue": "영국 오프라인 (장소 미정)",
+          "date": "2026-04-17",
+          "tag": "오프라인 행사",
+          "website": "https://www.gamesindustry.biz/ign-entertainment-and-dentsu-gaming-announce-women-in-gaming-uk-event"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "엑스엘 '더 큐브, 세이브 어스' 출시 2주 만에 종료",
+          "source": "게임메카",
+          "time": "4월 9일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1773850"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'트릭컬 리바이브' 2.5주년 맞아 역대급 매출 기록",
+          "source": "게임메카",
+          "time": "4월 9일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1773847"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'포르자 호라이즌 6' 일본 배경 전체 맵 상세 공개",
+          "source": "IGN India",
+          "time": "4월 9일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/pokemon-champions/257844/video/forza-horizon-6s-full-japan-map-revealed-ign-daily-fix"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "생존 전략 게임 '타운즈폴크' 7월 정식 출시 확정",
+          "source": "IGN India",
+          "time": "4월 9일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/townsfolk/257830/video/townsfolk-official-release-date-announcement-trailer"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'타츠진 익스트림' 7월 30일 콘솔 버전 출시 발표",
+          "source": "4Gamer",
+          "time": "4월 9일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/997/G099725/20260409004/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "3월 日 게임 판매 1위 '포코 아 포켓몬' 기록 달성",
+          "source": "Famitsu",
+          "time": "4월 9일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202604/71354"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "헤이즐라이트 스튜디오, 누적 판매 5,000만 장 돌파",
+          "source": "PC Gamer",
+          "time": "4월 9일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/action/split-fiction-studio-hazelight-celebrates-selling-50-million-games-in-under-10-years/"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "슈퍼셀 일카 파나넨 CEO, BAFTA 펠로우십 수상",
+          "source": "GamesIndustry.biz",
+          "time": "4월 9일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/bafta-to-honour-supercell-ceo-with-fellowship"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": [],
+      "items": [
+        {
+          "game": "AION2",
+          "period": "최근 30일",
+          "count": "7,224",
+          "sources": "커뮤니티",
+          "score": "2.7",
+          "pos": 5,
+          "neu": 73,
+          "neg": 22,
+          "keywords": [
+            {
+              "text": "Class Mention",
+              "positive": true
+            },
+            {
+              "text": "Dungeon / Raid Discussion",
+              "positive": true
+            },
+            {
+              "text": "DPS Comparison",
+              "positive": true
+            },
+            {
+              "text": "Buff/Nerf Debate",
+              "positive": true
+            },
+            {
+              "text": "Build Meta",
+              "positive": true
+            }
+          ],
+          "comments": [
+            {
+              "text": "전투력 시스템 개선과 자동 추출 기능 추가는 아주 편리해요.",
+              "positive": true
+            },
+            {
+              "text": "특정 제작 아이템의 과한 성능 때문에 게임 밸런스가 다 깨졌어요.",
+              "positive": false
+            },
+            {
+              "text": "종족 간 불균형과 수호성 버그 방치로 접는 유저가 많아 답답해요.",
+              "positive": false
+            }
+          ]
+        }
+      ]
+    },
+    "drk": {
+      "enabled": true,
+      "title": "유명 IP의 이름표보다 '지속 가능한 진화'가 생존을 결정하는 시대",
+      "intro": "유명 IP를 앞세운 신작들이 쏟아지는 가운데, 왜 누군가는 2주 만에 서비스를 종료하고 누군가는 역주행의 신화를 기록할까요? 📦 단순히 이름값에 의존하는 시대가 끝나고, 게임의 '생존 근육'이 무엇인지 증명해야 하는 냉혹한 시점이 왔습니다. 🕰️",
+      "points": "오늘의 뉴스는 IP의 강력한 존재감과 동시에 서비스 지속성의 양극화를 극명하게 보여줍니다. '드래곤네스트'와 '니케' 등 강력한 팬덤을 가진 게임들이 업데이트와 출시 소식을 전하는 반면, 한편에서는 출시 2주 만에 서비스를 종료하는 사례가 발생했습니다. 이는 단순히 유명 IP를 모바일로 옮기거나 트렌드를 쫓는 것만으로는 까다로운 게이머들을 붙잡아둘 수 없다는 사실을 방증합니다. 📉\n\n이러한 현상은 소비자들의 **게임 소비 구조**를 근본적으로 변화시키고 있습니다. 이제 유저들은 게임의 초기 화제성보다 '이 게임이 앞으로 얼마나 확장될 수 있는가'를 먼저 판단합니다. '노 맨즈 스카이'가 크리처 수집 시스템을 도입하며 장르적 경계를 허물고, '트릭컬 리바이브'가 장기 흥행에 성공한 것은 소비자 심리가 단순한 플레이를 넘어 지속적인 '경험의 신선도'를 중시하고 있음을 의미합니다. 📈\n\n결국 산업의 핵심 통찰은 **IP라는 껍데기가 아니라, 변화하는 사용자 니즈에 맞춰 게임의 코어 루프를 재정의하는 '변동성 대응 능력'에 있습니다.** 과거처럼 완성된 패키지를 던지는 방식이 아니라, 플랫폼 안에서 유저와 함께 호흡하며 장르적 변주를 시도하는 게임만이 플랫폼의 높은 수수료와 마케팅 비용을 견디고 살아남을 수 있는 구조가 되었습니다. 💡\n\n결국 미래의 게임 시장은 '얼마나 화려하게 시작하느냐'가 아닌 '얼마나 유연하게 변모하느냐'의 싸움이 될 것입니다. 여러분이 즐기는 그 게임은 과연 1년 뒤에도 전혀 다른 재미를 줄 수 있는 준비가 되어 있습니까? 🌐"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": true,
+      "title": "No Man&#39;s Sky: Breach - Official Update Trailer",
+      "channel": "IGN",
+      "videoId": "MkuNvj1i25M",
+      "url": "https://www.youtube.com/watch?v=MkuNvj1i25M",
+      "thumbnail": "https://i.ytimg.com/vi/MkuNvj1i25M/hqdefault.jpg",
+      "comment": "무한한 우주 탐험의 대명사 **노 맨즈 스카이(No Man's Sky)**가 새로운 'Breach' 업데이트를 통해 또 한 번의 놀라운 진화를 선보입니다. 🚀 특히 영상 속 차원의 균열에서 쏟아져 나오는 적들과 박진감 넘치는 전투 장면은 이번 업데이트의 놓칠 수 없는 하이라이트입니다. 🌌 더욱 깊어진 우주의 미스터리를 담은 이번 트레일러를 감상하며 새로운 모험을 준비해 보세요.",
+      "search_query": "No Man's Sky Official Update Trailer",
+      "ai_game_name": "노 맨즈 스카이 (No Man's Sky)",
+      "ai_reason": "단순 탐험을 넘어 '포켓몬' 스타일의 크리처 수집 및 배틀 시스템을 도입한 파격적인 업데이트 트레일러입니다. 더욱 진화한 그래픽과 독립적인 멀티플레이 경험이 주는 비주얼적 충격을 경험해 보세요."
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=027&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=027&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "The Seven Deadly Sins: Origin",
+        "releases.0.note": "Through the first major update since launch, the new hero 'Daisy' and the Abyss difficulty for Boss Dungeons have been added, and an SSR Hero Selection Ticket is being distributed.",
+        "releases.0.dev": "Netmarble",
+        "releases.1.game": "Dragon Nest World",
+        "releases.1.note": "An MORPG that reconstructs the impact of the original IP for mobile; it officially launched on April 9th along with the selection of Kwon Eun-bi as the promotional model.",
+        "releases.1.dev": "Identity Games",
+        "releases.2.game": "No Man's Sky",
+        "releases.2.note": "Released the latest update that introduces a Pokémon-style creature collection and battle system, providing an independent multiplayer experience within the game.",
+        "releases.2.dev": "Hello Games",
+        "releases.3.game": "FAITH: The Unholy Trinity",
+        "releases.3.note": "The famous 8-bit style exorcism horror adventure game officially launched its PS5 version with Korean language support on April 9th.",
+        "releases.3.dev": "New Blood Interactive",
+        "releases.4.game": "Goddess of Victory: Nikke",
+        "releases.4.note": "Introduces a new event story and side story through the latest 'GOOD WORLD' update featuring the new Nikke 'Shiratsuru'.",
+        "releases.4.dev": "Level Infinite",
+        "releases.5.game": "Invincible VS",
+        "releases.5.note": "A 3v3 tag-match fighting game based on the popular animation IP; it announced the start of testing with the release of an open beta trailer.",
+        "releases.5.dev": "Skybound Games",
+        "events.0.name": "Invincible VS Open Beta",
+        "events.0.note": "Open beta test of a 3v3 fighting game based on the popular animation 'Invincible' IP.",
+        "events.0.venue": "Online (PC/Console)",
+        "events.1.name": "Women in Gaming UK",
+        "events.1.note": "A networking event for women in the gaming industry hosted through a partnership between IGN Entertainment and Dentsu Gaming.",
+        "events.1.venue": "UK Offline (TBA)"
+      },
+      "briefing": {
+        "items.0.title": "XL Games' 'The Cube, Save Us' Shuts Down Just Two Weeks After Launch",
+        "items.0.source": "Gamemeca",
+        "items.0.time": "April 9",
+        "items.1.title": "'Trickcal Revive' Achieves Record Sales on its 2.5th Anniversary",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "April 9",
+        "items.2.title": "'Forza Horizon 6' Full Map Details Set in Japan Revealed",
+        "items.2.source": "IGN India",
+        "items.2.time": "April 9",
+        "items.3.title": "Survival Strategy Game 'Townsfolk' Confirmed for Official Release in July",
+        "items.3.source": "IGN India",
+        "items.3.time": "April 9",
+        "items.4.title": "'TATSUJIN EXTREME' Console Version Announced for July 30 Release",
+        "items.4.source": "4Gamer",
+        "items.4.time": "April 9",
+        "items.5.title": "'Poco a Pokemon' Ranks #1 in Japan Game Sales for March",
+        "items.5.source": "Famitsu",
+        "items.5.time": "April 9",
+        "items.6.title": "Hazelight Studios Surpasses 50 Million Total Sales",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "April 9",
+        "items.7.title": "Supercell CEO Ilkka Paananen Awarded BAFTA Fellowship",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "April 9"
+      },
+      "feedback": {
+        "items.0.game": "AION2",
+        "items.0.period": "Last 30 Days",
+        "items.0.keywords.0.text": "Class Mention",
+        "items.0.keywords.1.text": "Dungeon / Raid Discussion",
+        "items.0.keywords.2.text": "DPS Comparison",
+        "items.0.keywords.3.text": "Buff/Nerf Debate",
+        "items.0.keywords.4.text": "Build Meta",
+        "items.0.comments.0.text": "The combat power system improvements and the addition of the auto-extraction feature are very convenient.",
+        "items.0.comments.1.text": "The game balance is broken due to the overpowered stats of certain crafted items.",
+        "items.0.comments.2.text": "It's frustrating that many players are quitting due to racial imbalances and neglected Templar bugs."
+      },
+      "drk": {
+        "title": "An Era Where 'Sustainable Evolution' Determines Survival Over Famous IP Branding",
+        "intro": "With new titles fronted by famous IPs pouring in, why do some shut down within two weeks while others record legendary comebacks? 📦 The era of simply relying on brand value is over; a harsh moment has arrived where games must prove their 'survival muscles.' 🕰️",
+        "points": "Today's news vividly illustrates both the strong presence of IPs and the polarization of service sustainability. While games with powerful fandoms like 'Dragon Nest' and 'Nikke' share update and release news, cases of services shutting down just two weeks after launch are also occurring. This proves that simply moving a famous IP to mobile or following trends is not enough to retain discerning gamers. 📉\n\nThis phenomenon is fundamentally changing consumers' **game consumption structures**. Now, users judge 'how much this game can expand in the future' rather than its initial buzz. The fact that 'No Man's Sky' broke genre boundaries by introducing a creature collection system and 'Trickcal Revive' succeeded in long-term performance means consumer sentiment values 'freshness of experience' beyond simple play. 📈\n\nUltimately, the industry's key insight lies not in the **shell of the IP, but in the 'volatility response capability' to redefine the game's core loop according to changing user needs.** Instead of throwing a finished package as in the past, only games that try genre variations while breathing with users within the platform can withstand high platform fees and marketing costs to survive. 💡\n\nUltimately, the future game market will be a battle of 'how flexibly it transforms' rather than 'how grandiosely it begins.' Is the game you enjoy ready to provide a completely different kind of fun a year from now? 🌐"
+      },
+      "trailer": {
+        "title": "No Man's Sky: Breach - Official Update Trailer",
+        "comment": "The epitome of infinite space exploration, **No Man's Sky**, showcases another amazing evolution through the new 'Breach' update. 🚀 In particular, the enemies pouring out of dimensional rifts and the thrilling combat scenes are highlights you can't miss in this update. 🌌 Watch this trailer containing deeper space mysteries and prepare for a new adventure."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "七つの大罪：Origin",
+        "releases.0.note": "リリース後初の大規模アップデートを通じて、新英雄「デイジー」とボスダンジョンの深淵難易度を追加し、SSR英雄選択券を配布します。",
+        "releases.0.dev": "ネットマーブル",
+        "releases.1.game": "ドラゴンネスト ワールド",
+        "releases.1.note": "原作IPの打撃感をモバイルで再構成したMORPGで、クォン・ウンビの広報モデル抜擢とともに4月9日に正式サービスを開始しました。",
+        "releases.1.dev": "アイデンティティゲームズ",
+        "releases.2.game": "No Man's Sky",
+        "releases.2.note": "ポケモンスタイルのクリーチャー収集およびバトルシステムを導入し、ゲーム内で独立したマルチプレイヤー体験を提供する最新アップデートを配信しました。",
+        "releases.2.dev": "ハロー・ゲームズ",
+        "releases.3.game": "FAITH: The Unholy Trinity",
+        "releases.3.dev": "ニュー・ブラッド・インタラクティブ",
+        "releases.3.note": "8ビットグラフィックスタイルの有名な悪魔祓いホラーアドベンチャーゲームが、4月9日に韓国語対応とともにPS5版を正式リリースしました。",
+        "releases.4.game": "勝利の女神：NIKKE",
+        "releases.4.note": "新ニケ「シラツル」が登場する最新バージョン「GOOD WORLD」アップデートを通じて、新しいイベントストーリーとサイドストーリーを公開します。",
+        "releases.4.dev": "Level Infinite",
+        "releases.5.game": "Invincible VS",
+        "releases.5.note": "人気アニメIPをベースにした3対3タッグマッチ格闘ゲームで、オープンベータトレーラーを公開し本格的なテスト開始を知らせました。",
+        "releases.5.dev": "スカイバウンド・ゲームズ",
+        "events.0.name": "Invincible VS オープンベータ",
+        "events.0.note": "人気アニメ「インビンシブル」のIPをベースにした3v3格闘ゲームのオープンベータテスト",
+        "events.0.venue": "オンライン (PC/コンソール)",
+        "events.1.name": "Women in Gaming UK",
+        "events.1.note": "IGNエンターテインメントと電通ゲーミングがパートナーシップを通じて開催する、女性ゲーム業界従事者のためのネットワーキングイベント",
+        "events.1.venue": "イギリス オフライン (場所未定)"
+      },
+      "briefing": {
+        "items.0.title": "XL Games「ザ・キューブ、セーブ・アス」発売から2週間でサービス終了",
+        "items.0.source": "GameMeca",
+        "items.0.time": "4月9日",
+        "items.1.title": "「トリカル：リバイブ」2.5周年を迎え歴代最高の売上を記録",
+        "items.1.source": "GameMeca",
+        "items.1.time": "4月9日",
+        "items.2.title": "「フォルツァ ホライゾン 6」日本を舞台にした全体マップの詳細を公開",
+        "items.2.source": "IGN India",
+        "items.2.time": "4月9日",
+        "items.3.title": "生存戦略ゲーム「タウンズフォーク」7月の正式リリースが確定",
+        "items.3.source": "IGN India",
+        "items.3.time": "4月9日",
+        "items.4.title": "「TATSUJIN EXTREME」7月30日にコンソール版の発売を発表",
+        "items.4.source": "4Gamer",
+        "items.4.time": "4月9日",
+        "items.5.title": "3月の日本ゲーム販売1位「ポコア・ポケモン」が記録達成",
+        "items.5.source": "Famitsu",
+        "items.5.time": "4月9日",
+        "items.6.title": "ヘイズライト・スタジオ、累計販売数5,000万本を突破",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "4月9日",
+        "items.7.title": "スーパーセル イルカ・パーナネンCEO、BAFTAフェローシップを受賞",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "4月9日"
+      },
+      "feedback": {
+        "items.0.game": "AION2",
+        "items.0.period": "直近30日間",
+        "items.0.keywords.0.text": "クラス言及",
+        "items.0.keywords.1.text": "ダンジョン / レイド議論",
+        "items.0.keywords.2.text": "DPS比較",
+        "items.0.keywords.3.text": "バフ/ナーフ論争",
+        "items.0.keywords.4.text": "ビルドメタ",
+        "items.0.comments.0.text": "戦闘力システムの改善と自動抽出機能の追加は非常に便利です。",
+        "items.0.comments.1.text": "特定の製作アイテムの過剰な性能のせいで、ゲームバランスが完全に崩れました。",
+        "items.0.comments.2.text": "種族間の不均衡と守護星バグの放置により、引退するユーザーが多くて困惑しています。"
+      },
+      "drk": {
+        "title": "有名IPの看板よりも「持続可能な進化」が生存を決定する時代",
+        "intro": "有名IPを掲げた新作が溢れる中、なぜある者は2週間でサービスを終了し、ある者は逆走の神話を記録するのでしょうか？ 📦 単に名前の価値に依存する時代は終わり、ゲームの「生存筋肉」が何であるかを証明しなければならない過酷な局面が来ています。 🕰️",
+        "points": "本日のニュースは、IPの強力な存在感と同時に、サービスの持続性の二極化を鮮明に示しています。「ドラゴンネスト」や「NIKKE」など強力なファン層を持つゲームがアップデートやリリースのニュースを伝える一方で、片方では発売から2週間でサービスを終了する事例が発生しました。これは、単に有名IPをモバイルに移植したりトレンドを追ったりするだけでは、目の肥えたゲーマーたちを繋ぎ止めておくことができないという事実を裏付けています。 📉\n\nこのような現象は、消費者の**ゲーム消費構造**を根本的に変化させています。今やユーザーは、ゲームの初期の話題性よりも「このゲームが今後どれほど拡張できるか」をまず判断します。「No Man's Sky」がクリーチャー収集システムを導入してジャンルの境界を打ち破り、「トリカル：リバイブ」が長期的な興行に成功したのは、消費者心理が単純なプレイを超えて、継続的な「体験の鮮度」を重視していることを意味します。 📈\n\n結局のところ、業界の核心的な洞察は**IPという殻ではなく、変化するユーザーニーズに合わせてゲームのコアループを再定義する「変動対応能力」にあります。** 過去のように完成されたパッケージを投じる方式ではなく、プラットフォームの中でユーザーと共に呼吸し、ジャンル的な変奏を試みるゲームだけが、プラットフォームの高い手数料とマーケティング費用に耐えて生き残ることができる構造となりました。 💡\n\n結局、未来のゲーム市場は「どれほど華やかに始めるか」ではなく「どれほど柔軟に変貌するか」の戦いになるでしょう。皆さんが楽しんでいるそのゲームは、果たして1年後にも全く異なる面白さを提供できる準備ができていますか？ 🌐"
+      },
+      "trailer": {
+        "title": "No Man's Sky: Breach - Official Update Trailer",
+        "comment": "無限の宇宙探索の代名詞**「No Man's Sky」**が、新しい「Breach」アップデートを通じて再び驚くべき進化を披露します。 🚀 特に映像の中で次元の裂け目から溢れ出す敵との迫力ある戦闘シーンは、今回のアップデートの見逃せないハイライトです。 🌌 さらなる深まりを見せる宇宙のミステリーを込めた今回のトレーラーを鑑賞し、新たな冒険の準備をしてみてください。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "유명 IP의 시대는 갔다? 📉 게임의 생존을 결정짓는 '진화'의 법칙 (feat. 노 맨즈 스카이 신규 예고편 🚀)",
+    "en": "Why big names aren't enough anymore 📉 — The era of 'Evolution' is here (feat. No Man’s Sky: Breach 🚀)",
+    "ja": "有名IPの看板はもう通用しない？📉 生き残るための「進化」の法則（feat. ノーマンズスカイ最新映像 🚀）"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ]
+}

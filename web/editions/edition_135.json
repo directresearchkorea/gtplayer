@@ -1,0 +1,438 @@
+{
+  "num": "135",
+  "date": "2026-09-29",
+  "status": "published",
+  "schedule": {
+    "date": "2026-09-29",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "더 위쳐 3: 와일드 헌트 리마스터",
+          "dev": "CD 프로젝트 레드",
+          "date": "9월 29일(화)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "XSX"
+          ],
+          "color": "#10b981",
+          "note": "9월 29일 정식 출시되는 오픈월드 RPG 리마스터로, 광원 및 그래픽 디테일 개선과 카메라 구도, 스킬 시스템이 대폭 개편됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=321508",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "마인크래프트 던전스 2",
+          "dev": "모장 스튜디오",
+          "date": "9월 29일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 29일 출시되는 던전 크롤러 액션 RPG 신작으로, 마인크래프트 세계관 속 새로운 던전과 강력한 적들을 탐험할 수 있습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/1912410/Minecraft_Dungeons_II/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "트랜스포트 피버 3",
+          "dev": "어반 게임즈",
+          "date": "9월 29일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 29일 출시되는 교통 경영 시뮬레이션 시리즈 최신작으로, 철도·도로·해상·항공을 아우르는 정밀한 운송 네트워크 구축을 지원합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3493540/Transport_Fever_3/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "진·삼국무쌍 3: 컴플리트 에디션 리마스터",
+          "dev": "코에이 테크모 게임즈",
+          "date": "9월 30일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 30일 정식 출시되는 택티컬 액션 리마스터로, 원작의 호쾌한 일기당천 액션을 고해상도 그래픽과 확장팩 통합 구성으로 즐길 수 있습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3841510/DYNASTY_WARRIORS_3_Complete_Edition_Remastered/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "송스 오브 글리머윅",
+          "dev": "이스턴리 게임즈",
+          "date": "9월 30일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 30일 출시되는 마법 아카데미 배경의 스토리 중심 RPG로, 음악으로 마법을 연주하고 정원을 가꾸며 마법 학교 생활을 경험할 수 있습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/1706510/Songs_of_Glimmerwick/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "에이스 컴뱃 8: 윙스 오브 테베",
+          "dev": "반다이 남코 엔터테인먼트",
+          "date": "10월 1일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 1일 정식 출시되는 정통 플라이트 슈팅 시리즈 최신작으로, 고도화된 비행 물리와 장대한 공중전 캠페인을 제공합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2288340/ACE_COMBAT_8_WINGS_OF_THEVE/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "Google Play ASL 시즌22 8강 2주차",
+          "note": "스타크래프트: 리마스터 8강 3·4경기 진행",
+          "venue": "서울 대치동 프릭업 스튜디오",
+          "date": "2026-09-28 ~ 2026-09-29",
+          "tag": "e스포츠",
+          "website": "https://www.inven.co.kr/webzine/news/?news=321499"
+        },
+        {
+          "name": "드래곤볼 Z 폭렬격전 제3탄 기념 공식 생방송",
+          "note": "신규 캐릭터 공개 및 기념 선물 증정 온라인 라이브 방송",
+          "venue": "온라인",
+          "date": "2026-09-29",
+          "tag": "쇼케이스",
+          "website": "https://dengekionline.com/article/202609/89336"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'트릭컬', 3주년 효과로 韓 7위·日 5위 역주행",
+          "source": "인벤",
+          "time": "9월 28일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=321502"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "게임위·이용자협회, 확률형 아이템 피해 공동 대응",
+          "source": "게임메카",
+          "time": "9월 28일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1781075"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'갓 오브 워 로페이', 크레토스 신규 이미지 공개",
+          "source": "IGN India",
+          "time": "9월 28일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/god-of-war-laufey/273056/new-image-of-kratos-in-god-of-war-laufey-sparks-questions-ign-daily-fix"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "너티독, '라오어 데이' 기념 요테이의 유령 콜라보",
+          "source": "IGN India",
+          "time": "9월 28일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/the-last-of-us-part-ii/273040/the-last-of-us-day-reveals-ghost-of-yotei-collab-content-and-ambience-video-as-fans-beg-naughty-dog"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "쇼치쿠, 힐링 어드벤처 '헬라' 12월 1일 출시 확정",
+          "source": "4Gamer",
+          "time": "9월 28일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/845/G084502/20260928037/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'파이어 엠블렘 만자천홍', 日 주간 패키지 1위 데뷔",
+          "source": "Famitsu",
+          "time": "9월 28일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202609/89360"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "소니, PS 패키지 디스크 지원 중단 여부 설문 착수",
+          "source": "GamesIndustry.biz",
+          "time": "9월 28일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "소니의 디스크 퇴출 설문, '소유'의 시대가 끝나고 있다",
+      "intro": "게임 타이틀이 꽂혀 있던 당신의 서재는 조만간 과거의 유물이 될지도 모릅니다. 💿\n소니가 마침내 플레이스테이션의 물리 디스크 지원 중단을 공식적으로 저울질하기 시작했습니다.",
+      "points": "소니 인터랙티브 엔터테인먼트가 향후 콘솔에서 물리 패키지 디스크 지원을 중단하는 방안에 대해 이용자 설문 조사를 시작했습니다. 디지털 다운로드 판매 비중이 이미 80%를 넘어선 시장 환경 속에서, 콘솔의 상징이었던 디스크 드라이브의 완전한 퇴출이 가시권에 들어온 팩트입니다. 📦\n\n이는 콘솔 생태계의 **플랫폼 구조와 게임 소비 구조**를 근본적으로 뒤흔드는 변화입니다. 디스크 드라이브의 소멸은 패키지 유통망과 중고 거래 시장의 종말을 의미하며, 모든 구매 경로는 단일 독점 스토어로 강제 귀속됩니다. 소비자는 게임을 영구 소유하는 감각을 잃고, 플랫폼의 라이선스 정책에 전적으로 종속되는 대여 형태의 소비에 머물게 됩니다. 📉\n\n결국 플랫폼 제조사의 궁극적 목표는 유통 비용 절감과 완벽한 디지털 가격 통제권 확보입니다. **패키지 없는 콘솔은 플랫폼 홀더에게는 무결한 수익 통제권을, 게이머에게는 '소유 없는 소비'를 강제하는 구조적 전환점입니다.** 🔑\n\n패키지를 개봉해 디스크를 넣고 플레이하던 콘솔 특유의 물리적 의식은 과연 이대로 역사의 뒤안길로 사라질까요? 여러분은 플랫폼이 허락할 때만 작동하는 순수 디지털 환경을 기꺼이 받아들일 준비가 되셨습니까? 🎮"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "CODE EXIT",
+      "title": "변형되는 미궁과 '오프라인 S.O.M.A'의 공포",
+      "imgUrl": "",
+      "comment": "실시간으로 지형이 재구성되는 가변형 격리 구역에서 새로운 위협 '오프라인 S.O.M.A'와 맞닥뜨린 플레이어들의 긴박한 협동 탈출 국면을 AI에게 인게임 스크린샷으로 구현하도록 요청했습니다.",
+      "ai_prompt": "Actual in-game screenshot, exact original game engine rendering, completely identical to original art style, NO cinematic styling, NO illustration. A dark and claustrophobic sci-fi survival horror corridor inside a shifting space station facility. The metal walls and bulkheads are mechanically rearranging, exposing sparks, hanging cables, and hydraulic mechanisms. In the center, a terrifying new robotic entity 'Offline S.O.M.A' with malfunctioning visual sensors and menacing mechanical limbs looms in the dim red emergency lighting. Two players in rugged astronaut EVA hazard suits are seen from a first-person perspective, one aiming a flashlight at the creature while the other hacks an emergency security terminal on the shifting wall. Gritty Unreal Engine texture rendering, realistic volumetric fog, functional sci-fi UI HUD elements showing vitals and objective markers on the screen edges."
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "The Witcher 3: Wild Hunt Remaster",
+        "releases.0.note": "An open-world RPG remaster officially releasing on September 29, featuring upgraded lighting and graphic details, overhauled camera perspectives, and a revamped skill system.",
+        "releases.0.dev": "CD PROJEKT RED",
+        "releases.1.game": "Minecraft Dungeons 2",
+        "releases.1.note": "A new dungeon crawler action RPG releasing on September 29, where players can explore new dungeons and battle powerful enemies in the Minecraft universe.",
+        "releases.1.dev": "Mojang Studios",
+        "releases.2.game": "Transport Fever 3",
+        "releases.2.note": "The latest installment in the transport management simulation series releasing on September 29, supporting the creation of intricate transportation networks across rail, road, water, and air.",
+        "releases.2.dev": "Urban Games",
+        "releases.3.game": "Dynasty Warriors 3: Complete Edition Remaster",
+        "releases.3.note": "A tactical action remaster officially releasing on September 30, bringing back the original's exhilarating 1-vs-1,000 action with high-resolution graphics and bundled expansion pack content.",
+        "releases.3.dev": "Koei Tecmo Games",
+        "releases.4.game": "Songs of Glimmerwick",
+        "releases.4.note": "A story-driven RPG set in a magic academy releasing on September 30, allowing players to cast spells through music, tend to gardens, and experience life at a wizarding school.",
+        "releases.4.dev": "Eastshade Studios",
+        "releases.5.game": "Ace Combat 8: Wings of Thebes",
+        "releases.5.note": "The latest entry in the classic flight shooting series officially releasing on October 1, offering advanced flight physics and an epic aerial combat campaign.",
+        "releases.5.dev": "Bandai Namco Entertainment",
+        "events.0.name": "Google Play ASL Season 22 Quarterfinals Week 2",
+        "events.0.note": "StarCraft: Remastered Quarterfinals Matches 3 & 4",
+        "events.0.venue": "FreecUP Studio, Daechi-dong, Seoul",
+        "events.1.name": "Dragon Ball Z: Dokkan Battle Part 3 Celebration Official Livestream",
+        "events.1.note": "Online live broadcast revealing new characters and giving away commemorative gifts",
+        "events.1.venue": "Online"
+      },
+      "briefing": {
+        "items.0.title": "'Trickcal' Surges Back to #7 in Korea and #5 in Japan Driven by 3rd Anniversary",
+        "items.0.source": "Inven",
+        "items.0.time": "September 28",
+        "items.1.title": "GRAC and Game Users Association Jointly Respond to Loot Box Damages",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "September 28",
+        "items.2.title": "'God of War: Laufey' Reveals New Kratos Image",
+        "items.2.source": "IGN India",
+        "items.2.time": "September 28",
+        "items.3.title": "Naughty Dog Collabs with Ghost of Yōtei in Celebration of 'TLOU Day'",
+        "items.3.source": "IGN India",
+        "items.3.time": "September 28",
+        "items.4.title": "Shochiku Confirms December 1 Release for Cozy Adventure 'Hela'",
+        "items.4.source": "4Gamer",
+        "items.4.time": "September 28",
+        "items.5.title": "'Fire Emblem: Fortune's Weave' Debuts at #1 on Weekly Japanese Physical Sales Chart",
+        "items.5.source": "Famitsu",
+        "items.5.time": "September 28",
+        "items.6.title": "Sony Launches Survey on Discontinuing PS Physical Disc Support",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "September 28"
+      },
+      "drk": {
+        "title": "Sony's Disc Phaseout Survey: The Era of 'Ownership' Is Coming to an End",
+        "intro": "The bookshelf once lined with your game collection may soon become a relic of the past. 💿\nSony has finally begun officially weighing the discontinuation of physical disc support for PlayStation.",
+        "points": "Sony Interactive Entertainment has launched a user survey exploring the phaseout of physical disc support in future consoles. With digital download sales already surpassing 80%, the complete elimination of the disc drive—once the very symbol of consoles—is now an imminent reality. 📦\n\nThis is a fundamental shift that shakes the **platform architecture and game consumption model** of the console ecosystem. The disappearance of disc drives signifies the end of physical distribution networks and the secondhand market, forcing all purchasing avenues into a single, closed digital storefront. Consumers will lose the sense of permanent ownership, reduced to a rental-like form of consumption entirely beholden to platform licensing terms. 📉\n\nUltimately, the platform holder's goal is reducing distribution overhead and securing total pricing control over digital content. **A disc-less console marks a structural turning point that grants platform holders flawless revenue control while subjecting gamers to 'consumption without ownership.'** 🔑\n\nWill the tactile ritual quintessential to consoles—unboxing a game, inserting the disc, and playing—fade into history like this? Are you truly ready to embrace a pure digital ecosystem that exists only so long as the platform allows? 🎮"
+      },
+      "gamescene": {
+        "game": "CODE EXIT",
+        "title": "The Morphing Labyrinth and the Terror of 'Offline S.O.M.A'",
+        "comment": "We asked an AI to generate an in-game screenshot capturing players in a tense cooperative escape, confronting the new threat 'Offline S.O.M.A' within a dynamically shifting containment zone whose terrain restructures in real time."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ウィッチャー3 ワイルドハント リマスター",
+        "releases.0.note": "9月29日に正式リリースされるオープンワールドRPGのリマスターで、ライティングやグラフィックディテールの改善に加え、カメラアングルやスキルシステムが大幅に刷新されます。",
+        "releases.0.dev": "CD PROJEKT RED",
+        "releases.1.game": "マインクラフト ダンジョンズ 2",
+        "releases.1.note": "9月29日にリリースされるダンジョンクローラー・アクションRPGの新作で、マインクラフトの世界観の中で新たなダンジョンや強力な敵を探索できます。",
+        "releases.1.dev": "Mojang Studios",
+        "releases.2.game": "トランスポートフィーバー3",
+        "releases.2.note": "9月29日にリリースされる交通経営シミュレーションシリーズの最新作で、鉄道・道路・海運・航空を網羅した精密な輸送ネットワークの構築に対応しています。",
+        "releases.2.dev": "Urban Games",
+        "releases.3.game": "真・三國無双3 コンプリートエディション リマスター",
+        "releases.3.note": "9月30日に正式リリースされるタクティカルアクションのリマスターで、原作の爽快な一騎当千アクションが高解像度グラフィックと拡張パックを統合した構成で楽しめます。",
+        "releases.3.dev": "コーエーテクモゲームス",
+        "releases.4.game": "ソングス・オブ・グリマーウィック",
+        "releases.4.note": "9月30日にリリースされる魔法アカデミーを舞台にしたストーリー主導のRPGで、音楽で魔法を奏で、庭園を手入れしながら魔法学校生活を体験できます。",
+        "releases.4.dev": "Eastshade Studios",
+        "releases.5.game": "エースコンバット8：ウィングス・オブ・テーベ",
+        "releases.5.note": "10月1日に正式リリースされる本格フライトシューティングシリーズの最新作で、高度に進化した飛行物理と壮大な空中戦キャンペーンを提供します。",
+        "releases.5.dev": "バンダイナムコエンターテインメント",
+        "events.0.name": "Google Play ASL シーズン22 準々決勝 第2週",
+        "events.0.note": "『スタークラフト：リマスター』準々決勝 第3・第4試合実施",
+        "events.0.venue": "ソウル・大峙洞 フリークアップスタジオ",
+        "events.1.name": "ドラゴンボールZ ドッカンバトル 第3弾記念公式生放送",
+        "events.1.note": "新キャラクター公開および記念プレゼント贈呈のオンラインライブ配信",
+        "events.1.venue": "オンライン"
+      },
+      "briefing": {
+        "items.0.title": "『トリッカル』、3周年効果で韓国7位・日本5位へと急上昇",
+        "items.0.source": "Inven",
+        "items.0.time": "9月28日",
+        "items.1.title": "ゲーム物管理委員会・ゲーム利用者協会、確率型アイテムの被害に共同対応へ",
+        "items.1.source": "GameMeca",
+        "items.1.time": "9月28日",
+        "items.2.title": "『ゴッド・オブ・ウォー ラウフェイ』、クレトスの最新イメージを公開",
+        "items.2.source": "IGN India",
+        "items.2.time": "9月28日",
+        "items.3.title": "ノーティードッグ、「The Last of Us Day」記念で『Ghost of Yōtei』とコラボ",
+        "items.3.source": "IGN India",
+        "items.3.time": "9月28日",
+        "items.4.title": "松竹、癒やし系アドベンチャー『Hela』12月1日発売決定",
+        "items.4.source": "4Gamer",
+        "items.4.time": "9月28日",
+        "items.5.title": "『ファイアーエムブレム 万紫千紅』、日本週間パッケージチャート1位デビュー",
+        "items.5.source": "ファミ通",
+        "items.5.time": "9月28日",
+        "items.6.title": "ソニー、PSパッケージディスクのサポート終了可否に関するアンケートに着手",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "9月28日"
+      },
+      "drk": {
+        "title": "ソニーのディスク廃止アンケート、「所有」の時代が終わりを迎えている",
+        "intro": "ゲームタイトルが並んでいたあなたの本棚は、遠くない未来に過去の遺物となってしまうかもしれません。💿\nソニーがついに、PlayStationにおける物理ディスクのサポート終了を公式に検討し始めました。",
+        "points": "ソニー・インタラクティブエンタテインメントが、将来のコンソールにおける物理パッケージディスクのサポート終了について、ユーザーアンケート調査を開始しました。デジタルダウンロード販売の比率がすでに80%を超えている市場環境において、家庭用ゲーム機の象徴であったディスクドライブの完全な撤廃が現実味を帯びてきたのは事実です。📦\n\nこれは、コンソールエコシステムの**プラットフォーム構造とゲーム消費構造**を根本から揺るがす変化です。ディスクドライブの消滅はパッケージ流通網や中古取引市場の終焉を意味し、すべての購入ルートは単一の独占ストアへと強制的に集約されます。消費者はゲームを永続的に所有する感覚を失い、プラットフォームのライセンス方針に全面的に従属するレンタル形式の消費へと留まることになります。📉\n\n結局のところ、プラットフォームメーカーの究極の目的は流通コストの削減と完全なデジタル価格統制権の確保です。**パッケージのないコンソールは、プラットフォームホルダーにとっては完璧な収益統制権を、ゲーマーにとっては『所有なき消費』を強制する構造的な転換点なのです。** 🔑\n\nパッケージを開封してディスクを挿入しプレイするという、コンソール特有の物理的な儀式はこのまま歴史の彼方へと消え去ってしまうのでしょうか？ 皆さんは、プラットフォームが許可したときにのみ機能する純粋なデジタル環境を喜んで受け入れる準備ができていますか？ 🎮"
+      },
+      "gamescene": {
+        "game": "CODE EXIT",
+        "title": "変形する迷宮と「オフラインS.O.M.A」の恐怖",
+        "comment": "リアルタイムで地形が再構成される可変型隔離区域で、新たな脅威「オフラインS.O.M.A」に遭遇したプレイヤーたちの緊迫した協力脱出の局面を、AIにゲーム内スクリーンショットとして生成するよう依頼しました。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "소니, 진짜 디스크 없애나? 막을 내리는 '게임 소유'의 시대 💿⚠️",
+    "en": "Is Sony ditching physical discs? The era of game ownership is dying 💿⚠️",
+    "ja": "ソニー、ついにディスク廃止へ？終わりを迎える「ゲーム所有」の時代 💿⚠️"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "패키지 모으던 낭만, 이젠 진짜 끝나는 걸까요? 💿\n소니의 디스크 퇴출 움직임부터 위쳐 3 리마스터 소식까지 싹 정리했어요! 🎮\n\nhttps://www.gtplayer.net/edition-135/\n#더위쳐3 #마인크래프트 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-29T07:01:33.777874"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "9월 29일 오늘의 게임 소식 🎮\n📰 [뉴스] 트릭컬 3주년 역주행 흥행부터 갓 오브 워 로페이 신규 비주얼 공개까지!\n📅 [출시] 더 위쳐 3 리마스터, 마인크래프트 던전스 2 등 주요 신작 출시 라인업\n✍️ [인사이트] 소니의 디스크 퇴출 설문 조사, 막을 내리는 '게임 소유'의 시대\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#GTPlayer #게임뉴스 #게임정보 #게임추천 #신작게임 #콘솔게임 #플레이스테이션 #PS5 #소니 #더위쳐3 #마인크래프트던전스 #트릭컬 #갓오브워 #라스트오브어스 #스팀게임 #PC게임 #게이머 #게임스타그램 #겜스타그램 #게임덕후",
+          "image_paths": [
+            "web\\instagram\\edition_135\\card_cover.png",
+            "web\\instagram\\edition_135\\card_news.png",
+            "web\\instagram\\edition_135\\card_calendar.png",
+            "web\\instagram\\edition_135\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3996441025975647859_39332818166",
+            "url": "https://www.instagram.com/p/Dd2NfBnE35z/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-29T07:02:04.702254"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Is Sony ditching physical discs? The era of game ownership is dying 💿⚠️\n\nSony is officially exploring the end of physical discs, signaling a massive industry shift in how players truly own their games.\nFrom this platform-defining move to exciting reveals for God of War: Laufey and The Witcher 3 Remaster, the gaming landscape is rapidly evolving.\n\nhttps://www.gtplayer.net/edition-135-en/",
+        "error": null
+      },
+      "updated_at": "2026-09-29T07:02:46.944202"
+    }
+  }
+}

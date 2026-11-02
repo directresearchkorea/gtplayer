@@ -1,0 +1,239 @@
+{
+  "num": "006",
+  "date": "2026-03-20",
+  "status": "published",
+  "schedule": {
+    "date": "",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "event",
+          "game": "포켓몬 카드 게임 포켓",
+          "dev": "포켓몬 컴퍼니",
+          "date": "3월 19일(목)",
+          "platforms": [
+            "iOS",
+            "Android"
+          ],
+          "color": "#10b981",
+          "note": "신규 확장팩 '샤이닝메가' 발표",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/779/G077901/20260319088/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "붉은사막 (Crimson Desert)",
+          "dev": "펄어비스",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "글로벌 정식 출시",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1772977",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "마라톤 (Marathon)",
+          "dev": "번지",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "첫 번째 레이드 'Cryo Archive' 개시",
+          "country": "IN",
+          "article_url": "https://in.ign.com/marathon/256211/news/bungie-reveals-all-details-of-marathons-first-raid-cryo-archive-goes-live-on-march-20-and-weekends-o",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "event",
+          "game": "CD 프로젝트 레드 (CDPR)",
+          "dev": "CD 프로젝트 레드",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC",
+            "Console"
+          ],
+          "color": "#10b981",
+          "note": "2025 실적 발표 및 '위쳐 4' 개발 집중 공개",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=314609",
+          "source_name": "인벤"
+        },
+        {
+          "category": "event",
+          "game": "BIC 페스티벌 2026",
+          "dev": "부산인디커넥트페스티벌 조직위원회",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC",
+            "Indie"
+          ],
+          "color": "#10b981",
+          "note": "2026 온라인 사업설명회 개최",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=314606",
+          "source_name": "인벤"
+        },
+        {
+          "category": "event",
+          "game": "유비소프트 레드 스톰",
+          "dev": "유비소프트",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC",
+            "Console"
+          ],
+          "color": "#10b981",
+          "note": "스튜디오 폐쇄 및 게임 개발 중단 발표",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202603/69305",
+          "source_name": "Famitsu"
+        }
+      ],
+      "events": [
+        {
+          "name": "iicon 2026 (E3 후속)",
+          "note": "",
+          "venue": "미국 라스베가스",
+          "date": "2026-04-27~2026-04-30",
+          "tag": "행사",
+          "d_day_str": "D-38",
+          "website": "https://www.iicon.com"
+        },
+        {
+          "name": "서머 게임 페스트 2026",
+          "note": "",
+          "venue": "미국",
+          "date": "2026-06-01~2026-06-30",
+          "tag": "행사",
+          "d_day_str": "D-73",
+          "website": "https://www.summergamefest.com"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "데스 스트랜딩 2 PC 버전 정식 출시",
+          "source": "Famitsu",
+          "time": "1일 전",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202603/69206"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "엔비디아 CEO, DLSS 5 기술 논란에 반박",
+          "source": "GamesIndustry.biz",
+          "time": "오늘",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/nvidia-ceo-says-critics-are-completely-wrong-about-dlss-5-technology"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "스페이스 마린 2, 논란의 DLC 환불 및 무료화",
+          "source": "IGN India",
+          "time": "오늘",
+          "country": "IN",
+          "article_url": "https://in.ign.com/warhammer-40000-space-marine-ii/256213/news/its-obvious-this-dlc-has-failed-to-meet-your-expectations-warhammer-40000-space-marine-2-dev-issues"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "제프 카플란 신작 '레전드 오브 캘리포니아' 테스트",
+          "source": "게임메카",
+          "time": "오늘",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1772982"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'넵튠' 시리즈 신작 8월 27일 발매 확정",
+          "source": "4Gamer",
+          "time": "오늘",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/992/G099212/20260319025/"
+        },
+        {
+          "category": "discount",
+          "tag": "할인",
+          "title": "다이렉트 게임즈, 최대 96% '2026 봄 할인' 시작",
+          "source": "게임메카",
+          "time": "오늘",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1772957"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "디아블로 4 디렉터 \"시스템 대개편은 정상적인 과정\"",
+          "source": "PC Gamer",
+          "time": "오늘",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/rpg/diablo-4-game-director-believes-its-normal-for-most-action-rpgs-to-undergo-major-reworks-friction-points-that-we-could-never-imagine-suddenly-rear-their-heads-over-the-course-of-10-000-hours/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": true,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "내러티브의 승리와 공장의 몰락: '붉은사막'이 연 포스트 AAA 시대의 생존법",
+      "intro": "펄어비스의 '붉은사막'이 마침내 글로벌 무대에 올랐고, 동시에 유비소프트 레드 스톰은 역사의 뒤안길로 사라졌습니다. CDPR은 '위쳐 4'에 사활을 거는 집중력을 보였으며, 디아블로 4 디렉터는 시스템 대개편을 운영의 '정상'으로 정의했습니다. 오늘 전해진 소식들은 거대 자본이 투입된 AAA 게임들이 더 이상 과거의 명성이나 브랜드 파워만으로는 안주할 수 없는, 극도로 양극화된 시장의 단면을 적나라하게 보여줍니다.",
+      "points": "유비소프트의 스튜디오 폐쇄는 소위 '공장형 오픈월드' 제작 방식이 한계에 도달했음을 의미합니다. 반면, '붉은사막'의 글로벌 출시는 독보적인 기술적 성취와 고유한 내러티브가 결합되었을 때 비로소 글로벌 시장에서 유의미한 파동을 일으킬 수 있다는 사실을 증명합니다. 이제 AAA급 게임은 단순히 '평균 이상의 퀄리티'를 제공하는 수준을 넘어, 유저들에게 대체 불가능한 경험과 압도적인 기술적 충격을 선사해야만 살아남을 수 있는 고난도의 시험대에 올랐습니다.\n\n**오늘날 게임 산업은 '총체적 재조정(Total Correction)'의 시기에 진입했습니다. 이제 '완성된 게임'이라는 개념은 희미해졌으며, 끊임없는 시스템 대개편과 핵심 IP에 대한 극단적인 선택과 집중만이 스튜디오의 생존을 보장하는 유일한 열쇠가 되었습니다.** 이는 개발사들에게는 개발 비용 상승과 창의성 고갈이라는 가혹한 형벌이지만, 질적 하락에 지친 게이머들에게는 진정한 '본질'로의 회귀를 요구하는 긍정적인 신호이기도 합니다.\n\n과연 우리는 '위쳐 4'가 등장하기 전까지 얼마나 많은 '유비소프트들'의 몰락을 더 목격해야 할까요? 거대 자본의 붕괴 위에서 피어난 '붉은사막'의 성취가 한국 게임 업계에 새로운 표준이 될지, 아니면 시대의 끝에서 피어난 고독한 기적일지는 결국 시장의 냉혹한 숫자가 증명할 것입니다. 여러분은 이 잔혹한 진화의 끝에 무엇이 남을 것이라 보십니까?"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "붉은사막 (Crimson Desert)",
+      "title": "황혼이 머무는 용병의 안식처",
+      "imgUrl": "",
+      "comment": "광활한 파이웰 대륙의 공기를 그대로 옮겨온 듯한 극실사 그래픽과, 지는 해의 잔광이 갑옷에 부딪혀 부서지는 순간은 기술과 예술의 경계를 허뭅니다.",
+      "ai_prompt": "Cinematic wide shot of a lone medieval mercenary standing on a high rocky cliff in the world of Crimson Desert, overlooking a vast valley and distant snow-capped mountains. The sun is setting, casting a warm golden and purple glow over the landscape. Photorealistic textures, highly detailed weathered leather and iron armor, fur mantle fluttering in the wind. Volumetric lighting, god rays, hyper-realistic environment, 8k resolution, cinematic color grading, epic and melancholic atmosphere."
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    }
+  },
+  "translations": {
+    "en": {},
+    "ja": {}
+  }
+}

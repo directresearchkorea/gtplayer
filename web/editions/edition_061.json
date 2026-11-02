@@ -1,0 +1,401 @@
+{
+  "num": "061",
+  "date": "2026-06-01",
+  "status": "published",
+  "schedule": {
+    "date": "2026-06-01",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "아이리스 오디세이 판도라의 소녀",
+          "dev": "인디 개발사",
+          "date": "5월 30일(토)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "두 소녀의 만남과 모험을 담아낸 현대 판타지 비주얼 노벨 게임 '아이리스 오디세이 판도라의 소녀'가 5월 30일 정식 출시되었습니다.",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202605/76504",
+          "source_name": "Famitsu"
+        },
+        {
+          "category": "release",
+          "game": "바벨의 탑: 혼돈의 생존자들",
+          "dev": "인디 개발사",
+          "date": "5월 31일(일)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "뱀파이어 서바이벌과 디아블로의 핵앤슬래시 재미 요소를 결합한 로그라이트 RPG '바벨의 탑: 혼돈의 생존자들'이 5월 31일 정식 출시되었습니다.",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202605/76133",
+          "source_name": "Famitsu"
+        },
+        {
+          "category": "event",
+          "game": "SD건담 G제네레이션 에터널",
+          "dev": "반다이 남코",
+          "date": "5월 31일(일)부터",
+          "platforms": [
+            "iOS",
+            "Android"
+          ],
+          "color": "#10b981",
+          "note": "모바일 시뮬레이션 게임 'SD건담 G제네레이션 에터널'에서 강력한 적을 상대하는 '강적습래 건담 Mk-IV' 이벤트가 5월 31일부터 개최 중입니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202605/76480",
+          "source_name": "電撃オンライン"
+        },
+        {
+          "category": "update",
+          "game": "조조의 기묘한 모험 라스트 서바이벌",
+          "dev": "반다이 남코",
+          "date": "6월 3일(수)",
+          "platforms": [
+            "Arcade"
+          ],
+          "color": "#10b981",
+          "note": "아케이드 배틀로얄 게임 '조조의 기묘한 모험 라스트 서바이벌'에 철구를 사용하며 말을 타고 전투하는 신규 캐릭터 '자이로 체펠리'가 6월 3일 업데이트됩니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/445/G044511/20260529057/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "event",
+          "game": "솔: 인챈트",
+          "dev": "넷마블",
+          "date": "6월 5일(금)까지",
+          "platforms": [
+            "PC",
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "신작 MMORPG '솔: 인챈트(SOL: enchant)'가 1차 캐릭터명 선점 조기 마감에 따라 6월 5일 오후 8시까지 2차 선점 이벤트를 진행합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316986",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "Summer Game Fest 2026",
+          "note": "신작 정보와 트레일러 등이 공개되는 초여름 최대 규모의 글로벌 게임 쇼케이스",
+          "venue": "온라인 (니코니코 생방송 등)",
+          "date": "2026-06-06",
+          "tag": "쇼케이스",
+          "website": "https://www.famitsu.com/article/202605/76519"
+        },
+        {
+          "name": "Xbox Games Showcase 2026",
+          "note": "마이크로소프트가 주최하며 '페이블(Fable)'을 비롯한 다수의 신작 및 추가 게임 정보가 발표될 예정인 온라인 쇼케이스",
+          "venue": "온라인",
+          "date": "2026-06-08",
+          "tag": "쇼케이스",
+          "website": "https://www.4gamer.net/games/520/G052094/20260530003/"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "엑스박스 '페이블', 2027년 2월로 출시 연기",
+          "source": "인벤",
+          "time": "5월 30일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316973"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'스탑 킬링 게임즈' 법안, 美 캘리포니아 하원 통과",
+          "source": "게임메카",
+          "time": "5월 31일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1775851"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "비행 시뮬 '코리아 IL-2' 얼리 액세스 일정 공개",
+          "source": "IGN India",
+          "time": "5월 31일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/korea-il-2-series/261999/korea-il-2-series-official-early-access-release-date-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'인디아나 존스' 닌텐도 스위치 2 구동 영상 유출",
+          "source": "IGN India",
+          "time": "5월 31일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/indiana-jones-and-the-great-circle-the-order-of-giants/261973/indiana-jones-and-the-great-circle-15-minutes-of-nintendo-switch-2-gameplay"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'명조', '사이버펑크: 엣지러너' 콜라보 발표",
+          "source": "4Gamer",
+          "time": "5월 30일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/634/G063420/20260530004/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'이나즈마 일레븐 크로스' 6월 9일 정식 출시",
+          "source": "電撃オンライン",
+          "time": "5월 30일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202605/76456"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'팩토리오', 2.1 업데이트 끝으로 개발 마침표",
+          "source": "PC Gamer",
+          "time": "5월 31일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/sim/factorios-next-major-update-will-also-be-its-last-as-its-developer-announces-it-has-reached-a-good-place-to-conclude-active-gameplay-development/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "영원한 소유란 없는 시대, 게임의 '수명'을 묻다",
+      "intro": "우리가 구매한 게임은 정말 온전히 우리의 것일까요?\n서비스 종료와 함께 사라지는 디지털 게임의 운명이 새로운 법안을 통해 거대한 변곡점을 맞이하고 있습니다.",
+      "points": "미국 캘리포니아 하원에서 소비자가 구매한 디지털 게임을 개발사가 임의로 완전히 폐기하지 못하도록 규제하는 '스탑 킬링 게임즈(Stop Killing Games)' 법안이 통과되었습니다. 📜 이는 서비스 종료 후에도 오프라인 플레이를 지원하거나 서버 소프트웨어를 공개하도록 강제하는 내용을 담고 있어 전 세계 게임 산업의 이목을 집중시키고 있습니다.\n\n이 법안은 향후 **소비자 심리와 게임 소비 구조**에 근본적인 변화를 불러올 것입니다. 🎮 게이머들은 이제 게임을 '언제든 사라질 수 있는 서비스'가 아닌 '영구 소장 가능한 자산'으로 인식하기 시작할 것이며, 이는 라이브 서비스 중심의 현 시장 생태계에 강력한 경종을 울립니다. 개발사들 역시 초기 기획 단계부터 서버 오프라인 전환 프로토콜을 의무적으로 구축해야 하므로 개발 비용과 리스크 관리 구조의 변화가 불가피합니다.\n\n결국 이번 법안의 통과는 **그동안 공급자 편의대로 흘러갔던 디지털 소유권의 정의를 소비자와 콘텐츠 보존 중심으로 재정립하는 역사적 전환점**입니다. 이제 게임사들은 단순히 일시적인 가상 경험을 판매하는 것을 넘어, 자신들이 창조한 디지털 세계의 '영속성'을 어떻게 보장할 것인지 증명해야 하는 과제를 안게 되었습니다.\n\n과연 이 규제는 디지털 자산의 진정한 보존을 이끌어낼 마중물이 될까요, 아니면 중소 개발사들의 창작 의지를 위축시키는 부메랑이 될까요? ⚖️ 게임의 진정한 가치와 지속 가능성에 대해 업계 전체가 깊이 고민해야 할 시점입니다."
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=061&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=061&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Iris Odyssey: The Girl of Pandora",
+        "releases.0.note": "The modern fantasy visual novel game 'Iris Odyssey: The Girl of Pandora', which depicts the encounter and adventure of two girls, was officially released on May 30.",
+        "releases.0.dev": "Indie Developer",
+        "releases.1.game": "Tower of Babel: Survivors of Chaos",
+        "releases.1.note": "The roguelite RPG 'Tower of Babel: Survivors of Chaos', which combines the hack-and-slash fun of Diablo with Vampire Survivors, was officially released on May 31.",
+        "releases.1.dev": "Indie Developer",
+        "releases.2.game": "SD Gundam G Generation Eternal",
+        "releases.2.note": "The 'Formidable Enemy Attack: Gundam Mk-IV' event, where players face powerful enemies in the mobile simulation game 'SD Gundam G Generation Eternal', has been underway since May 31.",
+        "releases.2.dev": "Bandai Namco",
+        "releases.3.game": "JoJo's Bizarre Adventure: Last Survivor",
+        "releases.3.note": "The arcade battle royale game 'JoJo's Bizarre Adventure: Last Survivor' will be updated on June 3 with the new character 'Gyro Zeppeli', who fights on horseback using steel balls.",
+        "releases.3.dev": "Bandai Namco",
+        "releases.4.game": "SOL: enchant",
+        "releases.4.note": "As the first character name pre-emption closed early, the new MMORPG 'SOL: enchant' is holding its second pre-emption event until 11:00 AM UTC on June 5.",
+        "releases.4.dev": "Netmarble",
+        "events.0.name": "Summer Game Fest 2026",
+        "events.0.note": "The largest global game showcase of early summer, featuring reveals of new titles, trailers, and more.",
+        "events.0.venue": "Online (Niconico Live, etc.)",
+        "events.1.name": "Xbox Games Showcase 2026",
+        "events.1.note": "An online showcase hosted by Microsoft, where information on multiple new games and updates, including 'Fable', will be announced.",
+        "events.1.venue": "Online"
+      },
+      "briefing": {
+        "items.0.title": "Xbox's 'Fable' Delayed to February 2027",
+        "items.0.source": "Inven",
+        "items.0.time": "May 30",
+        "items.1.title": "'Stop Killing Games' Bill Passes California State Assembly",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "May 31",
+        "items.2.title": "Flight Sim 'IL-2 Sturmovik: Korea' Early Access Schedule Revealed",
+        "items.2.source": "IGN India",
+        "items.2.time": "May 31",
+        "items.3.title": "'Indiana Jones' Footage Leaked Running on Nintendo Switch 2",
+        "items.3.source": "IGN India",
+        "items.3.time": "May 31",
+        "items.4.title": "'Wuthering Waves' Announces 'Cyberpunk: Edgerunners' Collaboration",
+        "items.4.source": "4Gamer",
+        "items.4.time": "May 30",
+        "items.5.title": "'Inazuma Eleven Cross' Officially Released on June 9",
+        "items.5.source": "Dengeki Online",
+        "items.5.time": "May 30",
+        "items.6.title": "'Factorio' Ends Development with 2.1 Update",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "May 31"
+      },
+      "drk": {
+        "title": "An Era of No Permanent Ownership: Questioning the 'Lifespan' of Games",
+        "intro": "Are the games we purchase truly ours?\nThe fate of digital games, vanishing with the termination of services, is facing a major turning point through a new bill.",
+        "points": "The 'Stop Killing Games' bill, which regulates developers from arbitrarily destroying digital games purchased by consumers, has passed the California State Assembly in the United States. 📜 This bill is drawing intense focus from the global game industry as it mandates developers to support offline play or release server software even after services end.\n\nThis bill will bring about fundamental changes in **consumer psychology and game consumption structures** in the future. 🎮 Gamers will now begin to perceive games as 'permanently ownable assets' rather than 'services that could vanish at any moment,' sending a powerful wake-up call to the current live service-oriented market ecosystem. Developers will also inevitably face changes in development costs and risk management structures, as they must build server offline transition protocols from the initial planning stage.\n\nUltimately, the passage of this bill is a **historical turning point that redefines the concept of digital ownership—which has long favored supplier convenience—around consumers and content preservation**. Now, game companies must go beyond simply selling temporary virtual experiences and prove how they will guarantee the 'permanence' of the digital worlds they create.\n\nWill this regulation serve as a catalyst for the true preservation of digital assets, or will it backfire by dampening the creative drive of indie and mid-sized developers? ⚖&nbsp; It is time for the entire industry to deeply contemplate the true value and sustainability of games."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "アイリスオデッセイ パンドラの少女",
+        "releases.0.note": "二人の少女の出会いと冒険を描いた現代ファンタジービジュアルノベルゲーム『アイリスオデッセイ パンドラの少女』が5月30日に正式リリースされました。",
+        "releases.0.dev": "インディー開発元",
+        "releases.1.game": "バベルの塔：混沌의生存者たち",
+        "releases.1.note": "『ヴァンパイア・サバイバーズ』と『ディアブロ』のハックアンドスラッシュの面白さを融合したローグライトRPG『バベル의塔：混沌의生存者たち』が5月31日に正式リリースされました。",
+        "releases.1.dev": "インディー開発元",
+        "releases.2.game": "SDガンダム ジージェネレーション エターナル",
+        "releases.2.note": "モバイルシミュレーションゲーム『SDガンダム ジージェネレーション エターナル』にて、強敵に立ち向かう「強敵襲来 ガンダムMk-IV」イベントが5月31日より開催中です。",
+        "releases.2.dev": "バンダイナムコ",
+        "releases.3.game": "ジョジョの奇妙な冒険 ラストサバイバー",
+        "releases.3.note": "アーケード向けバトルロイヤルゲーム『ジョジョの奇妙な冒険 ラストサバイバー』に、鉄球を操り馬に乗って戦う新キャラクター「ジャイロ・ツェペリ」が6月3日にアップデートで追加されます。",
+        "releases.3.dev": "バンダイナムコ",
+        "releases.4.game": "ソル：エンチャント",
+        "releases.4.note": "新作MMORPG『ソル：エンチャント（SOL: enchant）』が、第1次キャラクター名先取りの早期終了に伴い、6月5日午後8時まで第2次先取りイベントを開催します。",
+        "releases.4.dev": "ネットマーブル",
+        "events.0.name": "Summer Game Fest 2026",
+        "events.0.note": "新作情報やトレーラーなどが公開される、初夏最大規模のグローバルゲームショーケース",
+        "events.0.venue": "オンライン（ニコニコ生放送など）",
+        "events.1.name": "Xbox Games Showcase 2026",
+        "events.1.note": "マイクロソフトが主催し、『Fable』をはじめとする多数の新作や追加ゲーム情報が発表される予定のオンラインショーケース",
+        "events.1.venue": "オンライン"
+      },
+      "briefing": {
+        "items.0.title": "Xbox『Fable』、2027년 2월로 출시 연기",
+        "items.0.source": "Inven",
+        "items.0.time": "5月30일",
+        "items.1.title": "「ストップ・キリング・ゲームズ」法案、米国カリフォルニア州下院を通過",
+        "items.1.source": "GameMeca",
+        "items.1.time": "5月31일",
+        "items.2.title": "フライトシミュレーター『IL-2 コリア』アーリーアクセス日程公開",
+        "items.2.source": "IGN India",
+        "items.2.time": "5月31일",
+        "items.3.title": "『インディ・ジョーンズ』Nintendo Switch 2での動作映像が流出",
+        "items.3.source": "IGN India",
+        "items.3.time": "5月31일",
+        "items.4.title": "『鳴潮』、『サイバーパンク: エッジランナーズ』とのコラボを発表",
+        "items.4.source": "4Gamer",
+        "items.4.time": "5月30일",
+        "items.5.title": "『イナズマイレブン クロス』6月9日に正式リリース",
+        "items.5.source": "電撃オンライン",
+        "items.5.time": "5月30일",
+        "items.6.title": "『Factorio』、アップデート2.1を最後に開発終了",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "5月31일"
+      },
+      "drk": {
+        "title": "永遠の所有など存在しない時代、ゲームの「寿命」を問う",
+        "intro": "私たちが購入したゲームは、本当に完全に私たちのものなのでしょうか？\nサービス終了とともに消え去るデジタルゲーム의運命が、新たな法案によって大きな転換期を迎えようとしています。",
+        "points": "米国カリフォルニア州下院にて、消費者が購入したデジタルゲームを開発会社が意図的に完全に廃棄できないように規制する「ストップ・キリング・ゲームズ（Stop Killing Games）」法案が通過しました。📜 これはサービス終了後もオフラインプレイをサポートするか、サーバーソフトウェアを公開することを義務付ける内容を含んでおり、全世界のゲーム産業の注目を集めています。\n\nこの法案は今後、**消費者心理とゲーム消費構造**に根本的な変化をもたらすでしょう。🎮 ゲーマーは今や、ゲームを「いつでも消え去る可能性のあるサービス」ではなく「永久に所有可能な資産」として認識し始めることになり、これはライブサービス中心の現在の市場エコシステムに強力な警鐘を鳴らすものです。開発会社側も、初期の企画段階からサーバーのオフライン移行プロトコルを義務的に構築しなければならないため、開発コストやリスク管理構造の変化は避けられません。\n\n結局のところ、今回の法案の通過は、**これまで供給者側の都合に合わせて流れてきたデジタル所有権の定義を、消費者とコンテンツ保存を中心に再定義する歴史的な転換点**です。今やゲーム会社は、単に一時的な仮想体験を販売するにとどまらず、自らが創造したデジタル世界の「永続性」をどのように保障するのかを証明しなければならない課題を突きつけられています。\n\n果たしてこの規制は、デジタル資産の真の保存を導く呼び水となるでしょうか、それとも中小規模の開発会社の創作意欲を萎縮させるブーメランとなるでしょうか？⚖️ ゲームの真の価値と持続可能性について、業界全体が深く模索すべき時期に来ています。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "내가 돈 주고 산 게임이 사라진다고? 🤔 '영원한 소유'가 사라진 시대의 진실 📉",
+    "en": "Do we actually OWN the games we buy? 🤔 The shocking truth about digital lifespans 📉",
+    "ja": "お金を払って買ったゲームが消える？🤔「永遠の所有」が消えた時代のゲームの寿命 📉"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "내가 돈 주고 산 게임이 하루아침에 사라진다면? 🤔\n'소유'가 아닌 '대여'가 된 요즘 게임의 현실과 해결법을 알아봐요! 📉\n\nhttps://www.gtplayer.net/edition-061/\n\n#명조 #게임소식 #GTPlayer",
+          "posted": false,
+          "data": null,
+          "error": "X API 오류 (402): {\"account_id\":2041741108661612544,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2041741108661612544] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/problems/credits\"}"
+        }
+      },
+      "updated_at": "2026-06-01T07:05:11.326769"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "6월 1일 오늘의 게임 소식 🎮\n📰 **뉴스**: '스탑 킬링 게임즈' 법안 하원 통과 & '페이블' 출시 연기 등 주요 소식!\n📅 **출시**: 'SD건담 G제네레이션 에터널' 등 플랫폼별 신작 출시 캘린더 🗓️\n🧠 **Dr.K 인사이트**: \"내가 돈 주고 산 게임이 사라진다?!\" 영원한 소유가 사라진 시대의 진실 📉\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#gtplayer #게임뉴스 #게임뉴스레터 #신작게임 #게임추천 #게임소식 #겜덕후 #게임스타그램 #스탑킬링게임즈 #명조 #사이버펑크 #페이블 #SD건담 #인디아나존스 #스위치2 #콘솔게임 #모바일게임 #스팀게임 #인디게임 #게임라이프",
+          "image_paths": [
+            "web\\instagram\\edition_061\\card_news.png",
+            "web\\instagram\\edition_061\\card_calendar.png",
+            "web\\instagram\\edition_061\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3909469776880318684_39332818166",
+            "url": "https://www.instagram.com/p/DZBOgx_E7jc/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-06-01T07:05:46.026059"
+    }
+  }
+}

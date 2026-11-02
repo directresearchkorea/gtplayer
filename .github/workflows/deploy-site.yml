@@ -1,0 +1,68 @@
+# GTPlayer 정적 사이트 빌드 & GitHub Pages 배포
+#
+# 트리거:
+#   1. web/editions/ 에 새 JSON이 push되면 자동 빌드+배포
+#   2. newsletter_manager/execution/build_site.py 수정 시
+#   3. 수동 실행 (workflow_dispatch)
+
+name: Build & Deploy Site
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'web/editions/**'
+      - 'newsletter_manager/execution/build_site.py'
+      - 'newsletter_manager/execution/publish_edition.py'
+      - 'ghost-theme-gtplayer/**'
+      - 'web/assets/**'
+      - 'logo_icon_cropped.png'
+      - '.github/workflows/deploy-site.yml'
+  workflow_dispatch:  # 수동 실행 지원
+
+# GitHub Pages 배포에 필요한 권한
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 동시 배포 방지
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests PyJWT python-dotenv
+
+      - name: Build static site
+        run: |
+          python newsletter_manager/execution/build_site.py --clean
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

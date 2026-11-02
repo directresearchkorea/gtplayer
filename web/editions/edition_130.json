@@ -1,0 +1,452 @@
+{
+  "num": "130",
+  "date": "2026-09-22",
+  "status": "published",
+  "schedule": {
+    "date": "2026-09-22",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "그레이브야드 키퍼 2",
+          "dev": "레이지 베어 게임즈",
+          "date": "9월 22일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 22일 정식 출시되는 중세 묘지 관리 시뮬레이션 게임으로, 특유의 블랙 코미디와 더욱 깊어진 제작 및 경영 시스템을 제공합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4358690/Graveyard_Keeper_2/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "웰 드웰러 (우물의 새)",
+          "dev": "피스토프 스튜디오",
+          "date": "9월 22일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 22일 출시되는 다크 판타지 메트로이드바니아 액션 게임으로, 성냥불 하나에 의지해 가족을 구하기 위해 위험천만한 지하 세계를 탐험합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3699590/Well_Dweller/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "사일런트 힐: 타운폴",
+          "dev": "노 코드",
+          "date": "9월 23일(수)",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "color": "#10b981",
+          "note": "9월 23일 출시되는 심리적 공포 어드벤처 신작으로, 독특한 통신 장비와 아날로그 연출을 통해 사일런트 힐 세계관의 새로운 공포를 그립니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/1636440/SILENT_HILL_Townfall/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "컨트롤 레조넌트",
+          "dev": "레메디 엔터테인먼트",
+          "date": "9월 24일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 24일 출시되는 3인칭 초능력 액션 어드벤처로, 연방통제국을 배경으로 미지의 변형된 위협과 공명 현상에 맞서는 전투를 다룹니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3669870/CONTROL_Resonant/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "EA 스포츠 FC 27",
+          "dev": "EA 스포츠",
+          "date": "9월 24일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 24일 정식 출시되는 대표 축구 시뮬레이션 시리즈 최신작으로, 향상된 물리 엔진과 최신 로스터를 적용해 사실적인 피치 경험을 제공합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4080220/EA_SPORTS_FC_27/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "킹덤 러쉬 6: 제네시스 TD",
+          "dev": "아이언하이드 게임 스튜디오",
+          "date": "9월 24일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 24일 출시되는 타워 디펜스 명작 신작으로, 기원을 다루는 방대한 캠페인 속에서 신규 영웅과 타워를 조합해 적들을 물리칩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4259190/Kingdom_Rush_6_Genesis_TD/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "2026 SOOP 오버워치 멸망전 인비테이셔널",
+          "note": "인기 스트리머 24인이 4팀으로 나뉘어 맞붙는 총상금 2천만 원 규모 대회",
+          "venue": "온라인 (SOOP)",
+          "date": "2026-09-22 ~ 2026-09-24",
+          "tag": "e스포츠",
+          "website": "https://www.inven.co.kr/webzine/news/?news=321259"
+        },
+        {
+          "name": "PALWORLD POP UP SHOP 2026 in 시부야 모디",
+          "note": "오픈월드 서바이벌 '팰월드' 세계관을 즐길 수 있는 공식 오프라인 팝업스토어",
+          "venue": "일본 도쿄 시부야 모디",
+          "date": "2026-09-26 ~",
+          "tag": "오프라인 행사",
+          "website": "https://www.4gamer.net/games/574/G057444/20260921036/"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "사우디, 게임 비즈니스 행사 'KoG' 12월 첫 개최",
+          "source": "인벤",
+          "time": "9월 21일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=321283"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "크래프톤, '눈마새' 기반 '윈드리스' 상표 출원",
+          "source": "인벤",
+          "time": "9월 21일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=321274"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'언디피티드: 제네시스', 데모 트레일러 공개",
+          "source": "IGN India",
+          "time": "9월 21일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/undefeated-genesis/272346/undefeated-genesis-official-demo-launch-trailer"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "신작 액션 슈터 '마이코펑크', 출시일 트레일러 공개",
+          "source": "IGN India",
+          "time": "9월 21일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/mycopunk/272341/mycopunk-official-release-date-announcement-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "캡콤, '스파 리그 아시아 2027' 및 여성 대회 발표",
+          "source": "4Gamer",
+          "time": "9월 21일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/635/G063504/20260921057/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "명작 RPG '에스트폴리스 전기 1·2', 2027년 복각",
+          "source": "電撃オンライン",
+          "time": "9월 21일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202609/88694"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "락스타, 'GTA 6' 앞두고 수익형 모드 서버 규제",
+          "source": "IGN",
+          "time": "9월 21일",
+          "country": "GLOBAL",
+          "article_url": "https://www.ign.com/articles/rockstar-games-new-modding-policy-crushes-influencers-dreams-for-monetized-gta-6-rp-servers"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "액티비전 \"글로벌 게임 핵 시장, 85억 달러 규모\"",
+          "source": "GamesIndustry.biz",
+          "time": "9월 21일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/activision-cites-data-claiming-cheating-in-games-is-an-85bn-industry-69-of-online-multiplayer-studios-consider-cheating-a-significant-or-very-significant-problem"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "생태계 주도권을 되찾으려는 거인들: 모드와 플랫폼의 경계선 ⚖️",
+      "intro": "거대 게임사가 유저들이 일군 수익형 창작 커뮤니티에 제동을 걸기 시작했습니다.\n창작의 자유와 생태계 통제권 사이에서, 라이브 서비스의 미래 주도권은 누구의 손에 쥐어질까요? 🕹️",
+      "points": "락스타 게임즈가 차기작 출시를 앞두고 제3자 수익형 모드 서버에 대한 규제를 공식화했습니다. 🚨 동시에 액티비전이 수조 원대 규모로 비대해진 암시장 생태계를 정조준하는 등, 대형 퍼블리셔들이 자사 IP 주변의 비공식 경제권을 일제히 통제하기 시작했습니다.\n\n이는 단순한 저작권 보호를 넘어 **플랫폼 구조**와 **게임 소비 구조**의 근본적 재편을 예고합니다. 유저 모드는 게임 수명을 연장하는 원동력이었지만, 사설 서버의 과도한 상업화는 공식 라이브 서비스의 수익성과 브랜드 신뢰도를 잠식하는 위협이 되었습니다. 유저들이 지불하는 비용이 공식 플랫폼 밖으로 새어나가는 것을 거대 자본은 더 이상 묵과할 수 없습니다. 💸\n\n핵심은 **유저 창작 생태계의 공식 내재화**입니다. 거대 게임사들은 방임형 오픈 생태계에서 벗어나, 자체 인게임 플랫폼 안에서 창작과 결제를 모두 관리하는 폐쇄형 모델로 선회하고 있습니다. 통제되지 않는 자유는 플랫폼 홀더에게 기회가 아닌 명백한 리스크로 인식되기 시작했습니다. 🔒\n\n창작자의 열정을 공식 시스템 안으로 온전히 포용하지 못한다면, 강력한 규제는 커뮤니티의 반발과 이탈을 부를 수 있습니다. 거대 자본의 통제 속에서 유저 창작 콘텐츠는 과연 지속 가능한 공존의 길을 찾을 수 있을까요? 🌐"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "신데리아",
+      "title": "황폐한 심연 속 두 영혼의 사투, 2인 협동 보스 레이드",
+      "imgUrl": "",
+      "comment": "앞선 분석에 이어 보너스로 선보이는 비주얼로, TGS 2026에서 공개된 2인 협동 모드와 신규 거대 보스가 맞물려 펼쳐질 '신데리아'의 치열한 인게임 전투 장면을 AI에게 상상해 보도록 지시했습니다.",
+      "ai_prompt": "Actual in-game screenshot, exact original game engine rendering, completely identical to original art style, NO cinematic styling, NO illustration, dark fantasy roguelite action game Cinderia, two-player co-op combat scene against a massive grotesque abyssal boss in ruined gothic cathedral chamber. Two distinct player characters fighting side by side, one dual-wielding glowing cursed daggers mid-dodge roll, the other casting dark magical ranged spells from the back. Dynamic combat lighting, dark gritty textures, particle effects from clash of weapons and boss dark energy attacks, isometric third-person combat camera angle, in-game HUD elements including co-op health bars, stamina gauges, and skill cooldown icons visible on screen edges, sharp gameplay graphics."
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Graveyard Keeper 2",
+        "releases.0.note": "A medieval cemetery management simulation officially releasing on September 22, featuring its signature dark comedy alongside deeper crafting and management systems.",
+        "releases.0.dev": "Lazy Bear Games",
+        "releases.1.game": "Well Dweller",
+        "releases.1.note": "A dark fantasy Metroidvania action game releasing on September 22, where you explore a treacherous underground world relying solely on a match flame to save your family.",
+        "releases.1.dev": "Pistoff Studio",
+        "releases.2.game": "Silent Hill: Townfall",
+        "releases.2.note": "A psychological horror adventure releasing on September 23 that presents a new kind of dread in the Silent Hill universe through unique communication equipment and analog aesthetics.",
+        "releases.2.dev": "No Code",
+        "releases.3.game": "Control Resonant",
+        "releases.3.note": "A third-person supernatural action-adventure releasing on September 24, focusing on battles against unknown altered threats and resonance phenomena within the Federal Bureau of Control.",
+        "releases.3.dev": "Remedy Entertainment",
+        "releases.4.game": "EA SPORTS FC 27",
+        "releases.4.note": "The latest entry in the flagship football simulation series officially releasing on September 24, delivering a realistic on-pitch experience with an improved physics engine and updated rosters.",
+        "releases.4.dev": "EA Sports",
+        "releases.5.game": "Kingdom Rush 6: Genesis TD",
+        "releases.5.note": "A brand-new title in the classic tower defense series releasing on September 24, where players defeat foes by combining new heroes and towers across a vast campaign exploring origins.",
+        "releases.5.dev": "Ironhide Game Studio",
+        "events.0.name": "2026 SOOP Overwatch Destruction Invitational",
+        "events.0.note": "A tournament featuring 24 popular streamers divided into 4 teams competing for a total prize pool of 20 million KRW.",
+        "events.0.venue": "Online (SOOP)",
+        "events.1.name": "PALWORLD POP UP SHOP 2026 in Shibuya MODI",
+        "events.1.note": "An official offline pop-up store where visitors can enjoy the world of the open-world survival game 'Palworld'.",
+        "events.1.venue": "Shibuya MODI, Tokyo, Japan"
+      },
+      "briefing": {
+        "items.0.title": "Saudi Arabia to Host First 'KoG' Gaming Business Event in December",
+        "items.0.source": "Inven",
+        "items.0.time": "September 21",
+        "items.1.title": "Krafton Files Trademark for 'Windless', Based on 'The Bird That Drinks Tears'",
+        "items.1.source": "Inven",
+        "items.1.time": "September 21",
+        "items.2.title": "'UNDEFEATED: Genesis' Demo Trailer Revealed",
+        "items.2.source": "IGN India",
+        "items.2.time": "September 21",
+        "items.3.title": "New Action Shooter 'Mycopunk' Reveals Release Date Trailer",
+        "items.3.source": "IGN India",
+        "items.3.time": "September 21",
+        "items.4.title": "Capcom Announces 'Street Fighter League Asia 2027' and Women's Tournament",
+        "items.4.source": "4Gamer",
+        "items.4.time": "September 21",
+        "items.5.title": "Classic RPGs 'Lufia & the Fortress of Doom' and 'Lufia II' to Be Re-released in 2027",
+        "items.5.source": "Dengeki Online",
+        "items.5.time": "September 21",
+        "items.6.title": "Rockstar Cracks Down on Monetized Mod Servers Ahead of 'GTA 6'",
+        "items.6.source": "IGN",
+        "items.6.time": "September 21",
+        "items.7.title": "Activision: \"Global Game Cheat Market Valued at $8.5 Billion\"",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "September 21"
+      },
+      "drk": {
+        "title": "Giants Reclaiming Ecosystem Dominance: The Boundary Between Mods and Platforms ⚖️",
+        "intro": "Major game publishers have begun to put the brakes on monetized creative communities built by players.\nCaught between creative freedom and ecosystem control, into whose hands will the future leadership of live services fall? 🕹️",
+        "points": "Rockstar Games has formalized regulations targeting third-party monetized mod servers ahead of its next release. 🚨 Simultaneously, Activision has set its sights on a black market ecosystem that has grown into multi-trillion-won proportions, signaling that major publishers are collectively moving to rein in the unofficial economies surrounding their IPs.\n\nThis heralds a fundamental reshaping of **platform architecture** and **game consumption patterns** that goes far beyond simple copyright enforcement. While user mods have long served as a driving force extending game lifespans, the excessive commercialization of private servers has become a clear threat—eroding the profitability and brand integrity of official live services. Massive capital can no longer turn a blind eye to user expenditures leaking outside official platforms. 💸\n\nThe crux of the matter lies in the **official internalization of user creation ecosystems**. Major game companies are shifting away from hands-off open ecosystems toward closed models that manage both creation and transactions within their own in-game platforms. Uncontrolled freedom is now perceived by platform holders not as an opportunity, but as an undeniable risk. 🔒\n\nYet, if creators' passion cannot be fully embraced within official systems, heavy-handed crackdowns risk inciting severe community backlash and churn. Amid the tightening grip of corporate capital, will user-generated content be able to forge a path toward sustainable coexistence? 🌐"
+      },
+      "gamescene": {
+        "game": "Cinderia",
+        "title": "A Desperate Struggle of Two Souls in the Desolate Abyss: 2-Player Co-op Boss Raid",
+        "comment": "As a bonus visual following the previous analysis, we prompted AI to envision a fierce in-game battle scene from 'Cinderia', bringing together the 2-player co-op mode and the massive new boss revealed at TGS 2026."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "Graveyard Keeper 2",
+        "releases.0.note": "9月22日に正式リリースされる中世墓地管理シミュレーションゲーム。特有のブラックユーモアと、さらに深化したクラフトおよび経営システムを提供します。",
+        "releases.0.dev": "Lazy Bear Games",
+        "releases.1.game": "Well Dweller (井戸の鳥)",
+        "releases.1.note": "9月22日にリリースされるダークファンタジー・メトロイドヴァニアアクションゲーム。1本のマッチの明かりを頼りに、家族を救うため危険に満ちた地下世界を探索します。",
+        "releases.1.dev": "Pistoff Studio",
+        "releases.2.game": "SILENT HILL: Townfall",
+        "releases.2.note": "9月23日にリリースされるサイコロジカルホラーアドベンチャーの新作。特徴的な通信機器とアナログな演出を通じて、『サイレントヒル』の世界観における新たな恐怖を描き出します。",
+        "releases.2.dev": "No Code",
+        "releases.3.game": "CONTROL: Resonant",
+        "releases.3.note": "9月24日にリリースされる三人称視点超能力アクションアドベンチャー。連邦操作局（FBC）を舞台に、未知の変容した脅威と共鳴現象に立ち向かう戦いを描きます。",
+        "releases.3.dev": "Remedy Entertainment",
+        "releases.4.game": "EA SPORTS FC 27",
+        "releases.4.note": "9月24日に正式リリースされる代表的なサッカーシミュレーションシリーズの最新作。強化された物理エンジンと最新のロスターを適用し、リアルなピッチ体験を提供します。",
+        "releases.4.dev": "EA Sports",
+        "releases.5.game": "Kingdom Rush 6: Genesis TD",
+        "releases.5.note": "9月24日にリリースされる名作タワーディフェンスの新作。起源を描く壮大なキャンペーンの中で、新たなヒーローとタワーを組み合わせて敵を打ち倒します。",
+        "releases.5.dev": "Ironhide Game Studio",
+        "events.0.name": "2026 SOOP オーバーウォッチ 滅亡戦 インビテーショナル",
+        "events.0.note": "人気ストリーマー24人が4チームに分かれて激突する、賞金総額2,000万ウォン規模の大会",
+        "events.0.venue": "オンライン (SOOP)",
+        "events.1.name": "PALWORLD POP UP SHOP 2026 in 渋谷モディ",
+        "events.1.note": "オープンワールドサバイバル『パルワールド』の世界観を楽しめる公式オフラインポップアップストア",
+        "events.1.venue": "日本・東京 渋谷モディ"
+      },
+      "briefing": {
+        "items.0.title": "サウジ、ゲームビジネスイベント「KoG」を12月に初開催",
+        "items.0.source": "INVEN",
+        "items.0.time": "9月21日",
+        "items.1.title": "KRAFTON、『涙を飲む鳥』ベースの「Windless」商標を出願",
+        "items.1.source": "INVEN",
+        "items.1.time": "9月21日",
+        "items.2.title": "『UNDEFEATED: Genesis』、デモトレーラーを公開",
+        "items.2.source": "IGN India",
+        "items.2.time": "9月21日",
+        "items.3.title": "新作アクションシューター『Mycopunk』、発売日トレーラーを公開",
+        "items.3.source": "IGN India",
+        "items.3.time": "9月21日",
+        "items.4.title": "カプコン、「ストリートファイターリーグ: アジア 2027」および女性大会を発表",
+        "items.4.source": "4Gamer",
+        "items.4.time": "9月21日",
+        "items.5.title": "名作RPG『エストポリス伝記I・II』、2027年に復刻",
+        "items.5.source": "電撃オンライン",
+        "items.5.time": "9月21日",
+        "items.6.title": "ロックスター、『GTA 6』を控えて収益型MODサーバーを規制",
+        "items.6.source": "IGN",
+        "items.6.time": "9月21日",
+        "items.7.title": "アクティビジョン「世界のゲームチート市場、85億ドル規模」",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "9月21日"
+      },
+      "drk": {
+        "title": "エコシステムの主導権を取り戻そうとする巨人たち：MODとプラットフォームの境界線 ⚖️",
+        "intro": "大手ゲーム会社が、ユーザーの築き上げた収益型創作コミュニティにブレーキをかけ始めました。\n創作の自由とエコシステムの統制権の間で、ライブサービスの未来の主導権は誰の手に握られるのでしょうか？ 🕹️",
+        "points": "ロックスター・ゲームスが次回作の発売を控え、サードパーティによる収益型MODサーバーへの規制を公式化しました。🚨 同時にアクティビジョンが数千億円規模にまで肥大化したブラックマーケットのエコシステムに照準を合わせるなど、大手パブリッシャーが自社IP周辺の非公式な経済圏を一斉に統制し始めています。\n\nこれは単なる著作権保護を超え、**プラットフォーム構造**と**ゲーム消費構造**の根本的な再編を予告しています。ユーザーMODはゲームの寿命を延ばす原動力でしたが、プライベートサーバーの過度な商業化は公式ライブサービスの収益性とブランドの信頼性を損なう脅威となっていました。ユーザーが支払う費用が公式プラットフォームの外へ流出することを、巨大資本はもはや黙認できません。💸\n\n核心となるのは**ユーザー創作エコシステムの公式な内製化**です。大手ゲーム会社は放任型のオープンなエコシステムから脱却し、自社ゲーム内プラットフォームの中で創作と決済の両方を管理する閉鎖型モデルへと舵を切っています。統制されない自由は、プラットフォーマーにとって好機ではなく明確なリスクとして認識され始めました。🔒\n\nクリエイターの情熱を公式システムの中へ完全に取り込めなければ、強力な規制はコミュニティの反発と離脱を招きかねません。巨大資本の統制の中で、ユーザー創作コンテンツは果たして持続可能な共存の道を見出すことができるのでしょうか？ 🌐"
+      },
+      "gamescene": {
+        "game": "シンデリア",
+        "title": "荒廃した深淵における2つの魂の死闘、2人協力ボスレイド",
+        "comment": "先ほどの分析に続くボーナスビジュアルとして、TGS 2026で公開された2人協力モードと新規巨大ボスが噛み合って繰り広げられる『シンデリア』の熾烈なインゲーム戦闘シーンをAIにイメージさせました。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "모드는 누구의 것인가? ⚖️ 생태계를 되찾으려는 게임 거인들의 반격!",
+    "en": "Who really owns your mods? ⚖️ Gaming giants start the war for control!",
+    "ja": "MODは誰のものか？⚖️ 生態系の覇権を狙うゲーム巨頭たちの逆襲"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "기다리던 사일런트 힐 신작이 드디어 오늘 나왔네요! 😱\n크래프톤의 눈마새 신작 상표 출원 소식까지 얼른 확인해 볼까요? 👀\n\nhttps://www.gtplayer.net/edition-130/\n#사일런트힐 #눈마새 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-22T07:01:31.570696"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "9월 22일 오늘의 게임 소식 🎮\n📰 [뉴스] 크래프톤의 '눈마새' 기반 윈드리스 상표 출원부터 사우디의 첫 글로벌 비즈니스 행사까지!\n📅 [출시] 사일런트 힐: 타운폴, EA 스포츠 FC 27 등 이번 주 놓치면 안 될 화제의 신작 라인업\n✍️ [인사이트] 모드는 누구의 것인가? 창작 커뮤니티와 생태계 통제권을 둘러싼 게임 거인들의 반격\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임소식 #신작게임 #게임추천 #인디게임 #스팀게임 #콘솔게임 #플스5 #사일런트힐 #EAFC27 #그레이브야드키퍼 #크래프톤 #눈물을마시는새 #게임스타그램 #겜스타그램 #게이머 #게임정보 #게임개발 #GTPlayer #게임뉴스레터",
+          "image_paths": [
+            "web\\instagram\\edition_130\\card_cover.png",
+            "web\\instagram\\edition_130\\card_news.png",
+            "web\\instagram\\edition_130\\card_calendar.png",
+            "web\\instagram\\edition_130\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3991367579147139966_39332818166",
+            "url": "https://www.instagram.com/p/DdkL6qDE3t-/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-22T07:02:00.874862"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Who really owns your mods? ⚖️ Gaming giants start the war for control!\n\nMajor publishers are moving to reshape player mod ecosystems just as a massive wave of new titles shakes up the industry.\nFrom Krafton trademarking Windless to fresh reveals for Control Resonant, here is everything driving the conversation this week.\n\nhttps://www.gtplayer.net/edition-130-en/",
+        "error": null
+      },
+      "updated_at": "2026-09-22T07:02:43.600534"
+    }
+  }
+}

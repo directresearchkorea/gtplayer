@@ -1,0 +1,459 @@
+{
+  "num": "079",
+  "date": "2026-07-10",
+  "status": "published",
+  "schedule": {
+    "date": "2026-07-10",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "그랑블루 판타지 리링크 - 엔드리스 라그나로크",
+          "dev": "사이게임즈",
+          "date": "7월 9일(목)",
+          "platforms": [
+            "PC",
+            "PS4",
+            "PS5",
+            "Nintendo Switch 2"
+          ],
+          "color": "#10b981",
+          "note": "7월 9일 싱글 플레이 요소를 대폭 강화하고 신규 캐릭터 및 에피소드를 추가한 액션 RPG 신작이 정식 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318288",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "어쌔신 크리드 블랙 플래그 리싱크드",
+          "dev": "유비소프트",
+          "date": "7월 9일(목)",
+          "platforms": [
+            "PS5",
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "7월 9일 명작 해적 액션 어드벤처 게임의 한글화 리싱크드 버전 패키지가 정식 발매되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777610",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "건볼트 크로니클 루미너스 어벤저 iX 1·2 듀얼 컬렉션",
+          "dev": "인티 크리에이츠",
+          "date": "7월 9일(목)",
+          "platforms": [
+            "Nintendo Switch 2",
+            "PS5"
+          ],
+          "color": "#10b981",
+          "note": "7월 9일 스타일리시 2D 액션 게임의 1, 2편을 모두 담은 패키지 형태의 듀얼 컬렉션 한국어판이 정식 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777612",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "event",
+          "game": "애니모 (Aniimo)",
+          "dev": "파우프린트 스튜디오",
+          "date": "7월 9일(목)",
+          "platforms": [
+            "PC",
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "7월 9일 귀여운 가상 생명체들과 모험을 즐기는 오픈월드 액션 RPG 신작 '애니모'의 비공개 베타 테스트(CBT)가 시작되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777594",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "3on3 프리스타일",
+          "dev": "조이시티",
+          "date": "7월 9일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "7월 9일 조이시티의 인기 길거리 농구 게임 '3on3 프리스타일'이 글로벌 PC 게임 플랫폼 에픽게임즈 스토어에 정식 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777580",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "팰월드 (Palworld)",
+          "dev": "포켓페어",
+          "date": "7월 10일(금)",
+          "platforms": [
+            "PC",
+            "Xbox Series X/S",
+            "Xbox One"
+          ],
+          "color": "#10b981",
+          "note": "7월 10일 글로벌 흥행작 '팰월드'가 얼리 액세스를 마치고 대규모 신규 콘텐츠가 포함된 정식 버전 1.0으로 출시되었습니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/574/G057444/20260709056/",
+          "source_name": "4Gamer"
+        }
+      ],
+      "events": [
+        {
+          "name": "로스트아크 '모코코 스트릿 팝업 in 성수'",
+          "note": "패션 플랫폼 무신사와 협업하여 진행하는 오프라인 팝업 스토어입니다. 굿즈샵 이용을 위한 사전 예약은 7월 10일부터 19일까지 진행되며, 현장에서는 DIY 체험 등의 프로그램이 제공됩니다.",
+          "venue": "무신사 스토어 성수",
+          "date": "2026-07-22 ~ 2026-07-31",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=318292"
+        },
+        {
+          "name": "전략적 팀 전투(TFT) '우주의 신들 전략가의 왕관'",
+          "note": "총 상금 7억 원 규모로 치러지는 전략적 팀 전투(TFT) 최상위 e스포츠 글로벌 대회가 개최됩니다.",
+          "venue": "온라인 (공식 방송 채널)",
+          "date": "2026-07-10",
+          "tag": "e스포츠",
+          "website": "https://www.gamemeca.com/view.php?gid=1777588"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "림버스 컴퍼니, 스팀 동접자 자체 최고치 경신",
+          "source": "인벤",
+          "time": "7월 9일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318309"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "네오위즈, 글로벌사업그룹장에 크리스 정 선임",
+          "source": "게임메카",
+          "time": "7월 9일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1777578"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "실버 케어용 뿌요뿌요 트레이너 10월 출시",
+          "source": "Famitsu",
+          "time": "7월 9일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202607/80922"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "일본 온라인게임계 생성 AI 활용률 100% 기록",
+          "source": "Famitsu",
+          "time": "7월 9일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202607/80926"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "블랙 옵스 1·2, PS4 및 PS5 버전 이식 출시",
+          "source": "IGN India",
+          "time": "7월 9일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/call-of-duty-black-ops/265870/call-of-duty-black-ops-1-and-2-ports-out-now-on-ps5-but-they-come-at-a-high-cost"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "신작 몬타비, 닌텐도 스위치 1·2 출시 예고",
+          "source": "IGN India",
+          "time": "7월 9일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/montabi/265858/montabi-official-nintendo-switch-1-and-nintendo-switch-2-announcement-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "슈퍼셀, 아프리카 게임 스튜디오 지원 기금 신설",
+          "source": "GamesIndustry.biz",
+          "time": "7월 9일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/supercell-launches-equity-free-grants-program-for-african-game-studios"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "서브노티카 2, 얼리 액세스 판매량 500만 돌파",
+          "source": "PC Gamer",
+          "time": "7월 9일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/survival-crafting/subnautica-2-celebrates-5-million-copies-sold-ahead-of-adaptive-measures-its-first-early-access-update/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "생성형 AI 도입률 100% 시대, 복제와 창조의 경계에 선 게임 산업",
+      "intro": "일본 온라인 게임 업계의 생성형 AI 도입률이 마침내 100%를 기록했습니다.\n이 거대한 기술적 파도가 우리가 소비하는 게임의 본질을 어떻게 바꾸어 놓을까요?",
+      "points": "일본 온라인 게임 업계의 생성형 AI 도입률이 100%에 도달했다는 소식은 기술 혁신이 이미 임계점을 넘었음을 보여줍니다. 기획, 그래픽, 코드 검증 등 개발 전 과정에 AI가 완전히 안착하며 게임 제작의 패러다임이 송두리째 바뀌고 있습니다. 🤖\n\n이러한 변화는 **실제 게임 형태의 변화**와 **소비자 반응**에 직접적인 영향을 미칩니다. 개발 효율 극대화로 콘텐츠 업데이트 주기는 획기적으로 단축되겠지만, 대규모 데이터 학습에 의존하는 AI의 특성상 게임들이 서로를 복제한 듯한 '장르적 정체성 상실'과 품질 평준화로 인한 소비자 피로감이 발생할 우려가 큽니다. 📉\n\n결국 기술 평준화 시대에 게임사가 확보해야 할 차별점은 **AI가 흉내 낼 수 없는 인간 창작자의 고유한 기획력과 디렉팅 감각**입니다. 도구의 효율성에만 지나치게 매몰되어 고유의 예술성과 내러티브를 잃은 게임은 게이머들의 냉정한 평가를 피하기 어렵습니다. 💡\n\n모든 게임이 상향 평준화된 퀄리티로 쏟아져 나오는 미래가 눈앞에 다가왔습니다. 🎮 과연 여러분은 AI가 정교하게 계산해 낸 웰메이드 게임과 서툴지만 인간의 영혼이 깃든 독창적인 게임 중 어느 쪽에 마음을 움직이시겠습니까?"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "Tattoo Tycoon",
+      "url": "https://store.epicgames.com/ko/p/tattoo-tycoon-b4352c",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-11qwx.jpg",
+      "comment": "🎨 **[에픽게임즈] Tattoo Tycoon 무료 배포 (~7/17 00:00까지)**\n- 타투 아티스트가 되어 자신만의 개성 넘치는 시술소를 키워가는 경영 시뮬레이션 게임입니다.\n- 다양한 손님들의 까다로운 요구에 맞춰 독창적인 디자인을 완성하며 가볍게 즐기기 좋은 타이쿤 장르의 수작입니다.\n\n🔍 **Next Week:** 7월 17일부터는 90년대 배경의 미스터리 턴제 어드벤처 'Echo Generation: Midnight Edition'이 찾아옵니다.\n\n🐘 **[스팀] 플래닛 주 주말 특가 (~7/17 02:00까지)**\n- 나만의 꿈의 동물원을 건설하고 귀여운 동물들을 생생하게 보살필 수 있는 명작 시뮬레이션 게임을 파격적인 할인가로 소장해 보세요!",
+      "steam_deal": {
+        "type": "deal",
+        "name": "플래닛 주",
+        "app_id": 703080,
+        "url": "https://store.steampowered.com/app/703080",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703080/header.jpg?t=1765896213",
+        "discount_percent": 95,
+        "original_price": "46,000원",
+        "final_price": "2,300원",
+        "end_date": "2026-07-17 02:00"
+      }
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Granblue Fantasy: Relink - Endless Ragnarok",
+        "releases.0.note": "On July 9, the new action RPG, which significantly enhances single-player elements and adds new characters and episodes, was officially released.",
+        "releases.0.dev": "Cygames",
+        "releases.1.game": "Assassin's Creed Black Flag Resynced",
+        "releases.1.note": "On July 9, the packaged Korean-localized Resynced version of the classic pirate action-adventure game was officially released.",
+        "releases.1.dev": "Ubisoft",
+        "releases.2.game": "Gunvolt Chronicles: Luminous Avenger iX 1·2 Dual Collection",
+        "releases.2.note": "On July 9, the Korean edition of the packaged Dual Collection, containing both parts 1 and 2 of the stylish 2D action game, was officially released.",
+        "releases.2.dev": "Inti Creates",
+        "releases.3.game": "Aniimo",
+        "releases.3.note": "On July 9, the Closed Beta Test (CBT) began for 'Aniimo', a new open-world action RPG where players go on adventures with cute virtual creatures.",
+        "releases.3.dev": "Pawprint Studio",
+        "releases.4.game": "3on3 FreeStyle",
+        "releases.4.note": "On July 9, Joycity's popular street basketball game '3on3 FreeStyle' was officially released on the Epic Games Store, a global PC gaming platform.",
+        "releases.4.dev": "Joycity",
+        "releases.5.game": "Palworld",
+        "releases.5.note": "On July 10, the global hit 'Palworld' left Early Access and was officially released as Version 1.0, featuring massive new content.",
+        "releases.5.dev": "Pocketpair",
+        "events.0.name": "Lost Ark 'Mokoko Street Pop-up in Seongsu'",
+        "events.0.note": "An offline pop-up store held in collaboration with the fashion platform Musinsa. Pre-reservations for the goods shop run from July 10 to 19, and on-site programs such as DIY experiences will be offered.",
+        "events.0.venue": "Musinsa Store Seongsu",
+        "events.1.name": "Teamfight Tactics (TFT) 'Cosmic Gods Tactician's Crown'",
+        "events.1.note": "The premier global e-sports tournament for Teamfight Tactics (TFT) will be held with a total prize pool of 700 million KRW.",
+        "events.1.venue": "Online (Official Broadcast Channels)"
+      },
+      "briefing": {
+        "items.0.title": "Limbus Company breaks its own record for concurrent Steam users",
+        "items.0.source": "Inven",
+        "items.0.time": "July 9",
+        "items.1.title": "Neowiz appoints Chris Jung as Head of Global Business Group",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "July 9",
+        "items.2.title": "Puyo Puyo Trainer for senior care to be released in October",
+        "items.2.source": "Famitsu",
+        "items.2.time": "July 9",
+        "items.3.title": "Japan's online game industry records 100% adoption rate of generative AI",
+        "items.3.source": "Famitsu",
+        "items.3.time": "July 9",
+        "items.4.title": "Black Ops 1 and 2 ported and released for PS4 and PS5",
+        "items.4.source": "IGN India",
+        "items.4.time": "July 9",
+        "items.5.title": "New title 'Montabi' announced for release on Nintendo Switch 1 & 2",
+        "items.5.source": "IGN India",
+        "items.5.time": "July 9",
+        "items.6.title": "Supercell establishes fund to support African game studios",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "July 9",
+        "items.7.title": "Subnautica 2 Early Access sales surpass 5 million units",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "July 9"
+      },
+      "drk": {
+        "title": "The Era of 100% Generative AI Adoption: The Game Industry at the Boundary of Duplication and Creation",
+        "intro": "The adoption rate of generative AI in Japan's online game industry has finally reached 100%.\nHow will this massive technological wave change the essence of the games we consume?",
+        "points": "The news that the adoption rate of generative AI in Japan's online game industry has reached 100% shows that technological innovation has already passed its tipping point. With AI fully integrated into the entire development process—including planning, graphics, and code verification—the paradigm of game production is shifting completely. 🤖\n\nThese changes directly impact **changes in the actual form of games** and **consumer response**. While content update cycles will be drastically shortened due to maximized development efficiency, there are growing concerns over a 'loss of genre identity'—where games look like copies of one another due to AI's reliance on large-scale data learning—and consumer fatigue caused by quality standardization. 📉\n\nUltimately, the point of differentiation that game companies must secure in this era of technological standardization is the **unique planning ability and directing sense of human creators that AI cannot replicate**. Games that lose their unique artistry and narrative by being overly absorbed in tool efficiency will find it difficult to avoid harsh judgment from gamers. 💡\n\nA future where all games pour out with standardized high quality is just around the corner. 🎮 Which will move your heart more: a well-made game precisely calculated by AI, or an unpolished yet original game infused with a human soul?"
+      },
+      "epic": {
+        "title": "Tattoo Tycoon",
+        "comment": "🎨 **[Epic Games] Tattoo Tycoon Free Distribution (~7/16 15:00 UTC)**\n- A business simulation game where you become a tattoo artist and grow your own unique parlor.\n- It's a great tycoon game that's easy to enjoy, where you complete original designs tailored to the demanding requests of various customers.\n\n🔍 **Next Week:** Starting July 16, 15:00 UTC, the 90s-set mystery turn-based adventure 'Echo Generation: Midnight Edition' will arrive.\n\n🐘 **[Steam] Planet Zoo Weekend Deal (~7/16 17:00 UTC)**\n- Own this masterpiece simulation game, where you can build your own dream zoo and realistically care for cute animals, at an unprecedented discount!"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "グランブルーファンタジー Relink - エンドレス・ラグナロク",
+        "releases.0.note": "7月9日、シングルプレイ要素を大幅に強化し、新規キャラクターやエピソードを追加した新作アクションRPGが正式にリリースされました。",
+        "releases.0.dev": "Cygames",
+        "releases.1.game": "アサシン クリード4 ブラック フラッグ リシンクド",
+        "releases.1.note": "7月9日、名作海賊アクションアドベンチャーゲームの日本語対応リシンクド版パッケージが正式に発売されました。",
+        "releases.1.dev": "ユービーアイソフト",
+        "releases.2.game": "白き鋼鉄のX（イクス） 1・2 ダブルパック",
+        "releases.2.note": "7月9日、スタイリッシュ2Dアクションゲームの1・2作目をすべて収録したパッケージ仕様のダブルパック日本語版が正式に発売されました。",
+        "releases.2.dev": "インティ・クリエイツ",
+        "releases.3.game": "アニモ (Aniimo)",
+        "releases.3.note": "7月9日、可愛い仮想生物たちと冒険を楽しむオープンワールドアクションRPGの新作『Aniimo』のクローズドベータテスト（CBT）が開始されました。",
+        "releases.3.dev": "パウプリント・スタジオ",
+        "releases.4.game": "3on3 フリースタイル",
+        "releases.4.note": "7月9日、JOYCITYの人気ストリートバスケゲーム『3on3 フリースタイル』が、グローバルPCゲームプラットフォーム「Epic Gamesストア」にて正式にリリースされました。",
+        "releases.4.dev": "ジョイシティ",
+        "releases.5.game": "パルワールド (Palworld)",
+        "releases.5.note": "7月10日、世界的大ヒット作『パルワールド』が早期アクセスを終え、大規模な新規コンテンツを含む正式リリース版Ver.1.0として発売されました。",
+        "releases.5.dev": "ポケットペア",
+        "events.0.name": "ロストアーク「モココストリート ポップアップ in 聖水」",
+        "events.0.note": "ファッションプラットフォーム「MUSINSA」とのコラボレーションによるオフラインポップアップストアです。グッズショップ利用のための事前予約は7月10日から19日まで行われ、会場ではDIY体験などのプログラムが提供されます。",
+        "events.0.venue": "MUSINSA STORE 聖水",
+        "events.1.name": "チームファイト タクティクス（TFT）「宇宙の神々 タクティシャンズクラウン」",
+        "events.1.note": "総賞金7億ウォン規模で開催される、チームファイト タクティクス（TFT）最高峰のeスポーツ世界大会が開催されます。",
+        "events.1.venue": "オンライン（公式配信チャンネル）"
+      },
+      "briefing": {
+        "items.0.title": "『リンバス・カンパニー』、Steam同時接続者数の自己記録を更新",
+        "items.0.source": "Inven",
+        "items.0.time": "7月 9일",
+        "items.1.title": "NEOWIZ、グローバル事業グループ長にクリス・ジョン氏を選任",
+        "items.1.source": "GameMeca",
+        "items.1.time": "7月 9일",
+        "items.2.title": "シルバーケア用『ぷよぷよトレーナー』10月に発売へ",
+        "items.2.source": "Famitsu",
+        "items.2.time": "7月 9일",
+        "items.3.title": "日本のオンラインゲーム業界、生成AI活用率100%を記録",
+        "items.3.source": "Famitsu",
+        "items.3.time": "7月 9일",
+        "items.4.title": "『ブラックオプス1・2』、PS4およびPS5向けに移植版がリリース",
+        "items.4.source": "IGN India",
+        "items.4.time": "7月 9일",
+        "items.5.title": "新作『Montabi』、Nintendo Switch 1・2向け発売を予告",
+        "items.5.source": "IGN India",
+        "items.5.time": "7月 9일",
+        "items.6.title": "Supercell、アフリカのゲーム開発スタジオ支援基金を新設",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "7月 9일",
+        "items.7.title": "『サブノーティカ2』、早期アクセスでの販売本数が500万本を突破",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "7月 9일"
+      },
+      "drk": {
+        "title": "生成AI導入率100%時代、複製と創造の境界に立つゲーム産業",
+        "intro": "日本のオンラインゲーム業界における生成AIの導入率が、ついに100%を記録しました。\nこの巨大な技術の波が、私たちが消費するゲームの本質をどのように変えていくのでしょうか？",
+        "points": "日本のオンラインゲーム業界における生成AIの導入率が100%に達したというニュースは、技術革新がすでに臨界点を超えたことを示しています。企画、グラフィック、コード検証など、開発の全プロセスにAIが完全に定着し、ゲーム制作のパラダイムが根本から覆りつつあります。🤖\n\nこのような変化は、**実際のゲーム形態の変化**と**消費者の反応**に直接的な影響を与えます。開発効率の極大化により、コンテンツのアップデート周期は画期的に短縮されるでしょうが、大規模データの学習に依存するAI의特性上、ゲーム同士が互いを模倣したかのような「ジャンルとしてのアイデンティティの喪失」や、品質の平準化による消費者の疲弊が懸念されます。📉\n\n結局のところ、技術が平準化する時代においてゲーム会社が確保すべき差別化のポイントは、**AIには真似できない人間クリエイターならではの独自の企画力とディレクションセンス**です。ツールの効率性だけに過度に囚われ、独自の芸術性やナラティブを失ったゲームは、ゲーマーたちの冷徹な評価を避けることは難しいでしょう。💡\n\nすべてのゲームが上方に平準化されたクオリティで溢れかえる未来が、目の前に迫っています。🎮 果たして皆さんは、AIが精巧に計算して生み出した「ウェルメイドなゲーム」と、不器用であっても人間の魂が宿った「独創的なゲーム」のどちらに心を動かされるでしょうか？"
+      },
+      "epic": {
+        "title": "Tattoo Tycoon",
+        "comment": "🎨 **[Epic Games] 『Tattoo Tycoon』無料配布（〜7/17 00:00まで）**\n- タトゥーアーティストになり、自分だけの個性あふれるスタジオを成長させていく経営シミュレーションゲームです。\n- 多様な客のこだわりある要求に応えながら、独創的なデザインを完成させていく、手軽に楽しめるタイクーンジャンルの秀作です。\n\n🔍 **Next Week:** 7月17日からは、90年代を舞台にしたミステリーターン制アドベンチャー『Echo Generation: Midnight Edition』が登場します。\n\n🐘 **[Steam] 『プラネット ズー』週末セール（〜7/17 02:00まで）**\n- 自分だけの理想の動物園を建設し、可愛い動物たちを生き生きとお世話できる名作シミュレーションゲームを、破格の割引価格で手に入れましょう！"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "게임 업계를 뒤흔든 AI, 복제와 창조의 경계선 🤖 (feat. '타투 타이쿤' 무료 소식! 🎁)",
+    "en": "Are games losing their soul to AI? 🤖 (feat. Claim 'Tattoo Tycoon' for FREE! 🎁)",
+    "ja": "AIがゲームを支配する時代、これは創造か模倣か？🤖（無料配布：Tattoo Tycoon 🎁）"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "요즘 게임 만들 때 AI가 필수인 거 아셨나요? 🤖\n일본 온라인 게임 업계는 생성형 AI 도입률 100%를 기록했대요!\n\nhttps://www.gtplayer.net/edition-079/\n\n#림버스컴퍼니 #게임소식 #GTPlayer",
+          "posted": false,
+          "data": null,
+          "error": "X API 오류 (402): {\"account_id\":2041741108661612544,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2041741108661612544] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/problems/credits\"}"
+        }
+      },
+      "updated_at": "2026-07-10T07:05:10.248789"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "7월 10일 오늘의 게임 소식 🎮\n\n📰 **[뉴스]** 림버스 컴퍼니 역대급 흥행 & 일본 생성형 AI 도입률 100% 돌파! (+ '타투 타이쿤' 무료 소식🎁)\n🗓️ **[출시]** 그랑블루 판타지 리링크 신작부터 어쌔신 크리드 블랙 플래그 리싱크드까지 대거 출격!\n🧠 **[인사이트]** 생성형 AI 100% 시대, 우리가 즐기는 게임은 이제 '복제'일까 '창조'일까?\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요! \n🔗 전체 뉴스레터 링크는 프로필에서\n\n#gtplayer #지티플레이어 #게임뉴스 #게임뉴스레터 #게임정보 #신작게임 #게임추천 #게임덕후 #콘솔게임 #스팀게임 #모바일게임 #림버스컴퍼니 #어쌔신크리드 #그랑블루판타지 #팰월드 #무료게임 #AI게임 #인공지능 #겜스타그램 #게임스타그램",
+          "image_paths": [
+            "web\\instagram\\edition_079\\card_news.png",
+            "web\\instagram\\edition_079\\card_calendar.png",
+            "web\\instagram\\edition_079\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3937736017856159544_39332818166",
+            "url": "https://www.instagram.com/p/DalpguTk984/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-07-10T07:05:43.772619"
+    }
+  }
+}

@@ -1,0 +1,412 @@
+{
+  "num": "092",
+  "date": "2026-07-30",
+  "status": "published",
+  "schedule": {
+    "date": "2026-07-30",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "리그 오브 레전드 클래식",
+          "dev": "라이엇 게임즈",
+          "date": "7월 30일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "7월 30일 정식 출시된 MOBA 모드로, 시즌 3 기반의 과거 챔피언과 아이템, 맵을 기존 클라이언트에서 플레이할 수 있습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318990",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "구산: 시티 오브 울브스",
+          "dev": "피라인 게임즈",
+          "date": "7월 30일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "7월 30일 정식 출시되는 하드보일드 탑다운 슈팅 액션 게임으로, 가상의 아시아 도시 구산을 배경으로 펼쳐지는 호쾌한 전투를 다룹니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/1714510/Kusan_City_of_Wolves/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "컬드셉트 더 퍼스트",
+          "dev": "시티 커넥션",
+          "date": "7월 30일(목)",
+          "platforms": [
+            "PC",
+            "Nintendo Switch",
+            "PS5"
+          ],
+          "color": "#10b981",
+          "note": "7월 30일 정식 출시되는 보드·카드 게임으로, 1997년작 명작 컬드셉트 1편을 기반으로 퀵 세이브/로드 등 편의 기능을 추가해 복각했습니다.",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202607/82865",
+          "source_name": "Famitsu"
+        },
+        {
+          "category": "release",
+          "game": "더 렐릭: 퍼스트 가디언",
+          "dev": "프로젝트 클라우드 게임즈",
+          "date": "7월 31일(금)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X|S"
+          ],
+          "color": "#10b981",
+          "note": "7월 31일 정식 출시되는 다크 판타지 액션 RPG로, 한국 민담과 설화를 바탕으로 한 세계관에서 70여 종의 보스와 맞서 싸우는 전투를 선보입니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318765",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "커세어 코브",
+          "dev": "림빅 엔터테인먼트",
+          "date": "8월 1일(토)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 1일 정식 출시되는 전략 시뮬레이션 게임으로, 해적단을 이끌고 요새를 건설하며 해상 기지를 확장하는 재미를 제공합니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1778433",
+          "source_name": "게임메카"
+        }
+      ],
+      "events": [
+        {
+          "name": "차이나조이 2026",
+          "note": "아시아 최대 게임쇼 개최 ('AI와 함께 레벨업' 슬로건)",
+          "venue": "상하이 신국제엑스포센터",
+          "date": "2026-07-31 ~ 2026-08-03",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=318904"
+        },
+        {
+          "name": "LCK 레전드 매치",
+          "note": "LoL 클래식 모드로 진행되는 초창기 레전드 선수들의 특별 이벤트 매치",
+          "venue": "서울 종로구 치지직 롤파크",
+          "date": "2026-08-04",
+          "tag": "e스포츠",
+          "website": "https://www.inven.co.kr/webzine/news/?news=318870"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "크래프톤, 상반기 매출 2조 6,616억 역대 최대 경신",
+          "source": "인벤",
+          "time": "7월 29일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318974"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'명말: 공허의 깃털' 후속작 개발 확정… 505 퍼블리싱",
+          "source": "인벤",
+          "time": "7월 29일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318984"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "Xbox, 실물 디스크 플레이 차단된 서버 장애 조사 착수",
+          "source": "IGN India",
+          "time": "7월 29일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/xbox-one-2/267556/xbox-promises-to-investigate-reports-of-service-outage-preventing-players-from-accessing-physical-ga"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'컴퍼니 오브 히어로즈 3: 파이널 스탠드' 런칭 영상 공개",
+          "source": "IGN India",
+          "time": "7월 29일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/company-of-heroes-3-final-stand/267553/company-of-heroes-3-final-stand-official-launch-trailer"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'제노블레이드 2' 스위치 2 신요소 추가 버전 정식 출시",
+          "source": "Famitsu",
+          "time": "7월 30일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202607/82817"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "Xbox, '게임스컴 2026' 대형 신작 출전 라인업 공개",
+          "source": "電撃オンライン",
+          "time": "7월 29일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202607/82825"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "더블 파인, Xbox 독립 추진하며 인력 25% 감원",
+          "source": "GamesIndustry.biz",
+          "time": "7월 29일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/double-fine-productions-cuts-23-roles-as-it-becomes-independent-from-xbox"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "불확실성의 시대, 게임 산업이 '과거'를 호출하는 이유 🎮",
+      "intro": "수백억 원이 투입된 신작보다 10년 전 추억이 더 강력한 무기가 되는 이유는 무엇일까요?\n오늘의 뉴스는 위험을 줄이고 검증된 재미를 선택하려는 자본과 이용자 심리의 교차점을 보여줍니다.",
+      "points": "오늘 발표된 '리그 오브 레전드 클래식'과 '컬드셉트 더 퍼스트'의 복각, '제노블레이드 2'의 신버전 출시는 과거의 명작을 현세대로 다시 불러오는 흐름을 명확히 보여줍니다. 반면 더블 파인의 독립 및 인력 감원 소식은 대규모 신규 프로젝트가 직면한 높은 시장 리스크를 단적으로 증명합니다. 📉\n\n이러한 현상은 게이머의 보수적인 소비 심리와 스튜디오의 리스크 관리 전략이 맞물린 결과입니다. 이용자들은 불확실한 신작보다 이미 검증된 경험에 지갑을 열고 있으며, 이는 게임 소비 구조를 새로운 도전 탐색에서 '안정적인 향수 소비'로 변화시키고 있습니다. 🛍️\n\n결국 개발비 상승과 시장 불확실성 속에서 **'입증된 과거 IP의 재해석'은 단순한 팬 서비스를 넘어 게임사의 핵심 생존 전략**으로 자리 잡았습니다. 이미 검증된 게임성과 브랜드 파워는 개발 및 마케팅 실패 위험을 극단적으로 낮춰주기 때문입니다. 💡\n\n클래식 모드와 리마스터의 유행은 단기적인 수익을 보장하지만, 산업 전체의 장기적 혁신을 정체시킬 수 있다는 숙제를 남깁니다. 여러분은 검증된 추억의 재방문과 불완전하더라도 새로운 도전 중 어느 쪽에 지갑을 열고 계십니까? 🔮"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": true,
+      "title": "The Relic First Guardian - Deep Dive Combat Showcase | PS5 Games",
+      "channel": "PlayStation",
+      "videoId": "Sj0gMREQaLY",
+      "url": "https://www.youtube.com/watch?v=Sj0gMREQaLY",
+      "thumbnail": "https://i.ytimg.com/vi/Sj0gMREQaLY/hqdefault.jpg",
+      "comment": "이번 주 게이머들의 시선을 사로잡은 신작, PS5로 찾아올 액션 RPG '더 렐릭: 퍼스트 가디언'을 소개합니다. ⚔️\n\n공식 트레일러 영상에서는 다채로운 무기와 기술을 활용한 심도 높은 전투 시스템을 집중적으로 조명하고 있습니다. 🛡️\n\n새로운 가디언의 역동적인 액션이 궁금하다면 지금 바로 화려한 전투 쇼케이스를 확인해 보세요! 🎬",
+      "search_query": "The Relic First Guardian Official Gameplay Trailer",
+      "ai_game_name": "더 렐릭: 퍼스트 가디언",
+      "ai_reason": "한국 민담과 설화를 바탕으로 한 묵직한 다크 판타지 세계관과 70여 종의 압도적인 보스전 액션을 선보이는 신작으로, 이전 추천작과 확연히 다른 어둡고 강렬한 쾌감을 전달합니다."
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "League of Legends Classic",
+        "releases.0.note": "A MOBA mode officially released on July 30, allowing players to play past champions, items, and maps based on Season 3 within the existing client.",
+        "releases.0.dev": "Riot Games",
+        "releases.1.game": "Gusan: City of Wolves",
+        "releases.1.note": "A hardboiled top-down shooting action game officially released on July 30, featuring exhilarating combat set in Gusan, a fictional Asian city.",
+        "releases.1.dev": "Pline Games",
+        "releases.2.game": "Culdcept the First",
+        "releases.2.note": "A board/card game officially released on July 30, remastered based on the 1997 classic Culdcept 1 with added quality-of-life features such as quick save/load.",
+        "releases.2.dev": "City Connection",
+        "releases.3.game": "The Relic: First Guardian",
+        "releases.3.note": "A dark fantasy action RPG officially released on July 31, presenting combat against over 70 types of bosses in a world based on Korean folklore and tales.",
+        "releases.3.dev": "Project Cloud Games",
+        "releases.4.game": "Corsair Cove",
+        "releases.4.note": "A strategy simulation game officially released on August 1, offering the fun of leading a pirate crew, building fortresses, and expanding a naval base.",
+        "releases.4.dev": "Limbic Entertainment",
+        "events.0.name": "ChinaJoy 2026",
+        "events.0.note": "Asia's largest game show held (Slogan: 'Level Up with AI')",
+        "events.0.venue": "Shanghai New International Expo Centre",
+        "events.1.name": "LCK Legends Match",
+        "events.1.note": "Special event match featuring early legend players played in LoL Classic mode",
+        "events.1.venue": "Chzzk LoL PARK, Jongno-gu, Seoul"
+      },
+      "briefing": {
+        "items.0.title": "KRAFTON Records All-Time High H1 Revenue of 2.6616 Trillion KRW",
+        "items.0.source": "INVEN",
+        "items.0.time": "July 29",
+        "items.1.title": "'Wuchang: Fallen Feathers' Sequel Confirmed for Development... Published by 505 Games",
+        "items.1.source": "INVEN",
+        "items.1.time": "July 29",
+        "items.2.title": "Xbox Launches Investigation into Server Outage Blocking Physical Disc Play",
+        "items.2.source": "IGN India",
+        "items.2.time": "July 29",
+        "items.3.title": "'Company of Heroes 3: Final Stand' Launch Video Revealed",
+        "items.3.source": "IGN India",
+        "items.3.time": "July 29",
+        "items.4.title": "'Xenoblade Chronicles 2' Officially Released for Switch 2 with New Elements Added",
+        "items.4.source": "Famitsu",
+        "items.4.time": "July 30",
+        "items.5.title": "Xbox Reveals Major New Title Lineup for 'Gamescom 2026'",
+        "items.5.source": "Dengeki Online",
+        "items.5.time": "July 29",
+        "items.6.title": "Double Fine Pursues Independence from Xbox, Lays Off 25% of Workforce",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "July 29"
+      },
+      "drk": {
+        "title": "In an Era of Uncertainty, Why the Game Industry Recalls the 'Past' 🎮",
+        "intro": "Why do memories from 10 years ago become a more powerful weapon than new titles costing tens of billions of KRW?\nToday's news shows the intersection of capital and user psychology seeking to reduce risk and choose proven fun.",
+        "points": "Today's announcements of the 'League of Legends Classic' and 'Culdcept the First' remasters, along with the release of the new version of 'Xenoblade Chronicles 2', clearly demonstrate the trend of bringing past masterpieces back to the current generation. On the other hand, news of Double Fine's independence and staff cuts vividly illustrates the high market risk faced by large-scale new projects. 📉\n\nThis phenomenon is the result of gamers' conservative spending psychology aligning with studios' risk management strategies. Users are opening their wallets to proven experiences rather than uncertain new titles, shifting the game consumption structure from exploring new challenges to 'stable nostalgia consumption'. 🛍️\n\nUltimately, amidst rising development costs and market uncertainty, **'reinterpreting proven past IPs' has established itself as a key survival strategy for game companies, beyond mere fan service**. This is because proven gameplay and brand power drastically lower the risk of development and marketing failure. 💡\n\nWhile the trend of classic modes and remasters guarantees short-term revenue, it leaves behind the challenge of potentially stagnating long-term innovation across the entire industry. Are you opening your wallet to revisit proven memories or to embrace incomplete yet new challenges? 🔮"
+      },
+      "trailer": {
+        "title": "The Relic First Guardian - Deep Dive Combat Showcase | PS5 Games",
+        "comment": "Introducing the new action RPG coming to PS5 that caught gamers' eyes this week: 'The Relic: First Guardian'. ⚔️\n\nThe official trailer video focuses heavily on the deep combat system utilizing a variety of weapons and skills. 🛡️\n\nIf you're curious about the new Guardian's dynamic action, check out the spectacular combat showcase right now! 🎬"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "リーグ・オブ・レジェンド クラシック",
+        "releases.0.note": "7月30日に正式リリースされたMOBAモードで、シーズン3をベースとした過去のチャンピオンやアイテム、マップを既存のクライアントでプレイできます。",
+        "releases.0.dev": "ライアットゲームズ",
+        "releases.1.game": "九山：シティ・オブ・ウルブズ",
+        "releases.1.note": "7月30日に正式リリースされるハードボイルド・トップダウンシューティングアクションゲームで、架空のアジアの都市「九山（グサン）」を舞台に繰り広げられる爽快な戦闘を描いています。",
+        "releases.1.dev": "ピラインゲームズ",
+        "releases.2.game": "カルドセプト ザ・ファースト",
+        "releases.2.note": "7월 30日に正式リリースされるボード・カードゲームで、1997年の名作『カルドセプト』第1作をベースに、クイックセーブ／ロードなどの便利機能を追加して復刻されました。",
+        "releases.2.dev": "シティコネクション",
+        "releases.3.game": "ザ・レリック：ファースト・ガーディアン",
+        "releases.3.note": "7月31日に正式リリースされるダークファンタジーアクションRPGで、韓国の民話や説話をモチーフにした世界観の中、70種以上のボスと戦うアクションを楽しめます。",
+        "releases.3.dev": "プロジェクトクラウドゲームズ",
+        "releases.4.game": "コルセア・コーヴ",
+        "releases.4.note": "8月1日に正式リリースされる戦略シミュレーションゲームで、海賊団を率いて要塞を建設し、海上基地を拡大していく面白さを提供します。",
+        "releases.4.dev": "リンビック・エンターテインメント",
+        "events.0.name": "ChinaJoy 2026",
+        "events.0.note": "アジア最大のゲームショウ開催（スローガン：「AIと共にレベルアップ」）",
+        "events.0.venue": "上海新国際博覧中心",
+        "events.1.name": "LCK レジェンドマッチ",
+        "events.1.note": "LoLクラシックモードで行われる初期レジェンド選手たちの特別イベントマッチ",
+        "events.1.venue": "ソウル特別市鍾路区 CHZZK LoL PARK"
+      },
+      "briefing": {
+        "items.0.title": "KRAFTON、上半期の売上高2兆6,616億ウォンで過去最高を更新",
+        "items.0.source": "INVEN",
+        "items.0.time": "7月29日",
+        "items.1.title": "『明末：虚羽の影』続編の開発が決定… 505 Gamesがパブリッシング",
+        "items.1.source": "INVEN",
+        "items.1.time": "7월 29日",
+        "items.2.title": "Xbox、パッケージ版ディスクのプレイが制限されたサーバー障害の調査に着手",
+        "items.2.source": "IGN India",
+        "items.2.time": "7月29日",
+        "items.3.title": "『Company of Heroes 3: Final Stand』ローンチ映像を公開",
+        "items.3.source": "IGN India",
+        "items.3.time": "7月29日",
+        "items.4.title": "『ゼノブレイド2』Switch 2新要素追加バージョンが正式リリース",
+        "items.4.source": "ファミ通",
+        "items.4.time": "7月30日",
+        "items.5.title": "Xbox、「gamescom 2026」大型新作の出展ラインナップを公開",
+        "items.5.source": "電撃オンライン",
+        "items.5.time": "7月29日",
+        "items.6.title": "Double Fine、Xboxからの独立を推進し人員の25%を削減",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "7月29日"
+      },
+      "drk": {
+        "title": "不確実性の時代、ゲーム産業が「過去」を呼び覚ます理由 🎮",
+        "intro": "数百億ウォンが投じられた新作よりも、10年前の思い出がより強力な武器となる理由は何でしょうか？\n本日のニュースは、リスクを減らし検証済みの楽しさを選択しようとする資本とユーザー心理の交差点を示しています。",
+        "points": "本日発表された『リーグ・オブ・レジェンド クラシック』や『カルドセプト ザ・ファースト』の復刻、『ゼノブレイド2』の新バージョン発売は、過去の名作を現世代に呼び戻すトレンドを明確に示しています。一方で、Double Fineの独立および人員削減のニュースは、大規模な新規プロジェクトが直面している高い市場リスクを端的に証明しています。 📉\n\nこのような現象は、ゲーマーの保守的な消費心理とスタジオのリスク管理戦略が噛み合った結果です。ユーザーは不確実な新作よりも、すでに検証済みの体験にお金を払っており、これがゲーム消費構造を「新しい挑戦の探求」から「安定したノスタルジー消費」へと変化させています。 🛍️\n\n結局のところ、開発費の上昇と市場の不確実性の中で、**「検証された過去IPの再解釈」は単なるファンサービスを超え、ゲーム会社の核心的な生存戦略**として定着しました。すでに検証済みのゲーム性とブランドパワーは、開発およびマーケティングの失敗リスクを極限まで下げてくれるからです。 💡\n\nクラシックモードやリマスターの流行は短期的な収益を保証しますが、産業全体の長期的なイノベーションを停滞させかねないという課題を残します。皆さんは、検証された思い出の再訪と、不完全であっても新しい挑戦のどちらにお金を払っていますか？ 🔮"
+      },
+      "trailer": {
+        "title": "The Relic First Guardian - Deep Dive Combat Showcase | PS5 Games",
+        "comment": "今週ゲーマーの視線を惹きつけた新作、PS5で登場するアクションRPG『ザ・レリック：ファースト・ガーディアン』をご紹介します。 ⚔️\n\n公式トレーラー映像では、多彩な武器やスキルを活用した奥深い戦闘システムにスポットを当てています。 🛡️\n\n新しいガーディアンのダイナミックなアクションが気になる方は、今すぐ華麗なバトルショーケースをチェックしてみてください！ 🎬"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "게임 산업이 자꾸 '과거'를 호출하는 이유 🎮 (feat. PS5 <더 렐릭> 전투 공개 ⚔️)",
+    "en": "Why is the gaming industry obsessed with the past? 🎮 (feat. 'The Relic' Combat Showcase ⚔️)",
+    "ja": "なぜ今、ゲーム業界は「過去」に回帰するのか？🎮（PS5新作『The Relic』戦闘映像公開 ⚔️）"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "published_at": "2026-07-30T09:20:20.629735",
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "추억의 그때 그 시절 게임들이 자꾸 돌아오는 이유! 🎮\n드디어 나온 '롤 클래식'부터 국산 기대작 '더 렐릭' 소식까지 모아봤어요! ✨\n\nhttps://www.gtplayer.net/edition-092/\n\n#리그오브레전드클래식 #게임소식 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-07-30T09:21:07.386335"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "7월 30일 오늘의 게임 소식 🎮\n\n📰 [뉴스] 크래프톤 역대 최대 매출 경신 및 Xbox 실물 디스크 서버 장애 이슈!\n📅 [출시] 추억의 '롤 클래식'부터 국산 기대작 '더 렐릭: 퍼스트 가디언'까지!\n✍️ [인사이트] 수백억 신작 대신 10년 전 추억? 게임 산업이 자꾸 과거를 호출하는 이유\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#GTPLAYER #지티플레이어 #게임뉴스 #게임뉴스레터 #게임정보 #신작게임 #게임추천 #게임덕후 #게임스타그램 #플스5 #PS5게임 #스팀게임 #닌텐도스위치 #크래프톤 #롤클래식 #더렐릭 #게임인사이트 #게이머 #콘솔게임 #PC게임",
+          "image_paths": [
+            "web\\instagram\\edition_092\\card_news.png",
+            "web\\instagram\\edition_092\\card_calendar.png",
+            "web\\instagram\\edition_092\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3952301936246714361_39332818166",
+            "url": "https://www.instagram.com/p/DbZZau7Eu_5/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-07-30T09:25:34.413001"
+    }
+  }
+}

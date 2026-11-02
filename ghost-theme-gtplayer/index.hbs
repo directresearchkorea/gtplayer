@@ -1,0 +1,81 @@
+{{!< default}}
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-eyebrow">Daily Game Intelligence</div>
+  <h1>게임 인사이트,<br><em>매일 아침 7시</em></h1>
+  <p class="hero-sub">PC · 콘솔 · 모바일 · 업계 뉴스 · Dr. K 코멘트</p>
+  <div class="hero-subscribe-form">
+    <form data-members-form="subscribe">
+      <div class="hero-email-wrap">
+        <input data-members-email type="email" name="email" class="hero-email-input" placeholder="jamie@example.com" required>
+        <button type="submit" class="hero-email-btn">구독하기</button>
+      </div>
+      <div class="message-success">이메일 확인을 위해 받은 편지함을 확인해주세요.</div>
+      <div class="message-error" data-members-error></div>
+    </form>
+  </div>
+  <p class="hero-note">스팸 없음 · 언제든 해지 가능</p>
+</section>
+<div class="page">
+
+
+
+  <!-- FEATURED -->
+  {{#get "posts" filter="featured:true" limit="4" include="tags" as |featured|}}
+  {{#if featured}}
+  <div class="featured-head">
+    <h2>Featured</h2>
+  </div>
+  <div class="featured-grid">
+    {{#foreach featured}}
+    <a class="feat-card" href="{{url}}">
+      <div class="feat-thumb">
+        {{#if feature_image}}
+        <img src="{{feature_image}}" alt="{{title}}" loading="lazy">
+        {{else}}
+        <div class="feat-thumb-placeholder"></div>
+        {{/if}}
+      </div>
+      <div class="feat-card-title">{{title}}</div>
+      <span class="feat-tag">{{date format="YYYY.MM.DD"}}</span>
+    </a>
+    {{/foreach}}
+  </div>
+  {{/if}}
+  {{/get}}
+
+
+
+  {{#foreach posts}}
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">{{date format="MM.DD"}}</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">{{reading_time}}분 읽기</span>
+    </div>
+    <a href="{{url}}" class="edition-link">
+      <h3 class="edition-title">{{title}}</h3>
+      {{#if custom_excerpt}}
+      <p class="edition-excerpt">{{custom_excerpt}}</p>
+      {{else}}
+      <p class="edition-excerpt">{{excerpt words="30"}}</p>
+      {{/if}}
+    </a>
+  </article>
+  {{/foreach}}
+
+  <!-- PAGINATION -->
+  {{#if pagination.pages}}
+  <nav class="pagination">
+    {{#if pagination.prev}}
+    <a class="page-btn" href="{{page_url pagination.prev}}">← 이전</a>
+    {{/if}}
+    <span class="page-num">{{pagination.page}} / {{pagination.pages}}</span>
+    {{#if pagination.next}}
+    <a class="page-btn" href="{{page_url pagination.next}}">다음 →</a>
+    {{/if}}
+  </nav>
+  {{/if}}
+
+</div>

@@ -1,0 +1,420 @@
+{
+  "num": "084",
+  "date": "2026-07-20",
+  "status": "published",
+  "schedule": {
+    "date": "2026-07-20",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "event",
+          "game": "러브앤딥스페이스",
+          "dev": "인폴드 게임즈",
+          "date": "7월 20일(월)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#8b5cf6",
+          "note": "7월 20일부터 프리 스티커 사진기 '블룸잇(Bloomit)'과의 오프라인 콜라보가 시작되어 캐릭터들과의 2샷 촬영 및 한정 가이드 음성을 제공합니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202607/81806",
+          "source_name": "電撃オンライン"
+        },
+        {
+          "category": "event",
+          "game": "브란테 경의 삶과 고난",
+          "dev": "세베루 스튜디오",
+          "date": "7월 20일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#8b5cf6",
+          "note": "선택과 고난의 서사를 담은 명작 RPG '브란테 경의 삶과 고난'을 스팀에서 기간 한정으로 무료 배포합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/visual-novel/grab-a-free-steam-game-full-of-misery-and-decision-making-for-a-limited-time/",
+          "source_name": "PC Gamer"
+        },
+        {
+          "category": "event",
+          "game": "스테라소라",
+          "dev": "요스타",
+          "date": "7월 21일(화)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#8b5cf6",
+          "note": "7월 21일 점검 후부터 신규 수영복 이벤트 '워킹 서머 바케이션'이 개최되며 한정 5성 캐릭터 '위로우(수영복)'가 등장합니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/867/G086701/20260719005/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "event",
+          "game": "오시로 프로젝트: RE",
+          "dev": "DMM 게임즈",
+          "date": "7월 21일(화)",
+          "platforms": [
+            "PC",
+            "Mobile"
+          ],
+          "color": "#8b5cf6",
+          "note": "인기 애니메이션 '걸즈 앤 판처 최종장'과의 콜라보레이션 이벤트가 7월 21일부터 진행되며 콜라보 캐릭터로 오아라이 여학원 함선이 등장합니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202607/81817",
+          "source_name": "電撃オンライン"
+        },
+        {
+          "category": "release",
+          "game": "드래곤소드: 어웨이크닝",
+          "dev": "하운드13",
+          "date": "7월 23일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "오픈월드 액션 RPG '드래곤소드: 어웨이크닝'이 오는 7월 23일 오전 7시 스팀을 통해 싱글 패키지 형태로 정식 출시됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318628",
+          "source_name": "인벤"
+        },
+        {
+          "category": "event",
+          "game": "기동전사 건담 배틀 오퍼레이션 2",
+          "dev": "반다이 남코 엔터테인먼트",
+          "date": "7월 23일(목)",
+          "platforms": [
+            "PS4",
+            "PS5",
+            "PC"
+          ],
+          "color": "#8b5cf6",
+          "note": "서비스 8주년을 기념하는 '8주년 대감사제'가 7월 23일부터 개최되며 신규 코스트 750 범용기 'V2 어썰트 버스터 건담'이 참전합니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202607/81746",
+          "source_name": "電撃オンライン"
+        }
+      ],
+      "events": [
+        {
+          "name": "Esports World Cup 2026 (EWC 2026)",
+          "note": "세계 최대 규모의 e스포츠 대회가 프랑스 파리에서 약 7주간 진행됩니다.",
+          "venue": "프랑스 파리",
+          "date": "2026-07-06 ~ 2026-08-23",
+          "tag": "e스포츠",
+          "website": "https://www.4gamer.net/games/991/G999107/20260710035/"
+        },
+        {
+          "name": "러브앤딥스페이스(恋と深空) × 스티커 사진기 'Bloomit' 콜라보레이션 이벤트",
+          "note": "인기 연애 시뮬레이션 게임 '러브앤딥스페이스' 캐릭터들과의 2샷 촬영 및 한정 오디오 가이드를 제공하는 오프라인 협업 이벤트가 시작됩니다.",
+          "venue": "일본 전역 Bloomit 스티커 사진기 설치 오프라인 매장",
+          "date": "2026-07-20 ~ ",
+          "tag": "오프라인 행사",
+          "website": "https://dengekionline.com/article/202607/81806"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "디플러스 기아, EWC 2026 LoL 우승 차지",
+          "source": "인벤",
+          "time": "7월 19일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318643"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "엔씨, 신작 '아스트라에 오라티오' 테스터 모집",
+          "source": "인벤",
+          "time": "7월 17일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318627"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "Xbox \"독점작 늘리되 싱글 게임 집착 말라\"",
+          "source": "IGN India",
+          "time": "7월 19일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/clockwork-revolution/266615/xbox-says-more-exclusives-are-coming-but-tells-players-not-to-overly-fixate-on-single-player-games"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "'디스코 엘리시움' 개발사, 32명 감원 발표",
+          "source": "IGN India",
+          "time": "7월 18일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/no-truce-with-the-furies/266597/disco-elysium-dev-zaum-announces-layoffs-affecting-up-to-32-staff"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'파이널 판타지 10' 출시 25주년 영상 공개",
+          "source": "電撃オンライン",
+          "time": "7월 19일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202607/81821"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "덱빌딩 로그라이트 'Fogpiercer' 정식 출시",
+          "source": "4Gamer",
+          "time": "7월 17일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/946/G094673/20260718008/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "라이엇, '리그 클래식' 유료 스킨 계획 철회",
+          "source": "PC Gamer",
+          "time": "7월 19일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/moba/riot-quickly-backpedals-on-paid-old-school-skins-in-league-of-legends-classic-after-backlash/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "싱글 플레이 게임의 딜레마: 플랫폼 변심과 생존 공식의 변화",
+      "intro": "Xbox가 \"싱글 게임에 집착하지 말라\"고 선언한 날, 명작을 만든 개발사는 감원을 발표했습니다.\n오롯이 혼자만의 몰입을 선사하던 싱글 플레이 게임은 이제 산업에서 지속 불가능한 모델이 된 것일까요?",
+      "points": "최근 Xbox의 \"싱글 게임에 집착하지 말라\"는 기조 발표와 '디스코 엘리시움' 개발사의 감원 소식은 게임 산업에 무거운 질문을 던집니다. 한편에서는 '드래곤소드: 어웨이크닝' 같은 싱글 패키지가 꾸준히 출시되고 있으나, 비즈니스 관점에서의 지속 가능성에는 뚜렷한 빨간불이 켜진 상태입니다. 🔴\n\n이러한 흐름은 글로벌 게임 소비 구조의 근본적인 변화를 보여줍니다. 유저들은 일회성 패키지 구매보다 지속적인 업데이트가 보장되는 서비스형 게임(GaaS)에 익숙해졌으며, 플랫폼 홀더들 역시 구독 모델 유지와 안정적인 매출을 위해 멀티플레이어 환경을 강력히 선호하고 있습니다. 이에 따라 높은 개발 비용에 비해 매출 지속성이 낮은 싱글 플레이 게임의 입지가 좁아지는 플랫폼 구조적 변화가 일어나는 중입니다. 📉\n\n**결국 향후 싱글 플레이 게임은 단순한 판매용 패키지를 넘어, 핵심 지식재산권(IP)의 가치를 증명하고 충성 고객을 확보하기 위한 프리미엄 브랜드 마케팅 도구로 재정의될 것입니다.** 순수한 패키지 판매 수익만으로 천문학적인 제작비를 회수하고 개발사를 유지하기란 점점 더 불가능에 가까워지고 있기 때문입니다. 💡\n\n대규모 자본이 투입되는 고품질 싱글 게임의 축소는 깊이 있는 내러티브를 원하는 게이머들에게 큰 아쉬움으로 다가옵니다. 과연 거대 자본의 논리 속에서 싱글 플레이 게임은 어떤 새로운 생존 방식을 찾아내야 할까요? ❓"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Love and Deepspace",
+        "releases.0.note": "An offline collaboration with the free sticker photo booth 'Bloomit' starts on July 20, offering two-shot photo opportunities with the characters and limited-edition voice guides.",
+        "releases.0.dev": "Infold Games",
+        "releases.1.game": "The Life and Suffering of Sir Brante",
+        "releases.1.note": "The masterpiece RPG 'The Life and Suffering of Sir Brante', depicting a narrative of choices and hardships, is available for free for a limited time on Steam.",
+        "releases.1.dev": "Sever Studio",
+        "releases.2.game": "Stella Sora",
+        "releases.2.note": "A new swimsuit event, 'Walking Summer Vacation,' will be held after maintenance on July 21, featuring the limited 5-star character 'Willow (Swimsuit).'",
+        "releases.2.dev": "Yostar",
+        "releases.3.game": "Oshiro Project: RE",
+        "releases.3.note": "A collaboration event with the popular anime 'Girls und Panzer das Finale' will run from July 21, featuring the Ooarai Girls' Academy ship as a collaboration character.",
+        "releases.3.dev": "DMM Games",
+        "releases.4.game": "Dragon Sword: Awakening",
+        "releases.4.note": "The open-world action RPG 'Dragon Sword: Awakening' will be officially released as a single-player package on Steam on July 22 at 10:00 PM UTC.",
+        "releases.4.dev": "Hound13",
+        "releases.5.game": "Mobile Suit Gundam Battle Operation 2",
+        "releases.5.note": "The '8th Anniversary Great Thanksgiving' festival celebrating the 8th anniversary of the service will be held starting July 23, featuring the new Cost 750 general-purpose mobile suit 'V2 Assault Buster Gundam'.",
+        "releases.5.dev": "Bandai Namco Entertainment",
+        "events.0.name": "Esports World Cup 2026 (EWC 2026)",
+        "events.0.note": "The world's largest esports tournament will be held in Paris, France, for about 7 weeks.",
+        "events.0.venue": "Paris, France",
+        "events.1.name": "Love and Deepspace (恋と深空) × Photo Booth 'Bloomit' Collaboration Event",
+        "events.1.note": "An offline collaboration event begins, offering two-shot photo opportunities with the characters from the popular romance simulation game 'Love and Deepspace' and limited-edition audio guides.",
+        "events.1.venue": "Offline stores across Japan where Bloomit photo booths are installed"
+      },
+      "briefing": {
+        "items.0.title": "Dplus KIA Wins EWC 2026 LoL Championship",
+        "items.0.source": "Inven",
+        "items.0.time": "July 19",
+        "items.1.title": "NCSOFT Recruits Testers for New Game 'Astrae Oratio'",
+        "items.1.source": "Inven",
+        "items.1.time": "July 17",
+        "items.2.title": "Xbox: \"Increase Exclusives, But Don't Obsess Over Single-Player Games\"",
+        "items.2.source": "IGN India",
+        "items.2.time": "July 19",
+        "items.3.title": "'Disco Elysium' Developer Announces 32 Layoffs",
+        "items.3.source": "IGN India",
+        "items.3.time": "July 18",
+        "items.4.title": "'Final Fantasy X' 25th Anniversary Video Released",
+        "items.4.source": "Dengeki Online",
+        "items.4.time": "July 19",
+        "items.5.title": "Deckbuilding Roguelite 'Fogpiercer' Officially Released",
+        "items.5.source": "4Gamer",
+        "items.5.time": "July 17",
+        "items.6.title": "Riot Cancels Paid Skin Plans for 'League Classic'",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "July 19"
+      },
+      "drk": {
+        "title": "The Dilemma of Single-Player Games: Shifting Platform Preferences and Changing Formulas for Survival",
+        "intro": "On the day Xbox declared \"don't obsess over single-player games,\" the developer of a masterpiece announced layoffs.\nHave single-player games, which once provided pure, solitary immersion, now become an unsustainable model in the industry?",
+        "points": "Recent announcements, such as Xbox's stance to \"not obsess over single-player games\" and the news of layoffs at the developer of 'Disco Elysium,' pose heavy questions for the gaming industry. While single-player packages like 'Dragon Sword: Awakening' continue to be released, their sustainability from a business perspective has flashing red lights. 🔴\n\nThis trend highlights a fundamental shift in the global gaming consumption structure. Users have become more accustomed to Games as a Service (GaaS) with guaranteed continuous updates rather than one-off package purchases. Platform holders also strongly prefer multiplayer environments to maintain subscription models and secure stable revenue. Consequently, a structural shift is occurring on platforms, narrowing the space for single-player games, which have low revenue sustainability relative to their high development costs. 📉\n\n**Ultimately, future single-player games will be redefined beyond simple commercial packages into premium brand marketing tools to prove the value of core intellectual properties (IPs) and secure loyal customers.** This is because it is becoming increasingly impossible to recoup astronomical production costs and sustain a development studio solely through pure package sales revenue. 💡\n\nThe reduction of high-quality, large-budget single-player games is a great disappointment to gamers who desire deep narratives. In the face of massive capital logic, what new ways to survive must single-player games discover? ❓"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "恋と深空",
+        "releases.0.note": "7月20日からプリントシール機「Bloomit」とのオフラインコラボが開始され、キャラクターたちとのツーショット撮影や限定ガイドボイスが提供されます。",
+        "releases.0.dev": "Infold Games",
+        "releases.1.game": "ザ・ライフ・アンド・サファリング・オブ・サー・ブランテ",
+        "releases.1.note": "選択と苦難の叙事詩を描いた名作RPG『ザ・ライフ・アンド・サファリング・オブ・サー・ブランテ』をSteamにて期間限定で無料配布します。",
+        "releases.1.dev": "Sever Studio",
+        "releases.2.game": "ステラソラ",
+        "releases.2.note": "7月21日のメンテナンス後から、新規水着イベント「ウォーキング・サマーバケーション」が開催され、限定★5キャラクター「ウィロウ（水着）」が登場します。",
+        "releases.2.dev": "Yostar",
+        "releases.3.game": "御城プロジェクト:RE",
+        "releases.3.note": "人気アニメ『ガールズ＆パンツァー 最終章』とのコラボレーションイベントが7月21日から開催され、コラボキャラクターとして大洗女子学園の学園艦が登場します。",
+        "releases.3.dev": "DMM GAMES",
+        "releases.4.game": "ドラゴンソード：アウェイクニング",
+        "releases.4.note": "オープンワールドアクションRPG『ドラゴンソード：アウェイクニング』が、来る7月23日午前7時にSteamを通じてシングルパッケージ版として正式リリースされます。",
+        "releases.4.dev": "Hound13",
+        "releases.5.game": "機動戦士ガンダム バトルオペレーション2",
+        "releases.5.note": "サービス8周年を記念する「8周年大感謝祭」が7月23日から開催され、新規コスト750汎用機「V2アサルトバスターガンダム」が参戦します。",
+        "releases.5.dev": "バンダイナムコエンターテインメント",
+        "events.0.name": "Esports World Cup 2026 (EWC 2026)",
+        "events.0.note": "世界最大規模のeスポーツ大会が、フランス・パリで約7週間にわたり開催されます。",
+        "events.0.venue": "フランス・パリ",
+        "events.1.name": "『恋と深空』× プリントシール機「Bloomit」コラボレーションイベント",
+        "events.1.note": "人気恋愛シミュレーションゲーム『恋と深空』のキャラクターたちとのツーショット撮影や、限定オーディオガイドを提供するオフラインコラボイベントが開始されます。",
+        "events.1.venue": "日本全国のBloomitプリントシール機設置オフライン店舗"
+      },
+      "briefing": {
+        "items.0.title": "Dplus KIA、EWC 2026 LoL部門で優勝",
+        "items.0.source": "Inven",
+        "items.0.time": "7月19日",
+        "items.1.title": "NC、新作『アストラ・エ・オラティオ』のテスターを募集",
+        "items.1.source": "Inven",
+        "items.1.time": "7月17日",
+        "items.2.title": "Xbox「独占作は増やすが、シングルプレイゲームに執着するな」",
+        "items.2.source": "IGN India",
+        "items.2.time": "7月19日",
+        "items.3.title": "『ディスコ エリジウム』開発元、32人の人員削減を発表",
+        "items.3.source": "IGN India",
+        "items.3.time": "7月18日",
+        "items.4.title": "『ファイナルファンタジーX』発売25周年記念動画を公開",
+        "items.4.source": "電撃オンライン",
+        "items.4.time": "7月19日",
+        "items.5.title": "デッキ構築型ローグライト『Fogpiercer』正式リリース",
+        "items.5.source": "4Gamer",
+        "items.5.time": "7月17日",
+        "items.6.title": "ライアット、「リーグ・クラシック」有料スキン計画を撤回",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "7월 19일"
+      },
+      "drk": {
+        "title": "シングルプレイゲームのジレンマ：プラットフォームの心変わりと生存方程式の変化",
+        "intro": "Xboxが「シングルゲームに執着するな」と宣言した日、名作を生み出した開発元は人員削減を発表しました。\n完全に一人だけの没入感を提供していたシングルプレイゲームは、もはや業界において持続不可能なモデルになってしまったのでしょうか？",
+        "points": "最近のXboxによる「シングルゲームに執着するな」という基調発表と、『ディスコ エリジウム』開発元のレイオフのニュースは、ゲーム業界に重い問いを投げかけています。一方では『ドラゴンソード：アウェイクニング』のようなシングルパッケージが継続してリリースされていますが、ビジネスの観点における持続可能性には、はっきりと赤信号が灯っている状態です。🔴\n\nこのような流れは、グローバルゲーム消費構造の根本的な変化を示しています。ユーザーは一回限りのパッケージ購入よりも、継続的なアップデートが保証されるライブサービスゲーム（GaaS）に慣れており、プラットフォームホルダー側もサブスクリプションモデルの維持と安定した売上のために、マルチプレイヤー環境を強く好むようになっています。これに伴い、高い開発費に対して売上の持続性が低いシングルプレイゲームの立地が狭まるという、プラットフォームの構造的な変化が起きています。📉\n\n**結局のところ、今後のシングルプレイゲームは単なる販売用パッケージを超え、核心的な知的財産（IP）の価値を証明し、ロイヤルカスタマーを確保するためのプレミアムなブランドマーケティングツールとして再定義されるでしょう。** 純粋なパッケージ販売の収益だけで天文学的な制作費を回収し、開発会社を維持することは、ますます不可能に近づいているからです。💡\n\n大規模な資本が投入される高品質なシングルゲームの縮小は、深みのあるストーリーを求めるゲーマーにとって大きな心残りとなります。果たして巨大資本の論理の中で、シングルプレイゲームはどのような新しい生存戦略を見出さなければならないのでしょうか？❓"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "\"이제 싱글 게임은 안 팔린다?\" 플랫폼의 변심과 새로운 생존 공식 🎮📉",
+    "en": "\"Are single-player games dead?\" How devs survive the brutal platform shift 🎮📉",
+    "ja": "「もうソロゲーは売れない？」変わりゆくプラットフォームと新たな生存戦略 🎮📉"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "이제 싱글 게임의 시대는 끝난 걸까요? 😢\n플랫폼들의 생존 공식이 바뀌면서 Xbox도 싱글 게임 집착을 버리라고 경고했네요! 🎮\n\nhttps://www.gtplayer.net/edition-084/\n\n#Xbox #게임소식 #GTPlayer",
+          "posted": false,
+          "data": null,
+          "error": "X API 오류 (402): {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}"
+        }
+      },
+      "updated_at": "2026-07-20T07:05:09.506126"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "7월 20일 오늘의 게임 소식 🎮\n\n📰 DK의 EWC 우승부터 Xbox의 폭탄선언까지, 이번 주 핵심 뉴스 요약!\n🗓️ <러브앤딥스페이스>, <드래곤소드> 등 놓치지 말아야 할 신작 캘린더!\n📉 \"싱글 게임은 끝났다?\" 플랫폼의 변심 속 싱글 플레이 게임의 생존 공식!\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#gtplayer #지티플레이어 #게임뉴스 #게임소식 #게임트렌드 #신작게임 #게임추천 #게임덕후 #스팀게임 #모바일게임 #콘솔게임 #디플러스기아 #엑스박스 #싱글게임 #인디게임 #게임기사 #게임분석 #게이머 #EWC2026 #게임캘린더",
+          "image_paths": [
+            "web\\instagram\\edition_084\\card_news.png",
+            "web\\instagram\\edition_084\\card_calendar.png",
+            "web\\instagram\\edition_084\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3944983788791211382_39332818166",
+            "url": "https://www.instagram.com/p/Da_Zdq_kyV2/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-07-20T07:05:45.254520"
+    }
+  }
+}

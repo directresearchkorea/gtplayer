@@ -1,0 +1,81 @@
+
+    <!DOCTYPE html><html><head><meta charset="UTF-8">
+    <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+        width: 1080px; height: 1080px; overflow: hidden;
+        font-family: 'Noto Sans KR', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif;
+        background: #ffffff;
+        color: #111827;
+    }
+    .card {
+        width: 1080px; height: 1080px;
+        display: flex; flex-direction: column;
+        position: relative; overflow: hidden;
+    }
+    .gradient-bg {
+        /* Removed gradient */
+    }
+    .accent-circle {
+        display: none;
+    }
+    .logo {
+        font-size: 36px; font-weight: 900; letter-spacing: 1px;
+        color: #000;
+        text-transform: uppercase;
+    }
+    .logo span { color: #000; }
+    .tag {
+        display: inline-block;
+        background: #f3f4f6;
+        color: #111827;
+        border: 1px solid #d1d5db;
+        font-size: 34px; font-weight: 700;
+        padding: 14px 28px; border-radius: 8px;
+        letter-spacing: 1px;
+    }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&display=swap" rel="stylesheet">
+    </head>
+    <body style="background:#ffffff; color:#111827; position:relative;">
+    <div class="card" style="border: 24px solid #f9fafb; background:#ffffff; position:relative; overflow:hidden; width:1080px; height:1080px; padding: 40px 50px; display: flex; flex-direction: column; justify-content: space-between;">
+        <!-- Header -->
+        <div style="display:flex; justify-content:space-between; align-items:center; width: 100%; padding: 0 10px; z-index: 2;">
+            <div class="logo" style="font-size:24px; font-weight:900;">GT<span>PLAYER</span></div>
+            <div style="font-size:18px; color:#6b7280; font-weight:600;">#104 · 2026-08-17</div>
+        </div>
+
+        
+        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; 
+            background: url('https://i.redd.it/74u5w1kgcnjh1.png') no-repeat center center; background-size: cover; 
+            filter: blur(100px) saturate(1.6); opacity: 0.25; z-index: 0;"></div>
+        
+
+        <!-- Centered Content Wrapper (Title top, Image bottom - 45px gap) -->
+        <div style="flex: 1; display: flex; flex-direction: column; justify-content: center; gap: 45px; width: 100%; padding: 0 10px; z-index: 2;">
+            <!-- Text Box (Word-break keep-all) -->
+            <div style="display: flex; flex-direction: column; gap: 8px; width: 940px; margin: 0 auto; word-break: keep-all; flex-shrink: 0;">
+                <div><span style="display: inline-block; background: #000000; color: #ffffff; font-size: 20px; font-weight: 800; padding: 8px 16px; border-radius: 4px; letter-spacing: 1px; margin-bottom: 8px;">😂 주말 화제의 밈</span></div>
+                <h1 style="font-size: 42px; font-weight: 900; line-height: 1.35; color: #111827; letter-spacing: -1.5px;">
+                    신작 하나에 7년? '안전빵'만 찾는 게임판의 최후 📉 (feat. 오늘의 밈 🤣)
+                </h1>
+            </div>
+
+            <!-- Image Box (Dynamic size) -->
+            
+            <div style="width: 940px; flex: 1; min-height: 380px; max-height: 520px; margin: 0 auto; border-radius: 12px; overflow: hidden; 
+                box-shadow: 0 15px 35px rgba(0,0,0,0.14); border: 1px solid #e5e7eb; background:#ffffff;">
+                <img src="https://i.redd.it/74u5w1kgcnjh1.png" style="width: 100%; height: 100%; object-fit: cover;" />
+            </div>
+            
+        </div>
+
+        <!-- Footer -->
+        <div style="border-top: 2px solid #000000; padding-top: 15px; z-index: 2;
+            display: flex; justify-content: space-between; align-items: center; width: 100%; padding: 0 10px;">
+            <span style="font-size: 20px; color: #6b7280; font-weight: 600;">👉 Swipe to Read</span>
+            <span style="font-size: 18px; color: #111827; font-weight: 800;">gtplayer.net</span>
+        </div>
+    </div>
+    </body></html>
+    

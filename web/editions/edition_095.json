@@ -1,0 +1,399 @@
+{
+  "num": "095",
+  "date": "2026-08-04",
+  "status": "published",
+  "schedule": {
+    "date": "2026-08-04",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "비스트 오브 리인카네이션",
+          "dev": "게임프리크",
+          "date": "8월 3일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 3일 정식 출시된 신작 액션 게임으로, 동양풍 판타지 세계관 속 모험과 전투를 담아냈습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2001760/Beast_of_Reincarnation/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "update",
+          "game": "이스케이프 프롬 타르코프",
+          "dev": "배틀스테이트 게임즈",
+          "date": "8월 3일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "8월 3일 1.1.0.0 업데이트를 통해 독립된 경제 시스템과 신규 모디파이어를 선보이는 첫 번째 시즌 '코드 브리치'가 개막했습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319151",
+          "source_name": "인벤"
+        },
+        {
+          "category": "event",
+          "game": "콰이어트",
+          "dev": "라인게임즈",
+          "date": "8월 3일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#f59e0b",
+          "note": "8월 3일부터 스팀 플레이 테스트를 진행하며 첫 번째 스테이지와 외계 침공에 대응하는 협동 플레이를 최초 공개했습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319137",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "빅 워크",
+          "dev": "하우스 하우스",
+          "date": "8월 4일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 4일 정식 출시되는 협동 멀티플레이 게임으로, 음성 채팅을 활용해 팀원들과 수수께끼를 풀어나가는 작품입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/1478500/Big_Walk/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "더 디비전 리서전스",
+          "dev": "유비소프트",
+          "date": "8월 5일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 5일 정식 출시되는 루트슈터 신작으로, 디비전 세계관을 바탕으로 한 오픈월드 액션 RPG 경험을 제공합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3749720/The_Division_Resurgence/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "update",
+          "game": "슈퍼로봇대전 Y",
+          "dev": "반다이남코 엔터테인먼트",
+          "date": "8월 5일(수)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Switch"
+          ],
+          "color": "#3b82f6",
+          "note": "8월 5일 유료 DLC '애니버서리 확장팩'이 출시되며, 추가 미션 33개와 기체 5기, 신규 무기 12종이 업데이트됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319139",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "파이어 엠블렘 만자천홍 단독 다이렉트",
+          "note": "닌텐도 스위치2 신작 '파이어 엠블렘 만자천홍' 상세 정보 공개 방송",
+          "venue": "온라인",
+          "date": "2026-08-04",
+          "tag": "쇼케이스",
+          "website": "https://www.inven.co.kr/webzine/news/?news=319162"
+        },
+        {
+          "name": "오버워치 데이",
+          "note": "PC 오버워치 국내 서비스 시작 기념 대규모 이용자 오프라인 행사",
+          "venue": "부산 벡스코",
+          "date": "2026-08-22 ~ 2026-08-23",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=319136"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "가레나·포켓페어, 모바일 '팰월드 온라인' 연내 출시 발표",
+          "source": "인벤",
+          "time": "8월 3일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319142"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "엔씨, 유튜버 명예훼손 고소건 경찰 '혐의없음' 결론",
+          "source": "인벤",
+          "time": "8월 3일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319155"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "코에이 테크모, '진격의 거인 3' 12월 10일 출시 확정",
+          "source": "4Gamer",
+          "time": "8월 4일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/013/G101375/20260804001/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'스트리트 파이터 6', 신규 캐릭터 '야스민' 참전 및 귀무자 콜라보",
+          "source": "4Gamer",
+          "time": "8월 3일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/635/G063504/20260803035/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "시프트업 대표, '스텔라 블레이드' AI 영상 논란에 직접 해명",
+          "source": "IGN India",
+          "time": "8월 3일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/stellar-blade-2/267912/shift-up-ceo-defends-stellar-blade-blood-rain-ai-music-video-against-player-backlash"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "락스타, GTA급 매출 미달 우려로 '미드나잇 클럽 5' 취소",
+          "source": "IGN India",
+          "time": "8월 3일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/midnight-club-los-angeles/267902/rockstar-games-killed-midnight-club-5-because-it-wasnt-as-big-as-gta-ex-designer-claims"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "텐센트 산하 라이트스피드 LA, 개발 인력 80여 명 구조조정",
+          "source": "GamesIndustry.biz",
+          "time": "8월 3일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/last-sentinel-developer-lightspeed-la-conducts-layoffs-80-roles-reportedly-cut"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "메가 히트작만 생존하는 시대, 게임 산업의 위험 회피 📉",
+      "intro": "글로벌 거대 개발사조차 'GTA급' 수익이 보장되지 않으면 프로젝트를 백지화하는 시대입니다.\n거대 자본이 지배하는 게임 시장에서 '안전한 선택'만이 살아남는 현상의 이면을 들여다봅니다.",
+      "points": "최근 락스타 게임즈가 'GTA급 매출 미달 우려'로 미드나잇 클럽 5 개발을 취소하고, 텐센트 산하 라이트스피드 LA가 구조조정을 단행했습니다. 📉 반면 '팰월드'의 모바일화나 '더 디비전'의 플랫폼 확장 등 검증된 흥행 IP의 리사이클링 시도는 더욱 과감해지고 있습니다.\n\n이러한 자본의 위험 회피 경향은 **소비자의 게임 소비 구조**와 시장에 공급되는 실제 게임 형태를 급격히 바꾸고 있습니다. 대형 게임사들은 리스크가 큰 미시적 신작 도전 대신, 검증된 IP 기반의 모바일 라이브 서비스나 확장팩(DLC) 중심의 안전한 BM 구축에만 자원을 집중하고 있습니다. 🎮\n\n기업의 자본 효율성 극대화는 단기적 재무 위험을 줄일 수 있으나, 산업 전체의 창의성을 저해합니다. **'극상의 수익성'만을 요구하며 실패할 자유를 박탈하는 순간, 게임 산업은 다양성을 잃고 장기적 성장 동력을 상실하게 될 것입니다.** 💡\n\n숫자 중심의 경영이 창작의 자율성을 압도하는 냉정한 현실 속에서, 게이머들은 과연 언제까지 지속 가능한 즐거움을 얻을 수 있을까요? 🔍"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "이스케이프 프롬 타르코프",
+      "title": "코드 브리치: 생존을 넘어 경쟁으로, 타르코프의 새로운 최전선",
+      "imgUrl": "",
+      "comment": "첫 번째 정식 시즌 '코드 브리치'의 핵심인 전용 모디파이어와 격렬한 PvP 배틀 패스 요소가 적용된 미래의 인게임 교전 순간을 생생하게 담아내도록 AI에 지시했습니다.",
+      "ai_prompt": "Actual in-game screenshot, exact original game engine rendering, completely identical to original art style, NO cinematic styling, NO illustration. First-person view of a heavily geared PMC operator inside a dark, ruined server room in Tarkov during the 'Code Breach' season. The operator holds a customized tactical rifle with a red dot sight and laser beam pointed at a doorway. Tactical battle pass cosmetics, realistic worn gear, dirty gloves, and season-exclusive patches are visible. Computer monitors in the background show flickering terminal codes. Photorealistic Unity engine graphics, gritty textures, atmospheric volumetric lighting, heavy contrast shadows, realistic HUD-less raw gameplay screen."
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=095&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=095&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Beast of Reincarnation",
+        "releases.0.note": "A new action game officially released on August 3, featuring adventure and combat set in an Eastern fantasy world.",
+        "releases.0.dev": "Game Freak",
+        "releases.1.game": "Escape from Tarkov",
+        "releases.1.note": "With the 1.1.0.0 update on August 3, the first season 'Code Breach' kicked off, introducing an independent economy system and new modifiers.",
+        "releases.1.dev": "Battlestate Games",
+        "releases.2.game": "Quiet",
+        "releases.2.note": "Steam playtesting began on August 3, unveiling the first stage and co-op gameplay against alien invasions for the first time.",
+        "releases.2.dev": "LINE Games",
+        "releases.3.game": "Big Walk",
+        "releases.3.note": "A co-op multiplayer game officially releasing on August 4, where players use voice chat to solve riddles with teammates.",
+        "releases.3.dev": "House House",
+        "releases.4.game": "The Division Resurgence",
+        "releases.4.note": "A new looter-shooter releasing officially on August 5, providing an open-world action RPG experience based on The Division universe.",
+        "releases.4.dev": "Ubisoft",
+        "releases.5.game": "Super Robot Wars Y",
+        "releases.5.note": "The paid DLC 'Anniversary Expansion Pack' releases on August 5, updating 33 additional missions, 5 mechas, and 12 new weapons.",
+        "releases.5.dev": "Bandai Namco Entertainment",
+        "events.0.name": "Fire Emblem: Manja Cheonhong Solo Direct",
+        "events.0.note": "A broadcast revealing detailed information about the new Nintendo Switch 2 title 'Fire Emblem: Manja Cheonhong'",
+        "events.0.venue": "Online",
+        "events.1.name": "Overwatch Day",
+        "events.1.note": "A large-scale offline user event celebrating the launch of PC Overwatch service in Korea",
+        "events.1.venue": "Busan BEXCO"
+      },
+      "briefing": {
+        "items.0.title": "Garena and Pocketpair announce launch of mobile 'Palworld Online' within the year",
+        "items.0.source": "Inven",
+        "items.0.time": "August 3",
+        "items.1.title": "NCSoft defamation lawsuit against YouTuber concluded with 'No Charges' by police",
+        "items.1.source": "Inven",
+        "items.1.time": "August 3",
+        "items.2.title": "Koei Tecmo confirms release of 'Attack on Titan 3' on December 10",
+        "items.2.source": "4Gamer",
+        "items.2.time": "August 4",
+        "items.3.title": "'Street Fighter 6' features new character 'Yasmin' and Onimusha collaboration",
+        "items.3.source": "4Gamer",
+        "items.3.time": "August 3",
+        "items.4.title": "Shift Up CEO personally clarifies 'Stellar Blade' AI video controversy",
+        "items.4.source": "IGN India",
+        "items.4.time": "August 3",
+        "items.5.title": "Rockstar cancels 'Midnight Club 5' over concerns of missing GTA-level revenue",
+        "items.5.source": "IGN India",
+        "items.5.time": "August 3",
+        "items.6.title": "Tencent's LightSpeed LA lays off around 80 development staff",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "August 3"
+      },
+      "drk": {
+        "title": "An era where only mega-hits survive: Risk aversion in the game industry 📉",
+        "intro": "An era where even massive global developers scrap projects unless 'GTA-level' revenue is guaranteed.\nWe take a look behind the phenomenon where only 'safe choices' survive in a gaming market dominated by big capital.",
+        "points": "Recently, Rockstar Games canceled the development of Midnight Club 5 due to 'concerns of missing GTA-level revenue,' and Tencent's LightSpeed LA underwent restructuring. 📉 On the other hand, attempts to recycle proven hit IPs—such as bringing 'Palworld' to mobile or expanding 'The Division' to new platforms—are becoming bolder.\n\nThis risk-averse tendency of capital is rapidly altering **consumers' gaming consumption structures** and the actual types of games supplied to the market. Instead of taking high-risk challenges on brand-new titles, major gaming companies are focusing their resources solely on building safe business models centered around mobile live services or expansions (DLC) based on proven IPs. 🎮\n\nWhile maximizing corporate capital efficiency can reduce short-term financial risks, it undermines creativity across the entire industry. **The moment we demand only 'ultimate profitability' and strip away the freedom to fail, the gaming industry will lose its diversity and forfeit its long-term growth engine.** 💡\n\nIn a cold reality where number-driven management overwhelms creative autonomy, how long will gamers be able to find sustainable enjoyment? 🔍"
+      },
+      "gamescene": {
+        "game": "Escape from Tarkov",
+        "title": "Code Breach: Beyond Survival into Competition, Tarkov's New Frontline",
+        "comment": "I instructed the AI to vividly capture a moment of future in-game combat featuring dedicated modifiers and intense PvP battle pass elements, which are at the core of the first official season, 'Code Breach'."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ビースト・オブ・リインカーネーション",
+        "releases.0.note": "8月3日に正式リリースされた新作アクションゲームで、東洋風ファンタジーの世界観における冒険と戦闘を描いています。",
+        "releases.0.dev": "ゲームフリーク",
+        "releases.1.game": "エスケープ フロム タルコフ",
+        "releases.1.note": "8月3日の1.1.0.0アップデートにより、独立した経済システムと新規モディファイアを披露する最初のシーズン「コードブリーチ」が開幕しました。",
+        "releases.1.dev": "バトルステイト・ゲームズ",
+        "releases.2.game": "クワイエット",
+        "releases.2.note": "8月3日からSteamプレイテストを実施し、最初のステージとエイリアンの侵攻に対応する協力プレイを初公開しました。",
+        "releases.2.dev": "LINE Games",
+        "releases.3.game": "ビッグ・ウォーク",
+        "releases.3.note": "8月4日に正式リリースされる協力マルチプレイゲームで、ボイスチャットを活用してチームメイトと謎を解き明かしていく作品です。",
+        "releases.3.dev": "ハウス・ハウス",
+        "releases.4.game": "ディビジョン リサージェンス",
+        "releases.4.note": "8月5日に正式リリースされるルートシューターの新作で、ディビジョン世界観をベースにしたオープンワールドアクションRPGの体験を提供します。",
+        "releases.4.dev": "ユービーアイソフト",
+        "releases.5.game": "スーパーロボット大戦Y",
+        "releases.5.note": "8月5日に有料DLC「アニバーサリー拡張パック」が配信され、追加ミッション33個、機体5機、新規武器12種がアップデートされます。",
+        "releases.5.dev": "バンダイナムコエンターテインメント",
+        "events.0.name": "ファイアーエムブレム 万紫千紅 単独ダイレクト",
+        "events.0.note": "Nintendo Switch 2新作『ファイアーエムブレム 万紫千紅』詳細情報公開放送",
+        "events.0.venue": "オンライン",
+        "events.1.name": "オーバーウォッチ・デイ",
+        "events.1.note": "PC版『オーバーウォッチ』の韓国国内サービス開始を記念した大規模ユーザーオフラインイベント",
+        "events.1.venue": "釜山 BEXCO"
+      },
+      "briefing": {
+        "items.0.title": "ガレナ・ポケットペア、モバイル向け『パルワールド オンライン』年内リリースを発表",
+        "items.0.source": "インベン",
+        "items.0.time": "8月3日",
+        "items.1.title": "NC、YouTuberに対する名誉毀損告訴件で警察が「容疑なし」と結論",
+        "items.1.source": "인벤",
+        "items.1.time": "8월 3일",
+        "items.2.title": "コーエーテクモ、『進撃の巨人3』12月10日発売決定",
+        "items.2.source": "4Gamer",
+        "items.2.time": "8月4일",
+        "items.3.title": "『ストリートファイター6』、新キャラクター「ヤス민」参戦および『鬼武者』コラボ",
+        "items.3.source": "4Gamer",
+        "items.3.time": "8월 3일",
+        "items.4.title": "シフトアップ代表、『ステラブレイド』AI動画の騒動について自ら釈明",
+        "items.4.source": "IGN India",
+        "items.4.time": "8월 3일",
+        "items.5.title": "ロックスター、GTA級の売上未達を懸念し『ミッドナイトクラブ5』の開発を中止",
+        "items.5.source": "IGN India",
+        "items.5.time": "8월 3일",
+        "items.6.title": "テンセント傘下のLightspeed LA、開発スタッフ約80名をリストラ",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "8월 3일"
+      },
+      "drk": {
+        "title": "メガヒット作だけが生き残る時代、ゲーム産業のリスク回避 📉",
+        "intro": "グローバル巨大開発会社でさえ「GTA級」の収益が保証されなければプロジェクトを白紙撤回する時代です。\n巨大資本が支配するゲーム市場において、「安全な選択」だけが生き残る現象の裏側を覗いてみます。",
+        "points": "最近、ロックスター・ゲームスが「GTA級の売上未達の懸念」により『ミッドナイトクラブ5』の開発を中止し、テンセント傘下のLightspeed LAがリストラを断行しました。📉 一方で、『パルワールド』のモバイル化や『ディビジョン』のプラットフォーム拡張など、検証済みのヒットIPのリサイクル試みはさらに大胆になっています。\n\nこのような資本のリスク回避傾向は、**消費者のゲーム消費構造**と市場に供給される実際のゲーム形態を急激に変えています。大手ゲーム会社は、リスクの大きい新規タイトルの挑戦の代わりに、検証済みのIPをベースにしたモバイルライブサービスや拡張パック（DLC）中心の安全なBM（ビジネスモデル）構築にのみリソースを集中させています。🎮\n\n企業の資本効率の極大化は短期的な財務リスクを減らすことができますが、産業全体の創造性を阻害します。**「極上の収益性」のみを求め、失敗する自由を奪う瞬間、ゲーム産業は多様性を失い、長期的な成長動力を喪失することになります。** 💡\n\n数字中心の経営が創作の自主性を圧倒する冷酷な現実の中で、ゲーマーたちは果たしていつまで持続可能な楽しさを得ることができるでしょうか？ 🔍"
+      },
+      "gamescene": {
+        "game": "エスケープ フロム タルコフ",
+        "title": "コードブリーチ：生存を超えて競争へ、タルコフの新たな最前線",
+        "comment": "最初の正式シーズン「コードブリーチ」の核心である専用モディファイアと、激しいPvPバトルパス要素が適用された未来のインゲーム交戦の瞬間を生き生きと描くようAIに指示しました。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "메가 히트작 아니면 사멸? 📉 도전이 사라진 게임 업계의 속사정",
+    "en": "Mega-hits or bust! 📉 Why gaming giants are terrified of taking risks",
+    "ja": "メガヒット以外は即死？ 📉 挑戦を恐れるゲーム業界の裏側"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {}
+}

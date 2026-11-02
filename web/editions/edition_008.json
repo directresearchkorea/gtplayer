@@ -1,0 +1,273 @@
+{
+  "num": "008",
+  "date": "2026-03-20",
+  "status": "published",
+  "schedule": {
+    "date": "",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "붉은사막",
+          "dev": "펄어비스",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "스팀 동접 24만 명 돌파",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1772977",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "마라톤",
+          "dev": "번지",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "첫 레이드 '크라이오 아카이브' 오픈",
+          "country": "IN",
+          "article_url": "https://in.ign.com/marathon/256211/news/bungie-reveals-all-details-of-marathons-first-raid-cryo-archive-goes-live-on-march-20-and-weekends-o",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "event",
+          "game": "CD 프로젝트 레드",
+          "dev": "CD 프로젝트 레드",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "위쳐 4 개발 인력 499명 집중 투입",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=314609",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "데스 스트랜딩 2",
+          "dev": "코지마 프로덕션",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "PC 버전 정식 출시",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202603/69206",
+          "source_name": "Famitsu"
+        },
+        {
+          "category": "event",
+          "game": "레드 스톰 엔터테인먼트",
+          "dev": "유비소프트",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "스튜디오 개발 중단 및 인력 감축",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202603/69305",
+          "source_name": "Famitsu"
+        },
+        {
+          "category": "event",
+          "game": "세가·아틀러스 스팀 봄 할인",
+          "dev": "세가",
+          "date": "3월 20일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "인기 PC 타이틀 최대 할인",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=314616",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "iicon 2026 (E3 후속)",
+          "note": "",
+          "venue": "미국 라스베가스",
+          "date": "2026-04-27~2026-04-30",
+          "tag": "행사",
+          "d_day_str": "D-38",
+          "website": "https://www.iicon.com"
+        },
+        {
+          "name": "서머 게임 페스트 2026",
+          "note": "",
+          "venue": "미국",
+          "date": "2026-06-01~2026-06-30",
+          "tag": "행사",
+          "d_day_str": "D-73",
+          "website": "https://www.summergamefest.com"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "뱀파이어 서바이버 후속작 '뱀파이어 크롤러' 4월 출시",
+          "source": "게임메카",
+          "time": "오늘",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1772985"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "스파이더맨 신작 예고편, GTA 6 조회수 기록 경신",
+          "source": "IGN India",
+          "time": "오늘",
+          "country": "IN",
+          "article_url": "https://in.ign.com/spider-man-brand-new-day/256215/news/spider-man-brand-new-day-beats-gta-6-record-after-trailer-pulls-718-million-views-in-24-hours"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "포켓몬 카드 게임 포켓, 신규 확장팩 26일 출시",
+          "source": "4Gamer",
+          "time": "오늘",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/779/G077901/20260319088/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "스페이스 마린 2 제작진, 유료 DLC 논란 사과 및 환불",
+          "source": "IGN India",
+          "time": "오늘",
+          "country": "IN",
+          "article_url": "https://in.ign.com/warhammer-40000-space-marine-ii/256213/news/its-obvious-this-dlc-has-failed-to-meet-your-expectations-warhammer-40000-space-marine-2-dev-issues"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "매스 이펙트 제작진 신작 '엑소더스' 플레이 영상 공개",
+          "source": "게임메카",
+          "time": "오늘",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1772986"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "넵튠 시리즈 최신작, Switch 2 포함 멀티 기종 출시",
+          "source": "4Gamer",
+          "time": "오늘",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/992/G099212/20260319025/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "테이크투 CEO \"프리미엄 게임 내 광고 삽입은 불공정\"",
+          "source": "GamesIndustry.biz",
+          "time": "오늘",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/take-two-boss-zelnick-says-it-would-be-unfair-to-put-ads-in-premium-games"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": true,
+      "game": "AION2",
+      "period": "최근 30일",
+      "count": "4,316",
+      "sources": "커뮤니티",
+      "score": "2.7",
+      "pos": 4,
+      "neu": 76,
+      "neg": 20,
+      "keywords": [
+        {
+          "text": "Dungeon / Raid Discussion",
+          "positive": true
+        },
+        {
+          "text": "Class Mention",
+          "positive": true
+        },
+        {
+          "text": "Build Meta",
+          "positive": true
+        },
+        {
+          "text": "Buff/Nerf Debate",
+          "positive": true
+        },
+        {
+          "text": "Currency",
+          "positive": true
+        }
+      ],
+      "comments": [
+        {
+          "text": "1. PVP 개선 - PVP 사망 시 랭킹 포인트 감소량 대폭 감소 상위 계급 기준 기존 대비 약 87 감소 - 일일 연속 사망 시 랭킹 포인트 감소량 비율 증가 최저 감소 포인트량 대폭 하향 2. 어비스 개선 - PVE 어비스 피해증폭 세트 효과 상향 - 필드네임드 리스트 '감시자 카이라' 추가 - 어비스 보스 처치 시 사망 상태에서도 기여도에 따라 보상 획득 가능 - 어비스 내 플레이어의 네임 플레이트를 계급 아이콘으로 간소화 시키는 기능",
+          "positive": false
+        },
+        {
+          "text": "1. PVP 개선 - PVP 사망 시 랭킹 포인트 감소량 대폭 감소 상위 계급 기준 기존 대비 약 87 감소 - 일일 연속 사망 시 랭킹 포인트 감소량 비율 증가 최저 감소 포인트량 대폭 하향 2. 어비스 개선 - PVE 어비스 피해증폭 세트 효과 상향 - 필드네임드 리스트 '감시자 카이라' 추가 - 어비스 보스 처치 시 사망 상태에서도 기여도에 따라 보상 획득 가능 - 어비스 내 플레이어의 네임 플레이트를 계급 아이콘으로 간소화 시키는 기능",
+          "positive": false
+        },
+        {
+          "text": "두 개의 하늘, 하나의 영광 안녕하세요, 데바 여러분! AION2입니다. 수정사항 - 웰컴백 쿠폰의 일부 구성품의 아이템명 변경 및 구성품 내 신규 아이템이 추가되었습니다. 2 23 16 10 데바님들의 꾸준한 관심과 성원 덕분에 저희가 100일을 맞이할 수 있었습니다. 함께해 주신 시간에 진심으로 감사드리며, 감사의 마음을 담아 쿠폰을 준비했습니다. 앞으로도 함께 만들어갈 여정에 많은 관심 부탁드리며, 쿠폰 2종의 사용 기간과 구성품 안내 드",
+          "positive": false
+        }
+      ]
+    },
+    "drk": {
+      "enabled": true,
+      "title": "끝없는 물량 공세와 스튜디오의 소멸, '극단적 AAA' 시대의 도래",
+      "intro": "오늘의 뉴스는 게임 산업의 화려한 정점과 잔혹한 이면을 동시에 보여줍니다. 한국의 '붉은사막'이 스팀에서 압도적인 성과를 거두고 CD 프로젝트 레드가 500명에 달하는 대규모 인력을 '위쳐 4'에 투입하며 차기 대작을 준비하는 반면, 한때 업계를 호령하던 레드 스톰 엔터테인먼트는 개발 중단과 인력 감축이라는 비보를 전했습니다. 이는 자본과 인력이 소수의 초대형 프로젝트에 집중되는 시장의 비대칭성을 적나라하게 드러냅니다.",
+      "points": "이러한 현상은 이제 '어설픈 중간 지대'가 사라졌음을 의미합니다. 게이머들의 눈높이는 '스파이더맨'이나 '데스 스트랜딩 2' 같은 시네마틱한 경험에 고정되어 있으며, 이를 충족하기 위한 개발비용은 기하급수적으로 상승하고 있습니다. 테이크투 CEO가 프리미엄 게임 내 광고 삽입에 선을 그은 이유 역시, 유저들이 고가 지불에 상응하는 '성역 없는 몰입'을 요구하고 있다는 사실을 간파했기 때문입니다. 결국 자본력과 기술력이 뒷받침되지 않는 스튜디오는 이 경쟁의 소용돌이에서 가장 먼저 밀려날 수밖에 없습니다.\n\n**이제 게임 산업은 '글로벌 블록버스터가 되느냐, 아니면 흔적도 없이 사라지느냐'를 결정짓는 극단적인 양극화의 시대에 진입했습니다.** 과거처럼 적당한 품질의 게임으로 중간 수준의 수익을 기대하는 전략은 더 이상 유효하지 않습니다. '붉은사막'의 성공은 단순한 숫자가 아니라, 극한의 퀄리티만이 유저의 지갑을 열 수 있다는 사실을 증명한 것이며, 반대로 스페이스 마린 2의 DLC 논란은 그 한 끗 차이의 신뢰 상실이 얼마나 치명적인지를 보여주는 경고등입니다.\n\n수백 명의 개발자와 수천억 원의 자본이 투입되는 이 '거대한 도박'이 과연 언제까지 지속 가능할 수 있을까요? 우리는 지금 최고의 게임들을 만나는 축복의 시대에 살고 있는 것일까요, 아니면 산업 전체가 무너지기 직전의 가장 화려한 불꽃을 보고 있는 것일까요? 여러분은 이 거대한 자본의 게임이 만들어낼 다음 희생자가 누가 될 것이라 생각하십니까?"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "데스 스트랜딩 2: 온 더 비치 (Death Stranding 2: On the Beach)",
+      "title": "잿빛 황야를 수놓는 유대의 실타래",
+      "imgUrl": "",
+      "comment": "현실과 초현실의 경계를 허무는 압도적인 묘사력은 단순한 그래픽 기술을 넘어, 고독 속에서도 피어나는 인간적 유대감을 한 폭의 서사시로 완성해냈습니다.",
+      "ai_prompt": "Cinematic wide shot inspired by Death Stranding 2, a lonely traveler in a high-tech environmental suit standing on a desolate volcanic landscape with black tar pits, ethereal glowing strands descending from a fractured surreal sky, a futuristic monolithic vessel emerging from the horizon, hyper-realistic, photorealistic, 8k resolution, cinematic lighting, melancholic and grand atmosphere, Decima Engine aesthetic, highly detailed textures."
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    }
+  },
+  "translations": {
+    "en": {},
+    "ja": {}
+  }
+}

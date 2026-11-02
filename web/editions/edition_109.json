@@ -1,0 +1,457 @@
+{
+  "num": "109",
+  "date": "2026-08-24",
+  "status": "published",
+  "schedule": {
+    "date": "2026-08-24",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "타이타닉 탈출 시뮬레이터",
+          "dev": "에스케이프 랩스",
+          "date": "8월 24일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 24일 출시되는 1인칭 탈출 시뮬레이션 신작으로, 침몰하는 타이타닉호 내부의 퍼즐을 풀며 생존을 도모해야 합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4645360/Titanic_Escape_Simulator/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "콤보랜드: 로그라이크 시티빌더",
+          "dev": "모자이크 스튜디오",
+          "date": "8월 24일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 24일 출시되는 로그라이크 덱빌딩 도시 건설 신작으로, 다양한 타일 시너지를 조합해 번영하는 도시를 구축하는 게임입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4075620/Combolands_Roguelike_Citybuilder/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "에일리언: 파이어팀 엘리트 2",
+          "dev": "콜드 아이언 스튜디오",
+          "date": "8월 25일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 25일 정식 출시되는 협동 3인칭 서바이벌 슈터 신작으로, 제노모프 무리에 맞서 싸우는 새로운 캠페인과 무기 시스템을 선보입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3448650/Aliens_Fireteam_Elite_2/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "1666: 암스테르담",
+          "dev": "파나셰 디지털 게임즈",
+          "date": "8월 25일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 25일 정식 출시되는 17세기 암스테르담 배경의 액션 어드벤처 신작으로, 역사적 사건과 오컬트 미스터리가 결합된 모험을 다룹니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3949550/1666_Amsterdam/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "웨스턴 라이",
+          "dev": "서던 크로스 인터랙티브",
+          "date": "8월 25일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 25일 출시되는 서부 개척 시대 배경의 오픈월드 서바이벌 RPG 신작으로, 야생 탐험과 정착지 건설을 경험할 수 있습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2358630/Western_Rye/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "브리가딘 어비스",
+          "dev": "해피넷",
+          "date": "8월 26일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 26일 출시되는 턴제 전략 시뮬레이션 신작으로, 부대를 지휘해 대륙을 통일하는 깊이 있는 전략 전투를 제공합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3211430/BRIGANDINE_ABYSS/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "콜 오브 듀티: 모던 워페어 4 멀티플레이어 베타 테스트",
+          "note": "신규 맵 및 모드가 추가된 첫 베타 패치 적용 및 멀티플레이어 테스트 진행",
+          "venue": "온라인 (PC / 콘솔)",
+          "date": "2026-08-24 ~",
+          "tag": "베타 테스트",
+          "website": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4s-first-beta-patch-adds-a-new-map-and-mode-as-infinity-ward-responds-to-complaints-about-footstep-noise-and-weapon-lethality/"
+        },
+        {
+          "name": "게임스컴 2026",
+          "note": "",
+          "venue": "독일 쾰른",
+          "date": "2026-08-26~2026-08-30",
+          "tag": "오프라인 행사",
+          "d_day_str": "D-2",
+          "website": "https://www.gamescom.global"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "넥슨·블리자드, 오버워치 e스포츠 풀뿌리 협력",
+          "source": "인벤",
+          "time": "8월 23일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319818"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'에픽세븐', 8주년 기념 '카제나' 콜라보 발표",
+          "source": "인벤",
+          "time": "8월 22일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319804"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'우마무스메', 5.5주년 맞아 신규 육성마 공개",
+          "source": "4Gamer",
+          "time": "8월 22일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/414/G041434/20260823002/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'섀도우버스 WB', 9탄 카드팩 8월 27일 추가",
+          "source": "4Gamer",
+          "time": "8월 22일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/760/G076037/20260823001/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'원신', 신규 스토리 '얼음 아래의 불씨' 공개",
+          "source": "IGN India",
+          "time": "8월 23일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/269761/genshin-impact-official-embers-beneath-the-ice-story-teaser-trailer"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "사냥개 주인공 소울라이크 '스트레이 독' 발표",
+          "source": "IGN India",
+          "time": "8월 23일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/stray-dog-nobody-cares/269752/stray-dog-nobody-cares-official-announcement-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "베데스다 노조, MS 체제 하 연례 감원 비판",
+          "source": "PC Gamer",
+          "time": "8월 23일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/gaming-industry/we-didnt-have-layoffs-before-and-now-all-of-a-sudden-we-have-yearly-layoffs-bethesda-artist-says-something-has-changed-under-microsoft/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "대작 액션 RPG '팬텀 블레이드 제로' 10월 출시",
+          "source": "Steam",
+          "time": "8월 24일",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "구조조정의 칼바람과 초장기 라이브 서비스의 명암",
+      "intro": "대형 게임사들의 연쇄 감원 소식 속에서도 수년 차 라이브 게임들은 여전히 견고한 생명력을 과시하고 있습니다.\n화려한 신작 발표의 이면에서, 게임 산업의 자본과 유저의 시간은 과연 어디로 향하고 있을까요?",
+      "points": "마이크로소프트 산하 베데스다의 감원 비판 이슈가 불거진 반면, '에픽세븐'과 '우마무스메' 등 다년차 라이브 서비스들은 견고한 주년 업데이트를 이어가고 있습니다. 📉 신작 개발비와 실패 리스크가 급증하면서, 업계 전반이 불확실한 모험보다 검증된 타이틀의 수명 연장에 무게를 싣는 흐름이 뚜렷해졌습니다.\n\n이러한 현상은 게이머들의 소비 구조를 근본적으로 재편하고 있습니다. 유저들은 신작을 쫓기보다 익숙한 게임에 시간과 비용을 몰아주는 보수적 소비 패턴을 보이며, 신규 출시작들은 '콤보랜드'나 '웨스턴 라이'처럼 명확한 타깃층을 노린 장르 결합 없이는 안착하기 어려운 환경에 놓였습니다. 🎮\n\n결국 **자본의 리스크 회피 성향이 혁신적 신작의 등장을 지연시키고 기존 라이브 게임의 과점화를 부추기는 악순환**을 낳고 있다는 점이 Dr. K가 바라보는 본질입니다. 중간 규모 개발사들이 설 자리가 줄어들수록 산업 전반의 창의적 다양성은 메마를 수밖에 없습니다. 💡\n\n안정성에 기댄 라이브 게임의 독주와 틈새를 파고드는 신작들의 생존 경쟁 속에서, 과연 게이머들의 마음을 움직일 다음 혁신은 어디서 시작될지 주목할 시점입니다. ⏳"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": true,
+      "items": [],
+      "title": "If you had asked me if this image was real a decade ago...",
+      "score": 27937,
+      "url": "https://i.redd.it/r16ehdqt8skh1.png",
+      "preview_img": "https://i.redd.it/r16ehdqt8skh1.png",
+      "permalink": "https://redd.it/1vuqqn4",
+      "subreddit": "gaming",
+      "author": "Epsilon123",
+      "num_comments": 0,
+      "what_happened": "\"10년 전에 이 짤이 진짜냐고 물어봤다면 안 믿었을 텐데...\"라는 제목과 함께, 하츠네 미쿠·손오공·소닉·스폰지밥 등 온갖 세계관의 캐릭터들이 포트나이트 스쿼드로 한자리에 뭉친 혼돈의 크로스오버 짤이 큰 웃음을 주었습니다.",
+      "one_liner": "온갖 캐릭터가 다 모이다 보니, 이제 포트나이트에 진짜 누가 나와도 안 놀랄 지경이네요. 🌐🤣"
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Titanic Escape Simulator",
+        "releases.0.note": "Releasing August 24, this new first-person escape simulation title tasks players with surviving by solving puzzles inside the sinking Titanic.",
+        "releases.0.dev": "Escape Labs",
+        "releases.1.game": "Comboland: Roguelike City Builder",
+        "releases.1.note": "Releasing August 24, this new roguelike deckbuilding city builder game lets players construct a thriving city by combining various tile synergies.",
+        "releases.1.dev": "Mosaic Studio",
+        "releases.2.game": "Aliens: Fireteam Elite 2",
+        "releases.2.note": "Officially releasing on August 25, this new co-op third-person survival shooter introduces a new campaign and weapon systems to battle hordes of Xenomorphs.",
+        "releases.2.dev": "Cold Iron Studios",
+        "releases.3.game": "1666: Amsterdam",
+        "releases.3.note": "Officially releasing August 25, this new action-adventure game set in 17th-century Amsterdam combines historical events with occult mysteries.",
+        "releases.3.dev": "Panache Digital Games",
+        "releases.4.game": "Western Rye",
+        "releases.4.note": "Releasing August 25, this new open-world survival RPG set in the Wild West era lets players experience wilderness exploration and settlement building.",
+        "releases.4.dev": "Southern Cross Interactive",
+        "releases.5.game": "Brigandine Abyss",
+        "releases.5.note": "Releasing August 26, this new turn-based strategy simulation title offers deep tactical battles where players command troops to unify the continent.",
+        "releases.5.dev": "Happinet",
+        "events.0.name": "Call of Duty: Modern Warfare 4 Multiplayer Beta Test",
+        "events.0.note": "First beta patch applied featuring new maps and modes, hosting multiplayer testing",
+        "events.0.venue": "Online (PC / Console)",
+        "events.1.name": "Gamescom 2026",
+        "events.1.venue": "Cologne, Germany"
+      },
+      "briefing": {
+        "items.0.title": "Nexon & Blizzard Team Up for Grassroots Overwatch Esports",
+        "items.0.source": "Inven",
+        "items.0.time": "August 23",
+        "items.1.title": "'Epic Seven' Announces 'Kazena' Collaboration for 8th Anniversary",
+        "items.1.source": "Inven",
+        "items.1.time": "August 22",
+        "items.2.title": "'Uma Musume' Reveals New Trainee Horses for 5.5th Anniversary",
+        "items.2.source": "4Gamer",
+        "items.2.time": "August 22",
+        "items.3.title": "'Shadowverse WB' to Add 9th Card Pack on August 27",
+        "items.3.source": "4Gamer",
+        "items.3.time": "August 22",
+        "items.4.title": "'Genshin Impact' Unveils New Story 'Embers Beneath the Ice'",
+        "items.4.source": "IGN India",
+        "items.4.time": "August 23",
+        "items.5.title": "Hunting Dog Soulslike 'Stray Dog' Announced",
+        "items.5.source": "IGN India",
+        "items.5.time": "August 23",
+        "items.6.title": "Bethesda Union Criticizes Annual Layoffs Under Microsoft",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "August 23",
+        "items.7.title": "Blockbuster Action RPG 'Phantom Blade Zero' Set for October Release",
+        "items.7.source": "Steam",
+        "items.7.time": "August 24"
+      },
+      "drk": {
+        "title": "The Chill of Restructuring and the Duality of Ultra-Long-Running Live Services",
+        "intro": "Amid the waves of layoffs across major game companies, long-running live-service games continue to showcase enduring vitality.\nBehind the flashy reveals of new titles, where are the gaming industry's capital and players' time truly heading?",
+        "points": "While criticism over layoffs at Microsoft-owned Bethesda has emerged, multi-year live-service titles like 'Epic Seven' and 'Uma Musume' continue to roll out solid anniversary updates. 📉 With development costs and failure risks for new games soaring, there is a clear industry-wide shift toward extending the lifespan of proven titles rather than embarking on uncertain ventures.\n\nThis phenomenon is fundamentally reshaping gamer spending habits. Instead of chasing new releases, players show conservative consumption patterns by investing their time and money into familiar titles. Consequently, new releases face an environment where succeeding is difficult without targeting specific niche audiences through hybrid genres, as seen in 'Comboland' or 'Western Rye'. 🎮\n\nUltimately, Dr. K highlights the essence: **capital's risk aversion is delaying the emergence of innovative new titles and fueling an oligopoly of established live-service games in a vicious cycle**. As mid-sized developers lose ground, the creative diversity of the entire industry will inevitably wither. 💡\n\nAmid the dominance of stability-oriented live games and the survival struggle of niche new releases, now is the time to watch closely where the next innovation capable of capturing gamers' hearts will emerge. ⏳"
+      },
+      "meme": {
+        "what_happened": "Under the caption \"If you asked me 10 years ago whether this meme was real, I wouldn't have believed it...\", a chaotic crossover screenshot featuring Hatsune Miku, Goku, Sonic, SpongeBob, and various other characters united in a Fortnite squad brought big laughs.",
+        "one_liner": "With characters from literally everywhere gathered together, nothing in Fortnite could surprise us anymore. 🌐🤣"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "タイタニック脱出シミュレーター",
+        "releases.0.note": "8月24日にリリースされる一人称視点脱出シミュレーションの新作。沈没しゆくタイタニック号内部のパズルを解きながら生存を目指します。",
+        "releases.0.dev": "Escape Labs",
+        "releases.1.game": "コンボランド：ローグライク・シティビルダー",
+        "releases.1.note": "8月24日にリリースされるローグライク・デッキ構築型都市開発の新作。多彩なタイルのシナジーを組み合わせて繁栄する都市を築き上げるゲームです。",
+        "releases.1.dev": "Mosaic Studio",
+        "releases.2.game": "エイリアン：ファイアチーム エリート 2",
+        "releases.2.note": "8月25日に正式リリースされる協力型三人称サバイバルシューターの新作。ゼノモーフの群れに立ち向かう新たなキャンペーンと武器システムが導入されます。",
+        "releases.2.dev": "Cold Iron Studios",
+        "releases.3.game": "1666：アムステルダム",
+        "releases.3.note": "8月25日に正式リリースされる17世紀のアムステルダムを舞台にしたアクションアドベンチャーの新作。歴史的事件とオカルトミステリーが融合した冒険を描きます。",
+        "releases.3.dev": "Panache Digital Games",
+        "releases.4.game": "ウェスタン・ライ",
+        "releases.4.note": "8月25日にリリースされる西部開拓時代を舞台にしたオープンワールドサバイバルRPGの新作。野生の探索や開拓地の建設を体験できます。",
+        "releases.4.dev": "Southern Cross Interactive",
+        "releases.5.game": "ブリガンダイン アビス",
+        "releases.5.note": "8月26日にリリースされるターン制戦略シミュレーションの新作。部隊を指揮して大陸統一を目指す奥深い戦略バトルが楽しめます。",
+        "releases.5.dev": "ハピネット",
+        "events.0.name": "コール オブ デューティ：モダン・ウォーフェア 4 マルチプレイヤー ベータテスト",
+        "events.0.note": "新規マップおよびモードが追加された初のベータパッチの適用とマルチプレイヤーテストの実施",
+        "events.0.venue": "オンライン（PC / コンソール）",
+        "events.1.name": "gamescom 2026",
+        "events.1.venue": "ドイツ・ケルン"
+      },
+      "briefing": {
+        "items.0.title": "ネクソンとブリザード、『オーバーウォッチ』eスポーツの草の根展開で協力",
+        "items.0.source": "INVEN",
+        "items.0.time": "8月23日",
+        "items.1.title": "『エピックセブン』、8周年記念「カゼナ」コラボを発表",
+        "items.1.source": "INVEN",
+        "items.1.time": "8月22日",
+        "items.2.title": "『ウマ娘』、5.5周年に合わせて新たな育成ウマ娘を公開",
+        "items.2.source": "4Gamer",
+        "items.2.time": "8月22日",
+        "items.3.title": "『シャドウバース WB』、第9弾カードパックが8月27日に追加",
+        "items.3.source": "4Gamer",
+        "items.3.time": "8月22日",
+        "items.4.title": "『原神』、新ストーリー「氷の下の残り火」を公開",
+        "items.4.source": "IGN India",
+        "items.4.time": "8月23日",
+        "items.5.title": "猟犬が主人公のソウルライク『ストレイ・ドッグ』発表",
+        "items.5.source": "IGN India",
+        "items.5.time": "8月23日",
+        "items.6.title": "ベセスダ労働組合、MS体制下での毎年の人員削減を批判",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "8月23日",
+        "items.7.title": "大作アクションRPG『Phantom Blade Zero』が10月にリリース",
+        "items.7.source": "Steam",
+        "items.7.time": "8月24日"
+      },
+      "drk": {
+        "title": "構造改革の嵐と超長期ライブサービスタイトルの明暗",
+        "intro": "大手ゲームパブリッシャーによる相次ぐ人員削減のニュースが流れる中でも、長年続くライブサービス型ゲームは依然として堅固な生命力を誇っています。\n華やかな新作発表の裏で、ゲーム産業の資本とユーザーの時間は一体どこへ向かっているのでしょうか？",
+        "points": "マイクロソフト傘下のベセスダにおける人員削減への批判が浮き彫りになる一方で、『エピックセブン』や『ウマ娘』など長年続くライブサービスタイトルは堅実な周年アップデートを続けています。📉 新作の開発費と失敗リスクが急増する中、業界全体が不確実な冒険よりも検証済みのタイトルの寿命延長に重きを置く流れが明確になりました。\n\nこのような現象はゲーマーの消費構造を根本から再編しています。ユーザーは新作を追いかけるよりも、慣れ親しんだゲームに時間と費用を集中投下する保守的な消費パターンを見せており、新規タイトルは『コンボランド』や『ウェスタン・ライ』のように明確なターゲット層を狙ったジャンル融合なしには定着が難しい環境に置かれています。🎮\n\n結局のところ、**資本のリスク回避傾向が革新的な新作の登場を遅らせ、既存ライブゲームの寡占化を助長するという悪循環**を生んでいる点こそがDr. Kの着目する本質です。中規模開発会社の活躍の場が減るほど、産業全体の創造的多様性は枯渇せざるを得ません。💡\n\n安定性に依拠したライブゲームの独走と、ニッチを突く新作の生存競争の中で、果たしてゲーマーの心を動かす次の革新がどこから生まれるのか注目すべき局面です。⏳"
+      },
+      "meme": {
+        "what_happened": "「10年前にこの画像が本物かと聞かれても信じなかっただろう…」というタイトルとともに、初音ミク、孫悟空、ソニック、スポンジ・ボブなど、あらゆる世界観のキャラクターがフォートナイトのスクワッドとして一堂に会したカオスなクロスオーバー画像が大きな笑いを呼びました。",
+        "one_liner": "ありとあらゆるキャラクターが集まりすぎて、もはやフォートナイトに誰が登場しても驚かないレベルですね。🌐🤣"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "칼바람 부는 게임업계와 장수 라이브 서비스의 명암 📉 (feat. 오늘의 밈 😂)",
+    "en": "Layoff Storms & Forever Games: The Reality of Live Service 📉 (+Meme of the Day 😂)",
+    "ja": "吹き荒れるリストラの嵐と長寿運営タイトルの光と影 📉 (feat. 今日のミーム 😂)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "벌써 8주년 맞은 에픽세븐이 '카제나'와 콜라보한대요! 😮\n칼바람 부는 게임업계 속 장수 게임들의 생존 비결을 정리해 봤어요 ✨\n\nhttps://www.gtplayer.net/edition-109/\n#에픽세븐 #우마무스메 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-08-24T07:01:30.392077"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "8월 24일 오늘의 게임 소식 🎮\n📰 [뉴스] 넥슨X블리자드 e스포츠 협력 및 에픽세븐·우마무스메·원신 등 주요 업데이트\n📅 [출시] 에일리언: 파이어팀 엘리트 2, 타이타닉 탈출 시뮬레이터 등 PC 신작 6종\n✍️ [인사이트] 게임업계 감원 칼바람 속 돋보이는 장수 라이브 서비스의 명암\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임트렌드 #GTPLAYER #신작게임 #게임추천 #오버워치 #넥슨 #블리자드 #에픽세븐 #우마무스메 #원신 #섀도우버스 #스팀게임 #PC게임 #게임스타그램 #게이머 #게임정보 #이스포츠 #인디게임 #게임업계",
+          "image_paths": [
+            "web\\instagram\\edition_109\\card_cover.png",
+            "web\\instagram\\edition_109\\card_news.png",
+            "web\\instagram\\edition_109\\card_calendar.png",
+            "web\\instagram\\edition_109\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3970349066056047351_39332818166",
+            "url": "https://www.instagram.com/p/DcZg3CUkxr3/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-08-24T07:02:01.318910"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Layoff Storms & Forever Games: The Reality of Live Service 📉 (+Meme of the Day 😂)\n\nWhile the industry navigates a shifting landscape, evergreen hits like Genshin Impact and Epic Seven continue to thrive with massive updates.\nFrom Blizzard and Nexon teaming up for esports to exciting new game reveals, catch up on the biggest stories shaping the gaming world this week.\n\nhttps://www.gtplayer.net/edition-109-en/",
+        "error": null
+      },
+      "updated_at": "2026-08-24T07:02:45.547605"
+    }
+  }
+}

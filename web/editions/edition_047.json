@@ -1,0 +1,456 @@
+{
+  "num": "047",
+  "date": "2026-05-07",
+  "status": "published",
+  "schedule": {
+    "date": "2026-05-07",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "데드 애즈 디스코 (Dead as Disco)",
+          "dev": "브레인 자 게임즈",
+          "date": "5월 5일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "액션과 리듬 게임이 결합된 신작으로, 5월 5일 스팀 앞서 해보기(얼리 액세스)를 시작하여 리듬감 넘치는 전투를 선보입니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1774827",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "핸드맨서 (Handmancers)",
+          "dev": "58BLADES",
+          "date": "5월 6일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "가위바위보 규칙을 전략적 요소로 도입한 독특한 덱 빌딩 로그라이크 게임으로, 5월 6일 스팀 얼리 액세스 버전을 출시했습니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/003/G100351/20260429003/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "그랑블루 판타지 리링크 - 엔드리스 라그나로크",
+          "dev": "사이게임즈",
+          "date": "5월 6일(수)",
+          "platforms": [
+            "PS5",
+            "Switch2"
+          ],
+          "color": "#10b981",
+          "note": "신규 확장팩 '엔드리스 라그나로크'의 콘솔 패키지 예약 판매가 5월 6일 시작되었으며, 새로운 소환 시스템과 대규모 콘텐츠가 포함됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316139",
+          "source_name": "인벤"
+        },
+        {
+          "category": "event",
+          "game": "블루 프로토콜: 스타 레조넌스",
+          "dev": "XD",
+          "date": "5월 6일(수)",
+          "platforms": [
+            "iOS",
+            "Android"
+          ],
+          "color": "#f59e0b",
+          "note": "모바일 MMORPG '블루 프로토콜: 스타 레조넌스'가 5월 6일부터 인기 애니메이션 '이야기' 시리즈와 대규모 콜라보 이벤트를 진행합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316146",
+          "source_name": "인벤"
+        },
+        {
+          "category": "event",
+          "game": "미르의 전설3",
+          "dev": "전기아이피",
+          "date": "5월 6일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#f59e0b",
+          "note": "5월 6일부터 초고속 성장이 가능한 '2026 몽환서버' 운영을 시작하며, 본 서버 대비 5배 빠른 경험치 획득 혜택을 제공합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316147",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "알카노이드 (Arcade Archives)",
+          "dev": "타이토",
+          "date": "5월 7일(목)",
+          "platforms": [
+            "PS4",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "타이토의 클래식 블록 깨기 명작 '알카노이드'가 5월 7일 아케이드 아카이브 시리즈로 이식되어 PS4와 닌텐도 스위치로 정식 출시됩니다.",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202605/74001",
+          "source_name": "Famitsu"
+        }
+      ],
+      "events": [
+        {
+          "name": "VCT 퍼시픽 스테이지 1 플레이오프",
+          "note": "개막전 키움 DRX 대 풀센스 경기 포함",
+          "venue": "서울 마포구 상암동 에스플렉스센터",
+          "date": "2026-05-07 ~ 2026-05-10",
+          "tag": "e스포츠",
+          "website": "https://www.gamemeca.com/view.php?gid=1774849"
+        },
+        {
+          "name": "2026 LCK 정규 시즌 베트남 로드쇼 (키움 DRX 홈프론트)",
+          "note": "LCK 역사상 첫 해외 정규 시즌 경기 진행",
+          "venue": "베트남 하노이",
+          "date": "2026-05-08",
+          "tag": "e스포츠",
+          "website": "https://www.gamemeca.com/view.php?gid=1774848"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'콜오브듀티', 2026년부터 구세대 콘솔 지원 중단",
+          "source": "인벤",
+          "time": "5월 5일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316137"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "크래프톤, 인도 핀테크 전담 팀 꾸려 직접 사업 확장",
+          "source": "인벤",
+          "time": "5월 6일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316140"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "닌텐도, 원가 상승에 스위치 2 가격 인상 압박 직면",
+          "source": "IGN India",
+          "time": "5월 6일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/nintendo-switch-2/260253/nintendo-under-pressure-to-raise-switch-2-console-price-as-hardware-currently-sold-at-a-loss-report"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'잭박스 파티 팩 12' 공식 발표 및 트레일러 공개",
+          "source": "IGN India",
+          "time": "5월 6일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/260256/the-jackbox-party-pack-12-official-announcement-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "용과 같이 스튜디오 신작 '스트렌저 댄 헤븐' 공개",
+          "source": "Famitsu",
+          "time": "5월 7일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202605/74026"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "32인 액션 '비스트링크', 괴수 변신 등 신요소 공개",
+          "source": "Famitsu",
+          "time": "5월 7일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202605/74014"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "MTG 2026년 일정 확정, 마블 및 스타트렉 포함",
+          "source": "IGN",
+          "time": "5월 6일",
+          "country": "GLOBAL",
+          "article_url": "https://www.ign.com/articles/magic-the-gathering-full-release-schedule-updated-2026"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "유비소프트 베테랑 클린트 호킹, 신규 스튜디오 설립",
+          "source": "PC Gamer",
+          "time": "5월 6일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/gaming-industry/far-cry-2-and-assassins-creed-hexe-creative-director-launches-a-new-studio-a-few-months-after-surprise-exit-from-ubisoft/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "세대교체의 청구서: 기술적 도약과 가격 인상의 기로",
+      "intro": "10년을 버틴 구세대 콘솔의 퇴장이 시작되고, 차세대 기기의 가격은 천장을 뚫으려 합니다. \n게이머들은 더 진보된 경험을 위해 기꺼이 더 높은 비용을 지불할 준비가 되었습니까?",
+      "points": "세계적인 프랜차이즈 '콜 오브 듀티'가 2026년부터 구세대 콘솔 지원을 전면 중단하며, 닌텐도는 원가 상승으로 인한 차세대 기기 가격 인상 압박에 직면해 있습니다. 이는 게임 산업이 드디어 길었던 '크로스 제너레이션' 시대를 끝내고, 하드웨어와 소프트웨어 모두가 본격적인 고비용·고성능 구조로 재편되는 단계에 진입했음을 시사합니다. 📉\n\n구세대 지원 중단은 게임 형태의 근본적인 변화를 가져옵니다. 개발사들이 하위 하드웨어의 제약에서 벗어나면서 더 정교한 물리 연산과 대규모 환경 구현이 가능해지지만, 소비자들은 기기 교체 비용과 타이틀 가격 인상이라는 이중고를 겪게 됩니다. 이러한 플랫폼 구조의 변화는 소비자 심리를 위축시켜, 검증되지 않은 신작보다는 익숙한 대작 IP에만 수요가 몰리는 양극화 현상을 심화시킬 것입니다. \n\n이제 게임은 대중적인 취미를 넘어 하이엔드 기술력을 향유하는 럭셔리 콘텐츠의 성격을 띠기 시작했습니다. **성능의 상향 평준화가 불러온 고비용 구조는 개발사와 소비자 모두에게 '선택과 집중'을 강요하는 냉혹한 시험대가 될 것입니다.** 단순히 그래픽 사양만 높인 게임이 아닌, 인상된 비용에 걸맞은 독보적인 경험을 제공하는 타이틀만이 시장에서 생존할 수 있습니다. 💡\n\n산업의 성장은 언제나 고통스러운 전환기를 거쳐왔으며, 이번 세대교체는 그 어느 때보다 가혹한 경제적 논리를 동반하고 있습니다. 기술적 진보가 선사하는 감동이 여러분의 지갑을 열 만큼 충분한 가치를 증명할 수 있을지 지켜봐야 할 시점입니다. 여러분은 이 변화를 받아들일 준비가 되셨습니까?"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": true,
+      "title": "Granblue Fantasy: Relink Is BACK With Endless Ragnarok - New Story, Systems &amp; Endgame",
+      "channel": "Arekkz Gaming",
+      "videoId": "vFG41FLpyxo",
+      "url": "https://www.youtube.com/watch?v=vFG41FLpyxo",
+      "thumbnail": "https://i.ytimg.com/vi/vFG41FLpyxo/hqdefault.jpg",
+      "comment": "오랜 기다림 끝에 화려한 액션 RPG로 돌아온 '그랑블루 판타지 리링크(Granblue Fantasy: Relink)'가 드디어 새로운 소식을 전합니다. 이번 영상은 새롭게 확장된 스토리 라인과 더불어, 한계를 시험하는 강력한 엔드게임 콘텐츠 '엔드리스 라그나로크'의 핵심 시스템을 상세히 담고 있습니다. ⚔️ 압도적인 스케일과 깊이 있는 액션이 담긴 이번 하이라이트 영상을 통해 차세대 판타지의 정수를 직접 확인해 보세요! ✨",
+      "search_query": "Granblue Fantasy Relink Endless Ragnarok Official Trailer",
+      "ai_game_name": "그랑블루 판타지 리링크 (Granblue Fantasy Relink)",
+      "ai_reason": "압도적인 애니메이션 풍 비주얼과 화려한 연출로 정평이 난 작품의 대규모 확장팩입니다. 새로운 소환 시스템과 거대 보스전의 정수를 담은 고퀄리티 시네마틱 영상을 확인할 수 있습니다."
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=047&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=047&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Dead as Disco",
+        "releases.0.note": "A new release combining action and rhythm games, launching on Steam Early Access on May 4, 15:00 UTC to showcase rhythm-driven combat.",
+        "releases.0.dev": "Brain Jar Games",
+        "releases.1.game": "Handmancers",
+        "releases.1.note": "A unique deck-building roguelike introducing Rock-Paper-Scissors as a strategic element, released on Steam Early Access on May 5, 15:00 UTC.",
+        "releases.1.dev": "58BLADES",
+        "releases.2.game": "Granblue Fantasy: Relink - Endless Ragnarok",
+        "releases.2.note": "Console physical edition pre-orders for the new expansion 'Endless Ragnarok' began on May 5, 15:00 UTC, featuring a new summoning system and massive content updates.",
+        "releases.2.dev": "Cygames",
+        "releases.3.game": "Blue Protocol: Star Resonance",
+        "releases.3.note": "The mobile MMORPG 'Blue Protocol: Star Resonance' will hold a large-scale collaboration event with the popular 'Monogatari' anime series starting May 5, 15:00 UTC.",
+        "releases.3.dev": "XD",
+        "releases.4.game": "The Legend of Mir 3",
+        "releases.4.note": "The '2026 Dream Server,' which allows for ultra-fast growth, starts operation on May 5, 15:00 UTC, offering 5x EXP gain compared to regular servers.",
+        "releases.4.dev": "ChuanQi IP",
+        "releases.5.game": "Arkanoid (Arcade Archives)",
+        "releases.5.note": "Taito's classic block-breaking masterpiece 'Arkanoid' will be officially released for PS4 and Nintendo Switch as part of the Arcade Archives series on May 6, 15:00 UTC.",
+        "releases.5.dev": "Taito",
+        "events.0.name": "VCT Pacific Stage 1 Playoffs",
+        "events.0.note": "Includes the opening match between DRX and FULL SENSE",
+        "events.0.venue": "S-Plex Center, Sangam-dong, Mapo-gu, Seoul",
+        "events.1.name": "2026 LCK Regular Season Vietnam Roadshow (DRX Homefront)",
+        "events.1.note": "The first overseas regular season match in LCK history",
+        "events.1.venue": "Hanoi, Vietnam"
+      },
+      "briefing": {
+        "items.0.title": "'Call of Duty' to End Support for Last-Gen Consoles Starting in 2026",
+        "items.0.source": "Inven",
+        "items.0.time": "May 4, 15:00 UTC",
+        "items.1.title": "Krafton Expands Business Directly by Forming Dedicated Fintech Team in India",
+        "items.1.source": "Inven",
+        "items.1.time": "May 5, 15:00 UTC",
+        "items.2.title": "Nintendo Faces Pressure to Raise Switch 2 Price Due to Rising Costs",
+        "items.2.source": "IGN India",
+        "items.2.time": "May 5, 15:00 UTC",
+        "items.3.title": "'The Jackbox Party Pack 12' Officially Announced with Trailer Reveal",
+        "items.3.source": "IGN India",
+        "items.3.time": "May 5, 15:00 UTC",
+        "items.4.title": "Ryu Ga Gotoku Studio Reveals New Project 'Stranger Than Heaven'",
+        "items.4.source": "Famitsu",
+        "items.4.time": "May 6, 15:00 UTC",
+        "items.5.title": "32-Player Action Game 'Beast Link' Reveals New Elements Including Kaiju Transformations",
+        "items.5.source": "Famitsu",
+        "items.5.time": "May 6, 15:00 UTC",
+        "items.6.title": "MTG 2026 Schedule Confirmed, Including Marvel and Star Trek",
+        "items.6.source": "IGN",
+        "items.6.time": "May 5, 15:00 UTC",
+        "items.7.title": "Ubisoft Veteran Clint Hocking Founds New Studio",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "May 5, 15:00 UTC"
+      },
+      "drk": {
+        "title": "The Bill for Generational Change: At the Crossroads of Technical Leaps and Price Hikes",
+        "intro": "The exit of last-gen consoles that endured for a decade has begun, and the prices for next-gen hardware are aiming for the ceiling. Are gamers ready to pay higher costs for a more advanced experience?",
+        "points": "The global franchise 'Call of Duty' will completely stop supporting last-gen consoles starting in 2026, and Nintendo is facing pressure to increase the price of its next-gen hardware due to rising costs. This suggests that the gaming industry is finally ending the long 'cross-generation' era and entering a phase where both hardware and software are being restructured into a high-cost, high-performance model. 📉\n\nEnding support for older generations brings fundamental changes to game design. As developers break free from the constraints of legacy hardware, more sophisticated physics calculations and large-scale environments become possible. However, consumers will face the double burden of hardware replacement costs and rising software prices. This shift in platform structure may dampen consumer sentiment, deepening a polarization where demand concentrates on familiar major IPs rather than unproven new titles.\n\nGaming has now moved beyond being a mainstream hobby to becoming luxury content that enjoys high-end technology. **The high-cost structure brought about by the standardization of high performance will serve as a cold testing ground, forcing 'selection and concentration' on both developers and consumers.** Only titles that provide a unique experience worthy of the increased cost—not just higher graphical specs—will survive in the market. 💡\n\nIndustrial growth has always passed through painful transition periods, and this generational shift is accompanied by harsher economic logic than ever before. It is time to see if the emotions delivered by technological progress prove valuable enough to open your wallets. Are you ready to embrace this change?"
+      },
+      "trailer": {
+        "title": "Granblue Fantasy: Relink Is BACK With Endless Ragnarok - New Story, Systems & Endgame",
+        "comment": "'Granblue Fantasy: Relink,' returning as a spectacular action RPG after a long wait, finally brings new updates. This video details the core systems of 'Endless Ragnarok,' powerful endgame content that tests your limits, along with a newly expanded storyline. ⚔️ Experience the essence of next-generation fantasy through this highlight video filled with overwhelming scale and deep action! ✨"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "Dead as Disco（デッド・アズ・ディスコ）",
+        "releases.0.note": "アクションとリズムゲームが融合した新作で、5月5日にSteamでの早期アクセスを開始し、リズム感あふれる戦闘を披露します。",
+        "releases.0.dev": "Brain Jar Games",
+        "releases.1.game": "Handmancers（ハンドマンサー）",
+        "releases.1.note": "ジャンケンのルールを戦略的要素として導入した独特なデッキ構築型ローグライクゲームで、5月6日にSteam早期アクセス版をリリースしました。",
+        "releases.1.dev": "58BLADES",
+        "releases.2.game": "グランブルーファンタジー リリンク - エンドレス・ラグナロク",
+        "releases.2.note": "新規拡張パッチ『エンドレス・ラグナロク』のコンソールパッケージ予約販売が5月6日に開始され、新しい召喚システムと大規模なコンテンツが含まれます。",
+        "releases.2.dev": "サイゲームス",
+        "releases.3.game": "ブループロトコル：スターレゾナンス",
+        "releases.3.note": "モバイルMMORPG『ブループロトコル：スターレゾナンス』が5月6日から人気アニメ『〈物語〉シリーズ』と大規模コラボイベントを開催します。",
+        "releases.3.dev": "XD",
+        "releases.4.game": "ミールの伝説3",
+        "releases.4.note": "5月6日から超高速成長が可能な「2026 夢幻サーバー」の運営を開始し、本サーバーと比較して5倍速い経験値獲得特典を提供します。",
+        "releases.4.dev": "ChuanQi IP（伝奇IP）",
+        "releases.5.game": "アルカノイド（アーケードアーカイブス）",
+        "releases.5.note": "タイトーのクラシックなブロック崩しの名作『アルカノイド』が5月7日にアーケードアーカイブスシリーズとして移植され、PS4とNintendo Switchで正式リリースされます。",
+        "releases.5.dev": "タイトー",
+        "events.0.name": "VCT Pacific Stage 1 プレイオフ",
+        "events.0.note": "開幕戦のKIWOOM DRX対FULL SENSE戦を含む",
+        "events.0.venue": "ソウル特別市麻浦区上岩洞 エスプレックスセンター",
+        "events.1.name": "2026 LCKレギュラーシーズン ベトナムロードショー (KIWOOM DRXホームフロント)",
+        "events.1.note": "LCK史上初の海外レギュラーシーズン試合を開催",
+        "events.1.venue": "ベトナム・ハノイ"
+      },
+      "briefing": {
+        "items.0.title": "『コール オブ デューティ』、2026年から旧世代機のサポートを終了",
+        "items.0.source": "Inven",
+        "items.0.time": "5月5日",
+        "items.1.title": "KRAFTON、インドにフィンテック専門チームを設立し直接事業を拡大",
+        "items.1.source": "Inven",
+        "items.1.time": "5月6日",
+        "items.2.title": "任天堂、コスト上昇によりSwitch 2の価格引き上げ圧力に直面",
+        "items.2.source": "IGN India",
+        "items.2.time": "5月6日",
+        "items.3.title": "『Jackbox Party Pack 12』が正式発表、トレーラー公開",
+        "items.3.source": "IGN India",
+        "items.3.time": "5月6日",
+        "items.4.title": "龍が如くスタジオ新作『Stranger than Heaven』公開",
+        "items.4.source": "ファミ通",
+        "items.4.time": "5月7日",
+        "items.5.title": "32人対戦アクション『BeastLink』、怪獣変身などの新要素を公開",
+        "items.5.source": "ファミ通",
+        "items.5.time": "5月7日",
+        "items.6.title": "MTGの2026年スケジュール確定、マーベルやスタートレックを含む",
+        "items.6.source": "IGN",
+        "items.6.time": "5月6日",
+        "items.7.title": "ユービーアイソフトのベテラン、クリント・ホッキング氏が新スタジオを設立",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "5月6日"
+      },
+      "drk": {
+        "title": "世代交代の請求書：技術的飛躍と価格上昇の岐路",
+        "intro": "10年を耐え抜いた旧世代コンソールの退場が始まり、次世代機の価格は天井を突き抜けようとしています。ゲーマーたちは、より進歩した体験のために、快く高いコストを支払う準備ができているでしょうか？",
+        "points": "世界的なフランチャイズ『コール オブ デューティ』が2026年から旧世代機のサポートを全面的に終了し、任天堂はコスト上昇による次世代機の価格引き上げ圧力に直面しています。これはゲーム産業がようやく長かった「クロスジェネレーション」時代を終え、ハードウェアとソフトウェアの両方が本格的な高コスト・高性能構造へと再編される段階に突入したことを示唆しています。📉\n\n旧世代機のサポート終了は、ゲームの形態に根本的な変化をもたらします。開発者が下位ハードウェアの制約から解放されることで、より精巧な物理演算や大規模な環境構築が可能になりますが、消費者は機器の買い替え費用とタイトル価格の上昇という二重苦を味わうことになります。このようなプラットフォーム構造の変化は消費者心理を冷え込ませ、検証されていない新作よりも馴染みのある大作IPにばかり需要が集中する二極化現象を深化させるでしょう。\n\n今やゲームは、大衆的な趣味を超えてハイエンドな技術を享受するラグジュアリー・コンテンツの性格を帯び始めました。**性能の上限引き上げがもたらした高コスト構造は、開発者と消費者の双方に「選択と集中」を強いる過酷な試練となるでしょう。**単にグラフィックの仕様を高めただけのゲームではなく、引き上げられたコストに見合う独創的な体験を提供するタイトルだけが市場で生き残ることができます。💡\n\n産業の成長は常に痛みを伴う転換期を経てきましたが、今回の世代交代はこれまで以上に厳しい経済論理を伴っています。技術的進歩がもたらす感動が、皆さんの財布を開くのに十分な価値を証明できるかどうか、見守るべき時が来ています。皆さんは、この変化を受け入れる準備ができていますか？"
+      },
+      "trailer": {
+        "title": "Granblue Fantasy: Relink Is BACK With Endless Ragnarok - New Story, Systems & Endgame",
+        "comment": "長き沈黙を破り、華麗なアクションRPGとして帰ってきた『グランブルーファンタジー リリンク（Granblue Fantasy: Relink）』から、ついに新情報が届きました。今回の映像では、新たに拡張されたストーリーラインとともに、限界に挑む強力なエンドゲームコンテンツ「エンドレス・ラグナロク」の核心システムを詳細に紹介しています。⚔️ 圧倒的なスケールと深みのあるアクションが凝縮された今回のハイライト映像を通じて、次世代ファンタジーの神髄をぜひご自身の目でお確かめください！✨"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "게임 가격 인상의 시대, 기술력의 대가일까? 📈 (feat. 그랑블루 리링크 역대급 복귀! ⚔️)",
+    "en": "The Price of Next-Gen Power 📉 (Plus: Granblue Fantasy: Relink is BACK! ⚔️)",
+    "ja": "次世代ゲーム『値上げ』の真相 📉 & グラブル リリンク待望の大型アプデ始動！🔥"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "차세대 콘솔 가격, 이제는 정말 오르는 걸까요? 💸\n닌텐도 스위치 2가 원가 상승으로 가격 인상 압박을 받고 있다는 소식이에요! ✨\n\nhttps://www.gtplayer.net/edition-047/\n\n#닌텐도스위치 #게임소식 #GTPlayer",
+          "posted": true,
+          "data": {
+            "data": {
+              "edit_history_tweet_ids": [
+                "2052147682186346967"
+              ],
+              "id": "2052147682186346967",
+              "text": "차세대 콘솔 가격, 이제는 정말 오르는 걸까요? 💸\n닌텐도 스위치 2가 원가 상승으로 가격 인상 압박을 받고 있다는 소식이에요! ✨\n\nhttps://t.co/5xwsuq3Fif\n\n#닌텐도스위치 #게임소식 #GTPlayer"
+            }
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-07T07:05:08.817011"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "5월 7일 오늘의 게임 소식 🎮 게임 가격 인상의 시대, 기술력의 대가일까?\n\n📰 닌텐도 스위치 2 가격 압박 & 콜옵 구세대 지원 중단 등 주요 이슈 정리\n🗓️ 그랑블루 리링크 역대급 복귀! 이번 주 놓치지 말아야 할 신작 6종\n🧠 기술적 도약인가, 단순한 가격 인상인가? Dr.K가 분석한 세대교체의 청구서\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서 확인 가능합니다.\n\n#게임뉴스 #GTPLAYER #게임덕후 #게임추천 #신작게임 #인디게임 #콘솔게임 #닌텐도스위치2 #콜오브듀티 #그랑블루판타지리링크 #블루프로토콜 #용과같이 #크래프톤 #플스5 #스팀게임 #PC게임 #게임소식 #게임분석 #잭박스파티팩 #게임가격인상",
+          "image_paths": [
+            "web\\instagram\\edition_047\\card_news.png",
+            "web\\instagram\\edition_047\\card_calendar.png",
+            "web\\instagram\\edition_047\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3891350336221422624_39332818166",
+            "url": "https://www.instagram.com/p/DYA2oN3EyQg/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-07T07:05:40.623920"
+    }
+  }
+}

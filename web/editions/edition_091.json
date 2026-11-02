@@ -1,0 +1,429 @@
+{
+  "num": "091",
+  "date": "2026-07-29",
+  "status": "published",
+  "schedule": {
+    "date": "2026-07-29",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "헤일로: 캠페인 이볼브드",
+          "dev": "헤일로 스튜디오",
+          "date": "7월 29일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "7월 29일 정식 출시되는 SF FPS 게임으로, 언리얼 엔진 5를 활용해 시리즈 명작의 캠페인을 그래픽과 연출로 새롭게 재탄생시켰습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318944",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "미스트폴 헌터",
+          "dev": "벨링 게임즈",
+          "date": "7월 29일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "7월 29일 스팀에 정식 출시되는 다크 판타지 PvPvE 익스트랙션 액션 RPG로, 몰락한 신들의 세계를 배경으로 한 탐험과 전투를 제공합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3282300/Mistfall_Hunter/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "update",
+          "game": "카오스 제로 나이트메어",
+          "dev": "슈퍼크리에이티브",
+          "date": "7월 29일(수)",
+          "platforms": [
+            "PC",
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "7월 29일 시즌4 '부서진 빛과 발톱' 업데이트를 적용하며, 캐릭터 밸런스 조정과 함께 이용자 편의성을 대폭 개선합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318946",
+          "source_name": "인벤"
+        },
+        {
+          "category": "event",
+          "game": "건즈 앤 드래곤즈",
+          "dev": "에이버튼",
+          "date": "7월 30일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#f59e0b",
+          "note": "7월 30일부터 스팀 테스트에 돌입하는 판타지 FPS 로그라이트 신작으로, 최대 3인이 협동하여 무기 빌드를 진화시키며 몬스터와 전투를 벌입니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318942",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "나 혼자만 레벨업: 어라이즈",
+          "dev": "넷마블",
+          "date": "7월 30일(목)",
+          "platforms": [
+            "PC",
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "7월 30일 대규모 업데이트를 진행하며, 주인공 성진우의 신규 전직 '제압자' 및 오리지널 스토리 '송곳니 군주 아단'을 새롭게 공개합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=318947",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "더 레릭: 퍼스트 가디언",
+          "dev": "프로젝트 클라우드 게임즈",
+          "date": "7월 31일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "7월 31일 정식 출시되는 3인칭 하드코어 액션 RPG로, 멸망해가는 세계를 구하기 위해 솔로 가디언이 되어 다양한 무기와 스킬로 몬스터를 격퇴합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2827820/The_Relic_First_Guardian/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "2026 LCK 정규 시즌 3라운드 1주 차",
+          "note": "T1 vs KT 통신사 더비로 시작하는 LCK 정규 시즌 3라운드 경기가 개최됩니다.",
+          "venue": "서울 종로구 LCK 아레나 / 온라인",
+          "date": "2026-07-29 ~ 2026-08-02",
+          "tag": "e스포츠",
+          "website": "https://www.gamemeca.com/view.php?gid=1778364"
+        },
+        {
+          "name": "건즈 앤 드래곤즈 스팀 테스트",
+          "note": "에이버튼의 신작 3인 협동 판타지 FPS 로그라이트 게임 스팀 플레이 테스트가 진행됩니다.",
+          "venue": "온라인 (Steam)",
+          "date": "2026-07-30 ~",
+          "tag": "베타 테스트",
+          "website": "https://www.inven.co.kr/webzine/news/?news=318942"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "넥슨, 신작 MMORPG '템빨: 오버기어드' 타이틀 확정",
+          "source": "게임메카",
+          "time": "7월 28일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1778360"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "위믹스, 약 77억 원 규모 해킹 피해 또 발생",
+          "source": "게임메카",
+          "time": "7월 28일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1778368"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'크레이지 택시: 월드 투어' 신규 영상 공개",
+          "source": "IGN India",
+          "time": "7월 28일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/crazy-taxi-new/267451/crazy-taxi-world-tour-official-welcome-to-the-west-coast-trailer"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "에이펙스 레전드, 시즌 30 신규 트레일러 공개",
+          "source": "IGN India",
+          "time": "7월 28일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/267439/apex-legends-marked-official-gameplay-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "캡콤 1분기 호실적… '프라그마타' 250만 장 돌파",
+          "source": "4Gamer",
+          "time": "7월 28일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/512/G051239/20260728042/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'인왕 3', 첫 DLC '게이안 지옥변' 8월 19일 출시",
+          "source": "電撃オンライン",
+          "time": "7월 28일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202607/82674"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "위자드 오브 더 코스트, 존 하이트 대표 사임",
+          "source": "GamesIndustry.biz",
+          "time": "7월 28일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/john-hight-steps-down-as-wizards-of-the-coast-president"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "명작의 그래픽 재해석과 검증된 IP, 게임 산업이 '안전지대'로 몰리는 이유 🎯",
+      "intro": "언리얼 엔진 5로 재탄생하는 클래식 명작부터 웹소설 IP 기반 신작까지, 게임 시장은 온통 '검증된 흥행 공식'으로 채워지고 있습니다. 🔍\n개발사들의 리스크 최소화 전략이 과연 게이머들에게도 진정한 혁신과 즐거움을 줄 수 있을까요?",
+      "points": "오늘 발표된 '헤일로: 캠페인 이볼브드'의 언리얼 엔진 5 리메이크 소식과 '템빨', '나 혼자만 레벨업' 등 검증된 IP 중심의 대형 신작 스케줄은 현재 게임 산업의 명확한 지향점을 보여줍니다. 🎮 개발사들은 대형화된 제작비 부담을 줄이기 위해 신규 IP 도전보다는 기존 명작의 그래픽 재건축과 인지도 높은 타 미디어 IP 활용에 집중하고 있습니다.\n\n이러한 흐름은 **소비자의 게임 소비 구조와 구매 심리**에 직접적인 영향을 미칩니다. 📉 친숙한 원작과 최신 엔진의 결합은 유저의 진입 문턱을 낮추는 효과가 있지만, 핵심 시스템의 혁신이 부재할 경우 게이머들은 금세 피로감을 느끼며 이탈하게 됩니다. 단순한 비주얼 업그레이드만으로는 유저들의 장기적인 플레이를 이끌어내기 어렵습니다.\n\n캡콤의 분기 호실적 사례가 증명하듯, 시장을 관통하는 본질적인 경쟁력은 IP의 익숙함보다 **깊이 있는 메커니즘과 완성도 높은 독창적 게임 플레이 루프**에 있습니다. 💎 원작 IP의 후광은 유저를 모으는 마중물일 뿐, 소비자가 지속적으로 가치를 느끼고 정착하게 만드는 진짜 동인은 게임성 자체의 혁신입니다.\n\n화려한 비주얼로 재포장된 리메이크작과 안전한 IP 기반 신작들이 쏟아지는 현재, 당신이 게이머로서 진정으로 원하는 것은 완벽하게 재구성된 과거의 추억입니까, 아니면 낯설지만 새로운 플레이 경험입니까? ❓"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": true,
+      "title": "Halo: Campaign Evolved - Theme Song (2026)",
+      "channel": "SZkorpion",
+      "videoId": "VMju65BNPVY",
+      "url": "https://www.youtube.com/watch?v=VMju65BNPVY",
+      "thumbnail": "https://i.ytimg.com/vi/VMju65BNPVY/hqdefault.jpg",
+      "comment": "최근 게이머 사이에서 화제가 된 '헤일로: 캠페인 이볼브드'의 테마곡을 소개합니다! 🎮 웅장한 선율이 가슴을 뛰게 만드네요. 수요일인 오늘 하루를 마무리하며 웅장한 모험의 세계로 빠져보세요! 🎵✨",
+      "search_query": "Halo Campaign Evolved Official Theme",
+      "ai_game_name": "헤일로: 캠페인 이볼브드",
+      "ai_reason": "이전 곡의 몽환적인 분위기와 대비되는, SF 명작의 웅장함과 전율을 선사하는 클래식 오케스트라 사운드트랙이 기대를 모아 선정했습니다."
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Halo: Campaign Evolved",
+        "releases.0.note": "A sci-fi FPS game officially releasing on July 29, recreating the classic campaign of the iconic series with Unreal Engine 5 for renewed graphics and presentation.",
+        "releases.0.dev": "Halo Studios",
+        "releases.1.game": "Mistfall Hunter",
+        "releases.1.note": "A dark fantasy PvPvE extraction action RPG officially launching on Steam on July 29, offering exploration and combat set in a world of fallen gods.",
+        "releases.1.dev": "Belling Games",
+        "releases.2.game": "Chaos Zero Nightmare",
+        "releases.2.note": "Applies the Season 4 update 'Broken Light and Claws' on July 29, featuring character balance adjustments along with major quality-of-life improvements.",
+        "releases.2.dev": "Super Creative",
+        "releases.3.game": "Guns & Dragons",
+        "releases.3.note": "A new fantasy FPS roguelite game entering Steam playtesting starting July 30, where up to 3 players cooperate to evolve weapon builds and battle monsters.",
+        "releases.3.dev": "Aiverton",
+        "releases.4.game": "Solo Leveling: Arise",
+        "releases.4.note": "Undergoes a major update on July 30, introducing main character Sung Jinwoo's new class 'Overpowerer' and the original story 'Adan, the Monarch of Fangs'.",
+        "releases.4.dev": "Netmarble",
+        "releases.5.game": "The Relic: First Guardian",
+        "releases.5.note": "A 3rd-person hardcore action RPG officially releasing on July 31, where players become a solo Guardian to defeat monsters using various weapons and skills to save a dying world.",
+        "releases.5.dev": "Project Cloud Games",
+        "events.0.name": "2026 LCK Regular Season Round 3 Week 1",
+        "events.0.note": "The LCK Regular Season Round 3 matches kick off, starting with the Telecom Derby between T1 and KT.",
+        "events.0.venue": "LCK Arena, Jongno-gu, Seoul / Online",
+        "events.1.name": "Guns & Dragons Steam Playtest",
+        "events.1.note": "A Steam playtest will be conducted for Aiverton's new 3-player co-op fantasy FPS roguelite game.",
+        "events.1.venue": "Online (Steam)"
+      },
+      "briefing": {
+        "items.0.title": "Nexon Confirms Title for New MMORPG 'Overgeared'",
+        "items.0.source": "Gamemeca",
+        "items.0.time": "July 28",
+        "items.1.title": "WEMIX Suffers Another Hacking Incident Worth Approx. 7.7 Billion KRW",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "July 28",
+        "items.2.title": "New Video Released for 'Crazy Taxi: World Tour'",
+        "items.2.source": "IGN India",
+        "items.2.time": "July 28",
+        "items.3.title": "Apex Legends Unveils New Trailer for Season 30",
+        "items.3.source": "IGN India",
+        "items.3.time": "July 28",
+        "items.4.title": "Capcom Reports Strong Q1 Performance… 'Pragmata' Surpasses 2.5 Million Copies Sold",
+        "items.4.source": "4Gamer",
+        "items.4.time": "July 28",
+        "items.5.title": "'Nioh 3' First DLC 'Geian Disturbance' to Launch on August 19",
+        "items.5.source": "Dengeki Online",
+        "items.5.time": "July 28",
+        "items.6.title": "Wizards of the Coast President John Hight Resigns",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "July 28"
+      },
+      "drk": {
+        "title": "Graphical Reinterpretations of Classics and Proven IPs: Why the Game Industry Is Flocking to 'Safe Zones' 🎯",
+        "intro": "From classic masterpieces reborn in Unreal Engine 5 to new titles based on web novel IPs, the gaming market is filled with 'proven success formulas.' 🔍\nCan developers' risk-minimizing strategies truly deliver genuine innovation and enjoyment to gamers?",
+        "points": "Today's announcement of the Unreal Engine 5 remake for 'Halo: Campaign Evolved' and the upcoming release schedules for major new titles centered on proven IPs such as 'Overgeared' and 'Solo Leveling' clearly demonstrate the current direction of the gaming industry. 🎮 Developers are focusing on graphical reconstructions of existing masterpieces and leveraging well-known external media IPs rather than risking new IP development, all to reduce the burden of soaring production costs.\n\nThis trend directly impacts **consumer game consumption structures and purchasing psychology**. 📉 While pairing familiar original works with modern engines effectively lowers entry barriers for players, the absence of core systemic innovation quickly leads to user fatigue and churn. Simple visual upgrades alone cannot sustain long-term player engagement.\n\nAs demonstrated by Capcom's strong quarterly performance, essential market competitiveness stems not merely from IP familiarity, but from **deep mechanics and a highly polished, original gameplay loop**. 💎 The prestige of an original IP serves only as a catalyst to attract initial players; the true driver that creates lasting value and retains consumers is the innovation within the gameplay itself.\n\nAmid the influx of remakes repackaged with stunning visuals and safe IP-based new releases, what do you as a gamer truly desire: perfectly reconstructed memories of the past, or unfamiliar yet fresh gameplay experiences? ❓"
+      },
+      "soundtrack": {
+        "title": "Halo: Campaign Evolved - Theme Song (2026)",
+        "comment": "Introducing the theme song of 'Halo: Campaign Evolved', which recently became a hot topic among gamers! 🎮 The grand melody makes your heart race. As you wrap up today, Wednesday, immerse yourself in a world of epic adventure! 🎵✨"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "Halo: Campaign Evolved",
+        "releases.0.note": "7月29日に正式リリースされるSF FPSゲームで、Unreal Engine 5を活用し、シリーズ名作のキャンペーンをグラフィックと演出で新しく生まれ変わらせました。",
+        "releases.0.dev": "Halo Studios",
+        "releases.1.game": "Mistfall Hunter",
+        "releases.1.note": "7月29日にSteamで正式リリースされるダークファンタジーPvPvEエキストラクションアクションRPGで、没落した神々の世界を舞台にした探索と戦闘を提供します。",
+        "releases.1.dev": "Bellring Games",
+        "releases.2.game": "カオスゼロナイトメア",
+        "releases.2.note": "7月29日にシーズン4「砕かれた光と爪」アップデートを実施し、キャラクターのバランス調整とともにユーザーの利便性を大幅に改善します。",
+        "releases.2.dev": "SuperCreative",
+        "releases.3.game": "ガンズ＆ドラゴンズ",
+        "releases.3.note": "7월 30日からSteamテストに突入するファンタジーFPSローグライト新作で、最大3人で協力して武器ビルドを進化させながらモンスターと戦闘を繰り広げます。",
+        "releases.3.dev": "エイバートン",
+        "releases.4.game": "俺だけレベルアップな件：ARISE",
+        "releases.4.note": "7月30日に大規模アップデートを実施し、主人公・水篠旬の新規転職「制圧者」およびオリジナルストーリー「鋭牙の君主 アダン」を新たに公開します。",
+        "releases.4.dev": "ネットマーブル",
+        "releases.5.game": "The Relic: First Guardian",
+        "releases.5.note": "7月31日に正式リリースされる三人称ハードコアアクションRPGで、滅びゆく世界を救うためにソロガーディアンとなり、様々な武器とスキルでモンスターを撃退します。",
+        "releases.5.dev": "Project Cloud Games",
+        "events.0.name": "2026 LCK レギュラーシーズン 第3ラウンド 第1週",
+        "events.0.note": "T1 vs KTの通信キャリアダービーで始まるLCKレギュラーシーズン第3ラウンドの試合が開催されます。",
+        "events.0.venue": "ソウル特別市 鐘路区 LCKアリーナ / オンライン",
+        "events.1.name": "ガンズ＆ドラゴンズ Steamテスト",
+        "events.1.note": "エイバートンの新作3人協力ファンタジーFPSローグライトゲームのSteamプレイテストが実施されます。",
+        "events.1.venue": "オンライン (Steam)"
+      },
+      "briefing": {
+        "items.0.title": "ネクソン、新作MMORPG『オーバーギア：Overgeared』タイトル確定",
+        "items.0.source": "ゲームメカ",
+        "items.0.time": "7月28日",
+        "items.1.title": "WEMIX、約77億ウォン規模のハッキング被害が再び発生",
+        "items.1.source": "ゲームメカ",
+        "items.1.time": "7월 28日",
+        "items.2.title": "『クレイジータクシー：ワールドツアー』新規映像公開",
+        "items.2.source": "IGN India",
+        "items.2.time": "7월 28日",
+        "items.3.title": "『エーペックスレジェンズ』、シーズン30の新規トレーラー公開",
+        "items.3.source": "IGN India",
+        "items.3.time": "7월 28日",
+        "items.4.title": "カプコン第1四半期好業績…『プラグマタ』250万本突破",
+        "items.4.source": "4Gamer",
+        "items.4.time": "7月28日",
+        "items.5.title": "『仁王3』、初のDLC「慶安地獄変」8月19日配信",
+        "items.5.source": "電撃オンライン",
+        "items.5.time": "7月28日",
+        "items.6.title": "ウィザード・オブ・ザ・コースト、ジョン・ハイトCEOが辞任",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "7月28日"
+      },
+      "drk": {
+        "title": "名作のグラフィック再解釈と検証されたIP、ゲーム産業が「安全地帯」に群がる理由 🎯",
+        "intro": "Unreal Engine 5で生まれ変わるクラシック名作からウェブ小説IPベースの新作まで、ゲーム市場はまさに「検証済みのヒット法則」で埋め尽くされています。 🔍\n開発会社のリス流最小化戦略は、果たしてゲーマーにとっても真の革新と楽しみを提供できるでしょうか？",
+        "points": "本日発表された『Halo: Campaign Evolved』のUnreal Engine 5リメイクのニュースや、『オーバーギア』、『俺だけレベルアップな件』など検証されたIPを中心とした大型新作のスケジュールは、現在のゲーム産業の明確な指向性を示しています。 🎮 開発会社は大型化する制作費の負担を軽減するため、新規IPへの挑戦よりも既存の名作のグラフィック再構築や知名度の高い他メディアIPの活用に集中しています。\n\nこのような流れは、**消費者のゲーム消費構造と購買心理**に直接的な影響を与えます。 📉 親しみのある原作と最新エンジンの結合はユーザーの参入障壁を下げる効果がありますが、コアシステムの革新が欠如している場合、ゲーマーはすぐに疲労感を感じて離脱することになります。単なるビジュアルのアップグレードだけでは、ユーザーの長期的なプレイを引き出すことは困難です。\n\nカプコンの四半期好業績の事例が証明するように、市場を貫く本質的な競争力はIPの親しみやすさよりも**深みのあるメカニクスと完成度の高い独創的なゲームプレイ・ループ**にあります。 💎 原作IPの威光はユーザーを集める呼び水に過ぎず、消費者が継続的に価値を感じて定着する本当の動機はゲーム性自体の革新です。\n\n華やかなビジュアルで再パッケージ化されたリメイク作や安全なIPベースの新作が溢れる現在、あなたがゲーマーとして本当に求めているのは、完璧に再構成された過去の思い出ですか？それとも、見慣れないけれど新しいプレイ体験ですか？ ❓"
+      },
+      "soundtrack": {
+        "title": "Halo: Campaign Evolved - Theme Song (2026)",
+        "comment": "最近ゲーマーの間で話題となっている『Halo: Campaign Evolved』のテーマ曲をご紹介します！ 🎮 壮大なメロディが胸を躍らせますね。水曜日の今日という一日を締めくくりながら、壮大な冒険の世界に浸ってみてはいかがでしょうか！ 🎵✨"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "게임업계가 '신작' 포기하고 '리메이크'에 올인하는 진짜 이유 🎯 (feat. 헤일로 2026 OST)",
+    "en": "Why devs are giving up on new IPs and doubling down on remakes 🎯 (feat. Halo 2026 OST)",
+    "ja": "ゲーム業界が「新作」を諦め「リメイク」に走る本当の理由 🎯 (feat. 『Halo』2026 OST)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "요즘 게임업계가 신작보다 '리메이크'에 올인하는 이유, 궁금하지 않나요? 🎯\n실패 없는 안전지대를 노리는 게임사들의 진짜 속사정을 딱 정리해 드림! 🎮\n\nhttps://www.gtplayer.net/edition-091/\n\n#헤일로 #게임소식 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-07-29T07:05:32.504066"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "7월 29일 오늘의 게임 소식 🎮\n📰 [뉴스] 넥슨 '템빨' 타이틀 확정부터 위믹스 해킹 이슈, 캡콤 '프라그마타' 흥행까지!\n📅 [출시] 헤일로, 나 혼자만 레벨업, 카오스 제로 나이트메어 등 이번 주 출시 라인업\n✍️ [인사이트] 게임업계가 신작 대신 리메이크와 검증된 IP에 몰두하는 진짜 이유\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#GTPLAYER #지티플레이어 #게임뉴스 #게임소식 #신작게임 #게임추천 #게임덕후 #게임정보 #스팀게임 #모바일게임 #PC게임 #헤일로 #템빨 #나혼자만레벨업 #에이펙스레전드 #캡콤 #게임이슈 #뉴스레터 #게이머 #콘솔게임",
+          "image_paths": [
+            "web\\instagram\\edition_091\\card_news.png",
+            "web\\instagram\\edition_091\\card_calendar.png",
+            "web\\instagram\\edition_091\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3951809037956538226_39332818166",
+            "url": "https://www.instagram.com/p/DbXpWHnk99y/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-07-29T17:06:15.331297"
+    }
+  }
+}

@@ -1,0 +1,472 @@
+{
+  "num": "108",
+  "date": "2026-08-21",
+  "status": "published",
+  "schedule": {
+    "date": "2026-08-21",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "event",
+          "game": "더스크블러드",
+          "dev": "프롬소프트웨어",
+          "date": "8월 21일(금)",
+          "platforms": [
+            "Switch 2"
+          ],
+          "color": "#3b82f6",
+          "note": "8월 21일부터 닌텐도 스위치 2 독점 8인 PvPvE 신작 '더스크블러드'의 첫 네트워크 테스트가 진행됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319123",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "피드 더 스코치팟",
+          "dev": "모라비안 게임즈",
+          "date": "8월 21일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 21일 PC로 출시되는 전략 보드 게임으로, 카탄 스타일의 타일 자원 생산과 콤보 점수 시스템을 결합했습니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/034/G103470/20260820011/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "베케이션 카페 시뮬레이터",
+          "dev": "플레이웨이",
+          "date": "8월 21일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 21일 스팀으로 정식 출시되는 경영 시뮬레이션 게임으로, 휴양지에서 카페를 운영하며 메뉴 개발과 매장 관리를 진행합니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/vacation-cafe-simulator/269468/vacation-cafe-simulator-official-launch-trailer",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "release",
+          "game": "무 후?",
+          "dev": "어썸 스튜디오",
+          "date": "8월 21일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 21일 스팀을 통해 정식 출시되는 캐주얼 퍼즐 어드벤처 신작입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4948000/Moo_Who/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "세틀러스 도메인",
+          "dev": "도메인 인터랙티브",
+          "date": "8월 21일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 21일 스팀으로 출시되는 중세 정착지 건설 및 자원 관리 시뮬레이션 게임입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3396920/Settlers_Domain/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "event",
+          "game": "콜 오브 듀티: 모던 워페어 4",
+          "dev": "인피니티 워드",
+          "date": "8월 22일(토)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "XSX"
+          ],
+          "color": "#3b82f6",
+          "note": "8월 22일부터 예약 구매자를 대상으로 한 얼리 액세스 멀티플레이 베타 테스트가 시작됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319724",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "프롬소프트웨어 '더스크블러드' 네트워크 테스트",
+          "note": "닌텐도 스위치2 독점 신작 8인 PvPvE 멀티플레이 첫 네트워크 테스트",
+          "venue": "닌텐도 스위치2 (온라인)",
+          "date": "2026-08-21 ~ 08-24",
+          "tag": "베타 테스트",
+          "website": "https://www.inven.co.kr/webzine/news/?news=319123"
+        },
+        {
+          "name": "에픽세븐 8주년 기념 업데이트 쇼케이스",
+          "note": "정식 서비스 8주년 기념 신규 업데이트 상세 공개 방송",
+          "venue": "공식 유튜브 채널",
+          "date": "2026-08-22",
+          "tag": "쇼케이스",
+          "website": "https://www.inven.co.kr/webzine/news/?news=319727"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "IO '007 퍼스트 라이트', 누적 판매량 400만 돌파",
+          "source": "인벤",
+          "time": "8월 21일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319749"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "엔씨 서브컬처 신작 '리밋 제로 브레이커스' 테스터 모집",
+          "source": "게임메카",
+          "time": "8월 20일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1779376"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "라이엇, 격투 게임 '2XKO' 12월 개발 중단 공식화",
+          "source": "IGN India",
+          "time": "8월 21일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/2xko/269473/riot-to-end-active-development-for-2xko-in-december-2026-online-play-to-remain-unaffected"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'배틀필드 6', 영화 '탑건'과 첫 대규모 콜라보 발표",
+          "source": "IGN India",
+          "time": "8월 20일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/battlefield-6/269462/battlefield-6-top-gun-event-breakdown-new-game-modes"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "포켓몬 카드 포켓, 신규 팩 '로켓단의 야망' 27일 출시",
+          "source": "4Gamer",
+          "time": "8월 21일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/779/G077901/20260821001/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "SF 신작 '낙원추방', 11월 25일 정식 발매 확정",
+          "source": "4Gamer",
+          "time": "8월 20일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/006/G100663/20260820047/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "美 7월 패키지 게임 매출, 1995년 이래 최저치 기록",
+          "source": "GamesIndustry.biz",
+          "time": "8월 20일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/us-physical-game-sales-drop-to-lowest-monthly-total-since-1995-us-monthly-charts"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "패키지 시대의 종말, 게임 소비 구조의 비가역적 전환 📉",
+      "intro": "미국 패키지 게임 매출이 약 30년 만에 사상 최저치를 기록했습니다. 🎮\n우리가 사랑했던 실물 디스크의 시대는 과연 이대로 영원한 황혼을 맞이하는 것일까요? 📦",
+      "points": "미국 시장의 7월 실물 패키지 게임 매출이 1995년 집계 이래 최저 수준으로 떨어졌습니다. 📉 콘솔 제조사들의 디지털 전용 기기 보급과 구독형 서비스의 확산이 맞물리며 물리 매체의 입지가 급격히 축소된 결과입니다.\n\n이러한 지표는 단순한 유통 방식의 변화를 넘어 **게임 소비 구조**가 비가역적인 디지털 중심으로 재편되었음을 증명합니다. 💡 유통 및 패키지 생산 비용을 절감하려는 퍼블리셔의 전략과 즉각적인 플레이를 선호하는 소비자 심리가 일치하면서 물리 매체 생태계는 빠르게 붕괴하고 있습니다.\n\n결국 **실물 패키지는 대중적 표준 소비재에서 소수의 마니아를 위한 고가 수집품으로 성격이 완전히 격하**되었습니다. 🏷️ 이는 중고 거래 시장의 소멸뿐만 아니라, 플랫폼 종속에 따른 게이머의 소프트웨어 소유권 불안정을 심화시키는 중대한 산업적 전환점입니다.\n\n디지털 중심의 생태계가 완전히 정착된 지금, 실물 패키지의 퇴장은 편리함의 대가로 지불해야 할 불가피한 시대적 비용일까요? 🌐"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "에픽 메이지 번들",
+      "url": "https://store.epicgames.com/ko/p/albion-online-7eb24d",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-v5q98.png",
+      "comment": "🎁 **에픽게임즈 이번 주 무료 혜택** (~8월 28일 00:00까지)\n- **에픽 메이지 번들**: MMORPG *알비온 온라인*에서 사용할 수 있는 한정 아이템 패키지입니다. 두 가지 특별 탈것 스킨과 성장에 유용한 보상으로 모험을 한층 풍성하게 시작해 보세요.\n\n🚀 **Next Week**: 엉뚱하고 유쾌한 우주 생존 어드벤처, **Breathedge**가 배포될 예정입니다.\n\n🎮 **스팀 주말 특가** (~8월 25일 02:00까지)\n- 완성도 높은 스토리와 스타일리시한 전투를 자랑하는 명작 RPG **페르소나 3 리로드**를 65% 할인 혜택으로 즐겨보세요!",
+      "steam_deal": {
+        "type": "deal",
+        "name": "페르소나3 리로드",
+        "app_id": 2161700,
+        "url": "https://store.steampowered.com/app/2161700",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg?t=1764776430",
+        "discount_percent": 65,
+        "original_price": 6980000,
+        "final_price": 2443000,
+        "end_date": "2026-08-25 02:00"
+      },
+      "epic_current": [
+        {
+          "title": "에픽 메이지 번들",
+          "description": "$55 이상의 가치가 있는 마법 같은 무료 선물을 받아가세요! 마법이 깃든 명품 아이템, 두 가지 특별한 탈것 스킨, 그리고 성장에 필요한 풍성한 보상으로 알비온에서의 여정을 더욱 특별하게 만들어 보세요",
+          "url": "https://store.epicgames.com/ko/p/albion-online-7eb24d",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-v5q98.png",
+          "end_date": "2026-08-28 00:00"
+        }
+      ],
+      "epic_upcoming": [
+        {
+          "title": "Breathedge",
+          "description": "우주 공간에서 살아남으세요! 당신의 불멸의 닭과 함께 당신의 우주선이 왜 갑작스럽게 충돌했는지 알아보세요. 도구를 만들고, 자동차를 운전하고, 우주 정거장을 통제하여 생존하고 파괴 잔해를 뒤져보세요.",
+          "url": "https://store.epicgames.com/ko/p/breathedge",
+          "thumbnail": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s1-2560x1440-76fd08cd9c2d-2560x1440-783424f6d4a7f32a0e75fc074f2f928e.jpg",
+          "start_date": "2026-08-28 00:00"
+        }
+      ],
+      "epic_discounted": []
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Duskblood",
+        "releases.0.note": "The first network test for 'Duskblood', a new 8-player PvPvE Nintendo Switch 2 exclusive, begins on August 21.",
+        "releases.0.dev": "FromSoftware",
+        "releases.1.game": "Feed the Scorchpot",
+        "releases.1.note": "A strategy board game releasing on PC on August 21, combining Catan-style tile resource production with a combo scoring system.",
+        "releases.1.dev": "Moravian Games",
+        "releases.2.game": "Vacation Cafe Simulator",
+        "releases.2.note": "A management simulation game officially releasing on Steam on August 21, where players run a resort cafe, develop menus, and manage the shop.",
+        "releases.2.dev": "PlayWay",
+        "releases.3.game": "Moo Who?",
+        "releases.3.note": "A new casual puzzle adventure game officially launching on Steam on August 21.",
+        "releases.3.dev": "Awesome Studio",
+        "releases.4.game": "Settlers Domain",
+        "releases.4.note": "A medieval settlement-building and resource management simulation game releasing on Steam on August 21.",
+        "releases.4.dev": "Domain Interactive",
+        "releases.5.game": "Call of Duty: Modern Warfare 4",
+        "releases.5.note": "Early access multiplayer beta testing for pre-order customers begins on August 22.",
+        "releases.5.dev": "Infinity Ward",
+        "events.0.name": "FromSoftware 'Duskblood' Network Test",
+        "events.0.note": "First network test for the Nintendo Switch 2 exclusive 8-player PvPvE multiplayer game",
+        "events.0.venue": "Nintendo Switch 2 (Online)",
+        "events.1.name": "Epic Seven 8th Anniversary Update Showcase",
+        "events.1.note": "Live broadcast unveiling details of the new update celebrating the 8th anniversary of official service",
+        "events.1.venue": "Official YouTube Channel"
+      },
+      "briefing": {
+        "items.0.title": "IO's '007 First Light' Surpasses 4 Million Cumulative Sales",
+        "items.0.source": "Inven",
+        "items.0.time": "August 21",
+        "items.1.title": "NC Soft Begins Tester Recruitment for New Subculture Title 'Limit Zero Breakers'",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "August 20",
+        "items.2.title": "Riot Games Officially Cancels Development of Fighting Game '2XKO' in December",
+        "items.2.source": "IGN India",
+        "items.2.time": "August 21",
+        "items.3.title": "'Battlefield 6' Announces First Major Collaboration with Movie 'Top Gun'",
+        "items.3.source": "IGN India",
+        "items.3.time": "August 20",
+        "items.4.title": "Pokémon TCG Pocket to Release New Booster Pack 'Team Rocket's Ambition' on August 27",
+        "items.4.source": "4Gamer",
+        "items.4.time": "August 21",
+        "items.5.title": "New Sci-Fi Game 'Expelled from Paradise' Confirmed for Official Release on November 25",
+        "items.5.source": "4Gamer",
+        "items.5.time": "August 20",
+        "items.6.title": "US Physical Game Sales in July Hit Lowest Level Since 1995",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "August 20"
+      },
+      "drk": {
+        "title": "The End of the Physical Era: The Irreversible Shift in Game Consumption Structure 📉",
+        "intro": "Physical game sales in the United States have hit an all-time low in nearly 30 years. 🎮\nIs the era of physical discs that we all loved truly entering its permanent twilight? 📦",
+        "points": "July physical game sales in the US market fell to their lowest level since record-keeping began in 1995. 📉 This sharp decline in physical media is the direct result of console manufacturers pushing digital-only hardware and the rapid expansion of subscription services.\n\nThese numbers prove that beyond a simple shift in distribution models, the **game consumption structure** has irreversibly transformed into a digital-centric ecosystem. 💡 Driven by publisher strategies to eliminate distribution and packaging costs aligning with consumer demand for instant playability, the physical media market is collapsing rapidly.\n\nUltimately, **physical boxed copies have been relegated from everyday standard consumer goods to expensive collector's items for a small enthusiast base**. 🏷️ This marks a crucial industry turning point that not only threatens the used game market but also deepens gamers' software ownership instability due to platform lock-in.\n\nNow that a digital-first ecosystem is firmly established, is the farewell to physical games simply the inevitable price of convenience in this era? 🌐"
+      },
+      "epic": {
+        "title": "Epic Mage Bundle",
+        "comment": "🎁 **Epic Games Free This Week** (~Until August 27, 15:00 UTC)\n- **Epic Mage Bundle**: A limited item bundle for the MMORPG *Albion Online*. Jumpstart your adventure with two special mount skins and useful progression rewards.\n\n🚀 **Next Week**: The wacky and comedic space survival adventure, **Breathedge**, will be available for free.\n\n🎮 **Steam Weekend Deal** (~Until August 24, 17:00 UTC)\n- Enjoy the acclaimed RPG masterpiece **Persona 3 Reload**, featuring a compelling narrative and stylish combat, at a 65% discount!"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ダスクブラッド",
+        "releases.0.note": "8月21日よりNintendo Switch 2独占の8人PvPvE新作『ダスクブラッド』の第1回ネットワークテストが実施されます。",
+        "releases.0.dev": "フロム・ソフトウェア",
+        "releases.1.game": "フィード・ザ・スコーチポット",
+        "releases.1.note": "8月21日にPC向けにリリースされる戦略ボードゲームで、カタンスタイルのタイル資源生産とコンボスコアシステムを融合させています。",
+        "releases.1.dev": "Moravian Games",
+        "releases.2.game": "バケーション・カフェ・シミュレーター",
+        "releases.2.note": "8月21日にSteamで正式リリースされる経営シミュレーションゲームで、リゾート地でカフェを運営しながらメニュー開発や店舗管理を行います。",
+        "releases.2.dev": "PlayWay",
+        "releases.3.game": "ムー・フー？",
+        "releases.3.note": "8月21日にSteamを通じて正式リリースされるカジュアルパズルアドベンチャーの新作です。",
+        "releases.3.dev": "Awesome Studio",
+        "releases.4.game": "セトラーズ・ドメイン",
+        "releases.4.note": "8月21日にSteamでリリースされる中世の入植地建設・資源管理シミュレーションゲームです。",
+        "releases.4.dev": "Domain Interactive",
+        "releases.5.game": "コール オブ デューティ: モダン・ウォーフェア4",
+        "releases.5.note": "8月22日より予約購入者を対象としたマルチプレイヤー早期アクセスのベータテストが開始されます。",
+        "releases.5.dev": "Infinity Ward",
+        "events.0.name": "フロム・ソフトウェア『ダスクブラッド』ネットワークテスト",
+        "events.0.note": "Nintendo Switch 2独占新作 8人PvPvEマルチプレイ第1回ネットワークテスト",
+        "events.0.venue": "Nintendo Switch 2（オンライン）",
+        "events.1.name": "『エピックセブン』8周年記念アップデートショーケース",
+        "events.1.note": "正式サービス8周年を記念した新規アップデートの詳細公開配信",
+        "events.1.venue": "公式YouTubeチャンネル"
+      },
+      "briefing": {
+        "items.0.title": "IO『007 ファースト・ライト』、累計販売本数400万本を突破",
+        "items.0.source": "Inven",
+        "items.0.time": "8月21日",
+        "items.1.title": "NCのサブカルチャー新作『リミット ゼロ ブレイカーズ』テスター募集",
+        "items.1.source": "GameMeca",
+        "items.1.time": "8月20日",
+        "items.2.title": "ライアット、格闘ゲーム『2XKO』12月の開発中止を公式発表",
+        "items.2.source": "IGN India",
+        "items.2.time": "8月21日",
+        "items.3.title": "『バトルフィールド6』、映画『トップガン』との初の大規模コラボを発表",
+        "items.3.source": "IGN India",
+        "items.3.time": "8月20日",
+        "items.4.title": "『ポケポケ』、新パック「ロケット団の野望」が27日にリリース",
+        "items.4.source": "4Gamer",
+        "items.4.time": "8月21日",
+        "items.5.title": "SF新作『楽園追放』、11月25日に正式発売決定",
+        "items.5.source": "4Gamer",
+        "items.5.time": "8月20日",
+        "items.6.title": "米国の7月パッケージ版ゲーム売上、1995年以来の過去最低を記録",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "8月20日"
+      },
+      "drk": {
+        "title": "パッケージ時代の終焉、ゲーム消費構造の不可逆的な転換 📉",
+        "intro": "米国のパッケージ版ゲームの売上が約30年ぶりの史上最低値を記録しました。🎮\n私たちが親しんできた実物ディスクの時代は、果たしてこのまま永遠の黄昏を迎えてしまうのでしょうか？ 📦",
+        "points": "米国市場における7月の実物パッケージ版ゲームの売上が、1995年の集計開始以来で最低水準に落ち込みました。📉 コンソールメーカー各社によるデジタル専用機の普及とサブスクリプション型サービスの拡大が重なり、物理メディアの存在感が急速に縮小した結果です。\n\nこれらの指標は、単なる流通方式の変化にとどまらず、**ゲームの消費構造**が不可逆的にデジタル中心へと再編されたことを証明しています。💡 流通やパッケージの製造コストを削減したいパブリッシャーの戦略と、即座にプレイすることを好む消費者の心理が合致し、物理メディアのエコシステムは急速に崩壊しつつあります。\n\n結局のところ、**実物パッケージは一般的な標準消費財から、一部のマニアのための高価なコレクターズアイテムへと完全に性質が変化**しました。🏷️ これは中古取引市場の消滅だけでなく、プラットフォームへの従属に伴うゲーマーのソフトウェア所有権の不安定化を深刻化させる、重大な産業的転換点といえます。\n\nデジタル中心のエコシステムが完全に定着した今、実物パッケージの退場は利便性の代償として支払うべき不可避な時代のコストなのでしょうか？ 🌐"
+      },
+      "epic": {
+        "title": "エピック・メイジ・バンドル",
+        "comment": "🎁 **Epic Games 今週の無料特典**（〜8月28日 00:00まで）\n- **エピック・メイジ・バンドル**：MMORPG『アルビオン・オンライン』で使用できる限定アイテムパッケージです。2種類の特別な乗り物スキンや成長に役立つ報酬で、冒険をより豊かにスタートさせましょう。\n\n🚀 **Next Week**：ユニークでユーモアあふれる宇宙サバイバルアドベンチャー『**Breathedge**』が配布予定です。\n\n🎮 **Steam 週末特大セール**（〜8月25日 02:00まで）\n- 完成度の高いストーリーとスタイリッシュなバトルを誇る名作RPG『**ペルソナ3 リロード**』を65%オフのお得な価格でお楽しみください！"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "패키지 게임의 종말 📉 (feat. 이번 주 에픽 무료 배포 🎁)",
+    "en": "The Death of Physical Games 📉 (feat. Free Epic Games Bundle 🎁)",
+    "ja": "パッケージゲーム時代の終焉 📉 (feat. 今週のEpic無料配布 🎁)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "배틀필드에 영화 '탑건' 콜라보 실화인가요?! ✈️\n전투기 몰고 제대로 도그파이트 뜰 생각에 벌써 설레네요 🔥\n\nhttps://www.gtplayer.net/edition-108/\n#배틀필드6 #탑건 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-08-21T07:01:28.988510"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "8월 21일 오늘의 게임 소식 🎮\n📰 [뉴스] 007 신작 400만 돌파, 라이엇 2XKO 개발 중단, 배틀필드 6 탑건 콜라보\n📅 [출시] 콜 오브 듀티: 모던 워페어 4, 더스크블러드 등 이번 주 주요 신작 라인업\n✍️ [인사이트] 30년 만에 사상 최저치, 우리가 사랑한 패키지 게임의 종말과 전환\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임트렌드 #신작게임 #게임추천 #게임정보 #게임덕후 #게이머 #콘솔게임 #스팀게임 #PC게임 #콜오브듀티 #모던워페어4 #배틀필드6 #포켓몬카드 #라이엇게임즈 #패키지게임 #닌텐도스위치 #플레이스테이션 #엑스박스 #GTPlayer",
+          "image_paths": [
+            "web\\instagram\\edition_108\\card_cover.png",
+            "web\\instagram\\edition_108\\card_news.png",
+            "web\\instagram\\edition_108\\card_calendar.png",
+            "web\\instagram\\edition_108\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3968174737629337838_39332818166",
+            "url": "https://www.instagram.com/p/DcRyeZLE1ju/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-08-21T07:02:02.444845",
+      "freegames_results": {
+        "success": true,
+        "id": "3968174995654554372_39332818166",
+        "url": "https://www.instagram.com/p/DcRyiJek7ME/",
+        "error": null
+      },
+      "freegames_updated_at": "2026-08-21T07:02:31.108394"
+    },
+    "linkedin": {
+      "results": {
+        "posted": false,
+        "text": "The Death of Physical Games 📉 (feat. Free Epic Games Bundle 🎁)\n\nPhysical game sales just hit a historic 30-year low as the market pivots irreversibly to digital.\nExplore what this means for the industry alongside major updates from FromSoftware and Battlefield 6.\n\nhttps://www.gtplayer.net/edition-108-en/",
+        "error": "LinkedIn posting failed"
+      },
+      "updated_at": "2026-08-21T07:03:09.836424"
+    }
+  }
+}

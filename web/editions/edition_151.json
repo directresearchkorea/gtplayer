@@ -1,0 +1,439 @@
+{
+  "num": "151",
+  "date": "2026-10-21",
+  "status": "published",
+  "schedule": {
+    "date": "2026-10-21",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "이스케이프 프롬 플레이타임",
+          "dev": "Mob Entertainment",
+          "date": "10월 21일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 21일 스팀으로 정식 출시되는 공포 어드벤처 게임으로, 버려진 장난감 공장 속에서 퍼즐을 풀며 살아 움직이는 괴물들의 추격을 피해 탈출해야 합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2087540/Escape_from_Playtime/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "update",
+          "game": "리니지 클래식",
+          "dev": "엔씨소프트",
+          "date": "10월 21일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "10월 21일 신규 사냥터 '해적섬' 업데이트를 진행하며, 단검류 무기와 공격속도 메커니즘 개편 등 대대적인 전투 밸런스 변화를 선보입니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=322331",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "콜 오브 듀티: 모던 워페어 4",
+          "dev": "액티비전 / 인피니티 워드",
+          "date": "10월 22일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 22일 출시되는 밀리터리 FPS 대작으로, 새로운 스토리 캠페인과 함께 진화한 DMZ 익스트랙션 모드 등 다채로운 전투 콘텐츠를 제공합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4435490/Call_of_Duty_Modern_Warfare_4/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "더 데드 위 뉴: 오픈 월드 서바이벌",
+          "dev": "Nightshift Studios",
+          "date": "10월 22일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 22일 스팀에 출시되는 오픈월드 서바이벌 신작으로, 좀비로 뒤덮인 아포칼립스 세계에서 자원 수집과 기지 건설을 통해 생존해 나가는 게임입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4890760/THE_DEAD_WE_KNEW_Open_World_Survival/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "파이널 판타지 레조넌스",
+          "dev": "스퀘어 에닉스",
+          "date": "10월 23일(금)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "XSX",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "10월 23일 출시되는 턴제 RPG 신작으로, 파이널 판타지 시리즈 최초로 HD-2D 그래픽을 접목해 브레이브 엑스비어스 시즌1 스토리를 새롭게 리메이크했습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=322258",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "워리어 캣츠: 클랜스 오브 더 포레스트",
+          "dev": "Coolabi Games",
+          "date": "10월 23일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 23일 출시되는 어드벤처 RPG로, 원작 소설 세계관 속 야생 고양이 클랜의 일원이 되어 숲을 탐험하고 영역을 확장하는 모험을 그립니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3960600/Warrior_Cats_Clans_of_the_Forest/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "포켓몬 카드게임 2027 코리안리그 시즌1",
+          "note": "포켓몬 월드챔피언십 2027 대표 선발전",
+          "venue": "코엑스마곡 컨벤션센터",
+          "date": "2026-10-24 ~ 10-25",
+          "tag": "e스포츠",
+          "website": "https://www.inven.co.kr/webzine/news/?news=322321"
+        },
+        {
+          "name": "게임스컴 아시아 x 태국 게임쇼 2026",
+          "note": "토에이 게임즈 신작 3종 등 글로벌 게임 전시",
+          "venue": "태국 방콕",
+          "date": "2026-10-29 ~ 11-01",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=322332"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "문체부, 최대 60억 지원 대형 게임 육성 세부안 발표",
+          "source": "게임메카",
+          "time": "10월 20일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1782086"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "캡콤, 지스타 2026 참가 확정… 록맨 신작 등 출품",
+          "source": "게임메카",
+          "time": "10월 20일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1782037"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "모바일 신작 '하이큐!! 올 챌린저스', 사전등록 개시",
+          "source": "Famitsu",
+          "time": "10월 20일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202610/91433"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "명작 시뮬레이션 '트로피코 7', 내년 1월 28일 출시",
+          "source": "4Gamer",
+          "time": "10월 20일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/939/G093900/20261020025/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "EA, 레전드 복싱 게임 '파이트 나이트' 공식 부활 예고",
+          "source": "IGN India",
+          "time": "10월 20일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/fight-night-champion/275050/fight-night-eas-beloved-but-long-dormant-boxing-sim-franchise-is-coming-back"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "MS, 엑스박스 게임패스 개편 검토… 선택형 요금 도입설",
+          "source": "IGN India",
+          "time": "10월 20일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/xbox-game-pass/275042/xbox-game-pass-reportedly-getting-major-overhaul-will-feature-a-la-carte-options"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'라이프 이즈 스트레인지' 돈노드, 재정난에 기업보호 신청",
+          "source": "PC Gamer",
+          "time": "10월 20일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/gaming-industry/the-studio-behind-life-is-strange-jusant-and-lost-records-bloom-and-rage-is-desperately-struggling-to-stay-afloat/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "돈노드의 위기, 무너지는 게임 생태계의 '허리'",
+      "intro": "탄탄한 스토리로 세계적인 찬사를 받던 명작 개발사조차 생존을 위협받고 있습니다.\n과연 게임 시장의 중간 지대는 이대로 소멸하고 마는 것일까요?",
+      "points": "'라이프 이즈 스트레인지'로 내러티브 명가 반열에 올랐던 돈노드(Don't Nod)가 심각한 재정난으로 기업보호 절차를 신청했습니다. 신작들의 잇단 흥행 부진과 제작비 급증이 맞물리며, 독자적인 영역을 구축해 온 대표적 중견 스튜디오마저 벼랑 끝으로 내몰렸습니다. 📉\n\n이번 사태는 AAA 대작과 초소형 인디 사이에 위치한 '미들급(AA) 게임'의 구조적 위기를 명확히 보여줍니다. 최근 게이머들의 소비 성향은 수백 시간을 쏟아붓는 대형 라이브 서비스 게임이나, 가성비가 뛰어난 파격적 인디 게임으로 양극화되었습니다. 이로 인해 완성도 높은 스토리 중심 패키지를 제값에 소비하던 전통적인 **게임 소비 구조**가 빠르게 해체되고 있습니다. 🧩\n\n구독형 서비스의 확산과 잦은 할인 이벤트 역시 중견 게임의 입지를 좁혔습니다. 유저들은 짧은 플레이 타임의 단발성 패키지를 정가에 구매하기보다 '구독제 등록이나 세일을 기다리는 심리'를 굳히고 있습니다. 결국 미들급 스튜디오는 **'압도적인 리플레이 가치(Replayability)'를 입증하지 못하면 시장에서 버틸 수 없는 가혹한 생존 시험대**에 섰습니다. 💡\n\n게임 산업의 다양성과 혁신을 견인하던 허리 라인이 붕괴된다면, 우리는 머지않아 천편일률적인 초대형 라이브 서비스만을 마주하게 될지도 모릅니다. 창의적인 중형 게임들이 지속 가능한 생태계를 유지하려면 과연 어떤 새로운 비즈니스 모델이 필요할까요? 🎮"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": true,
+      "title": "[OST] Final Fantasy Resonance - Battle Theme",
+      "channel": "Ton Oficial",
+      "videoId": "02tZAMinwnU",
+      "url": "https://www.youtube.com/watch?v=02tZAMinwnU",
+      "thumbnail": "https://i.ytimg.com/vi/02tZAMinwnU/hqdefault.jpg",
+      "comment": "최근 게이머들 사이에서 뜨겁게 재조명된 ‘파이널 판타지 레조넌스’의 웅장한 전투 테마를 준비했어요! ⚔️ 박진감 넘치는 선율이 심장을 두근거리게 하네요. 지치기 쉬운 수요일, 오늘 하루를 마무리하며 짜릿한 모험의 에너지를 가득 채워보세요! 🎧✨",
+      "search_query": "Final Fantasy Resonance Official Soundtrack",
+      "ai_game_name": "파이널 판타지 레조넌스",
+      "ai_reason": "이전의 차분한 오리엔탈 앰비언트와 대비되는 파이널 판타지 특유의 웅장한 풀 오케스트라 사운드와 HD-2D 감성을 담은 테마곡이 음악적 몰입감을 극대화하기 때문입니다."
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Escape from Playtime",
+        "releases.0.note": "A horror adventure game officially launching on Steam on October 21, where players must solve puzzles and escape living monsters pursuing them inside an abandoned toy factory.",
+        "releases.0.dev": "Mob Entertainment",
+        "releases.1.game": "Lineage Classic",
+        "releases.1.note": "Releases the new 'Pirate Island' hunting ground update on October 21, introducing major combat balance changes including revamps to dagger weapons and attack speed mechanics.",
+        "releases.1.dev": "NCSOFT",
+        "releases.2.game": "Call of Duty: Modern Warfare 4",
+        "releases.2.note": "A major military FPS title releasing on October 22, featuring a new story campaign alongside diverse combat content such as an evolved DMZ extraction mode.",
+        "releases.2.dev": "Activision / Infinity Ward",
+        "releases.3.game": "The Dead We Knew: Open World Survival",
+        "releases.3.note": "A new open-world survival game releasing on Steam on October 22, where players must survive in a zombie-infested post-apocalyptic world through resource gathering and base building.",
+        "releases.3.dev": "Nightshift Studios",
+        "releases.4.game": "Final Fantasy Resonance",
+        "releases.4.note": "A new turn-based RPG releasing on October 23, remaking the Brave Exvius Season 1 story by incorporating HD-2D graphics for the first time in the Final Fantasy series.",
+        "releases.4.dev": "Square Enix",
+        "releases.5.game": "Warrior Cats: Clans of the Forest",
+        "releases.5.note": "An adventure RPG releasing on October 23, depicting the adventure of joining a wild cat clan in the original novel universe to explore the forest and expand territory.",
+        "releases.5.dev": "Coolabi Games",
+        "events.0.name": "Pokémon Card Game 2027 Korean League Season 1",
+        "events.0.note": "Pokémon World Championships 2027 National Qualifier",
+        "events.0.venue": "COEX Magok Convention Center",
+        "events.1.name": "gamescom asia x Thailand Game Show 2026",
+        "events.1.note": "Global game exhibition featuring 3 new titles from Toei Games and more",
+        "events.1.venue": "Bangkok, Thailand"
+      },
+      "briefing": {
+        "items.0.title": "MCST Announces Details on Support Plan of Up to 6 Billion KRW to Foster Large-Scale Games",
+        "items.0.source": "Gamemeca",
+        "items.0.time": "October 20",
+        "items.1.title": "Capcom Confirms Attendance at G-STAR 2026… Showcasing New Mega Man Title and More",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "October 20",
+        "items.2.title": "New Mobile Game 'Haikyu!! All Challengers' Opens Pre-Registration",
+        "items.2.source": "Famitsu",
+        "items.2.time": "October 20",
+        "items.3.title": "Classic Simulation Game 'Tropico 7' Set to Release on January 28 Next Year",
+        "items.3.source": "4Gamer",
+        "items.3.time": "October 20",
+        "items.4.title": "EA Teases Official Revival of Legendary Boxing Franchise 'Fight Night'",
+        "items.4.source": "IGN India",
+        "items.4.time": "October 20",
+        "items.5.title": "Microsoft Considers Xbox Game Pass Revamp… Rumors of Customizable Tiers Emerge",
+        "items.5.source": "IGN India",
+        "items.5.time": "October 20",
+        "items.6.title": "'Life is Strange' Developer Don't Nod Files for Insolvency Protection Amid Financial Crisis",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "October 20"
+      },
+      "drk": {
+        "title": "Don't Nod in Crisis: The Collapsing 'Backbone' of the Gaming Ecosystem",
+        "intro": "Even renowned developers globally praised for exceptional storytelling are now facing existential threats.\nIs the middle ground of the gaming market truly doomed to disappear?",
+        "points": "Don't Nod, which established itself as a narrative powerhouse with 'Life is Strange', has filed for insolvency proceedings due to severe financial distress. With a string of underperforming new releases coupled with skyrocketing development costs, even this prominent mid-tier studio with a distinct identity has been driven to the brink. 📉\n\nThis crisis clearly highlights the structural vulnerability of 'mid-tier (AA) games' situated between AAA blockbusters and micro indies. Recently, consumer behavior among gamers has polarized toward either mega live-service games requiring hundreds of hours of playtime or highly cost-effective, unconventional indie titles. As a result, the traditional **gaming consumption structure**—where players bought polished, story-driven packaged games at full price—is rapidly unraveling. 🧩\n\nThe widespread adoption of subscription services and frequent discount events have further eroded the footing of mid-tier titles. Rather than purchasing short standalone packaged games at full price, players increasingly hold the mindset of 'waiting for subscription additions or sales.' Ultimately, mid-tier studios have been put to a **harsh survival test where staying afloat is impossible without proving 'overwhelming replayability.'** 💡\n\nIf the industry's backbone that drives diversity and innovation crumbles, we may soon be left with nothing but cookie-cutter, mega-scale live-service games. What new business models are needed for creative mid-tier games to sustain a viable ecosystem? 🎮"
+      },
+      "soundtrack": {
+        "title": "[OST] Final Fantasy Resonance - Battle Theme",
+        "comment": "We've prepared the magnificent battle theme from 'Final Fantasy Resonance', which has recently been receiving passionate attention from gamers! ⚔️ The thrilling melody gets your heart racing. As you wrap up this tiring Wednesday, recharge yourself with the thrilling energy of adventure! 🎧✨"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "エスケープ・フロム・プレイタイム",
+        "releases.0.note": "10月21日にSteamで正式リリースされるホラーアドベンチャーゲーム。放棄されたおもちゃ工場の中でパズルを解きながら、命を宿した怪物たちの追跡から逃れなければなりません。",
+        "releases.0.dev": "Mob Entertainment",
+        "releases.1.game": "リネージュ クラシック",
+        "releases.1.note": "10月21日に新規狩り場「海賊島」のアップデートを実施し、短剣類武器や攻撃速度メカニクスの改編など、大幅な戦闘バランスの変更を導入します。",
+        "releases.1.dev": "NCSOFT",
+        "releases.2.game": "コール オブ デューティ: モダン・ウォーフェア4",
+        "releases.2.note": "10月22日に発売されるミリタリーFPSの大作。新たなストーリーキャンペーンとともに、進化したDMZエクストラクションモードなど多彩な戦闘コンテンツを提供します。",
+        "releases.2.dev": "アクティビジョン / インフィニティ・ウォード",
+        "releases.3.game": "The Dead We Knew: Open World Survival",
+        "releases.3.note": "10月22日にSteamでリリースされるオープンワールドサバイバルの新作。ゾンビがはびこる終末世界で、資源採集や拠点建築を通じて生き残りを図るゲームです。",
+        "releases.3.dev": "Nightshift Studios",
+        "releases.4.game": "ファイナルファンタジー レゾナンス",
+        "releases.4.note": "10月23日に発売されるターン制RPGの新作。「ファイナルファンタジー」シリーズ初となるHD-2Dグラフィックを取り入れ、『ブレイブエクスヴィアス』シーズン1のストーリーを新たにリメイクしました。",
+        "releases.4.dev": "スクウェア・エニックス",
+        "releases.5.game": "ウォーリアーズ：クランズ・オブ・ザ・フォレスト",
+        "releases.5.note": "10月23日に発売されるアドベンチャーRPG。原作小説の世界観のもと、野生猫のクランの一員となって森を探索し、縄張りを拡大していく冒険を描きます。",
+        "releases.5.dev": "Coolabi Games",
+        "events.0.name": "ポケモンカードゲーム 2027 コリアンリーグ シーズン1",
+        "events.0.note": "ポケモンワールドチャンピオンシップス2027 代表選考会",
+        "events.0.venue": "COEXマグク コンベンションセンター",
+        "events.1.name": "gamescom asia x Thailand Game Show 2026",
+        "events.1.note": "東映ゲームズの新作3種など、グローバルゲームを展示",
+        "events.1.venue": "タイ・バンコク"
+      },
+      "briefing": {
+        "items.0.title": "韓国文化体育観光部、最大60億ウォン支援の大型ゲーム育成詳細案を発表",
+        "items.0.source": "ゲームメカ",
+        "items.0.time": "10月20日",
+        "items.1.title": "カプコン、「G-STAR 2026」参加決定…『ロックマン』新作などを出展",
+        "items.1.source": "ゲームメカ",
+        "items.1.time": "10月20日",
+        "items.2.title": "新作モバイルゲーム『ハイキュー!! ALL CHALLENGERS』、事前登録を開始",
+        "items.2.source": "Famitsu",
+        "items.2.time": "10月20日",
+        "items.3.title": "名作シミュレーション『トロピコ7』、来年1月28日に発売",
+        "items.3.source": "4Gamer",
+        "items.3.time": "10月20日",
+        "items.4.title": "EA、伝説のボクシングゲーム『ファイトナイト』の公式復活を予告",
+        "items.4.source": "IGN India",
+        "items.4.time": "10月20日",
+        "items.5.title": "マイクロソフト、Xbox Game Passの改編を検討か…選択型料金プラン導入の噂",
+        "items.5.source": "IGN India",
+        "items.5.time": "10月20日",
+        "items.6.title": "『ライフ イズ ストレンジ』のDON'T NOD、財政難で会社更生手続きを申請",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "10月20日"
+      },
+      "drk": {
+        "title": "DON'T NODの危機、崩壊するゲームエコシステムの「屋台骨」",
+        "intro": "重厚なストーリーで世界的な称賛を浴びていた名門スタジオすら、生存を脅かされています。\n果たしてゲーム市場の中間層は、このまま消滅してしまうのでしょうか？",
+        "points": "『ライフ イズ ストレンジ』によってナラティブの名家として地位を確立したDON'T NODが、深刻な財政難により法的保護（会社更生）手続きを申請しました。新作の相次ぐ興行不振と制作費の高騰が重なり、独自の領域を築き上げてきた代表的な中堅スタジオまでもが崖っぷちに追い詰められました。📉\n\n今回の事態は、AAA大作と超小型インディーの間に位置する「ミドルクラス（AA）ゲーム」の構造的危機を明確に示しています。近年のゲーマーの消費傾向は、数百時間を費やす大型ライブサービスゲームか、コストパフォーマンスに優れた個性的なインディーゲームへと二極化しました。これにより、完成度の高いストーリー重視のパッケージを定価で購入していた従来の**ゲーム消費構造**が急速に解体されつつあります。🧩\n\nサブスクリプションサービスの普及や頻繁なセールイベントも、中堅ゲームの立ち位置を狭めました。ユーザーはプレイ時間の短い単発パッケージを定価で購入するより、「サブスク入りやセールを待つ心理」を強めています。結局、ミドルクラススタジオは**「圧倒的なリプレイ価値（Replayability）」を証明できなければ市場で生き残れないという過酷な試練**に立たされています。💡\n\nゲーム産業の多様性と革新を牽引してきた「屋台骨」が崩壊すれば、近い将来、私たちは金太郎飴のように画一的な超大型ライブサービスばかりを目にすることになるかもしれません。独創的な中規模ゲームが持続可能なエコシステムを維持するためには、果たしてどのような新しいビジネスモデルが必要なのでしょうか？🎮"
+      },
+      "soundtrack": {
+        "title": "[OST] Final Fantasy Resonance - Battle Theme",
+        "comment": "最近ゲーマーの間で熱い注目を集めている『ファイナルファンタジー レゾナンス』の壮大なバトルテーマをご用意しました！⚔️ 迫力あふれる旋律に胸が高鳴りますね。疲れが出やすい水曜日、今日一日の締めくくりにスリリングな冒険のエネルギーをたっぷりチャージしてください！🎧✨"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "돈노드의 위기, 무너지는 게임계의 '허리' 📉 (feat. 전율의 파판 배틀 OST 🎧)",
+    "en": "Don't Nod in Crisis: The Collapse of AA Gaming? 📉 (feat. Epic Final Fantasy OST 🎧)",
+    "ja": "DON'T NODの危機、崩壊するゲーム界の「中堅層」📉 (feat. 魂震えるFFバトルOST 🎧)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": false,
+          "text": "지스타에 록맨 신작이 뜬다는 소식 들으셨나요? 🤩\n파판 신작 출시부터 흔들리는 게임계 이야기까지 싹 정리했어요! 🎮\n\nhttps://www.gtplayer.net/edition-151/\n#록맨 #파이널판타지 #GTPlayer",
+          "error": "Posting failed or blocked"
+        }
+      },
+      "updated_at": "2026-10-21T07:02:21.143292"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "10월 21일 오늘의 게임 소식 🎮\n📰 [뉴스] 문체부 대형 게임 최대 60억 지원안 발표, 캡콤 지스타 참가 확정 및 록맨 출품, 트로피코 7 출시 발표\n📅 [출시] 콜 오브 듀티: 모던 워페어 4, 파이널 판타지 레조넌스, 리니지 클래식 등 대작 출시\n✍️ [인사이트] 돈노드의 위기, 무너지는 게임 생태계의 허리와 사라져가는 미드티어 게임사의 미래\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #신작게임 #게임추천 #게임정보 #게임스타그램 #겜스타그램 #콘솔게임 #PC게임 #모바일게임 #캡콤 #록맨 #콜오브듀티 #파이널판타지 #리니지 #트로피코 #하이큐 #돈노드 #게임인사이트 #게임트렌드 #GTPlayer",
+          "image_paths": [
+            "web\\instagram\\edition_151\\card_cover.png",
+            "web\\instagram\\edition_151\\card_news.png",
+            "web\\instagram\\edition_151\\card_calendar.png",
+            "web\\instagram\\edition_151\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "4012386520224948730_39332818166",
+            "url": "https://www.instagram.com/p/Deu3EgXkuH6/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-10-21T07:02:52.029645"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Don't Nod in Crisis: The Collapse of AA Gaming? 📉 (feat. Epic Final Fantasy OST 🎧)\n\nEA is teasing the return of Fight Night while massive franchises like Modern Warfare 4 take center stage.\nYet beneath the biggest headlines, beloved mid-tier studios are fighting for survival in an unforgiving market.\n\nhttps://www.gtplayer.net/edition-151-en/",
+        "error": null
+      },
+      "updated_at": "2026-10-21T07:03:40.464165"
+    }
+  }
+}

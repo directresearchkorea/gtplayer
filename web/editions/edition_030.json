@@ -1,0 +1,424 @@
+{
+  "num": "030",
+  "date": "2026-04-14",
+  "status": "published",
+  "schedule": {
+    "date": "2026-04-14",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "update",
+          "game": "명일방주",
+          "dev": "하이퍼그리프",
+          "date": "4월 14일(화)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "4월 14일 오후 4시부터 신규 이벤트 '성산강림 1101'이 개최되며, 한정 6성 오퍼레이터인 '린어 실버애쉬'를 포함한 신규 캐릭터들이 추가됩니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/442/G044288/20260408045/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "event",
+          "game": "승리의 여신: 니케",
+          "dev": "시프트업",
+          "date": "4월 14일(화)",
+          "platforms": [
+            "PC",
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "4월 8일부터 진행된 '제4회 글로벌 인기 투표'가 4월 14일에 종료되며, 지휘관들의 투표로 선정된 인기 니케에게는 특별 코스튬 제작 등의 혜택이 제공됩니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/456/G045622/20260409009/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "event",
+          "game": "SD건담 G제네레이션 이터널",
+          "dev": "반다이 남코",
+          "date": "4월 16일(목)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "4월 16일부터 '대규모 공략전 Vol.2' 이벤트가 시작되며, 보상으로 SSR 등급의 록온 스트라토스와 건담 듀나메스 등을 획득할 수 있습니다.",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202604/71360",
+          "source_name": "Famitsu"
+        }
+      ],
+      "events": [
+        {
+          "name": "Women in Gaming UK",
+          "note": "IGN Entertainment와 Dentsu Gaming이 공동 주최하는 여성 게임 업계 종사자들을 위한 네트워킹 및 컨퍼런스 행사",
+          "venue": "오프라인 (영국)",
+          "date": "2026-04-17",
+          "tag": "오프라인 행사",
+          "website": "https://www.gamesindustry.biz/ign-entertainment-and-dentsu-gaming-announce-women-in-gaming-uk-event"
+        },
+        {
+          "name": "e스포츠 네이션스 컵 2026 (eSports Nations Cup 2026)",
+          "note": "LoL, 발로란트 등 16개 종목 확정 및 총 상금 4,500만 달러 규모의 대규모 국가 대항전 일정 확정",
+          "venue": "오프라인 (사우디 리야드)",
+          "date": "2026-11-02 ~ 2026-11-29",
+          "tag": "e스포츠",
+          "website": "https://www.inven.co.kr/webzine/news/?news=315244"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'일곱 개의 대죄: Origin' PS 스토어 1위 달성",
+          "source": "인벤",
+          "time": "4월 9일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315245"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'e스포츠 네이션스 컵 2026' 공식 종목 확정",
+          "source": "인벤",
+          "time": "4월 9일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315244"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "슈팅 게임 '타츠진 익스트림' 7월 30일 출시",
+          "source": "Famitsu",
+          "time": "4월 9일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202604/71356"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "2026년 3월 일본 게임 시장 판매량 순위 발표",
+          "source": "Famitsu",
+          "time": "4월 9일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202604/71354"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'포르자 호라이즌 6' 전체 일본 맵 공개",
+          "source": "IGN India",
+          "time": "4월 9일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/pokemon-champions/257844/video/forza-horizon-6s-full-japan-map-revealed-ign-daily-fix"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'인빈시블 VS' 오픈 베타 트레일러 공개",
+          "source": "IGN India",
+          "time": "4월 9일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/invincible-vs/257822/video/invincible-vs-official-open-beta-trailer"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "테이크투 인터랙티브 AI 개발팀 전원 해고",
+          "source": "GamesIndustry.biz",
+          "time": "4월 9일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/take-two-interactive-reportedly-lays-off-ai-team"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "헤이즐라이트 스튜디오 누적 판매 5천만 돌파",
+          "source": "GamesIndustry.biz",
+          "time": "4월 9일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/it-takes-two-split-fiction-studio-tops-50-million-sales-news-in-brief"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": [],
+      "items": [
+        {
+          "game": "AION2",
+          "period": "최근 30일",
+          "count": "5,904",
+          "sources": "커뮤니티",
+          "score": "2.7",
+          "pos": 6,
+          "neu": 72,
+          "neg": 22,
+          "keywords": [
+            {
+              "text": "Class Mention",
+              "positive": true
+            },
+            {
+              "text": "Dungeon / Raid Discussion",
+              "positive": true
+            },
+            {
+              "text": "DPS Comparison",
+              "positive": true
+            },
+            {
+              "text": "Buff/Nerf Debate",
+              "positive": true
+            },
+            {
+              "text": "Build Meta",
+              "positive": true
+            }
+          ],
+          "comments": [
+            {
+              "text": "각인 키나랑 자동 추출 기능이 추가되어서 편의성은 좋아진 것 같아요.",
+              "positive": true
+            },
+            {
+              "text": "특정 장비의 과한 성능이랑 직업 간 밸런스 문제가 너무 심각해요.",
+              "positive": false
+            },
+            {
+              "text": "핵심 아이템 획득 확률을 몰래 낮추는 운영 방식은 정말 실망스러워요.",
+              "positive": false
+            }
+          ]
+        }
+      ]
+    },
+    "drk": {
+      "enabled": true,
+      "title": "AI 환상의 종말과 본질적 창의성의 회귀",
+      "intro": "인공지능이 게임 개발의 모든 문제를 해결해 줄 것이라는 장밋빛 환상이 무너지고 있습니다.\n테이크투의 AI 팀 해고와 헤이즐라이트의 5천만 장 판매 신화가 시사하는 산업의 진짜 생존 전략은 무엇일까요?",
+      "points": "테이크투 인터랙티브가 AI 개발팀 전원을 해고하는 결단을 내린 반면, 독창적인 협동 게임을 선보여온 헤이즐라이트 스튜디오는 누적 판매량 5,000만 장을 돌파했습니다. 이는 대형 자본의 기술 효율화 시도와 인간의 창의성이 집약된 콘텐츠가 시장에서 극명한 대비를 이루는 상징적인 지점입니다. 📉\n\n소비자들은 더 이상 기술적 진보 그 자체에 열광하지 않으며, 게임 내에서 느끼는 정서적 유대와 독창적인 플레이 경험에 더 민감하게 반응하고 있습니다. AI를 통한 비용 절감이 실제 게임의 재미나 소비자 심리적 만족도로 직결되지 않는다는 사실이 확인되면서, 산업의 중심은 다시금 인적 자산의 창의성을 확보하는 방향으로 선회할 가능성이 큽니다. 🧠\n\n**게임 산업의 본질은 기술적 효율화가 아닌, 대체 불가능한 인간의 감각과 감성을 설계하는 영역입니다.** AI는 제작 공정의 효율을 돕는 보조 도구일 뿐, 게임 소비 구조의 핵심인 '감동'과 '몰입'을 만들어내는 주체가 될 수 없음을 이번 사례들이 명확히 보여주고 있습니다. ✨\n\n기술이 지배하는 듯 보였던 시장에서 결국 승리하는 것은 인간의 상상력에서 탄생한 이야기입니다. 과연 AI가 만든 수만 개의 퀘스트가 사람이 설계한 단 하나의 진심 어린 엔딩을 넘어설 수 있을까요? 🕹️"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "대항해시대 오리진",
+      "title": "통합된 대양의 시대, 위대한 항로의 서막",
+      "imgUrl": "",
+      "comment": "서버 통합으로 북적이는 항구와 선박 각인 시스템이 적용된 함대가 신규 모험지를 향해 나아가는 생생한 인게임 모습을 상상해 보라고 지시했습니다.",
+      "ai_prompt": "Actual in-game screenshot, exact original game engine rendering, completely identical to original art style, NO cinematic styling, NO illustration. A busy harbor view showing many player ships gathered after a server merger. Centered on a majestic 16th-century galleon featuring intricate luminous 'ship engraving' patterns on its wooden hull. The fleet is departing towards a newly discovered exotic coastline with lush tropical vegetation and mysterious ruins. High-quality 3D cel-shaded rendering, vibrant turquoise ocean colors, and the specific maritime UI-less gameplay perspective of Uncharted Waters Origin."
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=030&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=030&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Arknights",
+        "releases.0.note": "Starting April 14th at 4:00 PM, the new event 'Mount Huageng 1101' will be held, featuring new characters including the limited 6-star operators 'Lin' and 'SilverAsh'.",
+        "releases.0.dev": "Hypergryph",
+        "releases.1.game": "GODDESS OF VICTORY: NIKKE",
+        "releases.1.note": "The '4th Global Popularity Poll' which began on April 8th will conclude on April 14th. The popular Nikke selected by commanders' votes will receive benefits such as the production of special costumes.",
+        "releases.1.dev": "Shift Up",
+        "releases.2.game": "SD Gundam G Generation Eternal",
+        "releases.2.note": "The 'Large-Scale Raid Vol. 2' event begins on April 16th, offering rewards such as SSR-grade Lockon Stratos and Gundam Dynames.",
+        "releases.2.dev": "Bandai Namco",
+        "events.0.name": "Women in Gaming UK",
+        "events.0.note": "A networking and conference event for women in the gaming industry, co-hosted by IGN Entertainment and Dentsu Gaming.",
+        "events.0.venue": "Offline (UK)",
+        "events.1.name": "eSports Nations Cup 2026",
+        "events.1.note": "The schedule for a large-scale international competition with 16 confirmed titles including LoL and Valorant, and a total prize pool of $45 million, has been finalized.",
+        "events.1.venue": "Offline (Riyadh, Saudi Arabia)"
+      },
+      "briefing": {
+        "items.0.title": "'The Seven Deadly Sins: Origin' reaches #1 on PS Store",
+        "items.0.source": "Inven",
+        "items.0.time": "April 9",
+        "items.1.title": "Official titles confirmed for 'eSports Nations Cup 2026'",
+        "items.1.source": "Inven",
+        "items.1.time": "April 9",
+        "items.2.title": "Shooting game 'TATSUJIN Extreme' to be released on July 30",
+        "items.2.source": "Famitsu",
+        "items.2.time": "April 9",
+        "items.3.title": "March 2026 Japan game market sales rankings announced",
+        "items.3.source": "Famitsu",
+        "items.3.time": "April 9",
+        "items.4.title": "'Forza Horizon 6' full Japan map revealed",
+        "items.4.source": "IGN India",
+        "items.4.time": "April 9",
+        "items.5.title": "'Invincible VS' Open Beta trailer released",
+        "items.5.source": "IGN India",
+        "items.5.time": "April 9",
+        "items.6.title": "Take-Two Interactive lays off entire AI development team",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "April 9",
+        "items.7.title": "Hazelight Studios surpasses 50 million cumulative sales",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "April 9"
+      },
+      "feedback": {
+        "items.0.game": "AION2",
+        "items.0.period": "Last 30 days",
+        "items.0.keywords.0.text": "Class Mention",
+        "items.0.keywords.1.text": "Dungeon / Raid Discussion",
+        "items.0.keywords.2.text": "DPS Comparison",
+        "items.0.keywords.3.text": "Buff/Nerf Debate",
+        "items.0.keywords.4.text": "Build Meta",
+        "items.0.comments.0.text": "Convenience seems to have improved with the addition of the Engraved Kinah and auto-extraction features.",
+        "items.0.comments.1.text": "The overpowered performance of certain equipment and class balance issues are very serious.",
+        "items.0.comments.2.text": "It is disappointing to see the management secretly lowering the drop rates for core items."
+      },
+      "drk": {
+        "title": "The End of AI Illusions and the Return of Essential Creativity",
+        "intro": "The rosy illusion that AI will solve all game development problems is collapsing. What is the industry's real survival strategy suggested by Take-Two's AI team layoffs and Hazelight's 50-million-copy sales myth?",
+        "points": "While Take-Two Interactive made the decision to lay off its entire AI development team, Hazelight Studios, which has consistently introduced original cooperative games, has surpassed 50 million cumulative sales. This marks a symbolic point where the technical efficiency efforts of major capital and content driven by human creativity stand in sharp contrast in the market. 📉\n\nConsumers are no longer merely enthusiastic about technological progress itself; they are responding more sensitively to the emotional bonds and original play experiences they encounter within a game. As it becomes clear that cost reduction through AI does not directly translate into actual gameplay fun or psychological satisfaction for consumers, the industry's focus is likely to pivot back toward securing human creative assets. 🧠\n\n**The essence of the gaming industry lies not in technical efficiency, but in the realm of designing irreplaceable human senses and emotions.** These cases clearly demonstrate that AI is merely an auxiliary tool to aid production efficiency and cannot be the primary creator of 'emotion' and 'immersion,' which are the core of game consumption. ✨\n\nIn a market that once seemed dominated by technology, the ultimate winner is the story born from human imagination. Can tens of thousands of AI-generated quests ever truly surpass a single, heartfelt ending designed by a human? 🕹️"
+      },
+      "gamescene": {
+        "game": "Uncharted Waters Origin",
+        "title": "The Age of Unified Oceans, the Prelude to the Grand Line",
+        "comment": "Imagine a vivid in-game scene of bustling ports following server integration, with a fleet featuring the ship engraving system sailing toward a new adventure site."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "アークナイツ",
+        "releases.0.note": "4月14日午後4時から新規イベント「聖山降臨 1101」が開催され、限定★6オペレーターの「リン」や「シルバーアッシュ」を含む新キャラクターが追加されます。",
+        "releases.0.dev": "Hypergryph",
+        "releases.1.game": "勝利の女神：NIKKE",
+        "releases.1.note": "4月8日から実施されている「第4回グローバル人気投票」が4月14日に終了し、指揮官の投票で選ばれた人気ニケには特別コスチュームの制作などの特典が提供されます。",
+        "releases.1.dev": "SHIFT UP",
+        "releases.2.game": "SDガンダム ジージェネレーション エターナル",
+        "releases.2.note": "4月16日から「大規模攻略戦 Vol.2」イベントが開始され、報酬としてSSR等級のロックオン・ストラトスやガンダムデュナメスなどを獲得できます。",
+        "releases.2.dev": "バンダイナムコ",
+        "events.0.name": "Women in Gaming UK",
+        "events.0.note": "IGN EntertainmentとDentsu Gamingが共同主催する、女性のゲーム業界関係者のためのネットワーキングおよびカンファレンスイベント",
+        "events.0.venue": "オフライン（イギリス）",
+        "events.1.name": "eスポーツ・ネーションズカップ 2026 (eSports Nations Cup 2026)",
+        "events.1.note": "LoL、VALORANTなど16種目が確定し、賞金総額4,500万ドル規模の大規模な国別対抗戦の日程が確定",
+        "events.1.venue": "オフライン（サウジアラビア・リヤド）"
+      },
+      "briefing": {
+        "items.0.title": "『七つの大罪 Origin』PSストアで1位を達成",
+        "items.0.source": "Inven",
+        "items.0.time": "4月9日",
+        "items.1.title": "「eスポーツ・ネーションズカップ 2026」公式種目が確定",
+        "items.1.source": "Inven",
+        "items.1.time": "4月9日",
+        "items.2.title": "シューティングゲーム『TATSUJIN EXTREME』7月30日発売",
+        "items.2.source": "ファミ通",
+        "items.2.time": "4月9日",
+        "items.3.title": "2026年3月の日本ゲーム市場販売ランキング発表",
+        "items.3.source": "ファミ通",
+        "items.3.time": "4月9日",
+        "items.4.title": "『Forza Horizon 6』日本全体のマップ公開",
+        "items.4.source": "IGN India",
+        "items.4.time": "4月9日",
+        "items.5.title": "『Invincible VS』オープンベータトレーラー公開",
+        "items.5.source": "IGN India",
+        "items.5.time": "4月9日",
+        "items.6.title": "テイクツー・インタラクティブ、AI開発チーム全員を解雇",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "4月9日",
+        "items.7.title": "Hazelight Studios、累計販売数5,000万本を突破",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "4月9日"
+      },
+      "feedback": {
+        "items.0.game": "AION2",
+        "items.0.period": "直近30日間",
+        "items.0.keywords.0.text": "クラスへの言及",
+        "items.0.keywords.1.text": "ダンジョン／レイドの議論",
+        "items.0.keywords.2.text": "DPS比較",
+        "items.0.keywords.3.text": "バフ・ナーフ論争",
+        "items.0.keywords.4.text": "ビルドメタ",
+        "items.0.comments.0.text": "刻印キナや自動抽出機能が追加され、利便性は向上したと思います。",
+        "items.0.comments.1.text": "特定装備の過剰な性能や職業間のバランス問題が非常に深刻です。",
+        "items.0.comments.2.text": "主要アイテムの獲得確率をこっそり下げるような運営方法には本当に失望しました。"
+      },
+      "drk": {
+        "title": "AI幻想の終焉と本質的な創造性への回帰",
+        "intro": "人工知能がゲーム開発のあらゆる問題を解決してくれるというバラ色の幻想が崩れつつあります。テイクツーのAIチーム解雇とヘイズライトの5,000万本販売の神話が示唆する、業界の真の生存戦略とは何でしょうか。",
+        "points": "テイクツー・インタラクティブがAI開発チーム全員を解雇する決断を下した一方で、独創的な協力プレイゲームを提供してきたヘイズライト・スタジオは累計販売本数5,000万本を突破しました。これは、大手資本による技術効率化の試みと、人間の創造性が集約されたコンテンツが市場で鮮明な対比をなしている象徴的な出来事です。📉\n\n消費者はもはや技術的進歩そのものに熱狂することはなく、ゲーム内で感じる情緒的な繋がりや独創的なプレイ体験により敏感に反応しています。AIによるコスト削減が実際のゲームの面白さや消費者の心理的満足度に直結しないことが確認されたことで、業界の中心は再び人的資産の創造性を確保する方向へと回帰する可能性が高いです。🧠\n\n**ゲーム産業の本質は技術的な効率化ではなく、代替不可能な人間の感覚と感性を設計する領域です。** AIは制作工程の効率を助ける補助ツールに過ぎず、ゲーム消費構造の核心である「感動」と「没入」を生み出す主体にはなれないことを、今回の事例が明確に示しています。✨\n\n技術が支配しているように見えた市場で、結局勝利するのは人間の想像力から生まれた物語です。果たしてAIが作った数万個のクエストが、人が設計したたった一つの真心を込めたエンディングを超えることができるでしょうか？🕹️"
+      },
+      "gamescene": {
+        "game": "大航海時代 Origin",
+        "title": "統合された大洋の時代、大いなる航路の幕開け",
+        "comment": "サーバー統合で賑わう港と、船舶刻印システムが適用された艦隊が新規冒険地へと向かう、生き生きとしたインゲームの様子を想像するように指示しました。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "AI 환상은 끝났다? 📉 게임업계에 불어오는 '진짜' 창의성의 바람 (feat. 이주의 화제작) 🎨",
+    "en": "The AI Bubble Just Burst 📉: Why Real Creativity is Making a Comeback! (feat. This Week's Must-Watch) 🎮",
+    "ja": "AIの幻想はもう終わり？📉 呼び覚まされる『本質』の創造力と今週の注目トレイラー 🎬"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ]
+}

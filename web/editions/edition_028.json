@@ -1,0 +1,487 @@
+{
+  "num": "028",
+  "date": "2026-04-09",
+  "status": "published",
+  "schedule": {
+    "date": "2026-04-09",
+    "time": "17:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "드래곤네스트 월드",
+          "dev": "아이덴티티게임즈",
+          "date": "4월 9일(목)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "원작 IP의 타격감을 모바일로 재구성한 MORPG로, 4월 9일 정식 서비스를 시작하며 런칭 기념 이벤트를 통해 풍성한 보상을 제공합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315243",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "모비드 메탈",
+          "dev": "스크린바운드 엔터테인먼트",
+          "date": "4월 9일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "실시간 캐릭터 교체가 특징인 스타일리시한 핵 앤 슬래시 하이텐션 액션 게임이 4월 9일 정식 출시되었습니다.",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202604/71363",
+          "source_name": "Famitsu"
+        },
+        {
+          "category": "release",
+          "game": "FAITH: 언홀리 트리니티",
+          "dev": "에어도르프 게임즈",
+          "date": "4월 9일(목)",
+          "platforms": [
+            "PS5"
+          ],
+          "color": "#10b981",
+          "note": "8비트 스타일의 그래픽으로 독특한 공포를 선사하는 악마祓이 호러 어드벤처 게임의 PS5 버전이 4월 9일 정식 배포되었습니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/997/G099733/20260409010/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "event",
+          "game": "인빈시블 VS",
+          "dev": "스카이바운드 게임즈",
+          "date": "4월 9일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#f59e0b",
+          "note": "인기 애니메이션 '인빈시블' IP 기반의 3대3 대전 액션 게임으로, 4월 9일부터 오픈 베타 테스트를 시작하며 트레일러를 공개했습니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/invincible-vs/257822/video/invincible-vs-official-open-beta-trailer",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "update",
+          "game": "노 맨즈 스카이",
+          "dev": "헬로 게임즈",
+          "date": "4월 9일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S",
+            "Switch"
+          ],
+          "color": "#3b82f6",
+          "note": "포켓몬 스타일의 생물 수집 및 배틀 시스템을 도입하여 멀티플레이 경험을 확장하는 대규모 콘텐츠 업데이트가 4월 9일 적용되었습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/sim/no-mans-skys-latest-update-is-an-entire-new-pokemon-style-creature-collection-and-battle-system-thats-an-entire-multiplayer-game-all-of-its-own/",
+          "source_name": "PC Gamer"
+        },
+        {
+          "category": "update",
+          "game": "승리의 여신: 니케",
+          "dev": "시프트업",
+          "date": "4월 9일(목)",
+          "platforms": [
+            "Mobile",
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "신규 니케 '시라츠루'가 등장하는 최신 버전 'GOOD WORLD'가 4월 9일 업데이트되었으며, 새로운 이벤트 스토리도 함께 공개되었습니다.",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202604/71337",
+          "source_name": "電撃オンライン"
+        }
+      ],
+      "events": [
+        {
+          "name": "명조: 워더링 웨이브 x 삼성스토어 홍대 '치사 에디션' 출시 기념 전시",
+          "note": "갤럭시 S26 울트라 치사 액세서리 에디션 출시를 기념하여 삼성스토어 홍대점에서 진행되는 오프라인 전시 및 굿즈 판매 행사",
+          "venue": "삼성스토어 홍대",
+          "date": "2026-04-09",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=315218"
+        },
+        {
+          "name": "Women in Gaming UK",
+          "note": "IGN Entertainment와 Dentsu Gaming이 주최하는 영국 게임 산업 내 여성 종사자들을 위한 네트워킹 및 커뮤니티 이벤트",
+          "venue": "영국 (오프라인)",
+          "date": "2026-04-17",
+          "tag": "오프라인 행사",
+          "website": "https://www.gamesindustry.biz/ign-entertainment-and-dentsu-gaming-announce-women-in-gaming-uk-event"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "넷마블 칠대죄 오리진, 글로벌 PS 스토어 1위",
+          "source": "인벤",
+          "time": "4월 9일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315245"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "엑스엘 신작 '더 큐브, 세이브 어스' 서비스 종료",
+          "source": "게임메카",
+          "time": "4월 9일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1773850"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "생존 전략 'TownsFolk' 공식 출시 일정 발표",
+          "source": "IGN India",
+          "time": "4월 9일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/townsfolk/257830/video/townsfolk-official-release-date-announcement-trailer"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "호러 게임 'Whispers of the Tallgrass' 발표",
+          "source": "IGN India",
+          "time": "4월 9일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/news/257819/whispers-of-the-tallgrass-a-creepy-first-person-survival-horror-game-announced-for-pc"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'TATSUJIN EXTREME' 7월 30일 출시 확정",
+          "source": "4Gamer",
+          "time": "4월 9일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/997/G099725/20260409004/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'R-TYPE TACTICS' 무료 DLC 배포 시작",
+          "source": "4Gamer",
+          "time": "4월 9일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/946/G094645/20260409020/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "헤이즐라이트 스튜디오, 누적 판매 5천만 장 달성",
+          "source": "PC Gamer",
+          "time": "4월 9일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/action/split-fiction-studio-hazelight-celebrates-selling-50-million-games-in-under-10-years/"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "테이크투, 구조조정 일환으로 AI 팀 전원 해고",
+          "source": "GamesIndustry.biz",
+          "time": "4월 9일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/take-two-interactive-reportedly-lays-off-ai-team"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": [],
+      "items": [
+        {
+          "game": "AION2",
+          "period": "최근 30일",
+          "count": "7,224",
+          "sources": "커뮤니티",
+          "score": "2.7",
+          "pos": 5,
+          "neu": 73,
+          "neg": 22,
+          "keywords": [
+            {
+              "text": "Class Mention",
+              "positive": true
+            },
+            {
+              "text": "Dungeon / Raid Discussion",
+              "positive": true
+            },
+            {
+              "text": "DPS Comparison",
+              "positive": true
+            },
+            {
+              "text": "Buff/Nerf Debate",
+              "positive": true
+            },
+            {
+              "text": "Build Meta",
+              "positive": true
+            }
+          ],
+          "comments": [
+            {
+              "text": "각인 키나 도입과 아이템 획득 확률 잠수함 패치 때문에 배신감 느껴요.",
+              "positive": false
+            },
+            {
+              "text": "특정 장비가 밸런스를 파괴하고 종족 간의 격차가 너무 심해져서 힘들어요.",
+              "positive": false
+            },
+            {
+              "text": "콘텐츠 난이도는 높은데 버그 방치와 제작 실패로 접는 유저가 늘고 있어요.",
+              "positive": false
+            }
+          ]
+        }
+      ]
+    },
+    "drk": {
+      "enabled": true,
+      "title": "기술의 환상과 콘텐츠의 실체: 게임 산업의 냉정한 회귀",
+      "intro": "생성형 AI가 게임 개발의 구세주가 될 것이라는 장밋빛 전망 속에서, 왜 거대 기업은 AI 팀을 전원 해고했을까요? 🤖💻\n기술적 효율성보다 더 강력한 '진짜 재미'의 가치가 다시금 시장의 판도를 재편하고 있습니다.",
+      "points": "테이크투의 AI 팀 해고와 헤이즐라이트 스튜디오의 5,000만 장 판매 달성, 그리고 넷마블의 콘솔 시장 제패는 현재 업계가 처한 기묘한 이면을 보여줍니다. 효율성을 강조하던 기술 지향적 투자가 구조조정의 칼날 앞에 위축되는 반면, 독창적인 게임성과 강력한 IP를 앞세운 콘텐츠 중심의 성과는 더욱 뚜렷해지고 있습니다. 📉🚀\n\n이러한 현상은 소비자 심리가 '기술적 화려함'에서 '완성도 높은 경험'으로 이동했음을 의미합니다. 플랫폼 구조 또한 단순한 접근성보다 고품질 프리미엄 콘텐츠에 더 높은 점수를 주는 방향으로 공고해지고 있으며, 이는 엑스엘게임즈의 서비스 종료 사례처럼 어중간한 기획력으로는 더 이상 글로벌 경쟁 체제에서 생존할 수 없음을 엄중히 경고합니다. 🎮💎\n\n**결국 게임 산업의 본질은 기술적 효율화가 아닌 '대체 불가능한 창의성'에 있으며, AI는 도구일 뿐 결코 목적이 될 수 없습니다.** 시장은 이제 기술이 주는 환상에서 깨어나, 인간의 감성을 자극하고 몰입을 이끌어내는 게임 본연의 가치와 IP의 힘에 다시 집중하기 시작했습니다. 🧠✨\n\n앞으로의 게임 개발은 AI를 통한 비용 절감보다 인간만이 구현할 수 있는 독창적인 재미를 극대화하는 방향으로 전개될 전망입니다. 기술이 사람의 영혼이 담긴 연출을 완전히 대체할 수 없는 이 냉정한 시장에서, 여러분은 과연 어떤 가치에 지갑을 여시겠습니까? 🧐🌐"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": true,
+      "title": "Morbid Metal: Release Date Trailer (April ?? 2026)",
+      "channel": "Ubisoft",
+      "videoId": "FLWg_RCnr2U",
+      "url": "https://www.youtube.com/watch?v=FLWg_RCnr2U",
+      "thumbnail": "https://i.ytimg.com/vi/FLWg_RCnr2U/hqdefault.jpg",
+      "comment": "유비소프트(Ubisoft)가 선사하는 스타일리시한 신작, '모비드 메탈(Morbid Metal)'의 최신 트레일러가 드디어 베일을 벗었습니다. 🎮 이번 영상은 2026년 4월이라는 출시 일정과 함께 실시간으로 캐릭터를 교체하며 펼쳐지는 화려한 전투 액션을 핵심 포인트로 보여줍니다. ⚡ 지금 바로 영상을 감상하며 미래적인 감각의 액션 세계를 미리 만나보세요! ✨",
+      "search_query": "Morbid Metal Official Launch Trailer",
+      "ai_game_name": "모비드 메탈 (Morbid Metal)",
+      "ai_reason": "실시간 캐릭터 태그 시스템과 화려한 검술 액션이 결합된 하이텐션 핵앤슬래시의 진수를 시각적으로 완벽하게 구현한 공식 런칭 트레일러입니다."
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=028&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=028&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Dragon Nest World",
+        "releases.0.note": "An MORPG that reconstructs the impact of the original IP for mobile. It officially launches on April 9, offering abundant rewards through a launch celebration event.",
+        "releases.0.dev": "Eyedentity Games",
+        "releases.1.game": "Morbid Metal",
+        "releases.1.note": "A stylish hack-and-slash high-tension action game featuring real-time character switching was officially released on April 9.",
+        "releases.1.dev": "Screenbound Entertainment",
+        "releases.2.game": "FAITH: The Unholy Trinity",
+        "releases.2.note": "The PS5 version of the exorcism horror adventure game, which offers unique horror through 8-bit style graphics, was officially distributed on April 9.",
+        "releases.2.dev": "Airdorf Games",
+        "releases.3.game": "Invincible VS",
+        "releases.3.note": "A 3v3 fighting action game based on the popular 'Invincible' IP. The open beta test began on April 9, accompanied by a new trailer.",
+        "releases.3.dev": "Skybound Games",
+        "releases.4.game": "No Man's Sky",
+        "releases.4.note": "A major content update was applied on April 9, expanding the multiplayer experience by introducing a Pokémon-style creature collection and battle system.",
+        "releases.4.dev": "Hello Games",
+        "releases.5.game": "Goddess of Victory: Nikke",
+        "releases.5.note": "The latest version 'GOOD WORLD,' featuring the new Nikke 'Zhezhi,' was updated on April 9 along with a new event story.",
+        "releases.5.dev": "Shift Up",
+        "events.0.name": "Wuthering Waves x Samsung Store Hongdae 'Zhezhi Edition' Launch Celebration Exhibition",
+        "events.0.note": "An offline exhibition and goods sale event held at Samsung Store Hongdae to celebrate the launch of the Galaxy S26 Ultra Zhezhi Accessory Edition.",
+        "events.0.venue": "Samsung Store Hongdae",
+        "events.1.name": "Women in Gaming UK",
+        "events.1.note": "A networking and community event for women in the UK gaming industry, hosted by IGN Entertainment and Dentsu Gaming.",
+        "events.1.venue": "UK (Offline)"
+      },
+      "briefing": {
+        "items.0.title": "Netmarble's Seven Deadly Sins: Origin Ranks #1 on Global PS Store",
+        "items.0.source": "Inven",
+        "items.0.time": "April 9",
+        "items.1.title": "XL Games' New Title 'The Cube: Save Us' to End Service",
+        "items.1.source": "GameMeca",
+        "items.1.time": "April 9",
+        "items.2.title": "Survival Strategy Game 'TownsFolk' Official Release Date Announced",
+        "items.2.source": "IGN India",
+        "items.2.time": "April 9",
+        "items.3.title": "Horror Game 'Whispers of the Tallgrass' Announced",
+        "items.3.source": "IGN India",
+        "items.3.time": "April 9",
+        "items.4.title": "'TATSUJIN EXTREME' Confirmed for July 30 Release",
+        "items.4.source": "4Gamer",
+        "items.4.time": "April 9",
+        "items.5.title": "'R-TYPE TACTICS' Free DLC Distribution Begins",
+        "items.5.source": "4Gamer",
+        "items.5.time": "April 9",
+        "items.6.title": "Hazelight Studios Reaches 50 Million Cumulative Sales",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "April 9",
+        "items.7.title": "Take-Two Lays Off Entire AI Team as Part of Restructuring",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "April 9"
+      },
+      "feedback": {
+        "items.0.game": "AION 2",
+        "items.0.period": "Recent 30 Days",
+        "items.0.keywords.0.text": "Class Mention",
+        "items.0.keywords.1.text": "Dungeon / Raid Discussion",
+        "items.0.keywords.2.text": "DPS Comparison",
+        "items.0.keywords.3.text": "Buff/Nerf Debate",
+        "items.0.keywords.4.text": "Build Meta",
+        "items.0.comments.0.text": "I feel betrayed because of the introduction of Imprint Kinah and the stealth nerf of item drop rates.",
+        "items.0.comments.1.text": "It's difficult because specific equipment is breaking the balance and the gap between races has become too wide.",
+        "items.0.comments.2.text": "While content difficulty is high, the number of users quitting is increasing due to ignored bugs and crafting failures."
+      },
+      "drk": {
+        "title": "The Illusion of Technology and the Reality of Content: A Cold Return for the Game Industry",
+        "intro": "Amid rosy outlooks that generative AI will be the savior of game development, why did a giant corporation fire its entire AI team? 🤖💻 The value of 'true fun,' which is more powerful than technical efficiency, is reshaping the market landscape once again.",
+        "points": "The layoff of Take-Two's AI team, Hazelight Studios reaching 50 million sales, and Netmarble's dominance in the console market reveal the strange flip side of the current industry. While tech-oriented investments that emphasized efficiency are shrinking under the blade of restructuring, content-driven achievements led by original gameplay and strong IPs are becoming more prominent. 📉🚀\n\nThis phenomenon signifies that consumer sentiment has shifted from 'technical flashiness' to 'high-quality experiences.' Platform structures are also solidifying in a direction that favors high-quality premium content over simple accessibility. As seen in the case of XL Games' service termination, this serves as a stern warning that mediocre planning can no longer survive in the global competition. 🎮💎\n\n**Ultimately, the essence of the gaming industry lies in 'irreplaceable creativity,' not technical efficiency, and AI is merely a tool, never the goal.** The market has now woken up from the illusion of technology and begun to refocus on the inherent value of games and the power of IPs that stimulate human emotions and drive immersion. 🧠✨\n\nGame development in the future is expected to evolve toward maximizing the original fun that only humans can implement, rather than just cost reduction through AI. In this cold market where technology cannot completely replace direction infused with the human soul, what kind of value will you open your wallet for? 🧐🌐"
+      },
+      "trailer": {
+        "title": "Morbid Metal: Release Date Trailer (April ?? 2026)",
+        "comment": "The latest trailer for the stylish new title 'Morbid Metal,' presented by Ubisoft, has finally been unveiled. 🎮 This video showcases the flashy combat action that unfolds while switching characters in real-time, along with a release schedule for April 2026. ⚡ Watch the video now to get a preview of this futuristic action world! ✨"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ドラゴンネスト ワールド",
+        "releases.0.note": "原作IPの打撃感をモバイルで再構成したMORPGで、4月9日に正式サービスを開始し、ローンチ記念イベントを通じて豊富な報酬を提供します。",
+        "releases.0.dev": "アイデンティティゲームズ",
+        "releases.1.game": "モービッド・メタル",
+        "releases.1.note": "リアルタイムのキャラクター交代が特徴的な、スタイリッシュなハイテンション・アクション・ハックアンドスラッシュゲームが4月9日に正式リリースされました。",
+        "releases.1.dev": "スクリーンバウンド・エンターテインメント",
+        "releases.2.game": "FAITH: The Unholy Trinity",
+        "releases.2.note": "8ビットスタイルのグラフィックで独特の恐怖を届ける悪魔祓いホラーアドベンチャーゲームのPS5版が、4月9日に正式配信されました。",
+        "releases.2.dev": "エアドルフ・ゲームズ",
+        "releases.3.game": "インビンシブル VS",
+        "releases.3.note": "人気アニメ『インビンシブル』のIPをベースにした3対3の対戦アクションゲームで、4月9日からオープンベータテストを開始し、トレーラーを公開しました。",
+        "releases.3.dev": "スカイバウンド・ゲームズ",
+        "releases.4.game": "No Man's Sky",
+        "releases.4.note": "ポケモン風の生物収集およびバトルシステムを導入し、マルチプレイ体験を拡張する大規模コンテンツアップデートが4月9日に適用されました。",
+        "releases.4.dev": "ハロー・ゲームズ",
+        "releases.5.game": "勝利の女神：NIKKE",
+        "releases.5.note": "新ニケ「シラツル」が登場する最新バージョン「GOOD WORLD」が4月9日にアップデートされ、新しいイベントストーリーも公開されました。",
+        "releases.5.dev": "SHIFT UP",
+        "events.0.name": "鳴潮（メイチョー） x サムスンストア弘大「チサ・エディション」発売記念展示",
+        "events.0.note": "Galaxy S26 Ultra チサ・アクセサリエディションの発売を記念して、サムスンストア弘大店で開催されるオフライン展示およびグッズ販売イベント",
+        "events.0.venue": "サムスンストア弘大",
+        "events.1.name": "Women in Gaming UK",
+        "events.1.note": "IGN EntertainmentとDentsu Gamingが主催する、イギリスのゲーム業界における女性従事者のためのネットワーキングおよびコミュニティイベント",
+        "events.1.venue": "イギリス（オフライン）"
+      },
+      "briefing": {
+        "items.0.title": "ネットマーブル『七つの大罪 Origin』、グローバルPSストアで1位",
+        "items.0.source": "Inven",
+        "items.0.time": "4月9日",
+        "items.1.title": "XL Gamesの新作『The Cube, Save Us』サービス終了",
+        "items.1.source": "GameMecca",
+        "items.1.time": "4月9日",
+        "items.2.title": "生存戦略『TownsFolk』公式リリース日程を発表",
+        "items.2.source": "IGN India",
+        "items.2.time": "4月9日",
+        "items.3.title": "ホラーゲーム『Whispers of the Tallgrass』発表",
+        "items.3.source": "IGN India",
+        "items.3.time": "4月9日",
+        "items.4.title": "『TATSUJIN EXTREME』7月30日の発売が確定",
+        "items.4.source": "4Gamer",
+        "items.4.time": "4月9日",
+        "items.5.title": "『R-TYPE TACTICS』無料DLCの配信開始",
+        "items.5.source": "4Gamer",
+        "items.5.time": "4月9日",
+        "items.6.title": "ヘイズライト・スタジオ、累計販売数5,000万枚を達成",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "4月9日",
+        "items.7.title": "テイクツー、構造調整の一環としてAIチーム全員を解雇",
+        "items.7.source": "GamesIndustry.biz",
+        "items.7.time": "4月9日"
+      },
+      "feedback": {
+        "items.0.game": "AION2",
+        "items.0.period": "直近30日間",
+        "items.0.keywords.0.text": "Class Mention",
+        "items.0.keywords.1.text": "Dungeon / Raid Discussion",
+        "items.0.keywords.2.text": "DPS Comparison",
+        "items.0.keywords.3.text": "Buff/Nerf Debate",
+        "items.0.keywords.4.text": "Build Meta",
+        "items.0.comments.0.text": "刻印キナの導入やアイテム獲得確率のサイレント修正のせいで、裏切られた気分です。",
+        "items.0.comments.1.text": "特定の装備がバランスを破壊し、種族間の格差が広がりすぎて辛いです。",
+        "items.0.comments.2.text": "コンテンツの難易度は高いのに、バグの放置や製作の失敗で離脱するユーザーが増えています。"
+      },
+      "drk": {
+        "title": "技術の幻想とコンテンツの正体：ゲーム産業の冷酷な回帰",
+        "intro": "生成AIがゲーム開発の救世主になるというバラ色の展望の中で、なぜ巨大企業はAIチームを全員解雇したのでしょうか？🤖💻 技術的な効率よりも強力な「本当の楽しさ」の価値が、再び市場の勢力図を塗り替えています。",
+        "points": "テイクツーのAIチーム解雇とヘイズライト・スタジオの5,000万本販売達成、そしてネットマーブルのコンソール市場制覇は、現在の業界が直面している奇妙な側面を浮き彫りにしています。効率を重視していた技術志向の投資が構造調整の刃の前に縮小する一方で、独創的なゲーム性と強力なIPを武器にしたコンテンツ中心の成果はより鮮明になっています。📉🚀\n\nこのような現象は、消費者の心理が「技術的な華やかさ」から「完成度の高い体験」へと移動したことを意味します。プラットフォームの構造も、単なるアクセシビリティよりも高品質なプレミアムコンテンツを高く評価する方向へと固まっており、これはXL Gamesのサービス終了事例のように、中途半端な企画力ではもはやグローバル競争において生存できないことを厳しく警告しています。🎮💎\n\n**結局、ゲーム産業の本質は技術的な効率化ではなく「代替不可能な創造性」にあり、AIは道具に過ぎず、決して目的にはなり得ません。** 市場は今、技術が与える幻想から目を覚まし、人間の感性を刺激し没入を引き出すゲーム本来の価値とIPの力に再び注目し始めています。🧠✨\n\n今後のゲーム開発は、AIを通じたコスト削減よりも、人間だけが実現できる独創的な面白さを最大化する方向で展開される見通しです。技術が人の魂が込められた演出を完全に代替することはできないこの冷酷な市場で、皆さんは果たしてどのような価値に財布を開くでしょうか？🧐🌐"
+      },
+      "trailer": {
+        "title": "Morbid Metal: Release Date Trailer (April ?? 2026)",
+        "comment": "ユービーアイソフト(Ubisoft)が贈るスタイリッシュな新作、『モービッド・メタル(Morbid Metal)』の最新トレーラーがついに公開されました。🎮 今回の映像は、2026年4月という発売スケジュールとともに、リアルタイムでキャラクターを入れ替えながら繰り広げられる華麗なバトルアクションを核心ポイントとして紹介しています。⚡ 今すぐ映像をチェックして、未来的な感覚のアクション世界を一足先に体験しましょう！✨"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "거품 빠진 기술의 환상 📉, 그리고 ‘Morbid Metal’ 출시 일정 공개! 🔥",
+    "en": "The End of Tech Hype? 📉 Why Gaming is Returning to its Roots (+ Morbid Metal Release Date! 🔥)",
+    "ja": "技術の幻想はもう終わり？📉 ゲーム業界の原点回帰と「Morbid Metal」最新情報！🔥"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ]
+}

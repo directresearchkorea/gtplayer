@@ -1,0 +1,453 @@
+{
+  "num": "045",
+  "date": "2026-05-05",
+  "status": "published",
+  "schedule": {
+    "date": "2026-05-05",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "월드 오브 워쉽: 레전드",
+          "dev": "워게이밍",
+          "date": "5월 5일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "콘솔에서 인기를 끈 해상 전투 액션 게임으로, 5월 5일 스팀과 Xbox PC 플랫폼을 통해 계정 동기화를 지원하는 PC 버전을 정식 출시했습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316107",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "어플로트: 릴랙싱 어드벤처",
+          "dev": "인디 개발사",
+          "date": "5월 5일(화)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "바다 위를 항해하며 평화로운 분위기 속에서 탐험을 즐기는 힐링 어드벤처 신작으로, 5월 5일 모바일 플랫폼으로 정식 출시되었습니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/260100/afloat-a-relaxing-adventure-official-launch-trailer",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "event",
+          "game": "스팀 덱빌딩 게임 축제",
+          "dev": "밸브",
+          "date": "5월 5일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#f59e0b",
+          "note": "5월 5일부터 스팀에서 진행되는 장르 축제로, 다양한 덱빌딩 및 로그라이크 전략 게임들의 할인 혜택과 데모 버전을 제공합니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1774792",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "event",
+          "game": "리그 오브 레전드: 와일드 리프트",
+          "dev": "라이엇 게임즈",
+          "date": "5월 5일(화)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#f59e0b",
+          "note": "포르쉐 협업 팝업스토어 '카이사의 피트스톱' 개최를 앞두고, 5월 5일 오후 4시부터 네이버 플레이스를 통해 현장 방문 사전예약을 시작합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316100",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "아우터플레인",
+          "dev": "스마일게이트 홀딩스",
+          "date": "5월 6일(수)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "출시 3주년을 기념해 5월 6일 고난도 PvE 콘텐츠 '차원 특이점'을 추가하고, 사전예약 참여자에게 한정 코스튬 등 대규모 보상을 지급합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316096",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "스태퍼 레트로",
+          "dev": "팀 테트라포드",
+          "date": "5월 7일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "5월 7일 스팀으로 정식 출시되는 초능력 추리 어드벤처 게임으로, 2030년대 가상의 서울을 배경으로 한 독특한 세계관과 추리 시스템을 선보입니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=316105",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "와일드 리프트 ‘카이사의 피트스톱’ 팝업 스토어",
+          "note": "라이엇 게임즈와 포르쉐의 협업 팝업 이벤트, 키캡 및 포스터 등 굿즈 지급",
+          "venue": "노티드 잠실롯데월드몰",
+          "date": "2026-05-08 ~ 05-17",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=316100"
+        },
+        {
+          "name": "2026년 파주슈필",
+          "note": "신작 보드게임 10여 종 공개 및 야외 보드게임 체험 축제",
+          "venue": "경기미래교육 파주캠퍼스",
+          "date": "2026-05-09 ~ 05-10",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=316103"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "HOMM: 올든 에라, 얼리 액세스 동접 6만 돌파",
+          "source": "게임메카",
+          "time": "5월 4일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1774813"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "붉은사막, 보스전 다시 즐기는 ‘재대결’ 콘텐츠 추가",
+          "source": "게임메카",
+          "time": "5월 2일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1774805"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "테이크투 CEO, GTA 6 PC 버전 출시 지연 이유 설명",
+          "source": "IGN India",
+          "time": "5월 4일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/grand-theft-auto-vi/260102/take-two-ceo-explains-why-gta-6-isnt-coming-to-pc-on-day-one"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "엑스박스, 6월 7일 'IGN 라이브' 복귀 및 신작 예고",
+          "source": "IGN India",
+          "time": "5월 4일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/gears-of-war-e-day/260081/xbox-returns-to-ign-live-june-7"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "EVO 저팬 2026 스파 6 부문, 야마구치 선수 우승",
+          "source": "4Gamer",
+          "time": "5월 3일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/618/G061884/20260503009/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "철권 8, 신규 캐릭터 ‘쿠니미츠’ 5월 28일 출시 확정",
+          "source": "4Gamer",
+          "time": "5월 3일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/657/G065722/20260503006/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "게임스톱, 560억 달러 규모 이베이 인수 제안 발표",
+          "source": "PC Gamer",
+          "time": "5월 4일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/gaming-industry/gamestop-confirms-usd56-billion-ebay-acquisition-bid-promises-usd2-billion-in-cuts-at-the-company-if-the-takeover-is-successful/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "워크래프트 3 레거시, 배틀넷 통해 공식 복귀",
+          "source": "PC Gamer",
+          "time": "5월 4일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/strategy/warcraft-3-legacy-is-finally-back-on-battle-net/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "플랫폼의 경계를 넘는 'IP의 생존 방정식'",
+      "intro": "수십 년 된 고전이 동접 6만을 기록하고, 최신작은 고의로 출시를 늦춥니다.\n게이머는 이제 어디에서 즐기느냐가 아니라, '무엇을' 신뢰하느냐에 따라 움직이고 있습니다.",
+      "points": "최근 게임 시장은 'HOMM: 올든 에라'와 '워크래프트 3' 같은 고전 IP의 화려한 부활과 'GTA 6'의 플랫폼 순차 출시 전략이 공존하는 기묘한 양상을 보이고 있습니다. '월드 오브 워쉽: 레전드'가 플랫폼 간 계정 동기화를 강화하며 접근성을 높이는 반면, 거대 자본이 투입된 블록버스터는 여전히 플랫폼별 시차를 두며 수익 극대화를 노리고 있습니다. 🚢\n\n이러한 현상은 **플랫폼 구조**와 **소비자 심리**의 변화를 동시에 투영합니다. 게이머들은 검증되지 않은 신작보다 익숙한 재미를 주는 클래식 IP에 더 높은 충성도를 보이며 시장의 실질적인 구매력을 증명하고 있습니다. 동시에 대작 게임의 PC 버전 출시 지연은 플랫폼 홀더와의 전략적 협력 및 기술적 최적화를 명분으로 한 고도의 비즈니스 모델로 고착화되는 양상입니다. 🎮\n\n결국 현재 산업의 핵심은 **검증된 IP의 가치를 멀티 플랫폼 환경에서 어떻게 재가공하여 장기적인 현금 흐름을 창출하느냐**에 달려 있습니다. 단순히 기술력이 뛰어난 신작을 내놓는 것보다, 소비자가 이미 신뢰하는 세계관을 다양한 플랫폼에 최적의 시차로 배치하는 '운영과 관리의 영역'이 기업의 생존을 결정짓는 척도가 되었습니다. 💡\n\n플랫폼의 벽이 허물어지는 동시에 수익을 위한 인위적인 장벽이 세워지는 이 모순적인 흐름은 앞으로도 계속될 것입니다. 여러분은 완성도를 위한 기다림과 즉각적인 멀티 플랫폼 출시 중 무엇이 진정으로 소비자를 위한 선택이라고 생각하십니까? ❓"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "포트나이트",
+      "title": "은하계 규모로 확장된 배틀로얄, 포트나이트-스타워즈 생태계의 진화",
+      "imgUrl": "",
+      "comment": "UEFN과 크리에이티브 모드를 통해 스타워즈의 상징적인 행성과 기술력이 포트나이트 특유의 화풍으로 완벽하게 이식된 미래의 실제 플레이 장면을 상상해 보라고 지시했습니다.",
+      "ai_prompt": "Actual in-game screenshot, exact original game engine rendering, completely identical to original art style, NO cinematic styling, NO illustration, a Fortnite character in a stylized outfit holding a blue lightsaber, battling near a modular base built with Star Wars assets, an AT-AT walker looming in the background amidst Fortnite-style hills and pine trees, vibrant and saturated colors, clean UI elements visible on the edges, Unreal Engine 5 Fortnite lighting and stylized cel-shaded character models."
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=045&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=045&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "World of Warships: Legends",
+        "releases.0.note": "A popular naval combat action game on consoles, it officially released its PC version on May 5th via Steam and the Xbox PC platform, supporting account synchronization.",
+        "releases.0.dev": "Wargaming",
+        "releases.1.game": "Afloat: Relaxing Adventure",
+        "releases.1.note": "A new healing adventure game where players enjoy exploration in a peaceful atmosphere while sailing the sea, officially released on mobile platforms on May 5th.",
+        "releases.1.dev": "Indie Developer",
+        "releases.2.game": "Steam Deckbuilding Fest",
+        "releases.2.note": "A genre festival held on Steam starting May 5th, offering discounts and demo versions for various deckbuilding and roguelike strategy games.",
+        "releases.2.dev": "Valve",
+        "releases.3.game": "League of Legends: Wild Rift",
+        "releases.3.note": "Ahead of the Porsche collaboration pop-up store 'Kai'Sa's Pit Stop,' pre-reservations for on-site visits will begin via Naver Place on May 5th at 7:00 AM UTC.",
+        "releases.3.dev": "Riot Games",
+        "releases.4.game": "OUTERPLANE",
+        "releases.4.note": "To celebrate its 3rd anniversary, the high-difficulty PvE content 'Dimensional Singularity' will be added on May 6th, and large-scale rewards such as limited costumes will be given to pre-registration participants.",
+        "releases.4.dev": "Smilegate Holdings",
+        "releases.5.game": "Staffer Retro",
+        "releases.5.note": "A psychic mystery adventure game officially releasing on Steam on May 7th, featuring a unique worldview and deduction system set in a fictional 2030s Seoul.",
+        "releases.5.dev": "Team Tetrapod",
+        "events.0.name": "Wild Rift 'Kai'Sa's Pit Stop' Pop-up Store",
+        "events.0.note": "A collaboration pop-up event between Riot Games and Porsche, featuring merchandise giveaways such as keycaps and posters.",
+        "events.0.venue": "Knotted Jamsil Lotte World Mall",
+        "events.1.name": "2026 Paju Spiel",
+        "events.1.note": "An outdoor board game festival featuring the unveiling of over 10 new board games and hands-on experiences.",
+        "events.1.venue": "Gyeonggi Future Education Paju Campus"
+      },
+      "briefing": {
+        "items.0.title": "HOMM: Olden Era Surpasses 60,000 Concurrent Players in Early Access",
+        "items.0.source": "GameMeca",
+        "items.0.time": "May 4",
+        "items.1.title": "Crimson Desert Adds 'Rematch' Content to Replay Boss Battles",
+        "items.1.source": "GameMeca",
+        "items.1.time": "May 2",
+        "items.2.title": "Take-Two CEO Explains Reason for GTA VI PC Version Release Delay",
+        "items.2.source": "IGN India",
+        "items.2.time": "May 4",
+        "items.3.title": "Xbox Returns to 'IGN Live' on June 7, Teasing New Titles",
+        "items.3.source": "IGN India",
+        "items.3.time": "May 4",
+        "items.4.title": "Yamaguchi Wins SF6 Category at EVO Japan 2026",
+        "items.4.source": "4Gamer",
+        "items.4.time": "May 3",
+        "items.5.title": "Tekken 8 Confirms Release of New Character 'Kunimitsu' on May 28",
+        "items.5.source": "4Gamer",
+        "items.5.time": "May 3",
+        "items.6.title": "GameStop Announces $56 Billion eBay Acquisition Proposal",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "May 4",
+        "items.7.title": "Warcraft III Legacy Officially Returns via Battle.net",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "May 4"
+      },
+      "drk": {
+        "title": "'The Survival Equation of IP' Crossing Platform Boundaries",
+        "intro": "Decades-old classics record 60,000 concurrent players, while the latest titles intentionally delay their releases. Gamers are no longer moving based on where they play, but rather on 'what' they trust.",
+        "points": "The recent gaming market displays a peculiar trend where the spectacular revival of classic IPs like 'HOMM: Olden Era' and 'Warcraft III' coexists with the sequential platform release strategy of 'GTA VI.' While 'World of Warships: Legends' increases accessibility by strengthening cross-platform account synchronization, capital-intensive blockbusters still aim for profit maximization by maintaining time gaps between platforms. 🚢\n\nThis phenomenon reflects simultaneous changes in platform structures and consumer psychology. Gamers are showing higher loyalty to classic IPs that provide familiar fun over unproven new titles, proving the market's actual purchasing power. At the same time, the delay of PC versions for major titles is becoming a sophisticated business model under the guise of strategic cooperation with platform holders and technical optimization. 🎮\n\nUltimately, the core of the current industry lies in how the value of proven IPs can be reprocessed in a multi-platform environment to generate long-term cash flow. Rather than simply releasing technically superior new works, the 'realm of operation and management'—strategically placing worldviews that consumers already trust across various platforms at optimal intervals—has become the yardstick for a company's survival. 💡\n\nThis contradictory flow, where platform walls are collapsing while artificial barriers for profit are being erected, will continue. Which do you believe is the true choice for consumers: waiting for higher completion, or an immediate multi-platform release? ❓"
+      },
+      "gamescene": {
+        "game": "Fortnite",
+        "title": "A Battle Royale Expanded to Galactic Proportions: The Evolution of the Fortnite-Star Wars Ecosystem",
+        "comment": "I gave instructions to imagine a future gameplay scene where the iconic planets and technology of Star Wars are perfectly ported into Fortnite's unique art style through UEFN and Creative Mode."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "World of Warships: Legends",
+        "releases.0.note": "コンソールで人気を博した海戦アクションゲームで、5月5日にSteamとXbox PCプラットフォームを通じてアカウント同期をサポートするPC版を正式にリリースしました。",
+        "releases.0.dev": "Wargaming",
+        "releases.1.game": "Afloat: A Relaxing Adventure",
+        "releases.1.note": "海を航海しながら平和な雰囲気の中で冒険を楽しむヒーリングアドベンチャーの新作で、5月5日にモバイルプラットフォームで正式にリリースされました。",
+        "releases.1.dev": "インディー開発会社",
+        "releases.2.game": "Steam デッキ構築フェス",
+        "releases.2.note": "5月5日からSteamで開催されるジャンルフェスティバルで、様々なデッキ構築やローグライク戦略ゲームの割引特典やデモ版を提供します。",
+        "releases.2.dev": "Valve",
+        "releases.3.game": "リーグ・オブ・レジェンド：ワイルドリフト",
+        "releases.3.note": "ポルシェとのコラボポップアップストア「カイ＝サのピットストップ」の開催を控え、5月5日午後4時からNAVER Placeを通じて事前予約を開始します。",
+        "releases.3.dev": "ライアットゲームズ",
+        "releases.4.game": "アウタープレーン",
+        "releases.4.note": "リリース3周年を記念して5月6日に高難易度PvEコンテンツ「次元特異点」を追加し、事前予約の参加者に限定コスチュームなどの大規模な報酬を支給します。",
+        "releases.4.dev": "スマイルゲート・ホールディングス",
+        "releases.5.game": "スタッファー・レトロ",
+        "releases.5.note": "5月7日にSteamで正式リリースされる超能力推理アドベンチャーゲームで、2030年代の架空のソウルを舞台にした独特な世界観と推理システムを披露します。",
+        "releases.5.dev": "チーム・テトラポッド",
+        "events.0.name": "ワイルドリフト「カイ＝サのピットストップ」ポップアップストア",
+        "events.0.note": "ライアットゲームズとポルシェのコラボポップアップイベント、キーキャップやポスターなどのグッズを支給",
+        "events.0.venue": "Knotted 蚕室ロッテワールドモール",
+        "events.1.name": "2026年パジュ・シュピール",
+        "events.1.note": "新作ボードゲーム10種余りの公開および屋外ボードゲーム体験フェスティバル",
+        "events.1.venue": "京畿未来教育パジュキャンパス"
+      },
+      "briefing": {
+        "items.0.title": "HOMM: Olden Era、早期アクセス同時接続者数6万人突破",
+        "items.0.source": "ゲームメカ",
+        "items.0.time": "5月4日",
+        "items.1.title": "『紅の砂漠』、ボス戦を再び楽しめる「再対決」コンテンツ追加",
+        "items.1.source": "ゲームメカ",
+        "items.1.time": "5月2日",
+        "items.2.title": "Take-TwoのCEO、GTA 6のPC版リリース遅延の理由を説明",
+        "items.2.source": "IGN India",
+        "items.2.time": "5月4日",
+        "items.3.title": "Xbox、6月7日の「IGN Live」復帰および新作を予告",
+        "items.3.source": "IGN India",
+        "items.3.time": "5月4日",
+        "items.4.title": "EVO Japan 2026 スト6部門、山口選手が優勝",
+        "items.4.source": "4Gamer",
+        "items.4.time": "5月3日",
+        "items.5.title": "『鉄拳8』、新キャラクター「州光」5月28日リリース確定",
+        "items.5.source": "4Gamer",
+        "items.5.time": "5月3日",
+        "items.6.title": "ゲームストップ、560億ドル規模のeBay買収提案を発表",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "5月4日",
+        "items.7.title": "『Warcraft III Legacy』、Battle.netを通じて公式復帰",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "5月4日"
+      },
+      "drk": {
+        "title": "プラットフォームの境界を超える「IPの生存方程式」",
+        "intro": "数十年前の古典が同時接続者数6万人を記録し、最新作は意図的にリリースを遅らせています。ゲーマーはもはやどこで楽しむかではなく、「何を」信頼するかに応じて動いています。",
+        "points": "最近のゲーム市場は「HOMM: Olden Era」や「Warcraft III」のようなクラシックIPの華麗な復活と、「GTA 6」のプラットフォーム順次リリース戦略が共存する奇妙な様相を呈しています。「World of Warships: Legends」がプラットフォーム間のアカウント同期を強化してアクセシビリティを高める一方で、巨大資本が投入されたブロックバスターは依然としてプラットフォーム別の時差を設け、収益の最大化を狙っています。🚢\n\nこのような現象は、プラットフォーム構造と消費者心理の変化を同時に反映しています。ゲーマーは、検証されていない新作よりも馴染みのある楽しさを提供するクラシックIPに対してより高い忠誠心を示し、市場の実質的な購買力を証明しています。同時に、大作ゲームのPC版リリース遅延は、プラットフォームホルダーとの戦略的協力および技術的最適化を名目とした高度なビジネスモデルとして定着している状況です。🎮\n\n結局、現在の産業の核心は、検証されたIPの価値をマルチプラットフォーム環境でどのように再加工し、長期的なキャッシュフローを創出するかにかかっています。単に技術的に優れた新作を出すことよりも、消費者がすでに信頼している世界観を様々なプラットフォームに最適な時差で配置する「運営と管理の領域」が企業の生存を決定づける尺度となりました。💡\n\nプラットフォームの壁が崩れると同時に、収益のための人為的な障壁が築かれるこの矛盾した流れは、今後も続くでしょう。皆さんは、完成度のための待ち時間と即時のマルチプラットフォームリリースのうち、どちらが本当に消費者のための選択だと思いますか？❓"
+      },
+      "gamescene": {
+        "game": "フォートナイト",
+        "title": "銀河規模に拡張されたバトルロイヤル、「フォートナイト」×「スター・ウォーズ」エコシステムの進化",
+        "comment": "UEFNとクリエイティブモードを通じて、「スター・ウォーズ」の象徴的な惑星と技術力が「フォートナイト」特有の画風で完璧に移植された未来の実際のプレイシーンを想像するように指示しました。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "플랫폼의 경계가 사라진 시대, IP의 생존 법칙 🎮 (feat. 금주의 무료 게임)",
+    "en": "Beyond Platforms: The new survival strategy for IPs 🚀 (Free games inside!)",
+    "ja": "ハードの垣根を越えろ！IP生き残りの新方程式 🎮 (今週の無料タイトル)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "tweet": "붉은사막 보스전을 다시 즐길 수 있다면 어떨까요? ⚔️\n이번에 '재대결' 콘텐츠가 추가된다는 반가운 소식과 최신 게임 이슈를 정리했어요.\n\nhttps://www.gtplayer.net/edition-045/\n\n#붉은사막 #게임소식 #GTPlayer",
+          "posted": true,
+          "data": {
+            "data": {
+              "id": "2051422938809966950",
+              "text": "붉은사막 보스전을 다시 즐길 수 있다면 어떨까요? ⚔️\n이번에 '재대결' 콘텐츠가 추가된다는 반가운 소식과 최신 게임 이슈를 정리했어요.\n\nhttps://t.co/XhPE6tyzPm\n\n#붉은사막 #게임소식 #GTPlayer",
+              "edit_history_tweet_ids": [
+                "2051422938809966950"
+              ]
+            }
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-05T07:05:16.379652"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "5월 5일 어린이날, 플랫폼의 경계를 허무는 오늘의 게임 뉴스 🎮\n\n🗞️ HOMM 6만 돌파 & 붉은사막 업데이트 등 놓칠 수 없는 주간 핫이슈!\n📅 스팀 덱빌딩 축제부터 신작 모바일 소식까지 꽉 찬 출시 캘린더.\n💡 Dr.K Insight: 플랫폼보다 '신뢰'가 중요한 시대, IP의 생존 법칙은?\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임덕후 #게임추천 #신작게임 #GTPLAYER #HOMM #붉은사막 #GTA6 #엑스박스 #스파6 #스팀게임 #모바일게임 #와일드리프트 #아우터플레인 #콘솔게임 #게임인사이트 #PC게임 #게이머 #인디게임 #에디션045",
+          "image_paths": [
+            "web\\instagram\\edition_045\\card_news.png",
+            "web\\instagram\\edition_045\\card_calendar.png",
+            "web\\instagram\\edition_045\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3889900852429957151_39332818166",
+            "url": "https://www.instagram.com/p/DX7tDc4k6gf/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-05-05T07:05:48.278004"
+    }
+  }
+}

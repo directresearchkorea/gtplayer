@@ -1,0 +1,487 @@
+{
+  "num": "024",
+  "date": "2026-04-07",
+  "status": "published",
+  "schedule": {
+    "date": "2026-04-07",
+    "time": "12:30",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "레전드 오브 이미르",
+          "dev": "위메이드",
+          "date": "4월 7일(화)",
+          "platforms": [
+            "PC",
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "4월 7일 정식 출시되는 북유럽 신화 기반의 대작 MMORPG로, 언리얼 엔진 5를 활용한 고퀄리티 그래픽과 극사실적인 전투 시스템을 선보입니다.",
+          "country": "KR",
+          "article_url": "https://store.steampowered.com/app/2785660/Legend_of_YMIR/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "토라라의 마작 교실",
+          "dev": "토라라 극장",
+          "date": "4월 7일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "4월 7일 스팀에 출시된 체험형 마작 학습 게임으로, 귀여운 캐릭터 '토라라'와 함께 마작의 기본 규칙을 단계별로 쉽게 배울 수 있습니다.",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202604/71045",
+          "source_name": "Famitsu"
+        },
+        {
+          "category": "release",
+          "game": "리지드젬스 뮤지엄 (RigidGems Museum)",
+          "dev": "페리오웍스",
+          "date": "4월 8일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "4월 8일 정식 출시되는 디지털 보석 박물관 시뮬레이션으로, 전 세계의 광물을 채굴하고 보석으로 가공하여 자신만의 전시실을 꾸밀 수 있습니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/987/G098747/20260406039/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "event",
+          "game": "몬길 스타 다이브",
+          "dev": "넷마블",
+          "date": "4월 8일(수)",
+          "platforms": [
+            "PC",
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "4월 8일 오후 6시 온라인 쇼케이스를 개최하여 게임의 주요 개선 사항과 향후 구체적인 출시 계획을 최초로 공개할 예정입니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315135",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "모비드 메탈 (Morbid Metal)",
+          "dev": "스크린주스",
+          "date": "4월 9일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "4월 9일 스팀 얼리 액세스로 출시되는 하이스피드 로그라이트 액션 게임으로, 실시간으로 캐릭터를 교체하며 펼치는 스타일리시한 전투가 특징입니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/637/G063710/20260406047/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "폼페이: 더 레거시 (Pompeii: The Legacy)",
+          "dev": "시시가",
+          "date": "4월 9일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "얼리 액세스를 마치고 4월 9일 정식 출시되는 도시 건설 시뮬레이션으로, 고대 로마의 폼페이를 배경으로 도시를 재건하고 확장하는 과정을 담고 있습니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/pompeii-the-legacy/257625/video/pompeii-the-legacy-official-full-release-trailer",
+          "source_name": "IGN India"
+        }
+      ],
+      "events": [
+        {
+          "name": "몬길 스타 다이브 온라인 쇼케이스",
+          "note": "넷마블몬스터 신작의 개선점 및 향후 출시 계획 공개",
+          "venue": "온라인",
+          "date": "2026-04-08 (18:00)",
+          "tag": "쇼케이스",
+          "website": "https://www.inven.co.kr/webzine/news/?news=315135"
+        },
+        {
+          "name": "LEVEL5 VISION 2026 匠 (Takumi)",
+          "note": "레벨파이브의 신작 라인업(이나즈마 일레븐 등) 및 타이틀 전략 발표",
+          "venue": "온라인 (공식 YouTube 채널)",
+          "date": "2026-04-10 (21:00)",
+          "tag": "쇼케이스",
+          "website": "https://www.4gamer.net/games/999/G999903/20260406043/"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "에피드게임즈, '트릭컬' 흥행에 매출 468억 원 돌파",
+          "source": "인벤",
+          "time": "4월 6일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315134"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "팀 리퀴드, 와우 '한밤' 레이드 세계 최초 클리어 달성",
+          "source": "인벤",
+          "time": "4월 6일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315132"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "'더블 드래곤' 창시자 키시모토 요시히사 별세",
+          "source": "IGN India",
+          "time": "4월 6일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/double-dragon/257627/news/yoshihisa-kishimoto-creator-of-double-dragon-and-renegade-dies-at-64"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'프로스트펑크 2', 신규 DLC '신뢰의 위반' 공개",
+          "source": "IGN India",
+          "time": "4월 6일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/frostpunk-2/257613/video/frostpunk-2-breach-of-trust-official-dlc-reveal-trailer-11-bit-studios-frostpunk-showcase-2026"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "레벨파이브, 4월 10일 신작 쇼케이스 '匠' 개최 확정",
+          "source": "4Gamer",
+          "time": "4월 6일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/999/G999903/20260406043/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'링크! 라이크! 러브라이브!', 6월 30일 서비스 종료",
+          "source": "4Gamer",
+          "time": "4월 6일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/682/G068214/20260406033/"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "테이크투, AI 부문 책임자 해임 및 기술팀 인원 감축",
+          "source": "4Gamer",
+          "time": "4월 6일",
+          "country": "GLOBAL",
+          "article_url": "https://www.4gamer.net/games/999/G999905/20260406024/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'그레이 존 워페어', 업데이트 후 동접자 1000% 폭증",
+          "source": "PC Gamer",
+          "time": "4월 6일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/fps/gray-zone-warfares-player-count-jumps-by-over-1000-percent-following-its-most-recent-update-players-are-coming-back/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": true,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": [],
+      "items": [
+        {
+          "game": "AION2",
+          "period": "최근 30일",
+          "count": "7,930",
+          "sources": "커뮤니티",
+          "score": "2.6",
+          "pos": 5,
+          "neu": 73,
+          "neg": 21,
+          "keywords": [
+            {
+              "text": "Class Mention",
+              "positive": true
+            },
+            {
+              "text": "Dungeon / Raid Discussion",
+              "positive": true
+            },
+            {
+              "text": "DPS Comparison",
+              "positive": true
+            },
+            {
+              "text": "Buff/Nerf Debate",
+              "positive": true
+            },
+            {
+              "text": "Build Meta",
+              "positive": true
+            }
+          ],
+          "comments": [
+            {
+              "text": "자동 추출이랑 전투력 시스템 개편으로 편의성이 좋아졌네요.",
+              "positive": true
+            },
+            {
+              "text": "특정 아이템 성능이 너무 과하고 제작 실패하면 너무 허탈해요.",
+              "positive": false
+            },
+            {
+              "text": "어비스 종족 불균형이랑 재화 수급 너프는 정말 너무하네요.",
+              "positive": false
+            }
+          ]
+        }
+      ]
+    },
+    "drk": {
+      "enabled": true,
+      "title": "IP의 이름값을 넘어선 '운영의 진정성'과 팬덤 경제의 재편",
+      "intro": "팬덤이 곧 자본이 되는 시대, 왜 누군가는 화려하게 부활하고 누군가는 무대 뒤로 사라집니까? 🎮\n수치로 증명된 중소 개발사의 반전과 거대 IP의 퇴장은 게임 산업의 생존 법칙이 변했음을 시사합니다.",
+      "points": "에피드게임즈의 '트릭컬'이 연 매출 468억 원을 달성하며 중소 개발사의 기적을 쓴 반면, 강력한 팬덤을 보유했던 '링크! 라이크! 러브라이브!'는 서비스 종료를 발표했습니다. 동시에 넷마블은 '몬길 스타 다이브' 쇼케이스를 통해 과거의 영광을 현대적 감각으로 재해석하며 IP의 생명력을 연장하려는 시도를 이어가고 있습니다.\n\n이러한 현상은 현대 게이머의 **게임 소비 구조가 단순히 'IP의 인지도'에서 '운영의 진정성과 유저 피드백의 반영 속도'로 이동**했음을 보여줍니다. 소비자들은 이제 완성된 결과물뿐만 아니라, 개발사가 유저의 목소리에 반응하여 게임을 개선해 나가는 과정 자체를 하나의 콘텐츠로 소비하며 브랜드에 대한 심리적 소속감을 형성합니다.\n\n**과거의 IP 파워가 영원한 수익을 보장하던 시대는 끝났으며, 이제는 유연한 업데이트와 충성도 높은 커뮤니티 관리가 곧 게임의 수명이자 자본입니다.** '그레이 존 워페어'의 업데이트 후 동접자 1000% 폭증 사례에서 보듯, 기술적 완성도만큼이나 유저가 체감할 수 있는 실질적인 변화를 적시에 제공하는 능력이 플랫폼 내 생존을 결정짓는 핵심 지표가 되었습니다. 📈\n\n앞으로의 시장은 정적인 대작보다 유동적인 라이브 서비스 역량이 성패를 가를 것입니다. 여러분이 애정을 쏟고 있는 게임은 유저와 함께 호흡하며 진화하고 있습니까, 아니면 과거의 명성에만 기대어 정체되어 있습니까? 🧐"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "슬레이 더 스파이어 2",
+      "title": "첨탑의 한계를 넘어서: 세 명의 영웅이 동시 교전하는 신규 협동 모드",
+      "imgUrl": "",
+      "comment": "메가 크릿이 구상 중인 세 가지 신규 모드 소식을 바탕으로, AI에게 다인 협동 플레이가 구현된 미래의 인게임 스크린샷을 상상해 보라고 지시했습니다.",
+      "ai_prompt": "Actual in-game screenshot, exact original game engine rendering, completely identical to original art style, NO cinematic styling, NO illustration. Slay the Spire 2 gameplay interface showing a brand new 3-player cooperative battle mode. On the left side, the Ironclad, the Silent, and the new Necrobinder are positioned together, each with their own health bars and status icons. On the right, a massive new cosmic horror boss with multiple intent icons. The bottom of the screen displays a complex UI with three distinct sets of card hands. The art style follows the signature hand-drawn, sketchy 2D aesthetic with paper-like textures and dark fantasy colors. All UI elements, energy orbs, and font types are 100% consistent with the Mega Crit's original game design."
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "fanmade": {
+      "enabled": false,
+      "items": []
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Legend of Ymir",
+        "releases.0.note": "A major MMORPG based on Norse mythology launching on April 7, featuring high-quality graphics and a hyper-realistic combat system powered by Unreal Engine 5.",
+        "releases.0.dev": "Wemade",
+        "releases.1.game": "Torara's Mahjong Class",
+        "releases.1.note": "An interactive Mahjong learning game released on Steam on April 7, where you can easily learn the basic rules of Mahjong step-by-step with the cute character 'Torara'.",
+        "releases.1.dev": "Torara Theater",
+        "releases.2.game": "RigidGems Museum",
+        "releases.2.note": "A digital gem museum simulation launching on April 8, allowing players to mine minerals from around the world, process them into gems, and decorate their own exhibition halls.",
+        "releases.2.dev": "PerioWorks",
+        "releases.3.game": "MONSTERS Taming: STAR DIVE",
+        "releases.3.note": "An online showcase will be held at 6 PM on April 8 to reveal the game's major improvements and specific future release plans for the first time.",
+        "releases.3.dev": "Netmarble",
+        "releases.4.game": "Morbid Metal",
+        "releases.4.note": "A high-speed roguelite action game launching in Steam Early Access on April 9, featuring stylish combat where players switch characters in real-time.",
+        "releases.4.dev": "ScreenJuice",
+        "releases.5.game": "Pompeii: The Legacy",
+        "releases.5.note": "A city-building simulation officially launching on April 9 after its Early Access period, focusing on rebuilding and expanding the city of Pompeii in ancient Rome.",
+        "releases.5.dev": "SisiGa",
+        "events.0.name": "MONSTERS Taming: STAR DIVE Online Showcase",
+        "events.0.note": "Reveal of improvements and future release plans for the new title from Netmarble Monster",
+        "events.0.venue": "Online",
+        "events.1.name": "LEVEL5 VISION 2026 Takumi (匠)",
+        "events.1.note": "Presentation of Level-5's new lineup (Inazuma Eleven, etc.) and title strategies",
+        "events.1.venue": "Online (Official YouTube Channel)"
+      },
+      "briefing": {
+        "items.0.title": "Epid Games' revenue surpasses 46.8 billion KRW following 'Trickcal Re:vive' success",
+        "items.0.source": "Inven",
+        "items.0.time": "April 6",
+        "items.1.title": "Team Liquid achieves World First Clear of WoW 'Midnight' Raid",
+        "items.1.source": "Inven",
+        "items.1.time": "April 6",
+        "items.2.title": "Yoshihisa Kishimoto, creator of 'Double Dragon', passes away",
+        "items.2.source": "IGN India",
+        "items.2.time": "April 6",
+        "items.3.title": "'Frostpunk 2' reveals new DLC 'Breach of Trust'",
+        "items.3.source": "IGN India",
+        "items.3.time": "April 6",
+        "items.4.title": "Level-5 confirms new title showcase 'Takumi' for April 10",
+        "items.4.source": "4Gamer",
+        "items.4.time": "April 6",
+        "items.5.title": "'Link! Like! Love Live!' to end service on June 30",
+        "items.5.source": "4Gamer",
+        "items.5.time": "April 6",
+        "items.6.title": "Take-Two dismisses AI head and reduces technology team headcount",
+        "items.6.source": "4Gamer",
+        "items.6.time": "April 6",
+        "items.7.title": "'Gray Zone Warfare' concurrent players surge by 1000% after update",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "April 6"
+      },
+      "feedback": {
+        "items.0.game": "AION2",
+        "items.0.period": "Last 30 Days",
+        "items.0.keywords.0.text": "Class Mention",
+        "items.0.keywords.1.text": "Dungeon / Raid Discussion",
+        "items.0.keywords.2.text": "DPS Comparison",
+        "items.0.keywords.3.text": "Buff/Nerf Debate",
+        "items.0.keywords.4.text": "Build Meta",
+        "items.0.comments.0.text": "Convenience has improved thanks to the automatic extraction and combat power system revamp.",
+        "items.0.comments.1.text": "The performance of certain items is excessive, and it feels very disheartening when crafting fails.",
+        "items.0.comments.2.text": "The faction imbalance in the Abyss and the nerf to currency acquisition are really disappointing."
+      },
+      "drk": {
+        "title": "Beyond IP Brand Power: 'Operational Sincerity' and the Reshaping of the Fandom Economy",
+        "intro": "In an era where fandom is capital, why do some make a brilliant comeback while others fade behind the scenes? 🎮 The data-proven turnaround of small developers and the exit of massive IPs suggest that the survival laws of the game industry have changed.",
+        "points": "While Epid Games' 'Trickcal Re:vive' achieved a miracle for small developers with 46.8 billion KRW in annual revenue, 'Link! Like! Love Live!', which boasted a powerful fandom, announced its service termination. Simultaneously, Netmarble is attempting to extend the lifespan of its IP by reinterpreting past glory with a modern touch through the 'MONSTERS Taming: STAR DIVE' showcase.\n\nThese phenomena indicate that the game consumption structure of modern gamers has shifted from simple 'IP brand recognition' to 'operational sincerity and the speed of reflecting user feedback.' Consumers now consume not just the finished product, but the very process of a developer responding to user voices and improving the game, forming a psychological sense of belonging to the brand.\n\n**The era where past IP power guaranteed eternal profit is over; now, flexible updates and loyal community management are the lifeblood and capital of a game.** As seen in the 1000% surge in concurrent players for 'Gray Zone Warfare' after an update, the ability to provide tangible changes that users can feel in a timely manner has become a core metric for survival on any platform. 📈\n\nIn the future market, success will be determined by fluid live service capabilities rather than static blockbusters. Is the game you love evolving in rhythm with its users, or is it stagnating by relying solely on past reputation? 🧐"
+      },
+      "gamescene": {
+        "title": "Beyond the Limits of the Spire: A New Co-op Mode Featuring Three Simultaneous Heroes",
+        "comment": "Based on news about three new modes being planned by Mega Crit, I instructed the AI to imagine a future in-game screenshot where multiplayer co-op is implemented.",
+        "game": "Slay the Spire 2"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "レジェンド・オブ・イミール",
+        "releases.0.note": "4月7日に正式リリースされる、北欧神話をベースにした大作MMORPGです。Unreal Engine 5を活用した高品質なグラフィックと、極めてリアルな戦闘システムを披露します。",
+        "releases.0.dev": "Wemade",
+        "releases.1.game": "トララの麻雀教室",
+        "releases.1.note": "4月7日にSteamでリリースされた体験型麻雀学習ゲームです。可愛いキャラクター「トララ」と一緒に、麻雀の基本ルールを段階別に分かりやすく学ぶことができます。",
+        "releases.1.dev": "トララ劇場",
+        "releases.2.game": "RigidGems Museum（リジッドジェムズ・ミュージアム）",
+        "releases.2.note": "4月8日に正式リリースされるデジタル宝石博物館シミュレーションです。世界中の鉱物を採掘し、宝石に加工して自分だけの展示室を飾ることができます。",
+        "releases.2.dev": "Perio Works",
+        "releases.3.game": "モンギル：STAR DIVE",
+        "releases.3.note": "4月8日午後6時よりオンラインショーケースを開催し、ゲームの主な改善点や今後の具体的なリリース計画を初公開する予定です。",
+        "releases.3.dev": "ネットマーブル",
+        "releases.4.game": "Morbid Metal（モービッド・メタル）",
+        "releases.4.note": "4月9日にSteamで早期アクセスが開始されるハイスピード・ローグライトアクションゲームです。リアルタイムでキャラクターを交代しながら繰り広げるスタイリッシュな戦闘が特徴です。",
+        "releases.4.dev": "ScreenJuice",
+        "releases.5.game": "Pompeii: The Legacy（ポンペイ：ザ・レガシー）",
+        "releases.5.note": "早期アクセスを終え、4月9日に正式リリースされる都市建設シミュレーションです。古代ローマのポンペイを舞台に、都市を再建・拡張していく過程を描いています。",
+        "releases.5.dev": "SisiGa",
+        "events.0.name": "モンギル：STAR DIVE オンラインショーケース",
+        "events.0.note": "ネットマーブルモンスター新作の改善点および今後のリリース計画を公開",
+        "events.0.venue": "オンライン",
+        "events.1.name": "LEVEL5 VISION 2026 匠 (Takumi)",
+        "events.1.note": "レベルファイブの新作ラインナップ（イナズマイレブンなど）およびタイトル戦略の発表",
+        "events.1.venue": "オンライン（公式YouTubeチャンネル）"
+      },
+      "briefing": {
+        "items.0.title": "エピドゲームズ、『トリックカル』のヒットで売上高468億ウォン突破",
+        "items.0.source": "Inven",
+        "items.0.time": "4月6日",
+        "items.1.title": "Team Liquid、WoW「ミッドナイト」レイドで世界最速クリア（WFR）達成",
+        "items.1.source": "Inven",
+        "items.1.time": "4月6日",
+        "items.2.title": "『ダブルドラゴン』の生みの親、岸本良久氏が死去",
+        "items.2.source": "IGN India",
+        "items.2.time": "4月6日",
+        "items.3.title": "『フロストパンク2』、新規DLC「信頼の背信」を公開",
+        "items.3.source": "IGN India",
+        "items.3.time": "4月6日",
+        "items.4.title": "レベルファイブ、4月10日に新作ショーケース「匠」の開催を決定",
+        "items.4.source": "4Gamer",
+        "items.4.time": "4月6日",
+        "items.5.title": "『Link！Like！ラブライブ！』、6月30日にサービス終了へ",
+        "items.5.source": "4Gamer",
+        "items.5.time": "4月6日",
+        "items.6.title": "Take-Two、AI部門の責任者を解任および技術チームの人員を削減",
+        "items.6.source": "4Gamer",
+        "items.6.time": "4月6日",
+        "items.7.title": "『グレイゾーン・ウォーフェア』、アップデート後に同時接続者数が1000%急増",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "4月6日"
+      },
+      "feedback": {
+        "items.0.game": "AION2",
+        "items.0.period": "直近30日間",
+        "items.0.keywords.0.text": "Class Mention",
+        "items.0.keywords.1.text": "Dungeon / Raid Discussion",
+        "items.0.keywords.2.text": "DPS Comparison",
+        "items.0.keywords.3.text": "Buff/Nerf Debate",
+        "items.0.keywords.4.text": "Build Meta",
+        "items.0.comments.0.text": "自動抽出と戦闘力システムの改編で利便性が良くなりましたね。",
+        "items.0.comments.1.text": "特定のアイテムの性能が過剰だし、製作に失敗した時の喪失感が大きすぎます。",
+        "items.0.comments.2.text": "アビスの種族バランスの不均衡と、財貨獲得量のナーフは本当にひどいです。"
+      },
+      "drk": {
+        "title": "IPの知名度を超えた「運営の誠実さ」とファンダム経済の再編",
+        "intro": "ファンダムがそのまま資本となる時代、なぜある者は華麗に復活し、ある者は舞台裏へと消えていくのでしょうか？🎮\n数値で証明された中小開発社の逆転劇と、巨大IPの退場は、ゲーム産業の生存法則が変化したことを示唆しています。",
+        "points": "エピドゲームズの『トリックカル』が年間売上468億ウォンを達成し、中小開発社の奇跡を起こした一方で、強力なファン層を誇った『Link！Like！ラブライブ！』はサービス終了を発表しました。同時にネットマーブルは『モンギル：STAR DIVE』のショーケースを通じて、過去の栄光を現代的な感覚で再解釈し、IPの生命力を延長させる試みを続けています。\n\nこのような現象は、現代のゲーマーの**ゲーム消費構造が、単なる「IPの認知度」から「運営の誠実さとユーザーフィードバックの反映速度」へと移行**したことを示しています。消費者はもはや完成された結果物だけでなく、開発者がユーザーの声に反応してゲームを改善していく過程そのものを一つのコンテンツとして消費し、ブランドに対する心理的な帰属意識を形成します。\n\n**過去のIPパワーが永遠の収益を保証していた時代は終わり、これからは柔軟なアップデートと忠誠心の高いコミュニティ管理が、そのままゲームの寿命であり資本となります。** 『グレイゾーン・ウォーフェア』のアップデート後に同時接続者数が1000%急増した事例に見られるように、技術的な完成度と同じくらい、ユーザーが体感できる実質的な変化を適時に提供する能力が、プラットフォーム内での生存を決定づける核心的な指標となりました。📈\n\nこれからの市場は、静的な大作よりも流動的なライブサービス能力が成否を分けるでしょう。皆さんが愛情を注いでいるゲームは、ユーザーと共に呼吸し進化していますか？それとも、過去の名声だけに頼って停滞していますか？🧐"
+      },
+      "gamescene": {
+        "title": "尖塔の限界を超えて：3人の英雄が同時交戦する新規協力モード",
+        "comment": "Dr. Kです。Mega Critが構想中の3つの新規モードのニュースに基づき、AIに多人数協力プレイが実装された未来のインゲームスクリーンショットを想像するよう指示しました。",
+        "game": "スレイザスパイア2"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "IP 이름값만으론 안 돼! 팬심을 흔드는 '운영의 진정성' ✨",
+    "en": "Beyond the IP Hype: Why 'Authenticity' is the New Gaming Meta 💎",
+    "ja": "有名IPなら売れる時代は終了？ファンを動かす「運営の誠実さ」の正体 ✨"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ]
+}

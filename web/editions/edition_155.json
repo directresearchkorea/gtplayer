@@ -1,0 +1,439 @@
+{
+  "num": "155",
+  "date": "2026-10-27",
+  "status": "published",
+  "schedule": {
+    "date": "2026-10-27",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "안티 안티",
+          "dev": "5J6B 웍스",
+          "date": "10월 27일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 27일 스팀으로 정식 출시되는 심리 스릴러 비주얼 노벨로, 괴생명체와 아이돌 오디션 참가자 사이의 기묘한 이야기를 다룹니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=322577",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "레카",
+          "dev": "엠버스톤 엔터테인먼트",
+          "date": "10월 27일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 27일 정식 1.0 버전으로 출시되는 힐링 어드벤처 RPG로, 닭 다리로 걷는 마법의 오두막을 짓고 숲을 탐험하는 마녀의 여정을 담았습니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/reka/275391/reka-official-10-launch-trailer",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "release",
+          "game": "에소루",
+          "dev": "기드온미디어콘텐츠",
+          "date": "10월 27일(화)",
+          "platforms": [
+            "Android"
+          ],
+          "color": "#10b981",
+          "note": "10월 27일 구글 플레이를 통해 안드로이드 버전으로 출시된 1인 개발 텍스트 기반 MMORPG입니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1782344",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "설퍼",
+          "dev": "퍼펙트 랜덤",
+          "date": "10월 28일(수)",
+          "platforms": [
+            "PC",
+            "PlayStation",
+            "Xbox"
+          ],
+          "color": "#10b981",
+          "note": "10월 28일 정식 1.0 버전과 콘솔판이 출시되는 로그라이크 FPS로, 던전을 탐험하며 무기를 개조하고 모험을 즐길 수 있습니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/715/G071508/20261026026/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "팬텀 블레이드 제로",
+          "dev": "에스게임",
+          "date": "10월 29일(목)",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "color": "#10b981",
+          "note": "10월 29일 글로벌 출시되는 다크 판타지 무협 액션 RPG로, 호쾌하고 정교한 검술 액션 공방을 제공합니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/phantom-blade-zero/275380/phantom-blade-zero-global-release-times-and-preload-details",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "release",
+          "game": "더 울프 어몽 어스 리마스터",
+          "dev": "텔테일 게임즈",
+          "date": "10월 29일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 29일 스팀으로 출시되는 내러티브 어드벤처 리마스터 신작으로, 동화 속 인물들이 살아가는 어두운 도시의 살인 사건을 파헤칩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3884860/The_Wolf_Among_Us_Remastered/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "붕괴: 스타레일 Ver.4.7 프리뷰 특별 방송",
+          "note": "Ver.4.7 '지금, 별무리는 웃음에 감싸이고' 최신 업데이트 정보 및 캐릭터 공개",
+          "venue": "온라인",
+          "date": "2026-10-30",
+          "tag": "쇼케이스",
+          "website": "https://www.4gamer.net/games/599/G059954/20261026046/"
+        },
+        {
+          "name": "AGF 2026 (Anime X Game Festival)",
+          "note": "엔씨소프트, 넥슨, 스마일게이트 등 주요 게임사가 참가하는 대형 서브컬처 페스티벌",
+          "venue": "일산 킨텍스",
+          "date": "2026-12-04 ~ 2026-12-06",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=322579"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "2026 대한민국 게임대상 본상 후보작 12종 공개",
+          "source": "인벤",
+          "time": "10월 26일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=322567"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "엔씨 '아이온2', 글로벌 캐릭터 630만 개 돌파",
+          "source": "게임메카",
+          "time": "10월 26일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1782355"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "소닉 × 섀도우 제너레이션즈, 누적 300만 장 판매 돌파",
+          "source": "4Gamer",
+          "time": "10월 26일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/771/G077171/20261026041/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "스퀘어에닉스, '로맨싱 사가 3' 리메이크 상세 공개",
+          "source": "Famitsu",
+          "time": "10월 26일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202610/92108"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "콜 오브 듀티, 프랜차이즈 누적 매출 400억 달러 돌파",
+          "source": "IGN India",
+          "time": "10월 26일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/call-of-duty-2025-unofficial-name/275388/call-of-duty-franchise-surpasses-40-billion-lifetime-revenue-following-launch-of-modern-warfare-4"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "'고스트 오브 요테이' 개발사 서커펀치, 26명 감원 단행",
+          "source": "IGN India",
+          "time": "10월 26일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/ghost-of-yotei/275381/ghost-of-yotei-developer-sucker-punch-hit-with-layoffs"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "넷플릭스, MS에 엑스박스 IP 라이선스 5억 달러 제안",
+          "source": "GamesIndustry.biz",
+          "time": "10월 26일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/netflix-reportedly-offered-500m-to-microsoft-to-license-xbox-ip-for-seven-years"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "슈퍼 IP의 독점과 개발 현장의 한파: 양극화되는 게임 생태계",
+      "intro": "누적 400억 달러의 매출과 5억 달러 규모의 IP 제안이 오가는 화려한 축제 이면에서, 왜 개발 현장은 여전히 차가운 감원의 칼바람을 맞고 있을까요?\n거대 자본의 집중이 가져온 산업의 구조적 모순을 들여다볼 때입니다.",
+      "points": "콜 오브 듀티 프랜차이즈가 400억 달러 누적 매출을 돌파하고, 넷플릭스가 MS의 엑스박스 IP에 5억 달러 라이선스를 제안하는 등 메가 IP의 몸값은 천문학적으로 치솟고 있습니다. 💰 그러나 같은 날, 차기작을 준비 중인 명문 스튜디오 서커펀치의 감원 소식은 대형 개발사들이 직면한 살얼음판 같은 현실을 극명하게 대비시킵니다.\n\n이러한 현상은 **게임 소비 구조**가 극단적인 '안전 자산' 위주로 재편되었음을 증명합니다. 플레이어들은 시간과 비용을 아끼기 위해 검증된 프랜차이즈에만 몰입하고 있으며, 엔터테인먼트 플랫폼 역시 리스크를 피하고자 인지도 높은 대형 IP에만 자본을 쏟아붓습니다. 반면 수천억 원의 제작비와 긴 개발 주기를 감당해야 하는 스튜디오는 실패의 완충 지대를 잃어버린 채 조직 축소로 방어벽을 세우고 있습니다. 📉\n\n결국 업계의 주도권은 창작의 영역에서 **'독점적 IP를 통제하고 확장할 수 있는 자본과 플랫폼'**으로 급격히 이동하고 있습니다. 자본이 소수의 슈퍼 IP로만 집중되면서, 도전적인 오리지널 타이틀이 설 자리는 점점 좁아지고 게임 생태계의 다양성은 심각한 위기를 맞이하고 있습니다. ⚠️\n\n거대 프랜차이즈의 무한 복제와 확장이 이어지는 이 시대에, 과연 다음 세대를 전율케 할 새로운 세계관은 어디에서 태어날 수 있을까요? 🧭"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "로드나인",
+      "title": "신규 서버 하칸 광장에 펼쳐진 파파존스 페스티벌",
+      "imgUrl": "",
+      "comment": "앞선 분석에 이어 보너스로 선보이는 컷으로, 파파존스 콜라보레이션과 신규 서버 '하칸' 업데이트 이후 활기로 가득 찰 로드나인 광장의 축제 분위기를 AI에게 그대로 재현하도록 지시해 보았습니다.",
+      "ai_prompt": "Actual in-game screenshot, exact original game engine rendering, completely identical to original art style, NO cinematic styling, NO illustration, MMORPG Lord Nine actual gameplay screen, high-fantasy medieval realistic graphics, bustling central town square in the new server Hakan, crowded player characters in heavy plate armor and ornate robes gathering around a festive Papa Johns themed wooden food stall and banquet table, warm festival torches and decorative banners, characters with subtle golden pizza buff icons above their names, third-person MMORPG player camera angle, authentic Unreal Engine 5 in-game assets, realistic metallic reflections and weapon enchant glows, crisp in-game textures and natural daytime village lighting."
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Anti Anti",
+        "releases.0.note": "A psychological thriller visual novel officially releasing on Steam on October 27, telling a bizarre story between an unidentified creature and an idol audition participant.",
+        "releases.0.dev": "5J6B Works",
+        "releases.1.game": "REKA",
+        "releases.1.note": "A cozy adventure RPG officially launching in version 1.0 on October 27, following a witch's journey as she builds a magical cottage on chicken legs and explores the forest.",
+        "releases.1.dev": "Emberstorm Entertainment",
+        "releases.2.game": "Esoru",
+        "releases.2.note": "A solo-developed text-based MMORPG released on Android via Google Play on October 27.",
+        "releases.2.dev": "Gideon Media Contents",
+        "releases.3.game": "SULPHUR",
+        "releases.3.note": "A roguelike FPS releasing its official 1.0 version alongside console editions on October 28, allowing players to explore dungeons, modify weapons, and embark on adventures.",
+        "releases.3.dev": "Perfect Random",
+        "releases.4.game": "Phantom Blade Zero",
+        "releases.4.note": "A dark fantasy Wuxia action RPG launching globally on October 29, delivering exhilarating and intricate sword-fighting combat.",
+        "releases.4.dev": "S-GAME",
+        "releases.5.game": "The Wolf Among Us Remastered",
+        "releases.5.note": "A remastered narrative adventure releasing on Steam on October 29, uncovering murder mysteries in a dark city inhabited by fairytale characters.",
+        "releases.5.dev": "Telltale Games",
+        "events.0.name": "Honkai: Star Rail Ver. 4.7 Special Preview Program",
+        "events.0.note": "Revealing the latest update details and new characters for Ver. 4.7 'Now, the Stars Are Cloaked in Laughter'",
+        "events.0.venue": "Online",
+        "events.1.name": "AGF 2026 (Anime X Game Festival)",
+        "events.1.note": "A major subculture festival featuring key gaming companies including NCSOFT, Nexon, and Smilegate",
+        "events.1.venue": "KINTEX, Ilsan"
+      },
+      "briefing": {
+        "items.0.title": "12 Finalists Revealed for the 2026 Korea Game Awards Main Category",
+        "items.0.source": "Inven",
+        "items.0.time": "October 26",
+        "items.1.title": "NCSOFT's 'AION 2' Surpasses 6.3 Million Global Characters Created",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "October 26",
+        "items.2.title": "Sonic X Shadow Generations Surpasses 3 Million Cumulative Units Sold",
+        "items.2.source": "4Gamer",
+        "items.2.time": "October 26",
+        "items.3.title": "Square Enix Reveals Details for 'Romancing SaGa 3' Remake",
+        "items.3.source": "Famitsu",
+        "items.3.time": "October 26",
+        "items.4.title": "Call of Duty Franchise Surpasses $40 Billion in Lifetime Revenue",
+        "items.4.source": "IGN India",
+        "items.4.time": "October 26",
+        "items.5.title": "'Ghost of Yōtei' Developer Sucker Punch Lays Off 26 Employees",
+        "items.5.source": "IGN India",
+        "items.5.time": "October 26",
+        "items.6.title": "Netflix Offers Microsoft $500M to License Xbox IPs",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "October 26"
+      },
+      "drk": {
+        "title": "Super IP Monopolization and the Chill in Development: A Polarizing Gaming Ecosystem",
+        "intro": "Behind the glamorous headlines of $40 billion in cumulative revenue and $500 million IP offers, why are development studios still facing the bitter chill of layoffs?\nIt is time to examine the structural contradictions within the industry brought on by the concentration of massive capital.",
+        "points": "The value of mega-IPs is soaring to astronomical heights, with the Call of Duty franchise surpassing $40 billion in lifetime revenue and Netflix proposing a $500 million licensing deal for Microsoft's Xbox IPs. 💰 Yet, on the very same day, news of layoffs at Sucker Punch—a prestigious studio actively working on its next title—serves as a stark contrast highlighting the thin ice major developers are walking on.\n\nThis phenomenon proves that the **game consumption structure** has reorganized drastically around 'safe assets.' Players, aiming to save both time and money, commit exclusively to proven franchises, while entertainment platforms also pour capital solely into recognizable, large-scale IPs to mitigate risk. Conversely, studios tasked with managing hundreds of millions of dollars in production costs and lengthy development cycles have lost their margin for error, resorting to downsizing as a defensive wall. 📉\n\nUltimately, industry leadership is rapidly shifting away from pure creative endeavors toward **'capital and platforms capable of controlling and expanding proprietary IPs.'** As capital concentrates around a handful of super-IPs, the room for daring, original titles is steadily shrinking, placing the diversity of the gaming ecosystem in grave danger. ⚠️\n\nIn an era dominated by the endless replication and expansion of mega-franchises, where will the next generation's groundbreaking universes be born? 🧭"
+      },
+      "gamescene": {
+        "game": "Lord Nine",
+        "title": "Papa Johns Festival Unfolds in the New Server Hakan Square",
+        "comment": "Presented as a bonus following the analysis above, this cut showcases an AI reproduction instructed to recreate the festive and lively atmosphere expected in the Lord Nine square following the Papa Johns collaboration and the new 'Hakan' server update."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ANTI ANTI",
+        "releases.0.note": "10月27日にSteamで正式リリースされるサイコスリラービジュアルノベル。謎の生命体とアイドルオーディション参加者の奇妙な物語を描きます。",
+        "releases.0.dev": "5J6B Works",
+        "releases.1.game": "REKA",
+        "releases.1.note": "10月27日に正式バージョン1.0がリリースされる癒やし系アドベンチャーRPG。鳥の足で歩く魔法の小屋を建て、森を探索する魔女の旅を描きます。",
+        "releases.1.dev": "Emberstorm Entertainment",
+        "releases.2.game": "エソル",
+        "releases.2.note": "10月27日にGoogle Playを通じてAndroid版がリリースされた、個人開発のテキストベースMMORPGです。",
+        "releases.2.dev": "ギデオンメディアコンテンツ",
+        "releases.3.game": "SULPHUR",
+        "releases.3.note": "10月28日に正式バージョン1.0およびコンソール版がリリースされるローグライクFPS。ダンジョンを探索しながら武器を改造し、冒険を楽しめます。",
+        "releases.3.dev": "Perfect Random",
+        "releases.4.game": "ファントムブレイド・ゼロ",
+        "releases.4.note": "10月29日に世界同時リリースされるダークファンタジー武侠アクションRPG。爽快かつ精緻な剣術アクションの攻防を楽しめます。",
+        "releases.4.dev": "S-GAME",
+        "releases.5.game": "The Wolf Among Us リマスター",
+        "releases.5.note": "10月29日にSteamでリリースされるナラティブアドベンチャーのリマスター新作。おとぎ話の登場人物たちが暮らすダークな街で起きた殺人事件を追います。",
+        "releases.5.dev": "Telltale Games",
+        "events.0.name": "『崩壊：スターレイル』Ver.4.7予告番組",
+        "events.0.note": "Ver.4.7「今、星々は笑みに包まれ」最新アップデート情報および新キャラクター公開",
+        "events.0.venue": "オンライン",
+        "events.1.name": "AGF 2026 (Anime X Game Festival)",
+        "events.1.note": "NCSOFT、ネクソン、スマイルゲートなど主要ゲーム会社が参加する大型サブカルチャーフェスティバル",
+        "events.1.venue": "一山（イルサン）KINTEX"
+      },
+      "briefing": {
+        "items.0.title": "「2026大韓民国ゲーム大賞」本賞候補12作品が公開",
+        "items.0.source": "Inven",
+        "items.0.time": "10月26日",
+        "items.1.title": "NCSOFT『アイオン2』、全世界キャラクター数630万を突破",
+        "items.1.source": "GameMeca",
+        "items.1.time": "10月26日",
+        "items.2.title": "『ソニック × シャドウ ジェネレーションズ』、累計販売本数300万本を突破",
+        "items.2.source": "4Gamer",
+        "items.2.time": "10月26日",
+        "items.3.title": "スクウェア・エニックス、『ロマンシング サガ3』リメイクの詳細を公開",
+        "items.3.source": "Famitsu",
+        "items.3.time": "10月26日",
+        "items.4.title": "『コール オブ デューティ』シリーズ、累計売上400億ドルを突破",
+        "items.4.source": "IGN India",
+        "items.4.time": "10月26日",
+        "items.5.title": "『Ghost of Yōtei』開発元のサッカーパンチ、26名の人員削減を実施",
+        "items.5.source": "IGN India",
+        "items.5.time": "10月26日",
+        "items.6.title": "Netflix、マイクロソフトにXbox IPのライセンスとして5億ドルを提案",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "10月26日"
+      },
+      "drk": {
+        "title": "スーパーIPの独占と開発現場の冷え込み：二極化するゲームエコシステム",
+        "intro": "累計400億ドルの売上や5億ドル規模のIP提案が飛び交う華やかな祭典の裏で、なぜ開発現場は依然として冷え込む人員削減の嵐にさらされているのでしょうか？\n巨大資本の集中がもたらした業界の構造的矛盾を見つめ直す時が来ています。",
+        "points": "『コール オブ デューティ』シリーズが累計売上400億ドルを突破し、NetflixがマイクロソフトのXbox IPに5億ドルのライセンス契約を提案するなど、メガIPの価値は天文学的な高騰を見せています。💰 しかし同じ日に、次回作を準備中である名門スタジオ「サッカーパンチ」の人員削減が報じられたことは、大手開発会社が直面している薄氷を踏むような現実を如実に物語っています。\n\nこうした現象は、**ゲームの消費構造**が極端な「安全資産」偏重へと再編されたことを証明しています。プレイヤーは時間と費用を惜しむため検証済みのシリーズ作品にのみ没入し、エンタテインメントプラットフォームもリスクを避けるために知名度の高い大型IPにばかり資本を注ぎ込みます。一方で、数千億ウォン規模の制作費と長期にわたる開発期間を抱えなければならないスタジオは、失敗に対するバッファを失い、組織の縮小によって防壁を築いています。📉\n\n結局のところ、業界の主導権は創作の領域から**「独占的IPをコントロールし拡張できる資本とプラットフォーム」**へと急速に移行しつつあります。資本が少数のスーパーIPだけに集中することで、野心的なオリジナルタイトルが立つ瀬は次第に狭まり、ゲームエコシステムの多様性は深刻な危機に瀕しています。⚠️\n\n巨大フランチャイズの無限の複製と拡張が続くこの時代において、果たして次の世代を震撼させる新たな世界観はどこから生まれるのでしょうか？🧭"
+      },
+      "gamescene": {
+        "game": "ロードナイン",
+        "title": "新サーバー「ハカン」広場に広がるパパ・ジョンズ・フェスティバル",
+        "comment": "前述の分析に続くボーナスカットとして、パパ・ジョンズとのコラボレーションおよび新サーバー「ハカン」のアップデート後に活気にあふれるであろう『ロードナイン』広場の祝祭の雰囲気を、AIにそのまま再現させました。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "대작만 살아남는 게임판, 무너지는 개발 현장의 진실 🥶📉",
+    "en": "Mega-IPs Take It All: Inside the Brutal Winter of Game Dev 🥶📉",
+    "ja": "超大作の独占と開発現場の冷え込み… 二極化するゲーム業界のリアル 🥶📉"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": false,
+          "text": "요즘 게임판, 진짜 대작만 살아남는 거 체감되시나요? 🥶\n콜옵이 누적 매출 400억 달러 찍는 동안 무너지는 현장 실태를 정리했어요🎮\n\nhttps://www.gtplayer.net/edition-155/\n\n#콜오브듀티 #GTPlayer",
+          "error": "Posting failed or blocked"
+        }
+      },
+      "updated_at": "2026-10-27T07:02:29.998563"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "10월 27일 오늘의 게임 소식 🎮\n📰 [뉴스] 2026 대한민국 게임대상 후보 공개부터 엔씨 '아이온2' 캐릭터 630만 돌파, 콜 오브 듀티 400억 달러 누적 매출까지\n📅 [출시] 팬텀 블레이드 제로, 설퍼, 더 울프 어몽 어스 리마스터 등 이번 주 주목할 플랫폼별 신작 라인업\n✍️ [인사이트] 초대형 IP 독점과 천문학적 매출 이면의 감원 칼바람, 극단적 양극화로 흔들리는 게임 개발 현장의 진실\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#GT플레이어 #게임뉴스 #게임정보 #게임추천 #신작게임 #콘솔게임 #PC게임 #스팀게임 #아이온2 #팬텀블레이드제로 #콜오브듀티 #소닉 #로맨싱사가 #게임대상 #게임업계 #인디게임 #게이머 #게임스타그램 #모바일게임 #게임소식",
+          "image_paths": [
+            "web\\instagram\\edition_155\\card_cover.png",
+            "web\\instagram\\edition_155\\card_news.png",
+            "web\\instagram\\edition_155\\card_calendar.png",
+            "web\\instagram\\edition_155\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "4016735235723216885_39332818166",
+            "url": "https://www.instagram.com/p/De-T2pSE8f1/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-10-27T07:03:00.827727"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Mega-IPs Take It All: Inside the Brutal Winter of Game Dev 🥶📉\n\nCall of Duty just crossed a historic $40 billion milestone while AION 2 explodes with millions of players.\nYet behind these massive headlines, the broader world of game development is facing a brutal freeze.\n\nhttps://www.gtplayer.net/edition-155-en/",
+        "error": null
+      },
+      "updated_at": "2026-10-27T07:03:48.109802"
+    }
+  }
+}

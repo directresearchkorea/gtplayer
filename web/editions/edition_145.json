@@ -1,0 +1,438 @@
+{
+  "num": "145",
+  "date": "2026-10-13",
+  "status": "published",
+  "schedule": {
+    "date": "2026-10-13",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "플래닛 주 2",
+          "dev": "프론티어 디벨롭먼트",
+          "date": "10월 13일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 13일 정식 출시되는 동물원 경영 시뮬레이션 신작으로, 전 세계를 배경으로 나만의 동물원을 정밀하게 설계하고 관리할 수 있습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3219030/Planet_Zoo_2/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "캐슬바니아: 벨몬트의 저주",
+          "dev": "코나미",
+          "date": "10월 14일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 14일 출시되는 액션 어드벤처 시리즈 최신작으로, 새로운 벨몬트 일족의 고딕 판타지 토벌기를 다룹니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4231820/Castlevania_Belmonts_Curse/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "명일방주: 엔드필드",
+          "dev": "하이퍼그리프",
+          "date": "10월 14일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 14일 글로벌 출시되는 3D 실시간 전략 RPG로, 미개척 행성 탈로스II에서 기지 건설과 전략적 실시간 전투를 펼치게 됩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4732690/Arknights_Endfield/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "워해머 40,000: 볼트건 2",
+          "dev": "오로체 디지털",
+          "date": "10월 14일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 14일 출시되는 레트로풍 1인칭 슈팅(FPS) 후속작으로, 스페이스 마린이 되어 혼돈의 세력을 상대로 한층 강화된 화력전을 즐길 수 있습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3115160/Warhammer_40000_Boltgun_2/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "update",
+          "game": "배틀필드 6",
+          "dev": "EA 다이스",
+          "date": "10월 14일(수)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#3b82f6",
+          "note": "10월 14일 시작되는 시즌 5 업데이트로, 라스베이거스를 배경으로 한 신규 맵 2종과 전면적인 시가전 콘텐츠가 추가됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=321918",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "테일즈 오브 이터니아 리마스터",
+          "dev": "반다이남코 엔터테인먼트",
+          "date": "10월 15일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 15일 출시되는 클래식 JRPG 명작의 리마스터 버전으로, 그래픽 및 편의성이 개선되어 스팀 플랫폼에 선보입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3470960/Tales_of_Eternia_Remastered/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "2026 리그 오브 레전드 월드 챔피언십 (롤드컵)",
+          "note": "2026 LoL 월드 챔피언십 개막",
+          "venue": "온라인 / 오프라인",
+          "date": "2026-10-16",
+          "tag": "e스포츠",
+          "website": "https://www.inven.co.kr/webzine/news/?news=321970"
+        },
+        {
+          "name": "스팀 넥스트 페스트 (Steam Next Fest)",
+          "note": "출시 예정 신작 데모 공개 및 개발자 스트리밍 행사",
+          "venue": "온라인 (Steam)",
+          "date": "2026-10-19 ~ 10-26",
+          "tag": "쇼케이스",
+          "website": "https://www.inven.co.kr/webzine/news/?news=321993"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "스팀, 동시 접속자 4,350만 명 돌파… 역대 최고 경신",
+          "source": "인벤",
+          "time": "10월 12일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=322002"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "\"음원 사재기와 같아\"… 게임 BJ 프로모션 금지법 추진",
+          "source": "게임메카",
+          "time": "10월 12일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1781675"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "에픽게임즈, 개발진 AI 전면화 지침… 디즈니 합작작은 연기",
+          "source": "IGN India",
+          "time": "10월 12일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/fortnite/274219/epic-reportedly-pushing-devs-to-use-ai-delays-secret-star-wars-and-marvel-crossover-shooter"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "무술 액션 명작 '시푸', 모바일 버전 글로벌 정식 출시",
+          "source": "IGN India",
+          "time": "10월 12일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/sifu/274204/sifu-official-mobile-launch-trailer"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "카툰풍 액션 RPG 신작 '블레스 유 어게인', 무료 데모 공개",
+          "source": "Famitsu",
+          "time": "10월 12일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202610/90718"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "커버, 홀로라이브 기반 신작 게임 '호로잔' 공식 PV 공개",
+          "source": "電撃オンライン",
+          "time": "10월 12일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202610/90707"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "락스타 'GTA 6' 해커 집단, 전편 스토리 빌드 유출 협박 파문",
+          "source": "GamesIndustry.biz",
+          "time": "10월 12일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/group-behind-gta-6-leaks-threatens-to-release-alleged-full-build-of-game-including-story-mode"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "AI 전면화의 역설: 효율의 환상과 프로젝트 지연 사이",
+      "intro": "인공지능이 개발 일정을 획기적으로 단축해 줄 것이라는 믿음은 환상이었을까요? 🤖\n에픽게임즈의 AI 전면 도입 선언과 동시에 들려온 대형 합작 프로젝트 연기 소식이 업계에 날카로운 질문을 던집니다.",
+      "points": "에픽게임즈가 전사적 AI 전면화 지침을 발표했으나, 기대를 모았던 디즈니 합작 프로젝트의 일정은 오히려 연기되었습니다. 최첨단 기술 도입 선언의 이면에서 발생한 일정 지연은 글로벌 개발 현장이 마주한 현실적인 괴리를 명확히 보여줍니다. 📉\n\n이는 **실제 게임 형태의 변화**를 시도하는 과정에서 필연적으로 발생하는 파이프라인의 병목 현상입니다. 생성형 AI가 초기 에셋 제작 속도를 높일 수는 있지만, 상용화 수준의 품질 검증과 시스템 통합 과정은 여전히 미완성 상태입니다. 결과적으로 불완전한 결과물을 수정하고 조율하는 추가 비용이 발생하며 단기 생산성이 저하되는 역설이 나타납니다. ⚙️\n\n**AI는 제작을 돕는 보조 도구일 뿐, 완성도 높은 플레이 경험을 빚어내는 숙의의 시간을 건너뛰게 만드는 만능열쇠가 아닙니다.** 기술 도입의 목적이 단순 비용 절감에만 머무를 때, 거대 프로젝트의 구조적 균열은 피할 수 없다는 점을 이번 사례가 명확히 경고합니다. 💡\n\n기술적 효율화의 유혹 속에서 게임 산업은 과연 장인정신과 인간적 조율의 가치를 어떻게 지켜낼 수 있을까요? 🎮"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "배틀필드6",
+      "title": "네온사인 속 펼쳐지는 화력전, 라스베이거스 스트립의 시가전",
+      "imgUrl": "",
+      "comment": "라스베이거스의 화려한 네온사인과 무너지는 카지노 도심 속에서 신규 무기를 들고 격돌하는 배틀필드6 시즌5의 치열한 교전 현장을 AI에게 시각화하도록 주문했습니다.",
+      "ai_prompt": "Actual in-game screenshot, exact original game engine rendering, completely identical to original art style, NO cinematic styling, NO illustration, first-person shooter perspective gameplay screen from Battlefield 6. The player is holding a modern MK24 assault rifle equipped with holographic sight, running through the debris-covered streets of the Las Vegas Strip at dusk. Neon signs of damaged casino hotels flickering in the background, luxury sports cars destroyed and burning on the asphalt, attack helicopters dogfighting in the smoky sky above, Frostbite engine realistic military lighting, high texture detail, concrete dust and volumetric smoke, complete military HUD elements on screen including ammo counter, mini-map, and squad status."
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Planet Zoo 2",
+        "releases.0.note": "A new zoo management simulation officially releasing on October 13, allowing players to meticulously design and manage their own zoos across the globe.",
+        "releases.0.dev": "Frontier Developments",
+        "releases.1.game": "Castlevania: Curse of the Belmont",
+        "releases.1.note": "The latest action-adventure series installment releasing on October 14, following a new Belmont clan member's gothic fantasy crusade.",
+        "releases.1.dev": "Konami",
+        "releases.2.game": "Arknights: Endfield",
+        "releases.2.note": "A 3D real-time strategy RPG launching globally on October 14, featuring base building and strategic real-time combat on the uncharted planet Talos-II.",
+        "releases.2.dev": "Hypergryph",
+        "releases.3.game": "Warhammer 40,000: Boltgun 2",
+        "releases.3.note": "A retro-style FPS sequel releasing on October 14, where players become a Space Marine to engage in intensified firefights against the forces of Chaos.",
+        "releases.3.dev": "Auroch Digital",
+        "releases.4.game": "Battlefield 6",
+        "releases.4.note": "The Season 5 update launching on October 14, introducing two new Las Vegas-themed maps and full-scale urban warfare content.",
+        "releases.4.dev": "EA DICE",
+        "releases.5.game": "Tales of Eternia Remastered",
+        "releases.5.note": "A remastered version of the classic JRPG masterpiece releasing on October 15, arriving on Steam with upgraded graphics and quality-of-life improvements.",
+        "releases.5.dev": "Bandai Namco Entertainment",
+        "events.0.name": "2026 League of Legends World Championship (Worlds 2026)",
+        "events.0.note": "Kickoff of the 2026 LoL World Championship",
+        "events.0.venue": "Online / In-person",
+        "events.1.name": "Steam Next Fest",
+        "events.1.note": "Upcoming game demo showcase and developer streaming event",
+        "events.1.venue": "Online (Steam)"
+      },
+      "briefing": {
+        "items.0.title": "Steam Surpasses 43.5 Million Concurrent Users, Setting a New All-Time Record",
+        "items.0.source": "Inven",
+        "items.0.time": "October 12",
+        "items.1.title": "\"Just Like Music Chart Rigging\"... Legislation Pushed to Ban Paid Game Streamer Promotions",
+        "items.1.source": "GameMeca",
+        "items.1.time": "October 12",
+        "items.2.title": "Epic Games Mandates Company-Wide AI Integration; Disney Collab Project Delayed",
+        "items.2.source": "IGN India",
+        "items.2.time": "October 12",
+        "items.3.title": "Hit Martial Arts Action Game 'Sifu' Officially Launches Worldwide on Mobile",
+        "items.3.source": "IGN India",
+        "items.3.time": "October 12",
+        "items.4.title": "New Cartoon-Style Action RPG 'Bless You Again' Releases Free Demo",
+        "items.4.source": "Famitsu",
+        "items.4.time": "October 12",
+        "items.5.title": "Cover Reveals Official PV for Hololive-Based New Game 'Holozan'",
+        "items.5.source": "Dengeki Online",
+        "items.5.time": "October 12",
+        "items.6.title": "Hacker Group Threatens to Leak Full Story Build of Rockstar's 'GTA 6', Sparking Controversy",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "October 12"
+      },
+      "drk": {
+        "title": "The Paradox of Full-Scale AI Adoption: Between the Illusion of Efficiency and Project Delays",
+        "intro": "Was the belief that artificial intelligence would dramatically cut development timelines just an illusion? 🤖\nEpic Games' push for company-wide AI adoption alongside news of a delay in its major collaborative project poses a sharp question to the industry.",
+        "points": "Epic Games announced a company-wide directive for full AI adoption, yet the schedule for its highly anticipated Disney collaboration has actually been pushed back. Behind the declaration of cutting-edge technology adoption, schedule delays clearly highlight the practical disconnect facing global development teams. 📉\n\nThis represents an inevitable pipeline bottleneck that arises when attempting **structural transformations in actual game formats**. While generative AI can accelerate initial asset production, quality verification for commercial standards and system integration remain incomplete. Consequently, additional costs required to revise and fine-tune imperfect outputs result in a paradox where short-term productivity actually declines. ⚙️\n\n**AI is merely an assisting tool; it is not a silver bullet that bypasses the time and deliberation needed to craft a polished player experience.** This case serves as a clear warning that when technological adoption focuses solely on cost reduction, structural cracks in massive projects become unavoidable. 💡\n\nAmid the allure of technical efficiency, how will the gaming industry preserve the value of craftsmanship and human touch? 🎮"
+      },
+      "gamescene": {
+        "game": "Battlefield 6",
+        "title": "Firefight Under Neon Signs: Urban Warfare on the Las Vegas Strip",
+        "comment": "I instructed the AI to visualize the intense combat of Battlefield 6 Season 5, capturing clashes with new weaponry amidst dazzling neon signs and crumbling casino streets in Las Vegas."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "プラネット ズー 2",
+        "releases.0.note": "10月13日に正式リリースされる動物園経営シミュレーションの新作。世界中を舞台に、自分だけの動物園を緻密に設計・管理できます。",
+        "releases.0.dev": "フロンティア・ディベロップメンツ",
+        "releases.1.game": "キャッスルヴァニア：ベルモントの呪い",
+        "releases.1.note": "10月14日にリリースされるアクションアドベンチャーシリーズの最新作。新たなベルモント一族によるゴシックファンタジー討伐劇が描かれます。",
+        "releases.1.dev": "コナミ",
+        "releases.2.game": "アークナイツ：エンドフィールド",
+        "releases.2.note": "10月14日にグローバルリリースされる3Dリアルタイム戦略RPG。未開拓の惑星「タロII」を舞台に、拠点建設と戦略的なリアルタイムバトルを繰り広げます。",
+        "releases.2.dev": "Hypergryph",
+        "releases.3.game": "ウォーハンマー40,000: ボルトガン 2",
+        "releases.3.note": "10月14日にリリースされるレトロ調ファーストパーソン・シューティング（FPS）の続編。スペースマリーンとなり、ケイオスの勢力を相手にさらに激しさを増した銃撃戦を楽しめます。",
+        "releases.3.dev": "Auroch Digital",
+        "releases.4.game": "バトルフィールド 6",
+        "releases.4.note": "10月14日より開始されるシーズン5アップデート。ラスベガスを舞台にした2種類の新規マップと、本格的な市街戦コンテンツが追加されます。",
+        "releases.4.dev": "EA DICE",
+        "releases.5.game": "テイルズ オブ エターニア リマスター",
+        "releases.5.note": "10月15日にリリースされる名作クラシックJRPGのリマスター版。グラフィックやプレイ環境の利便性が向上し、Steamプラットフォーム向けに登場します。",
+        "releases.5.dev": "バンダイナムコエンターテインメント",
+        "events.0.name": "2026 League of Legends World Championship (Worlds)",
+        "events.0.note": "2026 LoL World Championship 開幕",
+        "events.0.venue": "オンライン / オフライン",
+        "events.1.name": "Steam Nextフェス (Steam Next Fest)",
+        "events.1.note": "リリース予定の新作体験版公開および開発者ストリーミングイベント",
+        "events.1.venue": "オンライン (Steam)"
+      },
+      "briefing": {
+        "items.0.title": "Steam、同時接続者数4,350万人を突破… 歴代最高記録を更新",
+        "items.0.source": "Inven",
+        "items.0.time": "10月12日",
+        "items.1.title": "「音源買い占めと同じ」… ゲーム実況者へのプロモーション規制法案が推進",
+        "items.1.source": "GameMeca",
+        "items.1.time": "10月12日",
+        "items.2.title": "Epic Games、開発陣へのAI全面導入を指示… ディズニーとの共同プロジェクトは延期",
+        "items.2.source": "IGN India",
+        "items.2.time": "10月12日",
+        "items.3.title": "カンフーアクションの名作『SIFU』、モバイル版が世界で正式リリース",
+        "items.3.source": "IGN India",
+        "items.3.time": "10月12日",
+        "items.4.title": "カートゥーン調の新作アクションRPG『ブレス・ユー・アゲイン』、無料体験版を公開",
+        "items.4.source": "Famitsu",
+        "items.4.time": "10月12日",
+        "items.5.title": "カバー、ホロライブを題材とした新作ゲーム『ホロザン』の公式PVを公開",
+        "items.5.source": "電撃オンライン",
+        "items.5.time": "10月12日",
+        "items.6.title": "ロックスターの『GTA 6』ハッカー集団、本編の全ストーリービルド流出を脅迫し波紋広がる",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "10月12日"
+      },
+      "drk": {
+        "title": "AI全面導入の逆説：効率という幻想とプロジェクト遅延の間で",
+        "intro": "人工知能が開発期間を劇的に短縮してくれるという期待は、果たして幻想だったのでしょうか？ 🤖\nEpic GamesのAI全面導入宣言と同時に報じられた大型共同プロジェクトの延期は、業界に鋭い問いを投げかけています。",
+        "points": "Epic Gamesが全社的なAI全面導入の方針を発表したものの、大きな期待を集めていたディズニーとの共同プロジェクトのスケジュールは延期となりました。最先端技術の導入宣言の裏で生じたスケジュールの遅延は、グローバルな開発現場が直面している現実的なギャップを如実に示しています。 📉\n\nこれは**実際のゲームのあり方を変革する**過程で必然的に発生する、パイプラインのボトルネックです。生成AIによって初期のアセット制作速度を引き上げることはできても、商業レベルの品質検証やシステム統合のプロセスは依然として未完成のままです。その結果、不完全な成果物を修正・調整するための追加コストが発生し、短期的には生産性が低下するという逆説が生じています。 ⚙️\n\n**AIは制作を支援する補助ツールにすぎず、完成度の高いプレイ体験を創り上げるための熟考の時間を飛び越えさせてくれる万能の鍵ではありません。** 技術導入の目的が単なるコスト削減にとどまる限り、巨大プロジェクトにおける構造的な歪みは避けられないという事実を、今回の事例は明確に警告しています。 💡\n\n技術的な効率化という誘惑の中で、ゲーム産業は職人技と人間による調和の価値をどのように守っていくことができるのでしょうか？ 🎮"
+      },
+      "gamescene": {
+        "game": "バトルフィールド6",
+        "title": "ネオンサインの中で繰り広げられる銃撃戦、ラスベガス・ストリップの市街戦",
+        "comment": "ラスベガスの華やかなネオンサインと崩壊するカジノ街を舞台に、新武器を手に対峙する『バトルフィールド6』シーズン5の激しい交戦シーンをAIにビジュアル化させました。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "AI 쓰면 개발 빨라진다더니… 오히려 신작 출시가 연기되는 진짜 이유 🤖⏳",
+    "en": "AI was supposed to speed up game dev… so why are releases actually delayed? 🤖⏳",
+    "ja": "AI導入で開発爆速化のはずが…なぜ新作ゲームが逆に延期しまくっているのか？🤖⏳"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "AI 쓰면 게임 빨리 나온다더니 왜 자꾸 미뤄질까요? 🤔\n에픽이 개발에 AI를 전면 도입하자마자 신작을 연기해버렸네요! 🎮\n\nhttps://www.gtplayer.net/edition-145/\n#배틀필드6 #시푸 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-10-13T07:01:35.055296"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "10월 13일 오늘의 게임 소식 🎮\n📰 [뉴스] 스팀 동접 4,350만 돌파 신기록부터 인방 프로모션 규제법, 에픽게임즈의 AI 도입 이슈까지!\n📅 [출시] 배틀필드 6, 명일방주: 엔드필드, 플래닛 주 2 등 이번 주 쏟아지는 기대작 라인업\n✍️ [인사이트] AI 쓰면 개발 빨라진다더니… 오히려 신작 출시가 연기되는 진짜 이유\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임소식 #신작게임 #게임추천 #스팀게임 #배틀필드6 #명일방주엔드필드 #플래닛주2 #에픽게임즈 #AI #게임개발 #콘솔게임 #PC게임 #게임스타그램 #겜스타그램 #게이머 #게임덕후 #게임정보 #게임커뮤니티 #GTPLAYER",
+          "image_paths": [
+            "web\\instagram\\edition_145\\card_cover.png",
+            "web\\instagram\\edition_145\\card_news.png",
+            "web\\instagram\\edition_145\\card_calendar.png",
+            "web\\instagram\\edition_145\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "4006587945880607583_39332818166",
+            "url": "https://www.instagram.com/p/DeaQoJLk1tf/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-10-13T07:02:08.647305"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "AI was supposed to speed up game dev… so why are releases actually delayed? 🤖⏳\n\nWhile Steam smashes all-time records with 43.5 million concurrent players, Epic Games faces major project delays despite mandating company-wide AI tools.\nPacked with massive reveals like Battlefield 6 and Castlevania, the race between cutting-edge tech and real launch dates is heating up.\n\nhttps://www.gtplayer.net/edition-145-en/",
+        "error": null
+      },
+      "updated_at": "2026-10-13T07:02:59.346727"
+    }
+  }
+}

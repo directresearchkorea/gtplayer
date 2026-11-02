@@ -1,0 +1,441 @@
+{
+  "num": "152",
+  "date": "2026-10-22",
+  "status": "published",
+  "schedule": {
+    "date": "2026-10-22",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "콜 오브 듀티: 모던 워페어 4",
+          "dev": "인피니티 워드",
+          "date": "10월 22일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 22일 정식 출시되는 밀리터리 FPS 게임으로, 긴장감 넘치는 캠페인과 멀티플레이어 및 신규 DMZ 모드를 제공합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4435490/Call_of_Duty_Modern_Warfare_4/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "파이널 판타지 레조넌스",
+          "dev": "스퀘어 에닉스",
+          "date": "10월 22일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 22일 출시되는 판타지 RPG로, 파이널 판타지 세계관의 고유한 서사와 화려한 액션 배틀을 담아냈습니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3259780/FINAL_FANTASY_RESONANCE/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "원피스: 그랜드 고메",
+          "dev": "반다이 남코 엔터테인먼트",
+          "date": "10월 22일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 22일 출시되는 캐주얼 액션 시뮬레이션 게임으로, 원피스 캐릭터들과 함께 펼치는 요리와 모험을 다룹니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3905010/ONE_PIECE_Grand_Gourmet/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "위 워 히어 투모로우",
+          "dev": "토탈 메이헴 게임즈",
+          "date": "10월 22일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "XSX"
+          ],
+          "color": "#10b981",
+          "note": "10월 22일 정식 런칭된 2인 협동 전용 퍼즐 어드벤처로, 비대칭 퍼즐을 함께 풀며 미지의 시설을 탈출해야 합니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/we-were-here-tomorrow/275122/we-were-here-tomorrow-official-launch-trailer",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "update",
+          "game": "사이버펑크 2077",
+          "dev": "CD 프로젝트 레드",
+          "date": "10월 22일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "XSX"
+          ],
+          "color": "#3b82f6",
+          "note": "10월 22일 2.5 업데이트가 진행되며 신규 애니메이션 연계 사이드 퀘스트와 신규 장비가 대거 추가됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=322408",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "호라이즌 워커",
+          "dev": "젠틀매니악",
+          "date": "10월 22일(목)",
+          "platforms": [
+            "모바일",
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "10월 22일 정기 업데이트를 통해 신규 캐릭터 '목영영'과 전용 코스튬 및 할로윈 이벤트가 추가됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=322388",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "원신 Ver.7.2 특별 예고 방송",
+          "note": "신규 버전 업데이트 세부 정보 공개 및 성우진 출연 공식 방송",
+          "venue": "온라인",
+          "date": "2026-10-23",
+          "tag": "쇼케이스",
+          "website": "https://dengekionline.com/article/202610/91585"
+        },
+        {
+          "name": "스팀 넥스트 페스트 (Steam Next Fest)",
+          "note": "수천 종의 신작 인디 및 기대작 체험판 공개 및 개발자 라이브 스트리밍",
+          "venue": "온라인 (Steam)",
+          "date": "2026-10-21 ~ 2026-10-27",
+          "tag": "쇼케이스",
+          "website": "https://www.inven.co.kr/webzine/news/?news=322404"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "우마무스메, LA 공연 취소에 교통·숙박비 전액 환급",
+          "source": "인벤",
+          "time": "10월 21일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=322403"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "크래프톤, 독자 개발 LLM '라온-1 미니' 공개",
+          "source": "게임메카",
+          "time": "10월 21일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1782130"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "EA 스포츠, 신작 '오픈월드 축구 게임' 개발 공식 발표",
+          "source": "IGN India",
+          "time": "10월 21일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/madden-nfl-27/275135/ea-sports-confirms-its-developing-an-open-world-football-game"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "MS, 게임패스 없는 시간제 클라우드 스트리밍 도입",
+          "source": "IGN India",
+          "time": "10월 21일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/xbox-series-s/275132/xbox-insiders-can-now-stream-games-by-buying-cloud-playtime-without-game-pass-introductory-launch-pr"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "펄어비스 '붉은사막', 첫 DLC '미지의 여로' 영상 공개",
+          "source": "4Gamer",
+          "time": "10월 21일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/484/G048495/20261021030/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "코에이, '약사의 혼잣말' 신작 2027년 3월 출시 확정",
+          "source": "4Gamer",
+          "time": "10월 21일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/041/G104128/20261021033/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "30년 역사 바이오웨어 전격 폐쇄, 매스 이펙트 신작 중단",
+          "source": "GamesIndustry.biz",
+          "time": "10월 21일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/bioware-is-closing-after-30-years"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "30년 거인의 몰락, 서사형 AAA 게임의 지속 가능성을 묻다",
+      "intro": "30년간 서사형 RPG의 정점을 지켜온 상징적 스튜디오의 불꽃이 결국 꺼졌습니다. 🏛️\n거대 자본의 시대, 우리는 진정으로 깊이 있는 싱글플레이 게임의 황혼기를 목격하고 있는 걸까요?",
+      "points": "30년 역사를 자랑하며 RPG의 황금기를 이끌었던 바이오웨어가 공식 폐쇄되고, 기대작 매스 이펙트 신작 개발이 전면 중단되었습니다. 📜 시대를 풍미한 명작들을 남기며 글로벌 팬덤의 지지를 받아온 스튜디오의 갑작스러운 퇴장은 산업 전반에 거대한 충격을 안겼습니다.\n\n이번 결정은 천문학적인 제작비와 5년 이상의 개발 기간을 요구하는 AAA 싱글플레이 패키지 게임이 직면한 한계를 여실히 드러냅니다. 퍼블리셔들이 불확실한 서사 중심 신작보다 지속적인 과금이 가능한 라이브 서비스로 자본을 집중하면서, 깊이 있는 서사를 원하는 소비자 심리는 외면받고 **실제 게임 형태의 변화** 역시 특정 장르로의 쏠림이 가속화되고 있습니다. 🎮\n\n냉정하게 바라볼 때, 이번 사태는 **전통적인 서사형 AAA 제작 모델이 냉혹한 자본 효율성의 벽에 부딪혀 구조적 한계에 봉착했다는 명백한 경고**입니다. 실패의 위험을 감수하기 어려워진 거대 스튜디오들이 본연의 스토리텔링 정체성을 타협하며 흔들린 결과가 결국 비극적인 폐쇄로 이어졌습니다. 📉\n\n대규모 자본이 주도하는 내러티브 게임의 시대가 저물고 있다면, 게이머에게 깊은 감동을 전할 새로운 서사는 과연 어느 곳에서 다시 피어날 수 있을까요? 🧭"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": true,
+      "title": "Call of Duty Modern Warfare 4 - Official &quot;Sacrifice&quot; Teaser",
+      "channel": "IGN",
+      "videoId": "vdnZggewTpM",
+      "url": "https://www.youtube.com/watch?v=vdnZggewTpM",
+      "thumbnail": "https://i.ytimg.com/vi/vdnZggewTpM/hqdefault.jpg",
+      "comment": "전 세계 게이머들의 기대를 한몸에 받고 있는 '콜 오브 듀티: 모던 워페어 4'의 첫 티저가 공개되며 뜨거운 화제를 모으고 있습니다. 이번 'Sacrifice' 영상은 제목에 걸맞은 비장한 분위기와 숨 막히는 전장의 긴장감을 감각적인 연출로 담아냈습니다. 전설적인 FPS 시리즈의 새로운 서막을 알리는 이번 트레일러를 지금 바로 확인해 보세요! 🎮🔥",
+      "search_query": "Call of Duty Modern Warfare 4 Official Reveal Trailer",
+      "ai_game_name": "콜 오브 듀티: 모던 워페어 4",
+      "ai_reason": "전 세계적인 기대를 모으는 밀리터리 FPS 대작으로, 압도적인 실사급 비주얼과 긴장감 넘치는 시네마틱 연출을 확인할 수 있는 공식 공개 트레일러입니다."
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Call of Duty: Modern Warfare 4",
+        "releases.0.note": "A military FPS game officially releasing on October 22, featuring a thrilling campaign, multiplayer, and a new DMZ mode.",
+        "releases.0.dev": "Infinity Ward",
+        "releases.1.game": "Final Fantasy Resonance",
+        "releases.1.note": "A fantasy RPG releasing on October 22, featuring the unique narrative and spectacular action combat of the Final Fantasy universe.",
+        "releases.1.dev": "Square Enix",
+        "releases.2.game": "One Piece: Grand Gourmet",
+        "releases.2.note": "A casual action simulation game releasing on October 22, showcasing cooking and adventure alongside One Piece characters.",
+        "releases.2.dev": "Bandai Namco Entertainment",
+        "releases.3.game": "We Were Here Tomorrow",
+        "releases.3.note": "A two-player co-op puzzle adventure officially launching on October 22, where players must solve asymmetric puzzles together to escape an unknown facility.",
+        "releases.3.dev": "Total Mayhem Games",
+        "releases.4.game": "Cyberpunk 2077",
+        "releases.4.note": "Update 2.5 arrives on October 22, adding new anime tie-in side quests and a wealth of new gear.",
+        "releases.4.dev": "CD Projekt Red",
+        "releases.5.game": "Horizon Walker",
+        "releases.5.note": "The regular update on October 22 adds the new character 'Mu Yingying', exclusive costumes, and a Halloween event.",
+        "releases.5.dev": "Gentlemaniac",
+        "events.0.name": "Genshin Impact Ver. 7.2 Special Program",
+        "events.0.note": "Official broadcast featuring voice actors to reveal detailed information on the new version update.",
+        "events.0.venue": "Online",
+        "events.1.name": "Steam Next Fest",
+        "events.1.note": "Playable demos for thousands of upcoming indie and anticipated games, along with developer livestreams.",
+        "events.1.venue": "Online (Steam)"
+      },
+      "briefing": {
+        "items.0.title": "Uma Musume Cancels LA Concert, Fully Reimburses Travel and Lodging Costs",
+        "items.0.source": "Inven",
+        "items.0.time": "October 21",
+        "items.1.title": "Krafton Unveils Proprietary LLM 'Raon-1 Mini'",
+        "items.1.source": "GameMeca",
+        "items.1.time": "October 21",
+        "items.2.title": "EA Sports Officially Announces Development of New 'Open-World Football Game'",
+        "items.2.source": "IGN India",
+        "items.2.time": "October 21",
+        "items.3.title": "Microsoft Introduces Hourly Cloud Streaming Without Game Pass",
+        "items.3.source": "IGN India",
+        "items.3.time": "October 21",
+        "items.4.title": "Pearl Abyss Releases Video for Crimson Desert's First DLC 'Unknown Journey'",
+        "items.4.source": "4Gamer",
+        "items.4.time": "October 21",
+        "items.5.title": "Koei Confirms New 'The Apothecary Diaries' Game for March 2027 Release",
+        "items.5.source": "4Gamer",
+        "items.5.time": "October 21",
+        "items.6.title": "BioWare Abruptly Shuts Down After 30 Years; New Mass Effect Cancelled",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "October 21"
+      },
+      "drk": {
+        "title": "Fall of a 30-Year Giant: Questioning the Sustainability of Narrative AAA Games",
+        "intro": "The flame of an iconic studio that stood at the pinnacle of narrative RPGs for 30 years has finally been extinguished. 🏛️\nIn an era dominated by massive capital, are we truly witnessing the twilight of single-player games with genuine depth?",
+        "points": "BioWare, an iconic studio that led the golden age of RPGs across a 30-year history, has officially been shut down, and development on the highly anticipated new Mass Effect has been completely halted. 📜 The sudden exit of a studio that produced generation-defining masterpieces and earned passionate global fandom has sent massive shockwaves throughout the industry.\n\nThis decision clearly exposes the limitations faced by AAA single-player packaged games, which require astronomical production costs and over five years of development. As publishers concentrate their capital on live-service games capable of continuous monetization rather than risky narrative-driven releases, the desires of consumers seeking profound storytelling are cast aside, accelerating **shifts in game design** toward a narrow set of genres. 🎮\n\nLooking at the situation objectively, this serves as an **unmistakable warning that the traditional narrative AAA production model has hit a structural wall against the cold calculus of capital efficiency.** Caught in a struggle where giant studios could no longer afford the risk of failure, compromising their core storytelling identity in the process, the journey ultimately met a tragic end. 📉\n\nIf the era of narrative games driven by massive capital is setting, where will the next deeply moving stories bloom for gamers to experience? 🧭"
+      },
+      "trailer": {
+        "title": "Call of Duty Modern Warfare 4 - Official &quot;Sacrifice&quot; Teaser",
+        "comment": "The first teaser for 'Call of Duty: Modern Warfare 4', highly anticipated by gamers worldwide, has been unveiled and is generating immense buzz. Befitting its title, this 'Sacrifice' video captures a solemn atmosphere and breathtaking battlefield tension with stylish direction. Check out the trailer right now to witness the beginning of a new chapter in this legendary FPS franchise! 🎮🔥"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "コール オブ デューティ: モダン・ウォーフェア 4",
+        "releases.0.note": "10月22日に正式リリースされるミリタリーFPSゲームで、緊張感あふれるキャンペーン、マルチプレイヤー、そして新たなDMZモードを提供します。",
+        "releases.0.dev": "Infinity Ward",
+        "releases.1.game": "ファイナルファンタジー レゾナンス",
+        "releases.1.note": "10月22日にリリースされるファンタジーRPGで、ファイナルファンタジーの世界観ならではの重厚な物語と華麗なアクションバトルを描き出します。",
+        "releases.1.dev": "スクウェア・エニックス",
+        "releases.2.game": "ONE PIECE: グランドグルメ",
+        "releases.2.note": "10月22日にリリースされるカジュアルアクションシミュレーションゲームで、『ONE PIECE』のキャラクターたちと共に繰り広げる料理と冒険を描きます。",
+        "releases.2.dev": "バンダイナムコエンターテインメント",
+        "releases.3.game": "We Were Here Tomorrow",
+        "releases.3.note": "10月22日に正式ローンチされた2人協力プレイ専用パズルアドベンチャーで、非対称パズルを共に解き明かしながら未知の施設からの脱出を目指します。",
+        "releases.3.dev": "Total Mayhem Games",
+        "releases.4.game": "サイバーパンク2077",
+        "releases.4.note": "10月22日にアップデート2.5が配信され、新作アニメ連動サイドクエストや多数の新規装備が追加されます。",
+        "releases.4.dev": "CD PROJEKT RED",
+        "releases.5.game": "ホライゾンウォーカー",
+        "releases.5.note": "10月22日の定期アップデートを通じて、新キャラクター「沐英英（ム・ヨンヨン）」や専用コスチューム、ハロウィンイベントが追加されます。",
+        "releases.5.dev": "GentleManiac",
+        "events.0.name": "『原神』Ver.7.2特別予告番組",
+        "events.0.note": "新バージョンのアップデート詳細情報の公開および声優陣が出演する公式番組",
+        "events.0.venue": "オンライン",
+        "events.1.name": "Steam Nextフェス (Steam Next Fest)",
+        "events.1.note": "数千本におよぶ新作インディーゲームや期待作の体験版公開および開発者によるライブストリーミング",
+        "events.1.venue": "オンライン (Steam)"
+      },
+      "briefing": {
+        "items.0.title": "『ウマ娘』、LA公演中止に伴い交通費・宿泊費を全額返金",
+        "items.0.source": "Inven",
+        "items.0.time": "10月21日",
+        "items.1.title": "KRAFTON、独自開発の大規模言語モデル（LLM）「Raon-1 Mini」を公開",
+        "items.1.source": "GameMeca",
+        "items.1.time": "10月21日",
+        "items.2.title": "EA Sports、新作「オープンワールドサッカーゲーム」の開発を正式発表",
+        "items.2.source": "IGN India",
+        "items.2.time": "10月21日",
+        "items.3.title": "マイクロソフト、Game Pass不要の時間制クラウドストリーミングを導入",
+        "items.3.source": "IGN India",
+        "items.3.time": "10月21日",
+        "items.4.title": "Pearl Abyss『紅の砂漠』、初のDLC「未知の旅路」トレーラーを公開",
+        "items.4.source": "4Gamer",
+        "items.4.time": "10月21日",
+        "items.5.title": "コーエー、『薬屋のひとりごと』新作ゲームの2027年3月発売を決定",
+        "items.5.source": "4Gamer",
+        "items.5.time": "10月21日",
+        "items.6.title": "30年の歴史を持つBioWareが電撃閉鎖、『マスエフェクト』最新作の開発中止",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "10月21日"
+      },
+      "drk": {
+        "title": "30年の巨人の没落、物語重視AAAタイトルの持続可能性を問う",
+        "intro": "30年にわたり物語型RPGの頂点に立ち続けてきた象徴的スタジオの灯火が、ついに消えました。🏛️\n巨大資本の時代、私たちは真に深みのあるシングルプレイゲームの黄昏を目撃しているのでしょうか？",
+        "points": "30年の歴史を誇り、RPGの黄金期を牽引してきたBioWareが正式に閉鎖され、期待されていた『マスエフェクト』最新作の開発も全面中止となりました。📜 時代を象徴する名作の数々を残し、世界中のファンから熱狂的な支持を受けてきたスタジオの突然の退場は、業界全体に大きな衝撃を与えています。\n\n今回の決定は、天文学的な制作費と5年以上の開発期間を要するAAAシングルプレイ・パッケージゲームが直面する限界を浮き彫りにしています。パブリッシャーが成否の不透明な物語中心の新作よりも、持続的な課金が見込めるライブサービス型タイトルへ資本を集中させる中、深みのあるストーリーを求めるユーザー心理は置き去りにされ、**実際のゲーム形態の変遷**もまた特定のジャンルへと急速に偏りつつあります。🎮\n\n冷静に見据えれば、今回の事態は**従来の物語重視AAA制作モデルが冷酷な資本効率の壁に直面し、構造的限界に達したという明白な警告**です。失敗のリスクを背負えなくなった大手スタジオが、本来のストーリーテリングというアイデンティティに妥協を重ねて迷走した結果が、最終的にスタジオ閉鎖という悲劇を招きました。📉\n\n大規模資本が主導するナラティブゲームの時代が終わりを告げようとしている今、ゲーマーの心に深い感動をもたらす新たな物語は、果たしてどこから再び芽吹くのでしょうか？🧭"
+      },
+      "trailer": {
+        "title": "Call of Duty Modern Warfare 4 - Official \"Sacrifice\" Teaser",
+        "comment": "世界中のゲーマーから大きな注目を集めている『コール オブ デューティ: モダン・ウォーフェア 4』の初ティザーが公開され、熱い話題を呼んでいます。今回の「Sacrifice」映像は、タイトルに相応しい悲壮な雰囲気と息詰まる戦場の緊張感をスタイリッシュな演出で見事に描いています。伝説的FPSシリーズの新たな幕開けを告げる最新トレーラーを、今すぐチェックしましょう！🎮🔥"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "30년 거인의 몰락, 서사형 AAA의 위기? 📉 (feat. 모던 워페어 4 티저 공개💣)",
+    "en": "The Fall of a 30-Year Titan 📉 (feat. MW4 \"Sacrifice\" Teaser Drop💣)",
+    "ja": "30年の巨人が没落…AAAゲームの危機？📉 (feat.『CoD:MW4』最新ティザー公開💣)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": false,
+          "text": "드디어 모던 워페어 4가 출격했네요! 💣\n30년 거인의 몰락과 서사형 AAA 게임의 위기를 짚어봤어요🎮\n\nhttps://www.gtplayer.net/edition-152/\n#모던워페어4 #콜오브듀티 #GTPlayer",
+          "error": "Posting failed or blocked"
+        }
+      },
+      "updated_at": "2026-10-22T07:02:27.479251"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "10월 22일 오늘의 게임 소식 🎮 30년 거인의 몰락과 모던 워페어 4의 귀환!\n📰 [뉴스] 크래프톤 자체 LLM 공개부터 EA 오픈월드 축구, 붉은사막 첫 DLC 발표까지\n📅 [출시] 콜 오브 듀티: 모던 워페어 4, 파이널 판타지 레조넌스 등 이번 주 기대작 라인업\n✍️ [인사이트] 30년 거인의 몰락, 거대 자본의 시대에 묻는 서사형 AAA 싱글 게임의 미래\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임소식 #gtplayer #게임추천 #신작게임 #모던워페어4 #콜오브듀티 #붉은사막 #크래프톤 #우마무스메 #EA스포츠 #파이널판타지 #사이버펑크2077 #스팀게임 #콘솔게임 #PC게임 #게임스타그램 #겜스타그램 #게이머 #게임인사이트",
+          "image_paths": [
+            "web\\instagram\\edition_152\\card_cover.png",
+            "web\\instagram\\edition_152\\card_news.png",
+            "web\\instagram\\edition_152\\card_calendar.png",
+            "web\\instagram\\edition_152\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "4013111387333283515_39332818166",
+            "url": "https://www.instagram.com/p/Dexb4teE067/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-10-22T07:03:05.159402"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "The Fall of a 30-Year Titan 📉 (feat. MW4 \"Sacrifice\" Teaser Drop💣)\n\nFrom Infinity Ward dropping the explosive Modern Warfare 4 teaser to EA revealing an open-world football game, massive shifts are rocking the industry this week.\nMeanwhile, the sudden collapse of a legendary 30-year RPG titan raises urgent questions about the future of big-budget narrative games.\n\nhttps://www.gtplayer.net/edition-152-en/",
+        "error": null
+      },
+      "updated_at": "2026-10-22T07:03:50.877071"
+    }
+  }
+}

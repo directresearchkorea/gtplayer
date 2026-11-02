@@ -1,0 +1,423 @@
+{
+  "num": "120",
+  "date": "2026-09-08",
+  "status": "published",
+  "schedule": {
+    "date": "2026-09-08",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "뮤제닉스",
+          "dev": "에드먼드 맥밀런",
+          "date": "9월 8일(화)",
+          "platforms": [
+            "PS5",
+            "Xbox Series X/S",
+            "Switch",
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 8일 콘솔 버전으로 정식 출시되는 턴제 전략 로그라이크 RPG로, 전 플랫폼 공식 한국어 자막을 지원합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=320520",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "Halloween: The Game",
+          "dev": "보스 팀 게임즈",
+          "date": "9월 8일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "9월 8일 스팀으로 정식 출시되는 비대칭 서바이벌 호러 게임으로, 원작 공포 영화의 살인마와 생존자 간 대결을 다룹니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3219630/Halloween_The_Game/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "update",
+          "game": "리니지M",
+          "dev": "엔씨소프트",
+          "date": "9월 9일(수)",
+          "platforms": [
+            "모바일",
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "9월 9일 적용되는 3분기 대규모 업데이트로 투사 클래스 리부트와 함께 대폭 강화된 경험치 혜택의 신규 서버가 오픈됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=320530",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "동방홍마향: 뉴 클래식",
+          "dev": "상하이 앨리스 환악단",
+          "date": "9월 9일(수)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "9월 9일 스팀 및 콘솔로 출시되는 탄막 슈팅 명작의 리마스터 타이틀로, 고해상도 그래픽과 신규 어레인지 BGM을 제공합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4659620/Touhou_Koumakyou_New_Classic__the_Embodiment_of_Scarlet_Devil/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "이클립스: 더 어웨이크닝",
+          "dev": "엔픽셀",
+          "date": "9월 10일(목)",
+          "platforms": [
+            "PC",
+            "모바일"
+          ],
+          "color": "#10b981",
+          "note": "9월 10일 정식 출시되는 MMORPG 신작으로, 지형 고저차를 활용한 전략 액션과 입체적인 월드 탐험을 선보입니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=320516",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "'마블 울버린' 출시 기념 팝업 '더 클로'",
+          "note": "포토부스 및 게임 시연존 운영",
+          "venue": "서울 AK플라자 홍대 3층",
+          "date": "2026-09-11 ~ 09-20",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=320513"
+        },
+        {
+          "name": "원신 Ver.7.1 '명부로의 레퀴엠' 특별 방송",
+          "note": "Ver.7.1 업데이트 및 신규 콘텐츠 정보 공개",
+          "venue": "온라인",
+          "date": "2026-09-12",
+          "tag": "쇼케이스",
+          "website": "https://www.4gamer.net/games/486/G048621/20260907018/"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'택티컬 커맨더스 R', 스팀 등록하며 부활 예고",
+          "source": "인벤",
+          "time": "9월 7일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=320533"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "넥슨, '마비노기 이터니티' 첫 알파 테스트 성료",
+          "source": "게임메카",
+          "time": "9월 7일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1780153"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'포르자 호라이즌 6' PS5판, 2026년 연내 출시 유지",
+          "source": "IGN India",
+          "time": "9월 7일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/forza-horizon-6/271203/forza-horizon-6s-ps5-version-still-on-track-for-2026-release-playground-says"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "캡콤 '귀무자: 검의 길', 출시 하루 만에 100만 장 돌파",
+          "source": "IGN India",
+          "time": "9월 7일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/onimusha-way-of-the-sword/271174/onimusha-way-of-the-sword-surpasses-one-million-copies-sold-milestone-on-day-of-release"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'8번 출구', 글로벌 누적 판매량 300만 장 돌파",
+          "source": "4Gamer",
+          "time": "9월 7일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/751/G075133/20260907030/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "스퀘어에닉스, '드래곤 퀘스트' 40주년 기념 VR전 발표",
+          "source": "4Gamer",
+          "time": "9월 7일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/945/G094562/20260907013/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'라이프 이즈 스트레인지' 돈노드, 자금난 직면 경고",
+          "source": "GamesIndustry.biz",
+          "time": "9월 7일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/dont-nod-warns-it-may-not-have-enough-funding-to-operate-beyond-january-2027"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "중간 지대의 붕괴, 양극화된 게임 소비 생태계",
+      "intro": "300만 장을 돌파한 1인 개발 인디 게임과 자금난에 빠진 중견 명가 스튜디오.\n지금 글로벌 게임 시장의 허리가 무너져 내리는 이유는 무엇일까요? ⚖️",
+      "points": "오늘 전해진 소식 중 가장 극적인 대비를 이루는 대목은 캡콤의 검증된 클래식 IP '귀무자: 검의 길'의 첫날 100만 장 돌파와 초소형 인디 '8번 출구'의 300만 장 누적 판매, 그리고 스토리텔링 명가 돈노드의 자금난 경고입니다. 📉\n\n이 현상은 게이머들의 **게임 소비 구조가 극단적인 양극화**로 치닫고 있음을 명백히 보여줍니다. 소비자들은 가성비와 명확한 플레이 경험을 제공하는 컴팩트한 인디 게임을 가볍게 소비하거나, 실패 확률이 극히 낮은 검증된 대형 레거시 IP에 지갑을 엽니다. 그 결과 수백억 원의 제작비가 투입되면서도 대중적 인지도가 애매한 중간 규모(AA) 타이틀은 시장에서 철저히 외면받고 있습니다. 💸\n\n결국 산업의 무게추는 **압도적 자본력을 앞세운 안전한 메가 IP와 번뜩이는 아이디어의 초소형 인디라는 두 개의 극단**으로 완전히 갈라졌습니다. 중간 지대의 실종은 중견 개발사의 연쇄적 위기를 부르고, 게임 시장의 다양성을 해치는 치명적인 부메랑으로 돌아오고 있습니다. 🔍\n\n실험과 대중성 사이를 지탱하던 '중간 허리'가 사라진 시장에서, 과연 다음 세대를 이끌 새로운 오리지널 IP는 어디에서 탄생할 수 있을까요? 🎮"
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "에이스 컴뱃 8",
+      "title": "창공을 뒤흔드는 연쇄 폭발과 차세대 편대 공중전",
+      "imgUrl": "",
+      "comment": "역대 최대 볼륨의 캠페인과 신규 전투 시스템인 '연쇄 폭발' 소식을 바탕으로, 세분화된 역할군 기체들이 얽혀 대규모 도그파이트를 벌이는 에이스 컴뱃 8의 미래 인게임 전장을 AI에게 구현해 보도록 했습니다.",
+      "ai_prompt": "Actual in-game screenshot, exact original game engine rendering, completely identical to original art style, NO cinematic styling, NO illustration. Third-person chase-cam view behind a high-tech modern fighter jet flying through dense volumetric storm clouds at dusk. Directly ahead, a targeted enemy squadron is detonating in a dynamic chain-reaction explosion, casting vivid orange and shockwave light across the fuselage. Surrounding skies feature allied role-specialized fighter jets and interceptors deploying flares, leaving realistic white condensation trails and heat distortion. Authentic flight combat HUD overlay with green targeting brackets, lock-on missile telemetry, altitude and airspeed ladder graphics, realistic cockpit glass reflections, Unreal Engine photorealistic military flight sim rendering, 4k resolution."
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Mewgenics",
+        "releases.0.note": "A turn-based tactical roguelike RPG officially launching on consoles on September 8, featuring official Korean subtitle support across all platforms.",
+        "releases.0.dev": "Edmund McMillen",
+        "releases.1.game": "Halloween: The Game",
+        "releases.1.note": "An asymmetrical survival horror game officially launching on Steam on September 8, depicting the confrontation between the killer and survivors from the original horror film.",
+        "releases.1.dev": "Boss Team Games",
+        "releases.2.game": "Lineage M",
+        "releases.2.note": "A major Q3 update arriving on September 9, featuring a reboot of the Fighter class along with the launch of a new server offering significantly boosted EXP benefits.",
+        "releases.2.dev": "NCSOFT",
+        "releases.3.game": "Touhou Koumakyou ~ the Embodiment of Scarlet Devil: New Classic",
+        "releases.3.note": "A remastered title of the bullet hell shoot 'em up masterpiece launching on Steam and consoles on September 9, featuring high-resolution graphics and newly arranged BGM.",
+        "releases.3.dev": "Team Shanghai Alice",
+        "releases.4.game": "Eclipse: The Awakening",
+        "releases.4.note": "A new MMORPG officially launching on September 10, featuring strategic action utilizing terrain elevation and multi-dimensional world exploration.",
+        "releases.4.dev": "Npixel",
+        "events.0.name": "'Marvel's Wolverine' Launch Celebration Pop-up 'The Claw'",
+        "events.0.note": "Photo booth and game demo zone operation",
+        "events.0.venue": "3F, AK Plaza Hongdae, Seoul",
+        "events.1.name": "Genshin Impact Ver. 7.1 'Requiem to the Underworld' Special Program",
+        "events.1.note": "Information reveal on the Ver. 7.1 update and new content",
+        "events.1.venue": "Online"
+      },
+      "briefing": {
+        "items.0.title": "'Tactical Commanders R' Signals Revival with Steam Listing",
+        "items.0.source": "Inven",
+        "items.0.time": "September 7",
+        "items.1.title": "Nexon Successfully Concludes First Alpha Test for 'Mabinogi Eternity'",
+        "items.1.source": "Gamemeca",
+        "items.1.time": "September 7",
+        "items.2.title": "'Forza Horizon 6' PS5 Version on Track for 2026 Release",
+        "items.2.source": "IGN India",
+        "items.2.time": "September 7",
+        "items.3.title": "Capcom's 'Onimusha: Way of the Sword' Surpasses 1 Million Units Sold on Day One",
+        "items.3.source": "IGN India",
+        "items.3.time": "September 7",
+        "items.4.title": "'The Exit 8' Surpasses 3 Million Cumulative Global Sales",
+        "items.4.source": "4Gamer",
+        "items.4.time": "September 7",
+        "items.5.title": "Square Enix Announces 'Dragon Quest' 40th Anniversary VR Exhibition",
+        "items.5.source": "4Gamer",
+        "items.5.time": "September 7",
+        "items.6.title": "'Life is Strange' Developer Don't Nod Warns of Financial Crisis",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "September 7"
+      },
+      "drk": {
+        "title": "Collapse of the Middle Ground: The Polarized Gaming Consumption Ecosystem",
+        "intro": "A solo-developed indie game surpassing 3 million copies sold versus a prestigious mid-sized studio facing financial crisis.\nWhy is the backbone of the global gaming market collapsing right now? ⚖️",
+        "points": "The most dramatic contrast in today's news lies between Capcom's proven classic IP 'Onimusha: Way of the Sword' topping 1 million copies on day one, micro-indie 'The Exit 8' reaching 3 million cumulative sales, and acclaimed storytelling studio Don't Nod warning of financial difficulties. 📉\n\nThis phenomenon clearly demonstrates that gamers' **consumption patterns are heading toward extreme polarization**. Consumers either casually pick up compact indie games offering great value and distinct play experiences, or open their wallets for proven, major legacy IPs with minimal risk of disappointment. As a result, mid-tier (AA) titles—which require tens of millions of dollars in production costs yet suffer from ambiguous mainstream awareness—are being thoroughly sidelined in the market. 💸\n\nUltimately, the industry's center of gravity has split entirely into **two extremes: safe mega-IPs backed by overwhelming capital, and micro-indies driven by brilliant ideas**. The disappearance of this middle ground is triggering a domino effect of crises for mid-sized studios, returning as a fatal boomerang that threatens diversity across the gaming market. 🔍\n\nIn a market stripped of the 'middle tier' that once balanced experimentation and mass appeal, where will the next generation of original IPs be born? 🎮"
+      },
+      "gamescene": {
+        "game": "Ace Combat 8",
+        "title": "Sky-Shaking Chain Explosions and Next-Gen Formation Dogfights",
+        "comment": "Based on news of the franchise's largest-ever campaign and the new 'Chain Explosion' combat system, we prompted AI to visualize a futuristic in-game battlefield for Ace Combat 8, where specialized aircraft roles intertwine in a massive dogfight."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "Mewgenics",
+        "releases.0.note": "9月8日にコンソール版として正式リリースされるターン制戦略ローグライクRPG。全プラットフォームで公式韓国語字幕に対応します。",
+        "releases.0.dev": "エドマンド・マクミラン",
+        "releases.1.game": "Halloween: The Game",
+        "releases.1.note": "9月8日にSteamで正式リリースされる非対称型サバイバルホラーゲーム。原作ホラー映画の殺人鬼と生存者の戦いを描きます。",
+        "releases.1.dev": "Boss Team Games",
+        "releases.2.game": "リネージュM",
+        "releases.2.note": "9月9日に適用される第3四半期の大規模アップデートにより、闘士クラスのリブートとともに大幅に強化された経験値特典付きの新規サーバーがオープンします。",
+        "releases.2.dev": "NCSOFT",
+        "releases.3.game": "東方紅魔郷：ニュー・クラシック",
+        "releases.3.note": "9月9日にSteamおよびコンソール向けにリリースされる弾幕シューティングの名作リマスタータイトル。高解像度グラフィックと新規アレンジBGMを提供します。",
+        "releases.3.dev": "上海アリス幻樂団",
+        "releases.4.game": "エクリプス：ジ・アウェイクニング",
+        "releases.4.note": "9月10日に正式リリースされる新作MMORPG。地形の高低差を活かした戦略アクションと立体的なワールド探索を特徴としています。",
+        "releases.4.dev": "NPIXEL",
+        "events.0.name": "『Marvel's Wolverine』発売記念ポップアップ「The Claw」",
+        "events.0.note": "フォトブースおよびゲーム試遊ゾーンの運営",
+        "events.0.venue": "ソウル AKプラザ弘大 3階",
+        "events.1.name": "『原神』Ver.7.1「冥府へのレクイエム」予告番組",
+        "events.1.note": "Ver.7.1アップデートおよび新コンテンツ情報の公開",
+        "events.1.venue": "オンライン"
+      },
+      "briefing": {
+        "items.0.title": "『タクティカル・コマンダーズ R』、Steamストアページを公開し復活を予告",
+        "items.0.source": "Inven",
+        "items.0.time": "9月7日",
+        "items.1.title": "ネクソン、『マビノギ エタニティ』初のアルファテストを盛況のうちに終了",
+        "items.1.source": "GameMeca",
+        "items.1.time": "9月7日",
+        "items.2.title": "『Forza Horizon 6』PS5版、2026年内の発売予定を維持",
+        "items.2.source": "IGN India",
+        "items.2.time": "9月7日",
+        "items.3.title": "カプコン『鬼武者：剣の道』、発売からわずか1日で100万本突破",
+        "items.3.source": "IGN India",
+        "items.3.time": "9月7日",
+        "items.4.title": "『８番出口』、世界累計販売本数が300万本を突破",
+        "items.4.source": "4Gamer",
+        "items.4.time": "9月7日",
+        "items.5.title": "スクウェア・エニックス、『ドラゴンクエスト』40周年記念VR展を発表",
+        "items.5.source": "4Gamer",
+        "items.5.time": "9月7日",
+        "items.6.title": "『Life is Strange』のDON'T NOD、資金難に直面していると警告",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "9月7日"
+      },
+      "drk": {
+        "title": "中間層の崩壊、二極化するゲーム消費エコシステム",
+        "intro": "300万本を突破した個人開発インディーゲームと、資金難に陥る中堅の名門スタジオ。\n今、世界のゲーム市場で「中間層」が崩壊しつつある理由とは何でしょうか？ ⚖️",
+        "points": "本日届いたニュースの中で最も劇的なコントラストを描いているのは、カプコンの実績あるクラシックIP『鬼武者：剣の道』が初日で100万本を突破したこと、超小規模インディー『８番出口』の累計300万本達成、そしてストーリーテリングの名門DON'T NODによる資金難の警告です。 📉\n\nこの現象は、ゲーマーの**ゲーム消費構造が極端な二極化**へと突き進んでいることを明確に示しています。消費者は、コストパフォーマンスと明確なプレイ体験を提供するコンパクトなインディーゲームを気軽に消費するか、失敗する確率が極めて低い検証済みの大型レガシーIPに財布を開きます。その結果、数十億円もの制作費が投じられながらも大衆的な認知度が曖昧な中規模（AA）タイトルは、市場から完全に置き去りにされています。 💸\n\n結局のところ、業界の重心は**圧倒的な資本力を武器にした安全なメガIPと、閃くアイデアを誇る超小規模インディーという2つの極端**へと完全に分裂しました。中間層の消失は中堅開発会社の連鎖的な危機を招き、ゲーム市場の多様性を損なう致命的なブーメランとなって跳ね返ってきています。 🔍\n\n実験性と大衆性の間を支えていた「背骨」が消えた市場で、果たして次世代を牽引する新たなオリジナルIPはどこから生まれるのでしょうか？ 🎮"
+      },
+      "gamescene": {
+        "game": "エースコンバット8",
+        "title": "蒼空を揺るがす連鎖爆発と次世代の編隊空中戦",
+        "comment": "歴代最大規模のボリュームを誇るキャンペーンと新戦闘システム「連鎖爆発」の情報をもとに、細分化された役割を持つ機体群が入り乱れて大規模なドッグファイトを繰り広げる『エースコンバット8』の未来のインゲーム戦場をAIに描かせました。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "중간은 없다? 📉 극단으로 갈라진 요즘 게임 소비 생태계 ⚡",
+    "en": "The Death of the Middle Ground? 📉 Gaming’s Brutal New Divide ⚡",
+    "ja": "中途半端は即死？📉 二極化が進むゲーム市場の残酷なリアル ⚡"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "캡콤 신작 '귀무자'가 하루 만에 100만 장을 넘겼대요! 🗡️\n요즘 대작 아니면 지갑을 안 연다는데 다들 공감하시나요? 👀\n\nhttps://www.gtplayer.net/edition-120/\n#귀무자 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-08T07:01:32.431950"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "9월 8일 오늘의 게임 소식 🎮\n\n📰 [뉴스] 추억의 '택티컬 커맨더스' 스팀 부활 예고 & 하루 만에 100만 장 팔린 '귀무자' 신작\n📅 [출시] 뮤제닉스, 동방홍마향: 뉴 클래식 등 플랫폼별 신작 라인업 공개\n✍️ [인사이트] 1인 인디의 대박과 중견사의 위기, 무너지는 게임 생태계 '중간 지대'의 진실\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임소식 #신작게임 #게임추천 #게임덕후 #인디게임 #스팀게임 #택티컬커맨더스 #마비노기이터니티 #귀무자 #포르자호라이즌 #8번출구 #동방프로젝트 #게임스타그램 #콘솔게임 #PC게임 #모바일게임 #게이머 #게임트렌드 #GTPLAYER",
+          "image_paths": [
+            "web\\instagram\\edition_120\\card_cover.png",
+            "web\\instagram\\edition_120\\card_news.png",
+            "web\\instagram\\edition_120\\card_calendar.png",
+            "web\\instagram\\edition_120\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3981220721032638635_39332818166",
+            "url": "https://www.instagram.com/p/DdAIycBkzCr/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-09-08T07:02:03.867956"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "The Death of the Middle Ground? 📉 Gaming’s Brutal New Divide ⚡\n\nA solo-developed indie hit crosses 3 million sales while Capcom shatters day-one records with Onimusha.\nThe gaming market is splitting in real time between runaway grassroots gems and massive juggernauts.\n\nhttps://www.gtplayer.net/edition-120-en/",
+        "error": null
+      },
+      "updated_at": "2026-09-08T07:02:49.978960"
+    }
+  }
+}

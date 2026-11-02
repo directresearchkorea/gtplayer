@@ -1,0 +1,453 @@
+{
+  "num": "107",
+  "date": "2026-08-20",
+  "status": "published",
+  "schedule": {
+    "date": "2026-08-20",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "미제사건은 끝내야 하니까",
+          "dev": "Somi",
+          "date": "8월 19일(수)",
+          "platforms": [
+            "PS5"
+          ],
+          "color": "#10b981",
+          "note": "한국 인디 개발자 Somi의 호평받은 추리 어드벤처 게임으로, 8월 19일 PS5 다운로드판이 정식 발매되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1779255",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "인왕 3",
+          "dev": "코에이 테크모 게임즈",
+          "date": "8월 19일(수)",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "color": "#3b82f6",
+          "note": "지옥으로 변한 에도 게이안을 무대로 펼쳐지는 첫 번째 DLC '게이안 지옥변'이 8월 19일 정식 출시되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319677",
+          "source_name": "인벤"
+        },
+        {
+          "category": "event",
+          "game": "아스트라에 오라티오",
+          "dev": "디나미스 원",
+          "date": "8월 19일(수)",
+          "platforms": [
+            "PC",
+            "모바일"
+          ],
+          "color": "#8b5cf6",
+          "note": "디나미스 원이 개발하고 엔씨소프트가 퍼블리싱하는 신작 서브컬처 RPG로, 8월 19일부터 CBT 참가자 모집을 시작했습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319672",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "모탈 셸 2",
+          "dev": "콜드 시메트리",
+          "date": "8월 20일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 20일 PC 스팀을 통해 정식 출시되는 다크 판타지 액션 소울라이크 게임입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2584270/Mortal_Shell_II/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "스토커 2: 코스트 오브 호프",
+          "dev": "GSC 게임 월드",
+          "date": "8월 20일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 20일 PC 스팀을 통해 출시되는 포스트 아포칼립스 오픈월드 생존 FPS 게임입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3765020/STALKER_2_Cost_of_Hope/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "브리가도어 킬러스",
+          "dev": "스텔라 졸츠",
+          "date": "8월 20일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "8월 20일 PC 스팀으로 출시되는 사이버펑크 메카닉 탑다운 액션 게임입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/903930/Brigador_Killers/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "게임스컴 2026 (Gamescom 2026)",
+          "note": "40개국 약 50개 국가관 참가, 글로벌 최대 규모 오프라인 게임 전시회",
+          "venue": "독일 쾰른 메세 (Koelnmesse)",
+          "date": "2026-08 다가오는 일정",
+          "tag": "오프라인 행사",
+          "website": "https://www.gamesindustry.biz/gamescom-2026-sets-new-record-as-number-of-country-pavilions-increases-by-25"
+        },
+        {
+          "name": "승리의 여신: NIKKE '유원지를 탈환하라, 지휘관!'",
+          "note": "도쿄 돔 시티 어트랙션즈와 함께 진행하는 대형 오프라인 콜라보 이벤트",
+          "venue": "일본 도쿄 돔 시티 어트랙션즈",
+          "date": "2026-09-10 ~ 2026-10-18",
+          "tag": "오프라인 행사",
+          "website": "https://www.4gamer.net/games/456/G045622/20260819032/"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "소니, '호라이즌' 협동 신작서 라이브 서비스 전면 철회",
+          "source": "GamesIndustry.biz",
+          "time": "8월 19일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/report-live-service-removed-from-horizon-hunters-gathering-following-negative-player-feedback"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "'데이어스 엑스' 거장 워런 스펙터, 40년 개발 끝 은퇴",
+          "source": "GamesIndustry.biz",
+          "time": "8월 19일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/deus-ex-creator-warren-spector-announces-retirement-its-time-to-ride-off-into-the-sunset"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "GTA 6, 출시 앞두고 대규모 게임플레이 및 맵 유출",
+          "source": "IGN India",
+          "time": "8월 19일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/grand-theft-auto-vi/269280/gta-6-gameplay-full-map-leak-online-ign-daily-fix"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "캡콤 '귀무자' 신작, 공식 레전드 트레일러 공개",
+          "source": "IGN India",
+          "time": "8월 19일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/onimusha-way-of-the-sword/269265/onimusha-way-of-the-sword-official-the-legend-of-the-onimusha-trailer"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "쇼치쿠 게임즈, 하이쿠 어드벤처 'OKU' 퍼블리싱 참전",
+          "source": "4Gamer",
+          "time": "8월 19일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/939/G093968/20260819034/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "'네버니스 투 에버니스', 1.3 버전 '안개 달빛' 업데이트",
+          "source": "4Gamer",
+          "time": "8월 19일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/817/G081722/20260819028/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'야구격투 리그맨' HD 리메이크, 12월 10일 발매 확정",
+          "source": "인벤",
+          "time": "8월 19일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319668"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "엠게임 신작 '귀혼키우기', 사전예약 9일 만에 50만 돌파",
+          "source": "인벤",
+          "time": "8월 19일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=319665"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "라이브 서비스 환상의 종말과 본질로의 회귀",
+      "intro": "무한한 수익을 약속하던 라이브 서비스 모델이 이제는 대형 퍼블리셔들의 최대 리스크가 되었습니다.\n소니가 '호라이즌' 신작에서 라이브 서비스를 전면 철회한 결정은 과연 무엇을 시사할까요?",
+      "points": "소니 인터랙티브 엔터테인먼트가 개발 중인 '호라이즌' 협동 신작에서 라이브 서비스 요소를 전면 철회하기로 결정했습니다. 🎮 이는 지난 몇 년간 공격적으로 추진해 온 라이브 서비스 확장 전략을 재검토하고, 완성형 프리미엄 게임 경험으로 궤도를 수정한 상징적인 사건입니다.\n\n이러한 결정의 이면에는 끝없는 파밍과 시즌 패스에 지친 **소비자 심리**의 피로도가 자리 잡고 있습니다. 📉 유저들의 시간과 지갑을 영구적으로 점유하려는 라이브 서비스 게임이 범람하면서, 오히려 단단한 서사와 완성도 높은 재미를 즉각 제공하는 전통적 게임 소비 구조에 대한 선호도가 다시 높아지고 있습니다.\n\n결국 AAA 개발사들이 깨달아야 할 냉정한 사실은 **모든 IP가 영원히 지속되는 라이브 서비스에 적합한 것은 아니며, 본질을 잃은 무리한 수익화 설계는 충성도 높은 유저마저 이탈시킨다**는 점입니다. 💡\n\n거센 라이브 서비스 광풍이 잦아들고 있는 지금, 업계는 다시 '밀도 높은 게임플레이와 완결성'이라는 기본기로 돌아갈 준비가 되셨습니까? 🔍"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": true,
+      "title": "Onimusha: Way of the Sword - The Legend of the Onimusha",
+      "channel": "Capcom USA",
+      "videoId": "h3a-5lvgqUs",
+      "url": "https://www.youtube.com/watch?v=h3a-5lvgqUs",
+      "thumbnail": "https://i.ytimg.com/vi/h3a-5lvgqUs/hqdefault.jpg",
+      "comment": "캡콤(Capcom)의 전설적인 검극 액션 시리즈, <Onimusha: Way of the Sword - The Legend of the Onimusha>의 새로운 공식 트레일러가 공개되었습니다. ⚔️ 영상에 담긴 박진감 넘치는 전투 연출과 특유의 묵직한 검술 액션은 신작을 향한 기대감을 한껏 높여줍니다. 지금 바로 트레일러를 감상하며 귀무자의 새로운 전설을 직접 확인해 보세요! 🎬",
+      "search_query": "Capcom Onimusha Official Trailer",
+      "ai_game_name": "귀무자 (신작)",
+      "ai_reason": "오랜 침묵을 깨고 공개된 캡콤의 전설적인 검극 액션 명작 '귀무자' 신작의 화려한 연출과 압도적인 비주얼을 확인하기에 가장 적합한 화제작입니다."
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "No Case Should Remain Unsolved",
+        "releases.0.note": "The acclaimed mystery adventure game by Korean indie developer Somi, officially released for PS5 (digital edition) on August 19.",
+        "releases.0.dev": "Somi",
+        "releases.1.game": "Nioh 3",
+        "releases.1.note": "The first DLC 'Keian Hellfire', set in Edo Keian turned into hell, was officially released on August 19.",
+        "releases.1.dev": "Koei Tecmo Games",
+        "releases.2.game": "Astrae Oratio",
+        "releases.2.note": "A new anime-style subculture RPG developed by Dynamis One and published by NCSOFT, which began recruiting CBT participants on August 19.",
+        "releases.2.dev": "Dynamis One",
+        "releases.3.game": "Mortal Shell 2",
+        "releases.3.note": "A dark fantasy action soulslike game officially releasing on PC via Steam on August 20.",
+        "releases.3.dev": "Cold Symmetry",
+        "releases.4.game": "S.T.A.L.K.E.R. 2: Cost of Hope",
+        "releases.4.note": "A post-apocalyptic open-world survival FPS game releasing on PC via Steam on August 20.",
+        "releases.4.dev": "GSC Game World",
+        "releases.5.game": "Brigador Killers",
+        "releases.5.note": "A cyberpunk mecha top-down action game releasing on PC via Steam on August 20.",
+        "releases.5.dev": "Stellar Jockeys",
+        "events.0.name": "Gamescom 2026",
+        "events.0.note": "The world's largest in-person gaming exhibition, featuring around 50 country pavilions from 40 countries.",
+        "events.0.venue": "Koelnmesse, Cologne, Germany",
+        "events.1.name": "Goddess of Victory: NIKKE 'Reclaim the Amusement Park, Commander!'",
+        "events.1.note": "A large-scale in-person collaboration event held in partnership with Tokyo Dome City Attractions.",
+        "events.1.venue": "Tokyo Dome City Attractions, Tokyo, Japan"
+      },
+      "briefing": {
+        "items.0.title": "Sony Completely Scraps Live Service for Upcoming 'Horizon' Co-op Title",
+        "items.0.source": "GamesIndustry.biz",
+        "items.0.time": "August 19",
+        "items.1.title": "'Deus Ex' Legend Warren Spector Retires After 40 Years in Game Development",
+        "items.1.source": "GamesIndustry.biz",
+        "items.1.time": "August 19",
+        "items.2.title": "GTA 6 Suffers Massive Gameplay and Map Leaks Ahead of Launch",
+        "items.2.source": "IGN India",
+        "items.2.time": "August 19",
+        "items.3.title": "Capcom Unveils Official Legend Trailer for New 'Onimusha' Title",
+        "items.3.source": "IGN India",
+        "items.3.time": "August 19",
+        "items.4.title": "Shochiku Games to Publish Haiku Adventure 'OKU'",
+        "items.4.source": "4Gamer",
+        "items.4.time": "August 19",
+        "items.5.title": "'Neverness to Everness' Receives Version 1.3 'Misty Moonlight' Update",
+        "items.5.source": "4Gamer",
+        "items.5.time": "August 19",
+        "items.6.title": "'Ninja Baseball Bat Man' HD Remake Confirmed for Release on December 10",
+        "items.6.source": "Inven",
+        "items.6.time": "August 19",
+        "items.7.title": "Mgame's New Title 'Soul Saver Idle' Surpasses 500,000 Pre-registrations in Just 9 Days",
+        "items.7.source": "Inven",
+        "items.7.time": "August 19"
+      },
+      "drk": {
+        "title": "The End of the Live Service Illusion and the Return to Core Essentials",
+        "intro": "The live service model, which once promised infinite revenue, has now become the biggest risk for major publishers.\nWhat does Sony's decision to completely abandon live service elements in the new 'Horizon' title signify?",
+        "points": "Sony Interactive Entertainment has decided to completely withdraw live service elements from its upcoming 'Horizon' co-op title. 🎮 This marks a symbolic turning point, reassessing the aggressive live service expansion strategy pursued over recent years and correcting course toward complete, premium gaming experiences.\n\nBehind this decision lies the fatigue of **consumer sentiment**, exhausted by endless grinding and season passes. 📉 As live service games attempting to permanently occupy players' time and wallets flood the market, player preference is shifting back toward traditional gaming models that immediately deliver rich narratives and polished gameplay.\n\nUltimately, the harsh reality AAA developers must face is that **not every IP is suited for a perpetual live service model, and forced monetization designs stripped of core value will alienate even the most loyal players.** 💡\n\nNow that the relentless live service storm is calming down, is the industry ready to return to the fundamentals of 'dense gameplay and narrative completeness'? 🔍"
+      },
+      "trailer": {
+        "title": "Onimusha: Way of the Sword - The Legend of the Onimusha",
+        "comment": "A new official trailer for Capcom's legendary sword-action series, <Onimusha: Way of the Sword - The Legend of the Onimusha>, has been unveiled. ⚔️ The exhilarating combat choreography and signature weighty swordplay featured in the video raise anticipation for the new title to the highest level. Check out the trailer now and witness the new legend of Onimusha firsthand! 🎬"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "未解決事件は終わらせないといけないから",
+        "releases.0.note": "韓国のインディー開発者Somi氏による高評価の推理アドベンチャーゲームで、8月19日にPS5ダウンロード版が正式発売されました。",
+        "releases.0.dev": "Somi",
+        "releases.1.game": "仁王3",
+        "releases.1.note": "地獄と化した江戸・慶安を舞台に繰り広げられる第1弾DLC「慶安地獄変」が8月19日に正式リリースされました。",
+        "releases.1.dev": "コーエーテクモゲームス",
+        "releases.2.game": "アストラ・エ・オラティオ",
+        "releases.2.note": "Dynamis Oneが開発しNCSOFTがパブリッシングを手がける新作サブカルチャーRPGで、8月19日よりCBT参加者募集を開始しました。",
+        "releases.2.dev": "Dynamis One",
+        "releases.3.game": "モータルシェル2",
+        "releases.3.note": "8月20日にPC（Steam）向けに正式リリースされるダークファンタジー・アクション・ソウルライクゲームです。",
+        "releases.3.dev": "Cold Symmetry",
+        "releases.4.game": "S.T.A.L.K.E.R. 2: Coast of Hope",
+        "releases.4.note": "8月20日にPC（Steam）向けにリリースされるポスト・アポカリプス・オープンワールド・サバイバルFPSゲームです。",
+        "releases.4.dev": "GSC Game World",
+        "releases.5.game": "ブリガドール・キラーズ",
+        "releases.5.note": "8月20日にPC（Steam）向けにリリースされるサイバーパンク・メカ・トップダウンアクションゲームです。",
+        "releases.5.dev": "Stellar Jockeys",
+        "events.0.name": "gamescom 2026",
+        "events.0.note": "40カ国・約50の国別パビリオンが参加する世界最大規模のオフラインゲーム展示会",
+        "events.0.venue": "ドイツ・ケルンメッセ（Koelnmesse）",
+        "events.1.name": "勝利の女神：NIKKE「遊園地を奪還せよ、指揮官！」",
+        "events.1.note": "東京ドームシティ アトラクションズとタイアップした大規模オフラインコラボイベント",
+        "events.1.venue": "日本・東京ドームシティ アトラクションズ"
+      },
+      "briefing": {
+        "items.0.title": "ソニー、『Horizon』協力プレイ新作でライブサービス要素を完全撤回",
+        "items.0.source": "GamesIndustry.biz",
+        "items.0.time": "8月19日",
+        "items.1.title": "『デウスエクス』の巨匠ウォーレン・スペクター氏、40年の開発キャリアに幕を下ろし引退",
+        "items.1.source": "GamesIndustry.biz",
+        "items.1.time": "8月19日",
+        "items.2.title": "『GTA6』、発売を控えて大規模なゲームプレイおよびマップ情報が流出",
+        "items.2.source": "IGN India",
+        "items.2.time": "8月19日",
+        "items.3.title": "カプコン『鬼武者』新作、公式レジェンドトレーラーを公開",
+        "items.3.source": "IGN India",
+        "items.3.time": "8月19日",
+        "items.4.title": "松竹ゲームズ、俳句アドベンチャー『OKU』のパブリッシングに参入",
+        "items.4.source": "4Gamer",
+        "items.4.time": "8月19日",
+        "items.5.title": "『Neverness to Everness』、Ver.1.3「霧の月光」アップデート",
+        "items.5.source": "4Gamer",
+        "items.5.time": "8月19日",
+        "items.6.title": "『野球格闘リーグマン』HDリメイク、12月10日発売決定",
+        "items.6.source": "INVEN",
+        "items.6.time": "8月19日",
+        "items.7.title": "エムゲーム新作『鬼魂育成』、事前登録開始から9日で50万人を突破",
+        "items.7.source": "INVEN",
+        "items.7.time": "8月19日"
+      },
+      "drk": {
+        "title": "ライブサービスの幻想の終焉と、本質への回帰",
+        "intro": "無限の収益を約束したライブサービスモデルが、今や大手パブリッシャーにとって最大のリスクとなっています。\nソニーが『Horizon』新作においてライブサービスを全面的に撤回した決断は、果たして何を示唆しているのでしょうか？",
+        "points": "ソニー・インタラクティブエンタテインメントが開発中の『Horizon』協力プレイ新作から、ライブサービス要素を全面的に撤回することを決定しました。🎮 これは、過去数年間にわたりアグレッシブに推進してきたライブサービス拡大戦略を再検討し、完成されたプレミアムゲーム体験へと軌道修正を図った象徴的な出来事です。\n\nこの決断の背景には、終わりのない周回プレイやシーズンパスに疲弊した**消費者心理**の疲労感が存在します。📉 ユーザーの時間と財布を永続的に占有しようとするライブサービスゲームが氾濫する中で、むしろ重厚な物語と完成度の高い面白さをすぐに届けてくれる伝統的なゲーム消費構造への支持が再び高まっています。\n\n結局のところ、AAAスタジオが痛感すべき冷徹な現実は、**「すべてのIPが永遠に続くライブサービスに適しているわけではなく、本質を見失った無理なマネタイズ設計は忠誠心の高いユーザーすら離脱させる」**ということです。💡\n\n猛威を振るったライブサービスの嵐が収まりつつある今、ゲーム業界は再び「密度の高いゲームプレイと完結性」という原点に立ち返る準備ができているでしょうか？🔍"
+      },
+      "trailer": {
+        "title": "Onimusha: Way of the Sword - The Legend of the Onimusha",
+        "comment": "カプコン（Capcom）の伝説的剣戟アクションシリーズ、『Onimusha: Way of the Sword - The Legend of the Onimusha』の新たな公式トレーラーが公開されました。⚔️ 映像に収められた迫力満点のバトル演出と特有の重厚な剣術アクションは、新作への期待感を一層高めてくれます。今すぐトレーラーを視聴して、鬼武者の新たな伝説をご自身の目でお確かめください！🎬"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "라이브 서비스 환상의 종말📉 그리고 돌아온 '귀무자' 신작 트레일러 ⚔️",
+    "en": "The Live-Service Illusion is Over 📉 (feat. Epic 'Onimusha' Reveal Trailer ⚔️)",
+    "ja": "ライブサービス神話の終焉📉 そして『鬼武者』待望の最新トレーラー解禁⚔️"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "드디어 전설의 '귀무자' 신작 트레일러가 떴네요! ⚔️\n소니의 라이브 서비스 철회 소식부터 오늘 나온 인왕 3까지 알차게 모아왔어요 🎮\n\nhttps://www.gtplayer.net/edition-107/\n#귀무자 #인왕3 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-08-20T07:01:31.028144"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "8월 20일 오늘의 게임 소식 🎮\n📰 [뉴스] 소니 호라이즌 라이브 서비스 철회 & 캡콤 귀무자 신작 트레일러 공개!\n📅 [출시] 인왕 3, 모탈 셸 2, 스토커 2 확장팩 등 이번 주 주요 신작 라인업\n✍️ [인사이트] 라이브 서비스 환상의 종말과 본질로의 회귀\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#GTPlayer #게임뉴스 #게임소식 #신작게임 #게임추천 #게임정보 #호라이즌 #귀무자 #인왕3 #모탈셸2 #스토커2 #GTA6 #플스5 #스팀게임 #콘솔게임 #PC게임 #게임인사이트 #게이머 #게임덕후 #게임매거진",
+          "image_paths": [
+            "web\\instagram\\edition_107\\card_cover.png",
+            "web\\instagram\\edition_107\\card_news.png",
+            "web\\instagram\\edition_107\\card_calendar.png",
+            "web\\instagram\\edition_107\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "3967449980655048396_39332818166",
+            "url": "https://www.instagram.com/p/DcPNrypExbM/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-08-20T07:02:04.281952"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "The Live-Service Illusion is Over 📉 (feat. Epic 'Onimusha' Reveal Trailer ⚔️)\n\nSony makes a bold pivot away from live service for Horizon co-op, while Capcom sets the gaming world on fire with an epic new Onimusha reveal trailer.\nCatch up on massive industry shifts, game-changing headlines, and the most exciting new releases shaping the future of gaming.\n\nhttps://www.gtplayer.net/edition-107-en/",
+        "error": null
+      },
+      "updated_at": "2026-08-20T07:02:42.383651"
+    }
+  }
+}

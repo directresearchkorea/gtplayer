@@ -1,0 +1,500 @@
+{
+  "num": "033",
+  "date": "2026-04-17",
+  "status": "published",
+  "schedule": {
+    "date": "2026-04-17",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "오퍼스: 프리즘 피크 (OPUS: Prism Peak)",
+          "dev": "시고노, 슈에이샤 게임즈",
+          "date": "4월 16일(목)",
+          "platforms": [
+            "PC",
+            "Switch",
+            "Switch 2"
+          ],
+          "color": "#10b981",
+          "note": "4월 16일 정식 출시된 내러티브 기반의 포토 어드벤처 게임으로, 주인공 유진이 카메라를 이용해 잃어버린 기억과 수수께끼를 풀며 고향으로 돌아가기 위한 여정을 그립니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315502",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "마우스: P.I. 포 하이어 (Mouse: P.I. For Hire)",
+          "dev": "푸미 게임즈",
+          "date": "4월 16일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S",
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "4월 16일 정식 출시된 1930년대 고전 애니메이션풍 비주얼의 1인칭 슈팅 게임으로, 부패한 도시에서 탐정이 되어 다양한 무기와 장비로 적들을 소탕하는 액션을 선보입니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/mouse-1/258573/mouse-pi-for-hire-official-trailer-galaxies-spring-showcase-2026",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "release",
+          "game": "토모다치 라이프: 리빙 더 드림",
+          "dev": "닌텐도",
+          "date": "4월 16일(목)",
+          "platforms": [
+            "Switch",
+            "Switch 2"
+          ],
+          "color": "#10b981",
+          "note": "닌텐도의 인기 생활 시뮬레이션 시리즈 신작이 4월 16일 출시되었으며, 자신과 친구들을 닮은 Mii 캐릭터들의 개성 넘치는 관계와 엉뚱한 일상을 자유롭게 즐길 수 있습니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/tomodachi-life-living-the-dream/258584/i-put-all-my-friends-in-tomodachi-life-12-minutes-of-switch-2-gameplay",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "release",
+          "game": "Riviera ~약속의 땅 리비에라~",
+          "dev": "스팅",
+          "date": "4월 16일(목)",
+          "platforms": [
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "2002년작 판타지 RPG의 리마스터 한국어판이 4월 16일 정식 출시되었으며, 고해상도 그래픽과 배속 기능 등 편의성이 개선되어 리비에라 성지를 탐험하는 재미를 선사합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315491",
+          "source_name": "인벤"
+        },
+        {
+          "category": "event",
+          "game": "PUBG: 블랙 버짓",
+          "dev": "펍지 스튜디오",
+          "date": "4월 16일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#f59e0b",
+          "note": "크래프톤이 개발 중인 차기 익스트랙션 슈터 신작으로, 4월 16일부터 유럽 지역 이용자들을 대상으로 게임성을 검증하기 위한 첫 비공개 커뮤니티 테스트를 진행합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315515",
+          "source_name": "인벤"
+        },
+        {
+          "category": "event",
+          "game": "갤럭시즈 스프링 쇼케이스 2026",
+          "dev": "Galaxies",
+          "date": "4월 17일(금)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S",
+            "Switch"
+          ],
+          "color": "#f59e0b",
+          "note": "한국 시간 4월 17일 새벽에 개최된 대규모 온라인 게임 쇼케이스로, 50개 이상의 다양한 인디 및 글로벌 신작 게임들의 트레일러와 새로운 출시 정보가 대거 공개되었습니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/258564/galaxies-spring-showcase-2026-livestream",
+          "source_name": "IGN India"
+        }
+      ],
+      "events": [
+        {
+          "name": "아니메 게임 '이환' 프리뷰 특별 방송",
+          "note": "신규 트레일러 공개 및 샌드박스 플레이, 오픈월드 탐험 등 게임 상세 정보 소개",
+          "venue": "온라인 (공식 채널)",
+          "date": "2026-04-18",
+          "tag": "쇼케이스",
+          "website": "https://www.inven.co.kr/webzine/news/?news=315500"
+        },
+        {
+          "name": "블루 아카이브 '카페 메모리얼' 시즌3 오픈",
+          "note": "봄맞이 데이트룩 테마로 새단장한 공식 테마 카페 오프라인 이벤트",
+          "venue": "오프라인 (카페 메모리얼)",
+          "date": "2026-04-17 ~",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=315499"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "4A 게임즈, 신작 '메트로 2039' 공식 발표 및 트레일러 공개",
+          "source": "IGN India",
+          "time": "4월 16일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/metro-2039/258554/metro-2039-announced"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'스페이스 마린 2', 누적 유저 1,200만 명 돌파 기록",
+          "source": "IGN India",
+          "time": "4월 16일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/warhammer-40000-space-marine-ii/258561/warhammer-40000-space-marine-2-sales-update"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "MMORPG '롬', 레드랩게임즈 자체 서비스 체제로 전환",
+          "source": "인벤",
+          "time": "4월 16일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315498"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "2026 아시아 e스포츠 대회 국가대표 파견후보 20인 발표",
+          "source": "게임메카",
+          "time": "4월 16일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1774127"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "'프로야구 스피리츠 2026' 7월 출시 및 한국어 지원 확정",
+          "source": "4Gamer",
+          "time": "4월 16일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/999/G099971/20260416027/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "G-MODE 아카이브, '제노서가' 등 반다이남코 명작 복권",
+          "source": "Famitsu",
+          "time": "4월 16일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202604/71868"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "로블록스, 아동 안전 관련 합의금 1,200만 달러 지불",
+          "source": "GamesIndustry.biz",
+          "time": "4월 16일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/roblox-to-pay-over-12m-to-state-of-nevada-in-child-safety-settlement"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "美 캘리포니아, 일방적 게임 서버 종료 금지법 발의",
+          "source": "인벤",
+          "time": "4월 16일",
+          "country": "GLOBAL",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315513"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": [],
+      "items": [
+        {
+          "game": "AION2",
+          "period": "최근 30일",
+          "count": "4,597",
+          "sources": "커뮤니티",
+          "score": "2.7",
+          "pos": 6,
+          "neu": 71,
+          "neg": 23,
+          "keywords": [
+            {
+              "text": "Class Mention",
+              "positive": true
+            },
+            {
+              "text": "Dungeon / Raid Discussion",
+              "positive": true
+            },
+            {
+              "text": "DPS Comparison",
+              "positive": true
+            },
+            {
+              "text": "Buff/Nerf Debate",
+              "positive": true
+            },
+            {
+              "text": "Build Meta",
+              "positive": true
+            }
+          ],
+          "comments": [
+            {
+              "text": "각인 키나와 자동 추출 기능 추가로 편의성이 좋아져서 만족해요.",
+              "positive": true
+            },
+            {
+              "text": "검성 밸런스 붕괴와 수호성 버그를 방치하는 건 정말 실망이에요.",
+              "positive": false
+            },
+            {
+              "text": "히든큐브 보상을 높인다더니 획득 확률을 낮춘 건 너무 속상해요.",
+              "positive": false
+            }
+          ]
+        }
+      ]
+    },
+    "drk": {
+      "enabled": true,
+      "title": "소유권의 시대에서 '이용권'의 시대로: 서버 종료 금지법이 던지는 파장",
+      "intro": "우리가 구매한 디지털 게임은 과연 영원히 우리의 것일까요?\n캘리포니아의 새로운 법안이 게임 산업의 해묵은 관행에 정면으로 도전장을 내밀었습니다.",
+      "points": "최근 미국 캘리포니아에서 게임 서버의 일방적인 종료를 금지하는 법안이 발의되었습니다. 이와 더불어 로블록스의 아동 안전 관련 대규모 합의금 지불과 리비에라, 제노서가 같은 고전 명작들의 재출시 소식은 디지털 콘텐츠의 지속 가능성과 기업의 책임이라는 화두를 동시에 던지고 있습니다.\n\n이 현상은 소비자들에게 '디지털 소유권'에 대한 근본적인 인식 변화를 불러일으킬 것입니다. 지금까지 라이브 서비스 게임은 종료와 함께 사라지는 소모품으로 여겨졌으나, 법적 규제가 강화되면 기업은 오프라인 모드 지원이나 서버 소급 적용 등 사후 관리 비용을 설계 단계부터 반영해야 합니다. 이는 게임 소비 구조가 단순 구매를 넘어 장기적인 서비스 보장 계약으로 진화함을 의미합니다. ⚖️\n\n결국 게임사는 단순히 재미있는 콘텐츠를 제공하는 단계를 넘어, **소비자가 지불한 가치를 영구적으로 보존해야 하는 '디지털 자산 관리자'로서의 의무**를 요구받게 될 것입니다. 이는 단기 수익성에 치중해 온 서비스 모델의 한계를 극복하고 산업 전체의 신뢰도를 회복할 결정적 전환점이 될 것입니다. 💡\n\n기술의 발전이 고전의 부활을 돕는 시대에, 제도적 장치까지 마련된다면 게임의 생명력은 어디까지 확장될 수 있을까요? 여러분은 내일 당장 사라질지도 모르는 화려한 서비스와, 영원히 소장 가능한 투박한 기록 중 무엇에 더 가치를 두시겠습니까? 🎮"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "The Stone of Madness",
+      "url": "https://store.epicgames.com/ko/p/the-stone-of-madness-7b22f3",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/8de621e8d91b473f892472024035dc22/the-stone-of-madness-hvdla.jpg",
+      "comment": "**[주말 게임 혜택]**\n\n이번 주 에픽게임즈 무료 배포 게임은 18세기 스페인 수도원을 배경으로 한 실시간 전술 잠입 게임 **'The Stone of Madness'**입니다. (4월 23일 15:00까지)\n다섯 명의 캐릭터가 가진 고유 기술을 조합해 광기를 극복하고 탈출하는 전략적인 재미를 느낄 수 있는 수작 인디 게임입니다. 🏰\n\n**Next Week:** 다음 주에는 복수심에 불타는 2D 액션 메트로배니아 'DOOMBLADE'가 찾아옵니다. ⚔️\n\n**Steam Deal:** 안드로이드의 운명을 결정하는 몰입감 넘치는 명작 'Detroit: Become Human'의 특별 할인이 4월 20일 17:00까지 진행되니 놓치지 마세요! 🤖",
+      "steam_deal": {
+        "type": "deal",
+        "name": "Detroit: Become Human",
+        "app_id": 1222140,
+        "url": "https://store.steampowered.com/app/1222140",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479",
+        "discount_percent": 80,
+        "original_price": "45,500원",
+        "final_price": "9,100원",
+        "end_date": "2026-04-20 17:00"
+      }
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": "",
+      "upLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=033&lang=ja&vote=up",
+      "downLink": "https://gtplayer-click.gtplayernet.workers.dev?edition=033&lang=ja&vote=down"
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "OPUS: Prism Peak",
+        "releases.0.note": "Released on April 16th, this narrative-driven photo adventure game follows the protagonist, Eugene, on a journey home as he uses a camera to solve mysteries and recover lost memories.",
+        "releases.0.dev": "SIGONO, Shueisha Games",
+        "releases.1.game": "Mouse: P.I. For Hire",
+        "releases.1.note": "A first-person shooter with 1930s classic animation-style visuals released on April 16th. Players take on the role of a detective in a corrupt city, taking down enemies with various weapons and gadgets.",
+        "releases.1.dev": "Fumi Games",
+        "releases.2.game": "Tomodachi Life: Living the Dream",
+        "releases.2.note": "A new entry in Nintendo's popular life simulation series was released on April 16th, allowing players to enjoy the unique relationships and quirky daily lives of Mii characters that resemble themselves and their friends.",
+        "releases.2.dev": "Nintendo",
+        "releases.3.game": "Riviera: The Promised Land",
+        "releases.3.note": "The remastered Korean version of the 2002 fantasy RPG was officially released on April 16th. It offers high-resolution graphics and improved convenience features, such as a fast-forward function, for exploring the sanctuary of Riviera.",
+        "releases.3.dev": "Sting",
+        "releases.4.game": "PUBG: Project Black Budget",
+        "releases.4.note": "Krafton's upcoming extraction shooter, currently in development, will conduct its first closed community test starting April 16th for European users to verify its gameplay.",
+        "releases.4.dev": "PUBG Studios",
+        "releases.5.game": "Galaxies Spring Showcase 2026",
+        "releases.5.note": "A large-scale online game showcase held in the early hours of April 17th (KST), featuring trailers and new release information for over 50 diverse indie and global titles.",
+        "releases.5.dev": "Galaxies",
+        "events.0.name": "Anime Game 'The Perceiver' Preview Special Broadcast",
+        "events.0.note": "Introduction of detailed game information including a new trailer reveal, sandbox gameplay, and open-world exploration.",
+        "events.0.venue": "Online (Official Channels)",
+        "events.1.name": "Blue Archive 'Cafe Memorial' Season 3 Opening",
+        "events.1.note": "An offline official theme cafe event renovated with a 'Spring Date Look' theme.",
+        "events.1.venue": "Offline (Cafe Memorial)"
+      },
+      "briefing": {
+        "items.0.title": "4A Games Officially Announces New Title 'Metro 2039' and Reveals Trailer",
+        "items.0.source": "IGN India",
+        "items.0.time": "April 16th",
+        "items.1.title": "'Space Marine 2' Surpasses 12 Million Cumulative Players",
+        "items.1.source": "IGN India",
+        "items.1.time": "April 16th",
+        "items.2.title": "MMORPG 'ROM', RedLab Games Transitions to Self-Service System",
+        "items.2.source": "Inven",
+        "items.2.time": "April 16th",
+        "items.3.title": "20 Candidates Announced for the 2026 Asian Esports Games National Team",
+        "items.3.source": "GameMeca",
+        "items.3.time": "April 16th",
+        "items.4.title": "'Professional Baseball Spirits 2026' Confirmed for July Release with Korean Language Support",
+        "items.4.source": "4Gamer",
+        "items.4.time": "April 16th",
+        "items.5.title": "G-MODE Archives to Restore Bandai Namco Classics such as 'Xenosaga'",
+        "items.5.source": "Famitsu",
+        "items.5.time": "April 16th",
+        "items.6.title": "Roblox to Pay $12 Million Settlement Regarding Child Safety",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "April 16th",
+        "items.7.title": "California Introduces Bill to Ban Unilateral Game Server Shutdowns",
+        "items.7.source": "Inven",
+        "items.7.time": "April 16th"
+      },
+      "feedback": {
+        "items.0.game": "AION2",
+        "items.0.period": "Last 30 Days",
+        "items.0.keywords.0.text": "Class Mention",
+        "items.0.keywords.1.text": "Dungeon / Raid Discussion",
+        "items.0.keywords.2.text": "DPS Comparison",
+        "items.0.keywords.3.text": "Buff/Nerf Debate",
+        "items.0.keywords.4.text": "Build Meta",
+        "items.0.comments.0.text": "I'm satisfied with the improved convenience from the addition of Kinah engraving and auto-extraction features.",
+        "items.0.comments.1.text": "It's really disappointing that the Gladiator balance collapse and Templar bugs are being neglected.",
+        "items.0.comments.2.text": "It's upsetting that they lowered the drop rate after saying they would increase Hidden Cube rewards."
+      },
+      "drk": {
+        "title": "From the Era of Ownership to the Era of 'Usage Rights': The Impact of the Anti-Server Shutdown Bill",
+        "intro": "Is the digital game we purchased truly ours forever? A new bill in California is directly challenging the long-standing practices of the gaming industry.",
+        "points": "Recently, a bill was introduced in California to ban the unilateral shutdown of game servers. Along with this, news of Roblox's large-scale settlement regarding child safety and the re-release of classic masterpieces like Riviera and Xenosaga have raised questions about the sustainability of digital content and corporate responsibility.\n\nThis phenomenon will trigger a fundamental change in consumers' perception of 'digital ownership.' Until now, live-service games were regarded as consumables that vanished upon termination. However, as legal regulations tighten, companies must incorporate post-management costs, such as offline mode support or retrospective server applications, from the design stage. This implies that the game consumption structure is evolving beyond simple purchases into long-term service guarantee contracts. ⚖️\n\nUltimately, game companies will be required to go beyond providing fun content and fulfill their duty as 'digital asset managers' who must permanently preserve the value paid for by consumers. This will be a decisive turning point in overcoming the limitations of service models that have focused on short-term profitability and restoring trust in the industry as a whole. 💡\n\nIn an era where technological advancement helps revive classics, how far can the lifespan of a game extend if institutional safeguards are also established? What would you value more: a flashy service that might disappear tomorrow, or a rugged record that you can own forever? 🎮"
+      },
+      "epic": {
+        "title": "The Stone of Madness",
+        "comment": "**[Weekend Game Benefits]**\n\nThis week's free game on Epic Games Store is **'The Stone of Madness'**, a real-time tactical stealth game set in an 18th-century Spanish monastery. (Available until April 23, 15:00)\nIt's a high-quality indie game where you can experience strategic fun by combining the unique skills of five characters to overcome madness and escape. 🏰\n\n**Next Week:** Next week, the vengeful 2D action metroidvania 'DOOMBLADE' will arrive. ⚔️\n\n**Steam Deal:** Don't miss the special discount on the immersive masterpiece 'Detroit: Become Human,' where you decide the fate of androids, available until April 20, 17:00! 🤖"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "OPUS: プリズムピーク (OPUS: Prism Peak)",
+        "releases.0.note": "4月16日に正式リリースされたナラティブ主導のフォトアドベンチャーゲームです。主人公のユジンがカメラを使い、失われた記憶と謎を解き明かしながら故郷へ帰るための旅を描きます。",
+        "releases.0.dev": "SIGONO、集英社ゲームズ",
+        "releases.1.game": "MOUSE: P.I. For Hire",
+        "releases.1.note": "4月16日に正式リリースされた1930年代の古典アニメ風ビジュアルの一人称視点シューティングゲームです。腐敗した街で探偵となり、多様な武器や装備で敵を掃討するアクションを披露します。",
+        "releases.1.dev": "Fumi Games",
+        "releases.2.game": "トモダチコレクション: Living the Dream",
+        "releases.2.note": "任天堂の人気生活シミュレーションシリーズの新作が4月16日に発売されました。自分や友達に似たMiiキャラクターたちの個性豊かな関係や、突飛な日常を自由に楽しむことができます。",
+        "releases.2.dev": "任天堂",
+        "releases.3.game": "Riviera 〜約束の地リヴィエラ〜",
+        "releases.3.note": "2002年作のファンタジーRPGのリマスター版が4月16日に正式リリースされました。高解像度グラフィックや倍速機能などの利便性が向上し、聖地リヴィエラを探索する楽しさを提供します。",
+        "releases.3.dev": "スティング",
+        "releases.4.game": "PUBG: Black Budget",
+        "releases.4.note": "KRAFTONが開発中の次世代エクストラクション・シューター新作で、4月16日から欧州地域のユーザーを対象に、ゲーム性を検証するための初のクローズドコミュニティテストを実施します。",
+        "releases.4.dev": "PUBG Studios",
+        "releases.5.game": "Galaxies Spring Showcase 2026",
+        "releases.5.note": "日本時間4月17日未明に開催された大規模オンラインゲームショーケースで、50以上の多様なインディーおよびグローバル新作ゲームのトレーラーと最新の発売情報が一挙に公開されました。",
+        "releases.5.dev": "Galaxies",
+        "events.0.name": "アニメ風ゲーム『異環』プレビュー特別番組",
+        "events.0.note": "新規トレーラー公開およびサンドボックスプレイ、オープンワールド探索などゲーム詳細情報の紹介",
+        "events.0.venue": "オンライン（公式チャンネル）",
+        "events.1.name": "ブルーアーカイブ「カフェ・メモリアル」シーズン3オープン",
+        "events.1.note": "春のデート服をテーマにリニューアルした公式テーマカフェのオフラインイベント",
+        "events.1.venue": "オフライン（カフェ・メモリアル）"
+      },
+      "briefing": {
+        "items.0.title": "4A Games、新作『Metro 2039』を公式発表、トレーラーを公開",
+        "items.0.source": "IGN India",
+        "items.0.time": "4月16日",
+        "items.1.title": "『スペースマリーン2』、累計プレイヤー数1,200万人突破を記録",
+        "items.1.source": "IGN India",
+        "items.1.time": "4月16日",
+        "items.2.title": "MMORPG『ROM』、RedLab Gamesの自社サービス体制へ転換",
+        "items.2.source": "インベン",
+        "items.2.time": "4月16日",
+        "items.3.title": "2026年アジアeスポーツ大会、代表派遣候補20名を発表",
+        "items.3.source": "ゲームメカ",
+        "items.3.time": "4月16日",
+        "items.4.title": "『プロ野球スピリッツ2026』7月発売および韓国語対応が決定",
+        "items.4.source": "4Gamer",
+        "items.4.time": "4月16日",
+        "items.5.title": "G-MODEアーカイブス、『ゼノサーガ』などバンダイナムコの名作を復刻",
+        "items.5.source": "Famitsu",
+        "items.5.time": "4月16日",
+        "items.6.title": "Roblox、児童の安全に関する和解金として1,200万ドルを支払い",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "4月16日",
+        "items.7.title": "米カリフォルニア州、一方的なゲームサーバー終了を禁止する法案を提出",
+        "items.7.source": "インベン",
+        "items.7.time": "4月16日"
+      },
+      "feedback": {
+        "items.0.game": "AION2",
+        "items.0.period": "最近30日間",
+        "items.0.keywords.0.text": "クラスの言及",
+        "items.0.keywords.1.text": "ダンジョン/レイドの議論",
+        "items.0.keywords.2.text": "DPS比較",
+        "items.0.keywords.3.text": "バフ/ナーフ論争",
+        "items.0.keywords.4.text": "ビルドメタ",
+        "items.0.comments.0.text": "刻印ギーナと自動抽出機能の追加で利便性が向上し、満足しています。",
+        "items.0.comments.1.text": "ソードウィングのバランス崩壊とシールドウィングのバグ放置には本当に失望しました。",
+        "items.0.comments.2.text": "ヒドゥンキューブの報酬を上げると言っておきながら、獲得確率を下げたのは非常に残念です。"
+      },
+      "drk": {
+        "title": "「所有権」の時代から「利用権」の時代へ：サーバー終了禁止法がもたらす波紋",
+        "intro": "私たちが購入したデジタルゲームは、果たして永遠に私たちのものなのでしょうか？カリフォルニアの新しい法案が、ゲーム業界の古い慣行に真っ向から挑戦状を叩きつけました。",
+        "points": "最近、米カリフォルニア州でゲームサーバーの一方的な終了を禁止する法案が提出されました。これに加えて、Robloxの児童安全に関する大規模な和解金の支払い、そして『リヴィエラ』や『ゼノサーガ』のような古典的名作の再発売のニュースは、デジタルコンテンツの持続可能性と企業の責任という課題を同時に投げかけています。\n\nこの現象は、消費者に「デジタル所有権」に対する根本的な認識の変化をもたらすでしょう。これまでのライブサービスゲームは終了と共に消え去る消耗品と見なされてきましたが、法的規制が強化されれば、企業はオフラインモードのサポートやサーバーの遡及適用など、アフターケアのコストを設計段階から反映させなければなりません。これは、ゲームの消費構造が単なる購入を超えて、長期的なサービス保証契約へと進化することを意味します。⚖️\n\n結局のところ、ゲーム会社は単に面白いコンテンツを提供する段階を超え、**「消費者が支払った価値を永久に保存しなければならないデジタル資産管理者」としての義務**を求められることになるでしょう。これは、短期的な収益性に偏ってきたサービスモデルの限界を克服し、産業全体の信頼を回復する決定的な転換点となるはずです。💡\n\n技術の発展が古典の復活を助ける時代に、制度的な装置まで整うならば、ゲームの生命力はどこまで拡張されるのでしょうか？皆さんは、明日突然消えるかもしれない華やかなサービスと、永遠に所蔵可能な無骨な記録、どちらに価値を置きますか？🎮"
+      },
+      "epic": {
+        "title": "The Stone of Madness",
+        "comment": "**[週末のゲーム特典]**\n\n今週のEpic Gamesストア無料配布タイトルは、18世紀スペインの修道院を舞台にしたリアルタイム戦術潜入ゲーム **『The Stone of Madness』** です。（4月23日15:00まで）\n5人のキャラクターが持つ固有のスキルを組み合わせ、狂気を克服して脱出する戦略的な楽しさを味わえる秀逸なインディーゲームです。🏰\n\n**Next Week:** 来週は、復讐に燃える2Dアクション・メトロイドヴァニア 『DOOMBLADE』 が登場します。⚔️\n\n**Steam Deal:** アンドロイドの運命を決定する没入感あふれる名作 『Detroit: Become Human』 の特別セールが4月20日17:00まで実施中ですので、お見逃しなく！🤖"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "내 게임, 평생 소장 가능할까? 서버 종료 금지법의 파장 🛑 (+신작 무료 배포)",
+    "en": "The end of digital ownership? 🛑 What server shutdown laws mean for you (+Free Game!)",
+    "ja": "ゲームは『所有』から『利用』へ？サバ終禁止法の衝撃 🛑 (+新作無料プレゼント)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ]
+}

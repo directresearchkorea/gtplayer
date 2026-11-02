@@ -1,0 +1,122 @@
+{
+  "num": "014",
+  "date": "2026-03-25",
+  "status": "published",
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [],
+      "events": []
+    },
+    "briefing": {
+      "enabled": true,
+      "items": []
+    },
+    "feedback": {
+      "enabled": true,
+      "game": "AION2",
+      "period": "최근 30일",
+      "count": "2,076",
+      "sources": "커뮤니티",
+      "score": "2.7",
+      "pos": 4,
+      "neu": 79,
+      "neg": 17,
+      "keywords": [
+        {
+          "text": "Class Mention",
+          "positive": true
+        },
+        {
+          "text": "Dungeon / Raid Discussion",
+          "positive": true
+        },
+        {
+          "text": "Build Meta",
+          "positive": true
+        },
+        {
+          "text": "DPS Comparison",
+          "positive": true
+        },
+        {
+          "text": "Buff/Nerf Debate",
+          "positive": true
+        }
+      ],
+      "comments": [
+        {
+          "text": "선발대가 공유해준 직업별 공략 정보가 유익해요.",
+          "positive": true
+        },
+        {
+          "text": "특정 직업에만 유리한 던전 기믹이 정말 싫어요.",
+          "positive": false
+        },
+        {
+          "text": "운영진의 부족한 게임 이해도가 너무 아쉬워요.",
+          "positive": false
+        }
+      ]
+    },
+    "drk": {
+      "enabled": true,
+      "title": "[K-게임의 황혼과 새벽] '리니지'라는 안락사를 거부하고 전장으로 나아가라",
+      "intro": "최근 게임 업계의 실적 발표와 신작 라인업은 극명한 대조를 이룹니다. 한때 시장을 지배했던 MMORPG의 위세가 꺾이고, 콘솔 기반의 액션 RPG와 고퀄리티 서브컬처 게임이 그 빈자리를 빠르게 채우고 있습니다. 이는 단순한 장르의 이동이 아니라, 지난 10년간 한국 게임을 지탱해온 'P2W(Pay to Win)' 모델이 유저의 외면이라는 거대한 벽에 부딪혔음을 상징합니다.",
+      "points": "이 현상의 이면에는 '재미의 상향 평준화'가 있습니다. 이제 유저들은 글로벌 시장의 대작들과 국내 게임을 실시간으로 비교하며, 더 이상 확률형 아이템에 기반한 무의미한 경쟁에 매몰되지 않습니다. 게임사들에게는 익숙한 비즈니스 모델을 포기해야 하는 고통스러운 과정이겠지만, 역설적으로 이는 한국 게임이 '우물 안 개구리'에서 벗어나 글로벌 표준으로 진입할 수 있는 유일한 기회이기도 합니다.\n\n**Dr. K의 시선으로 볼 때, 지금 필요한 것은 기술적 화려함이 아닌 '기획의 진정성'입니다.** 자극적인 BM 설계를 위해 게임성을 희생하던 시대는 끝났습니다. **글로벌 유저들이 열광하는 것은 정교한 세계관과 몰입감 넘치는 서사, 그리고 조작의 즐거움이라는 게임 본연의 가치입니다. 이제 한국 게임 산업은 '돈이 되는 게임'이 아닌 '하고 싶은 게임'을 만드는 기초 체력을 다시 길러야 합니다.**\n\n변화는 이미 시작되었습니다. 누군가는 위기라 말하지만, 저는 이를 건강한 진통이라 부르고 싶습니다. 구시대의 유물을 과감히 던져버리고 새로운 항해를 시작할 준비가 되셨습니까? 여러분이 꿈꾸는 진정한 'K-게임의 르네상스'는 어떤 모습인지 묻고 싶습니다."
+    },
+    "gamescene": {
+      "enabled": true,
+      "game": "검은 신화: 오공 (Black Myth: Wukong)",
+      "title": "운해 끝에 걸린 금빛 여명",
+      "imgUrl": "",
+      "comment": "동양적 미학의 정수를 언리얼 엔진 5로 완벽하게 구현해냈으며, 고요한 자연경관과 압도적인 신화적 분위기가 공존하는 시각적 경이로움을 선사합니다.",
+      "ai_prompt": "A cinematic, hyper-realistic shot of a monkey king warrior inspired by Black Myth Wukong, standing on a jagged snowy mountain peak. He is wearing intricate golden armor with a long, flowing crimson cape fluttering in the wind. He holds a massive black iron staff with gold filigree. Below him is a vast, ethereal sea of clouds and mist, with silhouettes of ancient Chinese temples and floating islands in the distance. The scene is illuminated by a breathtaking golden sunrise, with god rays piercing through the clouds. 8k resolution, Unreal Engine 5 render style, dramatic lighting, epic mythological atmosphere, highly detailed fur and textures."
+    },
+    "meme": {
+      "enabled": true,
+      "items": [
+        {
+          "title": "Star Wars Jedi Knight II: Jedi Outcast",
+          "score": 1239,
+          "url": "https://i.redd.it/r4srxwtyz1rg1.jpeg",
+          "permalink": "https://reddit.com/r/gaming/comments/1s2pl9b/star_wars_jedi_knight_ii_jedi_outcast/",
+          "subreddit": "gaming",
+          "author": "TimelyDrummer4975",
+          "num_comments": 212,
+          "comment": "제다이 아웃캐스트라니! 이 시절 찰진 광선검 손맛은 아직도 못 잊죠. ⚔️"
+        },
+        {
+          "title": "almost got lost on my hike today",
+          "score": 243,
+          "url": "https://i.redd.it/gpelaxbti1rg1.jpeg",
+          "permalink": "https://reddit.com/r/gaming/comments/1s2mwxu/almost_got_lost_on_my_hike_today/",
+          "subreddit": "gaming",
+          "author": "Arkillese",
+          "num_comments": 39,
+          "comment": "등산 중 길 잃을 뻔했다고요? 현실인지 게임인지 헷갈릴 정도로 완벽하네요! 🌳"
+        }
+      ]
+    },
+    "soundtrack": {
+      "enabled": true,
+      "title": "10 Hours of Lofi Video Game Beats",
+      "channel": "Helynt",
+      "videoId": "5jaT_8hy3Vg",
+      "url": "https://www.youtube.com/watch?v=5jaT_8hy3Vg",
+      "thumbnail": "https://i.ytimg.com/vi/5jaT_8hy3Vg/hqdefault.jpg",
+      "comment": "익숙한 게임 멜로디가 포근한 로파이 비트로 재탄생했어요. 집중이 필요한 업무 시간이나 나른한 휴식 시간에 들으면 딱이랍니다. 10시간의 편안한 여정에 함께해 보세요! 🎧✨",
+      "search_query": "게임 브금 로파이"
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    }
+  },
+  "translations": {
+    "en": {},
+    "ja": {}
+  }
+}

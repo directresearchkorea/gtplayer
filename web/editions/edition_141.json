@@ -1,0 +1,439 @@
+{
+  "num": "141",
+  "date": "2026-10-07",
+  "status": "published",
+  "schedule": {
+    "date": "2026-10-07",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "update",
+          "game": "트리 오브 세이비어",
+          "dev": "IMC게임즈",
+          "date": "10월 7일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "신규 마법 딜러 클래스 '오피시언트'를 출시하고 탐험의 재미를 강화하는 고고학 시스템 전면 개편을 적용합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=321816",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "판타시 스타 온라인 2 뉴 제네시스 ver.2",
+          "dev": "세가",
+          "date": "10월 7일(수)",
+          "platforms": [
+            "PC",
+            "PS4",
+            "Xbox One"
+          ],
+          "color": "#3b82f6",
+          "note": "10월 7일 업데이트를 통해 캐릭터 레벨 상한이 125로 확장되며, 신규 장비 카테고리 '아뮬렛'과 초고난도 퀘스트가 개방됩니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/521/G052100/20261005033/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "도깨비의세계",
+          "dev": "슈퍼캣",
+          "date": "10월 8일(목)",
+          "platforms": [
+            "모바일",
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 8일 정식 출시되는 한국적 테마의 2.5D MMORPG로, 정해진 직업 없이 90종의 도술을 조합해 자유로운 전투 스타일을 구현할 수 있습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=321802",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "클라이브 바커의 헬레이저: 리바이벌",
+          "dev": "Saber Interactive",
+          "date": "10월 8일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 8일 PC(스팀)로 출시되는 호러 신작으로, 전설적인 공포 프랜차이즈 헬레이저의 기괴하고 어두운 세계관을 직접 탐험하게 됩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/1551980/Clive_Barkers_Hellraiser_Revival/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "update",
+          "game": "드래곤즈 도그마 2: 다크 아리즌 확장팩",
+          "dev": "캡콤",
+          "date": "10월 8일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#3b82f6",
+          "note": "10월 8일 출시되는 대규모 확장팩으로, 새로운 위험이 도사리는 신규 모험 구역과 고난도 도전 콘텐츠를 선보입니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2593290/Dragons_Dogma_2_Dark_Arisen_Expansion/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "퍼마프로스트",
+          "dev": "SpaceRocket Games",
+          "date": "10월 9일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "10월 9일 PC(스팀)로 출시되는 오픈월드 생존 신작으로, 대재앙으로 영구동토층이 된 혹독한 극한 환경 속에서 생존과 건설을 펼칩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2254990/Permafrost/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "PUBG SEONGSU 2026 WWCD 치맥파티 – 삼뚝리 통닭 대잔치",
+          "note": "배틀그라운드 IP 기반 오프라인 치맥파티 및 현장 이벤트",
+          "venue": "펍지 성수",
+          "date": "2026-10-07 ~ 2026-10-11",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=321812"
+        },
+        {
+          "name": "발로란트 챔피언스 상하이 플레이오프",
+          "note": "T1, 농심 레드포스, PRX 등 8강 플레이오프 경기 시작",
+          "venue": "중국 상하이",
+          "date": "2026-10-07 ~",
+          "tag": "e스포츠",
+          "website": "https://www.gamemeca.com/view.php?gid=1781388"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "몬스터 헌터 라이즈, 누적 판매량 2,000만 장 돌파",
+          "source": "인벤",
+          "time": "10월 6일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=321819"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "월트 디즈니 사장, 에픽게임즈 인수합병 루머 공식 부인",
+          "source": "게임메카",
+          "time": "10월 6일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1781373"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "명일방주 엔드필드, 10월 15일 스팀 버전 전격 출시",
+          "source": "Famitsu",
+          "time": "10월 6일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202610/90216"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "생존 명작 '프로스트펑크', 닌텐도 스위치판 19일 출시",
+          "source": "4Gamer",
+          "time": "10월 6일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/048/G104810/20261006043/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "엑스박스 CEO, 차세대기 '프로젝트 헬릭스' 세부 정보 공개",
+          "source": "IGN India",
+          "time": "10월 6일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/xbox-next-generation/273719/xbox-ceo-asha-sharma-shares-more-details-on-project-helix-family-of-devices"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "소니, 이용자 플레이 데이터 기반 맞춤형 AI NPC 특허 출원",
+          "source": "IGN India",
+          "time": "10월 6일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/playstation-5-1/273698/sony-patent-would-let-an-ai-model-train-npcs-based-on-your-player-data"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "소니, PS5에 AI 업스케일링 도입… '울버린' 첫 적용",
+          "source": "GamesIndustry.biz",
+          "time": "10월 6일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/sony-introduces-ai-upscaling-to-base-ps5-marvels-wolverine-and-ghost-of-yotei-are-first-games-to-implement-new-tech"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "정해진 대사는 끝났다: 소니의 AI 특허가 예고한 게임 경험의 진화",
+      "intro": "내가 내린 수많은 선택을 기억하고 학습하는 NPC가 등장한다면 어떨까요? 🤖\n소니가 출원한 '플레이 데이터 기반 AI 특허'는 콘솔 게임의 상호작용 방식을 근본적으로 바꿀 신호탄입니다.",
+      "points": "최근 소니가 플레이어의 행동 데이터를 분석해 반응하는 맞춤형 AI NPC 특허를 출원하고, 차세대 AI 업스케일링 기술을 도입하기로 결정했습니다. 🎮 이는 하드웨어 스펙 경쟁에 집중하던 전통적인 콘솔 플랫폼이 이제는 소프트웨어 수준의 지능형 경험 제공으로 전략적 무게중심을 옮기고 있음을 보여줍니다.\n\n이러한 기술적 진보는 **실제 게임 형태의 변화**를 필연적으로 이끌어냅니다. 정해진 대사와 행동 트리만 반복하던 NPC가 개별 게이머의 플레이 스타일과 선호도를 학습하면서, 같은 타이틀이라도 유저마다 완전히 다른 서사와 감정적 교감을 경험하게 됩니다. 이는 플레이어가 게임 속 세계관에 느끼는 몰입감과 애착의 깊이를 완전히 다른 차원으로 끌어올릴 것입니다. 💡\n\n결국 미래 게임 시장의 경쟁력은 그래픽 퀄리티를 넘어 **'가상 세계가 플레이어를 얼마나 깊이 이해하고 반응하는가'**에 달려 있습니다. 단순한 고화질 연출을 지나, 플레이어의 숨결에 호흡하는 지능형 인터랙션이 차세대 AAA 게임의 진정한 기준점이 될 것입니다. 🔍\n\n플레이어를 관찰하고 함께 성장하는 AI 동료와의 모험은 게임의 본질을 어떻게 바꿔놓을까요? 여러분은 나를 너무 잘 아는 인공지능과 마주할 준비가 되셨습니까? ✨"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": true,
+      "title": "Dragon&#39;s Dogma OST: 1-43 End Of The Struggle",
+      "channel": "Serenity Score",
+      "videoId": "OTNfuztCMgM",
+      "url": "https://www.youtube.com/watch?v=OTNfuztCMgM",
+      "thumbnail": "https://i.ytimg.com/vi/OTNfuztCMgM/hqdefault.jpg",
+      "comment": "시리즈가 화제인 요즘, 다시 주목받는 명작 <드래곤즈 도그마>의 대표 전투곡이에요! 🐉 거대한 적을 쓰러뜨린 승리의 웅장한 선율과 함께 오늘 하루를 멋지게 마무리해보세요. ⚔️✨",
+      "search_query": "Dragon's Dogma 2 Dark Arisen Official Soundtrack",
+      "ai_game_name": "드래곤즈 도그마 2: 다크 아리즌",
+      "ai_reason": "대규모 신규 확장팩 출시에 맞춰, 이전 추천작의 시원하고 푸른 오케스트라와는 180도 다른 심연의 긴장감과 묵직한 다크 판타지 코러스 사운드를 즐길 수 있습니다."
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Tree of Savior",
+        "releases.0.note": "Releases the new magic dealer class 'Officiant' and applies a complete revamp of the Archaeology system to enhance the fun of exploration.",
+        "releases.0.dev": "IMC Games",
+        "releases.1.game": "Phantasy Star Online 2 New Genesis ver.2",
+        "releases.1.note": "Through the October 7 update, the character level cap is raised to 125, introducing a new equipment category 'Amulet' and unlocking ultra-high difficulty quests.",
+        "releases.1.dev": "SEGA",
+        "releases.2.game": "World of Dokkaebi",
+        "releases.2.note": "A Korean-themed 2.5D MMORPG officially launching on October 8, allowing players to create freeform combat styles without set classes by combining 90 types of Taoist magic.",
+        "releases.2.dev": "SUPERCAT",
+        "releases.3.game": "Clive Barker's Hellraiser: Revival",
+        "releases.3.note": "A new horror title releasing on PC (Steam) on October 8, where players directly explore the grotesque and dark universe of the legendary horror franchise Hellraiser.",
+        "releases.3.dev": "Saber Interactive",
+        "releases.4.game": "Dragon's Dogma 2: Dark Arisen Expansion",
+        "releases.4.note": "A major expansion releasing on October 8, featuring new adventure zones filled with fresh dangers and high-difficulty challenge content.",
+        "releases.4.dev": "Capcom",
+        "releases.5.game": "Permafrost",
+        "releases.5.note": "A new open-world survival game releasing on PC (Steam) on October 9, focusing on survival and building in a brutal, extreme environment turned into permafrost by a cataclysm.",
+        "releases.5.dev": "SpaceRocket Games",
+        "events.0.name": "PUBG SEONGSU 2026 WWCD Chimaek Party – Samttuk-ri Whole Chicken Feast",
+        "events.0.note": "An offline Chimaek party and on-site event based on the PUBG IP",
+        "events.0.venue": "PUBG Seongsu",
+        "events.1.name": "VALORANT Champions Shanghai Playoffs",
+        "events.1.note": "Quarterfinal playoff matches begin featuring T1, Nongshim RedForce, PRX, and more",
+        "events.1.venue": "Shanghai, China"
+      },
+      "briefing": {
+        "items.0.title": "Monster Hunter Rise Surpasses 20 Million Cumulative Copies Sold",
+        "items.0.source": "Inven",
+        "items.0.time": "October 6",
+        "items.1.title": "Walt Disney President Officially Denies Epic Games M&A Rumors",
+        "items.1.source": "GameMeca",
+        "items.1.time": "October 6",
+        "items.2.title": "Arknights: Endfield to Launch Steam Version on October 15",
+        "items.2.source": "Famitsu",
+        "items.2.time": "October 6",
+        "items.3.title": "Survival Masterpiece 'Frostpunk' Launches on Nintendo Switch on the 19th",
+        "items.3.source": "4Gamer",
+        "items.3.time": "October 6",
+        "items.4.title": "Xbox CEO Unveils Details on Next-Gen Console 'Project Helix'",
+        "items.4.source": "IGN India",
+        "items.4.time": "October 6",
+        "items.5.title": "Sony Files Patent for Custom AI NPCs Based on User Play Data",
+        "items.5.source": "IGN India",
+        "items.5.time": "October 6",
+        "items.6.title": "Sony Introduces AI Upscaling to PS5… First Applied to 'Wolverine'",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "October 6"
+      },
+      "drk": {
+        "title": "Scripted Lines Are Over: The Evolution of Gaming Experiences Heralded by Sony's AI Patent",
+        "intro": "What if an NPC could remember and learn from the countless choices you make? 🤖\nThe 'Play Data-Driven AI Patent' filed by Sony signals a fundamental shift in how console games handle interaction.",
+        "points": "Recently, Sony filed a patent for customized AI NPCs that analyze and react to player behavioral data, and decided to implement next-generation AI upscaling technology. 🎮 This demonstrates that traditional console platforms, which once focused on hardware spec rivalries, are now shifting their strategic center of gravity toward providing intelligent experiences at the software level.\n\nSuch technological advancements inevitably drive **changes in the actual form of games**. Moving away from NPCs merely repeating predetermined lines and behavior trees, NPCs that learn individual gamers' playstyles and preferences will allow different users to experience entirely unique narratives and emotional resonance within the very same title. This will elevate the depth of immersion and attachment players feel toward the game world to a completely different dimension. 💡\n\nUltimately, competitiveness in the future gaming market will hinge not merely on graphical quality, but on **'how deeply the virtual world understands and responds to the player.'** Moving beyond simple high-definition visual direction, intelligent interaction that breathes in sync with the player will become the true benchmark for next-generation AAA games. 🔍\n\nHow will adventures with AI companions that observe and grow alongside the player reshape the essence of gaming? Are you ready to face an artificial intelligence that knows you all too well? ✨"
+      },
+      "soundtrack": {
+        "title": "Dragon's Dogma OST: 1-43 End Of The Struggle",
+        "comment": "With the series in the spotlight lately, here is an iconic battle track from the acclaimed masterpiece <Dragon's Dogma>! 🐉 Wrap up your day on a high note with the grand melody celebrating victory over a giant foe. ⚔️✨"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ツリーオブセイヴァー",
+        "releases.0.note": "新規魔法ディーラークラス「オフィシアント」が登場し、探検の面白さを強化する考古学システムの全面改編が適用されます。",
+        "releases.0.dev": "IMCゲームズ",
+        "releases.1.game": "ファンタシースターオンライン2 ニュージェネシス ver.2",
+        "releases.1.note": "10月7日のアップデートによりキャラクターのレベル上限が125まで拡張され、新装備カテゴリー「アミュレット」や超高難度クエストが開放されます。",
+        "releases.1.dev": "セガ",
+        "releases.2.game": "トッケビの世界",
+        "releases.2.note": "10月8日に正式リリースされる韓国風テーマの2.5D MMORPG。決まった職業はなく、90種の道術を組み合わせて自由な戦闘スタイルを実現できます。",
+        "releases.2.dev": "スーパーキャット",
+        "releases.3.game": "クライヴ・バーカーのヘルレイザー：リバイバル",
+        "releases.3.note": "10月8日にPC（Steam）でリリースされる新作ホラー。伝説的ホラーフランチャイズ『ヘルレイザー』の不気味でダークな世界観を直接探索することになります。",
+        "releases.3.dev": "Saber Interactive",
+        "releases.4.game": "ドラゴンズドグマ 2：ダークアリズン 拡張パック",
+        "releases.4.note": "10月8日に配信される大規模拡張パック。新たな脅威が潜む新規冒険エリアや高難度チャレンジコンテンツをお届けします。",
+        "releases.4.dev": "カプコン",
+        "releases.5.game": "パーマフロスト",
+        "releases.5.note": "10月9日にPC（Steam）向けにリリースされるオープンワールドサバイバル新作。大惨事により永久凍土となった過酷な極限環境の中でサバイバルと建設を繰り広げます。",
+        "releases.5.dev": "SpaceRocket Games",
+        "events.0.name": "PUBG SEONGSU 2026 WWCD チメクパーティー – サムトゥクリ丸鶏大祝祭",
+        "events.0.note": "PUBG IPを基にしたオフラインチメクパーティーおよび現地イベント",
+        "events.0.venue": "PUBG聖水（PUBG SEONGSU）",
+        "events.1.name": "VALORANT Champions Shanghai プレイオフ",
+        "events.1.note": "T1、NS RedForce、PRXなどベスト8のプレイオフ試合がスタート",
+        "events.1.venue": "中国・上海"
+      },
+      "briefing": {
+        "items.0.title": "『モンスターハンターライズ』累計販売本数2,000万本を突破",
+        "items.0.source": "Inven",
+        "items.0.time": "10月6日",
+        "items.1.title": "ウォルト・ディズニー社長、Epic Games買収の噂を公式に否定",
+        "items.1.source": "GameMeca",
+        "items.1.time": "10月6日",
+        "items.2.title": "『アークナイツ：エンドフィールド』、10月15日にSteam版を電撃リリース",
+        "items.2.source": "Famitsu",
+        "items.2.time": "10月6日",
+        "items.3.title": "サバイバル名作『フロストパンク』、Nintendo Switch版が19日発売",
+        "items.3.source": "4Gamer",
+        "items.3.time": "10月6日",
+        "items.4.title": "Xbox CEO、次世代機「Project Helix」の詳細情報を公開",
+        "items.4.source": "IGN India",
+        "items.4.time": "10月6日",
+        "items.5.title": "ソニー、ユーザーのプレイデータに基づくパーソナライズドAI NPCの特許を出願",
+        "items.5.source": "IGN India",
+        "items.5.time": "10月6日",
+        "items.6.title": "ソニー、PS5にAIアップスケーリングを導入…『ウルヴァリン』に初適用",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "10月6日"
+      },
+      "drk": {
+        "title": "決められたセリフの時代は終わった：ソニーのAI特許が告げるゲーム体験の進化",
+        "intro": "自分が下した無数の選択を記憶し、学習するNPCが登場したらどうなるでしょうか？🤖\nソニーが出願した「プレイデータ基盤のAI特許」は、コンソールゲームの相互作用の在り方を根本から変える号砲です。",
+        "points": "最近、ソニーがプレイヤーの行動データを分析して反応するパーソナライズドAI NPCの特許を出願し、次世代AIアップスケーリング技術の導入を決定しました。🎮 これは、ハードウェアスペックの競争に集中していた従来のコンソールプラットフォームが、ソフトウェアレベルでの知的な体験提供へと戦略の重心を移していることを示しています。\n\nこのような技術的進歩は、**実際のゲームのあり方の変化**を必然的にもたらします。決められたセリフや行動ツリーを繰り返すだけだったNPCが、個々のゲーマーのプレイスタイルや好みを学習することで、同じタイトルであってもユーザーごとにまったく異なる物語や感情的コミュニケーションを体験することになります。これは、プレイヤーがゲームの世界観に対して抱く没入感と愛着の深さを、まったく新しい次元へと引き上げるでしょう。💡\n\n結局のところ、今後のゲーム市場における競争力はグラフィックのクオリティを超え、**「仮想世界がプレイヤーをどれほど深く理解し、反応できるか」**にかかっています。単なる高画質な演出を越え、プレイヤーの息遣いに寄り添うインテリジェントなインタラクションこそが、次世代AAAタイトルの真の基準となるはずです。🔍\n\nプレイヤーを観察し、共に成長していくAIの仲間との冒険は、ゲームの本質をどのように変えていくのでしょうか？ あなたは、自分をあまりにもよく理解している人工知能と向き合う準備ができていますか？✨"
+      },
+      "soundtrack": {
+        "title": "Dragon's Dogma OST: 1-43 End Of The Struggle",
+        "comment": "シリーズが話題の今、改めて注目を集める名作『ドラゴンズドグマ』の代表的な戦闘曲です！🐉 巨大な敵を打ち倒した勝利の壮大な旋律とともに、今日一日を締めくくってみてはいかがでしょうか。⚔️✨"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "정해진 대사는 끝났다! 소니가 바꿀 차세대 게임 🎮 (feat. 웅장함 폭발 드래곤즈 도그마 OST 🎧)",
+    "en": "No More Scripted Lines? Sony’s Mind-Blowing AI Patent 🎮 (feat. Epic Dragon's Dogma OST 🎧)",
+    "ja": "台本通りのNPCはもう終わり？ソニーの神AI特許 🎮（feat. 魂震える『ドグマ』名曲OST 🎧）"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": true,
+          "text": "이제 NPC랑 진짜 사람처럼 수다 떠는 시대가 올까요? 🎮\n소니의 역대급 AI 특허와 드래곤즈 도그마 2 확장팩 소식을 빠르게 전해드려요!\n\nhttps://www.gtplayer.net/edition-141/\n#드래곤즈도그마2 #GTPlayer",
+          "error": null
+        }
+      },
+      "updated_at": "2026-10-07T07:01:33.879569"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "10월 7일 오늘의 게임 소식 🎮\n📰 [뉴스] 몬헌 라이즈 2천만 장 돌파 및 엑스박스 차세대기 '프로젝트 헬릭스' 세부 정보 공개\n📅 [출시] 드래곤즈 도그마 2 확장팩, 명일방주 엔드필드 등 이번 주 주목할 신작 라인업\n✍️ [인사이트] 정해진 대사는 끝났다! 플레이어를 기억하는 소니의 AI 특허와 차세대 게임\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #gtplayer #게임추천 #신작게임 #콘솔게임 #스팀게임 #몬스터헌터 #몬헌라이즈 #드래곤즈도그마2 #명일방주엔드필드 #프로스트펑크 #엑스박스 #플레이스테이션 #소니 #닌텐도스위치 #게임덕후 #겜스타그램 #인디게임 #PC게임 #게이머",
+          "image_paths": [
+            "web\\instagram\\edition_141\\card_cover.png",
+            "web\\instagram\\edition_141\\card_news.png",
+            "web\\instagram\\edition_141\\card_calendar.png",
+            "web\\instagram\\edition_141\\card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "4002239284941908537_39332818166",
+            "url": "https://www.instagram.com/p/DeKz2zFE2o5/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-10-07T07:02:09.079354"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "No More Scripted Lines? Sony’s Mind-Blowing AI Patent 🎮 (feat. Epic Dragon's Dogma OST 🎧)\n\nImagine NPCs that actually remember your choices and adapt to your unique playstyle in real time.\nFrom Sony's game-changing AI patent to early reveals of Xbox's next-gen hardware, here is what is shaping the future of gaming this week.\n\nhttps://www.gtplayer.net/edition-141-en/",
+        "error": null
+      },
+      "updated_at": "2026-10-07T07:02:53.774357"
+    }
+  }
+}

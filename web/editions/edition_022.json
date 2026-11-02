@@ -1,0 +1,493 @@
+{
+  "num": "022",
+  "date": "2026-04-06",
+  "status": "published",
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "포켓몬 챔피언스",
+          "dev": "포켓몬 컴퍼니",
+          "date": "4월 6일(월)",
+          "platforms": [
+            "PC",
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "포켓몬 배틀에 특화된 기본 플레이 무료 대전 게임으로, 4월 6일부터 12일 주간 내에 정식 서비스를 시작합니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/954/G095479/20260404003/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "울부짖는 고니",
+          "dev": "제로플라워",
+          "date": "4월 6일(월)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "인기작 '굶주린 새끼양'의 정식 후속작으로, 4월 6일 스팀에 출시된 방대한 분량의 명나라 배경 텍스트 어드벤처입니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1773710",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "레전드 오브 이미르",
+          "dev": "위메이드",
+          "date": "4월 7일(화)",
+          "platforms": [
+            "PC",
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "4월 7일 정식 출시되는 북유럽 신화 기반의 대작 MMORPG로, 언리얼 엔진 5를 활용한 고퀄리티 그래픽과 전투를 선보입니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315070",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "피플 오브 노트",
+          "dev": "NHN",
+          "date": "4월 7일(화)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "음표 인간이라는 독특한 캐릭터 컨셉을 내세운 신작 게임으로, 4월 7일 모바일 플랫폼을 통해 정식 출시됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315070",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "실크로드 어게인",
+          "dev": "조이맥스",
+          "date": "4월 7일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "과거 인기 MMORPG인 '실크로드 온라인'의 IP를 계승하여 현대적으로 재해석한 신작으로, 4월 7일 정식 출시됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=315070",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "이세계는 스마트폰과 함께: 해피 라이프",
+          "dev": "CTW",
+          "date": "4월 7일(화)",
+          "platforms": [
+            "Web"
+          ],
+          "color": "#10b981",
+          "note": "동명의 인기 애니메이션 IP를 기반으로 한 RPG 웹게임으로, 4월 7일 G123 플랫폼을 통해 글로벌 정식 출시됩니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1773695",
+          "source_name": "게임메카"
+        }
+      ],
+      "events": [
+        {
+          "name": "별의 커비 두근두근 크레인 피버 한국 오프라인 이벤트",
+          "note": "4종 포토 스팟, 닌텐도 스위치 체험존, 한국 한정 굿즈 판매 등",
+          "venue": "서울 AK 플라자 홍대 1층",
+          "date": "2026-04-10 ~ 04-23",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=315108"
+        },
+        {
+          "name": "보드게임 페스타 2026",
+          "note": "500여 종의 보드게임 체험, 대회, 강연 및 보드게임 제작 체험",
+          "venue": "서울 강남 세텍(SETEC)",
+          "date": "2026-04-11 ~ 04-12",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=315107"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "붉은사막 1.02 패치, 편의성 대폭 개선",
+          "source": "IGN India",
+          "time": "4월 5일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/crimson-desert/257544/news/crimson-desert-gets-more-storage-space-a-headgear-visibility-option-and-even-a-toggle-for-previous-m"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "라이엇 시니어 디자이너의 카드 게임 철학",
+          "source": "IGN India",
+          "time": "4월 5일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/project-k-the-league-of-legends-trading-card-game/257553/interview/we-sat-down-with-riot-senior-designer-jon-moormann-at-pax-east-and-talked-all-things-riftbound"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "호요버스 신작 '쁘띠 플래닛' 베타 모집",
+          "source": "電撃オンライン",
+          "time": "4월 5일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202604/70994"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "캡콤 '大神' 20주년 기획 예고 및 신작 기대",
+          "source": "Famitsu",
+          "time": "4월 5일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202604/71003"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "붉은사막 출시 2주 만에 매출 3천억 돌파",
+          "source": "게임메카",
+          "time": "4월 5일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1773703"
+        },
+        {
+          "category": "personnel",
+          "tag": "인사이동",
+          "title": "'수일배' 진승호 사단 신작 개발자 모집",
+          "source": "게임메카",
+          "time": "4월 5일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1773704"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "워프레임 제작진 \"AI 생성물 절대 없을 것\"",
+          "source": "PC Gamer",
+          "time": "4월 5일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/games/third-person-shooter/warframe-community-director-says-nothing-in-our-games-will-be-ai-generated-ever/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "블록체인 기반 게임 스토어 폐쇄 및 논란",
+          "source": "PC Gamer",
+          "time": "4월 5일",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/gaming-industry/blockchain-powered-game-storefront-reportedly-shutting-down-and-taking-customers-games-with-it/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": true,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": [],
+      "items": [
+        {
+          "game": "AION2",
+          "period": "최근 30일",
+          "count": "8,102",
+          "sources": "커뮤니티",
+          "score": "2.7",
+          "pos": 5,
+          "neu": 73,
+          "neg": 22,
+          "keywords": [
+            {
+              "text": "Class Mention",
+              "positive": true
+            },
+            {
+              "text": "Dungeon / Raid Discussion",
+              "positive": true
+            },
+            {
+              "text": "DPS Comparison",
+              "positive": true
+            },
+            {
+              "text": "Buff/Nerf Debate",
+              "positive": true
+            },
+            {
+              "text": "Build Meta",
+              "positive": true
+            }
+          ],
+          "comments": [
+            {
+              "text": "전투력 수치 개선이나 계승 시스템 업데이트는 방향이 괜찮은 것 같아요.",
+              "positive": true
+            },
+            {
+              "text": "특정 제작템 밸런스 붕괴랑 과도한 강화 확률 때문에 유저들이 떠나요.",
+              "positive": false
+            },
+            {
+              "text": "종족 간 불균형이나 버그 방치 같은 운영 문제는 빨리 해결해 주세요.",
+              "positive": false
+            }
+          ]
+        }
+      ]
+    },
+    "drk": {
+      "enabled": true,
+      "title": "‘본질의 귀환’: 3,000억 매출이 증명한 AAA급 게임의 생존 공식",
+      "intro": "거대 IP의 복제와 블록체인 실험이 시장을 뒤흔드는 사이, 누군가는 오직 완성도 하나로 정점에 섰습니다. 🚀\n우리는 지금 단순히 게임을 소비하는 것을 넘어, 개발자의 '진심'과 '집념'에 지갑을 열기 시작했습니다. 💡",
+      "points": "'붉은사막'의 출시 2주 만에 거둔 3,000억 원의 매출 돌파와 '워프레임' 제작진의 AI 생성물 거부 선언은 시장의 흐름을 상징적으로 보여줍니다. 이는 자극적인 비즈니스 모델이나 기술적 유행에 편승하기보다, 게임 본연의 재미와 철저한 사후 관리라는 기본기에 집중한 결과가 곧 강력한 흥행으로 이어진다는 사실을 증명합니다. 📈\n\n소비자의 심리는 더 이상 익숙한 IP의 반복에 안주하지 않습니다. 블록체인 스토어의 폐쇄와 대비되는 '붉은사막'의 성공은 게임 소비 구조가 '소유와 투자'에서 '몰입과 경험'으로 확실히 회귀했음을 시사합니다. 고품질 액션과 내러티브에 대한 갈망은 개발사들로 하여금 효율성 중심의 제작 방식에서 벗어나 다시금 장인 정신을 발휘하도록 유도하고 있습니다. 🎮\n\n결국 치열해지는 글로벌 시장에서의 생존 공식은 **'기술적 효율성을 넘어선 인간의 창의성과 진정성'**에 달려 있습니다. AI가 대체할 수 없는 개발자 특유의 문법과 세밀한 연출이야말로 게이머들이 기꺼이 비용을 지불하게 만드는 유일한 차별화 요소이자 지속 가능한 경쟁력입니다. ✨\n\n범람하는 플랫폼과 수많은 신작 사이에서 콘텐츠의 질적 승부는 더욱 가속화될 것입니다. 여러분은 개발자의 철학이 투영된 깊이 있는 작품을 맞이할 준비가 되셨습니까? 🧐"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": true,
+      "items": [],
+      "title": "Great feature incoming",
+      "score": 36149,
+      "url": "https://i.redd.it/d75rdps83etg1.png",
+      "permalink": "https://reddit.com/r/pcmasterrace/comments/1sd6d2o/great_feature_incoming/",
+      "subreddit": "pcmasterrace",
+      "author": "Time-Credit43",
+      "num_comments": 786,
+      "what_happened": "스팀이 친구들에게 보여주고 싶지 않은 게임을 숨길 수 있는 '비공개 설정' 기능을 예고하자 게이머들의 열광적인 반응이 쏟아지고 있습니다. 누구나 하나쯤은 가진 '비밀스러운 게임' 목록을 지켜줄 이 기능의 등장을 모두가 환영하는 분위기입니다.",
+      "one_liner": "이제 친구들 눈치 보지 않고 당당하게(?) 자신만의 취향을 즐길 시간이 왔네요. 우리들의 은밀한 라이브러리는 소중하니까요! 🤫🎮"
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "fanmade": {
+      "enabled": false,
+      "items": []
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Pokémon Champions",
+        "releases.0.note": "A free-to-play battle game specialized in Pokémon battles, launching officially during the week of April 6th to 12th.",
+        "releases.0.dev": "The Pokémon Company",
+        "releases.1.game": "Legend of Ymir",
+        "releases.1.note": "A major MMORPG based on Norse mythology launching officially on April 7th, featuring high-quality graphics and combat powered by Unreal Engine 5.",
+        "releases.1.dev": "Wemade",
+        "releases.2.game": "People of Note",
+        "releases.2.note": "A new game featuring a unique character concept of 'Note People,' officially launching on mobile platforms on April 7th.",
+        "releases.2.dev": "NHN",
+        "releases.3.game": "Silkroad Again",
+        "releases.3.note": "A new title that inherits and modernizes the IP of the popular classic MMORPG 'Silkroad Online,' officially launching on April 7th.",
+        "releases.3.dev": "Joymax",
+        "releases.4.game": "The Howling Swan",
+        "releases.4.note": "The official sequel to the popular 'Hungry Lamb,' this is a massive text adventure set in the Ming Dynasty, released on Steam on April 6th.",
+        "releases.4.dev": "Zeroflower",
+        "releases.5.game": "In Another World With My Smartphone: Happiness Life",
+        "releases.5.note": "An RPG web game based on the popular anime IP of the same name, launching globally on the G123 platform on April 7th.",
+        "releases.5.dev": "CTW",
+        "events.0.name": "Kirby's Doki Doki Crane Fever Offline Event in Korea",
+        "events.0.note": "4 types of photo spots, Nintendo Switch experience zones, sales of Korea-exclusive merchandise, etc.",
+        "events.0.venue": "1st Floor, AK Plaza Hongdae, Seoul",
+        "events.1.name": "Board Game Festa 2026",
+        "events.1.note": "Experience over 500 types of board games, competitions, lectures, and board game making workshops.",
+        "events.1.venue": "SETEC, Gangnam, Seoul"
+      },
+      "briefing": {
+        "items.0.title": "Crimson Desert 1.02 Patch, Significant Improvements to Quality of Life",
+        "items.0.source": "IGN India",
+        "items.0.time": "April 5th",
+        "items.1.title": "Riot Senior Designer's Philosophy on Card Games",
+        "items.1.source": "IGN India",
+        "items.1.time": "April 5th",
+        "items.2.title": "HoYoverse's New Title 'Petit Planet' Beta Recruitment",
+        "items.2.source": "Dengeki Online",
+        "items.2.time": "April 5th",
+        "items.3.title": "Capcom Teases 'Okami' 20th Anniversary Project and New Title Expectations",
+        "items.3.source": "Famitsu",
+        "items.3.time": "April 5th",
+        "items.4.title": "Crimson Desert Surpasses 300 Billion KRW in Revenue within 2 Weeks of Launch",
+        "items.4.source": "GameMeca",
+        "items.4.time": "April 5th",
+        "items.5.title": "'Suilbae' Jin Seung-ho's Team Recruiting Developers for New Title",
+        "items.5.source": "GameMeca",
+        "items.5.time": "April 5th",
+        "items.6.title": "Warframe Developers: 'There Will Never Be AI-Generated Content'",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "April 5th",
+        "items.7.title": "Closure of Blockchain-Based Game Store and Subsequent Controversy",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "April 5th"
+      },
+      "feedback": {
+        "items.0.game": "AION 2",
+        "items.0.period": "Last 30 Days",
+        "items.0.keywords.0.text": "Class Mention",
+        "items.0.keywords.1.text": "Dungeon / Raid Discussion",
+        "items.0.keywords.2.text": "DPS Comparison",
+        "items.0.keywords.3.text": "Buff/Nerf Debate",
+        "items.0.keywords.4.text": "Build Meta",
+        "items.0.comments.0.text": "The direction of the combat power stat improvements and inheritance system updates seems good.",
+        "items.0.comments.1.text": "Users are leaving due to the broken balance of certain crafted items and excessive enhancement probabilities.",
+        "items.0.comments.2.text": "Please quickly resolve operational issues such as racial imbalance and neglected bugs."
+      },
+      "drk": {
+        "title": "'Return to Essence': The AAA Game Survival Formula Proven by 300 Billion KRW in Revenue",
+        "intro": "While clones of giant IPs and blockchain experiments shake the market, someone has reached the top solely through quality. 🚀 We are now moving beyond simply consuming games and starting to open our wallets for the 'sincerity' and 'tenacity' of developers. 💡",
+        "points": "The breakthrough of 300 billion KRW in revenue for 'Crimson Desert' within two weeks of launch and the 'Warframe' development team's declaration to reject AI-generated content symbolically show the market trend. This proves that focusing on the basics—inherent game fun and thorough post-launch management—leads to powerful success, rather than jumping on provocative business models or technical fads. 📈\n\nConsumer sentiment no longer settles for repetitions of familiar IPs. The success of 'Crimson Desert,' contrasted with the closure of blockchain stores, suggests that the game consumption structure has clearly returned from 'ownership and investment' to 'immersion and experience.' The thirst for high-quality action and narrative is leading developers away from efficiency-centered production back to exercising craftsmanship. 🎮\n\nUltimately, the formula for survival in the increasingly competitive global market lies in **'human creativity and authenticity that transcends technical efficiency.'** A developer's unique syntax and detailed direction, which AI cannot replace, are the only differentiators and sustainable competitive advantages that make gamers willing to pay. ✨\n\nThe qualitative battle for content will accelerate further amidst the flood of platforms and numerous new titles. Are you ready to encounter deep works that reflect the developer's philosophy? 🧐"
+      },
+      "meme": {
+        "what_happened": "As Steam announced a 'Private' setting feature that allows users to hide games they don't want to show their friends, gamers are reacting enthusiastically. Everyone seems to welcome the appearance of this feature that will protect the 'secret game' lists that everyone has at least one of.",
+        "one_liner": "Now it's time to proudly (?) enjoy your own tastes without worrying about your friends' eyes. Our secret libraries are precious! 🤫🎮"
+      },
+      "newsletter_feedback": {
+        "question": "",
+        "upLabel": "",
+        "downLabel": ""
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ポケモン チャンピオンズ",
+        "releases.0.note": "ポケモンバトルに特化した基本プレイ無料の対戦ゲームで、4月6日から12日の週内に正式サービスを開始します。",
+        "releases.0.dev": "株式会社ポケモン",
+        "releases.1.game": "レジェンド・オブ・ユミル",
+        "releases.1.note": "4月7日に正式リリースされる北欧神話をベースにした大作MMORPGで、Unreal Engine 5を活用した高品質なグラフィックと戦闘を披露します。",
+        "releases.1.dev": "Wemade",
+        "releases.2.game": "ピープル・オブ・ノート",
+        "releases.2.note": "音符人間という独特なキャラクターコンセプトを掲げた新作ゲームで、4月7日にモバイルプラットフォームを通じて正式リリースされます。",
+        "releases.2.dev": "NHN",
+        "releases.3.game": "シルクロード・アゲイン",
+        "releases.3.note": "かつての人気MMORPG「シルクロードオンライン」のIPを継承し、現代的に再解釈した新作で、4月7日に正式リリースされます。",
+        "releases.3.dev": "ジョイマックス",
+        "releases.4.game": "哭きの白鳥",
+        "releases.4.note": "人気作『餓えた仔羊』の正式な続編で、4月6日にSteamでリリースされた、明朝を背景とした膨大なボリュームのテキストアドベンチャーです。",
+        "releases.4.dev": "零花 (ZeroFlower)",
+        "releases.5.game": "異世界はスマートフォンとともに。ハッピーライフ",
+        "releases.5.note": "同名の人気アニメIPをベースにしたRPGウェブゲームで、4月7日にG123プラットフォームを通じてグローバル正式リリースされます。",
+        "releases.5.dev": "CTW",
+        "events.0.name": "星のカービィ ときめき☆クレーンフィーバー 韓国オフラインイベント",
+        "events.0.note": "4種のフォトスポット、Nintendo Switch体験ゾーン、韓国限定グッズ販売など",
+        "events.0.venue": "ソウル AKプラザ弘大 1階",
+        "events.1.name": "ボードゲームフェスタ 2026",
+        "events.1.note": "500余種のボードゲーム体験、大会、講演、およびボードゲーム制作体験",
+        "events.1.venue": "ソウル 江南 SETEC"
+      },
+      "briefing": {
+        "items.0.title": "『紅の砂漠』1.02パッチ、利便性を大幅改善",
+        "items.0.source": "IGN India",
+        "items.0.time": "4月5日",
+        "items.1.title": "ライアット・シニアデザイナーが語るカードゲームの哲学",
+        "items.1.source": "IGN India",
+        "items.1.time": "4月5日",
+        "items.2.title": "HoYoverse新作『プチ・プラネット』ベータ募集",
+        "items.2.source": "電撃オンライン",
+        "items.2.time": "4月5日",
+        "items.3.title": "カプコン『大神』20周年企画の予告および新作への期待",
+        "items.3.source": "ファミ通",
+        "items.3.time": "4月5日",
+        "items.4.title": "『紅の砂漠』発売2週間で売上3000億ウォン突破",
+        "items.4.source": "GameMeca",
+        "items.4.time": "4月5日",
+        "items.5.title": "「スイルベ」チン・スンホ師団の新作開発者募集",
+        "items.5.source": "GameMeca",
+        "items.5.time": "4月5日",
+        "items.6.title": "『Warframe』開発陣「AI生成物は一切使用しない」",
+        "items.6.source": "PC Gamer",
+        "items.6.time": "4月5日",
+        "items.7.title": "ブロックチェーンベースのゲームストア閉鎖および論争",
+        "items.7.source": "PC Gamer",
+        "items.7.time": "4月5日"
+      },
+      "feedback": {
+        "items.0.game": "AION2",
+        "items.0.period": "直近30日間",
+        "items.0.keywords.0.text": "クラスの言及",
+        "items.0.keywords.1.text": "ダンジョン・レイドの議論",
+        "items.0.keywords.2.text": "DPS比較",
+        "items.0.keywords.3.text": "バフ・ナーフ論争",
+        "items.0.keywords.4.text": "ビルドメタ",
+        "items.0.comments.0.text": "戦闘力数値の改善や継承システムのアップデートは、方向性が良いと思います。",
+        "items.0.comments.1.text": "特定の製作アイテムのバランス崩壊や、過度な強化確率のせいでユーザーが離れています。",
+        "items.0.comments.2.text": "種族間の不均衡やバグの放置といった運営上の問題は、早く解決してください。"
+      },
+      "drk": {
+        "title": "「本質の帰還」：3000億ウォンの売上が証明したAAA級ゲームの生存方程式",
+        "intro": "巨大IPの複製とブロックチェーンの実験が市場を揺るがす中、ある者は完成度一つで頂点に立ちました。 🚀 私たちは今、単にゲームを消費するだけでなく、開発者の「本気」と「執念」に対して財布を開き始めています。 💡",
+        "points": "『紅の砂漠』の発売2週間での3000億ウォン売上突破と、『Warframe』制作陣のAI生成物拒否宣言は、市場の流れを象徴的に示しています。これは刺激的なビジネスモデルや技術的な流行に乗るよりも、ゲーム本来の楽しさと徹底したアフターケアという基本に忠実だった結果が、強力なヒットに繋がるという事実を証明しています。📈\n\n消費者の心理はもはや、見慣れたIPの繰り返しに安住することはありません。ブロックチェーンストアの閉鎖と対照的な『紅の砂漠』の成功は、ゲームの消費構造が「所有と投資」から「没入と体験」へと確実に回帰したことを示唆しています。高品質なアクションとナラティブへの渇望は、開発会社に対し、効率中心の制作方式から脱却し、再び職人精神を発揮するよう促しています。🎮\n\n結局、激化するグローバル市場での生存方程式は、**「技術的な効率を超えた人間の創造性と誠実さ」**にかかっています。AIが代替できない開発者特有の文法と緻密な演出こそが、ゲーマーが喜んで対価を支払う唯一の差別化要因であり、持続可能な競争力なのです。✨\n\n氾濫するプラットフォームと数多くの新作の中で、コンテンツの質的な勝負はさらに加速するでしょう。皆さんは、開発者の哲学が反映された深みのある作品を迎える準備はできていますか？ 🧐"
+      },
+      "meme": {
+        "what_happened": "Steamがフレンドに見せたくないゲームを隠すことができる「非公開設定」機能を予告したところ、ゲーマーから熱狂的な反応が寄せられています。誰もが一つは持っているであろう「秘密のゲーム」リストを守ってくれるこの機能の登場を、誰もが歓迎している雰囲気です。",
+        "one_liner": "これでフレンドの目を気にせず、堂々と（？）自分の好みを追求できる時が来ましたね。私たちの隠密なライブラリは大切ですから！ 🤫🎮"
+      },
+      "newsletter_feedback": {
+        "question": "",
+        "upLabel": "",
+        "downLabel": ""
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "3,000억 매출이 증명한 ‘본질’의 승리! 📈 (feat. 오늘의 밈 🤣)",
+    "en": "The $220M Secret: Why AAA Games are Winning Again 📈 (plus Today's Viral Meme 🤣)",
+    "ja": "300億円が証明した「本質」の力。AAAゲームの逆襲 📈 (今日のネタ画像あり 🤣)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ]
+}
