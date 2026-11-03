@@ -228,8 +228,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script>
   if (!localStorage.getItem('langSelectBoxSelected')) {{
     const currentPath = window.location.pathname;
+    const basePath = currentPath.indexOf('/gtplayer') === 0 ? '/gtplayer' : '';
     const isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(navigator.userAgent);
-    if (!isBot && currentPath === '/') {{
+    if (!isBot && (currentPath === '/' || currentPath === '/gtplayer/' || currentPath === '/gtplayer')) {{
       fetch('https://ipapi.co/json/')
         .then(response => response.json())
         .then(data => {{
@@ -237,9 +238,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           if (country === 'KR') {{
             // Korean default
           }} else if (country === 'JP') {{
-            window.location.replace('/ja/');
+            window.location.replace(basePath + '/ja/');
           }} else {{
-            window.location.replace('/en/');
+            window.location.replace(basePath + '/en/');
           }}
         }})
         .catch(error => console.error("Error fetching location data", error));
@@ -320,6 +321,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>
 (function () {{
   var currentLangCode = '{lang}';
+  var BASE_PATH = window.location.pathname.indexOf('/gtplayer') === 0 ? '/gtplayer' : '';
   var SEARCH_LOG_URL = 'https://script.google.com/macros/s/AKfycbztDYnHRRoHNpUt07_SOl-COmJ-7A1MAvVMTAD51dL4nvjAF9BEDxgM-SMUxQ5h18mBaQ/exec';
   var SUBSCRIBE_URL = 'https://gtplayer-click.gtplayernet.workers.dev';
   var loggedQueries = {{}};
@@ -412,7 +414,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   }});
 
   function loadAllPosts() {{
-    fetch('/api/search.json')
+    fetch(BASE_PATH + '/api/search.json')
       .then(function (r) {{ return r.json(); }})
       .then(function (data) {{
         allPosts = (data.posts || []).filter(function (p) {{
@@ -465,7 +467,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     var htmlStr = '';
     posts.slice(0, 30).forEach(function (p) {{
       var excerpt = (p.excerpt || '').substring(0, 110) + '...';
-      htmlStr += '<a class="search-result-item" href="' + p.url + '">' +
+      var postUrl = (p.url && p.url.charAt(0) === '/') ? (BASE_PATH + p.url) : p.url;
+      htmlStr += '<a class="search-result-item" href="' + postUrl + '">' +
         '<div class="search-result-title">🔎 ' + highlightMatch(p.title || '', query) + '</div>' +
         '<div class="search-result-excerpt">' + highlightMatch(excerpt, query) + '</div></a>';
     }});
@@ -834,8 +837,20 @@ def has_lang(edition_meta: dict, lang: str) -> bool:
 
 
 def write_html(rel_path: str, content: str):
-    out_file = DIST_DIR / rel_path.lstrip("/")
+    clean_rel = rel_path.lstrip("/")
+    out_file = DIST_DIR / clean_rel
     out_file.parent.mkdir(parents=True, exist_ok=True)
+
+    # 루트 절대경로(/assets/..., /edition-..., / 등)를 현재 파일 깊이에 맞는 상대경로로 자동 변환
+    # → https://directresearchkorea.github.io/gtplayer/ 와 https://www.gtplayer.net/ 양쪽에서 100% 동일 작동
+    parent_parts = Path(clean_rel).parent.parts
+    rel_prefix = "." if not parent_parts else "/".join([".."] * len(parent_parts))
+    content = re.sub(
+        r'\b(href|src)="/(?!/)([^"]*)"',
+        lambda m: f'{m.group(1)}="{rel_prefix}/{m.group(2)}"',
+        content,
+    )
+
     with open(out_file, "w", encoding="utf-8") as f:
         f.write(content)
 
