@@ -45,3 +45,5 @@ newsletter_manager/execution/subscribers.json
 sns_manager/execution/instagram_followed.json
 gtplayer_data_export.zip
 *.db
+GTcrawling/
+
