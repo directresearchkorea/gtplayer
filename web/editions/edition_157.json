@@ -394,5 +394,47 @@
     "ko",
     "en",
     "ja"
-  ]
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": false,
+          "text": "크로노 오디세이 신규 4K 영상 보셨나요? 🎮\n액션이랑 그래픽이 진짜 역대급이라 심장 뛰네요! ⚔️\n\nhttps://www.gtplayer.net/edition-157/\n#크로노오디세이 #GTPlayer",
+          "error": "Posting failed or blocked"
+        }
+      },
+      "updated_at": "2026-11-05T07:07:41.043299"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "11월 5일 오늘의 게임 소식 🎮\n📰 [뉴스] 크로노 오디세이 4K 신규 영상 공개 & 배그 X 아이브 특급 콜라보!\n📅 [출시] 나 혼자만 레벨업, 보이드/브레이커 등 이번 주 신작 총정리\n✍️ [인사이트] 매일 쏟아지는 신작 속 공급 과잉의 덫, 밸브의 경고가 시사하는 미래\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임정보 #신작게임 #게임추천 #게임소식 #크로노오디세이 #오딘Q #갓오브워 #배틀그라운드 #아이브 #스팀 #스팀게임 #나혼자만레벨업 #콘솔게임 #PC게임 #인디게임 #게임스타그램 #겜스타그램 #게임덕후 #gtplayer",
+          "image_paths": [
+            "web/instagram/edition_157/card_cover.png",
+            "web/instagram/edition_157/card_news.png",
+            "web/instagram/edition_157/card_calendar.png",
+            "web/instagram/edition_157/card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "4023260832980947267_39332818166",
+            "url": "https://www.instagram.com/p/DfVfmlUklFD/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-11-05T07:08:13.163363"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Valve Sounds the Alarm on Game Oversaturation 📉 (Plus: Chrono Odyssey’s Jaw-Dropping 4K Reveal ⚔️)\n\nValve is raising red flags as an unprecedented flood of new releases tests the limits of digital storefronts.\nFrom Chrono Odyssey's stunning 4K combat showcase to major release shifts across the industry, here are the biggest stories shaping gaming this week.\n\nhttps://www.gtplayer.net/edition-157-en/",
+        "error": null
+      },
+      "updated_at": "2026-11-05T07:08:53.881086"
+    }
+  }
 }
