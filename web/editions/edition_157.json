@@ -1,0 +1,398 @@
+{
+  "num": "157",
+  "date": "2026-11-05",
+  "status": "published",
+  "schedule": {
+    "date": "2026-11-05",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "나 혼자만 레벨업: 어라이즈 오버드라이브",
+          "dev": "넷마블",
+          "date": "11월 5일(목)",
+          "platforms": [
+            "PS5",
+            "XSX/S"
+          ],
+          "color": "#10b981",
+          "note": "11월 5일 콘솔 버전(PS5, Xbox 시리즈 X/S)으로 정식 출시되는 액션 RPG로, 원작 웹툰의 액션을 콘솔 환경에 최적화된 조작감으로 선보입니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1782942",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "보이드/브레이커",
+          "dev": "프로젝트 넥서스",
+          "date": "11월 5일(목)",
+          "platforms": [
+            "PC",
+            "PS5"
+          ],
+          "color": "#10b981",
+          "note": "11월 5일 PC와 콘솔 플랫폼에 1.0 정식 버전으로 출시된 1인칭 슈팅 액션 게임으로, 신규 콘텐츠와 함께 완성된 전투 캠페인을 제공합니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/voidbreaker/276155/voidbreaker-official-10-launch-trailer",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "release",
+          "game": "페이데이: 에이시스 하이",
+          "dev": "스타브리즈 스튜디오",
+          "date": "11월 5일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "11월 5일 스팀에 정식 출시된 페이데이 프랜차이즈 신작으로, 치밀한 계획과 협동을 통해 위험천만한 하이스트 미션을 수행합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3456660/PAYDAY_Aces_High/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "던전 먼치스 2",
+          "dev": "마지파이 게임즈",
+          "date": "11월 5일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "11월 5일 스팀에 출시된 횡스크롤 액션 RPG 후속작으로, 몬스터를 사냥하고 요리해 새로운 능력을 얻으며 거대한 미궁을 탐험합니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/1460810/Dungeon_Munchies_2/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "다이캐스트",
+          "dev": "토이박스 게임즈",
+          "date": "11월 5일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "11월 5일 스팀에 출시된 레이싱 슈팅 액션 게임으로, 미니카를 조작해 장애물을 피하고 화력을 겨루는 난투 레이스를 즐길 수 있습니다.",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/276165/diecast-official-launch-trailer",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "update",
+          "game": "에이지 오브 원더스 4: 더 실버 씨즈",
+          "dev": "트라이엄프 스튜디오",
+          "date": "11월 5일(목)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "XSX/S"
+          ],
+          "color": "#3b82f6",
+          "note": "11월 5일 출시된 전략 시뮬레이션 확장팩 DLC로, 미지의 해양 환경과 신규 해상 전투 시스템 및 전용 주문이 새롭게 추가됩니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1782941",
+          "source_name": "게임메카"
+        }
+      ],
+      "events": [
+        {
+          "name": "승리의 여신: 니케 오프라인 이벤트 '약속의 땅으로, 전원 집결! IN 아키하바라'",
+          "note": "일본 아키하바라에서 진행되는 니케 공식 오프라인 이벤트",
+          "venue": "일본 도쿄 아키하바라",
+          "date": "2026-11-07 ~ 2026-11-08",
+          "tag": "오프라인 행사",
+          "website": "https://www.4gamer.net/games/456/G045622/20261104058/"
+        },
+        {
+          "name": "2026 대한민국 e스포츠 리그(KEL) 이터널 리턴 종목 최종 결선",
+          "note": "2026년 이터널 리턴 종목 최강자를 가리는 KEL 최종 결선 매치",
+          "venue": "온라인 / 한국e스포츠협회 공인 경기장",
+          "date": "2026-11-07 ~ 2026-11-08",
+          "tag": "e스포츠",
+          "website": "https://www.gamemeca.com/view.php?gid=1782951"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "카카오게임즈, 대작 '크로노 오디세이' 신규 영상 공개",
+          "source": "게임메카",
+          "time": "11월 4일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1782946"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "카카오게임즈, 하드코어 신작 '오딘Q' 내년 1월 출격",
+          "source": "게임메카",
+          "time": "11월 4일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1782914"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "소니 신작 '갓 오브 워 로페이', 2027년 5월로 연기",
+          "source": "IGN India",
+          "time": "11월 4일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/god-of-war-laufey/276144/god-of-war-laufey-delayed-to-may-2027"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "배틀그라운드, 글로벌 걸그룹 '아이브' 콜라보 발표",
+          "source": "IGN India",
+          "time": "11월 4일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/pubg-battlegrounds/276169/pubg-battlegrounds-gets-k-pop-girl-group-collab"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "후류, 다크 로그라이크 신작 '크라임라이트' 정식 출시",
+          "source": "4Gamer",
+          "time": "11월 5일",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/002/G100206/20261104055/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "홀로라이브 최초 공식 마작 게임, 11월 25일 출시 확정",
+          "source": "電撃オンライン",
+          "time": "11월 5일",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202611/93072"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "밸브, 스팀 출시 신청 급증으로 입점 심사 지연 경고",
+          "source": "IGN",
+          "time": "11월 4일",
+          "country": "GLOBAL",
+          "article_url": "https://www.ign.com/articles/ai-slop-fuelled-steam-backlog-preventing-games-from-hitting-launch-targets"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "공급 과잉의 덫, 밸브의 경고가 시사하는 플랫폼의 미래",
+      "intro": "매일 수십 개의 신작이 쏟아지는 스팀, 과연 여러분의 위시리스트는 안전합니까? 🚨\n밸브의 이례적인 심사 지연 경고는 단순한 행정 문제를 넘어 게임 생태계의 중대한 변곡점을 가리킵니다.",
+      "points": "밸브가 스팀 출시 신청의 기록적인 폭증으로 인해 입점 심사 지연을 공식 경고했습니다. 📈 오늘 하루만 해도 액션, 전략, 슈팅 등 다양한 장르의 신작들이 앞다투어 시장에 쏟아졌지만, 정작 플랫폼의 물리적 수용력은 이미 한계치에 다다랐음을 보여줍니다.\n\n이러한 플랫폼 구조의 병목 현상은 게임 소비 구조 전반에 즉각적인 영향을 미칩니다. 쏟아지는 타이틀 속에서 중소형 게임의 '발견 가능성(Discoverability)'은 급격히 추락하고 있으며, 소비자들은 정보 과잉으로 인한 피로감 때문에 검증된 대형 IP나 상위권 차트 게임으로만 숨어드는 안전 소비 성향을 강화하고 있습니다. 🧭\n\n결국 **게임 산업의 본질적 경쟁은 이제 '제작의 완성도'를 넘어 '유저의 한정된 시선과 시간을 어떻게 선점하느냐'는 노출 전쟁으로 재편**되었습니다. 아무리 뛰어난 아이디어를 품은 수작이라도 플랫폼의 알고리즘에 가닿지 못하면 태어나자마자 잊히는 혹독한 환경이 일상화된 것입니다. 🔍\n\n거대 플랫폼의 스크린 뒤로 밀려나는 무수한 게임들 속에서, 개발사와 게이머는 앞으로 어떤 방식으로 의미 있는 만남을 이어갈 수 있을지 깊은 고민이 필요한 시점입니다. 🎮"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": true,
+      "title": "카카오게임즈 신작 MMORPG &#39;크로노 오디세이&#39; - 공식 게임플레이 영상 (4K)",
+      "channel": "인벤",
+      "videoId": "vrjq4pC0alM",
+      "url": "https://www.youtube.com/watch?v=vrjq4pC0alM",
+      "thumbnail": "https://i.ytimg.com/vi/vrjq4pC0alM/hqdefault.jpg",
+      "comment": "카카오게임즈가 선보이는 차세대 오픈월드 액션 MMORPG, '크로노 오디세이'의 공식 게임플레이 영상이 베일을 벗었습니다. 이번 4K 영상에서는 시간을 조작하며 펼치는 역동적인 전투 시스템과 압도적인 스케일의 보스전 연출을 생생하게 담아냈습니다. 전 세계 게이머들의 시선을 사로잡은 놀라운 모험의 순간을 지금 트레일러를 통해 직접 확인해 보세요! ⚔️✨",
+      "search_query": "Chrono Odyssey Official Trailer",
+      "ai_game_name": "크로노 오디세이",
+      "ai_reason": "언리얼 엔진 5 기반의 압도적인 그래픽 비주얼과 시공간을 조작하는 독창적인 액션으로 전 세계 게이머들의 기대를 한몸에 받고 있는 차세대 오픈월드 RPG의 신규 영상입니다."
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Solo Leveling: ARISE Overdrive",
+        "releases.0.note": "An action RPG officially launching on consoles (PS5, Xbox Series X/S) on November 5, delivering the original webtoon's action with control mechanics optimized for console environments.",
+        "releases.0.dev": "Netmarble",
+        "releases.1.game": "VOID/BREAKER",
+        "releases.1.note": "A first-person shooter action game released in its 1.0 official version on PC and console platforms on November 5, featuring a complete combat campaign alongside brand-new content.",
+        "releases.1.dev": "Project Nexus",
+        "releases.2.game": "PAYDAY: Aces High",
+        "releases.2.note": "A new installment in the PAYDAY franchise officially released on Steam on November 5, where players execute high-stakes heist missions through meticulous planning and teamwork.",
+        "releases.2.dev": "Starbreeze Studios",
+        "releases.3.game": "Dungeon Munchies 2",
+        "releases.3.note": "A side-scrolling action RPG sequel released on Steam on November 5, where players hunt and cook monsters to gain new abilities and explore a massive labyrinth.",
+        "releases.3.dev": "maJAJa",
+        "releases.4.game": "Diecast",
+        "releases.4.note": "A vehicular combat racing game released on Steam on November 5, where players control mini cars to dodge obstacles and compete in chaotic firefight races.",
+        "releases.4.dev": "Toybox Games",
+        "releases.5.game": "Age of Wonders 4: The Silver Seas",
+        "releases.5.note": "A strategy simulation expansion DLC released on November 5, introducing uncharted oceanic environments, a new naval combat system, and dedicated spells.",
+        "releases.5.dev": "Triumph Studios",
+        "events.0.name": "Goddess of Victory: Nikke Offline Event 'To the Promised Land, Assemble! IN Akihabara'",
+        "events.0.note": "Official Goddess of Victory: Nikke offline event held in Akihabara, Japan",
+        "events.0.venue": "Akihabara, Tokyo, Japan",
+        "events.1.name": "2026 Korea Esports League (KEL) Eternal Return Grand Finals",
+        "events.1.note": "The KEL Grand Finals match to determine the top 2026 Eternal Return champion",
+        "events.1.venue": "Online / KeSPA-Certified Arena"
+      },
+      "briefing": {
+        "items.0.title": "Kakao Games Unveils New Gameplay Video for Blockbuster 'Chrono Odyssey'",
+        "items.0.source": "GameMeca",
+        "items.0.time": "November 4",
+        "items.1.title": "Kakao Games to Launch Hardcore New Title 'Odin Q' Next January",
+        "items.1.source": "GameMeca",
+        "items.1.time": "November 4",
+        "items.2.title": "Sony's New Title 'God of War Laufey' Delayed to May 2027",
+        "items.2.source": "IGN India",
+        "items.2.time": "November 4",
+        "items.3.title": "PUBG Announces Collaboration with Global Girl Group 'IVE'",
+        "items.3.source": "IGN India",
+        "items.3.time": "November 4",
+        "items.4.title": "FuRyu Officially Launches New Dark Roguelike 'Crimelight'",
+        "items.4.source": "4Gamer",
+        "items.4.time": "November 5",
+        "items.5.title": "hololive's First Official Mahjong Game Confirmed for Release on November 25",
+        "items.5.source": "Dengeki Online",
+        "items.5.time": "November 5",
+        "items.6.title": "Valve Warns of Steam Store Review Delays Due to Surge in Release Submissions",
+        "items.6.source": "IGN",
+        "items.6.time": "November 4"
+      },
+      "drk": {
+        "title": "The Trap of Oversupply: What Valve's Warning Portends for the Future of Platforms",
+        "intro": "With dozens of new titles flooding Steam every day, is your wishlist truly safe? 🚨\nValve's unprecedented warning about review delays is more than just an administrative hurdle—it marks a critical turning point for the gaming ecosystem.",
+        "points": "Valve has officially issued a warning regarding onboarding review delays caused by a record-breaking surge in Steam release submissions. 📈 Today alone, a diverse array of new titles spanning action, strategy, and shooting raced into the market, but this underscores that the platform's physical capacity has already reached its limits.\n\nThis platform bottleneck directly impacts overall game consumption patterns. Amid the avalanche of releases, the 'discoverability' of small and mid-sized indie titles is plummeting dramatically. Weary from information overload, consumers are increasingly adopting cautious spending habits, retreating into proven, heavyweight IPs or top-chart fixtures. 🧭\n\nUltimately, **the core competition of the gaming industry has shifted beyond 'production quality' into an exposure war over 'how to capture users' limited time and attention.'** Even a masterpiece brimming with brilliant ideas faces a harsh reality where it risks immediate obscurity upon release if it fails to breach the platform's algorithms. 🔍\n\nAs countless titles get pushed behind the massive platform storefront, developers and gamers alike must now deeply consider how to sustain meaningful connections in the future. 🎮"
+      },
+      "trailer": {
+        "title": "Kakao Games' New MMORPG 'Chrono Odyssey' - Official Gameplay Video (4K)",
+        "comment": "The official gameplay video for 'Chrono Odyssey,' Kakao Games' upcoming next-generation open-world action MMORPG, has been unveiled. Captured in 4K, this footage showcases dynamic time-manipulating combat systems and epic, large-scale boss encounters. Check out the trailer now to experience the breathtaking moments that have captured the attention of gamers worldwide! ⚔️✨"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "俺だけレベルアップな件：ARISE オーバードライブ",
+        "releases.0.note": "11月5日にコンソール版（PS5、Xbox Series X/S）として正式リリースされるアクションRPG。原作ウェブトゥーンのアクションをコンソール環境に最適化された操作感でお届けします。",
+        "releases.0.dev": "ネットマーブル",
+        "releases.1.game": "ヴォイド/ブレイカー",
+        "releases.1.note": "11月5日にPCおよびコンソールプラットフォームで1.0正式版としてリリースされたファーストパーソン・シューティングアクションゲーム。新規コンテンツとともに完成されたバトルキャンペーンを提供します。",
+        "releases.1.dev": "プロジェクト・ネクサス",
+        "releases.2.game": "PAYDAY: エイシズ・ハイ",
+        "releases.2.note": "11月5日にSteamで正式リリースされた『PAYDAY』シリーズの新作。綿密な計画と協力プレイを通じて、危険極まりない強盗（ハイスト）ミッションを遂行します。",
+        "releases.2.dev": "スターブリーズ・スタジオ",
+        "releases.3.game": "ダンジョン・マンチーズ 2",
+        "releases.3.note": "11月5日にSteamでリリースされた横スクロールアクションRPGの続編。モンスターを狩って調理し、新たな能力を獲得しながら巨大な迷宮を探索します。",
+        "releases.3.dev": "マジーファイ・ゲームズ",
+        "releases.4.game": "ダイキャスト",
+        "releases.4.note": "11月5日にSteamでリリースされたレーシングシューティングアクションゲーム。ミニカーを操作して障害物を回避し、火力を競い合う乱闘レースを楽しめます。",
+        "releases.4.dev": "トイボックス・ゲームズ",
+        "releases.5.game": "エイジ オブ ワンダー 4: ザ・シルバー・シーズ",
+        "releases.5.note": "11月5日にリリースされた戦略シミュレーション拡張パックDLC。未知の海洋環境や新たな海上戦闘システム、専用の呪文が追加されます。",
+        "releases.5.dev": "トライアンフ・スタジオ",
+        "events.0.name": "勝利の女神：NIKKE オフラインイベント「約束の地へ、全員集結！ IN 秋葉原」",
+        "events.0.note": "日本の秋葉原で開催される『NIKKE』公式オフラインイベント",
+        "events.0.venue": "日本・東京 秋葉原",
+        "events.1.name": "2026 大韓民国eスポーツリーグ（KEL）エターナルリターン部門 最終決勝",
+        "events.1.note": "2026年の『エターナルリターン』最強者を決定するKEL最終決勝マッチ",
+        "events.1.venue": "オンライン / 韓国eスポーツ協会公認競技場"
+      },
+      "briefing": {
+        "items.0.title": "カカオゲームズ、大作『クロノオデッセイ』の新規映像を公開",
+        "items.0.source": "ゲームメッカ",
+        "items.0.time": "11月4日",
+        "items.1.title": "カカオゲームズ、ハードコア新作『オーディンQ』来年1月にリリースへ",
+        "items.1.source": "ゲームメッカ",
+        "items.1.time": "11月4日",
+        "items.2.title": "ソニー新作『ゴッド・オブ・ウォー ロウフェイ』、2027年5月に延期",
+        "items.2.source": "IGN India",
+        "items.2.time": "11月4日",
+        "items.3.title": "『PUBG』、グローバルガールズグループ「IVE」とのコラボを発表",
+        "items.3.source": "IGN India",
+        "items.3.time": "11月4日",
+        "items.4.title": "フリュー、ダークローグライク新作『クライムライト』を正式リリース",
+        "items.4.source": "4Gamer",
+        "items.4.time": "11月5日",
+        "items.5.title": "ホロライブ初の公式麻雀ゲーム、11月25日のリリースが決定",
+        "items.5.source": "電撃オンライン",
+        "items.5.time": "11月5日",
+        "items.6.title": "Valve、Steam配信申請の急増に伴う審査遅延を警告",
+        "items.6.source": "IGN",
+        "items.6.time": "11月4日"
+      },
+      "drk": {
+        "title": "供給過剰の罠、Valveの警告が示唆するプラットフォームの未来",
+        "intro": "毎日数十本もの新作が押し寄せるSteam。果たしてあなたのウィッシュリストは安全でしょうか？🚨\nValveによる異例の審査遅延の警告は、単なる事務手続きの問題を超え、ゲームエコシステムの重大な転換点を示しています。",
+        "points": "ValveがSteamへの配信申請の記録的な急増を受け、審査の遅延を公式に警告しました。📈 本日だけでもアクション、ストラテジー、シューティングなど多様なジャンルの新作が競うように市場へと投入されましたが、プラットフォーム側の物理的な受け入れ許容量はすでに限界に達していることを示しています。\n\nこのようなプラットフォーム構造のボトルネックは、ゲーム消費構造の全体に即座に影響を及ぼします。溢れかえるタイトルの波の中で中・小規模タイトルの「ディスカバラビリティ（発見されやすさ）」は急落しており、消費者は情報過多による疲労から、実績のある大型IPやランキング上位のゲームへ引きこもるという安全志向の消費行動を強めています。🧭\n\n結局のところ、**ゲーム産業における本質的な競争は、いまや「制作の完成度」を超え、「ユーザーの限られた視線と時間をいかに先占するか」という露出戦争へと再編**されました。どんなに優れたアイデアを秘めた秀作であっても、プラットフォームのアルゴリズムに届かなければリリース直後に忘れ去られてしまう過酷な環境が日常化しているのです。🔍\n\n巨大プラットフォームの画面の奥へと追いやられる無数のゲームの中で、今後開発会社とゲーマーはどのように意味のある出会いを紡ぎ出すことができるのか、深い思索が求められる局面を迎えています。🎮"
+      },
+      "trailer": {
+        "title": "カカオゲームズ新作MMORPG『クロノオデッセイ』 - 公式ゲームプレイ映像 (4K)",
+        "comment": "カカオゲームズがお届けする次世代オープンワールド・アクションMMORPG『クロノオデッセイ』の公式ゲームプレイ映像がついに公開されました。今回の4K映像では、時間を操りながら繰り広げるダイナミックなバトルシステムと、圧倒的スケールを誇るボス戦の演出を臨場感たっぷりに収めています。世界中のゲーマーの視線を釘付けにした驚きに満ちた冒険の瞬間を、ぜひトレーラーで直接お確かめください！⚔️✨"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "게임이 너무 많다? 밸브의 뼈아픈 경고 📉 (feat. '크로노 오디세이' 역대급 4K 플레이 ⚔️)",
+    "en": "Valve Sounds the Alarm on Game Oversaturation 📉 (Plus: Chrono Odyssey’s Jaw-Dropping 4K Reveal ⚔️)",
+    "ja": "Valveが鳴らす「ゲーム飽和」の警鐘 📉（話題作『クロノオデッセイ』圧巻の4K実機プレイ公開！⚔️）"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ]
+}
