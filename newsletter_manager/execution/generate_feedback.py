@@ -26,8 +26,11 @@ load_dotenv(str(ENV_PATH))
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 TRACKED_GAMES_PATH = SCRIPT_DIR / "tracked_games.json"
-GTANALYSIS_TMP_DIR = Path(os.getenv("GTANALYSIS_TMP_DIR", str(BASE_DIR / "GTcrawling" / "data" / "output")))
-GTCRAWLING_OUT_DIR = Path(os.getenv("GTCRAWLING_OUT_DIR", str(BASE_DIR / "GTcrawling" / "data" / "output")))
+_DEFAULT_DB_DIR = BASE_DIR / "GTcrawling" / "data" / "output"
+_env_analysis_dir = Path(os.getenv("GTANALYSIS_TMP_DIR", str(_DEFAULT_DB_DIR)))
+_env_crawling_dir = Path(os.getenv("GTCRAWLING_OUT_DIR", str(_DEFAULT_DB_DIR)))
+GTANALYSIS_TMP_DIR = _env_analysis_dir if _env_analysis_dir.exists() else _DEFAULT_DB_DIR
+GTCRAWLING_OUT_DIR = _env_crawling_dir if _env_crawling_dir.exists() else _DEFAULT_DB_DIR
 OUTPUT_PATH = BASE_DIR / ".tmp" / "feedback_output.json"
 
 CATEGORY_LABELS = {

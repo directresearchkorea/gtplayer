@@ -35,7 +35,7 @@ FROM_EMAIL = os.getenv('FROM_EMAIL', 'noreply@gtplayer.net')
 FROM_NAME = os.getenv('FROM_NAME', 'GTPlayer 뉴스레터')
 TO_EMAIL = os.getenv('TO_EMAIL', 'admin@gtplayer.net')
 SUBSCRIBERS_PATH = EXEC_DIR / 'subscribers.json'
- SUBSCRIBERS_SYNC_URL = os.getenv('SUBSCRIBERS_SYNC_URL', '')
+SUBSCRIBERS_SYNC_URL = os.getenv('SUBSCRIBERS_SYNC_URL', '')
 
 
 def sync_remote_subscribers():
