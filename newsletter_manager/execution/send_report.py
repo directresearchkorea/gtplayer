@@ -78,6 +78,31 @@ def parse_latest_edition():
         return None
 
 def send_email_report(api_key, to_email, from_email, subject, html_content):
+    gmail_password = os.getenv("GMAIL_APP_PASSWORD", "")
+    gmail_user = os.getenv("GMAIL_USER", "") or from_email
+    if gmail_password:
+        import smtplib
+        from email.mime.text import MIMEText
+        from email.mime.multipart import MIMEMultipart
+        from email.utils import formataddr
+        from email.header import Header
+        try:
+            msg = MIMEMultipart('alternative')
+            msg['From'] = formataddr((str(Header("GTPlayer Admin", 'utf-8')), gmail_user))
+            msg['To'] = to_email
+            msg['Subject'] = Header(subject, 'utf-8')
+            msg.attach(MIMEText(html_content, 'html', 'utf-8'))
+            with smtplib.SMTP_SSL('smtp.gmail.com', 465, timeout=20) as server:
+                server.login(gmail_user, gmail_password)
+                server.sendmail(gmail_user, [to_email], msg.as_string())
+            print("보고서 이메일 전송 성공 (Gmail SMTP)!")
+            return True
+        except Exception as e:
+            print(f"Gmail 보고서 전송 실패: {e}")
+
+    if not api_key:
+        return False
+
     url = "https://api.sendgrid.com/v3/mail/send"
     payload = {
         "personalizations": [{"to": [{"email": to_email}]}],
@@ -103,10 +128,6 @@ def main():
     sendgrid_key = os.getenv("SENDGRID_API_KEY", "")
     admin_email = os.getenv("REPORT_ADMIN_EMAIL", os.getenv("TO_EMAIL", "admin@gtplayer.net"))
     sender_email = os.getenv("SENDGRID_SENDER_EMAIL", os.getenv("FROM_EMAIL", "noreply@gtplayer.net"))
-
-    if not sendgrid_key:
-        print("SENDGRID_API_KEY가 설정되지 않았습니다.")
-        sys.exit(1)
 
     print("📊 발송 현황 보고서 수집 중...")
     

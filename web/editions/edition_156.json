@@ -1,0 +1,440 @@
+{
+  "num": "156",
+  "date": "2026-11-04",
+  "status": "published",
+  "schedule": {
+    "date": "2026-11-04",
+    "time": "21:29",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "나 혼자만 레벨업:어라이즈 오버드라이브",
+          "dev": "넷마블",
+          "date": "11월 4일(수)",
+          "platforms": [
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#10b981",
+          "note": "11월 4일 플레이스테이션5와 엑스박스 시리즈 X|S 콘솔 버전으로 정식 출시되는 액션 RPG로, 원작 세계관 기반의 화려한 액션을 제공합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=322954",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "소드 x 스태프",
+          "dev": "볼트레이 게임즈",
+          "date": "11월 4일(수)",
+          "platforms": [
+            "Mobile"
+          ],
+          "color": "#10b981",
+          "note": "11월 4일 국내 정식 출시된 방치형 라이트 RPG로, 24시간 자동 사냥 시스템과 다채로운 영웅 조합 및 성장의 재미를 담았습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=322957",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "킥",
+          "dev": "쇼어라인 게임즈",
+          "date": "11월 4일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "11월 4일 스팀으로 정식 출시된 사이드뷰 축구 어드벤처 게임으로, 길거리와 해변 등 다채로운 스테이지를 배경으로 축구공을 다루며 모험을 펼칩니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1782896",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "에이지 오브 원더스 4",
+          "dev": "트라이엄프 스튜디오",
+          "date": "11월 4일(수)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "Xbox Series X/S"
+          ],
+          "color": "#3b82f6",
+          "note": "11월 4일 신규 DLC '더 실버 씨즈'를 정식 출시하며 신비로운 대양을 배경으로 한 해양 탐험과 해상 전투 시스템을 새롭게 추가했습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1782941",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "update",
+          "game": "리니지W",
+          "dev": "엔씨소프트",
+          "date": "11월 4일(수)",
+          "platforms": [
+            "PC",
+            "Mobile"
+          ],
+          "color": "#3b82f6",
+          "note": "11월 4일 5주년 기념 대규모 업데이트를 통해 신규 시그니처 원거리 클래스 '무희'와 신규 월드 '아슈르'를 오픈했습니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1782939",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "젤다의 전설 시간의 오카리나 리메이크",
+          "dev": "닌텐도",
+          "date": "11월 5일(목)",
+          "platforms": [
+            "Switch 2"
+          ],
+          "color": "#10b981",
+          "note": "11월 5일 닌텐도 스위치 2로 정식 출시되는 명작 액션 어드벤처 리메이크로, 원작의 고유한 체험을 현대적인 그래픽과 비주얼로 구현했습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=322980",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "2026 KEL 이터널 리턴 최종 결선",
+          "note": "한국e스포츠협회 주최, 총상금 3천만 원 규모의 준결승 및 결승전",
+          "venue": "대전이스포츠경기장",
+          "date": "2026-11-07 ~ 2026-11-08",
+          "tag": "e스포츠",
+          "website": "https://www.inven.co.kr/webzine/news/?news=322977"
+        },
+        {
+          "name": "프래그멘터리 오더(Fragmentary Order) 최신 정보 공개 라이브 스트리밍",
+          "note": "타르코프 개발자 니키타(Nikita)가 출연하는 신작 주요 정보 발표 생방송",
+          "venue": "온라인",
+          "date": "2026-11-05",
+          "tag": "쇼케이스",
+          "website": "https://www.4gamer.net/games/998/G099842/20261104031/"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "김형태 대표, '니케' PC 런처 변조 사태 공식 사과",
+          "source": "인벤",
+          "time": "11월 4일",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=322984"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "엔씨, 20년 만의 신작 '길드워 애프터라이프' 발표",
+          "source": "게임메카",
+          "time": "11월 4일",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1782945"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "유비소프트, MS 산하 '아케인 리옹' 스튜디오 인수 추진",
+          "source": "IGN India",
+          "time": "11월 4일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/blade-arkane/276081/ubisoft-among-suitors-trying-to-buy-marvels-blade-dishonored-studio-arkane-lyon-from-xbox"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "베데스다, 8년 만에 '엘더스크롤 6: 센티넬' 티저 공개",
+          "source": "IGN India",
+          "time": "11월 4일",
+          "country": "IN",
+          "article_url": "https://in.ign.com/the-elder-scrolls-vi-sentinel/276104/the-elder-scrolls-6-sentinel-teasers-in-universe-quote-sparks-timeline-speculation"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "타카라토미, 인디게임 퍼블리셔 'ENJOYN' 출범",
+          "source": "Famitsu",
+          "time": "11월 4일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202611/93059"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'보더랜드' 시리즈, 글로벌 누적 판매량 1억 장 돌파",
+          "source": "Famitsu",
+          "time": "11월 4일",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202611/93053"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "英 당국, 킹·스코플리 등 허위 모바일 광고 제재",
+          "source": "GamesIndustry.biz",
+          "time": "11월 4일",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/advertising-standards-authority-bans-mobile-ads-from-king-scopely-and-others-for-misrepresenting-gameplay"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "차세대 플랫폼 전환기, 레거시 IP가 다시 소환되는 이유",
+      "intro": "새로운 하드웨어의 시대가 열릴 때, 게이머들은 과연 낯선 혁신에 먼저 반응할까요?\n스위치 2로 돌아오는 '시간의 오카리나'와 8년 만의 '엘더스크롤 6'가 그 해답을 던지고 있습니다.",
+      "points": "오늘 전해진 소식의 중심에는 거대한 과거의 귀환이 있습니다. 닌텐도는 차세대 기기 스위치 2의 핵심 타이틀로 '젤다의 전설 시간의 오카리나 리메이크'를 내세웠고, 베데스다는 오랜 침묵을 깨고 '엘더스크롤 6: 센티넬'을 공개했습니다. 엔씨소프트 역시 20년 만에 '길드워'의 정식 후속작을 발표하며 검증된 글로벌 프랜차이즈의 위력을 다시금 상기시켰습니다. 🎮\n\n이러한 현상은 새로운 하드웨어와 플랫폼 구조가 재편될 때 나타나는 위험 분산 전략과 직결됩니다. 기술 사양이 비약적으로 발전할수록 개발비와 마케팅 비용은 천문학적으로 치솟고, 플랫폼 홀더는 이용자를 즉각 견인할 강력한 유인책이 절실해집니다. 이때 원작에 대한 깊은 향수와 충성도를 지닌 탄탄한 팬덤은 플랫폼 전환 초기의 진입 장벽을 낮추는 가장 확실한 안전판이 됩니다. 📈\n\n결국 **차세대 플랫폼 경쟁의 성패는 하드웨어의 성능 혁신보다 이미 검증된 지식재산권(IP)을 얼마나 설득력 있게 재해석하느냐에 달려 있습니다.** 원작의 고유한 감각을 훼손하지 않으면서도 현대적 비주얼과 플레이 경험으로 재창조해 내는 역량이야말로, 플랫폼 교체기에 소비자의 지갑을 열게 만드는 핵심 경쟁력입니다. 💡\n\n기술의 진보가 눈부신 지금, 우리는 진정으로 새로운 세계를 갈망하고 있는 것일까요? 아니면 현대적인 옷을 입고 완벽해진 익숙한 추억 속으로 다시 빠져들고 싶은 것일까요? 🕹️"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": true,
+      "title": "Zelda: Ocarina of Time Remake - Adult Link Forest Temple + Extended Gameplay (Clear Audio)",
+      "channel": "Game is Lifer",
+      "videoId": "LIzEz8bW_ZI",
+      "url": "https://www.youtube.com/watch?v=LIzEz8bW_ZI",
+      "thumbnail": "https://i.ytimg.com/vi/LIzEz8bW_ZI/hqdefault.jpg",
+      "comment": "최근 리메이크 영상으로 게이머들 사이에서 다시 주목받은 <젤다의 전설 시간의 오카리나> 숲의 신전 테마예요! 🌿 특유의 몽환적이고 신비로운 선율을 들으며, 지친 오늘 하루를 차분하게 마무리해 보세요. 🎧✨",
+      "search_query": "The Legend of Zelda Ocarina of Time Official Soundtrack",
+      "ai_game_name": "젤다의 전설 시간의 오카리나 리메이크",
+      "ai_reason": "전설적인 명작의 현대적 귀환에 맞춰, 이전 추천곡이었던 격렬한 전투 테마와 대비되는 서정적이고 신비로운 모험의 노스탤지어를 선사하기 위해 선정했습니다."
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Solo Leveling:ARISE Overdrive",
+        "releases.0.note": "An action RPG officially launching on PlayStation 5 and Xbox Series X|S consoles on November 4, delivering spectacular action rooted in the original universe.",
+        "releases.0.dev": "Netmarble",
+        "releases.1.game": "Sword x Staff",
+        "releases.1.note": "An idle light RPG officially released domestically on November 4, featuring a 24-hour auto-hunting system, diverse hero combinations, and satisfying progression.",
+        "releases.1.dev": "BoltRay Games",
+        "releases.2.game": "Kick",
+        "releases.2.note": "A side-scrolling soccer adventure game officially released on Steam on November 4, where players embark on adventures controlling a soccer ball across varied stages such as streets and beaches.",
+        "releases.2.dev": "Shoreline Games",
+        "releases.3.game": "Age of Wonders 4",
+        "releases.3.note": "Officially released the new DLC 'The Silver Seas' on November 4, introducing ocean exploration and a naval combat system set in mysterious oceans.",
+        "releases.3.dev": "Triumph Studios",
+        "releases.4.game": "Lineage W",
+        "releases.4.note": "Opened a new signature ranged class 'Dancer' and a new world 'Ashur' on November 4 through a massive 5th-anniversary update.",
+        "releases.4.dev": "NCSOFT",
+        "releases.5.game": "The Legend of Zelda: Ocarina of Time Remake",
+        "releases.5.note": "A masterpiece action-adventure remake officially launching on Nintendo Switch 2 on November 5, recreating the original's signature experience with modern graphics and visuals.",
+        "releases.5.dev": "Nintendo",
+        "events.0.name": "2026 KEL Eternal Return Grand Finals",
+        "events.0.note": "Hosted by KeSPA, semifinals and finals with a total prize pool of 30 million KRW",
+        "events.0.venue": "Daejeon Dream Arena",
+        "events.1.name": "Fragmentary Order Latest Information Reveal Livestream",
+        "events.1.note": "Live broadcast featuring Tarkov developer Nikita to announce major details of the new title",
+        "events.1.venue": "Online"
+      },
+      "briefing": {
+        "items.0.title": "CEO Hyung-tae Kim Officially Apologizes for 'NIKKE' PC Launcher Tampering Incident",
+        "items.0.source": "Inven",
+        "items.0.time": "November 4",
+        "items.1.title": "NCSOFT Announces New Title 'Guild Wars Afterlife' After 20 Years",
+        "items.1.source": "GameMeca",
+        "items.1.time": "November 4",
+        "items.2.title": "Ubisoft Seeks to Acquire Microsoft's 'Arkane Lyon' Studio",
+        "items.2.source": "IGN India",
+        "items.2.time": "November 4",
+        "items.3.title": "Bethesda Reveals 'The Elder Scrolls VI: Sentinel' Teaser After 8 Years",
+        "items.3.source": "IGN India",
+        "items.3.time": "November 4",
+        "items.4.title": "Takara Tomy Launches Indie Game Publisher 'ENJOYN'",
+        "items.4.source": "Famitsu",
+        "items.4.time": "November 4",
+        "items.5.title": "'Borderlands' Series Surpasses 100 Million Cumulative Copies Sold Worldwide",
+        "items.5.source": "Famitsu",
+        "items.5.time": "November 4",
+        "items.6.title": "UK Authorities Crack Down on Deceptive Mobile Ads by King, Scopely, and Others",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "November 4"
+      },
+      "drk": {
+        "title": "Next-Gen Transitions: Why Legacy IPs Are Being Summoned Once More",
+        "intro": "When a new hardware era begins, do gamers truly respond to unfamiliar innovations first?\n'Ocarina of Time' returning on the Switch 2 and 'The Elder Scrolls VI' after an eight-year wait suggest an answer.",
+        "points": "At the core of today's news lies the return of a monumental past. Nintendo positioned 'The Legend of Zelda: Ocarina of Time Remake' as a flagship title for its next-generation Switch 2, while Bethesda broke its long silence by unveiling 'The Elder Scrolls VI: Sentinel.' NCSOFT also announced the first direct continuation of 'Guild Wars' in 20 years, reaffirming the enduring power of proven global franchises. 🎮\n\nThis phenomenon directly correlates with risk-mitigation strategies that emerge during shifts in hardware and platform architecture. As technical specifications make quantum leaps, development and marketing costs skyrocket, making powerful hooks to immediately draw players indispensable for platform holders. A solid fandom armed with deep nostalgia and loyalty serves as the most dependable safety net to lower entry barriers during early platform transitions. 📈\n\nUltimately, **the success of the next-gen platform race hinges less on raw hardware performance leaps and more on how persuasively proven intellectual property (IP) is reinterpreted.** The ability to recreate an experience with modern visuals and gameplay without compromising the original's distinct soul is the core competitive advantage that convinces consumers to open their wallets during a platform turnover. 💡\n\nAmid such dazzling technological progress, are we truly yearning for completely uncharted worlds? Or do we simply long to dive back into perfected, familiar memories dressed in modern attire? 🕹️"
+      },
+      "soundtrack": {
+        "title": "Zelda: Ocarina of Time Remake - Adult Link Forest Temple + Extended Gameplay (Clear Audio)",
+        "comment": "The Forest Temple theme from <The Legend of Zelda: Ocarina of Time>, which recently captured gamers' attention again through remake footage! 🌿 Wind down your tiring day in tranquility with its signature dreamy, mystical melody. 🎧✨"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "俺だけレベルアップな件：ARISE オーバードライブ",
+        "releases.0.note": "11月4日にPlayStation 5およびXbox Series X|Sコンソール版で正式リリースされるアクションRPGで、原作の世界観に基づいた華麗なアクションをお届けします。",
+        "releases.0.dev": "ネットマーブル",
+        "releases.1.game": "ソード×スタッフ",
+        "releases.1.note": "11月4日に韓国国内で正式リリースされた放置系ライトRPGで、24時間オートハック＆スラッシュシステムと多彩な英雄の組み合わせ、育成の楽しさを盛り込んでいます。",
+        "releases.1.dev": "ボルトレイゲームズ",
+        "releases.2.game": "キック",
+        "releases.2.note": "11月4日にSteamで正式リリースされたサイドビューサッカーアドベンチャーゲームで、ストリートやビーチなど多彩なステージを舞台にサッカーボールを操り冒険を繰り広げます。",
+        "releases.2.dev": "ショアラインゲームズ",
+        "releases.3.game": "エイジ オブ ワンダー 4",
+        "releases.3.note": "11月4日に新規DLC「ザ・シルバー・シーズ」を正式リリースし、神秘的な大海原を舞台とした海洋探検および海上戦闘システムを新たに追加しました。",
+        "releases.3.dev": "トライアンフ・スタジオ",
+        "releases.4.game": "リネージュW",
+        "releases.4.note": "11月4日に5周年記念の大規模アップデートを実施し、新規シグネチャー遠距離クラス「舞姫」および新ワールド「アシュール」をオープンしました。",
+        "releases.4.dev": "NCSOFT",
+        "releases.5.game": "ゼルダの伝説 時のオカリナ リメイク",
+        "releases.5.note": "11月5日にNintendo Switch 2で正式リリースされる名作アクションアドベンチャーのリメイクで、原作ならではの体験を現代的なグラフィックとビジュアルで再現しています。",
+        "releases.5.dev": "任天堂",
+        "events.0.name": "2026 KEL エターナルリターン 最終決勝",
+        "events.0.note": "韓国eスポーツ協会主催、賞金総額3,000万ウォン規模の準決勝および決勝戦",
+        "events.0.venue": "大田eスポーツ競技場",
+        "events.1.name": "Fragmentary Order（フラグメンタリー・オーダー）最新情報公開ライブ配信",
+        "events.1.note": "『タルコフ』開発者のニキータ（Nikita）氏が出演する新作主要情報発表生放送",
+        "events.1.venue": "オンライン"
+      },
+      "briefing": {
+        "items.0.title": "キム・ヒョンテ代表、『NIKKE』PCランチャー改ざん問題で公式謝罪",
+        "items.0.source": "Inven",
+        "items.0.time": "11月4日",
+        "items.1.title": "NC、20年ぶりの新作『ギルドウォーズ アフターライフ』を発表",
+        "items.1.source": "ゲームメカ",
+        "items.1.time": "11月4日",
+        "items.2.title": "Ubisoft、マイクロソフト傘下「Arkane Lyon」スタジオの買収を推進",
+        "items.2.source": "IGN India",
+        "items.2.time": "11月4日",
+        "items.3.title": "ベセスダ、8年ぶりに『エルダー・スクロールズVI: センチネル』のティザー映像を公開",
+        "items.3.source": "IGN India",
+        "items.3.time": "11月4日",
+        "items.4.title": "タカラトミー、インディーゲームパブリッシャー「ENJOYN」を設立",
+        "items.4.source": "ファミ通",
+        "items.4.time": "11月4日",
+        "items.5.title": "『ボーダーランズ』シリーズ、世界累計販売本数が1億本を突破",
+        "items.5.source": "ファミ通",
+        "items.5.time": "11月4日",
+        "items.6.title": "英規制当局、KingやScopelyなどの誇大モバイル広告に制裁",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "11月4日"
+      },
+      "drk": {
+        "title": "次世代プラットフォーム移行期に、レガシーIPが再び召喚される理由",
+        "intro": "新たなハードウェアの幕開けを迎えるとき、ゲーマーたちは果たして未知の革新に真っ先に反応するでしょうか？\nSwitch 2で蘇る『時のオカリナ』と8年ぶりとなる『エルダー・スクロールズVI』が、その答えを提示しています。",
+        "points": "本日届いたニュースの中心には、偉大な過去の帰還があります。任天堂は次世代機Switch 2の主力タイトルとして『ゼルダの伝説 時のオカリナ リメイク』を打ち出し、ベセスダは長年の沈黙を破って『エルダー・スクロールズVI: センチネル』を公開しました。NCSOFTもまた20年ぶりに『ギルドウォーズ』の正式な後継作を発表し、実績あるグローバルフランチャイズの威力を再認識させました。🎮\n\nこうした現象は、新しいハードウェアやプラットフォームの構造が再編される際に現れるリスク分散戦略と直結しています。技術仕様が飛躍的に進化するほど開発費やマーケティング費用は天文学的に跳ね上がり、プラットフォームホルダーにとってはユーザーを即座に引き込む強力な起爆剤が不可欠になります。その際、原作への深いノスタルジーと忠誠心を持つ強固なファンコミュニティは、プラットフォーム移行初期の参入障壁を下げる最も確実なセーフティネットとなります。📈\n\n結局のところ、**次世代プラットフォーム競争の成否は、ハードウェアの性能革新以上に、すでに検証された知的財産（IP）をいかに説得力を持って再解釈できるかにかかっています。**原作固有の持ち味を損なうことなく、現代的なビジュアルとプレイ体験へと再構築する力量こそが、世代交代期において消費者の財布を開かせる中核的な競争力なのです。💡\n\n技術の進歩が目覚ましい今、私たちは真に新しい世界を渇望しているのでしょうか？それとも、現代の技術を纏い洗練された、馴染み深い思い出の中へと再び没入したいと願っているのでしょうか？🕹️"
+      },
+      "soundtrack": {
+        "title": "Zelda: Ocarina of Time Remake - Adult Link Forest Temple + Extended Gameplay (Clear Audio)",
+        "comment": "最近のリメイク映像でゲーマーたちの熱い注目を再び集めている『ゼルダの伝説 時のオカリナ』の「森の神殿」テーマです！🌿 特有の幻想的で神秘的な旋律を聴きながら、疲れのたまった一日を穏やかに締めくくってみてはいかがでしょうか。🎧✨"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "차세대 전환기에 고전 명작이 다시 소환되는 이유 🕹️ (feat. 젤다 숲의 신전 리메이크 OST 🎧)",
+    "en": "Why Legacy IPs Are Dominating the Next-Gen Era 🕹️ (feat. Zelda: OoT Forest Temple Remake OST 🎧)",
+    "ja": "次世代機の波で「往年の名作IP」が次々復活するワケ 🕹️ (feat. ゼルダ『森の神殿』リメイク神OST 🎧)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": false,
+          "text": "게이머 여러분, 드디어 올 것이 왔습니다! 😱\n베데스다가 8년 만에 '엘더스크롤 6' 새 티저를 깜짝 공개했네요🎮\n\nhttps://www.gtplayer.net/edition-156/\n#엘더스크롤6 #GTPlayer",
+          "error": "Posting failed or blocked"
+        }
+      },
+      "updated_at": "2026-11-04T21:32:21.967011"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Why Legacy IPs Are Dominating the Next-Gen Era 🕹️ (feat. Zelda: OoT Forest Temple Remake OST 🎧)\n\nBethesda just dropped a brand-new The Elder Scrolls VI teaser after eight years, while iconic worlds like Guild Wars and Zelda are staging massive comebacks.\nHere is why the biggest studios in gaming are betting on beloved franchises to define the next console generation and win over players worldwide.\n\nhttps://www.gtplayer.net/edition-156-en/",
+        "error": null
+      },
+      "updated_at": "2026-11-04T21:33:14.162158"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "11월 4일 오늘의 게임 소식 🎮\n📰 [뉴스] 베데스다 8년 만의 '엘더스크롤 6' 티저부터 엔씨 '길드워' 신작, '니케' PC 런처 변조 사태까지!\n📅 [출시] 스위치 2 '젤다의 전설 시간의 오카리나 리메이크', '나 혼자만 레벨업' 콘솔 이식 등 주요 신작 라인업\n✍️ [인사이트] 차세대 플랫폼 전환기, 혁신보다 고전 명작 레거시 IP가 다시 소환되는 이유\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임추천 #신작게임 #콘솔게임 #닌텐도스위치2 #젤다의전설 #시간의오카리나 #엘더스크롤6 #베데스다 #엔씨소프트 #길드워 #승리의여신니케 #나혼자만레벨업 #인디게임 #게임스타그램 #게임플레이 #게이머 #게임정보 #게임덕후 #gtplayer",
+          "image_paths": [
+            "web/instagram/edition_156/card_cover.png",
+            "web/instagram/edition_156/card_news.png",
+            "web/instagram/edition_156/card_calendar.png",
+            "web/instagram/edition_156/card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "4022972164043107873_39332818166",
+            "url": "https://www.instagram.com/p/DfUd95bEu4h/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-11-04T21:34:38.436644"
+    }
+  }
+}

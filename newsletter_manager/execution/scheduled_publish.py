@@ -31,6 +31,8 @@ load_dotenv(dotenv_path=str(BASE_DIR / '.env'))
 from publish_edition import render_newsletter_html
 
 SENDGRID_API_KEY = os.getenv('SENDGRID_API_KEY')
+GMAIL_USER = os.getenv('GMAIL_USER', '')
+GMAIL_APP_PASSWORD = os.getenv('GMAIL_APP_PASSWORD', '')
 FROM_EMAIL = os.getenv('FROM_EMAIL', 'noreply@gtplayer.net')
 FROM_NAME = os.getenv('FROM_NAME', 'GTPlayer 뉴스레터')
 TO_EMAIL = os.getenv('TO_EMAIL', 'admin@gtplayer.net')
@@ -122,7 +124,47 @@ def render_unsubscribe_footer(lang='ko', email=''):
 
 
 def send_email(subject, html_content, recipients=None, lang='ko'):
-    """SendGrid로 이메일 발송."""
+    """Gmail SMTP (우선) 또는 SendGrid로 뉴스레터 이메일 발송."""
+    if recipients is None:
+        recipients = [TO_EMAIL]
+    if isinstance(recipients, str):
+        recipients = [recipients]
+
+    # 1) Gmail SMTP 발송 (GMAIL_APP_PASSWORD 설정 시)
+    if GMAIL_APP_PASSWORD:
+        import smtplib
+        from email.mime.text import MIMEText
+        from email.mime.multipart import MIMEMultipart
+        from email.utils import formataddr
+        from email.header import Header
+
+        sender_addr = GMAIL_USER or FROM_EMAIL
+        display_name = {'ko': 'GTPlayer 뉴스레터', 'en': 'GTPlayer Newsletter', 'ja': 'GTPlayer ニュースレター'}.get(lang, FROM_NAME)
+        success_count = 0
+        try:
+            with smtplib.SMTP_SSL('smtp.gmail.com', 465, timeout=20) as server:
+                server.login(sender_addr, GMAIL_APP_PASSWORD)
+                for target_email in recipients:
+                    unsub_footer = render_unsubscribe_footer(lang, target_email)
+                    personalized_html = html_content.replace('</body>', f'{unsub_footer}</body>')
+                    msg = MIMEMultipart('alternative')
+                    msg['From'] = formataddr((str(Header(display_name, 'utf-8')), sender_addr))
+                    msg['To'] = target_email
+                    msg['Subject'] = Header(subject, 'utf-8')
+                    msg.attach(MIMEText(personalized_html, 'html', 'utf-8'))
+                    try:
+                        server.sendmail(sender_addr, [target_email], msg.as_string())
+                        print(f"  ✅ Gmail 발송 성공 → {target_email}")
+                        success_count += 1
+                    except Exception as e:
+                        print(f"  ❌ Gmail 발송 실패 ({target_email}): {e}")
+            return success_count > 0
+        except Exception as e:
+            print(f"  ❌ Gmail SMTP 연결/로그인 실패: {e}")
+            if not SENDGRID_API_KEY:
+                return False
+
+    # 2) SendGrid 폴백
     try:
         from sendgrid import SendGridAPIClient
         from sendgrid.helpers.mail import Mail
@@ -132,13 +174,8 @@ def send_email(subject, html_content, recipients=None, lang='ko'):
         from sendgrid.helpers.mail import Mail
 
     if not SENDGRID_API_KEY:
-        print("  ❌ SENDGRID_API_KEY가 .env에 없습니다")
+        print("  ❌ GMAIL_APP_PASSWORD 및 SENDGRID_API_KEY가 .env에 없습니다")
         return False
-
-    if recipients is None:
-        recipients = [TO_EMAIL]
-    if isinstance(recipients, str):
-        recipients = [recipients]
 
     sg = SendGridAPIClient(api_key=SENDGRID_API_KEY)
     success_count = 0

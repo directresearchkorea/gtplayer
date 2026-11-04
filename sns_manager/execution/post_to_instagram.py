@@ -300,7 +300,7 @@ def run(edition_file=None, dry_run=False, card_types=None):
         
         results = {"carousel": {
             "caption": caption,
-            "image_paths": image_paths,
+            "image_paths": [f"web/instagram/edition_{num}/{Path(p).name}" for p in image_paths],
             "posted": posted,
             "data": result,
             "error": err_msg
