@@ -36,8 +36,10 @@ GMAIL_APP_PASSWORD = os.getenv('GMAIL_APP_PASSWORD', '')
 FROM_EMAIL = os.getenv('FROM_EMAIL', 'noreply@gtplayer.net')
 FROM_NAME = os.getenv('FROM_NAME', 'GTPlayer 뉴스레터')
 TO_EMAIL = os.getenv('TO_EMAIL', 'admin@gtplayer.net')
+DEFAULT_BACKEND_URL = 'https://script.google.com/macros/s/AKfycbyvnD_yI_rA7c6_W-0nK9NSYrVZc7uhmbi8ZXede32OcSY7i5buBT-7eygdd1NEK_II/exec'
+UNSUBSCRIBE_URL = os.getenv('UNSUBSCRIBE_URL', DEFAULT_BACKEND_URL)
 SUBSCRIBERS_PATH = EXEC_DIR / 'subscribers.json'
-SUBSCRIBERS_SYNC_URL = os.getenv('SUBSCRIBERS_SYNC_URL', '')
+SUBSCRIBERS_SYNC_URL = os.getenv('SUBSCRIBERS_SYNC_URL', f"{DEFAULT_BACKEND_URL}?action=list")
 
 
 def sync_remote_subscribers():
@@ -106,7 +108,7 @@ def render_unsubscribe_footer(lang='ko', email=''):
     """SendGrid 이메일 하단에 수신거부(Unsubscribe) 안내 푸터 추가."""
     import urllib.parse
     enc_email = urllib.parse.quote(email or '')
-    unsub_url = f"https://gtplayer-click.gtplayernet.workers.dev?action=unsubscribe&lang={lang}&email={enc_email}"
+    unsub_url = f"{UNSUBSCRIBE_URL}?action=unsubscribe&lang={lang}&email={enc_email}"
     i18n = {
         'ko': ('더 이상 뉴스레터를 받고 싶지 않으시면 ', '수신거부(Unsubscribe)', '를 클릭해 주세요.'),
         'en': ('If you no longer wish to receive this newsletter, ', 'Unsubscribe here', '.'),

@@ -167,6 +167,12 @@ def render_base_layout(title: str, description: str, lang: str, canonical_path: 
             "footer_sub": "구독하기",
             "footer_archive": "에디션 아카이브",
             "lang_code": "KO",
+            "modal_sub_title": "GTPlayer 뉴스레터 무료 구독",
+            "modal_sub_desc": "매일 아침 7시, 글로벌 게임 산업 인사이트와 신작 소식을 메일함으로 바로 전해드립니다.",
+            "modal_sub_placeholder": "이메일 주소 입력 (name@example.com)",
+            "modal_sub_btn": "무료 구독하기 →",
+            "modal_sub_success": "🎉 구독 신청이 완료되었습니다! 매일 아침 메일함을 확인해 주세요.",
+            "modal_sub_error": "⚠️ 올바른 이메일 주소를 입력해 주세요.",
         },
         "en": {
             "search_btn": "Search...",
@@ -176,6 +182,12 @@ def render_base_layout(title: str, description: str, lang: str, canonical_path: 
             "footer_sub": "Subscribe",
             "footer_archive": "Edition Archive",
             "lang_code": "EN",
+            "modal_sub_title": "Subscribe to GTPlayer",
+            "modal_sub_desc": "Get global game industry insights and latest news delivered to your inbox every morning at 7 AM.",
+            "modal_sub_placeholder": "Enter your email (name@example.com)",
+            "modal_sub_btn": "Subscribe for Free →",
+            "modal_sub_success": "🎉 You're subscribed! Check your inbox every morning.",
+            "modal_sub_error": "⚠️ Please enter a valid email address.",
         },
         "ja": {
             "search_btn": "検索...",
@@ -185,6 +197,12 @@ def render_base_layout(title: str, description: str, lang: str, canonical_path: 
             "footer_sub": "購読する",
             "footer_archive": "エディションアーカイブ",
             "lang_code": "JP",
+            "modal_sub_title": "GTPlayer ニュースレター無料購読",
+            "modal_sub_desc": "毎朝7時、世界のゲーム業界インサイトと最新ニュースをあなたの受信トレイに直接お届けします。",
+            "modal_sub_placeholder": "メールアドレスを入力 (name@example.com)",
+            "modal_sub_btn": "無料で購読する →",
+            "modal_sub_success": "🎉 購読が完了しました！ 毎朝受信トレイをご確認ください。",
+            "modal_sub_error": "⚠️ 有効なメールアドレスを入力してください。",
         },
     }
     ui = i18n_ui.get(lang, i18n_ui["ko"])
@@ -225,6 +243,60 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/assets/css/style.css">
+<style>
+.sub-overlay {{
+  display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+  background: rgba(0,0,0,0.65); z-index: 1001;
+  align-items: center; justify-content: center; padding: 20px;
+  backdrop-filter: blur(4px);
+}}
+.sub-overlay.active {{ display: flex; }}
+.sub-modal {{
+  background: #ffffff; width: 100%; max-width: 440px;
+  position: relative; border-radius: 12px;
+  box-shadow: 0 20px 48px rgba(0,0,0,0.3);
+  padding: 36px 28px 28px; text-align: center;
+  border: 1px solid #e5e7eb;
+}}
+.sub-modal .sub-close {{
+  position: absolute; top: 14px; right: 14px;
+  background: none; border: none; color: #9ca3af; cursor: pointer;
+  padding: 6px; display: flex; align-items: center; justify-content: center;
+  border-radius: 6px; transition: color .15s, background .15s;
+}}
+.sub-modal .sub-close:hover {{ color: #111827; background: #f3f4f6; }}
+.sub-modal-icon {{ font-size: 38px; margin-bottom: 12px; line-height: 1; }}
+.sub-modal-title {{ font-size: 20px; font-weight: 800; color: #111827; margin: 0 0 8px; letter-spacing: -0.5px; }}
+.sub-modal-desc {{ font-size: 13px; line-height: 1.5; color: #6b7280; margin: 0 0 22px; word-break: keep-all; }}
+.sub-modal-form {{ display: flex; flex-direction: column; gap: 10px; text-align: left; }}
+.sub-modal-input {{
+  width: 100%; padding: 13px 16px; font-size: 14px;
+  border: 1px solid #d1d5db; border-radius: 8px;
+  outline: none; font-family: 'Inter', sans-serif;
+  box-sizing: border-box; transition: border-color .15s;
+}}
+.sub-modal-input:focus {{ border-color: #111827; }}
+.sub-modal-btn {{
+  width: 100%; padding: 13px 16px; font-size: 14px; font-weight: 700;
+  background: #111827; color: #ffffff; border: none; border-radius: 8px;
+  cursor: pointer; transition: background .15s;
+}}
+.sub-modal-btn:hover {{ background: #374151; }}
+.sub-modal-msg-success {{
+  display: none; padding: 14px; background: #ecfdf5; color: #065f46;
+  border: 1px solid #a7f3d0; border-radius: 8px; font-size: 13px; font-weight: 600;
+  text-align: center; line-height: 1.4; word-break: keep-all;
+}}
+.sub-modal-msg-error {{
+  display: none; padding: 12px; background: #fef2f2; color: #991b1b;
+  border: 1px solid #fecaca; border-radius: 8px; font-size: 13px; font-weight: 600;
+  text-align: center;
+}}
+form[data-members-form="subscribe"].success .sub-modal-msg-success {{ display: block; }}
+form[data-members-form="subscribe"].success .sub-modal-input,
+form[data-members-form="subscribe"].success .sub-modal-btn {{ display: none; }}
+form[data-members-form="subscribe"].error .sub-modal-msg-error {{ display: block; }}
+</style>
 <script>
   if (!localStorage.getItem('langSelectBoxSelected')) {{
     const currentPath = window.location.pathname;
@@ -268,7 +340,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <span class="search-text" id="headerSearchText">{ui['search_btn']}</span>
     </button>
 
-    <a href="#subscribe-section" class="btn-sub" id="headerSubBtn">{ui['sub_btn']}</a>
+    <button type="button" class="btn-sub" id="headerSubBtn">{ui['sub_btn']}</button>
 
     <div class="lang-selector">
       <button class="lang-btn" id="langToggle">🌐 <span id="currentLang">{ui['lang_code']}</span> ▾</button>
@@ -299,6 +371,28 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </div>
 
+<!-- Subscribe Overlay -->
+<div class="sub-overlay" id="subOverlay">
+  <div class="sub-modal">
+    <button class="sub-close" id="subClose" aria-label="Close">
+      <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+        <path d="M18 6L6 18M6 6l12 12" />
+      </svg>
+    </button>
+    <div class="sub-modal-content">
+      <div class="sub-modal-icon">✉️</div>
+      <h2 class="sub-modal-title">{ui['modal_sub_title']}</h2>
+      <p class="sub-modal-desc">{ui['modal_sub_desc']}</p>
+      <form class="sub-modal-form" data-members-form="subscribe">
+        <input type="email" class="sub-modal-input" placeholder="{ui['modal_sub_placeholder']}" required autocomplete="email">
+        <button type="submit" class="sub-modal-btn">{ui['modal_sub_btn']}</button>
+        <div class="sub-modal-msg-success">{ui['modal_sub_success']}</div>
+        <div class="sub-modal-msg-error">{ui['modal_sub_error']}</div>
+      </form>
+    </div>
+  </div>
+</div>
+
 <main>
 {main_html}
 </main>
@@ -312,7 +406,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <a href="/ja/" class="lbtn" onclick="localStorage.setItem('langSelectBoxSelected','ja')">日本語</a>
   </div>
   <div class="foot-links">
-    <a href="#subscribe-section" id="footerSubBtn">{ui['footer_sub']}</a>
+    <button type="button" id="footerSubBtn" style="background:none;border:none;color:inherit;font:inherit;cursor:pointer;padding:0;">{ui['footer_sub']}</button>
     <a href="{home_href}" id="footerArchiveBtn">{ui['footer_archive']}</a>
   </div>
   <div class="foot-copy">&copy; {datetime.now().year} GTPlayer. All rights reserved.</div>
@@ -323,7 +417,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   var currentLangCode = '{lang}';
   var BASE_PATH = window.location.pathname.indexOf('/gtplayer') === 0 ? '/gtplayer' : '';
   var SEARCH_LOG_URL = 'https://script.google.com/macros/s/AKfycbztDYnHRRoHNpUt07_SOl-COmJ-7A1MAvVMTAD51dL4nvjAF9BEDxgM-SMUxQ5h18mBaQ/exec';
-  var SUBSCRIBE_URL = 'https://gtplayer-click.gtplayernet.workers.dev';
+  var SUBSCRIBE_URL = 'https://script.google.com/macros/s/AKfycbyvnD_yI_rA7c6_W-0nK9NSYrVZc7uhmbi8ZXede32OcSY7i5buBT-7eygdd1NEK_II/exec';
   var loggedQueries = {{}};
   var currentLocation = null;
 
@@ -358,6 +452,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   var searchTimer = null;
   var allPosts = null;
 
+  var subOverlay = document.getElementById('subOverlay');
+  var subCloseBtn = document.getElementById('subClose');
+
+  function openSubscribe() {{
+    if (subOverlay) {{
+      subOverlay.classList.add('active');
+      var emailInput = subOverlay.querySelector('input[type="email"]');
+      if (emailInput) setTimeout(function () {{ emailInput.focus(); }}, 100);
+      document.body.style.overflow = 'hidden';
+    }}
+  }}
+
+  function closeSubscribe() {{
+    if (subOverlay) {{
+      subOverlay.classList.remove('active');
+      document.body.style.overflow = '';
+    }}
+  }}
+
   function openSearch() {{
     overlay.classList.add('active');
     input.value = '';
@@ -376,13 +489,29 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     var headerSearch = document.getElementById('headerSearchBtn');
     if (headerSearch) headerSearch.addEventListener('click', openSearch);
 
+    var headerSub = document.getElementById('headerSubBtn');
+    if (headerSub) headerSub.addEventListener('click', openSubscribe);
+
+    var footerSub = document.getElementById('footerSubBtn');
+    if (footerSub) footerSub.addEventListener('click', openSubscribe);
+
+    if (subCloseBtn) subCloseBtn.addEventListener('click', closeSubscribe);
+    if (subOverlay) {{
+      subOverlay.addEventListener('click', function (e) {{
+        if (e.target === subOverlay) closeSubscribe();
+      }});
+    }}
+
     // Subscribe Form Handler
     document.querySelectorAll('form[data-members-form="subscribe"]').forEach(function (form) {{
       form.addEventListener('submit', function (e) {{
         e.preventDefault();
         var emailInput = form.querySelector('input[type="email"]');
         var email = emailInput ? emailInput.value.trim() : '';
-        if (!email) return;
+        if (!email || email.indexOf('@') === -1) {{
+          form.classList.add('error');
+          return;
+        }}
         form.classList.remove('error');
         fetch(SUBSCRIBE_URL + '?action=subscribe&lang=' + encodeURIComponent(currentLangCode) + '&email=' + encodeURIComponent(email), {{
           method: 'GET',
@@ -399,7 +528,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     if (e.target === overlay) closeSearch();
   }});
   document.addEventListener('keydown', function (e) {{
-    if (e.key === 'Escape') closeSearch();
+    if (e.key === 'Escape') {{
+      closeSearch();
+      closeSubscribe();
+    }}
     if ((e.metaKey || e.ctrlKey) && e.key === 'k') {{
       e.preventDefault();
       openSearch();
