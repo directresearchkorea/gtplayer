@@ -99,14 +99,14 @@ function handleUnsubscribe(e) {
       var nowStr = Utilities.formatDate(new Date(), "Asia/Seoul", "yyyy-MM-dd HH:mm:ss");
       for (var i = 1; i < data.length; i++) {
         if ((data[i][1] || '').toString().trim().toLowerCase() === email) {
-          sheet.getRange(i + 1, 3).setValue(false); // Subscribed = false
+          sheet.getRange(i + 1, 3).setValue(0); // 0 = 구독취소
           sheet.getRange(i + 1, 6).setValue(nowStr); // Updated_At
           found = true;
           break;
         }
       }
       if (!found) {
-        sheet.appendRow([nowStr, email, false, lang, nowStr, nowStr]);
+        sheet.appendRow([nowStr, email, 0, lang, nowStr, nowStr]);
       }
     } catch (err) {
       Logger.log('Unsubscribe error: ' + err.toString());
@@ -193,7 +193,7 @@ function handleSubscribe(e) {
 
     for (var i = 1; i < data.length; i++) {
       if ((data[i][1] || '').toString().trim().toLowerCase() === email) {
-        sheet.getRange(i + 1, 3).setValue(true); // Subscribed = true
+        sheet.getRange(i + 1, 3).setValue(1); // 1 = 구독자
         sheet.getRange(i + 1, 4).setValue(lang);
         sheet.getRange(i + 1, 6).setValue(nowStr);
         found = true;
@@ -201,7 +201,7 @@ function handleSubscribe(e) {
       }
     }
     if (!found) {
-      sheet.appendRow([nowStr, email, true, lang, nowStr, nowStr]);
+      sheet.appendRow([nowStr, email, 1, lang, nowStr, nowStr]);
     }
 
     return ContentService.createTextOutput(JSON.stringify({ status: 'ok', message: 'subscribed', email: email }))
@@ -231,7 +231,7 @@ function handleListSubscribers(e) {
       var em = (data[i][1] || '').toString().trim().toLowerCase();
       var sub = data[i][2];
       var lg = (data[i][3] || 'ko').toString().trim().toLowerCase();
-      if (em && (sub === true || sub === 'TRUE' || sub === 'true')) {
+      if (em && (sub === 1 || sub === '1' || sub === true || sub === 'TRUE' || sub === 'true')) {
         list.push({ email: em, lang: lg, subscribed: true });
       }
     }
