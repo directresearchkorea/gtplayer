@@ -175,10 +175,10 @@ def render_footer(lang='ko'):
 <div style="font-size:11px;color:#aaa">© 2026 GTPlayer</div></div>'''
 
 # ⚠️ 아래 URL을 다기능 통합 서버인 Cloudflare Worker 주소로 교체했습니다.
-NL_FEEDBACK_URL = 'https://gtplayer-click.gtplayernet.workers.dev'
+NL_FEEDBACK_URL = 'https://script.google.com/macros/s/AKfycby6G0lpTZ8c8mBBmYhBMfY04hWaH3xa1IjZV4L6OVjLjG1_7dDCs-k2vqF6hGMvzPo6/exec'
 
 # ⚠️ 아래 URL을 Google Apps Script 클릭 트래커 웹앱 배포 URL로 교체하세요
-CLICK_TRACKER_URL = 'https://gtplayer-click.gtplayernet.workers.dev'
+CLICK_TRACKER_URL = 'https://script.google.com/macros/s/AKfycby6G0lpTZ8c8mBBmYhBMfY04hWaH3xa1IjZV4L6OVjLjG1_7dDCs-k2vqF6hGMvzPo6/exec'
 _EDITION_NUM = '000'
 
 def track_url(url, section, label='', lang='ko'):

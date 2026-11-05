@@ -417,7 +417,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   var currentLangCode = '{lang}';
   var BASE_PATH = window.location.pathname.indexOf('/gtplayer') === 0 ? '/gtplayer' : '';
   var SEARCH_LOG_URL = 'https://script.google.com/macros/s/AKfycbztDYnHRRoHNpUt07_SOl-COmJ-7A1MAvVMTAD51dL4nvjAF9BEDxgM-SMUxQ5h18mBaQ/exec';
-  var SUBSCRIBE_URL = 'https://script.google.com/macros/s/AKfycbyvnD_yI_rA7c6_W-0nK9NSYrVZc7uhmbi8ZXede32OcSY7i5buBT-7eygdd1NEK_II/exec';
+  var SUBSCRIBE_URL = 'https://script.google.com/macros/s/AKfycby6G0lpTZ8c8mBBmYhBMfY04hWaH3xa1IjZV4L6OVjLjG1_7dDCs-k2vqF6hGMvzPo6/exec';
   var loggedQueries = {{}};
   var currentLocation = null;
 

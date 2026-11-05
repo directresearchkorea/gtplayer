@@ -36,7 +36,7 @@ GMAIL_APP_PASSWORD = os.getenv('GMAIL_APP_PASSWORD', '')
 FROM_EMAIL = os.getenv('FROM_EMAIL', 'noreply@gtplayer.net')
 FROM_NAME = os.getenv('FROM_NAME', 'GTPlayer 뉴스레터')
 TO_EMAIL = os.getenv('TO_EMAIL', 'admin@gtplayer.net')
-DEFAULT_BACKEND_URL = 'https://script.google.com/macros/s/AKfycbyvnD_yI_rA7c6_W-0nK9NSYrVZc7uhmbi8ZXede32OcSY7i5buBT-7eygdd1NEK_II/exec'
+DEFAULT_BACKEND_URL = 'https://script.google.com/macros/s/AKfycby6G0lpTZ8c8mBBmYhBMfY04hWaH3xa1IjZV4L6OVjLjG1_7dDCs-k2vqF6hGMvzPo6/exec'
 UNSUBSCRIBE_URL = os.getenv('UNSUBSCRIBE_URL', DEFAULT_BACKEND_URL)
 SUBSCRIBERS_PATH = EXEC_DIR / 'subscribers.json'
 SUBSCRIBERS_SYNC_URL = os.getenv('SUBSCRIBERS_SYNC_URL', f"{DEFAULT_BACKEND_URL}?action=list")
