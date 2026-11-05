@@ -1,0 +1,144 @@
+{
+  "num": "158",
+  "date": "2026-11-06",
+  "status": "published",
+  "schedule": {
+    "date": "2026-11-06",
+    "time": "07:00",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [],
+      "events": [
+        {
+          "name": "지스타 2026",
+          "note": "",
+          "venue": "한국 부산 벡스코",
+          "date": "2026-11-18~2026-11-22",
+          "tag": "오프라인 행사",
+          "d_day_str": "D-12",
+          "website": "https://www.gstar.or.kr"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": []
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "오늘의 인사이트를 준비 중입니다",
+      "intro": "기술적인 문제로 인해 인사이트 생성이 지연되고 있습니다.",
+      "points": "잠시 후 다시 확인해 주시기 바랍니다."
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "Idle Champions of the Forgotten Realms",
+      "url": "https://store.epicgames.com/ko/p/idle-champions-of-the-forgotten-realms",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1cv5z.jpg",
+      "comment": "🎁 이번 주 에픽게임즈 무료 배포: Idle Champions of the Forgotten Realms! 놓치지 마세요.",
+      "steam_deal": null,
+      "epic_current": [
+        {
+          "title": "Idle Champions of the Forgotten Realms",
+          "description": "Idle Champions는 Dungeons & Dragons의 라이선스를 받은 전략 관리 비디오 게임으로 소설, 캠페인, 방송 등에 출연한 상징적인 캐릭터를 하나의 장대한 모험에 집결시킵니다.",
+          "url": "https://store.epicgames.com/ko/p/idle-champions-of-the-forgotten-realms",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1cv5z.jpg",
+          "end_date": "2026-11-13 01:00"
+        },
+        {
+          "title": "표류도시",
+          "description": "떠다니는 쓰레기 마을 생존 게임! 바다 표면에서 얻을 수 있는 귀중한 쓰레기를 최대한 모으고, 이 화려한 포스트 아포칼립스 세계에서 살아남기 위해 노력하며 도시를 성장시키세요.",
+          "url": "https://store.epicgames.com/ko/p/flotsam-266287",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1yczl.jpg",
+          "end_date": "2026-11-13 01:00"
+        }
+      ],
+      "epic_upcoming": [
+        {
+          "title": "Knightica",
+          "description": "강력한 유닛을 영입하고 전략적으로 배치해서 최고의 시너지를 찾아내 보는 로그라이크 자동 전투 게임!\nKnightica에서는 전투부대를 이끌고 수많은 도전을 이겨내서 왕국을 해방시킬 수 있습니다.\n최적의 조합을 발견하고, 강력한 마법을 부여하고, 위험한 몬스터를 상대로 부대를 승리로 이끄세요!",
+          "url": "https://store.epicgames.com/ko/p/knightica-3be45c",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1nuxm.png",
+          "start_date": "2026-11-13 01:00"
+        }
+      ],
+      "epic_discounted": []
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {},
+    "ja": {}
+  },
+  "email_subject": {
+    "ko": "오늘의 인사이트를 준비 중입니다",
+    "en": "Global Gaming Insights & More",
+    "ja": "今週のゲームインサイト"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ]
+}
