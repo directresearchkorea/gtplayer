@@ -171,7 +171,7 @@ def render_base_layout(title: str, description: str, lang: str, canonical_path: 
             "modal_sub_desc": "매일 아침 7시, 글로벌 게임 산업 인사이트와 신작 소식을 메일함으로 바로 전해드립니다.",
             "modal_sub_placeholder": "이메일 주소 입력 (name@example.com)",
             "modal_sub_btn": "무료 구독하기 →",
-            "modal_sub_success": "🎉 구독 신청이 완료되었습니다! 매일 아침 메일함을 확인해 주세요.",
+            "modal_sub_success": "🎉 구독 신청이 완료되었습니다!<br>매일 아침 메일함을 확인해 주세요.",
             "modal_sub_error": "⚠️ 올바른 이메일 주소를 입력해 주세요.",
         },
         "en": {
@@ -186,7 +186,7 @@ def render_base_layout(title: str, description: str, lang: str, canonical_path: 
             "modal_sub_desc": "Get global game industry insights and latest news delivered to your inbox every morning at 7 AM.",
             "modal_sub_placeholder": "Enter your email (name@example.com)",
             "modal_sub_btn": "Subscribe for Free →",
-            "modal_sub_success": "🎉 You're subscribed! Check your inbox every morning.",
+            "modal_sub_success": "🎉 You're subscribed!<br>Check your inbox every morning.",
             "modal_sub_error": "⚠️ Please enter a valid email address.",
         },
         "ja": {
@@ -201,7 +201,7 @@ def render_base_layout(title: str, description: str, lang: str, canonical_path: 
             "modal_sub_desc": "毎朝7時、世界のゲーム業界インサイトと最新ニュースをあなたの受信トレイに直接お届けします。",
             "modal_sub_placeholder": "メールアドレスを入力 (name@example.com)",
             "modal_sub_btn": "無料で購読する →",
-            "modal_sub_success": "🎉 購読が完了しました！ 毎朝受信トレイをご確認ください。",
+            "modal_sub_success": "🎉 購読が完了しました！<br>毎朝受信トレイをご確認ください。",
             "modal_sub_error": "⚠️ 有効なメールアドレスを入力してください。",
         },
     }
