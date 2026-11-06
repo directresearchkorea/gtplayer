@@ -12,7 +12,7 @@ from datetime import datetime, timedelta
 from pathlib import Path
 
 from dotenv import load_dotenv
-from google import genai
+from llm_client import genai
 from google.genai.types import GenerateContentConfig
 import time
 
@@ -65,6 +65,8 @@ def init_gemini():
 def build_calendar_prompt(candidates: list, yesterday_sent: list) -> str:
     """Build the LLM prompt for calendar section curation."""
 
+    from llm_client import trim_candidates
+    candidates = trim_candidates(candidates)
     candidate_lines = []
     for i, c in enumerate(candidates, 1):
         cross = f" | 교차출현: {c['cross_reference_count']}곳" if c.get("cross_reference_count", 0) > 0 else ""
@@ -176,6 +178,8 @@ def curate_calendar(client, candidates: list, yesterday_sent: list) -> list:
 # ---------------------------------------------------------------------------
 
 def build_dynamic_events_prompt(candidates: list) -> str:
+    from llm_client import trim_candidates
+    candidates = trim_candidates(candidates)
     candidate_lines = []
     for i, c in enumerate(candidates, 1):
         candidate_lines.append(

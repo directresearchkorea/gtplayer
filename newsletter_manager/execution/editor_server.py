@@ -247,7 +247,7 @@ class EditorHandler(http.server.SimpleHTTPRequestHandler):
                     self._json_response(500, {'ok': False, 'error': 'GEMINI_API_KEY가 .env에 없습니다'})
                     return
                 
-                from google import genai
+                from llm_client import genai
                 client = genai.Client(api_key=api_key)
                 
                 sections = data.get('sections', {})

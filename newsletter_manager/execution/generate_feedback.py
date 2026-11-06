@@ -13,7 +13,7 @@ from datetime import datetime
 from pathlib import Path
 
 from dotenv import load_dotenv
-from google import genai
+from llm_client import genai
 
 # ---------------------------------------------------------------------------
 # Configuration

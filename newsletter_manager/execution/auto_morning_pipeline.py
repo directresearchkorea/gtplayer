@@ -26,7 +26,7 @@ def translate_edition(data):
         log.error("GEMINI_API_KEY가 .env에 없습니다")
         return data
 
-    from google import genai
+    from llm_client import genai
     client = genai.Client(api_key=api_key)
 
     sections = data.get('sections', {})

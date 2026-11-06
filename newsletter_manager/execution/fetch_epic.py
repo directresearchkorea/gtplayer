@@ -16,7 +16,7 @@ from pathlib import Path
 KST = timezone(timedelta(hours=9))
 
 from dotenv import load_dotenv
-from google import genai
+from llm_client import genai
 
 SCRIPT_DIR = Path(__file__).parent
 ENV_PATH = SCRIPT_DIR / ".." / ".." / ".env"

@@ -7,7 +7,7 @@ import json
 import logging
 from pathlib import Path
 from dotenv import load_dotenv
-from google import genai
+from llm_client import genai
 
 SCRIPT_DIR = Path(__file__).parent
 TMP_DIR = SCRIPT_DIR / ".." / ".." / ".tmp"

@@ -110,7 +110,9 @@ def generate_linkedin_post(ctx):
         log.error("GEMINI_API_KEY가 .env에 없습니다.")
         return None
 
-    from google import genai
+    import sys as _sys, pathlib as _pl
+    _sys.path.insert(0, str(_pl.Path(__file__).resolve().parents[2] / 'newsletter_manager' / 'execution'))
+    from llm_client import genai
     client = genai.Client(api_key=api_key)
     post_url = build_post_url(ctx["num"])
 

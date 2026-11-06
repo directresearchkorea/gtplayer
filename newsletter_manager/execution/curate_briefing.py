@@ -12,7 +12,7 @@ from datetime import datetime
 from pathlib import Path
 
 from dotenv import load_dotenv
-from google import genai
+from llm_client import genai
 import time
 
 # ---------------------------------------------------------------------------
@@ -65,6 +65,8 @@ def build_briefing_prompt(
 ) -> str:
     """Build the LLM prompt for briefing section curation."""
 
+    from llm_client import trim_candidates
+    candidates = trim_candidates(candidates)
     candidate_lines = []
     for i, c in enumerate(candidates, 1):
         cross = f" | 교차출현: {c['cross_reference_count']}곳" if c.get("cross_reference_count", 0) > 0 else ""
