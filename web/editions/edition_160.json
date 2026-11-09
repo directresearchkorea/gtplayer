@@ -430,5 +430,47 @@
     "en",
     "ja"
   ],
-  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: Cloud Streaming Revolution💥 and Sol Enchant Review Analysis!. Key context: The Transformative Shifts in the Gaming Industry: Cloud Streaming and the New Era of Battle Royale. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters."
+  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: Cloud Streaming Revolution💥 and Sol Enchant Review Analysis!. Key context: The Transformative Shifts in the Gaming Industry: Cloud Streaming and the New Era of Battle Royale. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters.",
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": false,
+          "text": "클라우드 게임 혁명🔥, 배틀라이더 다시 시작本人得<! #Kin肉マン #GTPlayer>",
+          "error": "Posting failed or blocked"
+        }
+      },
+      "updated_at": "2026-11-10T06:38:51.998878"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "11월 10일 오늘의 게임 소식 🎮\n🚀 📰 [뉴스] 세가&아トラス, 배틀라이ダープ로그램 재개\n📅 📅 [출시] 데스페라도 '스카이워크 2' 출시 연기, 네오위즈 인디게임 전시\n👉 ✍️ [인사이트] MS, 클라우드 스트리밍과 배틀로얄의 새로운 국면\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임덕후 #게임추천 #인디게임 #신작게임 #배틀라이더 #데스페라도 #네오위즈 #MS게임패스 #클라우드스트리밍 #스카이워크2 #스플래시 #신작게임소식 #인사드 #전설인스피레이션 #게임문화축제 #게임산업 #클라ウ드게임 #게임업계동향",
+          "image_paths": [
+            "web/instagram/edition_160/card_cover.png",
+            "web/instagram/edition_160/card_news.png",
+            "web/instagram/edition_160/card_calendar.png",
+            "web/instagram/edition_160/card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "4026870593215433804_39332818166",
+            "url": "https://www.instagram.com/p/DfiUXghEoxM/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-11-10T06:40:05.451617"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Cloud Streaming Revolution💥 and Sol Enchant Review Analysis!\n\nDiscover the latest in cloud gaming and dive into the thrilling review of Sol Enchant! 🎮✨\n\nhttps://www.gtplayer.net/edition-160-en/",
+        "error": null
+      },
+      "updated_at": "2026-11-10T06:40:57.385459"
+    }
+  }
 }
