@@ -1,0 +1,250 @@
+{
+  "num": "159",
+  "date": "2026-11-09",
+  "status": "published",
+  "schedule": {
+    "date": "2026-11-09",
+    "time": "22:01",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [],
+      "events": [
+        {
+          "name": "2026 KEL 이터널 리턴",
+          "note": "인천 웨이브가 최종 우승",
+          "venue": "온라인",
+          "date": "2026-11-08 ~ 09-11",
+          "tag": "e스포츠",
+          "website": "https://www.gamemeca.com/view.php?gid=1783185"
+        },
+        {
+          "name": "지스타 2026",
+          "note": "",
+          "venue": "한국 부산 벡스코",
+          "date": "2026-11-18~2026-11-22",
+          "tag": "오프라인 행사",
+          "d_day_str": "D-9",
+          "website": "https://www.gstar.or.kr"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "스마일게이트, '미래시: 보이지 않는 미래' 일본 코믹마켓 출품",
+          "source": "인벤",
+          "time": "2026-11-09",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=323165"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "Nvidia CEO, 중국 침투 의혹 논란",
+          "source": "PC Gamer",
+          "time": "2026-11-09",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/gaming-industry/nvidia-ceo-jensen-huang-admits-to-affair-with-alleged-chinese-spy-as-company-board-launches-investigation/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "PECVPee, 2026년 11월 출시 예정",
+          "source": "Steam",
+          "time": "2026-11-09",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/5086460/PeeVPee/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "섀도우버스 월즈 비욘드, 고질라 콜라보",
+          "source": "인벤",
+          "time": "2026-11-09",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=323158"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "Nvidia CEO 의혹, 회사 조사",
+          "source": "IGN India",
+          "time": "2026-11-09",
+          "country": "IN",
+          "article_url": "https://in.ign.com/nvidia-rtx-5090/276464/nvidia-launches-investigation-into-ceo-jensen-huang-following-affair-with-alleged-chinese-spy"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "중국 시장의 불확실성과 게임 산업의 대응",
+      "intro": "Nvidia CEO의 중국 시장 침투 의혹은 게임 업계에 어떤 파급효과를 미칠까요?",
+      "points": "Nvidia CEO의 의혹은 중국의 빠르게 성장하는 게임 시장에 대한 접근성 문제를 제기합니다. 이는 중국 시장의 규제와 관행에 대한 깊은 이해 없이는 성공하기 어렵다는 경고입니다.\n\n이와 같은 상황은 게임사들에게 새로운 전략적 접근을 요구하며, 국내외 제휴 및 협력의 중요성을 더욱 강조합니다. 특히, 중국에서 직접 사업을 운영하지 않는 기업들에게는 파트너십을 통한 진입이 유일한 해결책이 될 수 있습니다.\n\n**중국 시장은 여전히 게임 업계에서 가장 중요한 성장 동력이지만, 그 접근은 복잡하고 양면적입니다.**\n\n이러한 불확실성 속에서, 게임사들은 어떻게 중국 시장에 접근하고 성공할 수 있을까요?"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": true,
+      "items": [],
+      "title": "One Vulnerability AI Can't Exploit",
+      "score": 10948,
+      "url": "https://i.redd.it/21tzwec6880i1.png",
+      "preview_img": "https://i.redd.it/21tzwec6880i1.png",
+      "permalink": "https://redd.it/1xqc49d",
+      "subreddit": "pcmasterrace",
+      "author": "jhovudu1",
+      "num_comments": 0,
+      "what_happened": "AI가 취약점을 발견했지만, 그것이 특정한 이유로 AI가 활용할 수 없는 상황이라는 내용으로, 이는 인간과 AI가 정보 접근에 따른 혜택과 한계를 제시하면서도, 동시에 상황에 따라 인간의 통찰력이 AI보다 뛰어나다는 메시지를 전달합니다. 이 밈은 직관적인 그림과 훌륭한 시각적 유머 코드를 통해 이런 복잡한 주제를 명료하게 표현하여 많은 공감을 받았습니다.",
+      "one_liner": "인간의 직관, AI는 따라올 수 없군요! 🤖🤔"
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "events.0.name": "2026 KEL Eternal Return",
+        "events.0.note": "Incheon Wave wins the final championship",
+        "events.0.venue": "Online",
+        "events.1.name": "GSTAR 2026",
+        "events.1.venue": "Busan Expo Center, South Korea"
+      },
+      "briefing": {
+        "items.0.title": "Smilegate, 'Metaverse: Unseen Future' to Participate in Japan Comic Market",
+        "items.0.source": "INVEN",
+        "items.0.time": "2026-11-09",
+        "items.1.title": "Nvidia CEO in Controversy Over China Infiltration Rumors",
+        "items.1.source": "PC Gamer",
+        "items.1.time": "2026-11-09 UTC",
+        "items.2.title": "PECVPee, Set to Launch in November 2026",
+        "items.2.source": "Steam",
+        "items.2.time": "2026-11-09",
+        "items.3.title": "Shadowverse Worlds Beyond, Godzilla Collaboration",
+        "items.3.source": "INVEN",
+        "items.3.time": "2026-11-09",
+        "items.4.title": "Nvidia CEO Under Investigation Over China Infiltration Allegations",
+        "items.4.source": "IGN India",
+        "items.4.time": "2026-11-09 UTC"
+      },
+      "drk": {
+        "title": "Uncertainty in the Chinese Market and the Game Industry's Response",
+        "intro": "The controversy surrounding Nvidia CEO's alleged infiltration into the Chinese market could have significant implications for the gaming industry.",
+        "points": "The allegations of the CEO raise the issue of accessibility to China's rapidly growing gaming market, which requires a deep understanding of its regulations and practices. This highlights the necessity for new strategic approaches and the importance of partnerships and collaborations, especially for companies that do not directly operate in China.\n\nWhile the Chinese market remains a critical driver of growth for the gaming industry, its approach is complex and multifaceted.\n\nIn this context, how can game companies successfully enter and operate in the Chinese market?"
+      },
+      "meme": {
+        "what_happened": "AI discovered a vulnerability, but the situation is such that AI cannot exploit it for a specific reason. This meme illustrates the benefits and limitations of information access between humans and AI while also highlighting that human insight can be superior to AI in certain situations. The meme effectively conveys this complex theme through a simple yet humorous visual code, gaining widespread resonance.",
+        "one_liner": "Human intuition is still unbeatable by AI! 🤖🤔"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "events.0.name": "2026 KEL イターナル リターン",
+        "events.0.note": "インチョン ウェイブが最終優勝",
+        "events.0.venue": "オンライン",
+        "events.1.name": "ジェスティア 2026",
+        "events.1.venue": "韓国 バusan ベックスコ"
+      },
+      "briefing": {
+        "items.0.title": "スマイルゲイト、'未来世: 隠れた未来' 日本 コミックマーケット出品",
+        "items.0.source": "インベン",
+        "items.0.time": "2026-11-09",
+        "items.1.title": "Nvidia CEO、中国 浸透疑惑論争",
+        "items.1.source": "PC Gamer",
+        "items.1.time": "2026-11-09",
+        "items.2.title": "PECVPee、2026年11月 発売予定",
+        "items.2.source": "Steam",
+        "items.2.time": "2026-11-09",
+        "items.3.title": "シャドウバース ワールズ ビヨンド、ゴジラ コラボ",
+        "items.3.source": "インベン",
+        "items.3.time": "2026-11-09",
+        "items.4.title": "Nvidia CEO疑惑、会社 調査",
+        "items.4.source": "IGN India",
+        "items.4.time": "2026-11-09"
+      },
+      "drk": {
+        "title": "中国 市場の不確実性とゲーム産業の対応",
+        "intro": "Nvidia CEOの中国 市場浸透疑惑は、ゲーム業界にどのような影響を及ぼすのでしょうか？",
+        "points": "Nvidia CEOの疑惑は、中国の急速に成長するゲーム市場に対するアクセス性の問題を提起します。これは、中国の規制と慣習の深い理解がないと成功するのが難しいという警告を含んでいます。\n\nこの状況は、ゲーム会社に新しい戦略的なアプローチを要求し、国内・海外提携および協力の重要性をより強調します。特に、中国で直接事業を運営していない企業にとって、パートナーシップを通じた進出が唯一の解決策になるかもしれません。\n\n**中国市場は、ゲーム業界にとってまだ最も重要な成長ドライバーですが、そのアクセスは複雑で二面的です。**\n\nこのような不確実性の中で、ゲーム会社はどのように中国市場にアクセスし、成功することができるのでしょうか？"
+      },
+      "meme": {
+        "what_happened": "AIが脆弱性を見つけたものの、それが特定の理由でAIが利用できない状況という内容であり、これは人間とAIが情報アクセスによる恩恵と限界を示すとともに、状況に応じて人間の洞察力がAIよりも優れているというメッセージを伝えるものです。このメモは、複雑なテーマを明快に表現し、多くの共感を獲得しました。",
+        "one_liner": "人間の直感、AIでは追いつかないですね！ 🤖🤔"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "중국 게임 시장, 불확실성 속에서 생존 전략 🌐🛡️",
+    "en": "Navigating Uncertainty in China's Game Market 🌐🛡️",
+    "ja": "不透明な中国ゲーム市場で生き残る戦略 🌐🛡️"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: Navigating Uncertainty in China's Game Market 🌐🛡️. Key context: Uncertainty in the Chinese Market and the Game Industry's Response. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters."
+}
