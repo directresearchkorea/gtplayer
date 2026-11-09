@@ -246,5 +246,47 @@
     "en",
     "ja"
   ],
-  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: Navigating Uncertainty in China's Game Market 🌐🛡️. Key context: Uncertainty in the Chinese Market and the Game Industry's Response. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters."
+  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: Navigating Uncertainty in China's Game Market 🌐🛡️. Key context: Uncertainty in the Chinese Market and the Game Industry's Response. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters.",
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": false,
+          "text": "중국 게임 시장 흔들리는 가운데! 🌍\n\n스마일게이트, 일본에서 '미래시' 전시회 참가! 🎁\n\nNvidia CEO 의혹 논란…中国企业市场风云突变！ 🌍\n\n《未来时：看不见的未来》参展日本Comic Market！ 🎁\n\nNvidia CEO受疑风波…",
+          "error": "Posting failed or blocked"
+        }
+      },
+      "updated_at": "2026-11-09T22:07:44.595543"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "11월 9일 오늘의 게임 소식 🎮\n\n📣 [뉴스] 스마일게이트, '미래시: 보이지 않는 미래' 일본 코믹마켓 출품\n📅 [출시] PECVPee, 2026년 11월 출시 예정\n✍️ [인사이트] Nvidia CEO의 중국 시장 침투 의혹, 게임 업계에 어떤 파급효과를 미칠까요?\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임덕후 #게임추천 #인디게임 #신작게임 #출시캘린더 #뉴스레터 #게임업계 #Nvidia #PECVPee #미래시 #코믹마켓 #중국게임시장 #게임시사 #게임업계동향 #인사이트 #드케이인사이트",
+          "image_paths": [
+            "web/instagram/edition_159/card_cover.png",
+            "web/instagram/edition_159/card_news.png",
+            "web/instagram/edition_159/card_calendar.png",
+            "web/instagram/edition_159/card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "4026613299147870049_39332818166",
+            "url": "https://www.instagram.com/p/DfhZ3Yvko9h/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-11-09T22:08:56.646888"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Navigating Uncertainty in China's Game Market 🌐🛡️\n\nSmilegate sets its sights on Japan's Comic Market with 'Metaverse: Unseen Future'; Nvidia CEO faces investigation over China infiltration rumors; PECVPee prepares for November launch; Shadowverse Worlds Beyond and Godzilla collaboration draw attention. The controversy surrounding Nvidia CEO's alleged infiltration into the Chinese market could have significant implications for the gaming industry.",
+        "error": null
+      },
+      "updated_at": "2026-11-09T22:09:49.872566"
+    }
+  }
 }
