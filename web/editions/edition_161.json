@@ -259,5 +259,47 @@
     "en",
     "ja"
   ],
-  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: No Game Pass? MS's New Cloud Streaming Future Revealed!🔮 (feat. Overwatch League Intro Track). Key context: A New Chapter for Cloud Streaming: Microsoft’s New Strategy without Game Pass. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters."
+  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: No Game Pass? MS's New Cloud Streaming Future Revealed!🔮 (feat. Overwatch League Intro Track). Key context: A New Chapter for Cloud Streaming: Microsoft’s New Strategy without Game Pass. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters.",
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": false,
+          "text": ".cloudflarestreaming的新未来来了，无需游戏通行证也能畅玩！🎉\nMS计划试水时间制云游戏，给玩家带来新选择！⏰\n「ドラゴンクエストRPG」封闭测试即将开始，不想错过！🎁\n#OverwatchLeague #雲游戏 #ドラゴンクエストRPG #GTPlayer😊",
+          "error": "Posting failed or blocked"
+        }
+      },
+      "updated_at": "2026-11-11T06:37:18.682981"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "11월 11일 오늘의 게임 소식 🎮\n📰 [뉴스] 오버워치 아시아 최고팀은? OWCS 아시아 파이널, 지스타 기간 개최\n📅 [출시] 「ドラゴンクエストRPG 魔界樹と導かれし島」,クローズドβテストを12月8日から15日まで開催\n📚 [인사이트] 클라ウ드 스트리밍의 새로운 장: 게임패스 없는 MS의 새로운 전략\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임dekhu #게임추천 #신작게임 #오버워치 #MS게임패스 #드래곤큐ест #타이탄fall #크로스파이어 #플레이스테이션 #엑스박스 #클라우드스트리밍 #인디게임 #NIGHTMAREOPERATOR #ドラゴンクエストRPG #ドラゴンクエスト #クローズドβテスト",
+          "image_paths": [
+            "web/instagram/edition_161/card_cover.png",
+            "web/instagram/edition_161/card_news.png",
+            "web/instagram/edition_161/card_calendar.png",
+            "web/instagram/edition_161/card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "4027594565125035484_39332818166",
+            "url": "https://www.instagram.com/p/Dfk4-r5klXc/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-11-11T06:38:33.808517"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "No Game Pass? MS's New Cloud Streaming Future Revealed!🔮 (feat. Overwatch League Intro Track)\n\nhttps://www.gtplayer.net/edition-161-en/",
+        "error": null
+      },
+      "updated_at": "2026-11-11T06:39:27.958261"
+    }
+  }
 }
