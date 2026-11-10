@@ -1,0 +1,263 @@
+{
+  "num": "161",
+  "date": "2026-11-11",
+  "status": "published",
+  "schedule": {
+    "date": "2026-11-11",
+    "time": "06:29",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "update",
+          "game": "에스테이트 섬과 함께 여행하는 네코마타",
+          "dev": "TamagawaSoft",
+          "date": "11월 10일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "TamagawaSoft가 2026년 11월 10일에 Steam에서 출시하는 2D 액션 악venture 게임.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/761/G076117/20261110018/",
+          "source_name": "4Gamer"
+        }
+      ],
+      "events": [
+        {
+          "name": "2026 오버워치 챔피언스 시리즈 아시아 파이널",
+          "note": "",
+          "venue": "부산 벡스코 오디토리움",
+          "date": "2026-11-20 ~ 2026-11-22",
+          "tag": "e스포츠",
+          "website": "https://www.inven.co.kr/webzine/news/?news=323198"
+        },
+        {
+          "name": "2026 리그 오브 레전드 월드 챔피언십 결승",
+          "note": "K/DA와 트루 데미지가 출연",
+          "venue": "온라인",
+          "date": "2026-11-15",
+          "tag": "e스포츠",
+          "website": "https://www.inven.co.kr/webzine/news/?news=323217"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "오버워치 아시아 최고팀은? OWCS 아시아 파이널, 지스타 기간 개최",
+          "source": "인벤",
+          "time": "2026-11-11",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=323198"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "MS, 게임패스 없는 시간제 클라우드 스트리밍 도입 검토",
+          "source": "PC Gamer",
+          "time": "2026-11-11",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/gaming-industry/playstation-plus-pc-app-is-being-shut-down-in-december-because-less-than-0-4-percent-of-eligible-subscribers-are-using-it/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "「ドラゴンクエストRPG　魔界樹と導かれし島」,クローズドβテストを12月8日から15日まで開催",
+          "source": "4Gamer",
+          "time": "2026-11-11",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/056/G105640/20261109024/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "「鉄拳8」，親子で戦うカンガルー「ロジャーJr.」を先行プレイ",
+          "source": "4Gamer",
+          "time": "2026-11-11",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/657/G065722/20261110044/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "「NIGHTMARE OPERATOR」のパブリッシャが集英社ゲームズに決定",
+          "source": "4Gamer",
+          "time": "2026-11-11",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/903/G090342/20261109044/"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "클라우드 스트리밍의 새로운 장: 게임패스 없는 MS의 새로운 전략",
+      "intro": "마이크로소프트가 게임패스 없이도 클라우드 스트리밍 서비스를 제공하려 한다. 이는 무엇을 의미할까요?\n",
+      "points": "마이크로소프트는 게임패스의 독점성 없이도 클라우드 스트리밍 서비스를 제공하는 새로운 전략을 고민하고 있습니다. 이번 결정은 클라우드 기반 게임 플랫폼의 경쟁력 강화와 더 많은 유저를 확보하기 위한 전략으로 보입니다.\n\n이러한 움직임은 클라우드 스트리밍 시장에서의 플랫폼 구조와 게임 소비 구조에 변화를 가져올 것입니다. 특히, 클라우드 기반 게임의 접근성을 높이고, 다양한 사용자에게 맞춤형 서비스를 제공하는 데 초점을 맞추고 있어 소비자 반응은 긍정적일 것으로 예상됩니다.\n\n**이 새로운 전략은 플랫폼 독점성을 넘어 더 많은 유저를 확보하는 데 중점을 둔다**는 것이 핵심입니다. 이는 기존 게임 플랫폼들의 경쟁력을 훼손할 가능성이 있으며, 새로운 유저층을 타겟으로 한 적극적인 마케팅 전략이 필요할 것으로 보입니다.\n\n이 변화는 게임 산업에서의 클라우드 스트리밍 서비스의 새로운 시대를 여는 것일까요? 또는 이는 단순히 기존 플랫폼들의 독점성을 해치려는 일시적인 움직임일까요? 독자 여러분의 생각을 궁금해합니다. 🤔"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": true,
+      "title": "Overwatch League Intro Soundtrack",
+      "channel": "Matheus Misumoto",
+      "videoId": "Bf6RzsgVbQ0",
+      "url": "https://www.youtube.com/watch?v=Bf6RzsgVbQ0",
+      "thumbnail": "https://i.ytimg.com/vi/Bf6RzsgVbQ0/hqdefault.jpg",
+      "comment": "오늘 퇴근길에 들으면 좋을 Overwatch League Intro Soundtrack! 이번 주말 경기를 앞두고 특별히 선정된 이 곡은 게임의 분위기를 완벽하게 표현합니다. Matheus Misumoto 채널의 음악이 게임을 더욱 멋지게 만들어줍니다. 오늘 하루를 마무리하며 이 곡을 들어보세요! 🎶🎯 #OverwatchLeague #게임음악",
+      "search_query": "Overwatch League Official Theme",
+      "ai_game_name": "Overwatch League",
+      "ai_reason": "오버워치의 대회인 Overwatch Contenders 아시아 파이널이 이번 주 주요 뉴스로 떴으며, 전 세계적인 인기 게임의 대회 음악을 들어보는 것은 즐거울 수 있습니다."
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Traveling with Nekomata on Estate Island",
+        "releases.0.note": "TamagawaSoft's 2D action adventure game to be released on Steam on November 10, 2026.",
+        "releases.0.dev": "TamagawaSoft",
+        "events.0.name": "2026 Overwatch Champions Series Asia Finals",
+        "events.0.venue": "Busan Bexco Auditorium",
+        "events.1.name": "2026 League of Legends World Championship Finals",
+        "events.1.note": "Featuring K/DA and True Damage",
+        "events.1.venue": "Online"
+      },
+      "briefing": {
+        "items.0.title": "Who will be the top team in Asia in Overwatch? OWCS Asia Finals to take place during G-Star",
+        "items.0.source": "Inven",
+        "items.0.time": "2026-11-11",
+        "items.1.title": "MS Considers Launching Time-Bound Cloud Streaming Without Game Pass",
+        "items.1.source": "PC Gamer",
+        "items.1.time": "2026-11-11",
+        "items.2.title": "「Dragon Quest RPG：The Tree of Demons and the Island Guided by Fate」, Closed Beta Test from December 8 to 15",
+        "items.2.source": "4Gamer",
+        "items.2.time": "2026-11-11",
+        "items.3.title": "「Tekken 8」, Kangaroo ‘Roger Jr.’, the Father and Son, Play Ahead of Release",
+        "items.3.source": "4Gamer",
+        "items.3.time": "2026-11-11",
+        "items.4.title": "Publisher of「NIGHTMARE OPERATOR」Decided to be集英社ゲームズ",
+        "items.4.source": "4Gamer",
+        "items.4.time": "2026-11-11"
+      },
+      "drk": {
+        "title": "A New Chapter for Cloud Streaming: Microsoft’s New Strategy without Game Pass",
+        "intro": "Microsoft is planning to offer cloud streaming services without a Game Pass. What does this mean?\n",
+        "points": "Microsoft is considering a new strategy to provide cloud streaming services without the exclusivity of the Game Pass. This move is seen as an effort to strengthen the competitiveness of cloud-based gaming platforms and attract more users.\n\nThis development is likely to bring changes to the structure of cloud streaming platforms and the way games are consumed. Focusing on increasing the accessibility of cloud-based games and providing personalized services to various users, this is expected to have a positive response from consumers.\n\n**The core of this new strategy is to secure more users beyond platform exclusivity.** This could potentially weaken the competitiveness of existing platforms and require an active marketing strategy targeting new user segments.\n\nThis change could mark a new era of cloud streaming services in the gaming industry, or it could be a temporary move to undermine the exclusivity of existing platforms. Your thoughts on this matter are eagerly awaited. 🤔"
+      },
+      "soundtrack": {
+        "title": "Overwatch League Intro Soundtrack",
+        "comment": "Listen to the Overwatch League Intro Soundtrack on your way home today! This specially selected track is perfect for setting the mood for the upcoming weekend matches. The music by Matheus Misumoto enhances the game experience. Enjoy this song to wrap up your day! 🎶🎯 #OverwatchLeague #GameMusic"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ネコマタと一緒に訪れる島旅行",
+        "releases.0.note": "TamagawaSoftが2026年11月10日にSteamで発売する2Dアクションアドベンチャーボムゲーム。",
+        "releases.0.dev": "TamagawaSoft",
+        "events.0.name": "2026オーバーウォッチチャンピオンシップシリーズアジアファイナル",
+        "events.0.venue": "釜山ベックスコオーディtorium",
+        "events.1.name": "2026リーグオブレジェンズワールドチャンピオンシップ決勝",
+        "events.1.note": "K/DAとTRUE DAMAGEが出演",
+        "events.1.venue": "オンライン"
+      },
+      "briefing": {
+        "items.0.title": "オーバーウォッチアジア最強チームは？OWCSアジアファイナル、2026年11月11日～12月10日開催",
+        "items.0.source": "インベント",
+        "items.0.time": "2026-11-11",
+        "items.1.title": "マイクロソフト、ゲームパスなしの時間制限付きクラウドストリーミング導入検討",
+        "items.1.source": "PC Gamer",
+        "items.1.time": "2026-11-11",
+        "items.2.title": "「ドラゴンクエストRPG 魔界樹と導かれし島」, 12月8日から15日までクローズドβテスト開催",
+        "items.2.source": "4Gamer",
+        "items.2.time": "2026-11-11",
+        "items.3.title": "「鉄拳8」，親子で戦うカンガルー「ロジャーJr.」を先行プレイ",
+        "items.3.source": "4Gamer",
+        "items.3.time": "2026-11-11",
+        "items.4.title": "「NIGHTMARE OPERATOR」のパブリッシャが集英社ゲームズに決定",
+        "items.4.source": "4Gamer",
+        "items.4.time": "2026-11-11"
+      },
+      "drk": {
+        "title": "ゲームパスなしの新たなクラウドストリーミング：マイクロソフトの新たな戦略",
+        "intro": "マイクロソフトがゲームパスなしでクラウドストリーミングサービスを提供する予定です。これは何を意味するのでしょうか？\n",
+        "points": "マイクロソフトはゲームパスの独占性なくでもクラウドストリーミングサービスを提供する新しい戦略を検討しています。この決定は、クラウドベースのゲームプラットフォームの競争力強化とより多くのユーザーを獲得するための戦略として見られます。\n\nこの動きは、クラウドストリーミング市場でのプラットフォーム構造とゲーム消費の構造に変化をもたらすでしょう。特に、クラウドベースのゲームのアクセス性を向上させ、さまざまなユーザーに向けたカスタマイズされたサービスを提供することに焦点を当てているため、消費者の反応は肯定的になると予想されます。\n\n**この新しい戦略は、プラットフォーム独占性を越えてより多くのユーザーを獲得する重点性を置く**ことが核心です。これは既存のゲームプラットフォームの競争力を損なう可能性があり、新しいユーザー層をターゲットにした積極的なマーケティング戦略が求められるでしょう。\n\nこの変化はゲーム産業におけるクラウドストリーミングサービスの新しい時代を开启するのでしょうか？またはこれは単に既存のプラットフォームの独占性を損なう一時的な動きでしょうか？読者の皆様のご意見をお待ちしております。 🤔"
+      },
+      "soundtrack": {
+        "title": "Overwatch League Intro Soundtrack",
+        "comment": "今日の帰宅途中に聴いても良いOverwatch League Intro Soundtrack！今週末の試合を前に特別に選曲されたこの曲は、ゲームの雰囲気を完璧に表現します。Matheus Misumotoチャンネルの音楽がゲームをさらに魅力的にします。今日の一日を締めくくってこの曲を聞いてみてください！ 🎶🎯 #OverwatchLeague #ゲーム音楽"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "게임패스 없어도 괜찮아? 클라우드 스트리밍의 새 미래🔮 (feat. 오버워치 리그 오프닝 트랙)",
+    "en": "No Game Pass? MS's New Cloud Streaming Future Revealed!🔮 (feat. Overwatch League Intro Track)",
+    "ja": "ゲームパスなくても大丈夫？新時代のクラウドストリーミング🔮 (feat. オーバーウATCHリーグ オープニングトラック)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: No Game Pass? MS's New Cloud Streaming Future Revealed!🔮 (feat. Overwatch League Intro Track). Key context: A New Chapter for Cloud Streaming: Microsoft’s New Strategy without Game Pass. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters."
+}
