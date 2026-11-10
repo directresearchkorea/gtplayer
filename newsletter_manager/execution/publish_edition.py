@@ -147,7 +147,7 @@ def render_header(ed, lang):
     sub_title = t['sub']
     
     return f"""<div class="nl-sec-head" style="background:#fff;padding:4px 16px 20px">
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse">
 <tr>
 <td valign="middle" style="font-size:18px;font-weight:900;letter-spacing:1px;color:#000;text-transform:uppercase">{sub_title}</td>
 <td align="right" valign="middle" class="gh-email-hide"><span style="{s_ko}">KO</span><span style="{s_en}">EN</span><span style="{s_ja}">JP</span></td>
@@ -288,7 +288,7 @@ def render_calendar(d, lang, tr):
         if url: game_tr += ' &nearr;'
         dev_tr = _tr_esc(tr, f"releases.{i}.dev", r.get("dev",""))
         mb = '0' if url else '6px'
-        h += f'''{wrap_op}<table width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#f9fafb;margin-bottom:{mb};border:1px solid #e5e7eb">
+        h += f'''{wrap_op}<table width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;background:#f9fafb;margin-bottom:{mb};border:1px solid #e5e7eb">
 <tr>
 <td width="56" align="center" valign="middle" style="background:#1f2937;color:#fff;padding:12px 4px;">
 <div style="font-size:13px;font-weight:800;line-height:1.2;margin:0">{dTop}</div>
@@ -317,7 +317,7 @@ def render_calendar(d, lang, tr):
             wrap_op = f'<a href="{url}" target="_blank" style="text-decoration:none;color:inherit;display:block;margin-bottom:6px;">' if url else ''
             wrap_cl = '</a>' if url else ''
             mb = '0' if url else '6px'
-            h += f'''{wrap_op}<table width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#fff7ed;border-left:2px solid #000;margin-bottom:{mb}">
+            h += f'''{wrap_op}<table width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;background:#f9fafb;border:1px solid #e5e7eb;border-left:2px solid #000;margin-bottom:{mb}">
 <tr>
 <td valign="middle" style="padding:14px 18px;">
 <div style="font-size:13px;font-weight:700;color:#111827;margin:0">{ev_name} <span style="font-size:11px;font-weight:400;color:#6b7280;">{ev_note}</span></div>
@@ -442,7 +442,7 @@ def render_newsletter_feedback(d, lang, tr, num="000"):
     
     return f'''<div class="nl-sec" style="background:#fafafa;padding:32px 16px;text-align:center;border-top:1px solid #e0e0e0">
 <div style="font-size:15px;font-weight:700;color:#111827;margin-bottom:20px">{q}</div>
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse"><tr>
 <td width="50%" align="center" style="padding:0 6px 0 0">
 <a href="{d["upLink"]}" target="_blank" style="display:block;background:#fff;border:2px solid #e0e0e0;padding:14px 8px;text-decoration:none;color:#111827;font-size:14px;font-weight:600;text-align:center">{up}</a>
 </td>

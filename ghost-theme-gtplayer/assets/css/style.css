@@ -222,6 +222,12 @@ body {
 .post-content .kg-html-card span,
 .post-content .kg-html-card a {
   all: revert;
+  box-sizing: border-box;
+}
+.post-content .kg-html-card table[width="100%"],
+.post-content .kg-html-card table {
+  width: 100%;
+  border-collapse: collapse;
 }
 .post-content .kg-html-card {
   max-width: 100%;

@@ -791,6 +791,11 @@ def render_post_page(edition_meta: dict, lang: str, prev_ed: dict | None, next_e
         newsletter_html = render_newsletter_html(data, lang, ghost_img_url=img_url or None)
 
     newsletter_html = inject_lang_links_into_newsletter_html(newsletter_html, num, avail_langs)
+    # 캘린더 행사/이벤트 카드 배경색(#fff7ed → #f9fafb) 및 100% 너비·테두리 포맷 통일
+    newsletter_html = newsletter_html.replace(
+        "background:#fff7ed;border-left:2px solid #000;",
+        "width:100%;border-collapse:collapse;background:#f9fafb;border:1px solid #e5e7eb;border-left:2px solid #000;",
+    )
 
     post_i18n = {
         "ko": {

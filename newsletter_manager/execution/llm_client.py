@@ -20,6 +20,7 @@ llm_client.py — `from google import genai` 대체용 LLM 프로바이더 스�
     - 이미지 입력(Part.from_bytes)은 무시하고 텍스트만 전달
 """
 import os
+import sys
 import json
 import urllib.request
 from pathlib import Path
@@ -33,6 +34,7 @@ except Exception:
 LLM_PROVIDER = os.getenv("LLM_PROVIDER", "gemini").strip().lower()
 OLLAMA_HOST = os.getenv("OLLAMA_HOST", "http://localhost:11434").rstrip("/")
 OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "qwen2.5:7b")
+OLLAMA_PRO_MODEL = os.getenv("OLLAMA_PRO_MODEL", "qwen2.5:14b")
 OLLAMA_NUM_CTX = int(os.getenv("OLLAMA_NUM_CTX", "32768"))
 OLLAMA_TIMEOUT = int(os.getenv("OLLAMA_TIMEOUT", "1800"))
 
@@ -128,8 +130,17 @@ class _OllamaModels:
         if temp is not None:
             options["temperature"] = temp
 
+        model_str = str(model or "").lower()
+        caller_script = Path(sys.argv[0]).name if sys.argv else ""
+        use_pro = (
+            "pro" in model_str
+            or "14b" in model_str
+            or caller_script in ("generate_insight.py", "generate_subject.py")
+        ) and bool(OLLAMA_PRO_MODEL)
+        selected_model = OLLAMA_PRO_MODEL if use_pro else OLLAMA_MODEL
+
         payload = {
-            "model": OLLAMA_MODEL,
+            "model": selected_model,
             "messages": [{"role": "user", "content": prompt}],
             "stream": False,
             "options": options,
@@ -139,16 +150,26 @@ class _OllamaModels:
         if sys_inst:
             payload["messages"].insert(0, {"role": "system", "content": str(sys_inst)})
 
-        req = urllib.request.Request(
-            f"{OLLAMA_HOST}/api/chat",
-            data=json.dumps(payload).encode("utf-8"),
-            headers={"Content-Type": "application/json"},
-        )
-        with urllib.request.urlopen(req, timeout=OLLAMA_TIMEOUT) as resp:
-            data = json.loads(resp.read().decode("utf-8"))
+        def _call_ollama(target_model):
+            payload["model"] = target_model
+            req = urllib.request.Request(
+                f"{OLLAMA_HOST}/api/chat",
+                data=json.dumps(payload).encode("utf-8"),
+                headers={"Content-Type": "application/json"},
+            )
+            with urllib.request.urlopen(req, timeout=OLLAMA_TIMEOUT) as resp:
+                return json.loads(resp.read().decode("utf-8"))
+
+        try:
+            data = _call_ollama(selected_model)
+        except Exception:
+            if selected_model != OLLAMA_MODEL:
+                data = _call_ollama(OLLAMA_MODEL)
+            else:
+                raise
         text = (data.get("message") or {}).get("content", "").strip()
         if not text:
-            raise RuntimeError(f"Empty response from Ollama ({OLLAMA_MODEL})")
+            raise RuntimeError(f"Empty response from Ollama ({selected_model})")
         return _Response(text)
 
 
