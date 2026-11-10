@@ -103,7 +103,8 @@ def build_briefing_prompt(
 {chr(10).join(calendar_lines) if calendar_lines else "(없음)"}
 
 ⚠️ 필수 필터링 및 큐레이션 규칙 (순서대로 엄격히 적용):
-- **[최우선] 중복 배제 강력 적용:** 어제 발송된 브리핑이나 오늘 캘린더 섹션 리스트에 이미 존재하는 게임이나 사건/주제는 **절대로 또 선정하지 마세요**. 언론사나 출처(URL)가 달라도 같은 사건(예: 호라이즌 6 발표 등)을 다루고 있다면 무조건 제외해야 합니다! (이 규칙은 다른 어떤 규칙보다 우선합니다)
+- **[최우선 1] 당일 브리핑 목록 내부 중복 절대 금지:** 선정하는 브리핑 항목들 안에서도 같은 게임, 같은 인물/기업 사건(예: PC Gamer와 IGN이 동시에 보도한 동일 이슈)이 **절대 2개 이상 중복으로 들어가지 않게 딱 1건만** 선정하세요!
+- **[최우선 2] 어제 브리핑 및 오늘 캘린더 중복 배제:** 어제 발송된 브리핑이나 오늘 캘린더 섹션 리스트에 이미 존재하는 게임이나 사건/주제는 **절대로 또 선정하지 마세요**. 언론사나 출처(URL)가 달라도 같은 사건(예: 호라이즌 6 발표 등)을 다루고 있다면 무조건 제외해야 합니다! (이 규칙은 다른 어떤 규칙보다 우선합니다)
 - **선정 기준:** 반드시 '새로운 소식(발표, 업데이트, 신작 출시, 이벤트 등)'을 담은 팩트 위주의 기사여야 합니다. [반응이 좋은 게임, 인사 이동, 소비자 평가, 순위 및 기록, 업계적으로 의미가 큰 뉴스]를 우선하세요. **특히 실제 출시일이 오늘 기준 3일 초과로 남아 상단 캘린더 섹션에서 다루지 못한 화제의 대형 신작 출시 발표 및 예정 소식(예: '갓 오브 워 신작 발표', '내년 출시 예정 대작' 등)은 적극적으로 이 뉴스 브리핑 섹션에 포함시켜야 합니다.**
 - **제외 기준:** 단순 트렌드나 영향이 불명확한 뉴스, 리뷰, 특정 게임 플레이 팁, 개발자 인터뷰, 오피니언, 칼럼 형태의 기사는 제외하세요. (PC/콘솔/모바일 게임 외의 하드웨어나 영화 관련 뉴스도 제외)
 - **국가 배분:** 인도/일본/한국을 각각 2개씩 선별하고, 글로벌(GLOBAL) 뉴스를 1~2개 포함하세요. (총 7건 내외)
@@ -134,6 +135,75 @@ def build_briefing_prompt(
     return prompt
 
 
+
+def deduplicate_briefing_items(items: list) -> list:
+    """동일한 이슈/인물/게임이 브리핑 목록 내에 2개 이상 중복 선정된 경우 1개만 남김."""
+    import re
+    from difflib import SequenceMatcher
+
+    STOPWORDS = {"신작", "출시", "발표", "공개", "예정", "업데이트", "게임", "이슈", "논란", "의혹", "공식", "진행", "개최", "실시"}
+
+    def extract_keywords(text: str, url: str = "") -> set:
+        clean = re.sub(r"[^0-9A-Za-z가-힣\s]", " ", text.lower())
+        words = set()
+        for w in clean.split():
+            # 조사 제거
+            w = re.sub(r"(은|는|이|가|을|를|의|에|서|로|과|와|도|만)$", "", w)
+            if len(w) >= 2 and w not in STOPWORDS:
+                words.add(w)
+        # URL 슬러그의 핵심 영문 키워드도 보조 추출
+        slug_words = [
+            sw for sw in re.findall(r"[a-z]{4,}", (url or "").lower())
+            if sw not in {"https", "http", "www", "html", "news", "view", "article", "articles", "games", "gaming", "industry", "webzine", "inven", "gamemeca", "famitsu", "pcgamer", "steampowered", "store"}
+        ]
+        return words, set(slug_words)
+
+    unique = []
+    seen_urls = set()
+    seen_meta = []
+
+    for item in items:
+        if not isinstance(item, dict):
+            continue
+        url = (item.get("article_url") or "").strip()
+        title = (item.get("title") or "").strip()
+        if not title:
+            continue
+        if url and url in seen_urls:
+            continue
+
+        title_kws, slug_kws = extract_keywords(title, url)
+        is_dup = False
+        for prev_title, prev_tkws, prev_skws in seen_meta:
+            # 1) 제목 유사도 검사
+            if SequenceMatcher(None, title.lower(), prev_title.lower()).ratio() >= 0.55:
+                is_dup = True
+                break
+            # 2) 제목 핵심 키워드 2개 이상 겹침
+            if len(title_kws & prev_tkws) >= 2:
+                is_dup = True
+                break
+            # 3) 제목 핵심 키워드 1개 이상 겹치면서 URL 영문 슬러그 키워드도 2개 이상 겹침 (타 매체 동일 외신 번역 기사)
+            if len(title_kws & prev_tkws) >= 1 and len(slug_kws & prev_skws) >= 2:
+                is_dup = True
+                break
+            # 4) 영문 URL 슬러그 핵심 키워드가 3개 이상 겹침 (예: nvidia, jensen, huang, investigation)
+            if len(slug_kws & prev_skws) >= 3:
+                is_dup = True
+                break
+
+        if is_dup:
+            log.info(f"🔄 중복 브리핑 이슈 자동 제거: {title} ({item.get('source', '')})")
+            continue
+
+        if url:
+            seen_urls.add(url)
+        seen_meta.append((title, title_kws, slug_kws))
+        unique.append(item)
+
+    return unique
+
+
 def curate_briefing(
     client,
     candidates: list,
@@ -158,7 +228,8 @@ def curate_briefing(
                     text = text.rsplit("```", 1)[0]
 
                 items = json.loads(text)
-                log.info(f"Briefing: Selected {len(items)} items")
+                items = deduplicate_briefing_items(items)
+                log.info(f"Briefing: Selected {len(items)} unique items")
                 return items
 
             except Exception as e:
