@@ -263,10 +263,10 @@ def main():
                 log.warning(f"Failed to delete {m_file}: {e}")
 
     # Daily rotation logic for Media Sections
-    # 월(0): 밈, 화(1): 유저 반응 분석(GTcrawling/GTanalysis), 수(2): BGM, 목(3): 트레일러, 금(4): 에픽무료
+    # 월(0): 밈, 화(1): 보조 코너 생략(핵심 3대 섹션 집중), 수(2): BGM, 목(3): 트레일러, 금(4): 에픽무료
     media_scripts = [
         "fetch_meme.py",         # 월 (0)
-        "generate_feedback.py",  # 화 (1) — 컨셉아트 갤러리(generate_scene.py) 대체
+        None,                    # 화 (1) — 보조 미디어 코너 생략 (캘린더 + 브리핑 + Dr. K 집중)
         "fetch_soundtrack.py",   # 수 (2)
         "fetch_trailer.py",      # 목 (3)
         "fetch_epic.py"          # 금 (4)
@@ -280,8 +280,11 @@ def main():
         
     target_media_script = media_scripts[weekday % 5]
     
-    log.info(f"📅 오늘의 요일 인덱스: {weekday} -> 실행할 미디어: {target_media_script}")
-    run_script(target_media_script)
+    if target_media_script:
+        log.info(f"📅 오늘의 요일 인덱스: {weekday} -> 실행할 미디어: {target_media_script}")
+        run_script(target_media_script)
+    else:
+        log.info(f"📅 오늘의 요일 인덱스: {weekday} -> 보조 미디어 코너 생략 (핵심 섹션만 발행)")
 
     # 뉴스레터 제목(Subject) 생성은 미디어 파일들(.tmp/*_output.json)이 다 모인 직후에 실행
     run_script("generate_subject.py")

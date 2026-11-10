@@ -133,7 +133,7 @@
       ]
     },
     "feedback": {
-      "enabled": true,
+      "enabled": false,
       "game": "",
       "period": "",
       "count": "0",
@@ -143,93 +143,7 @@
       "neu": 0,
       "neg": 0,
       "keywords": [],
-      "comments": [],
-      "items": [
-        {
-          "game": "솔 인챈트 (Sol Enchant)",
-          "period": "최근 커뮤니티 동향",
-          "count": "2,000",
-          "sources": "인벤",
-          "score": "3.2",
-          "pos": 15,
-          "neu": 80,
-          "neg": 5,
-          "keywords": [
-            {
-              "text": "🎮 게임플레이·전투",
-              "positive": true
-            },
-            {
-              "text": "⚙️ 최적화·버그",
-              "positive": true
-            },
-            {
-              "text": "💬 운영·커뮤니티",
-              "positive": true
-            },
-            {
-              "text": "📖 스토리·연출",
-              "positive": true
-            },
-            {
-              "text": "💰 BM·과금 모델",
-              "positive": true
-            }
-          ],
-          "comments": [
-            {
-              "text": "안녕하세요, 인벤입니다. 대한민국 No.1 게임 웹진 '인벤'에 오신 것을 환영합니다! 인벤은 온라인, 콘솔, 모바일 게임을 아우르는 뉴스와 정보를 제공하고, 게",
-              "positive": true
-            },
-            {
-              "text": "SOL : 인챈트의 '신의 권능', 어떤 힘이 있을 것 같나요? 티저 영상에서 공개된 신의 권능은 특정 지역의 적들에게 메테오를 날려 한 방에 없애버리는 강력함을",
-              "positive": true
-            },
-            {
-              "text": "안녕하세요! 솔: 인챈트 인벤입니다. 8월 26일(수), 솔: 인챈트에 'GENESIS: 신의 전장' 업데이트와 함께 신규 클래스 힐러가 찾아왔습니다. 첫 대규모",
-              "positive": true
-            }
-          ]
-        },
-        {
-          "game": "메이플스토리",
-          "period": "최근 커뮤니티 동향",
-          "count": "500",
-          "sources": "인벤",
-          "score": "3.3",
-          "pos": 35,
-          "neu": 45,
-          "neg": 20,
-          "keywords": [
-            {
-              "text": "🎮 인게임 플레이",
-              "positive": true
-            },
-            {
-              "text": "⚖️ 밸런스·패치",
-              "positive": false
-            },
-            {
-              "text": "💬 커뮤니티 화제",
-              "positive": true
-            }
-          ],
-          "comments": [
-            {
-              "text": "매크로 판매 친구 혹시나헀는데 역시나",
-              "positive": true
-            },
-            {
-              "text": "골큐로 공30퍼 날먹 ㅋㅋㅋㅋㅋ",
-              "positive": true
-            },
-            {
-              "text": "저에겐 뚱뚱한 여자친구가 있습니다.",
-              "positive": true
-            }
-          ]
-        }
-      ]
+      "comments": []
     },
     "drk": {
       "enabled": true,
@@ -325,28 +239,6 @@
         "items.6.source": "IGN",
         "items.6.time": "2026-11-10"
       },
-      "feedback": {
-        "items.0.game": "Sol Enchant (Sol Enchant)",
-        "items.0.period": "Recent Community Trends",
-        "items.0.sources": "Inven",
-        "items.0.keywords.0.text": "🎮 Gameplay·Combat",
-        "items.0.keywords.1.text": "⚙️ Optimization·Bug Fixes",
-        "items.0.keywords.2.text": "💬 Operations·Community",
-        "items.0.keywords.3.text": "📖 Story·Direction",
-        "items.0.keywords.4.text": "💰 BM·Monetization Model",
-        "items.0.comments.0.text": "Hello, Inven! Welcome to Korea's No.1 game magazine, Inven. Inven provides news and information covering online, console, and mobile games. We offer in-depth analysis, reviews, and insights into the gaming world.",
-        "items.0.comments.1.text": "SOL : What kind of 'Divine Power' will Sol Enchant's 'Genesis: The Battlefield of Gods' reveal? The teaser has hinted at the power that can obliterate enemies in a single shot with meteorites in a specific region.",
-        "items.0.comments.2.text": "Hello! Sol: Enchant Inven here. On August 26, 2026 (Wednesday), a new healer class was introduced with the Genesis: The Battlefield of Gods update.",
-        "items.1.game": "Maplestory",
-        "items.1.period": "Recent Community Trends",
-        "items.1.sources": "Inven",
-        "items.1.keywords.0.text": "🎮 In-Game Play",
-        "items.1.keywords.1.text": "⚖️ Balance·Patch",
-        "items.1.keywords.2.text": "💬 Community Topics",
-        "items.1.comments.0.text": "I was worried about the sale of macros, but it turned out to be a no-go.",
-        "items.1.comments.1.text": "Golgur, 30% critical hits are eating up my gold, lol.",
-        "items.1.comments.2.text": "I have a chubby girlfriend."
-      },
       "drk": {
         "title": "The Transformative Shifts in the Gaming Industry: Cloud Streaming and the New Era of Battle Royale",
         "intro": "With the leap in cloud streaming and the collaboration of BattleGround with the music group 'Ave,' what does this signify for the direction of the gaming industry?",
@@ -390,28 +282,6 @@
         "items.6.title": "バトルグラウンド, 「アイブ」コラボチャレンジ開始",
         "items.6.source": "IGN",
         "items.6.time": "2026-11-10"
-      },
-      "feedback": {
-        "items.0.game": "ソルエンチャント (Sol Enchant)",
-        "items.0.period": "最近のコミュニティ動向",
-        "items.0.sources": "インベン",
-        "items.0.keywords.0.text": "🎮 ゲームプレイ・バトル",
-        "items.0.keywords.1.text": "⚙️ 最適化・バグ",
-        "items.0.keywords.2.text": "💬 运营・社区",
-        "items.0.keywords.3.text": "📖 故事・演出",
-        "items.0.keywords.4.text": "💰 BM・消费模式",
-        "items.0.comments.0.text": "こんにちは、インベンです。韓国No.1ゲームウェブジン「インベン」へようこそ！インベンはオンライン、コンソール、モバイルゲームのニュースと情報を提供し",
-        "items.0.comments.1.text": "SOL : ソルエンチャントの「神の力」、どのような力があるでしょう？ティーザー映像で公開された神の力は特定地域の敵にメテオを降らせ、一撃で倒す強さを",
-        "items.0.comments.2.text": "こんにちは！ソル: エンチャントインベンです。8月26日（水）、ソル: エンチャントに「GENESIS: 神の戦場」アップデートと同時に新たなクラスヒーラーが登場しました。",
-        "items.1.game": "マップルストーリー",
-        "items.1.period": "最近のコミュニティ動向",
-        "items.1.sources": "インベン",
-        "items.1.keywords.0.text": "🎮 インゲインプレイ",
-        "items.1.keywords.1.text": "⚖️ バランス・パッチ",
-        "items.1.keywords.2.text": "💬 コミュニティの話題",
-        "items.1.comments.0.text": "マクロ販売の友人、心配しましたが、やっぱり...",
-        "items.1.comments.1.text": "ゴールキュロで公30パーセントを食べていたよ ㅋㅋㅋㅋㅋ",
-        "items.1.comments.2.text": "私には太った彼女がいます。"
       },
       "drk": {
         "title": "ゲーム産業の変化: クラウドストリーミングとバトルロードの新しい局面",
