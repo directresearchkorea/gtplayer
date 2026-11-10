@@ -335,7 +335,10 @@ def render_calendar(d, lang, tr):
 def render_briefing(d, lang, tr):
     h = f'<div class="nl-sec" style="background:#fff;padding:28px 16px;border-top:1px solid #e0e0e0">'
     h += f'<h2 style="font-size:22px;font-weight:900;color:#000;margin:0 0 20px 0;padding-bottom:14px;border-bottom:1px solid #e0e0e0">{_st(lang,"briefing")}</h2>'
-    for i, item in enumerate(d.get('items', [])):
+    tag_order = {'이슈': 0, '출시': 1, '업데이트': 2, '인사이동': 3, '할인': 4, '펀딩': 5, '인수합병': 6, '법률': 7, '행사': 8}
+    indexed_items = list(enumerate(d.get('items', [])))
+    indexed_items.sort(key=lambda pair: (tag_order.get(pair[1].get('tag', ''), 99), pair[0]))
+    for i, item in indexed_items:
         tag = _tt(lang, item.get('tag', ''))
         tp_colors = {'출시':('#dcfce7','#15803d'),'업데이트':('#dbeafe','#1e40af'),'할인':('#fee2e2','#b91c1c'),
                      '인사이동':('#fef9c3','#854d0e'),'펀딩':('#ede9fe','#6d28d9'),'이슈':('#fce7f3','#be185d'),

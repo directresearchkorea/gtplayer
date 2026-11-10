@@ -40,15 +40,6 @@
       "enabled": true,
       "items": [
         {
-          "category": "release",
-          "tag": "출시",
-          "title": "스마일게이트, '미래시: 보이지 않는 미래' 일본 코믹마켓 출품",
-          "source": "인벤",
-          "time": "2026-11-09",
-          "country": "KR",
-          "article_url": "https://www.inven.co.kr/webzine/news/?news=323165"
-        },
-        {
           "category": "issue",
           "tag": "이슈",
           "title": "Nvidia CEO, 중국 침투 의혹 논란",
@@ -56,6 +47,15 @@
           "time": "2026-11-09",
           "country": "GLOBAL",
           "article_url": "https://www.pcgamer.com/gaming-industry/nvidia-ceo-jensen-huang-admits-to-affair-with-alleged-chinese-spy-as-company-board-launches-investigation/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "스마일게이트, '미래시: 보이지 않는 미래' 일본 코믹마켓 출품",
+          "source": "인벤",
+          "time": "2026-11-09",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=323165"
         },
         {
           "category": "release",
@@ -165,21 +165,18 @@
         "events.1.venue": "Busan Expo Center, South Korea"
       },
       "briefing": {
-        "items.0.title": "Smilegate, 'Metaverse: Unseen Future' to Participate in Japan Comic Market",
-        "items.0.source": "INVEN",
-        "items.0.time": "2026-11-09",
-        "items.1.title": "Nvidia CEO in Controversy Over China Infiltration Rumors",
-        "items.1.source": "PC Gamer",
-        "items.1.time": "2026-11-09 UTC",
+        "items.0.title": "Nvidia CEO in Controversy Over China Infiltration Rumors",
+        "items.0.source": "PC Gamer",
+        "items.0.time": "2026-11-09 UTC",
+        "items.1.title": "Smilegate, 'Metaverse: Unseen Future' to Participate in Japan Comic Market",
+        "items.1.source": "INVEN",
+        "items.1.time": "2026-11-09",
         "items.2.title": "PECVPee, Set to Launch in November 2026",
         "items.2.source": "Steam",
         "items.2.time": "2026-11-09",
         "items.3.title": "Shadowverse Worlds Beyond, Godzilla Collaboration",
         "items.3.source": "INVEN",
-        "items.3.time": "2026-11-09",
-        "items.4.title": "Nvidia CEO Under Investigation Over China Infiltration Allegations",
-        "items.4.source": "IGN India",
-        "items.4.time": "2026-11-09 UTC"
+        "items.3.time": "2026-11-09"
       },
       "drk": {
         "title": "Uncertainty in the Chinese Market and the Game Industry's Response",
@@ -200,21 +197,18 @@
         "events.1.venue": "韓国 バusan ベックスコ"
       },
       "briefing": {
-        "items.0.title": "スマイルゲイト、'未来世: 隠れた未来' 日本 コミックマーケット出品",
-        "items.0.source": "インベン",
+        "items.0.title": "Nvidia CEO、中国 浸透疑惑論争",
+        "items.0.source": "PC Gamer",
         "items.0.time": "2026-11-09",
-        "items.1.title": "Nvidia CEO、中国 浸透疑惑論争",
-        "items.1.source": "PC Gamer",
+        "items.1.title": "スマイルゲイト、'未来世: 隠れた未来' 日本 コミックマーケット出品",
+        "items.1.source": "インベン",
         "items.1.time": "2026-11-09",
         "items.2.title": "PECVPee、2026年11月 発売予定",
         "items.2.source": "Steam",
         "items.2.time": "2026-11-09",
         "items.3.title": "シャドウバース ワールズ ビヨンド、ゴジラ コラボ",
         "items.3.source": "インベン",
-        "items.3.time": "2026-11-09",
-        "items.4.title": "Nvidia CEO疑惑、会社 調査",
-        "items.4.source": "IGN India",
-        "items.4.time": "2026-11-09"
+        "items.3.time": "2026-11-09"
       },
       "drk": {
         "title": "中国 市場の不確実性とゲーム産業の対応",

@@ -229,6 +229,8 @@ def curate_briefing(
 
                 items = json.loads(text)
                 items = deduplicate_briefing_items(items)
+                tag_order = {"이슈": 0, "출시": 1, "업데이트": 2, "인사이동": 3, "할인": 4, "펀딩": 5, "인수합병": 6, "법률": 7, "행사": 8}
+                items.sort(key=lambda x: tag_order.get(x.get("tag", ""), 99))
                 log.info(f"Briefing: Selected {len(items)} unique items")
                 return items
 

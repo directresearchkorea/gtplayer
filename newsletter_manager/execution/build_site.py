@@ -618,9 +618,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     document.addEventListener('click', function () {{ dd.classList.remove('show'); }});
   }}
 
-  // Web Click Tracker (Cloudflare Worker)
+  // Web Click Tracker (Cloudflare Worker / Google Apps Script)
   document.addEventListener('DOMContentLoaded', function() {{
-    document.querySelectorAll('a[href*="workers.dev"]').forEach(function(link) {{
+    document.querySelectorAll('a[href*="workers.dev"], a[href*="script.google.com"]').forEach(function(link) {{
       try {{
         var urlObj = new URL(link.href);
         var originalUrl = urlObj.searchParams.get('url');

@@ -68,15 +68,6 @@
       "enabled": true,
       "items": [
         {
-          "category": "release",
-          "tag": "출시",
-          "title": "세가&아틀러스, 배틀라이더 프로그램 재개",
-          "source": "4Gamer",
-          "time": "2026-11-10",
-          "country": "JP",
-          "article_url": "https://www.4gamer.net/games/991/G999106/20261109034/"
-        },
-        {
           "category": "issue",
           "tag": "이슈",
           "title": "데스페라도, 신작 '스카이워크 2' 출시 연기",
@@ -86,15 +77,6 @@
           "article_url": "https://in.ign.com/deathstranded-2/276527/deathstranded-2-release-date-postponed-to-2027"
         },
         {
-          "category": "release",
-          "tag": "출시",
-          "title": "네오위즈, 게임문화축제서 인디게임 2종 전시",
-          "source": "인벤",
-          "time": "2026-11-10",
-          "country": "KR",
-          "article_url": "https://www.inven.co.kr/webzine/news/?news=323146"
-        },
-        {
           "category": "issue",
           "tag": "이슈",
           "title": "MS, 게임패스 없는 시간제 클라우드 스트리밍 도입 검토",
@@ -102,6 +84,33 @@
           "time": "2026-11-10",
           "country": "GLOBAL",
           "article_url": "https://www.pcgamer.com/gaming-industry/ms-game-pass-less-time-based-cloud-streaming/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "바이오웨어, 30년 역사 폐쇄, 신작 개발 중단",
+          "source": "IGN India",
+          "time": "2026-11-10",
+          "country": "IN",
+          "article_url": "https://in.ign.com/bio-wares-collapse-announcement/276519/bio-wares-collapse-announcement"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "세가&아틀러스, 배틀라이더 프로그램 재개",
+          "source": "4Gamer",
+          "time": "2026-11-10",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/991/G999106/20261109034/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "네오위즈, 게임문화축제서 인디게임 2종 전시",
+          "source": "인벤",
+          "time": "2026-11-10",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=323146"
         },
         {
           "category": "release",
@@ -120,15 +129,6 @@
           "time": "2026-11-10",
           "country": "GLOBAL",
           "article_url": "https://www.ign.com/articles/battle-royale-battlegrounds-ive-event-launches"
-        },
-        {
-          "category": "issue",
-          "tag": "이슈",
-          "title": "바이오웨어, 30년 역사 폐쇄, 신작 개발 중단",
-          "source": "IGN India",
-          "time": "2026-11-10",
-          "country": "IN",
-          "article_url": "https://in.ign.com/bio-wares-collapse-announcement/276519/bio-wares-collapse-announcement"
         }
       ]
     },
@@ -303,26 +303,26 @@
         "events.1.venue": "Bangkok"
       },
       "briefing": {
-        "items.0.title": "Sega & Atlus, Resuming Battle Rider Program",
-        "items.0.source": "4Gamer",
+        "items.0.title": "Death Squad, Delaying Release of New Game 'Skywalk 2'",
+        "items.0.source": "IGN India",
         "items.0.time": "2026-11-10",
-        "items.1.title": "Death Squad, Delaying Release of New Game 'Skywalk 2'",
-        "items.1.source": "IGN India",
+        "items.1.title": "Microsoft, Considering Time-Limited Cloud Streaming Without Game Pass",
+        "items.1.source": "PC Gamer",
         "items.1.time": "2026-11-10",
-        "items.2.title": "Neowiz, Exhibiting Indie Games at Game Culture Festival",
-        "items.2.source": "Inven",
+        "items.2.title": "BioWare, Closing 30-Year History, Halting Development of New Titles",
+        "items.2.source": "IGN India",
         "items.2.time": "2026-11-10",
-        "items.3.title": "Microsoft, Considering Time-Limited Cloud Streaming Without Game Pass",
-        "items.3.source": "PC Gamer",
+        "items.3.title": "Sega & Atlus, Resuming Battle Rider Program",
+        "items.3.source": "4Gamer",
         "items.3.time": "2026-11-10",
-        "items.4.title": "Splash, Releasing New Game 'Superhero Story'",
-        "items.4.source": "IGN India",
+        "items.4.title": "Neowiz, Exhibiting Indie Games at Game Culture Festival",
+        "items.4.source": "Inven",
         "items.4.time": "2026-11-10",
-        "items.5.title": "BattleGround, Starting 'Ave' Collaboration Challenge",
-        "items.5.source": "IGN",
+        "items.5.title": "Splash, Releasing New Game 'Superhero Story'",
+        "items.5.source": "IGN India",
         "items.5.time": "2026-11-10",
-        "items.6.title": "BioWare, Closing 30-Year History, Halting Development of New Titles",
-        "items.6.source": "IGN India",
+        "items.6.title": "BattleGround, Starting 'Ave' Collaboration Challenge",
+        "items.6.source": "IGN",
         "items.6.time": "2026-11-10"
       },
       "feedback": {
@@ -369,26 +369,26 @@
         "events.1.venue": "バンコク"
       },
       "briefing": {
-        "items.0.title": "セガ&アトラス, バトルライダー・プログラム再開",
-        "items.0.source": "4Gamer",
+        "items.0.title": "デスペラドロ, 新作「スカイウォーク2」発売延期",
+        "items.0.source": "IGN India",
         "items.0.time": "2026-11-10",
-        "items.1.title": "デスペラドロ, 新作「スカイウォーク2」発売延期",
-        "items.1.source": "IGN India",
+        "items.1.title": "マイクロソフト, ゲームパスなしの時間制限付きクラウドストリーミング導入検討",
+        "items.1.source": "PC Gamer",
         "items.1.time": "2026-11-10",
-        "items.2.title": "ネオウィーズ, ゲーム文化祭でインディゲーム2タイトル展示",
-        "items.2.source": "インベン",
+        "items.2.title": "バイオウェア, 30年歴史廃止, 新作開発停止",
+        "items.2.source": "IGN India",
         "items.2.time": "2026-11-10",
-        "items.3.title": "マイクロソフト, ゲームパスなしの時間制限付きクラウドストリーミング導入検討",
-        "items.3.source": "PC Gamer",
+        "items.3.title": "セガ&アトラス, バトルライダー・プログラム再開",
+        "items.3.source": "4Gamer",
         "items.3.time": "2026-11-10",
-        "items.4.title": "スプラッシュ, 新作「スーパーヒーローストーリー」発売",
-        "items.4.source": "IGN India",
+        "items.4.title": "ネオウィーズ, ゲーム文化祭でインディゲーム2タイトル展示",
+        "items.4.source": "インベン",
         "items.4.time": "2026-11-10",
-        "items.5.title": "バトルグラウンド, 「アイブ」コラボチャレンジ開始",
-        "items.5.source": "IGN",
+        "items.5.title": "スプラッシュ, 新作「スーパーヒーローストーリー」発売",
+        "items.5.source": "IGN India",
         "items.5.time": "2026-11-10",
-        "items.6.title": "バイオウェア, 30年歴史廃止, 新作開発停止",
-        "items.6.source": "IGN India",
+        "items.6.title": "バトルグラウンド, 「アイブ」コラボチャレンジ開始",
+        "items.6.source": "IGN",
         "items.6.time": "2026-11-10"
       },
       "feedback": {
