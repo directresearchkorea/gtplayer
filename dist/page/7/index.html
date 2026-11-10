@@ -1,0 +1,634 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M3429V8X');</script>
+<!-- End Google Tag Manager -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PNH9SFR5HK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-PNH9SFR5HK');
+</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GTPlayer — 게임 산업 인사이트, 매일 아침 7시</title>
+<meta name="description" content="게임 캘린더, 신작 유저 피드백, 업계 뉴스를 매일 아침 7시에 받아보세요.">
+<link rel="canonical" href="https://www.gtplayer.net/page/7/">
+<link rel="icon" type="image/png" href="../../favicon.png">
+<meta property="og:site_name" content="GTPlayer">
+<meta property="og:title" content="GTPlayer — 게임 산업 인사이트, 매일 아침 7시">
+<meta property="og:description" content="게임 캘린더, 신작 유저 피드백, 업계 뉴스를 매일 아침 7시에 받아보세요.">
+<meta property="og:url" content="https://www.gtplayer.net/page/7/">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="GTPlayer — 게임 산업 인사이트, 매일 아침 7시">
+<meta name="twitter:description" content="게임 캘린더, 신작 유저 피드백, 업계 뉴스를 매일 아침 7시에 받아보세요.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../assets/css/style.css">
+<style>
+.sub-overlay {
+  display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+  background: rgba(0,0,0,0.65); z-index: 1001;
+  align-items: center; justify-content: center; padding: 20px;
+  backdrop-filter: blur(4px);
+}
+.sub-overlay.active { display: flex; }
+.sub-modal {
+  background: #ffffff; width: 100%; max-width: 440px;
+  position: relative; border-radius: 12px;
+  box-shadow: 0 20px 48px rgba(0,0,0,0.3);
+  padding: 36px 28px 28px; text-align: center;
+  border: 1px solid #e5e7eb;
+}
+.sub-modal .sub-close {
+  position: absolute; top: 14px; right: 14px;
+  background: none; border: none; color: #9ca3af; cursor: pointer;
+  padding: 6px; display: flex; align-items: center; justify-content: center;
+  border-radius: 6px; transition: color .15s, background .15s;
+}
+.sub-modal .sub-close:hover { color: #111827; background: #f3f4f6; }
+.sub-modal-icon { font-size: 38px; margin-bottom: 12px; line-height: 1; }
+.sub-modal-title { font-size: 20px; font-weight: 800; color: #111827; margin: 0 0 8px; letter-spacing: -0.5px; }
+.sub-modal-desc { font-size: 13px; line-height: 1.5; color: #6b7280; margin: 0 0 22px; word-break: keep-all; }
+.sub-modal-form { display: flex; flex-direction: column; gap: 10px; text-align: left; }
+.sub-modal-input {
+  width: 100%; padding: 13px 16px; font-size: 14px;
+  border: 1px solid #d1d5db; border-radius: 8px;
+  outline: none; font-family: 'Inter', sans-serif;
+  box-sizing: border-box; transition: border-color .15s;
+}
+.sub-modal-input:focus { border-color: #111827; }
+.sub-modal-btn {
+  width: 100%; padding: 13px 16px; font-size: 14px; font-weight: 700;
+  background: #111827; color: #ffffff; border: none; border-radius: 8px;
+  cursor: pointer; transition: background .15s;
+}
+.sub-modal-btn:hover { background: #374151; }
+.sub-modal-msg-success {
+  display: none; padding: 14px; background: #ecfdf5; color: #065f46;
+  border: 1px solid #a7f3d0; border-radius: 8px; font-size: 13px; font-weight: 600;
+  text-align: center; line-height: 1.4; word-break: keep-all;
+}
+.sub-modal-msg-error {
+  display: none; padding: 12px; background: #fef2f2; color: #991b1b;
+  border: 1px solid #fecaca; border-radius: 8px; font-size: 13px; font-weight: 600;
+  text-align: center;
+}
+form[data-members-form="subscribe"].success .sub-modal-msg-success { display: block; }
+form[data-members-form="subscribe"].success .sub-modal-input,
+form[data-members-form="subscribe"].success .sub-modal-btn { display: none; }
+form[data-members-form="subscribe"].error .sub-modal-msg-error { display: block; }
+</style>
+<script>
+  if (!localStorage.getItem('langSelectBoxSelected')) {
+    const currentPath = window.location.pathname;
+    const basePath = currentPath.indexOf('/gtplayer') === 0 ? '/gtplayer' : '';
+    const isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(navigator.userAgent);
+    if (!isBot && (currentPath === '/' || currentPath === '/gtplayer/' || currentPath === '/gtplayer')) {
+      fetch('https://ipapi.co/json/')
+        .then(response => response.json())
+        .then(data => {
+          const country = data.country_code;
+          if (country === 'KR') {
+            // Korean default
+          } else if (country === 'JP') {
+            window.location.replace(basePath + '/ja/');
+          } else {
+            window.location.replace(basePath + '/en/');
+          }
+        })
+        .catch(error => console.error("Error fetching location data", error));
+    }
+  }
+</script>
+</head>
+<body class="home-template tag-hash-lang-ko">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M3429V8X"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header class="site-header">
+  <a href="../../" class="logo">
+    <img src="../../favicon.png" alt="GTPlayer" class="logo-img">
+    <span class="logo-text">GT<span>Player</span></span>
+  </a>
+  <div class="header-right">
+    <button class="header-search-btn" id="headerSearchBtn" aria-label="Search">
+      <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+        <circle cx="11" cy="11" r="8" />
+        <path d="m21 21-4.35-4.35" />
+      </svg>
+      <span class="search-text" id="headerSearchText">검색...</span>
+    </button>
+
+    <button type="button" class="btn-sub" id="headerSubBtn">구독하기</button>
+
+    <div class="lang-selector">
+      <button class="lang-btn" id="langToggle">🌐 <span id="currentLang">KO</span> ▾</button>
+      <div class="lang-dropdown" id="langDropdown">
+        <a href="../../" class="lang-option" data-lang="ko" onclick="localStorage.setItem('langSelectBoxSelected','ko')">🇰🇷 한국어</a>
+        <a href="../../en/" class="lang-option" data-lang="en" onclick="localStorage.setItem('langSelectBoxSelected','en')">🇺🇸 English</a>
+        <a href="../../ja/" class="lang-option" data-lang="ja" onclick="localStorage.setItem('langSelectBoxSelected','ja')">🇯🇵 日本語</a>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- Search Overlay -->
+<div class="search-overlay" id="searchOverlay">
+  <div class="search-modal">
+    <div class="search-modal-header">
+      <input type="text" class="search-input-lg" id="searchInputLg" placeholder="포스트 검색..." autofocus>
+      <button class="search-close" id="searchClose">
+        <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <path d="M18 6L6 18M6 6l12 12" />
+        </svg>
+      </button>
+    </div>
+    <div class="search-body">
+      <div class="search-label" id="searchHeaderLabel">POSTS</div>
+      <div class="search-results" id="searchResults"></div>
+    </div>
+  </div>
+</div>
+
+<!-- Subscribe Overlay -->
+<div class="sub-overlay" id="subOverlay">
+  <div class="sub-modal">
+    <button class="sub-close" id="subClose" aria-label="Close">
+      <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+        <path d="M18 6L6 18M6 6l12 12" />
+      </svg>
+    </button>
+    <div class="sub-modal-content">
+      <div class="sub-modal-icon">✉️</div>
+      <h2 class="sub-modal-title">GTPlayer 뉴스레터 무료 구독</h2>
+      <p class="sub-modal-desc">매일 아침 7시, 글로벌 게임 산업 인사이트와 신작 소식을 메일함으로 바로 전해드립니다.</p>
+      <form class="sub-modal-form" data-members-form="subscribe">
+        <input type="email" class="sub-modal-input" placeholder="이메일 주소 입력 (name@example.com)" required autocomplete="email">
+        <button type="submit" class="sub-modal-btn">무료 구독하기 →</button>
+        <div class="sub-modal-msg-success">🎉 구독 신청이 완료되었습니다!<br>매일 아침 메일함을 확인해 주세요.</div>
+        <div class="sub-modal-msg-error">⚠️ 올바른 이메일 주소를 입력해 주세요.</div>
+      </form>
+    </div>
+  </div>
+</div>
+
+<main>
+<!-- HERO -->
+<section class="hero" id="subscribe-section">
+  <div class="hero-eyebrow">Daily Game Intelligence</div>
+  <h1>게임 인사이트,<br><em>매일 아침 7시</em></h1>
+  <p class="hero-sub">PC · 콘솔 · 모바일 · 업계 뉴스 · Dr. K 코멘트</p>
+  <div class="hero-subscribe-form">
+    <form data-members-form="subscribe">
+      <div class="hero-email-wrap">
+        <input data-members-email type="email" name="email" class="hero-email-input" placeholder="jamie@example.com" required>
+        <button type="submit" class="hero-email-btn">구독하기</button>
+      </div>
+      <div class="message-success">구독 신청이 완료되었습니다! 매일 아침 7시에 만나요.</div>
+      <div class="message-error" data-members-error></div>
+    </form>
+  </div>
+  <p class="hero-note">스팸 없음 · 언제든 해지 가능</p>
+</section>
+
+<div class="page">
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">06.29</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3분 읽기</span>
+    </div>
+    <a href="../../edition-070/" class="edition-link">
+      <h3 class="edition-title">#070: 우리가 사랑한 그 게임이 절대 망하지 않고 살아남는 비결 ⏳✨</h3>
+      <p class="edition-excerpt">시간을 거스르는 IP의 힘: 지속 가능한 게임의 조건 — 12년 전 출시된 인디 게임이 스팀 동접자 최고치를 경신하고, 20년 된 클래식 게임이 엔진 교체로 새로운 도약을 준비합니다.
+유행의 주기가 극도로 짧아진 지금, 시장의 거장들이 보여주는 &#x27;지속 가능한 흥행&#x27;의 비결은 무엇일까요?</p>
+    </a>
+  </article>
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">06.26</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3분 읽기</span>
+    </div>
+    <a href="../../edition-069/" class="edition-link">
+      <h3 class="edition-title">#069: 맨날 &#x27;섭종&#x27;하는 라이브 게임의 종말 📉 (feat. 롤러코스터 타이쿤 3 무료 배포 🎢)</h3>
+      <p class="edition-excerpt">영원한 서비스는 없다: 라이브 서비스의 몰락과 IP 자산의 귀환 — 수천억 원을 투입한 &#x27;영원한 게임&#x27;이 하루아침에 서비스를 종료하고 개발사가 무너지는 시대입니다. 🎮
+급변하는 시장에서 게이머들의 마음을 붙잡고 살아남는 진짜 게임의 무기는 무엇일까요? 🤔</p>
+    </a>
+  </article>
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">06.10</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3분 읽기</span>
+    </div>
+    <a href="../../edition-068/" class="edition-link">
+      <h3 class="edition-title">#068: 오늘의 인사이트를 준비 중입니다</h3>
+      <p class="edition-excerpt">오늘의 인사이트를 준비 중입니다 — 기술적인 문제로 인해 인사이트 생성이 지연되고 있습니다.</p>
+    </a>
+  </article>
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">06.09</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3분 읽기</span>
+    </div>
+    <a href="../../edition-067/" class="edition-link">
+      <h3 class="edition-title">#067: 오늘의 인사이트를 준비 중입니다</h3>
+      <p class="edition-excerpt">오늘의 인사이트를 준비 중입니다 — 기술적인 문제로 인해 인사이트 생성이 지연되고 있습니다.</p>
+    </a>
+  </article>
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">06.08</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3분 읽기</span>
+    </div>
+    <a href="../../edition-066/" class="edition-link">
+      <h3 class="edition-title">#066: 오늘의 인사이트를 준비 중입니다</h3>
+      <p class="edition-excerpt">오늘의 인사이트를 준비 중입니다 — 기술적인 문제로 인해 인사이트 생성이 지연되고 있습니다.</p>
+    </a>
+  </article>
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">06.05</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3분 읽기</span>
+    </div>
+    <a href="../../edition-065/" class="edition-link">
+      <h3 class="edition-title">#065: 오늘의 인사이트를 준비 중입니다</h3>
+      <p class="edition-excerpt">오늘의 인사이트를 준비 중입니다 — 기술적인 문제로 인해 인사이트 생성이 지연되고 있습니다.</p>
+    </a>
+  </article>
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">06.04</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3분 읽기</span>
+    </div>
+    <a href="../../edition-064/" class="edition-link">
+      <h3 class="edition-title">#064: 오늘의 인사이트를 준비 중입니다</h3>
+      <p class="edition-excerpt">오늘의 인사이트를 준비 중입니다 — 기술적인 문제로 인해 인사이트 생성이 지연되고 있습니다.</p>
+    </a>
+  </article>
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">06.03</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3분 읽기</span>
+    </div>
+    <a href="../../edition-063/" class="edition-link">
+      <h3 class="edition-title">#063: 거대 플랫폼에 칼 뽑아든 개발사들 ⚔️ (feat. 귀가 녹는 NTE 힐링 OST 🎧)</h3>
+      <p class="edition-excerpt">플랫폼 제국의 독점권과 개발사의 독립 전쟁 — 세계 최대 PC 플랫폼 밸브가 우월적 지위를 이용해 대형 개발사 유비소프트를 압박하고 나섰습니다.
+수수료를 둘러싼 플랫폼과 거대 개발사 간의 이 오랜 전쟁은 결국 누구의 승리로 끝나게 될까요?</p>
+    </a>
+  </article>
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">06.02</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3분 읽기</span>
+    </div>
+    <a href="../../edition-062/" class="edition-link">
+      <h3 class="edition-title">#062: ‘가성비’에 미친 게이머들 ⚡, 흔들리는 라이브 서비스 생존 공식 📉</h3>
+      <p class="edition-excerpt">고효율을 쫓는 게이머들, 라이브 서비스의 생존 공식이 바뀌다 — 수백 시간의 지루한 반복 플레이를 견뎌내던 게이머들은 이제 어디로 갔을까요?
+오늘날의 유저들은 극도의 효율성과 즉각적인 보상을 설계해 주는 게임에만 지갑과 시간을 열고 있습니다.</p>
+    </a>
+  </article>
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">06.01</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3분 읽기</span>
+    </div>
+    <a href="../../edition-061/" class="edition-link">
+      <h3 class="edition-title">#061: 내가 돈 주고 산 게임이 사라진다고? 🤔 &#x27;영원한 소유&#x27;가 사라진 시대의 진실 📉</h3>
+      <p class="edition-excerpt">영원한 소유란 없는 시대, 게임의 &#x27;수명&#x27;을 묻다 — 우리가 구매한 게임은 정말 온전히 우리의 것일까요?
+서비스 종료와 함께 사라지는 디지털 게임의 운명이 새로운 법안을 통해 거대한 변곡점을 맞이하고 있습니다.</p>
+    </a>
+  </article>
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">05.29</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3분 읽기</span>
+    </div>
+    <a href="../../edition-060/" class="edition-link">
+      <h3 class="edition-title">#060: 구세대 버린 &#x27;진짜&#x27; 차세대 게임의 시대가 왔다! 🚀 (feat. LONESTAR 무료 혜택)</h3>
+      <p class="edition-excerpt">과감한 &#x27;구세대 끊어내기&#x27;, 진짜 차세대 프리미엄 시대의 개막 — 수년 동안 발목을 잡던 구세대 콘솔이라는 모래주머니를 드디어 벗어던지기 시작했습니다.
+과연 타협 없는 기술력과 강력한 IP의 결합은 게이머들의 지갑을 어떻게 열고 있을까요?</p>
+    </a>
+  </article>
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">05.28</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3분 읽기</span>
+    </div>
+    <a href="../../edition-059/" class="edition-link">
+      <h3 class="edition-title">#059: 세대교체 바람 부는 게임 시장, 살아남을 명작 IP는? 🔄 (feat. &#x27;007 신작&#x27; DLSS 4.5 플레이 영상 🔥)</h3>
+      <p class="edition-excerpt">플랫폼과 기술의 세대교체, IP의 생명력을 시험하다 — 수년 동안 사랑받은 인기 IP가 새로운 기기와 최신 엔진을 만났을 때, 시장은 어떻게 반응할까요? 🔄
+단순한 이식을 넘어 게이머들의 지갑을 다시 열게 만들 다음 세대의 생존 전략을 분석합니다.</p>
+    </a>
+  </article>
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">05.27</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3분 읽기</span>
+    </div>
+    <a href="../../edition-058/" class="edition-link">
+      <h3 class="edition-title">#058: AI가 삼킨 게임 개발실 🤖 (feat. 온몸에 소름 돋는 헬블레이드 2 OST 🎧)</h3>
+      <p class="edition-excerpt">효율성과 인간의 공존: AI 도입과 구조조정의 갈림길에 선 게임 업계 — 기술 혁신으로 무장한 AI가 사무실을 채우는 동안, 다른 한쪽에서는 구조조정에 반대하는 노동자들의 목소리가 울려 퍼집니다. 생존을 위해 극단적인 효율을 쫓는 오늘날 게임 산업의 이면을 들여다봅니다.</p>
+    </a>
+  </article>
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">05.26</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3분 읽기</span>
+    </div>
+    <a href="../../edition-057/" class="edition-link">
+      <h3 class="edition-title">#057: 선 넘는 역대급 콜라보의 등장! 🤯 (feat. 이번 주 스팀 무료 게임 🎁)</h3>
+      <p class="edition-excerpt">장르와 매체의 경계를 허무는 IP 협업, 게임 소비 구조의 패러다임을 바꾸다 — 철권에 등장한 한마 유지로와 데바데의 제이슨, 그리고 J리그를 만난 블루 아카이브의 공통점은 무엇일까요?
+단순한 이벤트를 넘어 게임의 생명력을 무한히 연장하는 &#x27;IP 융합&#x27;의 시대, 우리는 이 거대한 흐름에</p>
+    </a>
+  </article>
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">05.25</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3분 읽기</span>
+    </div>
+    <a href="../../edition-056/" class="edition-link">
+      <h3 class="edition-title">#056: 게임계를 삼키러 온 언리얼 엔진 6 👾 (feat. 오늘의 게이머 밈)</h3>
+      <p class="edition-excerpt">언리얼 엔진 6가 던진 화두: 개발 도구를 넘어 플랫폼 생태계의 지배자로 — 수억 달러의 개발비와 수년의 개발 기간이 더 이상 게임의 성공을 보장하지 않는 시대입니다.
+게임 생태계의 지반을 흔들 새로운 엔진의 등장은 시장을 어떻게 바꾸어 놓을까요?</p>
+    </a>
+  </article>
+  <nav class="pagination">
+    <a class="page-btn" href="../../page/6/">← 이전</a>
+    <span class="page-num">7 / 11</span>
+    <a class="page-btn" href="../../page/8/">다음 →</a>
+  </nav>
+</div>
+</main>
+
+<footer class="site-footer">
+  <div class="foot-logo">GT<span>Player</span></div>
+  <div class="foot-sub" id="footerDesc">게임 산업 인사이트, 매일 아침 7시</div>
+  <div class="foot-lang">
+    <a href="../../" class="lbtn" onclick="localStorage.setItem('langSelectBoxSelected','ko')">한국어</a>
+    <a href="../../en/" class="lbtn" onclick="localStorage.setItem('langSelectBoxSelected','en')">English</a>
+    <a href="../../ja/" class="lbtn" onclick="localStorage.setItem('langSelectBoxSelected','ja')">日本語</a>
+  </div>
+  <div class="foot-links">
+    <button type="button" id="footerSubBtn" style="background:none;border:none;color:inherit;font:inherit;cursor:pointer;padding:0;">구독하기</button>
+    <a href="../../" id="footerArchiveBtn">에디션 아카이브</a>
+  </div>
+  <div class="foot-copy">&copy; 2026 GTPlayer. All rights reserved.</div>
+</footer>
+
+<script>
+(function () {
+  var currentLangCode = 'ko';
+  var BASE_PATH = window.location.pathname.indexOf('/gtplayer') === 0 ? '/gtplayer' : '';
+  var SEARCH_LOG_URL = 'https://script.google.com/macros/s/AKfycbztDYnHRRoHNpUt07_SOl-COmJ-7A1MAvVMTAD51dL4nvjAF9BEDxgM-SMUxQ5h18mBaQ/exec';
+  var SUBSCRIBE_URL = 'https://script.google.com/macros/s/AKfycby6G0lpTZ8c8mBBmYhBMfY04hWaH3xa1IjZV4L6OVjLjG1_7dDCs-k2vqF6hGMvzPo6/exec';
+  var loggedQueries = {};
+  var currentLocation = null;
+
+  async function logSearchQuery(query, resultsCount) {
+    if (!SEARCH_LOG_URL || loggedQueries[query]) return;
+    loggedQueries[query] = true;
+    try {
+      if (!currentLocation) {
+        var response = await fetch('https://ipapi.co/json/');
+        currentLocation = await response.json();
+      }
+      fetch(SEARCH_LOG_URL, {
+        method: 'POST',
+        mode: 'no-cors',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          query: query,
+          resultsCount: resultsCount,
+          language: currentLangCode || 'ko',
+          country: currentLocation.country_name || currentLocation.country_code,
+          city: currentLocation.city,
+          userAgent: navigator.userAgent
+        })
+      });
+    } catch (e) {}
+  }
+
+  var overlay = document.getElementById('searchOverlay');
+  var closeBtn = document.getElementById('searchClose');
+  var input = document.getElementById('searchInputLg');
+  var results = document.getElementById('searchResults');
+  var searchTimer = null;
+  var allPosts = null;
+
+  var subOverlay = document.getElementById('subOverlay');
+  var subCloseBtn = document.getElementById('subClose');
+
+  function openSubscribe() {
+    if (subOverlay) {
+      subOverlay.classList.add('active');
+      var emailInput = subOverlay.querySelector('input[type="email"]');
+      if (emailInput) setTimeout(function () { emailInput.focus(); }, 100);
+      document.body.style.overflow = 'hidden';
+    }
+  }
+
+  function closeSubscribe() {
+    if (subOverlay) {
+      subOverlay.classList.remove('active');
+      document.body.style.overflow = '';
+    }
+  }
+
+  function openSearch() {
+    overlay.classList.add('active');
+    input.value = '';
+    results.innerHTML = '';
+    setTimeout(function () { input.focus(); }, 100);
+    document.body.style.overflow = 'hidden';
+    if (!allPosts) loadAllPosts();
+  }
+
+  function closeSearch() {
+    overlay.classList.remove('active');
+    document.body.style.overflow = '';
+  }
+
+  document.addEventListener('DOMContentLoaded', function () {
+    var headerSearch = document.getElementById('headerSearchBtn');
+    if (headerSearch) headerSearch.addEventListener('click', openSearch);
+
+    var headerSub = document.getElementById('headerSubBtn');
+    if (headerSub) headerSub.addEventListener('click', openSubscribe);
+
+    var footerSub = document.getElementById('footerSubBtn');
+    if (footerSub) footerSub.addEventListener('click', openSubscribe);
+
+    if (subCloseBtn) subCloseBtn.addEventListener('click', closeSubscribe);
+    if (subOverlay) {
+      subOverlay.addEventListener('click', function (e) {
+        if (e.target === subOverlay) closeSubscribe();
+      });
+    }
+
+    // Subscribe Form Handler
+    document.querySelectorAll('form[data-members-form="subscribe"]').forEach(function (form) {
+      form.addEventListener('submit', function (e) {
+        e.preventDefault();
+        var emailInput = form.querySelector('input[type="email"]');
+        var email = emailInput ? emailInput.value.trim() : '';
+        if (!email || email.indexOf('@') === -1) {
+          form.classList.add('error');
+          return;
+        }
+        form.classList.remove('error');
+        fetch(SUBSCRIBE_URL + '?action=subscribe&lang=' + encodeURIComponent(currentLangCode) + '&email=' + encodeURIComponent(email), {
+          method: 'GET',
+          mode: 'no-cors',
+          keepalive: true
+        }).catch(function () {});
+        form.classList.add('success');
+      });
+    });
+  });
+
+  closeBtn.addEventListener('click', closeSearch);
+  overlay.addEventListener('click', function (e) {
+    if (e.target === overlay) closeSearch();
+  });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') {
+      closeSearch();
+      closeSubscribe();
+    }
+    if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+      e.preventDefault();
+      openSearch();
+    }
+  });
+
+  input.addEventListener('input', function () {
+    clearTimeout(searchTimer);
+    var q = input.value.trim();
+    if (q.length < 2) { results.innerHTML = ''; return; }
+    searchTimer = setTimeout(function () { filterPosts(q); }, 200);
+  });
+
+  function loadAllPosts() {
+    fetch(BASE_PATH + '/api/search.json')
+      .then(function (r) { return r.json(); })
+      .then(function (data) {
+        allPosts = (data.posts || []).filter(function (p) {
+          return !p.lang || p.lang === currentLangCode;
+        });
+        var q = input.value.trim();
+        if (q.length >= 2) filterPosts(q);
+      })
+      .catch(function () {
+        allPosts = [];
+        var errMsg = currentLangCode === 'en' ? 'Unable to load search data.' : (currentLangCode === 'ja' ? '検索データを読み込めませんでした。' : '검색 데이터를 불러올 수 없습니다.');
+        results.innerHTML = '<div class="search-no-results">' + errMsg + '</div>';
+      });
+  }
+
+  function filterPosts(query) {
+    if (!allPosts) { loadAllPosts(); return; }
+    var q = query.toLowerCase();
+    var filtered = allPosts.filter(function (p) {
+      return (p.title && p.title.toLowerCase().indexOf(q) !== -1) ||
+        (p.excerpt && p.excerpt.toLowerCase().indexOf(q) !== -1) ||
+        (p.plaintext && p.plaintext.toLowerCase().indexOf(q) !== -1);
+    });
+    renderResults(filtered, query);
+    logSearchQuery(query, filtered.length);
+  }
+
+  function escHtml(s) {
+    return (s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  }
+
+  function highlightMatch(text, query) {
+    if (!text) return '';
+    var safeText = escHtml(text);
+    var safeQ = escHtml(query).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    var regex = new RegExp('(' + safeQ + ')', 'gi');
+    return safeText.replace(regex, '<strong style="color:#000;">$1</strong>');
+  }
+
+  function renderResults(posts, query) {
+    if (posts.length === 0) {
+      var noResMsg = currentLangCode === 'en'
+        ? 'No results found for "' + escHtml(query) + '".'
+        : (currentLangCode === 'ja'
+          ? '「' + escHtml(query) + '」に一致する結果はありません。'
+          : '"' + escHtml(query) + '"에 대한 결과가 없습니다.');
+      results.innerHTML = '<div class="search-no-results">' + noResMsg + '</div>';
+      return;
+    }
+    var htmlStr = '';
+    posts.slice(0, 30).forEach(function (p) {
+      var excerpt = (p.excerpt || '').substring(0, 110) + '...';
+      var postUrl = (p.url && p.url.charAt(0) === '/') ? (BASE_PATH + p.url) : p.url;
+      htmlStr += '<a class="search-result-item" href="' + postUrl + '">' +
+        '<div class="search-result-title">🔎 ' + highlightMatch(p.title || '', query) + '</div>' +
+        '<div class="search-result-excerpt">' + highlightMatch(excerpt, query) + '</div></a>';
+    });
+    results.innerHTML = htmlStr;
+  }
+
+  // Language dropdown toggle
+  var btn = document.getElementById('langToggle');
+  var dd = document.getElementById('langDropdown');
+  if (btn && dd) {
+    btn.addEventListener('click', function (e) {
+      e.stopPropagation();
+      dd.classList.toggle('show');
+    });
+    document.addEventListener('click', function () { dd.classList.remove('show'); });
+  }
+
+  // Web Click Tracker (Cloudflare Worker / Google Apps Script)
+  document.addEventListener('DOMContentLoaded', function() {
+    document.querySelectorAll('a[href*="workers.dev"], a[href*="script.google.com"]').forEach(function(link) {
+      try {
+        var urlObj = new URL(link.href);
+        var originalUrl = urlObj.searchParams.get('url');
+        if (originalUrl) {
+          var currentSection = urlObj.searchParams.get('section') || 'unknown';
+          urlObj.searchParams.set('section', currentSection + '_web');
+          var backgroundTrackerUrl = urlObj.toString();
+          link.href = originalUrl;
+          link.addEventListener('click', function() {
+            fetch(backgroundTrackerUrl, {
+              method: 'GET',
+              mode: 'no-cors',
+              keepalive: true
+            }).catch(function(){});
+          });
+        }
+      } catch (e) {}
+    });
+  });
+})();
+</script>
+</body>
+</html>

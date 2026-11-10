@@ -1,0 +1,626 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M3429V8X');</script>
+<!-- End Google Tag Manager -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PNH9SFR5HK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-PNH9SFR5HK');
+</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GTPlayer — ゲームインサイト、毎朝7時にお届け</title>
+<meta name="description" content="PC・コンソール・モバイル・業界ニュース・Dr. Kコメントを毎朝お届けします。">
+<link rel="canonical" href="https://www.gtplayer.net/ja/page/9/">
+<link rel="icon" type="image/png" href="../../../favicon.png">
+<meta property="og:site_name" content="GTPlayer">
+<meta property="og:title" content="GTPlayer — ゲームインサイト、毎朝7時にお届け">
+<meta property="og:description" content="PC・コンソール・モバイル・業界ニュース・Dr. Kコメントを毎朝お届けします。">
+<meta property="og:url" content="https://www.gtplayer.net/ja/page/9/">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="GTPlayer — ゲームインサイト、毎朝7時にお届け">
+<meta name="twitter:description" content="PC・コンソール・モバイル・業界ニュース・Dr. Kコメントを毎朝お届けします。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../../assets/css/style.css">
+<style>
+.sub-overlay {
+  display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+  background: rgba(0,0,0,0.65); z-index: 1001;
+  align-items: center; justify-content: center; padding: 20px;
+  backdrop-filter: blur(4px);
+}
+.sub-overlay.active { display: flex; }
+.sub-modal {
+  background: #ffffff; width: 100%; max-width: 440px;
+  position: relative; border-radius: 12px;
+  box-shadow: 0 20px 48px rgba(0,0,0,0.3);
+  padding: 36px 28px 28px; text-align: center;
+  border: 1px solid #e5e7eb;
+}
+.sub-modal .sub-close {
+  position: absolute; top: 14px; right: 14px;
+  background: none; border: none; color: #9ca3af; cursor: pointer;
+  padding: 6px; display: flex; align-items: center; justify-content: center;
+  border-radius: 6px; transition: color .15s, background .15s;
+}
+.sub-modal .sub-close:hover { color: #111827; background: #f3f4f6; }
+.sub-modal-icon { font-size: 38px; margin-bottom: 12px; line-height: 1; }
+.sub-modal-title { font-size: 20px; font-weight: 800; color: #111827; margin: 0 0 8px; letter-spacing: -0.5px; }
+.sub-modal-desc { font-size: 13px; line-height: 1.5; color: #6b7280; margin: 0 0 22px; word-break: keep-all; }
+.sub-modal-form { display: flex; flex-direction: column; gap: 10px; text-align: left; }
+.sub-modal-input {
+  width: 100%; padding: 13px 16px; font-size: 14px;
+  border: 1px solid #d1d5db; border-radius: 8px;
+  outline: none; font-family: 'Inter', sans-serif;
+  box-sizing: border-box; transition: border-color .15s;
+}
+.sub-modal-input:focus { border-color: #111827; }
+.sub-modal-btn {
+  width: 100%; padding: 13px 16px; font-size: 14px; font-weight: 700;
+  background: #111827; color: #ffffff; border: none; border-radius: 8px;
+  cursor: pointer; transition: background .15s;
+}
+.sub-modal-btn:hover { background: #374151; }
+.sub-modal-msg-success {
+  display: none; padding: 14px; background: #ecfdf5; color: #065f46;
+  border: 1px solid #a7f3d0; border-radius: 8px; font-size: 13px; font-weight: 600;
+  text-align: center; line-height: 1.4; word-break: keep-all;
+}
+.sub-modal-msg-error {
+  display: none; padding: 12px; background: #fef2f2; color: #991b1b;
+  border: 1px solid #fecaca; border-radius: 8px; font-size: 13px; font-weight: 600;
+  text-align: center;
+}
+form[data-members-form="subscribe"].success .sub-modal-msg-success { display: block; }
+form[data-members-form="subscribe"].success .sub-modal-input,
+form[data-members-form="subscribe"].success .sub-modal-btn { display: none; }
+form[data-members-form="subscribe"].error .sub-modal-msg-error { display: block; }
+</style>
+<script>
+  if (!localStorage.getItem('langSelectBoxSelected')) {
+    const currentPath = window.location.pathname;
+    const basePath = currentPath.indexOf('/gtplayer') === 0 ? '/gtplayer' : '';
+    const isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(navigator.userAgent);
+    if (!isBot && (currentPath === '/' || currentPath === '/gtplayer/' || currentPath === '/gtplayer')) {
+      fetch('https://ipapi.co/json/')
+        .then(response => response.json())
+        .then(data => {
+          const country = data.country_code;
+          if (country === 'KR') {
+            // Korean default
+          } else if (country === 'JP') {
+            window.location.replace(basePath + '/ja/');
+          } else {
+            window.location.replace(basePath + '/en/');
+          }
+        })
+        .catch(error => console.error("Error fetching location data", error));
+    }
+  }
+</script>
+</head>
+<body class="home-template tag-hash-lang-ja">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M3429V8X"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header class="site-header">
+  <a href="../../../ja/" class="logo">
+    <img src="../../../favicon.png" alt="GTPlayer" class="logo-img">
+    <span class="logo-text">GT<span>Player</span></span>
+  </a>
+  <div class="header-right">
+    <button class="header-search-btn" id="headerSearchBtn" aria-label="Search">
+      <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+        <circle cx="11" cy="11" r="8" />
+        <path d="m21 21-4.35-4.35" />
+      </svg>
+      <span class="search-text" id="headerSearchText">検索...</span>
+    </button>
+
+    <button type="button" class="btn-sub" id="headerSubBtn">購読する</button>
+
+    <div class="lang-selector">
+      <button class="lang-btn" id="langToggle">🌐 <span id="currentLang">JP</span> ▾</button>
+      <div class="lang-dropdown" id="langDropdown">
+        <a href="../../../" class="lang-option" data-lang="ko" onclick="localStorage.setItem('langSelectBoxSelected','ko')">🇰🇷 한국어</a>
+        <a href="../../../en/" class="lang-option" data-lang="en" onclick="localStorage.setItem('langSelectBoxSelected','en')">🇺🇸 English</a>
+        <a href="../../../ja/" class="lang-option" data-lang="ja" onclick="localStorage.setItem('langSelectBoxSelected','ja')">🇯🇵 日本語</a>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- Search Overlay -->
+<div class="search-overlay" id="searchOverlay">
+  <div class="search-modal">
+    <div class="search-modal-header">
+      <input type="text" class="search-input-lg" id="searchInputLg" placeholder="ポストを検索..." autofocus>
+      <button class="search-close" id="searchClose">
+        <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <path d="M18 6L6 18M6 6l12 12" />
+        </svg>
+      </button>
+    </div>
+    <div class="search-body">
+      <div class="search-label" id="searchHeaderLabel">POSTS</div>
+      <div class="search-results" id="searchResults"></div>
+    </div>
+  </div>
+</div>
+
+<!-- Subscribe Overlay -->
+<div class="sub-overlay" id="subOverlay">
+  <div class="sub-modal">
+    <button class="sub-close" id="subClose" aria-label="Close">
+      <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+        <path d="M18 6L6 18M6 6l12 12" />
+      </svg>
+    </button>
+    <div class="sub-modal-content">
+      <div class="sub-modal-icon">✉️</div>
+      <h2 class="sub-modal-title">GTPlayer ニュースレター無料購読</h2>
+      <p class="sub-modal-desc">毎朝7時、世界のゲーム業界インサイトと最新ニュースをあなたの受信トレイに直接お届けします。</p>
+      <form class="sub-modal-form" data-members-form="subscribe">
+        <input type="email" class="sub-modal-input" placeholder="メールアドレスを入力 (name@example.com)" required autocomplete="email">
+        <button type="submit" class="sub-modal-btn">無料で購読する →</button>
+        <div class="sub-modal-msg-success">🎉 購読が完了しました！<br>毎朝受信トレイをご確認ください。</div>
+        <div class="sub-modal-msg-error">⚠️ 有効なメールアドレスを入力してください。</div>
+      </form>
+    </div>
+  </div>
+</div>
+
+<main>
+<!-- HERO -->
+<section class="hero" id="subscribe-section">
+  <div class="hero-eyebrow">Daily Game Intelligence</div>
+  <h1>ゲームインサイト、<br><em>毎朝7時にお届け</em></h1>
+  <p class="hero-sub">PC · コンソール · モバイル · 業界ニュース · Dr. K コメント</p>
+  <div class="hero-subscribe-form">
+    <form data-members-form="subscribe">
+      <div class="hero-email-wrap">
+        <input data-members-email type="email" name="email" class="hero-email-input" placeholder="jamie@example.com" required>
+        <button type="submit" class="hero-email-btn">無料購読</button>
+      </div>
+      <div class="message-success">ご購読ありがとうございます！毎朝7時にお届けします。</div>
+      <div class="message-error" data-members-error></div>
+    </form>
+  </div>
+  <p class="hero-note">スパムなし · いつでも解約可能</p>
+</section>
+
+<div class="page">
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">04.20</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3分で読めます</span>
+    </div>
+    <a href="../../../ja/edition-034-ja/" class="edition-link">
+      <h3 class="edition-title">#034: ガチャの時代は終わった？「尊重」が勝つ理由 📉 (今週のバズりミーム 😂)</h3>
+      <p class="edition-excerpt">【インサイト】「確率」の時代が終わり、「尊重」のシステムが始まる — ゲーマーは今、派手なグラフィックよりも、自身の時間と費用に対する開発会社の姿勢に反応しています。供給過剰な市場において生存を決定づけるキーワードは、「透明性」と「体験の質」へと移り変わりました。</p>
+    </a>
+  </article>
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">04.17</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3分で読めます</span>
+    </div>
+    <a href="../../../ja/edition-033-ja/" class="edition-link">
+      <h3 class="edition-title">#033: ゲームは『所有』から『利用』へ？サバ終禁止法の衝撃 🛑 (+新作無料プレゼント)</h3>
+      <p class="edition-excerpt">「所有権」の時代から「利用権」の時代へ：サーバー終了禁止法がもたらす波紋 — 私たちが購入したデジタルゲームは、果たして永遠に私たちのものなのでしょうか？カリフォルニアの新しい法案が、ゲーム業界の古い慣行に真っ向から挑戦状を叩きつけました。</p>
+    </a>
+  </article>
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">04.16</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3分で読めます</span>
+    </div>
+    <a href="../../../ja/edition-032-ja/" class="edition-link">
+      <h3 class="edition-title">#032: ゲームの常識が塗り変わる瞬間 🎮 (feat. モンギル：STAR DIVE 最新映像)</h3>
+      <p class="edition-excerpt">操作の破壊とプラットフォームの拡張、ゲームの「普遍化」がもたらす巨大な転換点 — 30年以上守られてきたマウスクリックの時代が終わり、新たな操作の標準が浮上しています。ジャンルの敷居を下げるこの大胆な試みは、革新なのでしょうか、それとも本質の退歩なのでしょうか？</p>
+    </a>
+  </article>
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">04.15</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3分で読めます</span>
+    </div>
+    <a href="../../../ja/edition-031-ja/" class="edition-link">
+      <h3 class="edition-title">#031: ついに境界が消滅する？🌐 『超連結』が創るゲームの未来 (feat. サイバーパンク2077 神曲)</h3>
+      <p class="edition-excerpt">技術とIPの境界の崩壊：「超連結」が創り出すゲーム消費の新地平 — ネットマーブルによるグローバルコンソール市場の席巻とソニーのAI企業買収は、偶然の一致ではありません。強力なIPがハイテクプラットフォームと出会い、ゲーム消費のパラダイムをどのように塗り替えているかに注目してください。</p>
+    </a>
+  </article>
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">04.14</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3分で読めます</span>
+    </div>
+    <a href="../../../ja/edition-030-ja/" class="edition-link">
+      <h3 class="edition-title">#030: AIの幻想はもう終わり？📉 呼び覚まされる『本質』の創造力と今週の注目トレイラー 🎬</h3>
+      <p class="edition-excerpt">AI幻想の終焉と本質的な創造性への回帰 — 人工知能がゲーム開発のあらゆる問題を解決してくれるというバラ色の幻想が崩れつつあります。テイクツーのAIチーム解雇とヘイズライトの5,000万本販売の神話が示唆する、業界の真の生存戦略とは何でしょうか。</p>
+    </a>
+  </article>
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">04.10</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3分で読めます</span>
+    </div>
+    <a href="../../../ja/edition-029-ja/" class="edition-link">
+      <h3 class="edition-title">#029: 生き残るIPの絶対条件 🧬 &amp; あの『トマック』が今だけ無料！？🎁</h3>
+      <p class="edition-excerpt">IPの生存法則：馴染み深さの変奏と冷酷な市場の選択 — 華々しく登場して2週間で消えるゲームと、発売から数年経ってもチャートを逆走するゲーム。私たちは今、「中途半端な新しさ」よりも「完成度の高い馴染み深さ」が勝利する冷酷な市場に生きています。</p>
+    </a>
+  </article>
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">04.09</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3分で読めます</span>
+    </div>
+    <a href="../../../ja/edition-028-ja/" class="edition-link">
+      <h3 class="edition-title">#028: 技術の幻想はもう終わり？📉 ゲーム業界の原点回帰と「Morbid Metal」最新情報！🔥</h3>
+      <p class="edition-excerpt">技術の幻想とコンテンツの正体：ゲーム産業の冷酷な回帰 — 生成AIがゲーム開発の救世主になるというバラ色の展望の中で、なぜ巨大企業はAIチームを全員解雇したのでしょうか？🤖💻 技術的な効率よりも強力な「本当の楽しさ」の価値が、再び市場の勢力図を塗り替えています。</p>
+    </a>
+  </article>
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">04.09</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3分で読めます</span>
+    </div>
+    <a href="../../../ja/edition-027-ja/" class="edition-link">
+      <h3 class="edition-title">#027: 有名IPの看板はもう通用しない？📉 生き残るための「進化」の法則（feat. ノーマンズスカイ最新映像 🚀）</h3>
+      <p class="edition-excerpt">有名IPの看板よりも「持続可能な進化」が生存を決定する時代 — 有名IPを掲げた新作が溢れる中、なぜある者は2週間でサービスを終了し、ある者は逆走の神話を記録するのでしょうか？ 📦 単に名前の価値に依存する時代は終わり、ゲームの「生存筋肉」が何であるかを証明しなければならない過酷な局面が来ています。 🕰️</p>
+    </a>
+  </article>
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">04.09</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3分で読めます</span>
+    </div>
+    <a href="../../../ja/edition-026-ja/" class="edition-link">
+      <h3 class="edition-title">#026: 「独占タイトル」の終焉？崩れるプラットフォームの壁 📉 (Invincible VS βテスト情報)</h3>
+      <p class="edition-excerpt">独占の終焉とIP生存のためのプラットフォーム境界の崩壊 — Xboxの艦船がPS5の港に停泊し、コンソール独占の時代が幕を閉じようとしています。今やゲーム業界は「どこで」プレイするかよりも「いかに」生き残るかの戦いへと変貌しました。🚀</p>
+    </a>
+  </article>
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">04.08</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3分で読めます</span>
+    </div>
+    <a href="../../../ja/edition-025-ja/" class="edition-link">
+      <h3 class="edition-title">#025: ゲーム市場に激震！&amp;quot;量より質&amp;quot;への転換期 📉 (＋Legend of YMIR 神曲公開 🎶)</h3>
+      <p class="edition-excerpt">プラットフォームの浄化：「量的膨張」から「質的成熟」への転換 — あなたのゲームライブラリは宝箱ですか、それともデジタルゴミ箱ですか？ プラットフォームがすべてを受け入れていた無責任な放任の時代がついに終わりを告げようとしています。</p>
+    </a>
+  </article>
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">04.07</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3分で読めます</span>
+    </div>
+    <a href="../../../ja/edition-024-ja/" class="edition-link">
+      <h3 class="edition-title">#024: 有名IPなら売れる時代は終了？ファンを動かす「運営の誠実さ」の正体 ✨</h3>
+      <p class="edition-excerpt">IPの知名度を超えた「運営の誠実さ」とファンダム経済の再編 — ファンダムがそのまま資本となる時代、なぜある者は華麗に復活し、ある者は舞台裏へと消えていくのでしょうか？🎮
+数値で証明された中小開発社の逆転劇と、巨大IPの退場は、ゲーム産業の生存法則が変化したことを示唆しています。</p>
+    </a>
+  </article>
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">04.06</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3分で読めます</span>
+    </div>
+    <a href="../../../ja/edition-022-ja/" class="edition-link">
+      <h3 class="edition-title">#022: 300億円が証明した「本質」の力。AAAゲームの逆襲 📈 (今日のネタ画像あり 🤣)</h3>
+      <p class="edition-excerpt">「本質の帰還」：3000億ウォンの売上が証明したAAA級ゲームの生存方程式 — 巨大IPの複製とブロックチェーンの実験が市場を揺るがす中、ある者は完成度一つで頂点に立ちました。 🚀 私たちは今、単にゲームを消費するだけでなく、開発者の「本気」と「執念」に対して財布を開き始めています。 💡</p>
+    </a>
+  </article>
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">04.01</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3分で読めます</span>
+    </div>
+    <a href="../../../ja/edition-020-ja/" class="edition-link">
+      <h3 class="edition-title">#020: 課金ゲーから「哲学」の時代へ？K-ゲームの劇的進化 🏹 (＋新作ディビジョンの最新映像！)</h3>
+      <p class="edition-excerpt">K-GAMEの大転換、「資本」の時代を経て「哲学」の時代へ 🏹 — 単に稼げるゲームを超えて、全世界のゲーマーの「ファンダム」を所有しようとする動きが捉えられました。韓国のゲーム会社が巨匠のスタジオを買収し、AAAタイトルでチャートを占領する現象は何を暗示しているのでしょうか？</p>
+    </a>
+  </article>
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">03.26</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3分で読めます</span>
+    </div>
+    <a href="../../../ja/edition-018-ja/" class="edition-link">
+      <h3 class="edition-title">GTPlayer #018 | ゲームインサイト</h3>
+      <p class="edition-excerpt">巨大資本の崩壊と職人魂の復活、ゲーム業界は「本物」を求めている — 『紅の砂漠』の300万本突破や『異環』の3,000万予約という華々しい数字が韓国ゲームの地位を高めていますが、その裏側ではEpic Gamesの1,000人規模の人員削減という冷たい逆風も吹いています。プラットフォームの世代交代と技術的変革期を迎え、業</p>
+    </a>
+  </article>
+  <article class="edition-row">
+    <div class="edition-meta">
+      <span class="edition-date">03.26</span>
+      <span class="edition-dot">·</span>
+      <span class="edition-reading">3分で読めます</span>
+    </div>
+    <a href="../../../ja/edition-017-ja/" class="edition-link">
+      <h3 class="edition-title">GTPlayer #017 | ゲームインサイト</h3>
+      <p class="edition-excerpt">성장은 끝났다: &#x27;K-게임&#x27;의 영광을 지탱하던 낡은 골조의 붕괴 — 최근 엔씨소프트를 필두로 한 국내 대형 게임사들의 전례 없는 강도 높은 구조조정과 분사 소식은 업계에 큰 충격을 주고 있습니다. 이는 단순한 경영 효율화를 넘어, 수년간 국내 게임 산업을 지탱해온 &#x27;성공 방정식&#x27;이 더 </p>
+    </a>
+  </article>
+  <nav class="pagination">
+    <a class="page-btn" href="../../../ja/page/8/">← 前へ</a>
+    <span class="page-num">9 / 10</span>
+    <a class="page-btn" href="../../../ja/page/10/">次へ →</a>
+  </nav>
+</div>
+</main>
+
+<footer class="site-footer">
+  <div class="foot-logo">GT<span>Player</span></div>
+  <div class="foot-sub" id="footerDesc">ゲーム業界のインサイト、毎朝7時</div>
+  <div class="foot-lang">
+    <a href="../../../" class="lbtn" onclick="localStorage.setItem('langSelectBoxSelected','ko')">한국어</a>
+    <a href="../../../en/" class="lbtn" onclick="localStorage.setItem('langSelectBoxSelected','en')">English</a>
+    <a href="../../../ja/" class="lbtn" onclick="localStorage.setItem('langSelectBoxSelected','ja')">日本語</a>
+  </div>
+  <div class="foot-links">
+    <button type="button" id="footerSubBtn" style="background:none;border:none;color:inherit;font:inherit;cursor:pointer;padding:0;">購読する</button>
+    <a href="../../../ja/" id="footerArchiveBtn">エディションアーカイブ</a>
+  </div>
+  <div class="foot-copy">&copy; 2026 GTPlayer. All rights reserved.</div>
+</footer>
+
+<script>
+(function () {
+  var currentLangCode = 'ja';
+  var BASE_PATH = window.location.pathname.indexOf('/gtplayer') === 0 ? '/gtplayer' : '';
+  var SEARCH_LOG_URL = 'https://script.google.com/macros/s/AKfycbztDYnHRRoHNpUt07_SOl-COmJ-7A1MAvVMTAD51dL4nvjAF9BEDxgM-SMUxQ5h18mBaQ/exec';
+  var SUBSCRIBE_URL = 'https://script.google.com/macros/s/AKfycby6G0lpTZ8c8mBBmYhBMfY04hWaH3xa1IjZV4L6OVjLjG1_7dDCs-k2vqF6hGMvzPo6/exec';
+  var loggedQueries = {};
+  var currentLocation = null;
+
+  async function logSearchQuery(query, resultsCount) {
+    if (!SEARCH_LOG_URL || loggedQueries[query]) return;
+    loggedQueries[query] = true;
+    try {
+      if (!currentLocation) {
+        var response = await fetch('https://ipapi.co/json/');
+        currentLocation = await response.json();
+      }
+      fetch(SEARCH_LOG_URL, {
+        method: 'POST',
+        mode: 'no-cors',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          query: query,
+          resultsCount: resultsCount,
+          language: currentLangCode || 'ko',
+          country: currentLocation.country_name || currentLocation.country_code,
+          city: currentLocation.city,
+          userAgent: navigator.userAgent
+        })
+      });
+    } catch (e) {}
+  }
+
+  var overlay = document.getElementById('searchOverlay');
+  var closeBtn = document.getElementById('searchClose');
+  var input = document.getElementById('searchInputLg');
+  var results = document.getElementById('searchResults');
+  var searchTimer = null;
+  var allPosts = null;
+
+  var subOverlay = document.getElementById('subOverlay');
+  var subCloseBtn = document.getElementById('subClose');
+
+  function openSubscribe() {
+    if (subOverlay) {
+      subOverlay.classList.add('active');
+      var emailInput = subOverlay.querySelector('input[type="email"]');
+      if (emailInput) setTimeout(function () { emailInput.focus(); }, 100);
+      document.body.style.overflow = 'hidden';
+    }
+  }
+
+  function closeSubscribe() {
+    if (subOverlay) {
+      subOverlay.classList.remove('active');
+      document.body.style.overflow = '';
+    }
+  }
+
+  function openSearch() {
+    overlay.classList.add('active');
+    input.value = '';
+    results.innerHTML = '';
+    setTimeout(function () { input.focus(); }, 100);
+    document.body.style.overflow = 'hidden';
+    if (!allPosts) loadAllPosts();
+  }
+
+  function closeSearch() {
+    overlay.classList.remove('active');
+    document.body.style.overflow = '';
+  }
+
+  document.addEventListener('DOMContentLoaded', function () {
+    var headerSearch = document.getElementById('headerSearchBtn');
+    if (headerSearch) headerSearch.addEventListener('click', openSearch);
+
+    var headerSub = document.getElementById('headerSubBtn');
+    if (headerSub) headerSub.addEventListener('click', openSubscribe);
+
+    var footerSub = document.getElementById('footerSubBtn');
+    if (footerSub) footerSub.addEventListener('click', openSubscribe);
+
+    if (subCloseBtn) subCloseBtn.addEventListener('click', closeSubscribe);
+    if (subOverlay) {
+      subOverlay.addEventListener('click', function (e) {
+        if (e.target === subOverlay) closeSubscribe();
+      });
+    }
+
+    // Subscribe Form Handler
+    document.querySelectorAll('form[data-members-form="subscribe"]').forEach(function (form) {
+      form.addEventListener('submit', function (e) {
+        e.preventDefault();
+        var emailInput = form.querySelector('input[type="email"]');
+        var email = emailInput ? emailInput.value.trim() : '';
+        if (!email || email.indexOf('@') === -1) {
+          form.classList.add('error');
+          return;
+        }
+        form.classList.remove('error');
+        fetch(SUBSCRIBE_URL + '?action=subscribe&lang=' + encodeURIComponent(currentLangCode) + '&email=' + encodeURIComponent(email), {
+          method: 'GET',
+          mode: 'no-cors',
+          keepalive: true
+        }).catch(function () {});
+        form.classList.add('success');
+      });
+    });
+  });
+
+  closeBtn.addEventListener('click', closeSearch);
+  overlay.addEventListener('click', function (e) {
+    if (e.target === overlay) closeSearch();
+  });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') {
+      closeSearch();
+      closeSubscribe();
+    }
+    if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+      e.preventDefault();
+      openSearch();
+    }
+  });
+
+  input.addEventListener('input', function () {
+    clearTimeout(searchTimer);
+    var q = input.value.trim();
+    if (q.length < 2) { results.innerHTML = ''; return; }
+    searchTimer = setTimeout(function () { filterPosts(q); }, 200);
+  });
+
+  function loadAllPosts() {
+    fetch(BASE_PATH + '/api/search.json')
+      .then(function (r) { return r.json(); })
+      .then(function (data) {
+        allPosts = (data.posts || []).filter(function (p) {
+          return !p.lang || p.lang === currentLangCode;
+        });
+        var q = input.value.trim();
+        if (q.length >= 2) filterPosts(q);
+      })
+      .catch(function () {
+        allPosts = [];
+        var errMsg = currentLangCode === 'en' ? 'Unable to load search data.' : (currentLangCode === 'ja' ? '検索データを読み込めませんでした。' : '검색 데이터를 불러올 수 없습니다.');
+        results.innerHTML = '<div class="search-no-results">' + errMsg + '</div>';
+      });
+  }
+
+  function filterPosts(query) {
+    if (!allPosts) { loadAllPosts(); return; }
+    var q = query.toLowerCase();
+    var filtered = allPosts.filter(function (p) {
+      return (p.title && p.title.toLowerCase().indexOf(q) !== -1) ||
+        (p.excerpt && p.excerpt.toLowerCase().indexOf(q) !== -1) ||
+        (p.plaintext && p.plaintext.toLowerCase().indexOf(q) !== -1);
+    });
+    renderResults(filtered, query);
+    logSearchQuery(query, filtered.length);
+  }
+
+  function escHtml(s) {
+    return (s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  }
+
+  function highlightMatch(text, query) {
+    if (!text) return '';
+    var safeText = escHtml(text);
+    var safeQ = escHtml(query).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    var regex = new RegExp('(' + safeQ + ')', 'gi');
+    return safeText.replace(regex, '<strong style="color:#000;">$1</strong>');
+  }
+
+  function renderResults(posts, query) {
+    if (posts.length === 0) {
+      var noResMsg = currentLangCode === 'en'
+        ? 'No results found for "' + escHtml(query) + '".'
+        : (currentLangCode === 'ja'
+          ? '「' + escHtml(query) + '」に一致する結果はありません。'
+          : '"' + escHtml(query) + '"에 대한 결과가 없습니다.');
+      results.innerHTML = '<div class="search-no-results">' + noResMsg + '</div>';
+      return;
+    }
+    var htmlStr = '';
+    posts.slice(0, 30).forEach(function (p) {
+      var excerpt = (p.excerpt || '').substring(0, 110) + '...';
+      var postUrl = (p.url && p.url.charAt(0) === '/') ? (BASE_PATH + p.url) : p.url;
+      htmlStr += '<a class="search-result-item" href="' + postUrl + '">' +
+        '<div class="search-result-title">🔎 ' + highlightMatch(p.title || '', query) + '</div>' +
+        '<div class="search-result-excerpt">' + highlightMatch(excerpt, query) + '</div></a>';
+    });
+    results.innerHTML = htmlStr;
+  }
+
+  // Language dropdown toggle
+  var btn = document.getElementById('langToggle');
+  var dd = document.getElementById('langDropdown');
+  if (btn && dd) {
+    btn.addEventListener('click', function (e) {
+      e.stopPropagation();
+      dd.classList.toggle('show');
+    });
+    document.addEventListener('click', function () { dd.classList.remove('show'); });
+  }
+
+  // Web Click Tracker (Cloudflare Worker / Google Apps Script)
+  document.addEventListener('DOMContentLoaded', function() {
+    document.querySelectorAll('a[href*="workers.dev"], a[href*="script.google.com"]').forEach(function(link) {
+      try {
+        var urlObj = new URL(link.href);
+        var originalUrl = urlObj.searchParams.get('url');
+        if (originalUrl) {
+          var currentSection = urlObj.searchParams.get('section') || 'unknown';
+          urlObj.searchParams.set('section', currentSection + '_web');
+          var backgroundTrackerUrl = urlObj.toString();
+          link.href = originalUrl;
+          link.addEventListener('click', function() {
+            fetch(backgroundTrackerUrl, {
+              method: 'GET',
+              mode: 'no-cors',
+              keepalive: true
+            }).catch(function(){});
+          });
+        }
+      } catch (e) {}
+    });
+  });
+})();
+</script>
+</body>
+</html>
