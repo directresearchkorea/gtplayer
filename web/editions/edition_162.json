@@ -321,5 +321,47 @@
     "en",
     "ja"
   ],
-  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: Preview the Future of Gaming in 2026🔮 (feat. Mongil Star Dive Official Trailer). Key context: Changes and Prospects in the Game Industry in 2026. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters."
+  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: Preview the Future of Gaming in 2026🔮 (feat. Mongil Star Dive Official Trailer). Key context: Changes and Prospects in the Game Industry in 2026. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters.",
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": false,
+          "text": "2026년 게임 산업의 미래를 보여주는 #MongilStarDive 공개!🚀\n\n게임메카 심포지엄 열리고, 위메이드 흑자전환/news 업데이트 정보 넘쳐!💡\n\nGTPlayer.net/edition-162/#GTPlayer #MongilStarDive #게임메카",
+          "error": "Posting failed or blocked"
+        }
+      },
+      "updated_at": "2026-11-12T06:36:06.421273"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "11월 12일 오늘의 게임 소식 🎮\n\n➡️ 📰 [이슈] 게임메카 2026 국제 게임문화 심포지엄 열린다!\n➡️ 📅 [출시] 위메이드, 3분기 영업이익 264억원... 흑자 전환\n➡️ 📅 [출시] 게임메카 블레이즈벨 등장, 카제나 시즌 5 업데이트\n➡️ 📅 [업데이트] 엔씨, 3분기 매출 6천865억 원... 올해 매출 목표 2조8천억 원\n➡️ 📅 [할인] Nintendo Switch 2 Console, 알리익스프레스 블랙프라이데이 판매 가격 $395\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임산업 #게임문화 #엔씨소프트 #위메이드 #게임업계 #블랙프라이데이 #게임출시 #게임업계동향 #게임산업전망 #게임추천 #인디게임 #신작게임 #게임덕후 #게임라이프 #게임업계소식 #모바일게임 #온라인게임",
+          "image_paths": [
+            "web/instagram/edition_162/card_cover.png",
+            "web/instagram/edition_162/card_news.png",
+            "web/instagram/edition_162/card_calendar.png",
+            "web/instagram/edition_162/card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "4028318817138740668_39332818166",
+            "url": "https://www.instagram.com/p/Dfndp8Jk428/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-11-12T06:37:31.112090"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Preview the Future of Gaming in 2026🔮 (feat. Mongil Star Dive Official Trailer)\n\nGet ready for the next big wave in gaming with Mongil: STAR DIVE, set to launch in 2026. Experience the future of exploration and adventure with this highly anticipated title. Join the journey as we unveil the official trailer today!\n\nhttps://www.gtplayer.net/edition-162-en/",
+        "error": null
+      },
+      "updated_at": "2026-11-12T06:38:28.332905"
+    }
+  }
 }
