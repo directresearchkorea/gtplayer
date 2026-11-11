@@ -1,0 +1,325 @@
+{
+  "num": "162",
+  "date": "2026-11-12",
+  "status": "published",
+  "schedule": {
+    "date": "2026-11-12",
+    "time": "06:26",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "モンギル：STAR DIVE",
+          "dev": "넷마블",
+          "date": "11월 11일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "DMM GAMES PLAYER版의 서비스를 시작하고, 스마트폰版과의 데이터 연동이 가능합니다.",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/857/G085718/20261111051/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "카오스 제로 나이트메어",
+          "dev": "스마일게이트",
+          "date": "11월 12일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "시즌5 두 번째 업데이트를 진행하며, 블레이즈벨과 파트너 비비안이 추가되었습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=323253",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "던디의 세계 1.0",
+          "dev": "네오위즈",
+          "date": "11월 12일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "대규모 업데이트를 통해 신규 모드와 콘텐츠가 추가되었습니다.",
+          "country": "KR",
+          "article_url": "https://in.ign.com/roblox/276755/roblox-horror-hit-dandys-worlds-massive-10-update",
+          "source_name": "IGN India"
+        },
+        {
+          "category": "event",
+          "game": "위시리스트",
+          "dev": "니코스",
+          "date": "11월 12일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "11월 11일부터 12월 2일까지 이벤트 스토리 자유를 통해 불꽃을 운영합니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=323251",
+          "source_name": "인벤"
+        }
+      ],
+      "events": [
+        {
+          "name": "2026 국제 게임문화 심포지엄",
+          "note": "게임 문화와 정책: 혁신, 커뮤니티, 그리고 경제",
+          "venue": "부산 벡스코 컨벤션홀 104~105호",
+          "date": "2026-11-19",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=323250"
+        },
+        {
+          "name": "『MONGIL: STAR DIVE』DMM GAMES PLAYER版服务启动",
+          "note": "与手机版联动的活动正在举办",
+          "venue": "线上",
+          "date": "2026-11-11 ~ 2026-12-2",
+          "tag": " Shower",
+          "website": "https://www.famitsu.com/article/202611/93744"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "게임메카 2026 국제 게임문화 심포지엄",
+          "source": "게임메카",
+          "time": "2026-11-19",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1783360"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "위메이드, 3분기 영업이익 264억원... 흑자 전환",
+          "source": "인벤",
+          "time": "2026-11-12",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=323265"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "게임메카 블레이즈벨 등장, 카제나 시즌 5 두 번째 업데이트 열렸다",
+          "source": "게임메카",
+          "time": "2026-11-12",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1783308"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "엔씨, 3분기 매출 6천865억 원... 올해 매출 목표 2조8천억 원",
+          "source": "인벤",
+          "time": "2026-11-11",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=323255"
+        },
+        {
+          "category": "discount",
+          "tag": "할인",
+          "title": "Nintendo Switch 2 Console for as Low as $395 During the AliExpress Black Friday Sale",
+          "source": "IGN",
+          "time": "2026-11-12",
+          "country": "GLOBAL",
+          "article_url": "https://www.ign.com/articles/nintendo-switch-2-console-deal-aliexpress-black-friday-sale-updated"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "2026년 게임 산업의 변화와 전망",
+      "intro": "2026년, 게임 산업은 새로운 시대를 맞이하며, 소비자와 업계 모두에 새로운 도전과 기회가 다가오고 있습니다. 🌐🎮",
+      "points": "오늘의 뉴스에서 볼 수 있듯이, 카오스 제로 나이트메어의 시즌 5 업데이트와 던디의 세계 1.0의 대규모 업데이트는 게임 산업의 변화를 보여주는 좋은 사례입니다. 이러한 업데이트는 새로운 캐릭터, 모드, 콘텐츠를 포함하며, 플레이어에게 더욱 풍부하고 다채로운 게임 경험을 제공합니다.\n\n업계의 이러한 변화는 플랫폼 구조와 게임 소비 구조에 큰 영향을 미칩니다. 새로운 콘텐츠의 추가는 플랫폼의 기능을 향상시키고, 플레이어들의 게임 소비 패턴을 변화시킵니다. 이러한 변화는 결국 게임 회사의 수익 모델과 마케팅 전략에도 영향을 미치게 됩니다.\n\n**그렇다면 이러한 변화는 게임 산업이 더욱 빠르게 진화하고 있는 상황을 반영하며, 플레이어들은 더욱 다양한 선택지와 풍부한 게임 경험을 기대하게 됩니다.** 이는 결국 게임 산업의 지속적인 발전과 혁신을 촉진하게 됩니다.\n\n이러한 변화 속에서, 게임 업계와 플레이어 모두 새로운 트렌드를 이해하고 적응하는 것이 중요해졌습니다. 앞으로도 게임 산업은 더욱 다양하고 역동적인 형태로 진화할 것으로 전망됩니다. 이러한 변화에 어떻게 대응할 것인가, 이는 모두에게 중요한 질문입니다. 🤔"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": true,
+      "title": "Mongil Star Dive – The Final Fight | Official Trailer | (2026) |",
+      "channel": "Azyrox Gaming",
+      "videoId": "gh8PmDtQEzo",
+      "url": "https://www.youtube.com/watch?v=gh8PmDtQEzo",
+      "thumbnail": "https://i.ytimg.com/vi/gh8PmDtQEzo/hqdefault.jpg",
+      "comment": "'Mongil: STAR DIVE'의 공식 트레일러에서 엄청난 그래픽과 스릴 넘치는 스토리가 공개되어 많은 관심을 끌고 있습니다. 이 게임은 2026년 출시를 앞두고 있으며, 현재 팬들은 이 게임의 캡처와 함께 진행 상황을 토론하고 있습니다. 이 트레일러에서 가장 독특한 부분은 주인공이 별에 착륙하는 장면과 함께 펼쳐지는 대규모 전투입니다! 🚀✨ 꼭 트레일러를 확인해보세요!",
+      "search_query": "モンギル：STAR DIVE Official Trailer",
+      "ai_game_name": "モンギル：STAR DIVE",
+      "ai_reason": "몬ギ르：STAR DIVE는 신규 서비스 시작과 함께 스마트폰版과의 데이터 연동이 가능하여 큰 기대를 받고 있어, 공식 트레일러를 통해 게임의 매력적인 그래픽과 플레이 스타일을 확인할 수 있습니다."
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Mongil: STAR DIVE",
+        "releases.0.note": "The service of DMM GAMES PLAYER has started, and data synchronization with the mobile version is now possible.",
+        "releases.0.dev": "Netmarble",
+        "releases.1.game": "Chaos Zero Nightmare",
+        "releases.1.note": "The second update of Season 5 is ongoing, and the characters Blaze Bell and partner Vivian have been added.",
+        "releases.1.dev": "Smilegate",
+        "releases.2.game": "Dunde's World 1.0",
+        "releases.2.note": "A major update has been rolled out, adding new modes and content.",
+        "releases.2.dev": "Neowiz",
+        "releases.3.game": "Wish List",
+        "releases.3.note": "The event will run from November 11 to December 2 to operate the fire through the Story Freedom in DMM GAMES PLAYER.",
+        "releases.3.dev": "Nikko",
+        "events.0.name": "2026 International Game Culture Symposium",
+        "events.0.note": "Game Culture and Policy: Innovation, Community, and Economy",
+        "events.0.venue": "Busan Expoconvention Hall 104-105",
+        "events.1.name": "『Mongil: STAR DIVE』DMM GAMES PLAYER Service Launch",
+        "events.1.note": "A联动活动正在举办",
+        "events.1.venue": "Online"
+      },
+      "briefing": {
+        "items.0.title": "GameMechanics 2026 International Game Culture Symposium",
+        "items.0.source": "GameMechanics",
+        "items.0.time": "2026-11-19",
+        "items.1.title": "Wemade Reports Q3 Operating Profit of 2.64 Billion Won, Turning a Profit",
+        "items.1.source": "Inven",
+        "items.1.time": "2026-11-12",
+        "items.2.title": "GameMechanics Blaze Bell Makes Its Debut, the Second Update of Kacenja Season 5 Has Begun",
+        "items.2.source": "GameMechanics",
+        "items.2.time": "2026-11-12",
+        "items.3.title": "NCSoft Reports Q3 Revenue of 68.65 Billion Won, Setting Annual Sales Target of 2.8 Trillion Won",
+        "items.3.source": "Inven",
+        "items.3.time": "2026-11-11",
+        "items.4.title": "Nintendo Switch 2 Console on Sale for as Low as $395 During the AliExpress Black Friday Sale",
+        "items.4.source": "IGN",
+        "items.4.time": "2026-11-12"
+      },
+      "drk": {
+        "title": "Changes and Prospects in the Game Industry in 2026",
+        "intro": "In 2026, the game industry is welcoming a new era, bringing new challenges and opportunities to both consumers and the industry. 🌐🎮",
+        "points": "As can be seen from today's news, the second update of Season 5 of Chaos Zero Nightmare and the major update of Dunde's World 1.0 are good examples of the changes in the game industry. These updates include new characters, modes, and content, providing players with a richer and more diverse gaming experience.\n\nSuch changes in the industry have a significant impact on platform structures and gaming consumption patterns. The addition of new content enhances platform functionalities and changes players' gaming consumption patterns. These changes ultimately affect the revenue models and marketing strategies of game companies.\n\n**These changes reflect the faster evolution of the game industry and suggest that players can expect more diverse choices and rich gaming experiences.** This, in turn, promotes the continuous development and innovation of the game industry.\n\nIn the midst of these changes, it is important for both the game industry and players to understand and adapt to new trends. The game industry is expected to evolve into a more diverse and dynamic form in the future. How to respond to these changes is a crucial question for everyone. 🤔"
+      },
+      "trailer": {
+        "title": "Mongil Star Dive – The Final Fight | Official Trailer | (2026) |",
+        "comment": "'Mongil: STAR DIVE' has released its official trailer, which has attracted a lot of attention with its stunning graphics and thrilling storyline. This game is set to release in 2026, and fans are discussing the progress with captures of the game. The most unique part of the trailer is the massive battle that unfolds as the protagonist lands on a star! 🚀✨ Be sure to check it out!"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "モンギル：STAR DIVE",
+        "releases.0.note": "DMM GAMES PLAYER版のサービスを開始し、スマートフォン版とのデータ連動が可能です。",
+        "releases.0.dev": "ネトマブ",
+        "releases.1.game": "カオスゼロナイツメアー",
+        "releases.1.note": "シーズン5の2回目のアップデートを実施し、ブレイズベルとパートナーのビビアンが追加されました。",
+        "releases.1.dev": "スマイルゲート",
+        "releases.2.game": "ダンディの世界1.0",
+        "releases.2.note": "大規模アップデートを実施し、新規モードとコンテンツが追加されました。",
+        "releases.2.dev": "ネオウィズ",
+        "releases.3.game": "ウィズリスト",
+        "releases.3.note": "11月11日から12月2日までイベントストーリー『自由の火』を運営します。",
+        "releases.3.dev": "ニコス",
+        "events.0.name": "2026年 国際ゲーム文化シンポジウム",
+        "events.0.note": "ゲーム文化と政策: 创新、コミュニティ、そして経済",
+        "events.0.venue": "釜山ベックスココンベンションホール104-105号室",
+        "events.1.name": "『モンギル: STAR DIVE』DMM GAMES PLAYER版服务启动",
+        "events.1.note": "与手机版联动的活动正在举行",
+        "events.1.venue": "线上"
+      },
+      "briefing": {
+        "items.0.title": "ゲームメカ 2026年 国際ゲーム文化シンポジウム",
+        "items.0.source": "ゲームメカ",
+        "items.0.time": "2026-11-19",
+        "items.1.title": "Wemade, 3四半期営業利益264億円... 黒字転換",
+        "items.1.source": "インベ",
+        "items.1.time": "2026-11-12",
+        "items.2.title": "ゲームメカ ブレイズベル登場、カゼナシーズン5二回目のアップデート開幕",
+        "items.2.source": "ゲームメカ",
+        "items.2.time": "2026-11-12",
+        "items.3.title": "ネクソン、3四半期売上6865億円... 今年の売上目標2兆8千億円",
+        "items.3.source": "インベ",
+        "items.3.time": "2026-11-11",
+        "items.4.title": "Nintendo Switch 2コンソールはアリエクスプレスブラックフライデーセールで最低395ドル",
+        "items.4.source": "IGN",
+        "items.4.time": "2026-11-12"
+      },
+      "drk": {
+        "title": "2026年のゲーム産業の変化と展望",
+        "intro": "2026年、ゲーム産業は新たな時代を迎え、消費者と業界にとって新しい挑戦と機会が近づいています。 🌐🎮",
+        "points": "今日のニュースから見えてくるように、カオスゼロナイツメアーのシーズン5アップデートとダンディの世界1.0の大規模アップデートは、ゲーム産業の変化を示す良い例です。これらのアップデートは新しいキャラクター、モード、コンテンツを含み、プレイヤーにより豊かで多様なゲーム体験を提供します。\n\n業界のこのような変化はプラットフォーム構造とゲーム消費構造に大きな影響を与えます。新しいコンテンツの追加はプラットフォームの機能を向上させ、プレイヤーのゲーム消費パターンを変えることになります。このような変化は最終的にゲーム会社の収益モデルやマーケティング戦略にも影響を及ぼします。\n\n**これらの変化は、ゲーム産業がより急速に進化している状況を反映し、プレイヤーはより多くの選択肢と豊かなゲーム体験を期待することになります。**これは結局、ゲーム産業の持続的な発展と革新を促進します。\n\nこれらの変化の中で、ゲーム産業とプレイヤー両方とも新しいトレンドを理解し、適応することが重要になっています。今後もゲーム産業はより多様でダイナミックな形で進化することが予想されます。この変化にどのように対応するかは、すべてにとって重要な問いです。 🤔"
+      },
+      "trailer": {
+        "title": "モンギルスターダイブ – 最後の戦い | 公式トレーラー | (2026) |",
+        "comment": "「モンギル: STAR DIVE」の公式トレーラーでは、圧倒的なグラフィックとスリリングなストーリーが公開され、多くの注目を集めています。このゲームは2026年に発売される予定であり、現在ファンたちはこのゲームのキャプチャと共に進行状況を論議しています。このトレーラーで最もユニークな部分は、主人公が星に降り立つシーンとともに展開される大規模な戦闘です！ 🚀✨ ぜひトレーラーを確認してください!"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "2026년 게임 산업의 미래를 전망하라🔮 (feat. Mongil Star Dive 공식 트레일러)",
+    "en": "Preview the Future of Gaming in 2026🔮 (feat. Mongil Star Dive Official Trailer)",
+    "ja": "2026年のゲーム産業の未来を予測しよう🔮 (feat. Mongil Star Dive 公式トレーラー)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: Preview the Future of Gaming in 2026🔮 (feat. Mongil Star Dive Official Trailer). Key context: Changes and Prospects in the Game Industry in 2026. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters."
+}
