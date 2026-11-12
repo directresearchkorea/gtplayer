@@ -1,0 +1,319 @@
+{
+  "num": "163",
+  "date": "2026-11-13",
+  "status": "published",
+  "schedule": {
+    "date": "2026-11-13",
+    "time": "06:25",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "event",
+          "game": "ヘベン・バーンズ・レッド",
+          "dev": "ライト・フライト・スタジオ",
+          "date": "2026-12-31(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "预定于2026年12月31日举行的特别直播活动，公布《ヘベン・バーンズ・レッド》的新情报。",
+          "country": "JP",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=323326",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "Algolemeth",
+          "dev": "架桥游戏和RawFury",
+          "date": "2027-01-26(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "2027年1月26日发售的RPG，玩家可以通过编程的戈尔姆自动攻略迷宫。",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/724/G072455/20261112028/",
+          "source_name": "4Gamer"
+        }
+      ],
+      "events": [
+        {
+          "name": "지스타 2026",
+          "note": "",
+          "venue": "한국 부산 벡스코",
+          "date": "2026-11-18~2026-11-22",
+          "tag": "오프라인 행사",
+          "d_day_str": "D-5",
+          "website": "https://www.gstar.or.kr"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "Nvidia CEO, 중국 침투 의혹 논란",
+          "source": "PC Gamer",
+          "time": "2026-11-13",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/gaming-industry/paradox-interactive-is-getting-a-new-boss-as-fredrik-wester-steps-down-for-the-second-time/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "『Algolemeth』2027년 1월 26일 발매 결정",
+          "source": "Famitsu",
+          "time": "2026-11-13",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202611/93875"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "『로맨싱 사가 3』리메이크 상세 공개",
+          "source": "4Gamer",
+          "time": "2026-11-13",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/590/G059016/20261112058/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "『Project Hail Mary: Journey Among the Stars』출시",
+          "source": "IGN India",
+          "time": "2026-11-13",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/276914/project-hail-mary-journey-among-the-stars-official-launch-trailer"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "『/DDN: 디파잉 페이트』PS5 출시 확정",
+          "source": "인벤",
+          "time": "2026-11-13",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=323325"
+        },
+        {
+          "category": "discount",
+          "tag": "할인",
+          "title": "Saros PS5 판매 가격 20% 할인",
+          "source": "IGN",
+          "time": "2026-11-13",
+          "country": "GLOBAL",
+          "article_url": "https://www.ign.com/articles/saros-gets-20-discount-at-amazon-ahead-of-black-friday-returning-to-its-lowest-price-point-there"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "프로그래밍의 미래: 게임 산업에서의 코드 기반 플레이어 투입",
+      "intro": "프로그래밍으로 게임을 플레이하는 시대가 도래할까요? 2027년 발매 예정인 'Algolemeth'는 그 첫 걸음입니다.\n",
+      "points": "RPG 'Algolemeth'는 플레이어가 자신의 코드를 활용해 게임 내 인물 '고르움'을 조종하고, 이를 통해 미궁을 자동으로 해결할 수 있게 합니다. 이를 통해 게임 플레이 방식이 완전히 새로운 방향으로 진화하고 있음을 알 수 있습니다.\n\n이와 같은 기술적 변화는 게임 플레이어의 역할을 뒤바꾸며, 기존의 인터랙션 방식을 대체할 새로운 스킬을 요구하게 됩니다. 이러한 변화는 플랫폼 구조와 게임 소비 구조에도 영향을 미칠 것으로 보입니다. 특히, 게임 개발자들은 이제 플레이어의 능력과 코드 이해도를 고려해야 하며, 이는 게임의 접근성과 편의성을 재정의하게 될 것입니다.\n\n**'Algolemeth'의 등장은 단순한 게임의 진화를 넘어, 게임 산업 자체의 변혁을 예고하고 있습니다.** 기술의 발전과 함께 게임 플레이어의 역할이 더욱 복잡하고 흥미로워질 전망입니다.\n\n이러한 변화가 가져올 미래의 게임 산업과 게임 경험에 대해, 여러분은 어떻게 생각하시나요? 이러한 새로운 플레이 방식이 게임 문화에 어떤 영향을 미칠까요?"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "Knightica",
+      "url": "https://store.epicgames.com/ko/p/knightica-3be45c",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1nuxm.png",
+      "comment": "本周末游戏福利精选：\n\n- **免费游戏**：Knightica（11月20日01:00截止）  \n一款策略塔防游戏，通过精心安排单位，体验不同的战斗策略。探索王国，击败怪物，打造最强战斗队伍！\n\n- **超值折扣**：《上古卷轴V：天际特别版》80%折扣（截止11月19日03:00）  \n经典开放世界RPG，沉浸式探索与战斗，享受绝妙的游戏体验！\n\n- **下周预告**：《异形：隔离》与《Mark of the Deep》即将于11月20日01:00上线，恐怖与冒险等你来挑战！",
+      "steam_deal": {
+        "type": "deal",
+        "name": "The Elder Scrolls V: Skyrim Special Edition",
+        "app_id": 489830,
+        "url": "https://store.steampowered.com/app/489830",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1786648247",
+        "discount_percent": 80,
+        "original_price": 4500000,
+        "final_price": 900000,
+        "end_date": "2026-11-19 03:00"
+      },
+      "epic_current": [
+        {
+          "title": "Knightica",
+          "description": "강력한 유닛을 영입하고 전략적으로 배치해서 최고의 시너지를 찾아내 보는 로그라이크 자동 전투 게임!\nKnightica에서는 전투부대를 이끌고 수많은 도전을 이겨내서 왕국을 해방시킬 수 있습니다.\n최적의 조합을 발견하고, 강력한 마법을 부여하고, 위험한 몬스터를 상대로 부대를 승리로 이끄세요!",
+          "url": "https://store.epicgames.com/ko/p/knightica-3be45c",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1nuxm.png",
+          "end_date": "2026-11-20 01:00"
+        }
+      ],
+      "epic_upcoming": [
+        {
+          "title": "Alien: Isolation",
+          "description": "끊임없는 두려움과 극도로 위험한 분위기에서 벌어지는 서바이벌 호러인 Alien: Isolation에서 공포의 진정한 의미를 체험하세요.   CATHODE™ 엔진으로 개발되었습니다.",
+          "url": "https://store.epicgames.com/ko/p/alien-isolation",
+          "thumbnail": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/EGS_AlienIsolation_CreativeAssembly_S5-1920x1080-1cf3b9a86adcefeebf903451b1b3fb49.jpg",
+          "start_date": "2026-11-20 01:00"
+        },
+        {
+          "title": "Mark of the Deep",
+          "description": "Mark of the Deep은 강력한 서사와 메트로이드바니아 및 소울라이크 게임 요소의 흥미로운 조합이 있는 서사적인 해적 모험입니다. 해적 루키가 이 여정에 나서고, 저주받은 섬의 신비를 탐험하며 사라진 선원을 찾아보세요!",
+          "url": "https://store.epicgames.com/ko/p/mark-of-the-deep-f7dc08",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png",
+          "start_date": "2026-11-20 01:00"
+        }
+      ],
+      "epic_discounted": []
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Heben BURNS Red",
+        "releases.0.note": "An exclusive live stream event scheduled for December 31, 2026, to reveal new information about Heben BURNS Red.",
+        "releases.0.dev": "Light Flight Studio",
+        "releases.1.game": "Algolemeth",
+        "releases.1.note": "An RPG set for release on January 26, 2027, where players can automatically solve mazes using programmed Gorm.",
+        "releases.1.dev": "Abridged Games and RawFury",
+        "events.0.name": "G-Star 2026",
+        "events.0.venue": "Busan Exhibition and Convention Center, South Korea"
+      },
+      "briefing": {
+        "items.0.title": "Nvidia CEO, Controversy over Chinese Involvement",
+        "items.0.source": "PC Gamer",
+        "items.0.time": "2026-11-13",
+        "items.1.title": "Algolemeth Set for Release on January 26, 2027",
+        "items.1.source": "Famitsu",
+        "items.1.time": "2026-11-13",
+        "items.2.title": "Romancing Saga 3 Remake Details Revealed",
+        "items.2.source": "4Gamer",
+        "items.2.time": "2026-11-13",
+        "items.3.title": "Project Hail Mary: Journey Among the Stars Release",
+        "items.3.source": "IGN India",
+        "items.3.time": "2026-11-13",
+        "items.4.title": "/DDN: Defying Fate Confirmed for PS5",
+        "items.4.source": "Inven",
+        "items.4.time": "2026-11-13",
+        "items.5.title": "Saros PS5 Discounted by 20%",
+        "items.5.source": "IGN",
+        "items.5.time": "2026-11-13"
+      },
+      "drk": {
+        "title": "The Future of Programming: Code-Based Player Engagement in the Gaming Industry",
+        "intro": "Is the era of playing games through programming upon us? Algolemeth, set for release in 2027, is taking the first step.\n",
+        "points": "The RPG 'Algolemeth' allows players to control game characters 'Gorm' using their own code, enabling automatic maze solving. This marks a complete evolution in gameplay.\n\nThis technological change will redefine the role of the player, necessitating new skills to replace traditional interaction methods. It will impact platform structure and game consumption patterns. Game developers will now need to consider players' abilities and understanding of code, redefining accessibility and convenience.\n\n**The emergence of Algolemeth heralds not just the evolution of a game, but a transformation of the gaming industry itself.** With technology's advancement, the role of players in gaming is set to become more complex and engaging.\n\nWhat do you think about the future of the gaming industry and gaming experiences with these new play styles? What impact could this new play style have on gaming culture?"
+      },
+      "epic": {
+        "title": "Knightica",
+        "comment": "This week's game highlights:  \n\n- **Free Game**: Knightica (ends on November 20, 2026, 01:00 UTC)  \nA strategy tower defense game where you experience different combat strategies by carefully arranging units. Explore the kingdom, defeat monsters, and build the strongest battle team!  \n\n- **Super Value Discount**: 80% off The Elder Scrolls V: Skyrim Special Edition (ends on November 19, 2026, 03:00 UTC)  \nAn immersive open-world RPG, offering thrilling exploration and combat. Enjoy the marvelous gaming experience!  \n\n- **Next Week's Preview**: Alien: Isolation and Mark of the Deep will be available on November 20, 2026, 01:00 UTC, for you to challenge the horror and adventure!"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "ヘベン・バーンズ・レッド",
+        "releases.0.note": "2026年12月31日に開催される特別放送イベントで、『ヘベン・バーンズ・レッド』の新情報が発表される予定です。",
+        "releases.0.dev": "ライト・フライト・スタジオ",
+        "releases.1.game": "アルゴメス",
+        "releases.1.note": "2027年1月26日に発売されるRPG。プレイヤーはコーミュを用いて迷宮を自動攻略できる。",
+        "releases.1.dev": "架桥ゲームとRawFury",
+        "events.0.name": "ジスタ 2026",
+        "events.0.venue": "韓国 ポスンベックスコ"
+      },
+      "briefing": {
+        "items.0.title": "NVIDIA CEO、中国への侵入疑惑の論争",
+        "items.0.source": "PC Gamer",
+        "items.0.time": "2026-11-13",
+        "items.1.title": "『アルゴメス』2027年1月26日発売決定",
+        "items.1.source": "Famitsu",
+        "items.1.time": "2026-11-13",
+        "items.2.title": "『ロマンシングサガ3』リメイク詳細公開",
+        "items.2.source": "4Gamer",
+        "items.2.time": "2026-11-13",
+        "items.3.title": "『プロジェクトハイルーマー：スターウォーズの旅』発売",
+        "items.3.source": "IGN India",
+        "items.3.time": "2026-11-13",
+        "items.4.title": "『/DDN：ディフェンディングフェイト』PS5発売決定",
+        "items.4.source": "インベン",
+        "items.4.time": "2026-11-13",
+        "items.5.title": "Saros PS5価格20%オフ",
+        "items.5.source": "IGN",
+        "items.5.time": "2026-11-13"
+      },
+      "drk": {
+        "title": "プログラミングの未来：コードベースプレイヤーの登場",
+        "intro": "プログラミングを使ってゲームをプレイする時代が到来するのでしょうか？2027年に発売予定の『アルゴメス』はその第一歩です。\n",
+        "points": "RPG『アルゴメス』では、プレイヤーが自分のコードを活用してゲーム内のキャラクター「コーミュ」を操縦し、これを通じて迷宮を自動的に解決することができます。これにより、ゲームプレイが全く新しい方向に進化していることを理解することができます。\n\nこのような技術的な変化は、ゲームプレイヤーの役割を変えるものであり、既存のインタラクション方法を置き換える新たなスキルを要求します。この変化はプラットフォーム構造とゲーム消費構造にも影響を与えます。特に、ゲーム開発者は今後、プレイヤーの能力とコードの理解度を考慮する必要があります。これにより、ゲームのアクセスibilitと利便性が再定義されることでしょう。\n\n**『アルゴメス』の登場は単なるゲームの進化を越えて、ゲーム産業自体の変革を予告しています。**技術の発展とともに、ゲームプレイヤーの役割はますます複雑で興味深いものとなるでしょう。\n\nこれらの変化がもたらす未来のゲーム産業とゲーム体験について、どのように考えますか？このような新しいプレイ方法がゲーム文化にどのような影響を与えるかを考えてみてください。"
+      },
+      "epic": {
+        "title": "ナイトイカ",
+        "comment": "今週末のゲーム特集：\n\n- **無料ゲーム**：ナイトイカ（11月20日01:00まで）  \n異なる戦略を駆使したユニット配置を楽しみ、王国を探索し、モンスターを倒し、最強の戦闘チームを作り出しましょう！\n\n- **特大割引**：『上古の巣窟V：天の境特別版』80%割引（11月19日03:00まで）  \n広大なオープンワールドRPGで、冒険と戦闘に没頭し、卓越したゲーム体験を楽しもう！\n\n- **来週の予告**：『アライアンス：隔離』と『マーカ・オブ・ザ・デプス』は11月20日01:00から登場、恐怖と冒険をお楽しみください！"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "프로그래밍 미래 코드 기반 플레이어 등장! 🚀 (Knightica 무료 배포 🎉)",
+    "en": "The Future of Programming: Code-Based Players Emerge! 🚀 (Knightica Free Giveaway 🎉)",
+    "ja": "プログラミングの未来：コードベースプレイヤー登場！🚀 (Knightica無料配布🎉)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: The Future of Programming: Code-Based Players Emerge! 🚀 (Knightica Free Giveaway 🎉). Key context: The Future of Programming: Code-Based Player Engagement in the Gaming Industry. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters."
+}
