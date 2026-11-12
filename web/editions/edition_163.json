@@ -315,5 +315,54 @@
     "en",
     "ja"
   ],
-  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: The Future of Programming: Code-Based Players Emerge! 🚀 (Knightica Free Giveaway 🎉). Key context: The Future of Programming: Code-Based Player Engagement in the Gaming Industry. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters."
+  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: The Future of Programming: Code-Based Players Emerge! 🚀 (Knightica Free Giveaway 🎉). Key context: The Future of Programming: Code-Based Player Engagement in the Gaming Industry. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters.",
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": false,
+          "text": "게임 산업 변화의 바람! 🌬️ 코드로 플레이하는 시대가 오나요? Knightsica 무료 배포 시작! 🎉\n\n『Algolemeth』1월 발매 결정! 게임 개발의 미래는 코드에서 시작될까요? 🤔\n\n#Knightica #Algolemeth #GTPlayer",
+          "error": "Posting failed or blocked"
+        }
+      },
+      "updated_at": "2026-11-13T06:33:56.056123"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "11월 13일 오늘의 게임 소식 🎮\n➡️ 📰 [뉴스] Nvidia CEO, 중국 침투 의혹 논란\n➡️ 📅 [출시] 『Algolemeth』2027년 1월 26일 발매\n➡️ 📅 [출시] 『로맨싱 사가 3』리메이크 상세 공개\n➡️ 📅 [출시] 『Project Hail Mary: Journey Among the Stars』출시\n➡️ 📅 [출시] 『/DDN: 디파잉 페이트』PS5 출시 확정\n➡️ 🎮 [출시] ヘベン・バーンズ・レッド (PC)\n➡️ 🎮 [출시] Algolemeth (PC)\n➡️ ✍️ [인사이트] 프로그래밍의 미래: 게임 산업에서의 코드 기반 플레이어 투입\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임덕후 #게임추천 #인디게임 #신작게임 #Algolemeth #로맨싱사가3 #ProjectHailMary #/DDN #헤벤바언레드 #Nvidia #시사기획 #드케이 #드케이인사이트 #게임업계동향 #2026년11월13일뉴스 #게임업계뉴스 #게임동향 #게임아이디어 #게임업계트렌드",
+          "image_paths": [
+            "web/instagram/edition_163/card_cover.png",
+            "web/instagram/edition_163/card_news.png",
+            "web/instagram/edition_163/card_calendar.png",
+            "web/instagram/edition_163/card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "4029042536089848233_39332818166",
+            "url": "https://www.instagram.com/p/DfqCNb8kwmp/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-11-13T06:35:26.367044",
+      "freegames_results": {
+        "success": true,
+        "id": "4029042987120170342_39332818166",
+        "url": "https://www.instagram.com/p/DfqCUAAE5Vm/",
+        "error": null
+      },
+      "freegames_updated_at": "2026-11-13T06:36:18.872083"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "The Future of Programming: Code-Based Players Emerge! 🚀 (Knightica Free Giveaway 🎉)\n\nGet ready for a revolution in gaming with code-based player engagement! 🎮✨ Check out our latest edition for all the exciting news and freebies.\n\nhttps://www.gtplayer.net/edition-163-en/",
+        "error": null
+      },
+      "updated_at": "2026-11-13T06:37:11.690131"
+    }
+  }
 }
