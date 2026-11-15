@@ -246,5 +246,47 @@
     "en",
     "ja"
   ],
-  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: Who Will Rule Japan's Game Market in 2027? 🌟 (feat. Meme of the Day). Key context: 2027, Who Will Be the New Main Character of the Japanese Game Market?. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters."
+  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: Who Will Rule Japan's Game Market in 2027? 🌟 (feat. Meme of the Day). Key context: 2027, Who Will Be the New Main Character of the Japanese Game Market?. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters.",
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": false,
+          "text": "블루 아카이브, 일본 서비스 직접 맡는다! 🌟  \n2027년 일본 게임 시장의 새 주인공은 누가 될까? 🤔  \n게임메카 블레이즈벨 업데이트도 빼먹지 마세요! 🔓  \n#블루아카 #레이즈벨 #GTPlayer",
+          "error": "Posting failed or blocked"
+        }
+      },
+      "updated_at": "2026-11-16T06:31:16.880299"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "11월 16일 오늘의 게임 소식 🎮\n\n👉 📰 [뉴스] 블루 아카이브, 일본 서비스 2027년 직접 맡는다\n👉 📅 [출시] 『DERELIKT』레트로풍 3D 그래픽 FPS 출시\n👉 ✍️ [인사이트] 2027년, 일본 게임 시장의 새 주인공은 블루 아카이브!\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임덕후 #게임추천 #인디게임 #신작게임 #블루아카이브 #DERELIKT #2027게임시장 #일본게임 #출시캘린더 #업데이트미리보기 #게임메카 #블레이즈벨 #카제나 #스팀특가 #게임메인 #게임추천 #게임업계 #게임동향",
+          "image_paths": [
+            "web/instagram/edition_164/card_cover.png",
+            "web/instagram/edition_164/card_news.png",
+            "web/instagram/edition_164/card_calendar.png",
+            "web/instagram/edition_164/card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "4031215401904046890_39332818166",
+            "url": "https://www.instagram.com/p/DfxwQy7kwMq/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-11-16T06:32:32.076939"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Who Will Rule Japan's Game Market in 2027? 🌟 (feat. Meme of the Day)\n\nBlue Archive is set to launch directly in Japan next year, potentially shaking up the market!",
+        "error": null
+      },
+      "updated_at": "2026-11-16T06:33:23.336645"
+    }
+  }
 }
