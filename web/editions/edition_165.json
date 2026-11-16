@@ -230,5 +230,47 @@
     "en",
     "ja"
   ],
-  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: Esports Industry: Rising with Policy Changes and Challenges🚀. Key context: Policy Growth and Challenges in the e-sports Industry. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters."
+  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: Esports Industry: Rising with Policy Changes and Challenges🚀. Key context: Policy Growth and Challenges in the e-sports Industry. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters.",
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": false,
+          "text": "钩: e스포츠 정책 변화 속 신상 게임 소식 알아보세요😉\n\n스마일게이트의 에픽세븐 월드 챔피언십 예매 시작! 🏆\n\n#스마일게이트 #에픽세븐 #GTPlayer",
+          "error": "Posting failed or blocked"
+        }
+      },
+      "updated_at": "2026-11-17T06:32:00.980127"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "11월 17일 오늘의 게임 소식 🎮\n\n🚀 📰 [뉴스] 스마일게이트, 에픽세븐 월드 챔피언십 2026 결승전 좌석 예매 시작\n🚀 📅 [출시] NVIDIA, 'Razer Soma Pro' 게이밍 체어 출시\n🚀 ✍️ [인사이트] Dr. K, e스포츠 산업의 정책적 성장과 도전\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임덕후 #게임추천 #인디게임 #신작게임 #e스포츠 #게임업계 #게임정책 #플레이어 #게임업데이트 #게임아이템 #게임기기 #게임문화 #게임산업 #게임기술 #게임디자인 #게임마케팅 #게임뉴스레터",
+          "image_paths": [
+            "web/instagram/edition_165/card_cover.png",
+            "web/instagram/edition_165/card_news.png",
+            "web/instagram/edition_165/card_calendar.png",
+            "web/instagram/edition_165/card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "4031940524671974542_39332818166",
+            "url": "https://www.instagram.com/p/Df0VIuIkzyO/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-11-17T06:33:13.435593"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Esports Industry: Rising with Policy Changes and Challenges🚀\n\nGlobal policy shifts are reshaping the esports landscape, and new challenges are emerging. Stay tuned for updates as key players navigate these changes. Dive into edition 165 for insights and exciting news. 🕹️💻\n\nhttps://www.gtplayer.net/edition-165-en/",
+        "error": null
+      },
+      "updated_at": "2026-11-17T06:34:08.320883"
+    }
+  }
 }
