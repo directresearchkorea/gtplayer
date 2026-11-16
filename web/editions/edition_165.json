@@ -1,0 +1,234 @@
+{
+  "num": "165",
+  "date": "2026-11-17",
+  "status": "published",
+  "schedule": {
+    "date": "2026-11-17",
+    "time": "06:25",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "event",
+          "game": "제8회 대한민국 e스포츠 정책포럼",
+          "dev": "한국e스포츠산업학회",
+          "date": "11월 20일(목)",
+          "platforms": [],
+          "color": "#10b981",
+          "note": "한국e스포츠산업학회가 11월 20일 오후 1시 30분 부산 벡스코에서 제8회 대한민국 e스포츠 정책포럼을 연다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1783597",
+          "source_name": "게임메카"
+        }
+      ],
+      "events": [
+        {
+          "name": "에픽세븐 e스포츠 'E7WC 2026' 결승전",
+          "note": "",
+          "venue": "서울 잠실 롯데시네마 월드타워",
+          "date": "2026-11-28",
+          "tag": "e스포츠",
+          "website": "https://www.inven.co.kr/webzine/news/?news=323428"
+        },
+        {
+          "name": "지스타 2026",
+          "note": "",
+          "venue": "한국 부산 벡스코",
+          "date": "2026-11-18~2026-11-22",
+          "tag": "오프라인 행사",
+          "d_day_str": "D-1",
+          "website": "https://www.gstar.or.kr"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "스마일게이트, 에픽세븐 월드 챔피언십 2026 결승전 좌석 예매 시작",
+          "source": "인벤",
+          "time": "2026-11-17",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=323428"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "NVIDIA, 'Razer Soma Pro' 게이밍 체어 출시",
+          "source": "4Gamer",
+          "time": "2026-11-16",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/023/G002318/20261116021/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "Riot Games, 'League of Legends: New Dawn' 대규모 업데이트 발표",
+          "source": "4Gamer",
+          "time": "2026-11-17",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/073/G007372/20261116012/"
+        },
+        {
+          "category": "discount",
+          "tag": "할인",
+          "title": "Apple AirPods Pro 3 Wireless Noise Canceling Earbuds Drops to Its Lowest Price Ever for Black Friday",
+          "source": "IGN",
+          "time": "2026-11-17",
+          "country": "GLOBAL",
+          "article_url": "https://www.ign.com/articles/apple-airpods-pro-3-deal-november-2026"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "e스포츠 산업의 정책적 성장과 도전",
+      "intro": "게임 산업의 미래는 e스포츠 산업의 성장과 함께 웅장하게 펼쳐집니다. 그러나 그 성장 속에서 무엇이 가장 필요한지 고민해야 합니다.",
+      "points": "오늘의 주요 뉴스 중에서 가장 주목해야 할 사건은 제8회 대한민국 e스포츠 정책포럼이 열리는 것입니다. 이 포럼은 e스포츠 산업의 발전과 함께 정책적인 지원과 제도적 마련의 중요성을 재확인하는 자리입니다.\n\n이 포럼은 산업 전반에 걸친 정책적 지원과 투자를 촉진하는 플랫폼 역할을 합니다. 이는 e스포츠의 경제적 가치를 높이고, 그 성장의 지속성을 확보하는 데 중대한 역할을 합니다. 또한, 정책포럼은 e스포츠의 발전 과정에서 발생하는 다양한 문제를 정리하고 해결 방안을 모색하는 자리이기도 합니다.\n\n따라서, 이 포럼은 e스포츠 산업의 구조적 성장에 중요한 의미를 가집니다. **산업의 체계화와 지속 가능한 발전을 위한 정책적 토대를 마련하는 기회**이기 때문입니다. 이는 단순히 게임 행사나 대회가 아닌, 산업 전반의 생태계를 건전하게 발전시키는 측면에서 더욱 가치가 큽니다.\n\n이러한 정책 포럼이 갖는 의미는 e스포츠 산업의 향후 발전 방향을 결정하는 데 있어 핵심적인 요소입니다. 앞으로 e스포츠 산업이 더욱 성장하기 위해서는 무엇이 필요한가요? 이 질문에 대한 답변은 이 포럼에서 찾을 수 있을 것입니다. 또한, 이 포럼을 통해 앞으로의 e스포츠 산업이 어떻게 발전할 것인지를 예측하는 중요한 기회가 될 것입니다. 🎮💡"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "8th Korea e-sports Policy Forum",
+        "releases.0.note": "The Korea e-Sports Association will hold the 8th Korea e-sports Policy Forum at Busan Expo Center on November 20 at 1:30 PM.",
+        "releases.0.dev": "Korea e-Sports Association",
+        "events.0.name": "E7WC 2026 Grand Finals of Epic Seven e-sports",
+        "events.0.venue": "Seoul Jamil Cinema World Tower",
+        "events.1.name": "Gstar 2026",
+        "events.1.venue": "Busan Expo Center, Korea"
+      },
+      "briefing": {
+        "items.0.title": " Smilegate Starts Seat Booking for Epic Seven World Championship 2026 Grand Finals",
+        "items.0.source": "Inven",
+        "items.0.time": "2026-11-17",
+        "items.1.title": "NVIDIA Launches 'Razer Soma Pro' Gaming Chair",
+        "items.1.source": "4Gamer",
+        "items.1.time": "2026-11-16",
+        "items.2.title": "Riot Games Announces Major Update for 'League of Legends: New Dawn'",
+        "items.2.source": "4Gamer",
+        "items.2.time": "2026-11-17",
+        "items.3.title": "Apple AirPods Pro 3 Wireless Noise Canceling Earbuds Drop to Lowest Price Ever for Black Friday",
+        "items.3.source": "IGN",
+        "items.3.time": "2026-11-17"
+      },
+      "drk": {
+        "title": "Policy Growth and Challenges in the e-sports Industry",
+        "intro": "The future of the gaming industry is grandly unfolded alongside the growth of the e-sports industry. However, as it grows, we must consider what is most essential.",
+        "points": "Among the recent major news, the highlight is the hosting of the 8th Korea e-sports Policy Forum. This forum serves as a platform to reaffirm the importance of policy support and institutional provisions for the e-sports industry's development.\n\nThis forum promotes policy support and investment across the industry, enhancing the economic value of e-sports and ensuring its sustainable growth. It also serves as a platform to address various issues that arise during the e-sports industry's development and to explore solutions.\n\nTherefore, this forum holds significant meaning for the structured growth of the e-sports industry. It is an opportunity to establish a policy framework for systematized and sustainable development. This is much more valuable than just a gaming event or tournament, as it contributes to the healthy development of the industry's ecosystem.\n\nThe significance of such policy forums is crucial in determining the future direction of the e-sports industry. To ensure further growth of the e-sports industry, what is essential? The answers to this question can be found at this forum. Additionally, this forum provides a key opportunity to predict the future development of the e-sports industry. 🎮💡"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "第八回大韓民国电子竞技政策论坛",
+        "releases.0.note": "韓国电子竞技产业学会于11月20日下午1点30分在釜山ベックスコ举办第八回大韓民国电子竞技政策论坛。",
+        "releases.0.dev": "韓国电子竞技产业学会",
+        "events.0.name": "エピックセブン电子竞技 'E7WC 2026'決勝战",
+        "events.0.venue": "ソウル松 Hill ロッテシネマ ウォルトワールドタワー",
+        "events.1.name": "ジスタ 2026",
+        "events.1.venue": "韓国釜山ベックスコ"
+      },
+      "briefing": {
+        "items.0.title": " Smilegate, エピックセブンワールドチャンピオンシップ2026決勝戦のチケット予約開始",
+        "items.0.source": "インベント",
+        "items.0.time": "2026-11-17",
+        "items.1.title": "NVIDIA, 'Razer Soma Pro' ゲーミングチェア発売",
+        "items.1.source": "4Gamer",
+        "items.1.time": "2026-11-16",
+        "items.2.title": "Riot Games, 'League of Legends: New Dawn' 大規模アップデート発表",
+        "items.2.source": "4Gamer",
+        "items.2.time": "2026-11-17",
+        "items.3.title": "Apple AirPods Pro 3 Wirelessノイズキャンセリングイヤホンがブラックフライデーで史上最低価格に",
+        "items.3.source": "IGN",
+        "items.3.time": "2026-11-17"
+      },
+      "drk": {
+        "title": "电子竞技产业的政策性成长与挑战",
+        "intro": "ゲーム産業の未来は、電子競技産業の成長とともに壮麗に展開されます。しかし、その成長の中で最も必要なものは何かを考えてみなければなりません。",
+        "points": "今日の主要ニュースの中で最も注目すべき出来事は、第八回大韓民国电子竞技政策论坛召开。このフォーラムは、電子競技産業の発展と並行して、政策的な支援と制度的な準備の重要性を再確認します。\n\nこのフォーラムは、産業全体にわたる政策的支援と投資を促進するプラットフォーム役割を持ちます。これは、電子競技の経済的価値を高め、その成長の持続性を確保する上で重要な役割を果たします。また、フォーラムは電子競技の発展過程で生じる様々な問題を整理し、解決策を探求する場でもあります。\n\nしたがって、このフォーラムは電子競技産業の構造的な成長にとって重要な意味を持ちます。**産業の体系化と持続可能な発展をための政策的基盤を整える機会**だからです。これは単にゲームイベントや大会ではなく、産業全体の生態系を健全に発展させる側面からも大きな価値があります。\n\nこのような政策フォーラムが持つ意味は、電子競技産業の将来の発展方向を決定する上で重要な要素です。将来、電子競技産業がさらに成長するためには、何が必要ですか？この問いへの答えはこのフォーラムから見つけることができます。また、このフォーラムを通じて将来的の電子競技産業がどのように発展するかを予測する重要な機会となります。 🎮💡"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "e스포츠 산업, 정책의 변화와 도전을 넘어🚀",
+    "en": "Esports Industry: Rising with Policy Changes and Challenges🚀",
+    "ja": "eスポーツ産業、政策の変化と課題を乗り越えて🚀"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: Esports Industry: Rising with Policy Changes and Challenges🚀. Key context: Policy Growth and Challenges in the e-sports Industry. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters."
+}
