@@ -208,5 +208,47 @@
     "en",
     "ja"
   ],
-  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: Sinara Studio Layoffs Announced Amidst Project Helix Xbox Console Teasers 🎮❄️. Key context: Seasonal Changes in the Gaming Industry: Seniera Studio's Staff Reduction Foreshadows Winter. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters."
+  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: Sinara Studio Layoffs Announced Amidst Project Helix Xbox Console Teasers 🎮❄️. Key context: Seasonal Changes in the Gaming Industry: Seniera Studio's Staff Reduction Foreshadows Winter. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters.",
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": false,
+          "text": "시니아라 스튜디오 인력 줄었네 🙁  \n검은사막 모바일 블랙 프라이데이 이벤트 준비해볼까? 🔥  \n#검은사막모바일 #XboxBlackFriday #GTPlayer",
+          "error": "Posting failed or blocked"
+        }
+      },
+      "updated_at": "2026-11-18T06:33:31.136285"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "11월 18일 오늘의 게임 소식 🎮\n📝 [뉴스] 시니아라 스튜디오, 33% 인력 삭감\n📅 [출시] 검은사막 모바일, 블랙 프라이데이 이벤트\n✍️ [인사이트] 겨울 앞두고 산업 구조 변화 암시\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임dek #게임추천 #인디게임 #신작게임\n#검은사막모바일 #블랙프라이데이 #시니아라스튜디오 #인력감축\n#XboxBlackFriday #래스터프로젝트 #게임산업 #겨울철\n#DrK인사이트 #뉴스레터 #게임업계 #인사이트3장 #슬라이드뉴스",
+          "image_paths": [
+            "web/instagram/edition_166/card_cover.png",
+            "web/instagram/edition_166/card_news.png",
+            "web/instagram/edition_166/card_calendar.png",
+            "web/instagram/edition_166/card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "4032666038105767347_39332818166",
+            "url": "https://www.instagram.com/p/Df26GVLE32z/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-11-18T06:34:41.811150"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "Sinara Studio Layoffs Announced Amidst Project Helix Xbox Console Teasers 🎮❄️\n\nGaming winter is officially here as Sinara Studio faces a 33% staff cut while the Xbox team teases new Project Helix console updates. Stay frosty!",
+        "error": null
+      },
+      "updated_at": "2026-11-18T06:35:32.540186"
+    }
+  }
 }
