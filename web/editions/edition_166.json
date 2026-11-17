@@ -1,0 +1,212 @@
+{
+  "num": "166",
+  "date": "2026-11-18",
+  "status": "published",
+  "schedule": {
+    "date": "2026-11-18",
+    "time": "06:27",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [],
+      "events": [
+        {
+          "name": "지스타 2026",
+          "note": "",
+          "venue": "한국 부산 벡스코",
+          "date": "2026-11-18~2026-11-22",
+          "tag": "오프라인 행사",
+          "d_day_str": "D-Day",
+          "website": "https://www.gstar.or.kr"
+        },
+        {
+          "name": "타이페이 게임쇼 2027",
+          "note": "",
+          "venue": "대만 타이페이",
+          "date": "2027-01-15~2027-01-19",
+          "tag": "오프라인 행사",
+          "d_day_str": "D-58",
+          "website": "https://tgs.tca.org.tw"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "시니아라 스튜디오, 33% 인력 삭감",
+          "source": "PC Gamer",
+          "time": "2026-11-18",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/gaming-industry/civilization-dev-firaxis-reportedly-lays-off-a-third-of-its-staff-studio-head-departs/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "검은사막 모바일, 블랙 프라이데이 이벤트",
+          "source": "인벤",
+          "time": "2026-11-18",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=323485"
+        },
+        {
+          "category": "discount",
+          "tag": "할인",
+          "title": "Xbox Black Friday 할인",
+          "source": "IGN India",
+          "time": "2026-11-18",
+          "country": "GLOBAL",
+          "article_url": "https://in.ign.com/gallery/277310/xbox-black-friday-sale-2026"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "게임 산업의 계절적 변화: 겨울 앞두고 시니아라 스튜디오 인력 감축",
+      "intro": "시니아라 스튜디오의 대규모 인력 감축 소식은 게임 업계의 겨울을 예고합니다. 이는 단순한 경영 효율화를 넘어 산업 구조 변화를 암시합니다. 🌬️",
+      "points": "오늘의 뉴스에서 가장 주목할 만한 것은 시니아라 스튜디오의 33% 인력 감축입니다. 이는 최근 글로벌 게임 산업의 수익 감소와 함께 주목받는 현상입니다.\n\n이러한 인력 감축은 플랫폼 구조와 게임 소비 구조에 직접적인 영향을 미칩니다. 개발사들은 효율성을 위해 인력 재조정을 선택하며, 이는 결국 게임의 품질과 다양성에 영향을 줄 수 있습니다.\n\n**이 같은 상황은 게임 산업의 빠른 변화 속에서 생존을 위한 필수적인 결정이지만, 장기적으로는 업계의 혁신과 성장을 저해할 가능성이 있습니다.**\n\n이러한 변화가 계속된다면, 게임 산업은 어떻게 진화할까요? 독자 여러분의 생각을 듣고 싶습니다."
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": true,
+      "title": "The next generation of Xbox console: Project Helix",
+      "channel": "XBOX",
+      "videoId": "3xy9EmTRxJE",
+      "url": "https://www.youtube.com/watch?v=3xy9EmTRxJE",
+      "thumbnail": "https://i.ytimg.com/vi/3xy9EmTRxJE/hqdefault.jpg",
+      "comment": "오늘 퇴근길에 들을 만한 게임 음악 추천해드릴게요! 'The next generation of Xbox console: Project Helix'이라는 제목의 유튜브 영상은 최근 화제의 Xbox 신제품을 소개한 영상이에요. 이 곡은 그 엑스박스 신제품의 분위기를 잘 표현한 음악이에요. 새로운 Xbox의 강력한 성능과 함께 이 음악을 틀어보는 건 어떨까요? 오늘 하루를 마무리하면서 농담처럼 상상해보는 것도 좋겠네요! 🎮🎶",
+      "search_query": "Xbox New Console Launch Trailer Official Soundtrack",
+      "ai_game_name": "엑스박스 신제품",
+      "ai_reason": "Xbox Black Friday 할인 소식이 주목받고 있으며, 신제품 소개에 맞는 트렌디한 게임 사운드트랙이 필요하다."
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "events.0.name": "GStar 2026",
+        "events.0.venue": "Busan Expo & Convention Center, South Korea",
+        "events.1.name": "Taipei Game Show 2027",
+        "events.1.venue": "Taipei, Taiwan"
+      },
+      "briefing": {
+        "items.0.title": "Seniera Studio, 33% Staff Cut",
+        "items.0.source": "PC Gamer",
+        "items.0.time": "2026-11-18",
+        "items.1.title": "Dawn Breaker Mobile, Black Friday Event",
+        "items.1.source": "INVEN",
+        "items.1.time": "2026-11-18",
+        "items.2.title": "Xbox Black Friday Sales",
+        "items.2.source": "IGN India",
+        "items.2.time": "2026-11-18"
+      },
+      "drk": {
+        "title": "Seasonal Changes in the Gaming Industry: Seniera Studio's Staff Reduction Foreshadows Winter",
+        "intro": "The news of a major staff cut at Seniera Studio is signaling the arrival of winter in the gaming industry. This is not just about cost-cutting, but a reflection of structural changes in the industry. 🌬️",
+        "points": "One of the most noteworthy news today is the 33% staff cut at Seniera Studio. This is gaining attention alongside the global decline in gaming industry revenues.\n\nSuch staff cuts directly impact the platform structure and gaming consumption patterns. Developers are opting for staff reorganization for efficiency, which can have long-term effects on the quality and diversity of games.\n\n**This situation, while a necessary survival decision in the rapid changes of the gaming industry, may hinder innovation and growth in the long term.**\n\nIf these changes continue, how will the gaming industry evolve? I would love to hear your thoughts."
+      },
+      "soundtrack": {
+        "title": "The next generation of Xbox console: Project Helix",
+        "comment": "Here's a recommendation for game music to enjoy on your commute home today! The YouTube video titled 'The next generation of Xbox console: Project Helix' introduces the recent hype Xbox new product. The music in this video captures the essence of the new Xbox's vibe. How about trying to play this music while enjoying the new Xbox's powerful performance? It could be a fun way to end your day with a bit of imagination! 🎮🎶"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "events.0.name": "ギストア 2026",
+        "events.0.venue": "韓国 普山 蝙斯科",
+        "events.1.name": "台北ゲームショウ 2027",
+        "events.1.venue": "台爾灣 台北"
+      },
+      "briefing": {
+        "items.0.title": "シニアラスタジオ、33パーセントの人員削減",
+        "items.0.source": "PCゲーマー",
+        "items.0.time": "2026-11-18",
+        "items.1.title": "ブラックフライデーイベントで「闇黒さ幕僚」",
+        "items.1.source": "インベント",
+        "items.1.time": "2026-11-18",
+        "items.2.title": "Xbox ブラックフライデー 割引",
+        "items.2.source": "IGN インディア",
+        "items.2.time": "2026-11-18"
+      },
+      "drk": {
+        "title": "ゲーム産業の季節的変化: 寒さの前にシニアラスタジオの人員削減",
+        "intro": "シニアラスタジオの大幅な人員削減のニュースは、ゲーム産業の寒さを予告しています。これは単なる経営効率化を越えて、産業構造の変化を示唆しています。 🌬️",
+        "points": "今日のニュースで最も注目に値するのは、シニアラスタジオの33パーセントの人員削減です。これは、最近のグローバルゲーム産業の収益低下と共に注目される現象です。\n\nこの人員削減は、プラットフォーム構造とゲーム消費構造に直接的な影響を及ぼします。開発元は効率性の観点から人員再編成を選択し、これが最終的にはゲームの品質と多様性に影響を及ぼす可能性があります。\n\n**このような状況は、ゲーム産業の急速な変化の中で生存にとって欠かせない決定ですが、長期的には産業の革新と成長を阻害する可能性があります。**\n\nこのような変化が続くなら、ゲーム産業はどのように進化するのでしょうか？読者の方々の意見を聞きたいと思います。"
+      },
+      "soundtrack": {
+        "title": "次世代のXboxコンソール：プロジェクト・ヘリックス",
+        "comment": "今日は帰宅の道中、おすすめのゲーム音楽を紹介します！「次世代のXboxコンソール：プロジェクト・ヘリックス」というタイトルのYouTube動画は、最近話題のXbox新製品を紹介した動画です。この曲は、その新しいXboxの雰囲気をよく表現した音楽です。新しいXboxの強力な性能と合わせて、この曲をかけてみるのも面白いかもしれません。今日の一日を締めくくる際に、冗談半分で想像するのも良いでしょう！ 🎮🎶"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "시니아라 스튜디오 인력 감축 발표와 함께 새로운 Xbox 콘솔 래스터 프로젝트 🎮❄️",
+    "en": "Sinara Studio Layoffs Announced Amidst Project Helix Xbox Console Teasers 🎮❄️",
+    "ja": "シナラスタジオの人員削減発表と次世代Xboxコンソールプロジェクト・ヘリックス情報 🎮❄️"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: Sinara Studio Layoffs Announced Amidst Project Helix Xbox Console Teasers 🎮❄️. Key context: Seasonal Changes in the Gaming Industry: Seniera Studio's Staff Reduction Foreshadows Winter. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters."
+}
