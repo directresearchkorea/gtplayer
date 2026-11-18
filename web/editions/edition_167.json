@@ -270,5 +270,47 @@
     "en",
     "ja"
   ],
-  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: Major Game Marketing Strategies Revealed!👀 + Castle in the Sands Official Trailer. Key context: Major Works and Marketing Strategies in the Game Industry. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters."
+  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: Major Game Marketing Strategies Revealed!👀 + Castle in the Sands Official Trailer. Key context: Major Works and Marketing Strategies in the Game Industry. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters.",
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": false,
+          "text": "Hooks: 붉은사막이 나왔어요🚀\n\n핵심: 카astle in the Sands가 공개되었어요😉\n\n마케팅 대작도 재미있네요! 붉은사막과 아주르 프로밀리아도 놓치지 마세요👌\n\n#虹色的沙漠 #MajuPromise #GTPlayer 🏃‍♂️💰",
+          "error": "Posting failed or blocked"
+        }
+      },
+      "updated_at": "2026-11-19T06:32:08.203176"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "11월 19일 오늘의 게임 소식 🎮\n\n📚 📰 [뉴스] 더 블러드 오브 던워커와 위메이드커넥트의 신작 게임 발표, OPPO Find X10 출시 예정, Ghost Transmission 출시, Amazon Control 할인 행사를 진행 중입니다.\n\n📅 📅 [출시] 붉은사막과 아주르 프로밀리아가 각각 PC, PS5, Xbox에서 출시되었습니다.\n\n✍️ [인사이트] 2026년 대한민국 게임대상에서 가장 뛰어난 성과를 거둔 '붉은사막'과 도심을 뒤덮는 옥외광고로 주목받은 신작 게임의 차이점은 무엇일까요?\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임덕후 #게임추천 #인디게임 #신작게임 #출시정보 #마케팅전략 #게임산업 #한국게임 #신작추천 #대작게임 #게임기타 #출시캘린더 #게임인사이트 #게임시사 #게임문화 #게임레퍼런스",
+          "image_paths": [
+            "web/instagram/edition_167/card_cover.png",
+            "web/instagram/edition_167/card_news.png",
+            "web/instagram/edition_167/card_calendar.png",
+            "web/instagram/edition_167/card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "4033390201502129666_39332818166",
+            "url": "https://www.instagram.com/p/Df5ewS5E14C/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-11-19T06:33:29.841990"
+    },
+    "linkedin": {
+      "results": {
+        "posted": false,
+        "text": "Major Game Marketing Strategies Revealed!👀 + Castle in the Sands Official Trailer\n\nDiscover the latest in game marketing with our latest edition, featuring the official trailer for Castle in the Sands and exciting updates from top games like Scarlet Desert and Azure Promelia. Dive into the strategies that drive success in the gaming industry.\nCheck out the full edition: https://www.gtplayer.net/edition-167-en/\n\nhttps://www.gtplayer.net/edition-167-en/",
+        "error": "LinkedIn posting failed"
+      },
+      "updated_at": "2026-11-19T06:34:25.517961"
+    }
+  }
 }
