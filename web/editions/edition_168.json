@@ -344,5 +344,54 @@
     "en",
     "ja"
   ],
-  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: The Judge of Platform Monopoly Era! 👑 (feat. Epic Games Free Giveaway). Key context: The Contradiction Between Monopoly and Openness in the Gaming Platform. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters."
+  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: The Judge of Platform Monopoly Era! 👑 (feat. Epic Games Free Giveaway). Key context: The Contradiction Between Monopoly and Openness in the Gaming Platform. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters.",
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": false,
+          "text": "플랫폼 독점 시대, 과연 누가 왕이 될까? 👑\n\nResequence: The Orchard 출시, GTA 6 개발자들 불안감增大树\n\n#GTPlayer #Resequence #GTA6",
+          "error": "Posting failed or blocked"
+        }
+      },
+      "updated_at": "2026-11-20T06:35:30.087357"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "11월 20일 오늘의 게임 소식 🎮\n\n📢 📰 GTA 6 개발자들 고용 불안감\n👉 🔗 출시 일정 확인하세요!\n\n📅 📅 Killing Castro 트레일러 공개\n👉 🔗 놓치지 마세요!\n\n🎨 ✍️ 紅の砂漠 아름다운 나무 디자인 공개\n👉 🔗 상세 내용 확인하세요!\n\n📍 📅 지스타 2026 크래프톤 부스 공개\n👉 🔗 방문자들의 이목을 끌까?\n\n🎊 ✍️ ブロスタ 世界一決定戦 2026 개막\n👉 🔗 놓치지 마세요!\n\n🎮 Resequence: The Orchard (PC)\n👉 🔗 신작 소개!\n\n🎮 Doom level designer Sandy Petersen on Gabe Newell: 'With Steam he is literally guarding the gates of Hell' (PC)\n👉 🔗 재미있는 이야기!\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 https://www.gtplayer.net/edition-168/\n\n#게임뉴스 #게임덕후 #게임추천 #인디게임 #신작게임 #GTA6 #KillingCastro #红的沙漠 #CJGameShow #ブロスタ #Resequence #蒸汽平台 #游戏新游 #游戏资讯 #游戏社区 #游戏推荐 #游戏开发者",
+          "image_paths": [
+            "web/instagram/edition_168/card_cover.png",
+            "web/instagram/edition_168/card_news.png",
+            "web/instagram/edition_168/card_calendar.png",
+            "web/instagram/edition_168/card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "4034116683937533176_39332818166",
+            "url": "https://www.instagram.com/p/Df8D8AYksz4/",
+            "error": null
+          },
+          "error": null
+        }
+      },
+      "updated_at": "2026-11-20T06:36:51.548118",
+      "freegames_results": {
+        "success": true,
+        "id": "4034117168866192125_39332818166",
+        "url": "https://www.instagram.com/p/Df8EDEAkur9/",
+        "error": null
+      },
+      "freegames_updated_at": "2026-11-20T06:37:49.132152"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "The Judge of Platform Monopoly Era! 👑 (feat. Epic Games Free Giveaway)\n\nDiscover the latest in gaming with Resequence: The Orchard and insights from Doom level designer Sandy Petersen on the future of gaming. Plus, get ready for the judge of the platform monopoly era with Epic Games' surprise giveaway!",
+        "error": null
+      },
+      "updated_at": "2026-11-20T06:38:44.438804"
+    }
+  }
 }
