@@ -1,0 +1,348 @@
+{
+  "num": "168",
+  "date": "2026-11-20",
+  "status": "published",
+  "schedule": {
+    "date": "2026-11-20",
+    "time": "06:26",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "Resequence: The Orchard",
+          "dev": "Clear Rayve",
+          "date": "2026-11-20(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "Clear Rayve 于2026年11月20日推出了这款心理恐怖ADV游戏，玩家将扮演一名心理咨询师解决学生的奇怪问题。",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/964/G096496/20261118041/",
+          "source_name": "4Gamer"
+        },
+        {
+          "category": "release",
+          "game": "Doom level designer Sandy Petersen on Gabe Newell: 'With Steam he is literally guarding the gates of Hell'",
+          "dev": "Doom Level Designers, Unity",
+          "date": "2026-11-20(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "Unity 和Valve之间的争议还在继续，Doom的关卡设计师 Sandy Petersen 对 Gabe Newell 的评价引发了行业内的讨论。",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/gaming-industry/doom-level-designer-sandy-petersen-on-gabe-newell-with-steam-he-is-literally-guarding-the-gates-of-hell/",
+          "source_name": "PC Gamer"
+        }
+      ],
+      "events": [
+        {
+          "name": "지스타 2026",
+          "note": "크래프톤, 뤼튼, 크래프톤 등 다양한 게임 개발사 부스 참가",
+          "venue": "부산 벡스코",
+          "date": "2026-11-19 ~ 2026-11-22",
+          "tag": "오프라인 행사",
+          "website": "https://www.inven.co.kr/webzine/news/?news=323629"
+        },
+        {
+          "name": "타이페이 게임쇼 2027",
+          "note": "",
+          "venue": "대만 타이페이",
+          "date": "2027-01-15~2027-01-19",
+          "tag": "오프라인 행사",
+          "d_day_str": "D-56",
+          "website": "https://tgs.tca.org.tw"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "GTA 6 개발자들 고용 불안감",
+          "source": "IGN India",
+          "time": "2026-11-19",
+          "country": "IN",
+          "article_url": "https://in.ign.com/grand-theft-auto-vi/277509/gta-6s-jason-and-lucia-actors-break-years-of-silence-with-new-joint-statement"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "Killing Castro 트레일러 공개",
+          "source": "IGN India",
+          "time": "2026-11-19",
+          "country": "IN",
+          "article_url": "https://in.ign.com/video/277512/killing-castro-official-trailer"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "紅の砂漠 게임의 아름다운 나무 디자인 공개",
+          "source": "4Gamer",
+          "time": "2026-11-19",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/484/G048495/20261119038/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "지스타 2026 크래프톤 부스 공개",
+          "source": "인벤",
+          "time": "2026-11-19",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=323629"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "ブロスタ 世界一決定戦 2026 개막",
+          "source": "4Gamer",
+          "time": "2026-11-19",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/384/G038494/20261119053/"
+        },
+        {
+          "category": "discount",
+          "tag": "할인",
+          "title": "파워플레어 30주년 기념 패키지 40% 할인",
+          "source": "IGN",
+          "time": "2026-11-19",
+          "country": "GLOBAL",
+          "article_url": "https://www.ign.com/articles/pokmon-tcg-30th-celebration-knock-out-collection-is-back-in-stock-at-amazon-with-a-price-drop"
+        },
+        {
+          "category": "discount",
+          "tag": "할인",
+          "title": "포토 50% 할인 쿠폰 제공",
+          "source": "인벤",
+          "time": "2026-11-19",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=323627"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "게임 산업의 플랫폼 독점과 개방성의 모순",
+      "intro": "게임 플랫폼 간의 갈등이 점점 더 심화되고 있습니다. 이는 결국 개발자와 게이머 모두에게 어떤 영향을 미칠까요?",
+      "points": "Unity와 Valve 간의 갈등이 계속되는 가운데, Doom의 설계자 Sandy Petersen이 Gabe Newell을 향한 비판적인 발언을 남겼습니다. 이러한 논쟁은 플랫폼 독점과 개방성 간의 모순을 일깨워 주며, 결국에는 게임 소비 구조와 플랫폼 구조에 큰 변화를 가져올 가능성이 있습니다.\n\n이러한 갈등의 배후에는 플랫폼 제작사들이 자신들의 시장을 지키기 위한 노력이 자리잡고 있습니다. 독점적인 플랫폼은 개발자들에게 다양한 제한을 두지만, 동시에 안정적인 수익을 보장합니다. 그러나 이는 소비자들에게는 다양한 선택권을 제한하며, 게임 산업의 발전을 저해할 수 있습니다.\n\n**이런 상황에서 플랫폼의 개방성은 게임 산업의 혁신과 다양성을 촉진하며, 결국에는 게이머들이 더욱 다양한 경험을 즐길 수 있게 합니다.**\n\n따라서 개발자와 게이머 모두에게 플랫폼 선택이 더욱 중요해질 것입니다. 이에 따른 산업의 변화와 개발자들의 전략은 앞으로 어떻게 전개될까요?"
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "Mark of the Deep",
+      "url": "https://store.epicgames.com/ko/p/mark-of-the-deep-f7dc08",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png",
+      "comment": "주말 게임 혜택\n\n- 에픽게임즈: Mark of the Deep (2026-11-27 01:00까지)  \n  서사적인 해적 모험, 메트로이드바니아 스타일의 게임 플레이, 매력적인 이야기! 킬링타임으로 최고.\n\n- 에픽게임즈: Next Week預告  \n  파이어스톤: 온라인 방치형 RPG, 영웅 수집과 전투를 즐기세요! ⚔️\n\n- 스팀: FINAL FANTASY VII REBITH 85% 할인 (2026-12-03 03:00까지)  \n  RPG 팬들을 위한 대박 할인, 이기회 놓치지 마세요!",
+      "steam_deal": {
+        "type": "deal",
+        "name": "FINAL FANTASY VII REBIRTH",
+        "app_id": 2909400,
+        "url": "https://store.steampowered.com/app/2909400",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1793774936",
+        "discount_percent": 85,
+        "original_price": 6280000,
+        "final_price": 942000,
+        "end_date": "2026-12-03 03:00"
+      },
+      "epic_current": [
+        {
+          "title": "Mark of the Deep",
+          "description": "Mark of the Deep은 강력한 서사와 메트로이드바니아 및 소울라이크 게임 요소의 흥미로운 조합이 있는 서사적인 해적 모험입니다. 해적 루키가 이 여정에 나서고, 저주받은 섬의 신비를 탐험하며 사라진 선원을 찾아보세요!",
+          "url": "https://store.epicgames.com/ko/p/mark-of-the-deep-f7dc08",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png",
+          "end_date": "2026-11-27 01:00"
+        }
+      ],
+      "epic_upcoming": [
+        {
+          "title": "파이어스톤  - 방치 클릭커 온라인 RPG",
+          "description": "Firestone: Online Idle RPG는 방치형 RPG 멀티플레이어 판타지 게임입니다. 영웅 수집🧙‍♂️, 영웅의 장비 및 스킬 업그레이드, 방치형 전투 참여, 신나는 증분형 클리커 경험으로 거대한 보스를 쓰러뜨리세요! 길드원 채팅, PVP 참가도 가능하죠. ⚔️ 마음껏 선택하세요!",
+          "url": "https://store.epicgames.com/ko/p/firestone-online-idle-rpg-bfd04b",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-ed9ba.jpg",
+          "start_date": "2026-11-27 01:00"
+        },
+        {
+          "title": "Bread and Fred",
+          "description": "Grab your best bud for help in this new co-op challenge to help two adorable penguins, Bread and Fred, reach the top of the snowy summit. Time your jumps, cling to walls and swing across gaps to see how far you can make it before you tumble all the way back down the mountain.",
+          "url": "https://store.epicgames.com/ko/p/bread-and-fred-1db362",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-3jnwn.jpg",
+          "start_date": "2026-11-27 01:00"
+        }
+      ],
+      "epic_discounted": []
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Resequence: The Orchard",
+        "releases.0.note": "Clear Rayve released the psychological horror adventure game 'Resequence: The Orchard' on November 20, 2026, where players will take on the role of a psychotherapist to solve the strange problems of students.",
+        "releases.0.dev": "Clear Rayve",
+        "releases.1.game": "Doom level designer Sandy Petersen on Gabe Newell: 'With Steam he is literally guarding the gates of Hell'",
+        "releases.1.note": "The ongoing controversy between Unity and Valve continued as Doom's level designer Sandy Petersen's critique of Gabe Newell sparked discussions in the industry.",
+        "releases.1.dev": "Doom Level Designers, Unity",
+        "events.0.name": "Gstar 2026",
+        "events.0.note": "Participation in booths by various game developers including Krafton, Rytai, and Krafton",
+        "events.0.venue": "Busan Expo",
+        "events.1.name": "Taipei Game Show 2027",
+        "events.1.venue": "Taiwan, Taipei"
+      },
+      "briefing": {
+        "items.0.title": "Developer Anxiety Among GTA 6 Staff",
+        "items.0.source": "IGN India",
+        "items.0.time": "2026-11-19",
+        "items.1.title": "Killing Castro Trailer Released",
+        "items.1.source": "IGN India",
+        "items.1.time": "2026-11-19",
+        "items.2.title": "Red Desert Game Reveals Beautiful Tree Designs",
+        "items.2.source": "4Gamer",
+        "items.2.time": "2026-11-19",
+        "items.3.title": "Krafton Booth Revealed for Gstar 2026",
+        "items.3.source": "Inven",
+        "items.3.time": "2026-11-19",
+        "items.4.title": "Blossom World Championship 2026 Commences",
+        "items.4.source": "4Gamer",
+        "items.4.time": "2026-11-19",
+        "items.5.title": "PowerFlare Celebrates 30th Anniversary with 40% Off Package",
+        "items.5.source": "IGN",
+        "items.5.time": "2026-11-19",
+        "items.6.title": "Photography Offer 50% Off Coupon",
+        "items.6.source": "Inven",
+        "items.6.time": "2026-11-19"
+      },
+      "drk": {
+        "title": "The Contradiction Between Monopoly and Openness in the Gaming Platform",
+        "intro": "The conflicts between game platforms are intensifying. What impact will this have on developers and gamers?",
+        "points": "Amidst the ongoing disputes between Unity and Valve, Doom’s designer Sandy Petersen left a critical remark about Gabe Newell. This debate highlights the contradiction between platform monopoly and openness, and may bring significant changes to the game consumption structure and platform structure. \n\nBehind these disputes are the efforts of platform makers to protect their own markets. Monopolistic platforms impose various restrictions on developers but offer stable revenues. However, this can limit consumers’ choices and hinder the development of the gaming industry.\n\n**In this situation, the openness of the platform will promote innovation and diversity in the gaming industry, allowing gamers to enjoy a wider range of experiences.**\n\nTherefore, the choice of platform will become increasingly important for both developers and gamers. How will the industry evolve and what strategies will developers adopt in response to this change?"
+      },
+      "epic": {
+        "title": "Mark of the Deep",
+        "comment": "Weekend Game Benefits\n\n- Epic Games: Mark of the Deep (Until November 27, 01:00 UTC) \n  A narrative pirate adventure, Metroidvania-style gameplay, and a captivating story! Perfect for killing time.\n\n- Epic Games: Next Week预告 \n  Firestone: An online idle RPG, enjoy hero collection and combat! ⚔️\n\n- Steam: FINAL FANTASY VII REBIRTH 85% off (Until December 3, 03:00 UTC) \n  A big discount for RPG fans, don't miss this opportunity!"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "リーサイクル：オーブル",
+        "releases.0.note": "クリアレイヴ 2026年11月20日に「リーサイクル：オーブル」这款心理恐怖ADV游戏推出了。プレイヤーはカウンセラーアシスタントとして、生徒の奇妙な問題を解決する。",
+        "releases.0.dev": "クリアレイヴ",
+        "releases.1.game": "ドームレベルデザイナー・サンディー・ペーターセン、「ゲーブ・ニュール氏に対し：スタミンは実質的に地獄のゲートを守っている\"",
+        "releases.1.note": "ユニティとバルVEとの間の論争は続く、ドームのレベルデザイナー・サンディー・ペーターセンがゲーブ・ニュール氏に対して行った批判的な評価が業界を揺るがした。",
+        "releases.1.dev": "ドームレベルデザイナー, ユニティ",
+        "events.0.name": "ジスタ2026",
+        "events.0.note": "クラフトファント, ルートン, クラフトファントなど、さまざまなゲーム開発会社ブース参加",
+        "events.0.venue": "釜山ベックスコ",
+        "events.1.name": "タイファングAMESHOW 2027",
+        "events.1.venue": "台湾台北"
+      },
+      "briefing": {
+        "items.0.title": "GTA6開発者たちの雇用不安",
+        "items.0.source": "IGNインディア",
+        "items.0.time": "2026-11-19",
+        "items.1.title": "キャッスル・キリングトレーラー公開",
+        "items.1.source": "IGNインディア",
+        "items.1.time": "2026-11-19",
+        "items.2.title": "紅の砂漠ゲームの美しい木のデザイン公開",
+        "items.2.source": "4ゲーマー",
+        "items.2.time": "2026-11-19",
+        "items.3.title": "ジスタ2026クラフトファントブース公開",
+        "items.3.source": "インベ",
+        "items.3.time": "2026-11-19",
+        "items.4.title": "ブロスタ世界一決定戦2026開幕",
+        "items.4.source": "4ゲーマー",
+        "items.4.time": "2026-11-19",
+        "items.5.title": "パワープラユア30周年記念パッケージ40%割引",
+        "items.5.source": "IGN",
+        "items.5.time": "2026-11-19",
+        "items.6.title": "フォト50%割引クーポン提供",
+        "items.6.source": "インベ",
+        "items.6.time": "2026-11-19"
+      },
+      "drk": {
+        "title": "ゲーム産業のプラットフォーム独占と開放性の矛盾",
+        "intro": "ゲームプラットフォーム間の対立がますます深刻になっています。これには開発者とプレイヤーにどのような影響を与えるのでしょうか？",
+        "points": "ユニティとバルVEの対立が続く中、ドームのデザイナー・サンディー・ペーターセンがゲーブ・ニュール氏に対して批判的な言及を残しました。この論争はプラットフォーム独占と開放性の間の矛盾を浮き彫りにし、最終的にはゲーム消費構造とプラットフォーム構造に大きな変化をもたらす可能性があります。\n\nこの対立の背後には、プラットフォームメーカーが自社の市場を守るための努力があります。独占的なプラットフォームは開発者に対してさまざまな制限を課しますが、同時に安定した収益をもたらします。しかし、これには消費者に対してはさまざまな選択肢を制限し、ゲーム産業の発展を妨げることがあります。\n\n**このような状況では、プラットフォームの開放性はゲーム産業の革新と多様性を促進し、最終的にはプレイヤーがより多くの異なる経験を楽しむことを可能にします。**\n\nしたがって、開発者とプレイヤーにとってプラットフォーム選択はより重要になります。この結果生じる産業の変化と開発者の戦略は将来的にはどのように展開されるのでしょうか？"
+      },
+      "epic": {
+        "title": "深き印",
+        "comment": "週末ゲーム特典\n\n- エピックゲームズ: Mark of the Deep (2026-11-27 01:00まで)\n  物語性のある海賊冒険、メトロイドバニャースタイルのゲームプレイ、魅力的なストーリー！最適なキルタイム。\n\n- エピックゲームズ: Coming Next Week予告\n  ファイアストーン: オンライン放置型RPG、英雄収集と戦闘を楽しんでください！ ⚔️\n\n- スチーム: FINAL FANTASY VII REBIRTH 85%オフ (2026-12-03 03:00まで)\n  RPGファンのためにの大爆割引、この機会を見逃さないでください！"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "플랫폼 독점시대 심판자 될 것! 👑 (feat. 에픽게임즈 무료 배포)",
+    "en": "The Judge of Platform Monopoly Era! 👑 (feat. Epic Games Free Giveaway)",
+    "ja": "プラットフォーム独占時代の審判者となるだろう！ 👑 (feat. エピックゲームズ無料配布)"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: The Judge of Platform Monopoly Era! 👑 (feat. Epic Games Free Giveaway). Key context: The Contradiction Between Monopoly and Openness in the Gaming Platform. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters."
+}
