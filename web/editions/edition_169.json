@@ -387,23 +387,41 @@
       "results": {
         "ko": {
           "posted": false,
-          "text": "GTA 6 첫날 미국 PS5 활성 이용자 61% 점령 & 언리얼 엔진 6 AI 코딩 전환! 🚀\n\n한편 미고지 AI 음악으로 평점 테러를 맞은 아이작 사례까지, 오늘 GTPlayer #169에서 확인하세요.\nhttps://www.gtplayer.net/edition-169/\n#게임뉴스 #GTA6 #언리얼엔진6 #지스타2026 #GTPlayer"
+          "text": "GTA 6 첫날 미국 PS5 활성 이용자 61% 점령 & 언리얼 엔진 6 AI 코딩 전환! 🚀\n\n한편 미고지 AI 음악으로 평점 테러를 맞은 아이작 사례까지, 오늘 GTPlayer #169에서 확인하세요.\nhttps://www.gtplayer.net/edition-169/\n#게임뉴스 #GTA6 #언리얼엔진6 #지스타2026 #GTPlayer",
+          "error": "Posting failed or blocked"
         }
-      }
+      },
+      "updated_at": "2026-11-23T06:12:47.626889"
     },
     "instagram": {
       "results": {
         "carousel": {
-          "posted": false,
-          "caption": "11월 23일 오늘의 게임 소식 🎮\n\n📰 [뉴스] 지스타 2026 20만 명 방문 폐막 · GTA 6 첫날 돌풍 · UE6 AI 코딩 전환\n📅 [출시] 터미너스: 데이 제로 · DbD 테리파이어 · 건보트-8 등 신작 출시 일정\n✍️ [인사이트] 엔진은 AI로 달리는데 유저는 '미고지 AI'에 등 돌린다\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임덕후 #게임추천 #신작게임 #인디게임 #GTA6 #지스타2026 #언리얼엔진6 #아이작의번제 #데드바이데이라이트 #터미너스데이제로 #건보트8 #낙원추방 #닌텐도스위치2 #블랙프라이데이 #게임업계 #게임트렌드 #게임개발 #레딧밈 #GTPlayer"
+          "caption": "11월 23일 오늘의 게임 소식 🎮\n\n📰 [뉴스] 지스타 2026 20만 명 방문 폐막 · GTA 6 첫날 돌풍 · UE6 AI 코딩 전환\n📅 [출시] 터미너스: 데이 제로 · DbD 테리파이어 · 건보트-8 등 신작 출시 일정\n✍️ [인사이트] 엔진은 AI로 달리는데 유저는 '미고지 AI'에 등 돌린다\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임덕후 #게임추천 #신작게임 #인디게임 #GTA6 #지스타2026 #언리얼엔진6 #아이작의번제 #데드바이데이라이트 #터미너스데이제로 #건보트8 #낙원추방 #닌텐도스위치2 #블랙프라이데이 #게임업계 #게임트렌드 #게임개발 #레딧밈 #GTPlayer",
+          "image_paths": [
+            "web/instagram/edition_169/card_cover.png",
+            "web/instagram/edition_169/card_news.png",
+            "web/instagram/edition_169/card_calendar.png",
+            "web/instagram/edition_169/card_drk.png"
+          ],
+          "posted": true,
+          "data": {
+            "success": true,
+            "id": "4036279114138820823_39332818166",
+            "url": "https://www.instagram.com/p/DgDvngckqDX/",
+            "error": null
+          },
+          "error": null
         }
-      }
+      },
+      "updated_at": "2026-11-23T06:13:13.598966"
     },
     "linkedin": {
       "results": {
-        "posted": false,
-        "text": "GTA 6 Launch Surge & Unreal Engine 6's AI Coding Shift 🚀\n\nGTA 6 drew 61% of active U.S. PS5 players on day one while G-STAR 2026 closed with 201,000 visitors. Meanwhile, Epic's reported Blueprints phase-out in UE6 and Nicalis removing undisclosed AI music from The Binding of Isaac highlight the growing tension between AI dev tools and player trust.\n\nhttps://www.gtplayer.net/edition-169-en/\n\n#GameIndustry #GTA6 #UnrealEngine #GameDev #GTPlayer"
-      }
+        "posted": true,
+        "text": "GTA 6 Launch Surge & Unreal Engine 6's AI Coding Shift 🚀\n\nGTA 6 drew 61% of active U.S. PS5 players on day one while G-STAR 2026 closed with 201,000 visitors. Meanwhile, Epic's reported Blueprints phase-out in UE6 and Nicalis removing undisclosed AI music from The Binding of Isaac highlight the growing tension between AI dev tools and player trust.\n\nhttps://www.gtplayer.net/edition-169-en/\n\n#GameIndustry #GTA6 #UnrealEngine #GameDev #GTPlayer",
+        "error": null
+      },
+      "updated_at": "2026-11-23T06:13:47.351645"
     }
   }
 }
