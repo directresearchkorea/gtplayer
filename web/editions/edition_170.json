@@ -366,5 +366,47 @@
     "ko",
     "en",
     "ja"
-  ]
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": false,
+          "text": "700편 넘게 출품된 indiePlay에서 대상이 공석으로 남았대요! 😱\n\nAI 복제 범람 경고부터 GTA 6 유출·보안 비상까지, 오늘 GTPlayer #170에서 확인하세요. 🎮\nhttps://www.gtplayer.net/edition-170/\n#게임뉴스 #GTA6 #인디게임 #GTPlayer",
+          "error": "Posting failed or blocked"
+        }
+      },
+      "updated_at": "2026-11-24T06:13:07.938243"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "11월 24일 오늘의 게임 소식 🎮\n\n📰 [뉴스] 강유정 문체부 장관 후보자 지명 · EU 디지털 공정성 법안 · indiePlay AI 경고\n📅 [출시] 데드 바이 데이라이트: 테리파이어 · 솔: 인챈트 EP2 · 명일방주 엔드필드 업데이트\n✍️ [인사이트] 700편 중 대상이 없었다: AI 복제 범람과 유출·사기 속에서 묻는 게임의 본질\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임덕후 #게임추천 #신작게임 #인디게임 #GTA6 #데드바이데이라이트 #솔인챈트 #명일방주엔드필드 #파랜드사가 #인왕3 #코에이테크모 #블랙프라이데이 #더파이널스 #이스포츠 #게임업계 #게임트렌드 #생성형AI #게임보안 #GTPlayer",
+          "image_paths": [
+            "web/instagram/edition_170/card_cover.png",
+            "web/instagram/edition_170/card_news.png",
+            "web/instagram/edition_170/card_calendar.png",
+            "web/instagram/edition_170/card_drk.png"
+          ],
+          "posted": false,
+          "data": {
+            "success": false,
+            "id": null,
+            "url": null,
+            "error": "Instagram (instagrapi) 업로드 실패: Manual verification required via Instagram native challenge flow. This checkpoint is not handled by challenge_code_handler or change_password_handler; complete it in the official Instagram app or web flow on a trusted device. Retry with the same saved client settings, device identifiers, and proxy/IP."
+          },
+          "error": "Instagram (instagrapi) 업로드 실패: Manual verification required via Instagram native challenge flow. This checkpoint is not handled by challenge_code_handler or change_password_handler; complete it in the official Instagram app or web flow on a trusted device. Retry with the same saved client settings, device identifiers, and proxy/IP."
+        }
+      },
+      "updated_at": "2026-11-24T06:13:25.036020"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "indiePlay Leaves Top Prize Empty Over AI Clones & GTA 6 Leak Alert 🚨\n\nChina's indiePlay 2026 declined to award its Grand Prize despite 700+ entries to warn against AI-driven clones, while GTA 6 faces both a leaked Xbox executable and a $200 dark-web malware scam.\nMeanwhile, the EU opened consultations on its Digital Fairness Act and South Korea nominated a pro-gaming lawmaker as Culture Minister—explore all the highlights in GTPlayer #170.\n\nhttps://www.gtplayer.net/edition-170-en/",
+        "error": null
+      },
+      "updated_at": "2026-11-24T06:13:58.787871"
+    }
+  }
 }
