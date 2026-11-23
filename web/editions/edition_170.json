@@ -1,0 +1,370 @@
+{
+  "num": "170",
+  "date": "2026-11-24",
+  "status": "published",
+  "schedule": {
+    "date": "2026-11-24",
+    "time": "06:15",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "cover_image": "assets/scenes/cover_edition_170.png",
+  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: A lone indie game artisan crafting a glowing golden crystalline game cartridge at a futuristic workbench while surrounded by swirling holographic AI clone silhouettes and digital security shields in a dramatic cyberpunk studio. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters.",
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "update",
+          "game": "데드 바이 데이라이트: 테리파이어",
+          "dev": "비헤이비어 인터랙티브",
+          "date": "11월 24일(화)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "공포 영화 『테리파이어』와 협업해 신규 맵 '하츠혼 몰'과 살인마 아트 더 클라운, 생존자 시에나 쇼를 추가하는 콜라보 DLC가 11월 24일 정식 출시됩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/5510420/Dead_by_Daylight_Terrifier/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "update",
+          "game": "솔: 인챈트 - 에피소드 2",
+          "dev": "알트나인 / 넷마블",
+          "date": "11월 25일(수)",
+          "platforms": [
+            "PC",
+            "모바일"
+          ],
+          "color": "#10b981",
+          "note": "약 3개월 만의 대규모 업데이트 '에피소드 2: 인피니티'가 11월 25일 적용되어 마법 도시 배경의 신규 지역 '헬론드'와 창 클래스 '랜서', '무한의 탑' 콘텐츠가 추가됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=323653",
+          "source_name": "인벤"
+        },
+        {
+          "category": "update",
+          "game": "명일방주: 엔드필드 - 버섯 동산 대모험",
+          "dev": "하이퍼그리프 / 그리프라인",
+          "date": "11월 25일(수)",
+          "platforms": [
+            "PC",
+            "PS5",
+            "모바일"
+          ],
+          "color": "#10b981",
+          "note": "신규 업데이트 '뜻밖의 만남, 버섯 동산 대모험'이 11월 25일 배포되어 오퍼레이터 '케르' 중심의 스토리와 무료 오퍼레이터 '미미노', 상설 공장 건설, 멀티플레이 카드 게임이 추가됩니다.",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1783990",
+          "source_name": "게임메카"
+        },
+        {
+          "category": "release",
+          "game": "시체만 없으면 문제없어! (No Body No Problem!)",
+          "dev": "크라임 클린업 / 레드 액스 게임즈",
+          "date": "11월 26일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "경찰 1명과 용의자들로 나뉘어 경찰이 들이닥치기 전에 시체와 증거를 숨겨야 하는 멀티플레이 소셜 디덕션 게임이 11월 26일 스팀으로 출시됩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4954970/No_Body_No_Problem/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "Am I Nima",
+          "dev": "HO! 게임즈 / 아우터슬로스",
+          "date": "11월 27일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "『어몽 어스』 개발사 인디 펀드 아우터슬로스가 퍼블리싱하며, 딸을 알아보지 못하는 엄마와 단어를 조합해 대화하며 신뢰를 되찾는 심리 호러 워드 퍼즐이 11월 27일 스팀에 출시됩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "더 파이널스 그랜드 메이저 2026",
+          "note": "총상금 20만 달러 규모의 글로벌 통합 리그 최종 결선, 한국 Ape Squad 등 전 세계 16개 팀 출전",
+          "venue": "스웨덴 스톡홀름 (드림핵)",
+          "date": "2026-11-27~2026-11-29",
+          "tag": "e스포츠",
+          "d_day_str": "D-3",
+          "website": "https://www.inven.co.kr/webzine/news/?news=323715"
+        },
+        {
+          "name": "밀란 게임즈 위크 2026",
+          "note": "이탈리아 최대 규모 게임쇼, 인디 던전 등 신작 시연 부스 운영",
+          "venue": "이탈리아 밀라노",
+          "date": "2026-11-27~2026-11-29",
+          "tag": "오프라인 행사",
+          "d_day_str": "D-3",
+          "website": "https://www.gamemeca.com/view.php?gid=1783947"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "'게임법 1호 발의' 강유정 청와대 수석대변인, 문화체육관광부 장관 후보자 지명",
+          "source": "인벤",
+          "time": "2026-11-23",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=323730"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "EU, 확률형 아이템·가상화폐·페이투윈 규제 담은 '디지털 공정성 법안' 의견 수렴 개시",
+          "source": "GamesIndustry.biz",
+          "time": "2026-11-23",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/eu-opens-consultation-on-digital-fairness-act"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "『GTA 6』 유출자 사이버리크, Xbox 유출 빌드 실행 파일 공개로 비공식 PC 포팅 우려 확산",
+          "source": "GamesIndustry.biz",
+          "time": "2026-11-23",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/gta-6-leaker-reportedly-releases-file-needed-to-run-leaked-xbox-build"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "『GTA 6』 가짜 PC판 사칭 악성코드 툴킷 다크웹서 200달러에 유통, 게이머 보안 주의보",
+          "source": "IGN India",
+          "time": "2026-11-23",
+          "country": "IN",
+          "article_url": "https://in.ign.com/grand-theft-auto-vi/277699/gta-6-fake-pc-version-surfaces-online-contains-malware"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "중국 'indiePlay 2026', 700여 편 출품에도 'AI 복제 범람' 성찰 촉구하며 대상 수상작 공석",
+          "source": "4Gamer",
+          "time": "2026-11-23",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/991/G999110/20261123004/"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "엔터그램, 고전 JRPG 『파랜드 사가(파랜드 택틱스)』 30주년 기념 신작 프로젝트 개발 착수",
+          "source": "게임메카",
+          "time": "2026-11-23",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1784029"
+        },
+        {
+          "category": "discount",
+          "tag": "할인",
+          "title": "코에이 테크모 블랙 프라이데이 세일 개시, 『인왕 3』 50% 등 인기작 최대 85% 할인",
+          "source": "電撃オンライン",
+          "time": "2026-11-23",
+          "country": "JP",
+          "article_url": "https://dengekionline.com/article/202611/94809"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "700편 중 대상이 없었다: AI 복제 범람과 유출·사기 속에서 묻는 '게임의 본질과 안전망'",
+      "intro": "중국 최대 인디 시상식 indiePlay가 사상 초유로 대상을 공석 처리한 날, GTA 6는 유출 빌드 실행 파일 공개와 가짜 PC판 악성코드 공세에 직면했습니다. 기술과 규제의 격변 속 게임 산업의 방어선이 시험대에 올랐습니다.",
+      "points": "상하이 위플레이 엑스포에서 열린 'indiePlay 2026'에는 전년보다 늘어난 700여 편의 작품이 출품됐지만, 주최 측은 최고상인 대상을 선정하지 않는 이례적 결정을 내렸습니다. 스팀 넥스트 페스트 참가작이 2021년 700여 개에서 올해 7,240개로 10배 폭증한 가운데, 생성형 AI로 인한 조잡한 모방작 범람에 맞서 '인디 게임이란 무엇인가'를 자문해야 한다는 뼈아픈 메시지였습니다. 타이니빌드(tinyBuild) 대표 역시 AI 클론 제작 속도에 밀리지 않기 위해 게임 발표와 출시 사이의 간격을 최대한 줄여야 한다고 경고했습니다.\n\n대작 시장의 보안과 제도적 환경도 요동치고 있습니다. 『GTA 6』 유출자 사이버리크가 Xbox 유출 빌드의 실행 파일(.exe)을 공개해 AI 보조 리컴파일을 통한 비공식 PC 포팅 우려가 커진 가운데, 다크웹에서는 가짜 PC판 설치 파일로 가상화폐 지갑과 계정을 탈취하는 200달러짜리 악성코드 툴킷까지 유통되고 있습니다. 한편 유럽연합(EU)은 확률형 아이템·가상화폐·페이투윈을 정조준한 '디지털 공정성 법안(DFA)' 의견 수렴에 돌입했고, 국내에서는 e스포츠 표준계약서 법안을 대표 발의했던 강유정 의원이 문체부 장관 후보자로 지명되며 산업 거버넌스 변화도 예고됐습니다.\n\n**모방과 유출의 비용이 제로에 가까워질수록, 게임사의 경쟁력은 '독창적 완성도·보안 파이프라인·소비자 신뢰'의 삼박자에서 갈립니다.** 단기 트래픽을 노린 AI 복제와 불투명한 과금이 설 자리를 잃어가는 지금, 탄탄한 창작 윤리와 안전한 서비스 설계를 갖춘 팀만이 다음 시장의 주인이 될 것입니다."
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Dead by Daylight: Terrifier",
+        "releases.0.note": "A horror crossover DLC introducing the new Hartshorn Mall map alongside killer Art the Clown and survivor Sienna Shaw launches on November 24.",
+        "releases.0.dev": "Behaviour Interactive",
+        "releases.1.game": "SOL: Enchant - Episode 2",
+        "releases.1.note": "The first major patch in three months, Episode 2: Infinity, launches on November 25 with the new magic-city region Helond, the spear-wielding Lancer class, and the Tower of Infinity.",
+        "releases.1.dev": "Altnine / Netmarble",
+        "releases.2.game": "Arknights: Endfield - Mushroom Hill Adventure",
+        "releases.2.note": "The November 25 update introduces a new story centered on operator Kerr, free operator Mimino, permanent factory-building content, and a multiplayer card game.",
+        "releases.2.dev": "Hypergryph / GRYPHLINE",
+        "releases.3.game": "No Body No Problem!",
+        "releases.3.note": "A chaotic multiplayer social deduction game where suspects must hide the body and scrub every piece of evidence before the cop player knocks down the door launches on Steam on November 26.",
+        "releases.3.dev": "Crime Cleanup Co. / Red Axe Games",
+        "releases.4.game": "Am I Nima",
+        "releases.4.note": "Published by Among Us developer Innersloth's Outersloth fund, this psychological horror word-puzzle game about proving your identity to a mother who no longer recognizes you launches on Steam on November 27.",
+        "releases.4.dev": "HO! Games / Outersloth",
+        "events.0.name": "THE FINALS: The Grand Major 2026",
+        "events.0.note": "Global unified league finals with a $200,000 prize pool featuring 16 teams worldwide, including Korea's Ape Squad",
+        "events.0.venue": "Stockholm, Sweden (DreamHack)",
+        "events.1.name": "Milan Games Week 2026",
+        "events.1.note": "Italy's flagship gaming expo featuring playable indie and upcoming showcase booths",
+        "events.1.venue": "Milan, Italy"
+      },
+      "briefing": {
+        "items.0.title": "Rep. Kang Yoo-jung, Sponsor of 22nd Assembly's First Gaming Bill, Nominated as Korea's Culture Minister",
+        "items.0.source": "Inven",
+        "items.0.time": "2026-11-23",
+        "items.1.title": "EU Opens Public Consultation on Digital Fairness Act Targeting Loot Boxes, Virtual Currencies, and Pay-to-Win",
+        "items.1.source": "GamesIndustry.biz",
+        "items.1.time": "2026-11-23",
+        "items.2.title": "GTA 6 Leaker Cyberleek Releases Executable for Leaked Xbox Build, Sparking Unofficial PC Port Fears",
+        "items.2.source": "GamesIndustry.biz",
+        "items.2.time": "2026-11-23",
+        "items.3.title": "Fake GTA 6 PC Port Malware Toolkit Sold for $200 on Dark Web, Security Alert Issued",
+        "items.3.source": "IGN India",
+        "items.3.time": "2026-11-23",
+        "items.4.title": "indiePlay China 2026 Leaves Grand Prize Vacant Despite 700+ Entries, Urging Reflection Amid AI Clones",
+        "items.4.source": "4Gamer",
+        "items.4.time": "2026-11-23",
+        "items.5.title": "Entergram Announces 30th Anniversary Project for Classic JRPG Farland Saga (Farland Tactics)",
+        "items.5.source": "GameMeca",
+        "items.5.time": "2026-11-23",
+        "items.6.title": "Koei Tecmo Launches Black Friday Sale with Nioh 3 at 50% Off and Discounts Up to 85%",
+        "items.6.source": "Dengeki Online",
+        "items.6.time": "2026-11-23"
+      },
+      "drk": {
+        "title": "No Grand Prize Among 700 Entries: Questioning Game Craft and Safeguards Amid AI Clones and Leaks",
+        "intro": "On the same day China's indiePlay left its Grand Prize empty to protest market saturation, GTA 6 faced both a leaked Xbox executable release and a $200 dark-web fake PC malware kit. Both creative identity and operational security are under pressure.",
+        "points": "At WePlay Expo 2026 in Shanghai, indiePlay China drew over 700 submissions—up from 650 last year—yet declined to award its top indiePlay Award. With Steam Next Fest entries surging tenfold from roughly 700 in October 2021 to 7,240 in October 2026, organizers urged creators to reflect on what truly defines an indie game amid a wave of AI-assisted clones and shovelware. tinyBuild CEO Alex Nichiporchik echoed the urgency, warning developers to compress the gap between reveal and launch before AI copycats strike.\n\nMeanwhile, AAA security and global game regulation are tightening on parallel fronts. Leaker Cyberleek's release of the executable for an incomplete GTA 6 Xbox build has fueled fears that AI-assisted recompilation could yield an unofficial PC port, even as scammers sell a $200 malware toolkit disguised as a fake GTA 6 PC version to drain crypto wallets and hijack accounts. On the policy side, the European Commission opened public feedback on its Digital Fairness Act targeting loot boxes and pay-to-win practices, while South Korea nominated lawmaker Kang Yoo-jung—chair of the ruling party's gaming committee and sponsor of an eSports standard-contract bill—as Minister of Culture, Sports and Tourism.\n\n**As the marginal cost of cloning and leaking approaches zero, studio defensibility hinges on authentic craft, release-pipeline security, and institutional trust.** Teams that pair unmistakable creative identity with transparent monetization and resilient security will define the next market cycle."
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "Dead by Daylight: Terrifier",
+        "releases.0.note": "ホラー映画『テリファー』とコラボし、新マップ「ハーツホーン・モール」と殺人鬼アート・ザ・クラウン、生存者シエナ・ショーを追加するDLCが11月24日に正式配信されます。",
+        "releases.0.dev": "Behaviour Interactive",
+        "releases.1.game": "SOL: Enchant - エピソード2",
+        "releases.1.note": "約3か月ぶりの大型アップデート「エピソード2：インフィニティ」が11月25日に実施され、魔法都市を舞台とした新地域「ヘロンド」や槍クラス「ランサー」、無限の塔などが追加されます。",
+        "releases.1.dev": "Altnine / Netmarble",
+        "releases.2.game": "アークナイツ：エンドフィールド - キノコ山の冒険",
+        "releases.2.note": "11月25日の大型アップデートではオペレーター「ケル」を中心とする新物語に加え、無料オペレーター「ミミノ」、常設工場建設コンテンツ、マルチプレイカードゲームが実装されます。",
+        "releases.2.dev": "Hypergryph / GRYPHLINE",
+        "releases.3.game": "No Body No Problem!",
+        "releases.3.note": "警察役1名と容疑者チームに分かれ、警察が突入する前に遺体と証拠を隠し切るマルチプレイ人狼系アクションが11月26日にSteamで発売されます。",
+        "releases.3.dev": "Crime Cleanup Co. / Red Axe Games",
+        "releases.4.game": "Am I Nima",
+        "releases.4.note": "『Among Us』開発元のインディー支援ファンドOuterslothがパブリッシングを担当し、娘を認識できない母親と単語を組み合わせて対話し信頼を取り戻すホラーワードパズルが11月27日にSteamで配信されます。",
+        "releases.4.dev": "HO! Games / Outersloth",
+        "events.0.name": "THE FINALS: The Grand Major 2026",
+        "events.0.note": "賞金総額20万ドルを懸けたグローバル統合リーグの年間決勝戦、韓国Ape Squadなど世界の強豪16チームが出場",
+        "events.0.venue": "スウェーデン・ストックホルム（DreamHack）",
+        "events.1.name": "Milan Games Week 2026",
+        "events.1.note": "イタリア最大級のゲームショウ、インディーダンジョンなど新作試遊ブースを展開",
+        "events.1.venue": "イタリア・ミラノ"
+      },
+      "briefing": {
+        "items.0.title": "ゲーム法案第1号発議のカン・ユジョン大統領府首席報道官、韓国文化体育観光部長官候補に指名",
+        "items.0.source": "Inven",
+        "items.0.time": "2026-11-23",
+        "items.1.title": "EU、ルートボックスや仮想通貨・Pay-to-Winを規制対象とする「デジタル公正法」の意見募集を開始",
+        "items.1.source": "GamesIndustry.biz",
+        "items.1.time": "2026-11-23",
+        "items.2.title": "『GTA 6』リーカーCyberleekが流出Xboxビルドの実行ファイルを公開、非公式PC移植への懸念拡大",
+        "items.2.source": "GamesIndustry.biz",
+        "items.2.time": "2026-11-23",
+        "items.3.title": "『GTA 6』偽PC版を装うマルウェアツールキットがダークウェブで200ドル流通、セキュリティ警戒",
+        "items.3.source": "IGN India",
+        "items.3.time": "2026-11-23",
+        "items.4.title": "中国「indiePlay 2026」、700本超の応募もAI模倣作の氾濫に警鐘を鳴らし大賞「該当なし」",
+        "items.4.source": "4Gamer",
+        "items.4.time": "2026-11-23",
+        "items.5.title": "エンターグラム、名作JRPG『ファーランドサーガ』30周年記念の新作プロジェクト始動を発表",
+        "items.5.source": "GameMeca",
+        "items.5.time": "2026-11-23",
+        "items.6.title": "コーエーテクモ「Black Fridayセール」開催中、『仁王3』50%オフなど人気作が最大85%オフ",
+        "items.6.source": "電撃オンライン",
+        "items.6.time": "2026-11-23"
+      },
+      "drk": {
+        "title": "700本応募で大賞「該当なし」：AI模倣作の氾濫と流出・詐欺の中で問われるゲームの本質と安全網",
+        "intro": "中国のインディー賞indiePlayが異例の大賞空席を選んだ同じ日、『GTA 6』は流出Xboxビルドの実行ファイル公開と偽PC版マルウェアの標的に直面しました。開発の原点とセキュリティの両面が試されています。",
+        "points": "上海のWePlay Expoで開催された「indiePlay 2026」では、昨年を上回る700本以上の応募が集まりながら、最高賞「indiePlay Award」を該当なしとする異例の判断が下されました。Steam Nextフェスの参加作品が2021年10月の約700本から今年10月には7,240本へと10倍に膨れ上がるなか、AI技術による粗製乱造や模倣作の急増を踏まえ「インディーとは何か」を問い直すメッセージでした。tinyBuild代表も、AIクローンへの対抗策として発表から発売までの期間を極力短縮すべきだと警鐘を鳴らしています。\n\n一方、大作のセキュリティと規制環境も大きく動いています。『GTA 6』では未完成Xboxビルドの実行ファイル（.exe）が流出元から公開され、AI支援リコンパイルによる非公式PC移植が現実味を帯びるなか、ダークウェブでは偽PC版を装って暗号資産ウォレットやアカウントを奪う200ドルの詐欺キットまで流通しています。また欧州委員会はルートボックスや仮想通貨規制を含む「デジタル公正法（DFA）」のパブリックコメントを開始し、韓国でもeスポーツ標準契約書法案を手掛けたカン・ユジョン氏が文化体育観光部長官候補に指名されるなど、政策面の転換点も迫っています。\n\n**模倣と流出のコストが限りなくゼロに近づく時代ほど、スタジオの競争力は「独自の完成度・配信パイプラインの防衛・ユーザーの信頼」で決まります。** 安易なAIクローンや不透明な課金が淘汰される今、誠実な創作姿勢と堅牢な安全網を備えたチームこそが次の主導権を握るでしょう。"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "700편 중 대상 공석 'indiePlay'의 AI 경고 & GTA 6 유출·보안 비상 🚨",
+    "en": "indiePlay Leaves Top Prize Empty Over AI Clones & GTA 6 Leak Alert 🚨",
+    "ja": "indiePlay大賞「該当なし」が鳴らすAI警鐘＆『GTA6』流出・偽PC版警戒 🚨"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ]
+}
