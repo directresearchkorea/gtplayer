@@ -381,23 +381,41 @@
       "results": {
         "ko": {
           "posted": false,
-          "text": "에이펙스 레전드 주역들의 스튜디오 폐업부터 유비소프트 AI 자회사 '마더브레인' 출범, 『붉은사막』 TIGA 어워드 수상까지! 🎮\n\n자본 한파 속 게임 개발 시장의 격변을 GTPlayer #171에서 확인하세요.\nhttps://www.gtplayer.net/edition-171/\n#게임뉴스 #붉은사막 #유비소프트 #GTPlayer"
+          "text": "에이펙스 레전드 주역들의 스튜디오 폐업부터 유비소프트 AI 자회사 '마더브레인' 출범, 『붉은사막』 TIGA 어워드 수상까지! 🎮\n\n자본 한파 속 게임 개발 시장의 격변을 GTPlayer #171에서 확인하세요.\nhttps://www.gtplayer.net/edition-171/\n#게임뉴스 #붉은사막 #유비소프트 #GTPlayer",
+          "error": "Posting failed or blocked"
         }
-      }
+      },
+      "updated_at": "2026-11-25T06:11:51.735804"
     },
     "instagram": {
       "results": {
         "carousel": {
+          "caption": "11월 25일 오늘의 게임 소식 🎮\n\n📰 [뉴스] 그래비티 웰 스튜디오 폐업 · 유비소프트 AI 자회사 마더브레인 · 붉은사막 TIGA 어워드 수상\n📅 [출시] 낙원추방 -The Stellar Angel- · 아주르 프로밀리아 · Carry On Together\n✍️ [인사이트] 베테랑 스튜디오의 폐업과 AI 자회사의 출범: 자본 한파 속 게임 개발의 구조 재편\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임덕후 #게임추천 #신작게임 #인디게임 #붉은사막 #유비소프트 #마더브레인 #그래비티웰 #에이펙스레전드 #아주르프로밀리아 #리니지클래식 #GTA6 #락스타게임즈 #낙원추방 #쇼와미국이야기 #게임개발 #생성형AI #게임산업 #GTPlayer",
+          "image_paths": [
+            "web/instagram/edition_171/card_cover.png",
+            "web/instagram/edition_171/card_news.png",
+            "web/instagram/edition_171/card_calendar.png",
+            "web/instagram/edition_171/card_drk.png"
+          ],
           "posted": false,
-          "caption": "11월 25일 오늘의 게임 소식 🎮\n\n📰 [뉴스] 그래비티 웰 스튜디오 폐업 · 유비소프트 AI 자회사 마더브레인 · 붉은사막 TIGA 어워드 수상\n📅 [출시] 낙원추방 -The Stellar Angel- · 아주르 프로밀리아 · Carry On Together\n✍️ [인사이트] 베테랑 스튜디오의 폐업과 AI 자회사의 출범: 자본 한파 속 게임 개발의 구조 재편\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임덕후 #게임추천 #신작게임 #인디게임 #붉은사막 #유비소프트 #마더브레인 #그래비티웰 #에이펙스레전드 #아주르프로밀리아 #리니지클래식 #GTA6 #락스타게임즈 #낙원추방 #쇼와미국이야기 #게임개발 #생성형AI #게임산업 #GTPlayer"
+          "data": {
+            "success": false,
+            "id": null,
+            "url": null,
+            "error": "Instagram (instagrapi) 업로드 실패: Manual verification required via Instagram native challenge flow. This checkpoint is not handled by challenge_code_handler or change_password_handler; complete it in the official Instagram app or web flow on a trusted device. Retry with the same saved client settings, device identifiers, and proxy/IP."
+          },
+          "error": "Instagram (instagrapi) 업로드 실패: Manual verification required via Instagram native challenge flow. This checkpoint is not handled by challenge_code_handler or change_password_handler; complete it in the official Instagram app or web flow on a trusted device. Retry with the same saved client settings, device identifiers, and proxy/IP."
         }
-      }
+      },
+      "updated_at": "2026-11-25T06:12:08.194720"
     },
     "linkedin": {
       "results": {
-        "posted": false,
-        "text": "Ex-Apex Leaders' Studio Closes as Ubisoft Launches AI Subsidiary 'Motherbrain' ⚡\n\nGravity Well—founded by former Apex Legends leaders—has shut down without releasing a game, while Ubisoft launches generative AI subsidiary Motherbrain and Pearl Abyss's Crimson Desert wins at the TIGA Awards 2026.\n\nhttps://www.gtplayer.net/edition-171-en/"
-      }
+        "posted": true,
+        "text": "Ex-Apex Leaders' Studio Closes as Ubisoft Launches AI Subsidiary 'Motherbrain' ⚡\n\nGravity Well—founded by former Apex Legends leaders—has shut down without releasing a game, while Ubisoft launches generative AI subsidiary Motherbrain and Pearl Abyss's Crimson Desert wins at the TIGA Awards 2026.\n\nhttps://www.gtplayer.net/edition-171-en/",
+        "error": null
+      },
+      "updated_at": "2026-11-25T06:12:41.304769"
     }
   }
 }
