@@ -1,0 +1,403 @@
+{
+  "num": "171",
+  "date": "2026-11-25",
+  "status": "published",
+  "schedule": {
+    "date": "2026-11-25",
+    "time": "06:15",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "cover_image": "assets/scenes/cover_edition_171.png",
+  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: A dramatic contrast inside a grand futuristic game development studio—on one side, a luminous holographic neural core projects glowing character silhouettes and branching storylines onto a floating world map; on the other side, an imposing studio tower dims its lights in the cold twilight mist, while a heroic medieval-fantasy warrior silhouette stands in the center foreground overlooking the horizon with golden light breaking through storm clouds. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters.",
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "낙원추방 -The Stellar Angel-",
+          "dev": "스튜디오51 / 도에이 애니메이션",
+          "date": "11월 25일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "인기 SF 애니메이션 『낙원추방』 시리즈 첫 게임화 작품으로, 전뇌세계 DEVA를 떠난 안젤라 발자크의 새로운 이야기를 그린 SF 비주얼 노벨이 11월 25일 스팀으로 출시됩니다.",
+          "country": "JP",
+          "article_url": "https://store.steampowered.com/app/4607420/楽園追放_The_Stellar_Angel/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "A Sector Darkly",
+          "dev": "A 파라다이스 로스트 스튜디오",
+          "date": "11월 25일(수)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "먼 우주에 고립된 함선과 승무원을 지휘하며 탐험·교역·전투·제작으로 생존해 나가는 오픈월드 우주 샌드박스 RPG가 11월 25일 스팀에 출시됩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4941160/A_Sector_Darkly/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "아주르 프로밀리아 (Azur Promilia)",
+          "dev": "만쥬게임즈 / 넥슨",
+          "date": "11월 26일(목)",
+          "platforms": [
+            "PC",
+            "모바일"
+          ],
+          "color": "#10b981",
+          "note": "글로벌 사전등록 3,000만 명을 돌파한 넥슨 퍼블리싱 판타지 월드 RPG로, 신비한 생물 '키보'와 함께 프로밀리아 대륙을 모험하는 신작이 11월 26일 정식 출시됩니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=323782",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "The False Alice -Retold Tale-",
+          "dev": "비주얼 아츠 / team Aeca",
+          "date": "11월 26일(목)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "실패한 이야기들이 모이는 세계에서 세 명의 가짜 앨리스와 마주하며 진정한 앨리스가 되기 위한 선택을 이어가는 비주얼 노벨 신작이 11월 26일 스팀에 출시됩니다.",
+          "country": "JP",
+          "article_url": "https://store.steampowered.com/app/4013270/The_False_Alice_Retold_Tale/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "Carry On Together",
+          "dev": "부티크 게임즈 / 레드 액스 게임즈",
+          "date": "11월 27일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "최대 4인이 소규모 이삿짐 회사를 함께 운영하며 물리 연산 기반의 무거운 가구와 짐을 나르는 온라인 협동 액션 게임이 11월 27일 스팀으로 출시됩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4776500/Carry_On_Together/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "CFS 2026 그랜드 파이널",
+          "note": "총상금 143만 달러 규모, 역대 최대 18개 팀이 격돌하는 크로스파이어 글로벌 결승 대회",
+          "venue": "중국 우한",
+          "date": "2026-11-24~2026-12-06",
+          "tag": "e스포츠",
+          "d_day_str": "진행 중",
+          "website": "https://www.inven.co.kr/webzine/news/?news=323779"
+        },
+        {
+          "name": "AGF 2026",
+          "note": "스마일게이트·학산 등 주요 게임사와 서브컬처 브랜드가 참여하는 국내 대표 애니×게임 페스티벌",
+          "venue": "한국 일산 킨텍스",
+          "date": "2026-12-04~2026-12-06",
+          "tag": "오프라인 행사",
+          "d_day_str": "D-9",
+          "website": "https://www.inven.co.kr/webzine/news/?news=323763"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "에이펙스 레전드 주역들이 세운 '그래비티 웰', 첫 게임 미출시 채 스튜디오 폐업",
+          "source": "PC Gamer",
+          "time": "2026-11-25",
+          "country": "GLOBAL",
+          "article_url": "https://www.pcgamer.com/gaming-industry/studio-founded-by-former-apex-legends-leaders-is-closing-without-releasing-a-game/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "유비소프트, 생성형 AI 전담 자회사 '마더브레인' 설립…기억형 NPC·AI GM 개발",
+          "source": "4Gamer",
+          "time": "2026-11-25",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/991/G999101/20261124022/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "펄어비스 『붉은사막 인핸스드』, 영국 'TIGA 어워드 2026' 최고 액션 어드벤처 수상",
+          "source": "인벤",
+          "time": "2026-11-25",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=323766"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "엔씨 『리니지 클래식』, 12월 2일 일본 정식 진출 및 한·대만·일 국가대항전 예고",
+          "source": "게임메카",
+          "time": "2026-11-25",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1784098"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "액션 RPG 『쇼와 미국 이야기』, 품질 보강 위해 2027년 10월 28일로 발매일 확정·연기",
+          "source": "4Gamer",
+          "time": "2026-11-25",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/613/G061307/20261124048/"
+        },
+        {
+          "category": "update",
+          "tag": "업데이트",
+          "title": "락스타, 『GTA 6』 첫 번째 패치 01.002.002 배포…자동 저장 및 기상 오류 수정",
+          "source": "IGN India",
+          "time": "2026-11-25",
+          "country": "IN",
+          "article_url": "https://in.ign.com/grand-theft-auto-vi/277715/gta-6-update-01002002-rolling-out-now-although-there-are-no-patch-notes-yet"
+        },
+        {
+          "category": "mna",
+          "tag": "인수합병",
+          "title": "플러그 인 디지털, 『뉴스 타워』 퍼블리셔 트윈 세일즈 인터랙티브 인수",
+          "source": "GamesIndustry.biz",
+          "time": "2026-11-25",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/plug-in-digital-acquires-news-tower-publisher-twin-sails-interactive-creating-new-publishing-group-to-compete-in-a-highly-competitive-market"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "베테랑 스튜디오의 폐업과 AI 자회사의 출범: 자본 한파 속 게임 개발의 구조 재편",
+      "intro": "『에이펙스 레전드』 출신 핵심 개발진이 세운 '그래비티 웰'이 끝내 신작을 내지 못한 채 문을 닫은 날, 유비소프트는 생성형 AI 전담 자회사 '마더브레인' 설립을 공식화했습니다. 투자 위축과 기술 전환이 맞물리며 개발사의 생존 공식이 재작성되고 있습니다.",
+      "points": "2020년 '안티 크런치' 기치를 내걸고 출범했던 AAA 스튜디오 그래비티 웰(Gravity Well)이 투자금 고갈을 극복하지 못하고 게임 한 편을 출시하지 못한 채 폐업을 맞았습니다. 스타 개발자 출신이라는 화려한 이력만으로는 수년 단위의 대형 프로젝트 자금을 버텨내기 어려워진 투자 시장의 냉혹한 현실을 그대로 보여줍니다. 중소·인디 진영 역시 예외가 아니어서, 프랑스 퍼블리셔 플러그 인 디지털이 트윈 세일즈 인터랙티브를 인수하며 치열해진 시장에서 버티기 위한 규모 확보에 나섰습니다.\n\n반면 생존 해법을 기술 구조 전환과 검증된 IP의 확장으로 푸는 움직임도 뚜렷합니다. 유비소프트는 '팀메이츠' 개발팀을 모태로 기억을 보유한 NPC와 AI 게임 마스터를 개발하는 AI 자회사 '마더브레인(Motherbrain)'을 출범시키며 차세대 라이브·내러티브 파이프라인 실험에 속도를 냈습니다. 동시에 펄어비스의 『붉은사막 인핸스드』가 영국 TIGA 어워드에서 최고 액션 어드벤처상을 거머쥐고, 엔씨소프트가 누적 매출 4,278억 원을 기록한 『리니지 클래식』을 일본 시장으로 확장하는 모습은, 결국 탄탄한 원작 완성도와 지역 확장성이 위기 돌파의 가장 확실한 무기임을 증명합니다.\n\n**자본이 인내심을 잃은 시장에서 스튜디오의 생존은 '지속 가능한 개발비 통제'와 '차별화된 플레이 경험'의 균형에 달려 있습니다.** AI 기술 도입이든 검증된 IP의 글로벌화든, 유저가 체감할 수 있는 실제 게임 가치로 연결하지 못하는 실험은 이제 시장에서 도태될 수밖에 없습니다."
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": true,
+      "title": "Official Soundtrack Volume 2 | Crimson Desert OST",
+      "channel": "Crimson Desert",
+      "videoId": "RtOVF8R8SkY",
+      "url": "https://www.youtube.com/watch?v=RtOVF8R8SkY",
+      "thumbnail": "https://i.ytimg.com/vi/RtOVF8R8SkY/hqdefault.jpg",
+      "comment": "펄어비스 『붉은사막』의 영국 TIGA 어워드 2026 수상을 기념하며! 웅장한 파이웰 대륙의 서사를 담은 공식 OST Volume 2를 오늘 퇴근길 플레이리스트로 추천해요. ⚔️🎶",
+      "search_query": "Crimson Desert Official Soundtrack",
+      "ai_game_name": "붉은사막 (Crimson Desert)",
+      "ai_reason": "붉은사막 인핸스드의 영국 TIGA 어워드 2026 최고 액션 어드벤처 게임 수상 기념 공식 OST"
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": false,
+      "title": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Expelled from Paradise -The Stellar Angel-",
+        "releases.0.note": "The first video game adaptation of the hit sci-fi anime Expelled from Paradise, following Angela Balzac after leaving the virtual world of DEVA in a brand-new sci-fi visual novel, launches on Steam on November 25.",
+        "releases.0.dev": "Studio51 / Toei Animation",
+        "releases.1.game": "A Sector Darkly",
+        "releases.1.note": "An open-world space sandbox RPG where you command a stranded ship and crew through exploration, trading, combat, and crafting launches on Steam on November 25.",
+        "releases.1.dev": "A Paradise Lost Studios",
+        "releases.2.game": "Azur Promilia",
+        "releases.2.note": "Published by Nexon after surpassing 30 million global pre-registrations, this fantasy world RPG featuring exploration and battles alongside mysterious creatures called Kibo officially launches on PC and mobile on November 26.",
+        "releases.2.dev": "Manjuu Games / Nexon",
+        "releases.3.game": "The False Alice -Retold Tale-",
+        "releases.3.note": "A visual novel from VISUAL ARTS set in a world where discarded stories gather, following a protagonist navigating three false Alices to claim the true title, launches on Steam on November 26.",
+        "releases.3.dev": "VISUAL ARTS / team Aeca",
+        "releases.4.game": "Carry On Together",
+        "releases.4.note": "A physics-based online co-op moving game for up to four players running a small delivery business together launches on Steam on November 27.",
+        "releases.4.dev": "Butiq Games / Red Axe Games",
+        "events.0.name": "CFS 2026 Grand Finals",
+        "events.0.note": "CrossFire's flagship global esports championship featuring a record 18 teams and a $1.43 million prize pool",
+        "events.0.venue": "Wuhan, China",
+        "events.1.name": "AGF 2026",
+        "events.1.note": "Korea's premier anime and game festival featuring interactive booths and live stages from Smilegate, Haksan, and major subculture studios",
+        "events.1.venue": "KINTEX, Ilsan, South Korea"
+      },
+      "briefing": {
+        "items.0.title": "Gravity Well, Studio Founded by Former Apex Legends Leaders, Closes Without Releasing a Game",
+        "items.0.source": "PC Gamer",
+        "items.0.time": "2026-11-25",
+        "items.1.title": "Ubisoft Establishes Generative AI Subsidiary 'Motherbrain' to Build Memory-Retaining NPCs and AI Game Masters",
+        "items.1.source": "4Gamer",
+        "items.1.time": "2026-11-25",
+        "items.2.title": "Pearl Abyss's Crimson Desert Enhanced Wins Best Action-Adventure Game at TIGA Awards 2026",
+        "items.2.source": "Inven",
+        "items.2.time": "2026-11-25",
+        "items.3.title": "NCSoft's Lineage Classic Launches in Japan on December 2 with Korea-Taiwan-Japan Tournament Teased",
+        "items.3.source": "GameMeca",
+        "items.3.time": "2026-11-25",
+        "items.4.title": "Action RPG Showa American Story Delayed Again to October 28, 2027 for Additional Polish",
+        "items.4.source": "4Gamer",
+        "items.4.time": "2026-11-25",
+        "items.5.title": "Rockstar Rolls Out First GTA 6 Patch 01.002.002 Fixing Auto-Save and Weather Bugs",
+        "items.5.source": "IGN India",
+        "items.5.time": "2026-11-25",
+        "items.6.title": "Plug In Digital Acquires News Tower Publisher Twin Sails Interactive to Bolster Publishing Scale",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "2026-11-25"
+      },
+      "drk": {
+        "title": "A Veteran Studio Closes as an AI Subsidiary Rises: Game Development Restructures Under Tight Capital",
+        "intro": "On the same day Gravity Well—founded by former Apex Legends leaders—shut down without shipping a single title, Ubisoft unveiled its dedicated generative AI subsidiary Motherbrain. Tighter funding and technological shifts are rewriting the rules of studio survival.",
+        "points": "Launched in 2020 with an anti-crunch ethos, AAA studio Gravity Well has closed after losing funding earlier this year and failing to secure a new backer—never releasing its debut project. Even veteran leadership can no longer insulate multi-year AAA budgets from an unforgiving capital market. Mid-tier and indie publishers are consolidating to survive as well, underscored by Plug In Digital's acquisition of Paris-based Twin Sails Interactive to build greater competitive scale.\n\nMeanwhile, major studios are pairing technical restructuring with proven IP expansion. Ubisoft spun its Teammates team into a new subsidiary, Motherbrain, focused on AI-driven NPCs with persistent memory and dynamic AI Game Masters. At the same time, Pearl Abyss's Crimson Desert Enhanced winning Best Action-Adventure at the TIGA Awards 2026 and NCSoft expanding its 427.8 billion KRW hit Lineage Classic into Japan show that enduring craft and disciplined regional scaling remain the most reliable buffers against volatility.\n\n**In a market where investors have lost patience for open-ended burn rates, survival depends on balancing cost discipline with unmistakable player value.** Whether through AI pipelines or global IP expansion, only initiatives that translate directly into richer play experiences will endure."
+      },
+      "soundtrack": {
+        "title": "Official Soundtrack Volume 2 | Crimson Desert OST",
+        "comment": "Celebrating Crimson Desert's Best Action-Adventure win at the TIGA Awards 2026! Unwind on your commute home tonight with the sweeping orchestral themes of Official Soundtrack Volume 2. ⚔️🎶"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "楽園追放 -The Stellar Angel-",
+        "releases.0.note": "人気SFアニメ『楽園追放』シリーズ初のゲーム化作品として、電脳世界DEVAを離れたアンジェラ・バルザックの新たな物語を描くSFビジュアルノベルが11月25日にSteamで発売されます。",
+        "releases.0.dev": "Studio51 / 東映アニメーション",
+        "releases.1.game": "A Sector Darkly",
+        "releases.1.note": "遠く離れた宇宙で立ち往生した宇宙船と乗組員を指揮し、探索・交易・戦闘・クラフトで生き抜くオープンワールド宇宙サンドボックスRPGが11月25日にSteamで配信されます。",
+        "releases.1.dev": "A Paradise Lost Studios",
+        "releases.2.game": "アズールプロミリア (Azur Promilia)",
+        "releases.2.note": "世界事前登録者数3,000万人を突破したネクソン配信のファンタジーワールドRPGで、不思議な生物「キボ」と共にプロミリア大陸を冒険する新作が11月26日にPC・モバイルで正式リリースされます。",
+        "releases.2.dev": "Manjuu Games / Nexon",
+        "releases.3.game": "The False Alice -Retold Tale-",
+        "releases.3.note": "失敗した物語が集う世界で3人の偽りのアリスと出会い、本物のアリスとなるための選択を辿るビジュアルアーツの新作ビジュアルノベルが11月26日にSteamで発売されます。",
+        "releases.3.dev": "VISUAL ARTS / team Aeca",
+        "releases.4.game": "Carry On Together",
+        "releases.4.note": "最大4人のプレイヤーで小さな引っ越し会社を運営し、物理演算に基づいた重い家具や荷物を協力して運ぶオンライン協力アクションゲームが11月27日にSteamで発売されます。",
+        "releases.4.dev": "Butiq Games / Red Axe Games",
+        "events.0.name": "CFS 2026 グランドファイナル",
+        "events.0.note": "賞金総額143万ドル、過去最多の18チームが激突する『クロスファイア』最高峰の世界決勝大会",
+        "events.0.venue": "中国・武漢",
+        "events.1.name": "AGF 2026",
+        "events.1.note": "スマイルゲートや学山など主要ゲーム会社とサブカルチャーブランドが参加する韓国最大級のアニメ×ゲームフェス",
+        "events.1.venue": "韓国・一山 KINTEX"
+      },
+      "briefing": {
+        "items.0.title": "元『Apex Legends』中心人物が設立したスタジオ「Gravity Well」、新作を1本も出せず閉鎖へ",
+        "items.0.source": "PC Gamer",
+        "items.0.time": "2026-11-25",
+        "items.1.title": "Ubisoft、生成AI開発専門の新子会社「Motherbrain」設立…記憶を持つNPCやAIゲームマスターを開発へ",
+        "items.1.source": "4Gamer",
+        "items.1.time": "2026-11-25",
+        "items.2.title": "Pearl Abyss『紅の砂漠 エンハンスド』、英国「TIGAアワード2026」最優秀アクションアドベンチャー受賞",
+        "items.2.source": "Inven",
+        "items.2.time": "2026-11-25",
+        "items.3.title": "NCソフト『リネージュ クラシック』、12月2日に日本サービス開始＆韓・台・日対抗戦を予告",
+        "items.3.source": "GameMeca",
+        "items.3.time": "2026-11-25",
+        "items.4.title": "アクションRPG『昭和米国物語』、品質向上のため2027年10月28日へ発売再延期",
+        "items.4.source": "4Gamer",
+        "items.4.time": "2026-11-25",
+        "items.5.title": "ロックスター、『GTA 6』初のパッチ01.002.002を配信…自動セーブや天候システムの不具合を修正",
+        "items.5.source": "IGN India",
+        "items.5.time": "2026-11-25",
+        "items.6.title": "Plug In Digital、『News Tower』パブリッシャーのTwin Sails Interactiveを買収",
+        "items.6.source": "GamesIndustry.biz",
+        "items.6.time": "2026-11-25"
+      },
+      "drk": {
+        "title": "ベテランスタジオの閉鎖とAI子会社の始動：資本冷え込みの中で進むゲーム開発の再編",
+        "intro": "『Apex Legends』の元中心人物らが設立したGravity Wellが1本のタイトルも世に出せず閉鎖を発表した同じ日、Ubisoftは生成AI専業の子会社「Motherbrain」設立を打ち出しました。資金環境の厳格化と技術転換が重なり、スタジオの生存戦略が塗り替えられています。",
+        "points": "2020年に「アンチ・クランチ」を掲げて始動したAAAスタジオGravity Wellは、資金難を乗り越えられず開発作を発売できないまま閉鎖に至りました。実績あるベテラン陣であっても、数年単位の大型開発費を投資マネーだけで支え続けることがいかに困難かを物語っています。中堅・インディー領域でも、フランスのPlug In DigitalがTwin Sails Interactiveを買収するなど、激しい競争環境を生き抜くための規模拡大と再編が加速しています。\n\n一方で、技術基盤の刷新と実績あるIPの横展開で突破口を開く動きも鮮明です。Ubisoftは「Teammates」開発チームを母体に、記憶を保持するNPCやAIゲームマスターの実現を目指す新会社Motherbrainを設立しました。同時にPearl Abyssの『紅の砂漠 エンハンスド』が英国TIGAアワードで最優秀アクションアドベンチャーに輝き、NCソフトが累計売上4,278億ウォンを記録した『リネージュ クラシック』の日本展開に踏み切る姿は、確かな作品力と堅実な市場拡大こそが逆風下でも揺るがない武器であることを示しています。\n\n**資本が長期の赤字を許容しなくなった今、開発会社の命運は「持続可能なコスト管理」と「代替不可能なプレイ体験」の両立にかかっています。** AIの活用であれIPのグローバル展開であれ、プレイヤーが体感できる価値へと結びつかない試みは淘汰を免れないでしょう。"
+      },
+      "soundtrack": {
+        "title": "Official Soundtrack Volume 2 | Crimson Desert OST",
+        "comment": "『紅の砂漠』の英国TIGAアワード2026受賞を記念して！壮大なファイウェル大陸の物語を彩る公式OST Volume 2を、今夜の帰宅プレイリストとしてお届けします。⚔️🎶"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "에이펙스 주역 스튜디오 폐업 vs 유비소프트 AI '마더브레인' 출범…격변의 개발 시장 ⚡",
+    "en": "Ex-Apex Leaders' Studio Closes as Ubisoft Launches AI Subsidiary 'Motherbrain' ⚡",
+    "ja": "元Apex開発者のスタジオ閉鎖とUbisoftのAI新会社「Motherbrain」始動 ⚡"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": false,
+          "text": "에이펙스 레전드 주역들의 스튜디오 폐업부터 유비소프트 AI 자회사 '마더브레인' 출범, 『붉은사막』 TIGA 어워드 수상까지! 🎮\n\n자본 한파 속 게임 개발 시장의 격변을 GTPlayer #171에서 확인하세요.\nhttps://www.gtplayer.net/edition-171/\n#게임뉴스 #붉은사막 #유비소프트 #GTPlayer"
+        }
+      }
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "posted": false,
+          "caption": "11월 25일 오늘의 게임 소식 🎮\n\n📰 [뉴스] 그래비티 웰 스튜디오 폐업 · 유비소프트 AI 자회사 마더브레인 · 붉은사막 TIGA 어워드 수상\n📅 [출시] 낙원추방 -The Stellar Angel- · 아주르 프로밀리아 · Carry On Together\n✍️ [인사이트] 베테랑 스튜디오의 폐업과 AI 자회사의 출범: 자본 한파 속 게임 개발의 구조 재편\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임덕후 #게임추천 #신작게임 #인디게임 #붉은사막 #유비소프트 #마더브레인 #그래비티웰 #에이펙스레전드 #아주르프로밀리아 #리니지클래식 #GTA6 #락스타게임즈 #낙원추방 #쇼와미국이야기 #게임개발 #생성형AI #게임산업 #GTPlayer"
+        }
+      }
+    },
+    "linkedin": {
+      "results": {
+        "posted": false,
+        "text": "Ex-Apex Leaders' Studio Closes as Ubisoft Launches AI Subsidiary 'Motherbrain' ⚡\n\nGravity Well—founded by former Apex Legends leaders—has shut down without releasing a game, while Ubisoft launches generative AI subsidiary Motherbrain and Pearl Abyss's Crimson Desert wins at the TIGA Awards 2026.\n\nhttps://www.gtplayer.net/edition-171-en/"
+      }
+    }
+  }
+}
