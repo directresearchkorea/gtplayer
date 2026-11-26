@@ -1,0 +1,419 @@
+{
+  "num": "172",
+  "date": "2026-11-27",
+  "status": "published",
+  "schedule": {
+    "date": "2026-11-27",
+    "time": "06:15",
+    "target": "all",
+    "languages": [
+      "ko",
+      "en",
+      "ja"
+    ]
+  },
+  "cover_image": "assets/scenes/cover_edition_172.png",
+  "cover_prompt": "High-detail editorial illustration for a gaming industry newsletter cover. Main theme: A dramatic technological and creative crossroads in the modern gaming industry—on one side, luminous holographic audio waveforms and glowing retro arcade pixels shimmer behind a crystalline prism boundary; on the other side, sleek futuristic console monoliths and towering neon-lit skyscrapers rise above rain-slicked twilight streets reflecting golden amber and electric cyan light, while a lone silhouetted game creator stands on an elevated glass bridge looking over the horizon. Style: sleek modern digital concept art, atmospheric lighting, rich cinematic composition, 16:9 widescreen aspect ratio, no text, no watermarks, no logos, no letters.",
+  "sections": {
+    "calendar": {
+      "enabled": true,
+      "releases": [
+        {
+          "category": "release",
+          "game": "하데안 택틱스 (Hadean Tactics)",
+          "dev": "엠버피시 게임즈",
+          "date": "11월 26일(목)",
+          "platforms": [
+            "Switch"
+          ],
+          "color": "#10b981",
+          "note": "유닛의 실시간 자동 전투와 카드 덱빌딩 전략을 결합한 로그라이크 게임으로, 스팀 10만 장 판매를 돌파한 뒤 11월 26일 닌텐도 스위치로 출시됐습니다.",
+          "country": "KR",
+          "article_url": "https://www.inven.co.kr/webzine/news/?news=323853",
+          "source_name": "인벤"
+        },
+        {
+          "category": "release",
+          "game": "Piece and Quiet: A Stained Glass Restoration",
+          "dev": "바호프 게임즈 / 스파게티 캣",
+          "date": "11월 27일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "폐허가 된 산속 예배당의 스테인드글라스 창 여섯 개를 먼지를 털고 색과 모양에 맞춰 복원하는 힐링 1인칭 퍼즐 게임이 11월 27일 스팀에 출시됩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/5066090/Piece_and_Quiet_A_Stained_Glass_Restoration/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "Starship Crafter",
+          "dev": "라이즈소프트 / 플레이웨이",
+          "date": "11월 27일(금)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "우주선 정비공이 되어 부품을 제작하고 함선을 건조하며 은하계 각 세력의 계약을 수행해 막대한 빚을 갚아나가는 시뮬레이션 게임이 11월 27일 스팀으로 출시됩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/2431590/Starship_Crafter/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "Winx Club - Moonlight Quest",
+          "dev": "발리오 스튜디오",
+          "date": "11월 29일(일)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "인기 판타지 애니메이션 IP를 바탕으로 블룸이 되어 변신하고 오픈 월드를 탐험하며 100개의 달 축제 비밀을 파헤치는 어드벤처 게임이 11월 29일 스팀에 출시됩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/5189950/Winx_Club_Moonlight_Quest/",
+          "source_name": "Steam"
+        },
+        {
+          "category": "release",
+          "game": "오리온 블루 (Orion Blue)",
+          "dev": "EXLIX",
+          "date": "11월 29일(일)",
+          "platforms": [
+            "PC"
+          ],
+          "color": "#10b981",
+          "note": "아름다운 외계 행성을 배경으로 다양한 물고기를 낚고 자원을 모으며 주민들과 유대를 쌓는 낚시 탐험·방치형 게임이 11월 29일 스팀에 출시됩니다.",
+          "country": "GLOBAL",
+          "article_url": "https://store.steampowered.com/app/4264000/Orion_Blue/",
+          "source_name": "Steam"
+        }
+      ],
+      "events": [
+        {
+          "name": "2026 PMGC (배틀그라운드 모바일 글로벌 챔피언십)",
+          "note": "크래프톤 주최로 전 세계 39개 팀이 총상금 300만 달러를 놓고 격돌하는 최상위 글로벌 e스포츠 대회",
+          "venue": "튀르키예 이스탄불",
+          "date": "2026-11-26~2026-12-13",
+          "tag": "e스포츠",
+          "d_day_str": "진행 중",
+          "website": "https://www.inven.co.kr/webzine/news/?news=323886"
+        },
+        {
+          "name": "AGF 2026 (Anime X Game Festival)",
+          "note": "스마일게이트·밸로프 등 주요 게임사와 서브컬처 브랜드가 대거 참가하는 국내 최대 애니×게임 페스티벌",
+          "venue": "한국 일산 킨텍스",
+          "date": "2026-12-04~2026-12-06",
+          "tag": "오프라인 행사",
+          "d_day_str": "D-7",
+          "website": "https://www.gamemeca.com/view.php?gid=1784257"
+        }
+      ]
+    },
+    "briefing": {
+      "enabled": true,
+      "items": [
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "게임산업 '국가전략콘텐츠자산' 지정 추진…제작비 세제 지원 특별법 발의",
+          "source": "게임메카",
+          "time": "2026-11-26",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1784252"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "AI 생성 게임 범람에 8년 이어온 '아타리 홈브루 어워드' 개최 중단",
+          "source": "게임메카",
+          "time": "2026-11-26",
+          "country": "KR",
+          "article_url": "https://www.gamemeca.com/view.php?gid=1784262"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "락스타 게임즈 직원 노조 인정 투표, 찬성 25%·반대 75%로 부결",
+          "source": "GamesIndustry.biz",
+          "time": "2026-11-26",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/staff-at-grand-theft-auto-maker-rockstar-vote-against-union-recognition-deal"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "EA 『EA 스포츠 FC 27』, AI 복원 고(故) 존 모트슨 해설 도입에 팬덤 논쟁",
+          "source": "GamesIndustry.biz",
+          "time": "2026-11-25",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/ea-sports-fc-27-adds-ai-recreated-voice-of-late-commentator-john-motson"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "S&P 글로벌 \"콘솔 하드웨어 가격 인하, 최소 2028년까지 기대 어려워\"",
+          "source": "GamesIndustry.biz",
+          "time": "2026-11-25",
+          "country": "GLOBAL",
+          "article_url": "https://www.gamesindustry.biz/analyst-dont-expect-hardware-price-cuts-until-at-least-2028"
+        },
+        {
+          "category": "release",
+          "tag": "출시",
+          "title": "『심즈』 창시자 윌 라이트 신작 『MyMems』 공개…기억 기반 AI 시뮬레이션",
+          "source": "4Gamer",
+          "time": "2026-11-26",
+          "country": "JP",
+          "article_url": "https://www.4gamer.net/games/061/G106190/20261126040/"
+        },
+        {
+          "category": "issue",
+          "tag": "이슈",
+          "title": "『GTA 6』 일본 주간 판매 1위 직행…글로벌 출시 첫날 매출 약 6,000억 엔",
+          "source": "Famitsu",
+          "time": "2026-11-26",
+          "country": "JP",
+          "article_url": "https://www.famitsu.com/article/202611/95209"
+        }
+      ]
+    },
+    "feedback": {
+      "enabled": false,
+      "game": "",
+      "period": "",
+      "count": "0",
+      "sources": "",
+      "score": "0",
+      "pos": 0,
+      "neu": 0,
+      "neg": 0,
+      "keywords": [],
+      "comments": []
+    },
+    "drk": {
+      "enabled": true,
+      "title": "AI 창작의 경계선과 메가 히트의 그림자: 산업 규칙을 다시 쓰는 세 가지 균열",
+      "intro": "AI 생성 게임의 범람으로 8년 역사의 인디 시상식이 멈춰 선 한편, 전설적 거장의 신작과 대형 스포츠 게임은 AI를 핵심 문법으로 끌어안고 있습니다. 동시에 『GTA 6』가 증명한 초대형 흥행 이면에서는 노조 갈등과 하드웨어 고가격 장기화라는 구조적 과제가 선명해지고 있습니다.",
+      "points": "오늘 글로벌 뉴스는 생성형 AI가 게임 생태계의 '심사 기준'과 '윤리적 경계'를 어떻게 흔드는지 극명하게 보여줍니다. 고전 게임기용 인디 개발자들의 축제였던 '아타리 홈브루 어워드'가 AI 제작 게임 급증에 따른 심사 기준 붕괴를 이유로 8년 만에 중단을 선언했습니다. EA 역시 『EA 스포츠 FC 27』에 고(故) 존 모트슨 해설위원의 음성을 생성형 AI로 복원해 넣자 유족의 환영과 달리 일부 팬들은 불쾌감을 드러내며 거센 찬반 논쟁이 붙었습니다. 반면 『심시티』와 『심즈』의 거장 윌 라이트는 지인의 행동을 AI가 제어하는 기억 기반 시뮬레이션 『MyMems』를 공개하며 AI를 새로운 게임성의 도구로 제시했습니다. 이제 시장은 AI 사용 여부 자체가 아니라 '창작의 투명성과 인간의 맥락을 어디까지 지키느냐'를 두고 새로운 합의를 요구받고 있습니다.\n\n전통적 AAA 시장에서는 흥행의 집중과 비용 구조의 경직이 동시에 심화되고 있습니다. 『GTA 6』는 일본 주간 소프트웨어 판매 1위 직행과 함께 출시 첫날 약 6,000억 엔에 달하는 천문학적 매출을 기록했지만, 정작 개발사 락스타 게임즈 내부에서는 IWGB 노조 인정 투표가 찬성 25%로 부결되며 노사 간 진통이 이어졌습니다. 여기에 S&P 글로벌은 콘솔 제조사들의 가격 인하가 최소 2028년까지 어려울 것이라는 전망을 내놓으며, 고가의 하드웨어 진입 장벽이 당분간 신규 유저 유입을 제약할 것임을 시사했습니다.\n\n**이런 환경에서 한국이 게임산업을 '국가전략콘텐츠자산'으로 지정해 제작비 세제 지원과 불법 사설서버 대응을 법제화하려는 움직임은 시의적절한 방향 전환입니다.** AI로 인한 창작 생태계 재편과 고비용 하드웨어·AAA 시장 양극화가 동시에 진행되는 지금, 각국 정부와 개발사 모두 '지속 가능한 제작 기반'과 '유저 신뢰를 지키는 기술 기준'을 함께 세워야만 다음 사이클의 주도권을 잡을 수 있습니다."
+    },
+    "gamescene": {
+      "enabled": false,
+      "game": "",
+      "title": "",
+      "imgUrl": "",
+      "comment": ""
+    },
+    "meme": {
+      "enabled": false,
+      "items": []
+    },
+    "soundtrack": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "trailer": {
+      "enabled": false,
+      "title": "",
+      "channel": "",
+      "videoId": "",
+      "url": "",
+      "thumbnail": "",
+      "comment": ""
+    },
+    "epic": {
+      "enabled": true,
+      "title": "파이어스톤 (Firestone: Online Idle RPG)",
+      "url": "https://store.epicgames.com/ko/p/firestone-online-idle-rpg-bfd04b",
+      "thumbnail": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-ed9ba.jpg",
+      "comment": "🎁 **이번 주 에픽 무료 배포**: **파이어스톤(Firestone: Online Idle RPG)** & **Bread and Fred** (2026-12-04 01:00 KST까지)\n영웅을 수집·성장시키는 멀티플레이어 방치형 판타지 RPG 『파이어스톤』과 두 마리 펭귄이 로프로 이어져 설산 정상을 오르는 유쾌한 협동 플랫포머 『Bread and Fred』 2종을 무료로 소장할 수 있습니다.\n⏭️ **다음 주 예고**: 기이한 골동품을 감정하며 어두운 미스터리를 푸는 『Strange Antiquities』 (12월 4일 01:00 KST부터)\n\n**스팀 주말 혜택**: SF 인터랙티브 드라마 명작 『Detroit: Become Human』 90% 역대급 할인 중! (2026-12-01 03:00 KST까지)",
+      "steam_deal": {
+        "type": "deal",
+        "name": "Detroit: Become Human",
+        "app_id": 1222140,
+        "url": "https://store.steampowered.com/app/1222140",
+        "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479",
+        "discount_percent": 90,
+        "original_price": 4550000,
+        "final_price": 455000,
+        "end_date": "2026-12-01 03:00"
+      },
+      "epic_current": [
+        {
+          "title": "파이어스톤 (Firestone: Online Idle RPG)",
+          "description": "Firestone: Online Idle RPG는 방치형 RPG 멀티플레이어 판타지 게임입니다. 영웅 수집🧙‍♂️, 영웅의 장비 및 스킬 업그레이드, 방치형 전투 참여, 신나는 증분형 클리커 경험으로 거대한 보스를 쓰러뜨리세요! 길드원 채팅, PVP 참가도 가능하죠. ⚔️ 마음껏 선택하세요!",
+          "url": "https://store.epicgames.com/ko/p/firestone-online-idle-rpg-bfd04b",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-ed9ba.jpg",
+          "end_date": "2026-12-04 01:00"
+        },
+        {
+          "title": "Bread and Fred",
+          "description": "Grab your best bud for help in this new co-op challenge to help two adorable penguins, Bread and Fred, reach the top of the snowy summit. Time your jumps, cling to walls and swing across gaps to see how far you can make it before you tumble all the way back down the mountain.",
+          "url": "https://store.epicgames.com/ko/p/bread-and-fred-1db362",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-3jnwn.jpg",
+          "end_date": "2026-12-04 01:00"
+        }
+      ],
+      "epic_upcoming": [
+        {
+          "title": "Strange Antiquities",
+          "description": "Strange Antiquities is a game set in Undermere, where you explore occult artifacts and solve dark mysteries. As an apprentice thaumaturge, you'll identify magical items and help townsfolk. A sequel to Strange Horticulture, it blends exploration to uncover strange secrets.",
+          "url": "https://store.epicgames.com/ko/p/strange-antiquities-e37660",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/d0e3b7c3690c485ca7a435d298262ab2/strange-antiquities-1kl5s.png",
+          "start_date": "2026-12-04 01:00"
+        }
+      ],
+      "epic_discounted": [
+        {
+          "title": "TerraScape",
+          "description": "아늑한 중세 도시 건설 퍼즐에서 건물을 전략적으로 배치해 하늘에 떠 있는 섬에 아름다운 왕국을 건설하세요. 숨겨진 조합을 발견하고, 주간 도전에 도전하며, 다양한 싱글플레이 및 멀티플레이 모드에서 무작위로 생성되는 맵을 탐험할 수 있습니다.",
+          "url": "https://store.epicgames.com/ko/p/terrascape-2b12b1",
+          "thumbnail": "https://cdn1.epicgames.com/spt-assets/a740a2eed807469f88b9dff17e7cd3a3/terrascape-j7p8d.png",
+          "end_date": "2026-12-22 01:00",
+          "discount_percent": 70
+        }
+      ]
+    },
+    "chart": {
+      "enabled": false,
+      "pc": [],
+      "console": [],
+      "mobile": []
+    },
+    "newsletter_feedback": {
+      "enabled": true,
+      "question": "",
+      "upLabel": "",
+      "downLabel": ""
+    }
+  },
+  "translations": {
+    "en": {
+      "calendar": {
+        "releases.0.game": "Hadean Tactics",
+        "releases.0.note": "Having surpassed 100,000 copies sold on Steam, this roguelike deckbuilder blending card strategy with real-time auto-battler combat launched on Nintendo Switch on November 26.",
+        "releases.0.dev": "Emberfish Games",
+        "releases.1.game": "Piece and Quiet: A Stained Glass Restoration",
+        "releases.1.note": "A cozy first-person puzzle game about dusting, matching, and restoring six ornate stained glass windows inside a ruined mountain chapel launches on Steam on November 27.",
+        "releases.1.dev": "Vahov games / Spaghetti Cat",
+        "releases.2.game": "Starship Crafter",
+        "releases.2.note": "A space mechanic simulation where you craft components, build starships, and take on galactic faction contracts to pay off inherited debt launches on Steam on November 27.",
+        "releases.2.dev": "Rysesoft / PlayWay S.A.",
+        "releases.3.game": "Winx Club - Moonlight Quest",
+        "releases.3.note": "An action-adventure game based on the popular animated series where you play as Bloom, transform, and uncover the mysteries of the 100 Moons festival launches on Steam on November 29.",
+        "releases.3.dev": "Balio Studio",
+        "releases.4.game": "Orion Blue",
+        "releases.4.note": "A relaxing alien-planet fishing exploration and idle adventure where you catch exotic fish, gather resources, and bond with local residents launches on Steam on November 29.",
+        "releases.4.dev": "EXLIX",
+        "events.0.name": "2026 PMGC (PUBG Mobile Global Championship)",
+        "events.0.note": "Krafton's premier global PUBG Mobile esports tournament featuring 39 teams competing for a $3 million prize pool",
+        "events.0.venue": "Istanbul, Turkey",
+        "events.1.name": "AGF 2026 (Anime X Game Festival)",
+        "events.1.note": "Korea's largest anime and game subculture festival featuring booths and live stages from Smilegate, Valofe, and major brands",
+        "events.1.venue": "KINTEX, Ilsan, South Korea"
+      },
+      "briefing": {
+        "items.0.title": "South Korea Proposes Special Bill to Designate Games as Strategic Content Assets with Tax Incentives",
+        "items.0.source": "GameMeca",
+        "items.0.time": "2026-11-26",
+        "items.1.title": "Atari Homebrew Awards Halted After Eight Years Amid Surge of AI-Generated Entries",
+        "items.1.source": "GameMeca",
+        "items.1.time": "2026-11-26",
+        "items.2.title": "Rockstar Games Staff Vote Against Union Recognition Deal with 75% Opposed",
+        "items.2.source": "GamesIndustry.biz",
+        "items.2.time": "2026-11-26",
+        "items.3.title": "EA Sports FC 27 Adds AI-Recreated Voice of Late Commentator John Motson, Sparking Fan Debate",
+        "items.3.source": "GamesIndustry.biz",
+        "items.3.time": "2026-11-25",
+        "items.4.title": "S&P Global: Console Hardware Price Cuts Unlikely Until at Least 2028",
+        "items.4.source": "GamesIndustry.biz",
+        "items.4.time": "2026-11-25",
+        "items.5.title": "The Sims Creator Will Wright Unveils Memory-Based AI Simulation Game MyMems",
+        "items.5.source": "4Gamer",
+        "items.5.time": "2026-11-26",
+        "items.6.title": "GTA 6 Tops Japan's Weekly Software Charts After Generating ~600 Billion Yen on Launch Day",
+        "items.6.source": "Famitsu",
+        "items.6.time": "2026-11-26"
+      },
+      "drk": {
+        "title": "AI's Creative Boundaries and Mega-Hit Pressures: Three Fault Lines Reshaping Industry Rules",
+        "intro": "While a flood of AI-generated entries forced an eight-year indie awards program to shut down, industry veterans and sports giants are weaving AI directly into gameplay and commentary. Meanwhile, GTA 6's historic launch sits alongside labor friction and prolonged console pricing pressure.",
+        "points": "Today's headlines highlight how generative AI is disrupting both creative standards and ethical boundaries across gaming. The Atari Homebrew Awards, an eight-year showcase for retro indie developers, has suspended operations after an influx of AI-generated submissions made judging criteria unsustainable. Similarly, Electronic Arts' decision to resurrect late football commentator John Motson's voice via generative AI in EA Sports FC 27 drew approval from his family alongside sharp criticism from players. Yet Will Wright, creator of SimCity and The Sims, unveiled MyMems—a memory-driven simulation where AI powers characters modeled after real acquaintances—signaling that AI's role is shifting from whether it is used to how transparency and human context are preserved.\n\nAcross traditional AAA markets, blockbuster concentration and rigid cost structures are sharpening simultaneously. Even as GTA 6 debuted atop Japan's weekly charts following roughly 600 billion yen in day-one global revenue, Rockstar Games employees voted 75% against recognizing the IWGB union, leaving workplace tensions unresolved. Compounding market friction, S&P Global projects that console manufacturers are unlikely to cut hardware prices until at least 2028, keeping entry barriers high for new audiences.\n\n**Against this backdrop, South Korea's proposed legislation to designate games as National Strategic Content Assets—adding production tax credits and anti-piracy support—is a timely structural move.** As AI reshapes creative ecosystems and high hardware costs polarize the AAA market, sustainable development support and clear trust standards will determine who leads the next industry cycle."
+      },
+      "epic": {
+        "comment": "🎁 **Epic Free Games This Week**: **Firestone: Online Idle RPG** & **Bread and Fred** (Until December 3, 16:00 UTC)\nClaim both multiplayer fantasy idle RPG Firestone and the chaotic rope-tethered co-op mountain climber Bread and Fred for free this week.\n⏭️ **Next Week**: Occult artifact appraisal mystery Strange Antiquities (Starts December 3, 16:00 UTC)\n\n**Steam Weekend Deals**: Acclaimed sci-fi interactive drama Detroit: Become Human is 90% off! (Until November 30, 18:00 UTC)"
+      }
+    },
+    "ja": {
+      "calendar": {
+        "releases.0.game": "Hadean Tactics",
+        "releases.0.note": "Steamで10万本以上を売り上げたカードデッキ構築×リアルタイムオートバトルのローグライク戦略ゲームが、11月26日にNintendo Switch向けに発売されました。",
+        "releases.0.dev": "Emberfish Games",
+        "releases.1.game": "Piece and Quiet: A Stained Glass Restoration",
+        "releases.1.note": "廃墟となった山間の礼拝堂にある6枚のステンドグラスを、埃を払って色と形に合わせて修復していく癒やし系一人称パズルゲームが11月27日にSteamで発売されます。",
+        "releases.1.dev": "Vahov games / Spaghetti Cat",
+        "releases.2.game": "Starship Crafter",
+        "releases.2.note": "宇宙船の整備士としてパーツを製作・建造し、銀河系各勢力からの依頼をこなして莫大な借金を返済していくシミュレーションゲームが11月27日にSteamで発売されます。",
+        "releases.2.dev": "Rysesoft / PlayWay S.A.",
+        "releases.3.game": "Winx Club - Moonlight Quest",
+        "releases.3.note": "人気アニメIPを原作に、主人公ブルームとして変身しオープンワールドを探索しながら「100の月の祭り」の謎に迫るアクションアドベンチャーが11月29日にSteamで発売されます。",
+        "releases.3.dev": "Balio Studio",
+        "releases.4.game": "Orion Blue",
+        "releases.4.note": "美しい異星を舞台に、多彩な魚釣りや資源収集を楽しみながら住民たちとの絆を深めていく釣り探索・放置系アドベンチャーが11月29日にSteamで発売されます。",
+        "releases.4.dev": "EXLIX",
+        "events.0.name": "2026 PMGC（PUBG Mobile Global Championship）",
+        "events.0.note": "Krafton主催で世界39チームが賞金総額300万ドルを懸けて激突する『PUBG MOBILE』最高峰のグローバルeスポーツ大会",
+        "events.0.venue": "トルコ・イスタンブール",
+        "events.1.name": "AGF 2026（Anime X Game Festival）",
+        "events.1.note": "スマイルゲートやヴァロフなど主要ゲーム各社とサブカルチャーブランドが集結する韓国最大級のアニメ×ゲームフェス",
+        "events.1.venue": "韓国・一山 KINTEX"
+      },
+      "briefing": {
+        "items.0.title": "韓国でゲーム産業の「国家戦略コンテンツ資産」指定を推進…制作費の税制支援特別法を発議",
+        "items.0.source": "GameMeca",
+        "items.0.time": "2026-11-26",
+        "items.1.title": "AI生成ゲームの急増により、8年続いた「Atari Homebrew Awards」が中止に",
+        "items.1.source": "GameMeca",
+        "items.1.time": "2026-11-26",
+        "items.2.title": "Rockstar Games従業員の労働組合承認投票、反対75%・賛成25%で否決",
+        "items.2.source": "GamesIndustry.biz",
+        "items.2.time": "2026-11-26",
+        "items.3.title": "EA『EA Sports FC 27』、故ジョン・モトソン氏の実況をAIで復元・実装し賛否両論",
+        "items.3.source": "GamesIndustry.biz",
+        "items.3.time": "2026-11-25",
+        "items.4.title": "S&P Global「家庭用ゲーム機本体の値下げは早くとも2028年まで期待薄」",
+        "items.4.source": "GamesIndustry.biz",
+        "items.4.time": "2026-11-25",
+        "items.5.title": "『ザ・シムズ』生みの親ウィル・ライト氏の新作『MyMems』発表…記憶ベースのAIシミュレーション",
+        "items.5.source": "4Gamer",
+        "items.5.time": "2026-11-26",
+        "items.6.title": "『GTA 6』日本の週間ソフト販売でも首位発進…世界発売初日売上は約6,000億円を記録",
+        "items.6.source": "ファミ通",
+        "items.6.time": "2026-11-26"
+      },
+      "drk": {
+        "title": "AI創作の境界線とメガヒットの陰影：ゲーム産業のルールを塗り替える3つの亀裂",
+        "intro": "AI生成ゲームの急増によって8年の歴史を持つインディー賞が中断に追い込まれる一方、著名クリエイターや大手スポーツタイトルはAIを新たな表現手段として取り込んでいます。同時に『GTA 6』の記録的ヒットの裏では、労使問題やハード高価格の長期化という構造課題も浮かび上がっています。",
+        "points": "本日のグローバルニュースは、生成AIがゲーム業界の「審査基準」と「倫理的境界」をいかに揺さぶっているかを鮮明に映し出しています。レトロ機向けインディー開発者の祭典「Atari Homebrew Awards」は、AI製作品の急増で審査基準の維持が困難になったとして8年目の開催中止を決定しました。EAも『EA Sports FC 27』で故ジョン・モトソン氏の音声をAI復元したことで遺族の歓迎と一部ファンの反発が交錯しています。対照的に『シムシティ』『ザ・シムズ』のウィル・ライト氏は、知人をモデルにしたAIキャラクターが動く新作『MyMems』を発表しました。もはや論点はAI使用の有無ではなく、「創作の透明性と人間的文脈をどう守るか」へと移っています。\n\n一方で従来のAAA市場では、メガヒットへの一極集中とコスト構造の硬直が一段と進んでいます。『GTA 6』は日本の週間販売ランキングでも首位に立ち、発売初日だけで約6,000億円規模の売上を記録しましたが、開発元Rockstar Gamesでは労働組合の承認投票が賛成25%で否決されるなど労使間の緊張が続いています。さらにS&P Globalは家庭用ゲーム機の値下げが少なくとも2028年まで見込めないと分析しており、高いハード導入コストが新規層拡大の壁となる見通しです。\n\n**こうした局面で、韓国がゲーム産業を「国家戦略コンテンツ資産」に指定し制作費の税制支援と違法サーバー対策を法制化しようとする動きは、時宜を得た構造対策と言えます。** AIによる制作環境の再編とハード高騰が重なる今、持続可能な開発基盤とユーザーの信頼を守る基準づくりが次の勝敗を分けるでしょう。"
+      },
+      "epic": {
+        "comment": "🎁 **今週のEpic無料配布**: 『Firestone: Online Idle RPG』＆『Bread and Fred』（2026年12月4日 01:00 JSTまで）\n英雄を集めて育成するマルチプレイ放置系ファンタジーRPG『Firestone』と、2羽のペンギンがロープで繋がれ雪山登頂を目指す協力アクション『Bread and Fred』の2作品が無料配布中です。\n⏭️ **来週の予告**: 怪奇な骨董品を鑑定して謎を解く『Strange Antiquities』（12月4日 01:00 JSTより配布開始）\n\n**Steam週末セール情報**: 名作SFインタラクティブドラマ『Detroit: Become Human』が90%オフの特別セール中！（2026年12月1日 03:00 JSTまで）"
+      }
+    }
+  },
+  "email_subject": {
+    "ko": "AI 게임 범람에 멈춘 시상식, 락스타 노조 투표 부결 & GTA 6 첫날 6,000억 엔 돌파 ⚡",
+    "en": "AI Surge Halts Indie Awards, Rockstar Rejects Union & GTA 6 Hits ¥600B Day One ⚡",
+    "ja": "AIゲーム急増でインディー賞中止、Rockstar労組投票否決＆GTA 6初日約6,000億円 ⚡"
+  },
+  "languages": [
+    "ko",
+    "en",
+    "ja"
+  ]
+}
