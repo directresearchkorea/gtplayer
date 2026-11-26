@@ -415,5 +415,62 @@
     "ko",
     "en",
     "ja"
-  ]
+  ],
+  "social": {
+    "x": {
+      "results": {
+        "ko": {
+          "posted": false,
+          "text": "AI 게임 범람에 8년 이어온 아타리 어워드가 멈췄네요 🎮\n『GTA 6』 첫날 6,000억 엔 돌파와 락스타 노조 투표 부결까지 오늘 핵심 소식 모음! ⚡\n\nhttps://www.gtplayer.net/edition-172/\n#GTA6 #아타리어워드 #GTPlayer",
+          "error": "Posting failed or blocked"
+        }
+      },
+      "updated_at": "2026-11-27T06:13:31.544724"
+    },
+    "instagram": {
+      "results": {
+        "carousel": {
+          "caption": "11월 27일 오늘의 게임 소식 🎮\n\n📰 [뉴스] 아타리 어워드 AI 범람으로 중단 · 락스타 노조 투표 부결 · GTA 6 일본 판매 1위\n📅 [출시] 하데안 택틱스 Switch · Starship Crafter · 오리온 블루\n✍️ [인사이트] AI 창작의 경계선과 메가 히트의 그림자: 산업 규칙을 다시 쓰는 세 가지 균열\n\n👉 옆으로 넘겨서 카드 뉴스를 확인하세요!\n🔗 전체 뉴스레터 링크는 프로필에서\n\n#게임뉴스 #게임덕후 #게임추천 #신작게임 #인디게임 #GTA6 #락스타게임즈 #아타리 #EAFC27 #심즈 #윌라이트 #하데안택틱스 #스타쉽크래프터 #오리온블루 #콘솔게임 #스팀게임 #생성형AI #게임개발 #게임산업 #GTPlayer",
+          "image_paths": [
+            "web/instagram/edition_172/card_cover.png",
+            "web/instagram/edition_172/card_news.png",
+            "web/instagram/edition_172/card_calendar.png",
+            "web/instagram/edition_172/card_drk.png"
+          ],
+          "posted": false,
+          "data": {
+            "success": false,
+            "id": null,
+            "url": null,
+            "error": "Instagram (instagrapi) 업로드 실패: Manual verification required via Instagram native challenge flow. This checkpoint is not handled by challenge_code_handler or change_password_handler; complete it in the official Instagram app or web flow on a trusted device. Retry with the same saved client settings, device identifiers, and proxy/IP."
+          },
+          "error": "Instagram (instagrapi) 업로드 실패: Manual verification required via Instagram native challenge flow. This checkpoint is not handled by challenge_code_handler or change_password_handler; complete it in the official Instagram app or web flow on a trusted device. Retry with the same saved client settings, device identifiers, and proxy/IP."
+        }
+      },
+      "freegames_results": {
+        "success": false,
+        "id": null,
+        "url": null,
+        "error": "Instagram (instagrapi) 업로드 실패: Manual verification required via Instagram native challenge flow. This checkpoint is not handled by challenge_code_handler or change_password_handler; complete it in the official Instagram app or web flow on a trusted device. Retry with the same saved client settings, device identifiers, and proxy/IP."
+      },
+      "updated_at": "2026-11-27T06:14:07.877841",
+      "freegames_updated_at": "2026-11-27T06:14:29.023542"
+    },
+    "linkedin": {
+      "results": {
+        "posted": true,
+        "text": "AI Surge Halts Indie Awards, Rockstar Rejects Union & GTA 6 Hits ¥600B Day One ⚡\n\nA wave of AI-generated entries has forced the Atari Homebrew Awards to halt after eight years, while Will Wright unveils his memory-based AI sim MyMems and Rockstar Games staff vote 75% against union recognition amid GTA 6's historic launch.\n\nhttps://www.gtplayer.net/edition-172-en/",
+        "error": null
+      },
+      "updated_at": "2026-11-27T06:15:01.451760"
+    },
+    "youtube_community": {
+      "results": {
+        "posted": false,
+        "text": "🔥 AI 게임 범람으로 8년 역사의 아타리 홈브루 어워드가 중단되고, 락스타 게임즈 노조 인정 투표가 부결되는 등 격변의 게임 소식이 쏟아졌습니다!\n\n주요 뉴스 요약:\n- 한국 게임산업 '국가전략콘텐츠자산' 지정 특별법 발의\n- EA FC 27, AI로 복원한 고(故) 존 모트슨 해설 도입 논쟁\n- 심즈 창시자 윌 라이트, 기억 기반 AI 신작 MyMems 공개\n- 이번 주 에픽 무료 게임 2종 & 스팀 디트로이트 비컴 휴먼 90% 특가까지!\n\n🎮 전체 캘린더와 상세 기사는 아래 뉴스레터에서 확인해 보세요!\n👉 https://www.gtplayer.net/edition-172/",
+        "error": "YouTube Community posting failed"
+      },
+      "updated_at": "2026-11-27T06:15:10.871895"
+    }
+  }
 }
